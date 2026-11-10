@@ -1515,8 +1515,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00793703",
+  "committee_name": "ANDREA SALINAS FOR OREGON",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1984298.52,
+  "amounts": {
+   "individuals_200_or_less": 236781.32,
+   "individuals_over_200": 909891.1,
+   "pacs_and_parties": 809119.55,
+   "candidate_own": 7.0,
+   "transfers_from_authorized": 5930.63,
+   "other_receipts": 2.08
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    12
+   ],
+   [
+    "Individuals giving more than $200",
+    47
+   ],
+   [
+    "PACs and party committees",
+    41
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 736864.6,
+   "home_state": "OR",
+   "home_state_total": 377982.06,
+   "home_state_share": 51,
+   "top": [
+    {
+     "state": "OR",
+     "state_full": "Oregon",
+     "total": 377982.06,
+     "count": 1791
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 69345.83,
+     "count": 167
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 62535.0,
+     "count": 94
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 61075.0,
+     "count": 41
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 35450.0,
+     "count": 73
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 24239.0,
+     "count": 75
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 17862.5,
+     "count": 29
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 14010.0,
+     "count": 11
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 10425.0,
+     "count": 12
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 8600.0,
+     "count": 13
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "METRO WEST AMBULANCE",
+     "total": 8000.0,
+     "count": 4
+    },
+    {
+     "employer": "LINKEDIN",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "Q PRIME INC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "KALSHI",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ALSOP LOUIE PARTNERS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MARQUIS ENERGY INC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SIGNAL GROUP",
+     "total": 5500.0,
+     "count": 3
+    },
+    {
+     "employer": "HKM EMPLOYMENT ATTORNEYS LLP",
+     "total": 4500.0,
+     "count": 3
+    },
+    {
+     "employer": "DIGITAL VISION INC",
+     "total": 4000.0,
+     "count": 4
+    },
+    {
+     "employer": "CAPITOL COUNSEL LLC",
+     "total": 4000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -1648,8 +1648,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00474189",
+  "committee_name": "MIKE KELLY FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1414934.57,
+  "amounts": {
+   "individuals_200_or_less": 4430.53,
+   "individuals_over_200": 328681.7,
+   "pacs_and_parties": 1078167.06,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 0.04
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    0
+   ],
+   [
+    "Individuals giving more than $200",
+    23
+   ],
+   [
+    "PACs and party committees",
+    77
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 287831.7,
+   "home_state": "PA",
+   "home_state_total": 69275.0,
+   "home_state_share": 24,
+   "top": [
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 69275.0,
+     "count": 57
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 41021.15,
+     "count": 52
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 31083.65,
+     "count": 13
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 30000.0,
+     "count": 14
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 20000.0,
+     "count": 9
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 19150.0,
+     "count": 9
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 16750.0,
+     "count": 28
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 10500.0,
+     "count": 18
+    },
+    {
+     "state": "KY",
+     "state_full": "Kentucky",
+     "total": 7300.0,
+     "count": 3
+    },
+    {
+     "state": "UT",
+     "state_full": "Utah",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "THE PARKER FOUNDATION",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ALLIANT",
+     "total": 11000.0,
+     "count": 4
+    },
+    {
+     "employer": "DAVITA",
+     "total": 8250.0,
+     "count": 7
+    },
+    {
+     "employer": "ALLIANTGROUP, LP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "O'BRIEN AUTOMOTIVE TEAM",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ARSEN CAPITAL PARTNERS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "CAROLYN ROWAN COLLECTION, LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "APOLLO MANAGEMENT",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ANDERSON COACH & TRAVEL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ELLWOOD FORGE",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -2161,8 +2161,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00887547",
+  "committee_name": "NELLIE POU FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 3131321.73,
+  "amounts": {
+   "individuals_200_or_less": 260776.07,
+   "individuals_over_200": 1445317.32,
+   "pacs_and_parties": 1249829.44,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 158691.83,
+   "other_receipts": 16037.1
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    9
+   ],
+   [
+    "Individuals giving more than $200",
+    49
+   ],
+   [
+    "PACs and party committees",
+    42
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1370307.8,
+   "home_state": "NJ",
+   "home_state_total": 411968.13,
+   "home_state_share": 30,
+   "top": [
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 411968.13,
+     "count": 597
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 212185.8,
+     "count": 135
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 203782.35,
+     "count": 207
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 120824.69,
+     "count": 156
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 92906.67,
+     "count": 149
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 50262.72,
+     "count": 81
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 41741.66,
+     "count": 27
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 34736.32,
+     "count": 41
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 25488.08,
+     "count": 61
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 24487.5,
+     "count": 44
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "BOB CIASULLI AUTO GROUP",
+     "total": 11500.0,
+     "count": 5
+    },
+    {
+     "employer": "WINNING STRATEGIES WASHINGTON",
+     "total": 11050.0,
+     "count": 8
+    },
+    {
+     "employer": "FOUNDATION RISK PARTNERS",
+     "total": 9000.0,
+     "count": 6
+    },
+    {
+     "employer": "WILLIAM KISTLER CHARITABLE FUND",
+     "total": 8153.85,
+     "count": 3
+    },
+    {
+     "employer": "U.S. SENATE",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ARCHER FINANCIAL LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "NACHMAN & GUILLEMARD PSC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "JANESTREET",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PEAK6 INVESTMENTS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "STREAM LINE CIRCLE LLC",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -92,8 +92,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00500843",
+  "committee_name": "WARREN FOR SENATE, INC.",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 4965731.1,
+  "amounts": {
+   "individuals_200_or_less": 3091486.58,
+   "individuals_over_200": 1679286.15,
+   "pacs_and_parties": 25000.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 107000.0,
+   "other_receipts": 58482.94
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    64
+   ],
+   [
+    "Individuals giving more than $200",
+    35
+   ],
+   [
+    "PACs and party committees",
+    1
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1493252.85,
+   "home_state": "MA",
+   "home_state_total": 394339.26,
+   "home_state_share": 26,
+   "top": [
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 394339.26,
+     "count": 7420
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 281140.56,
+     "count": 8001
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 93473.13,
+     "count": 2898
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 58303.0,
+     "count": 1826
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 41208.33,
+     "count": 1169
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 41064.98,
+     "count": 1147
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 40237.17,
+     "count": 1054
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 39778.82,
+     "count": 1258
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 36462.0,
+     "count": 871
+    },
+    {
+     "state": "OR",
+     "state_full": "Oregon",
+     "total": 33625.03,
+     "count": 995
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ALSOP LOUIE PARTNERS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "TEI",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "LIFE YIELD",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ANALYSIS GROUP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SCALED AGILE INC.",
+     "total": 5000.0,
+     "count": 2
+    },
+    {
+     "employer": "MIT/HARVARD",
+     "total": 4058.33,
+     "count": 9
+    },
+    {
+     "employer": "UNIVERSITY OF PENNSYLVANIA",
+     "total": 3535.0,
+     "count": 20
+    },
+    {
+     "employer": "CONRAD LLC",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "AMERICAN NATIONAL CORPORATION",
+     "total": 3300.0,
+     "count": 1
+    },
+    {
+     "employer": "SMITHSONIAN ASTROPHYSICAL OBSERVATORY",
+     "total": 2466.03,
+     "count": 7
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

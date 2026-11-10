@@ -2415,8 +2415,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00379735",
+  "committee_name": "COLE FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 4281680.96,
+  "amounts": {
+   "individuals_200_or_less": 118885.87,
+   "individuals_over_200": 2120183.87,
+   "pacs_and_parties": 1844829.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 149163.81,
+   "other_receipts": 48508.91
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    3
+   ],
+   [
+    "Individuals giving more than $200",
+    52
+   ],
+   [
+    "PACs and party committees",
+    45
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 2118540.67,
+   "home_state": "OK",
+   "home_state_total": 643076.25,
+   "home_state_share": 30,
+   "top": [
+    {
+     "state": "OK",
+     "state_full": "Oklahoma",
+     "total": 643076.25,
+     "count": 800
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 277000.0,
+     "count": 191
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 248581.75,
+     "count": 154
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 229146.5,
+     "count": 164
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 94940.0,
+     "count": 80
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 89733.77,
+     "count": 58
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 82975.0,
+     "count": 52
+    },
+    {
+     "state": "NE",
+     "state_full": "Nebraska",
+     "total": 78400.0,
+     "count": 49
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 50442.0,
+     "count": 43
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 37300.0,
+     "count": 16
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "INDIAN TRIBE",
+     "total": 187150.0,
+     "count": 78
+    },
+    {
+     "employer": "LOCKHEED MARTIN",
+     "total": 35000.0,
+     "count": 30
+    },
+    {
+     "employer": "CHICKASAW NATION",
+     "total": 34100.0,
+     "count": 36
+    },
+    {
+     "employer": "CORVID TECHNOLOGIES",
+     "total": 25000.0,
+     "count": 10
+    },
+    {
+     "employer": "SILENCER SHOP",
+     "total": 24500.0,
+     "count": 16
+    },
+    {
+     "employer": "SENIOR STAR",
+     "total": 21000.0,
+     "count": 8
+    },
+    {
+     "employer": "BLACKSTONE",
+     "total": 20500.0,
+     "count": 11
+    },
+    {
+     "employer": "NELNET INC",
+     "total": 20000.0,
+     "count": 12
+    },
+    {
+     "employer": "ORACLE",
+     "total": 17500.0,
+     "count": 5
+    },
+    {
+     "employer": "CORNERSTONE GOVERNMENT AFFAIRS",
+     "total": 16000.0,
+     "count": 12
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

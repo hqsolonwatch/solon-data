@@ -1683,8 +1683,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00444620",
+  "committee_name": "FRIENDS OF GLENN THOMPSON",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2152943.64,
+  "amounts": {
+   "individuals_200_or_less": 50003.22,
+   "individuals_over_200": 831675.41,
+   "pacs_and_parties": 1194868.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 73502.73,
+   "other_receipts": 432.83
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    2
+   ],
+   [
+    "Individuals giving more than $200",
+    40
+   ],
+   [
+    "PACs and party committees",
+    58
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 769532.29,
+   "home_state": "PA",
+   "home_state_total": 408889.08,
+   "home_state_share": 53,
+   "top": [
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 408889.08,
+     "count": 397
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 52868.0,
+     "count": 47
+    },
+    {
+     "state": "MS",
+     "state_full": "Mississippi",
+     "total": 40495.0,
+     "count": 61
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 29240.0,
+     "count": 13
+    },
+    {
+     "state": "OT",
+     "state_full": "Other",
+     "total": 25492.09,
+     "count": 41
+    },
+    {
+     "state": "IN",
+     "state_full": "Indiana",
+     "total": 23262.5,
+     "count": 15
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 21000.0,
+     "count": 9
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 20350.0,
+     "count": 11
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 18300.0,
+     "count": 16
+    },
+    {
+     "state": "OK",
+     "state_full": "Oklahoma",
+     "total": 12888.0,
+     "count": 8
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "GS FOODS GROUP",
+     "total": 10780.0,
+     "count": 5
+    },
+    {
+     "employer": "COINBASE",
+     "total": 10100.0,
+     "count": 3
+    },
+    {
+     "employer": "KRIEBEL GAS",
+     "total": 10000.0,
+     "count": 8
+    },
+    {
+     "employer": "BEST LINE EQUIPMENT",
+     "total": 8000.0,
+     "count": 5
+    },
+    {
+     "employer": "PENN UNITED TOOL",
+     "total": 7600.0,
+     "count": 5
+    },
+    {
+     "employer": "ZIPPO MANUFACTURING",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SUPERIOR TIRE AND RUBBER COMPA",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "CLEARPATH",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "GREYSTONE BANK",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "ACCU WEATHER",
+     "total": 7000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

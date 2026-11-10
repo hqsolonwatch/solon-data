@@ -4,6 +4,7 @@
   2025,
   2026
  ],
+ "fetched_ts": 1794345859,
  "report_count": 23,
  "clients": [
   {
@@ -12,6 +13,7 @@
    "reports": 4,
    "latest_report_amount": 17960000.0,
    "latest_report": "96338377-b266-4f3c-9cc7-bb1e0b8f4024",
+   "latest_report_period": "2025 fourth_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -21,6 +23,7 @@
    "reports": 1,
    "latest_report_amount": 8000000.0,
    "latest_report": "0fcc85c0-4c5c-450c-9709-988b02544a2b",
+   "latest_report_period": "2025 first_quarter",
    "pac_ids": [
     "C00000422",
     "C00003194"
@@ -36,6 +39,7 @@
    "reports": 5,
    "latest_report_amount": 2250000.0,
    "latest_report": "beafe1c4-17f1-43c2-b820-7848d34fb34c",
+   "latest_report_period": "2025 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -45,6 +49,7 @@
    "reports": 4,
    "latest_report_amount": 60000.0,
    "latest_report": "62267310-2f75-43e7-a50b-f69c412e678e",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -54,6 +59,7 @@
    "reports": 2,
    "latest_report_amount": 30000.0,
    "latest_report": "5028722e-edb0-4085-a132-abb1d98a83c9",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [
     "C00166074"
    ],
@@ -63,10 +69,11 @@
   },
   {
    "client": "LG ELECTRONICS USA, INC.",
-   "display_name": "Lg Electronics USA",
+   "display_name": "LG Electronics USA",
    "reports": 2,
    "latest_report_amount": 30000.0,
    "latest_report": "5fe979bd-21b2-4def-a849-89b1cfc3a444",
+   "latest_report_period": "2025 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -76,6 +83,7 @@
    "reports": 3,
    "latest_report_amount": 20000.0,
    "latest_report": "f0a51b2f-d837-4c81-8b04-0e9b885d7597",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [
     "C00104687"
    ],
@@ -89,6 +97,7 @@
    "reports": 2,
    "latest_report_amount": 20000.0,
    "latest_report": "3e69efb1-ae04-49f7-b97a-e200a821f54f",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [
     "C00100974"
    ],
@@ -104,6 +113,7 @@
    "reports": 1,
    "latest_report_amount": 8000000.0,
    "latest_report": "0fcc85c0-4c5c-450c-9709-988b02544a2b",
+   "latest_report_period": "2025 first_quarter",
    "pac_ids": [
     "C00000422",
     "C00003194"
@@ -119,6 +129,7 @@
    "reports": 2,
    "latest_report_amount": 30000.0,
    "latest_report": "5028722e-edb0-4085-a132-abb1d98a83c9",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [
     "C00166074"
    ],
@@ -132,6 +143,7 @@
    "reports": 3,
    "latest_report_amount": 20000.0,
    "latest_report": "f0a51b2f-d837-4c81-8b04-0e9b885d7597",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [
     "C00104687"
    ],
@@ -145,6 +157,7 @@
    "reports": 2,
    "latest_report_amount": 20000.0,
    "latest_report": "3e69efb1-ae04-49f7-b97a-e200a821f54f",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [
     "C00100974"
    ],

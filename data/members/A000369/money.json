@@ -604,8 +604,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00496760",
+  "committee_name": "AMODEI FOR NEVADA",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 525367.7,
+  "amounts": {
+   "individuals_200_or_less": 977.7,
+   "individuals_over_200": 338640.0,
+   "pacs_and_parties": 185750.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    0
+   ],
+   [
+    "Individuals giving more than $200",
+    65
+   ],
+   [
+    "PACs and party committees",
+    35
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 339590.0,
+   "home_state": "NV",
+   "home_state_total": 226090.0,
+   "home_state_share": 67,
+   "top": [
+    {
+     "state": "NV",
+     "state_full": "Nevada",
+     "total": 226090.0,
+     "count": 169
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 30500.0,
+     "count": 12
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 22500.0,
+     "count": 19
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 18000.0,
+     "count": 15
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 6000.0,
+     "count": 5
+    },
+    {
+     "state": "SC",
+     "state_full": "South Carolina",
+     "total": 5000.0,
+     "count": 1
+    },
+    {
+     "state": "OK",
+     "state_full": "Oklahoma",
+     "total": 5000.0,
+     "count": 2
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 4000.0,
+     "count": 2
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 3500.0,
+     "count": 3
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 3500.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "BEAVERFIT",
+     "total": 17500.0,
+     "count": 4
+    },
+    {
+     "employer": "DI LORETO CONSTRUCTION AND DEV",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "employer": "SAVAGE AND SON, INC",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "J&J MECHANICAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "WATERFRONT GLOBAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PEAK CAPITAL",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "ATS COMMUNICATIONS",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "S-3 GROUP",
+     "total": 5000.0,
+     "count": 2
+    },
+    {
+     "employer": "TULIP INTERIORS AND DESIGN",
+     "total": 5000.0,
+     "count": 1
+    },
+    {
+     "employer": "PORTER GROUP",
+     "total": 4500.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -1523,8 +1523,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00799767",
+  "committee_name": "MENENDEZ FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2236501.68,
+  "amounts": {
+   "individuals_200_or_less": 28566.11,
+   "individuals_over_200": 1223235.22,
+   "pacs_and_parties": 886109.23,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 83900.0,
+   "other_receipts": 11367.57
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    1
+   ],
+   [
+    "Individuals giving more than $200",
+    57
+   ],
+   [
+    "PACs and party committees",
+    42
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1197754.18,
+   "home_state": "NJ",
+   "home_state_total": 483844.54,
+   "home_state_share": 40,
+   "top": [
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 483844.54,
+     "count": 440
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 340802.07,
+     "count": 158
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 72795.0,
+     "count": 96
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 71943.0,
+     "count": 38
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 64305.0,
+     "count": 61
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 31357.14,
+     "count": 35
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 25750.0,
+     "count": 12
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 19800.0,
+     "count": 24
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 19750.0,
+     "count": 8
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 13250.0,
+     "count": 17
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "LOWENSTEIN SANDLER LLP",
+     "total": 25000.0,
+     "count": 18
+    },
+    {
+     "employer": "LEFRAK",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
+     "employer": "LINDE-GRIFFITH",
+     "total": 15000.0,
+     "count": 6
+    },
+    {
+     "employer": "BGR GROUP",
+     "total": 14000.0,
+     "count": 17
+    },
+    {
+     "employer": "BLACKSTONE",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "SILLS CUMMIS & GROSS",
+     "total": 11800.0,
+     "count": 6
+    },
+    {
+     "employer": "APOLLO GLOBAL MANAGEMENT",
+     "total": 11500.0,
+     "count": 5
+    },
+    {
+     "employer": "WINNING STRATEGIES WASHINGTON",
+     "total": 10500.0,
+     "count": 5
+    },
+    {
+     "employer": "AMERICAN SPRAYTECH",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "TIBER CREEK GROUP",
+     "total": 9500.0,
+     "count": 5
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

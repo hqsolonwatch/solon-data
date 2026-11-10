@@ -3668,8 +3668,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00541862",
+  "committee_name": "JASON SMITH FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 6299171.08,
+  "amounts": {
+   "individuals_200_or_less": 292919.87,
+   "individuals_over_200": 1557828.35,
+   "pacs_and_parties": 3342275.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 986276.24,
+   "other_receipts": 106571.62
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    6
+   ],
+   [
+    "Individuals giving more than $200",
+    30
+   ],
+   [
+    "PACs and party committees",
+    64
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 2168732.81,
+   "home_state": "MO",
+   "home_state_total": 510129.31,
+   "home_state_share": 24,
+   "top": [
+    {
+     "state": "MO",
+     "state_full": "Missouri",
+     "total": 510129.31,
+     "count": 490
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 296934.1,
+     "count": 662
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 202006.29,
+     "count": 195
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 198922.1,
+     "count": 503
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 175519.66,
+     "count": 626
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 97270.1,
+     "count": 194
+    },
+    {
+     "state": "NV",
+     "state_full": "Nevada",
+     "total": 56529.56,
+     "count": 64
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 55031.05,
+     "count": 150
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 45454.02,
+     "count": 264
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 43571.25,
+     "count": 172
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "RYAN LLC",
+     "total": 53200.0,
+     "count": 37
+    },
+    {
+     "employer": "TRIBE",
+     "total": 39350.0,
+     "count": 16
+    },
+    {
+     "employer": "HERZOG",
+     "total": 38500.0,
+     "count": 11
+    },
+    {
+     "employer": "NORTHWESTERN MUTUAL",
+     "total": 29541.02,
+     "count": 26
+    },
+    {
+     "employer": "KPS CAPITAL PARTNERS",
+     "total": 26900.0,
+     "count": 9
+    },
+    {
+     "employer": "GOOGLE",
+     "total": 26250.0,
+     "count": 11
+    },
+    {
+     "employer": "ALLIANTGROUP, LP",
+     "total": 25500.0,
+     "count": 9
+    },
+    {
+     "employer": "TAX PROTECTION PLUS",
+     "total": 25000.0,
+     "count": 8
+    },
+    {
+     "employer": "THE VENETIAN RESORT",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
+     "employer": "ANDREESSEN HOROWITZ",
+     "total": 21000.0,
+     "count": 6
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

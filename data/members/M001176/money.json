@@ -653,8 +653,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00437277",
+  "committee_name": "JEFF MERKLEY FOR OREGON",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 5376935.12,
+  "amounts": {
+   "individuals_200_or_less": 1249148.3,
+   "individuals_over_200": 2877693.19,
+   "pacs_and_parties": 577645.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 238970.76,
+   "other_receipts": 414679.52
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    27
+   ],
+   [
+    "Individuals giving more than $200",
+    61
+   ],
+   [
+    "PACs and party committees",
+    12
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 2626516.74,
+   "home_state": "OR",
+   "home_state_total": 1780832.11,
+   "home_state_share": 68,
+   "top": [
+    {
+     "state": "OR",
+     "state_full": "Oregon",
+     "total": 1780832.11,
+     "count": 21771
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 183180.16,
+     "count": 1199
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 87236.72,
+     "count": 343
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 82182.0,
+     "count": 403
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 78916.0,
+     "count": 201
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 75416.5,
+     "count": 119
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 51453.34,
+     "count": 129
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 39860.14,
+     "count": 140
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 33809.0,
+     "count": 105
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 30470.14,
+     "count": 163
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "CORSON & JOHNSON",
+     "total": 14000.0,
+     "count": 7
+    },
+    {
+     "employer": "PAULSON COLETTI",
+     "total": 14000.0,
+     "count": 5
+    },
+    {
+     "employer": "KAFOURY & MCDOUGAL",
+     "total": 11500.0,
+     "count": 4
+    },
+    {
+     "employer": "INTEL",
+     "total": 7608.0,
+     "count": 30
+    },
+    {
+     "employer": "OHSU",
+     "total": 7007.5,
+     "count": 39
+    },
+    {
+     "employer": "OREGON FIRST REALTY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "METRO WEST AMBULA",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "FAMILY DENTAL CARE",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "CLIFFORD LAW OFFICES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SSI SHREDDING SYSTEMS INC",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

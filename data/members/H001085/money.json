@@ -1301,8 +1301,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00637371",
+  "committee_name": "CHRISSY HOULAHAN FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2086891.23,
+  "amounts": {
+   "individuals_200_or_less": 158248.89,
+   "individuals_over_200": 1086740.56,
+   "pacs_and_parties": 683184.05,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 910.99,
+   "other_receipts": 154909.53
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    8
+   ],
+   [
+    "Individuals giving more than $200",
+    56
+   ],
+   [
+    "PACs and party committees",
+    36
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 962308.74,
+   "home_state": "PA",
+   "home_state_total": 488621.47,
+   "home_state_share": 51,
+   "top": [
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 488621.47,
+     "count": 2281
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 121600.0,
+     "count": 65
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 98347.27,
+     "count": 129
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 69760.0,
+     "count": 35
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 39250.0,
+     "count": 36
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 22350.0,
+     "count": 21
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 20885.0,
+     "count": 19
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 20550.0,
+     "count": 9
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 13150.0,
+     "count": 33
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 13100.0,
+     "count": 14
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "MORGAN LEWIS & BOCKIUS, LLP",
+     "total": 14000.0,
+     "count": 3
+    },
+    {
+     "employer": "BLACKROCK",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "CHILDREN'S HOSPITAL OF PHILADELPHIA",
+     "total": 9000.0,
+     "count": 4
+    },
+    {
+     "employer": "ARNOLD VENTURES",
+     "total": 8750.0,
+     "count": 4
+    },
+    {
+     "employer": "ALL STAR PEDIATRICS",
+     "total": 8500.0,
+     "count": 3
+    },
+    {
+     "employer": "LINKEDIN",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PETER G. PETERSON FOUNDATION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "TA ASSOCIATES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "GOOGLE",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "THE CARSON FAMILY CHARITABLE TRUST",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

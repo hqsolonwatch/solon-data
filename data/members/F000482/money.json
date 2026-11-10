@@ -1982,8 +1982,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00869370",
+  "committee_name": "FEDORCHAK FOR ND",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2107166.08,
+  "amounts": {
+   "individuals_200_or_less": 17553.36,
+   "individuals_over_200": 488862.63,
+   "pacs_and_parties": 1173475.26,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 411832.85,
+   "other_receipts": 0.02
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    1
+   ],
+   [
+    "Individuals giving more than $200",
+    29
+   ],
+   [
+    "PACs and party committees",
+    70
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 731311.52,
+   "home_state": "ND",
+   "home_state_total": 493080.04,
+   "home_state_share": 67,
+   "top": [
+    {
+     "state": "ND",
+     "state_full": "North Dakota",
+     "total": 493080.04,
+     "count": 422
+    },
+    {
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 35901.0,
+     "count": 24
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 35054.89,
+     "count": 50
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 22750.0,
+     "count": 17
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 22500.0,
+     "count": 30
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 21500.0,
+     "count": 9
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 15000.0,
+     "count": 5
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "state": "OK",
+     "state_full": "Oklahoma",
+     "total": 11250.0,
+     "count": 8
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 10500.0,
+     "count": 6
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "STATE OF NORTH DAKOTA",
+     "total": 14770.0,
+     "count": 16
+    },
+    {
+     "employer": "WELLPRO",
+     "total": 12000.0,
+     "count": 4
+    },
+    {
+     "employer": "CREEDENCE ENERGY SERVICES",
+     "total": 8500.0,
+     "count": 4
+    },
+    {
+     "employer": "BAKER BOY",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "DEEP ROCK RESOURCES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MIDCO",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BAKKEN ENERGY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "GOLDMARK",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "UNITED ENERGY CORP",
+     "total": 7000.0,
+     "count": 4
+    },
+    {
+     "employer": "COUGHLIN CONSTRUCTION",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

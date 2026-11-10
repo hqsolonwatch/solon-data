@@ -2000,8 +2000,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00394957",
+  "committee_name": "SCALISE FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 11172078.05,
+  "amounts": {
+   "individuals_200_or_less": 478389.3,
+   "individuals_over_200": 1337333.03,
+   "pacs_and_parties": 207500.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 9137330.72,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    24
+   ],
+   [
+    "Individuals giving more than $200",
+    66
+   ],
+   [
+    "PACs and party committees",
+    10
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 17568737.3,
+   "home_state": "LA",
+   "home_state_total": 1543797.73,
+   "home_state_share": 9,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 2241463.74,
+     "count": 56923
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 1885488.03,
+     "count": 50869
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 1819702.01,
+     "count": 48295
+    },
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 1543797.73,
+     "count": 11624
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 855053.08,
+     "count": 16867
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 629005.66,
+     "count": 15431
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 528034.89,
+     "count": 17251
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 457755.39,
+     "count": 17408
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 409869.85,
+     "count": 13171
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 376705.12,
+     "count": 13002
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "APOLLO GLOBAL MANAGEMENT",
+     "total": 38800.0,
+     "count": 19
+    },
+    {
+     "employer": "APOLLO",
+     "total": 32600.0,
+     "count": 16
+    },
+    {
+     "employer": "S-3 GROUP",
+     "total": 28600.0,
+     "count": 20
+    },
+    {
+     "employer": "CORNERSTONE GOVERNMENT AFFAIRS",
+     "total": 27000.0,
+     "count": 19
+    },
+    {
+     "employer": "ANDREESSEN HOROWITZ",
+     "total": 26800.0,
+     "count": 11
+    },
+    {
+     "employer": "BROWNSTEIN HYATT FARBER SCHRECK",
+     "total": 23082.65,
+     "count": 15
+    },
+    {
+     "employer": "MEHLMAN CASTAGNETTI ROSEN THOMAS",
+     "total": 21000.0,
+     "count": 7
+    },
+    {
+     "employer": "MEHLMAN CONSULTING",
+     "total": 19000.0,
+     "count": 7
+    },
+    {
+     "employer": "ALLIANT",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ROSS DOWNING AUTO GROUP",
+     "total": 14000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

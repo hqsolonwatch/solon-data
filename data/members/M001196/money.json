@@ -498,8 +498,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00547240",
+  "committee_name": "SETH FOR MASSACHUSETTS, INC",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 6669667.62,
+  "amounts": {
+   "individuals_200_or_less": 614611.6,
+   "individuals_over_200": 5677398.86,
+   "pacs_and_parties": 259200.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 1469.16,
+   "other_receipts": 89997.73
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    9
+   ],
+   [
+    "Individuals giving more than $200",
+    87
+   ],
+   [
+    "PACs and party committees",
+    4
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 5333458.14,
+   "home_state": "MA",
+   "home_state_total": 2624373.71,
+   "home_state_share": 49,
+   "top": [
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 2624373.71,
+     "count": 3270
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 851293.23,
+     "count": 661
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 621560.5,
+     "count": 569
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 297457.5,
+     "count": 220
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 123830.0,
+     "count": 101
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 115027.78,
+     "count": 101
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 97050.0,
+     "count": 79
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 90953.5,
+     "count": 130
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 69750.0,
+     "count": 52
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 60624.9,
+     "count": 60
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "FIDELITY INVESTMENTS",
+     "total": 30950.0,
+     "count": 33
+    },
+    {
+     "employer": "BAIN CAPITAL",
+     "total": 26431.26,
+     "count": 16
+    },
+    {
+     "employer": "CHARLESBANK CAPITAL PARTNERS",
+     "total": 24100.0,
+     "count": 14
+    },
+    {
+     "employer": "HARVARD UNIVERSITY",
+     "total": 22600.0,
+     "count": 40
+    },
+    {
+     "employer": "LEIDOS",
+     "total": 21750.0,
+     "count": 36
+    },
+    {
+     "employer": "ALLY FINANCIAL",
+     "total": 20000.0,
+     "count": 4
+    },
+    {
+     "employer": "HARVARD BUSINESS SCHOOL",
+     "total": 19000.0,
+     "count": 9
+    },
+    {
+     "employer": "HARVARD",
+     "total": 19000.0,
+     "count": 8
+    },
+    {
+     "employer": "BERKSHIRE PARTNERS",
+     "total": 18800.0,
+     "count": 10
+    },
+    {
+     "employer": "WELLS FARGO",
+     "total": 14775.29,
+     "count": 8
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

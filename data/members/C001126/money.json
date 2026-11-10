@@ -3187,8 +3187,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00779603",
+  "committee_name": "CAREY FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 4184981.49,
+  "amounts": {
+   "individuals_200_or_less": 110648.1,
+   "individuals_over_200": 1108893.66,
+   "pacs_and_parties": 2195850.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 767588.04,
+   "other_receipts": 500.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    3
+   ],
+   [
+    "Individuals giving more than $200",
+    33
+   ],
+   [
+    "PACs and party committees",
+    64
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1630076.58,
+   "home_state": "OH",
+   "home_state_total": 764686.46,
+   "home_state_share": 47,
+   "top": [
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 764686.46,
+     "count": 599
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 106100.11,
+     "count": 130
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 67415.0,
+     "count": 36
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 65925.29,
+     "count": 51
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 61924.12,
+     "count": 49
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 59191.12,
+     "count": 65
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 41885.25,
+     "count": 29
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 38300.0,
+     "count": 37
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 29201.0,
+     "count": 19
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 26550.0,
+     "count": 27
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "GAMECHANGE SOLAR",
+     "total": 36600.0,
+     "count": 18
+    },
+    {
+     "employer": "CARESOURCE",
+     "total": 21764.46,
+     "count": 10
+    },
+    {
+     "employer": "ADVANTAGE CAPITAL",
+     "total": 16190.08,
+     "count": 16
+    },
+    {
+     "employer": "NATIONWIDE",
+     "total": 15500.0,
+     "count": 18
+    },
+    {
+     "employer": "AEP",
+     "total": 14250.0,
+     "count": 10
+    },
+    {
+     "employer": "BLACKSTONE",
+     "total": 14000.0,
+     "count": 7
+    },
+    {
+     "employer": "AMERICAN FINANCIAL CORP.",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ROSEBUD MINING CO.",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "JAVELIN GLOBAL COMMODITIES",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "KIMBALL MIDWEST",
+     "total": 14000.0,
+     "count": 6
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

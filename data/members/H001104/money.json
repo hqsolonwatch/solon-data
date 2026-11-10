@@ -3289,8 +3289,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00896019",
+  "committee_name": "HUSTED FOR SENATE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 19885382.87,
+  "amounts": {
+   "individuals_200_or_less": 2908528.05,
+   "individuals_over_200": 6925261.39,
+   "pacs_and_parties": 2799060.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 7229767.92,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    23
+   ],
+   [
+    "Individuals giving more than $200",
+    55
+   ],
+   [
+    "PACs and party committees",
+    22
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 10531652.04,
+   "home_state": "OH",
+   "home_state_total": 5734019.39,
+   "home_state_share": 54,
+   "top": [
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 5734019.39,
+     "count": 5506
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 997544.63,
+     "count": 5542
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 442199.92,
+     "count": 2553
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 417146.03,
+     "count": 1037
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 364701.54,
+     "count": 5184
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 287480.65,
+     "count": 1936
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 215521.32,
+     "count": 1315
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 179633.66,
+     "count": 440
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 152304.9,
+     "count": 1290
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 151058.62,
+     "count": 699
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "MARATHON PETROLEUM",
+     "total": 44000.0,
+     "count": 25
+    },
+    {
+     "employer": "BLACKSTONE",
+     "total": 41000.0,
+     "count": 17
+    },
+    {
+     "employer": "KKR",
+     "total": 27340.91,
+     "count": 10
+    },
+    {
+     "employer": "EMBASSY HEALTHCARE",
+     "total": 26800.0,
+     "count": 12
+    },
+    {
+     "employer": "CINCINNATI BENGALS",
+     "total": 26500.0,
+     "count": 11
+    },
+    {
+     "employer": "RDV CORPORATION",
+     "total": 26400.0,
+     "count": 12
+    },
+    {
+     "employer": "SQUIRE PATTON BOGGS",
+     "total": 25000.0,
+     "count": 13
+    },
+    {
+     "employer": "CENTENE",
+     "total": 22665.3,
+     "count": 16
+    },
+    {
+     "employer": "KETTERING HEALTH",
+     "total": 22250.0,
+     "count": 12
+    },
+    {
+     "employer": "RLJ MANAGEMENT CO. INC.",
+     "total": 22000.0,
+     "count": 5
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

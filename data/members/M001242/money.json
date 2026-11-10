@@ -703,8 +703,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00837484",
+  "committee_name": "BERNIE MORENO FOR SENATE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 3244299.27,
+  "amounts": {
+   "individuals_200_or_less": 406743.71,
+   "individuals_over_200": 470244.6,
+   "pacs_and_parties": 307871.32,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 2051188.31,
+   "other_receipts": 42.61
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    34
+   ],
+   [
+    "Individuals giving more than $200",
+    40
+   ],
+   [
+    "PACs and party committees",
+    26
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 3459066.42,
+   "home_state": "OH",
+   "home_state_total": 1203403.25,
+   "home_state_share": 35,
+   "top": [
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 1203403.25,
+     "count": 2959
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 475960.3,
+     "count": 816
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 239523.85,
+     "count": 952
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 187014.57,
+     "count": 495
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 177167.13,
+     "count": 343
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 121921.56,
+     "count": 97
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 87585.84,
+     "count": 268
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 72218.56,
+     "count": 64
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 59919.25,
+     "count": 74
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 59232.12,
+     "count": 141
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "RIPPLE",
+     "total": 26400.0,
+     "count": 8
+    },
+    {
+     "employer": "SEWELL AUTOMOTIVE COMPANIES",
+     "total": 22344.51,
+     "count": 10
+    },
+    {
+     "employer": "BROWNSTEIN HYATT FARBER SCHRECK",
+     "total": 19090.91,
+     "count": 9
+    },
+    {
+     "employer": "ARNOLD VENTURES",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
+     "total": 13300.0,
+     "count": 10
+    },
+    {
+     "employer": "TOYOTA OF SAJN BERNARDINO",
+     "total": 13200.0,
+     "count": 4
+    },
+    {
+     "employer": "EREBOR BANK",
+     "total": 13200.0,
+     "count": 4
+    },
+    {
+     "employer": "ADVANTAGE TRUCK GROUP LLC",
+     "total": 13200.0,
+     "count": 5
+    },
+    {
+     "employer": "ANDHEALTH",
+     "total": 13200.0,
+     "count": 4
+    },
+    {
+     "employer": "MASTEC INC",
+     "total": 13200.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

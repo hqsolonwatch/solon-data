@@ -256,8 +256,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00193342",
+  "committee_name": "MCCONNELL SENATE COMMITTEE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 278697.13,
+  "amounts": {
+   "individuals_200_or_less": 1453.0,
+   "individuals_over_200": 17200.82,
+   "pacs_and_parties": 15000.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 11008.48,
+   "other_receipts": 233175.63
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    4
+   ],
+   [
+    "Individuals giving more than $200",
+    51
+   ],
+   [
+    "PACs and party committees",
+    45
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 17200.82,
+   "home_state": "KY",
+   "home_state_total": 1110.0,
+   "home_state_share": 6,
+   "top": [
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 2077.0,
+     "count": 163
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 1492.5,
+     "count": 118
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 1472.34,
+     "count": 131
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 1313.0,
+     "count": 31
+    },
+    {
+     "state": "KY",
+     "state_full": "Kentucky",
+     "total": 1110.0,
+     "count": 14
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 809.02,
+     "count": 74
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 689.25,
+     "count": 45
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 640.0,
+     "count": 56
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 625.0,
+     "count": 67
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 546.68,
+     "count": 37
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "STAPLETON  ASSOCIATES",
+     "total": 1000.0,
+     "count": 1
+    },
+    {
+     "employer": "BABBAGE STRATEGY",
+     "total": 500.0,
+     "count": 1
+    },
+    {
+     "employer": "BRAMER GROUP",
+     "total": 250.0,
+     "count": 3
+    },
+    {
+     "employer": "CHEMSTONE",
+     "total": 200.0,
+     "count": 4
+    },
+    {
+     "employer": "MILLER OK TIRE",
+     "total": 200.0,
+     "count": 5
+    },
+    {
+     "employer": "LEONARDO DRS",
+     "total": 150.0,
+     "count": 7
+    },
+    {
+     "employer": "ALVAREZ AND MARSAL",
+     "total": 140.0,
+     "count": 8
+    },
+    {
+     "employer": "BAYLOR SCOTT AND WHITE",
+     "total": 100.0,
+     "count": 4
+    },
+    {
+     "employer": "DELOITTE",
+     "total": 100.0,
+     "count": 4
+    },
+    {
+     "employer": "CCIINC",
+     "total": 100.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

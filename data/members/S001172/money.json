@@ -2511,8 +2511,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00412890",
+  "committee_name": "ADRIAN SMITH FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2246593.11,
+  "amounts": {
+   "individuals_200_or_less": 3923.65,
+   "individuals_over_200": 438223.55,
+   "pacs_and_parties": 1619000.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 127566.96,
+   "other_receipts": 57817.48
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    0
+   ],
+   [
+    "Individuals giving more than $200",
+    21
+   ],
+   [
+    "PACs and party committees",
+    79
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 551744.55,
+   "home_state": "NE",
+   "home_state_total": 287065.55,
+   "home_state_share": 52,
+   "top": [
+    {
+     "state": "NE",
+     "state_full": "Nebraska",
+     "total": 287065.55,
+     "count": 199
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 42000.0,
+     "count": 20
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 31250.0,
+     "count": 16
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 31000.0,
+     "count": 23
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 31000.0,
+     "count": 37
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 27000.0,
+     "count": 27
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 23143.0,
+     "count": 13
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 10500.0,
+     "count": 4
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 9500.0,
+     "count": 4
+    },
+    {
+     "state": "MO",
+     "state_full": "Missouri",
+     "total": 9333.0,
+     "count": 9
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "CHARTER BROKERAGE",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
+     "employer": "DCI GROUP",
+     "total": 14000.0,
+     "count": 12
+    },
+    {
+     "employer": "HAWKINS CONSTRUCTION COMPANY",
+     "total": 14000.0,
+     "count": 7
+    },
+    {
+     "employer": "SANDHILLS PUBLISHING",
+     "total": 12000.0,
+     "count": 6
+    },
+    {
+     "employer": "SAMPSON CONSTRUCTION",
+     "total": 11500.0,
+     "count": 5
+    },
+    {
+     "employer": "WEBB CREEK",
+     "total": 8333.0,
+     "count": 4
+    },
+    {
+     "employer": "N.A.",
+     "total": 8000.0,
+     "count": 4
+    },
+    {
+     "employer": "QUALITY BRANDS OF OMAHA",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "COUPANG",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "ADAPTIVE CONSTRUCTION SOLUTIONS",
+     "total": 7000.0,
+     "count": 5
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

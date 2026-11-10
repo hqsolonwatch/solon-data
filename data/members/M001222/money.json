@@ -1463,8 +1463,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00770818",
+  "committee_name": "MAX MILLER FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 3324941.88,
+  "amounts": {
+   "individuals_200_or_less": 190741.07,
+   "individuals_over_200": 828925.11,
+   "pacs_and_parties": 742498.3,
+   "candidate_own": 1000000.0,
+   "transfers_from_authorized": 559497.69,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    7
+   ],
+   [
+    "Individuals giving more than $200",
+    30
+   ],
+   [
+    "PACs and party committees",
+    27
+   ],
+   [
+    "Candidate’s own money",
+    36
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1509303.85,
+   "home_state": "OH",
+   "home_state_total": 448422.59,
+   "home_state_share": 30,
+   "top": [
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 448422.59,
+     "count": 403
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 187572.25,
+     "count": 182
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 173012.61,
+     "count": 82
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 131273.21,
+     "count": 237
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 70069.16,
+     "count": 163
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 69436.95,
+     "count": 115
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 55273.35,
+     "count": 34
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 55191.02,
+     "count": 61
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 52422.83,
+     "count": 44
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 36834.46,
+     "count": 38
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "KKR",
+     "total": 35000.0,
+     "count": 10
+    },
+    {
+     "employer": "BGR GROUP",
+     "total": 14041.02,
+     "count": 13
+    },
+    {
+     "employer": "JANE STREET",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "MARQUIS MANAGEMENT INC.",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "APOLLO GLOBAL MANAGEMENT",
+     "total": 13000.0,
+     "count": 5
+    },
+    {
+     "employer": "GBX GROUP",
+     "total": 11850.0,
+     "count": 12
+    },
+    {
+     "employer": "BREAKTHRU BEVERAGE",
+     "total": 10500.0,
+     "count": 4
+    },
+    {
+     "employer": "MONTGOMERY CAPITAL INC",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "MILLER STRATEGIES LLC",
+     "total": 9000.0,
+     "count": 4
+    },
+    {
+     "employer": "GROSS BUILDERS",
+     "total": 7200.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -2839,8 +2839,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00607200",
+  "committee_name": "SUOZZI FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 7599603.36,
+  "amounts": {
+   "individuals_200_or_less": 312725.56,
+   "individuals_over_200": 4812170.01,
+   "pacs_and_parties": 2053745.43,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 239233.42,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    4
+   ],
+   [
+    "Individuals giving more than $200",
+    67
+   ],
+   [
+    "PACs and party committees",
+    29
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 3644939.15,
+   "home_state": "NY",
+   "home_state_total": 2067030.93,
+   "home_state_share": 57,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 2067030.93,
+     "count": 1972
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 398787.56,
+     "count": 345
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 234843.75,
+     "count": 162
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 185900.2,
+     "count": 104
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 108940.41,
+     "count": 92
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 85792.5,
+     "count": 55
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 79583.33,
+     "count": 61
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 63416.66,
+     "count": 32
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 61070.6,
+     "count": 61
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 38368.1,
+     "count": 45
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "NEW YORK CANCER & BLOOD SPECIALISTS",
+     "total": 38250.0,
+     "count": 33
+    },
+    {
+     "employer": "NEW YORK BLOOD AND CANCER SPECIALISTS",
+     "total": 28750.0,
+     "count": 30
+    },
+    {
+     "employer": "GLOBAL INDUSTRIAL",
+     "total": 27600.0,
+     "count": 8
+    },
+    {
+     "employer": "APOLLO GLOBAL MANAGEMENT",
+     "total": 22500.0,
+     "count": 10
+    },
+    {
+     "employer": "BAIN CAPITAL",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "JANE STREET CAPITAL",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "TUTTI",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "RIPCO",
+     "total": 12200.0,
+     "count": 5
+    },
+    {
+     "employer": "UROLOGY OF INDIANA",
+     "total": 12000.0,
+     "count": 20
+    },
+    {
+     "employer": "RBC CAPITAL MARKETS",
+     "total": 10750.0,
+     "count": 9
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

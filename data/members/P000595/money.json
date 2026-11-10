@@ -469,8 +469,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00437889",
+  "committee_name": "PETERS FOR MICHIGAN",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 303094.43,
+  "amounts": {
+   "individuals_200_or_less": 5357.31,
+   "individuals_over_200": 13265.01,
+   "pacs_and_parties": 9500.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 6170.41,
+   "other_receipts": 268336.33
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    19
+   ],
+   [
+    "Individuals giving more than $200",
+    47
+   ],
+   [
+    "PACs and party committees",
+    34
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 13882.51,
+   "home_state": "MI",
+   "home_state_total": 5232.83,
+   "home_state_share": 38,
+   "top": [
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 5232.83,
+     "count": 283
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 2411.85,
+     "count": 22
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 1700.0,
+     "count": 9
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 1077.09,
+     "count": 61
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 640.0,
+     "count": 10
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 567.5,
+     "count": 9
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 380.83,
+     "count": 21
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 226.61,
+     "count": 14
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 162.5,
+     "count": 6
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 147.0,
+     "count": 12
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "PRESIDENT",
+     "total": 1200.0,
+     "count": 1
+    },
+    {
+     "employer": "NYC DEPARTMENT OF EDUCATION",
+     "total": 1000.0,
+     "count": 1
+    },
+    {
+     "employer": "CLEARY GOTTLIEB",
+     "total": 1000.0,
+     "count": 1
+    },
+    {
+     "employer": "BGR GOVERNMENT AFFAIRS, LLC",
+     "total": 1000.0,
+     "count": 2
+    },
+    {
+     "employer": "POTOMAC STRATEGIC",
+     "total": 500.0,
+     "count": 1
+    },
+    {
+     "employer": "NATIONAL ASSOCIATION OF BROADCASTERS",
+     "total": 500.0,
+     "count": 1
+    },
+    {
+     "employer": "MANGO LANGUAGES",
+     "total": 120.0,
+     "count": 6
+    },
+    {
+     "employer": "OAKLAND UNIVERSITY",
+     "total": 110.0,
+     "count": 3
+    },
+    {
+     "employer": "UNIVERSITY OF MICHIGAN",
+     "total": 105.0,
+     "count": 6
+    },
+    {
+     "employer": "JOHN D. DINGELL VA MEDICAL CENTER",
+     "total": 100.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

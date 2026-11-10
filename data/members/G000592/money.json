@@ -714,8 +714,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00653816",
+  "committee_name": "COMMITTEE TO ELECT JARED GOLDEN",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2583023.48,
+  "amounts": {
+   "individuals_200_or_less": 367175.81,
+   "individuals_over_200": 1610449.83,
+   "pacs_and_parties": 319547.83,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 243810.11,
+   "other_receipts": 31762.35
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    16
+   ],
+   [
+    "Individuals giving more than $200",
+    70
+   ],
+   [
+    "PACs and party committees",
+    14
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1791071.78,
+   "home_state": "ME",
+   "home_state_total": 252548.16,
+   "home_state_share": 14,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 318207.66,
+     "count": 244
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 306341.6,
+     "count": 260
+    },
+    {
+     "state": "ME",
+     "state_full": "Maine",
+     "total": 252548.16,
+     "count": 810
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 235635.38,
+     "count": 244
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 106855.68,
+     "count": 89
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 90858.07,
+     "count": 85
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 57538.0,
+     "count": 52
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 49019.71,
+     "count": 53
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 44901.29,
+     "count": 28
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 37846.64,
+     "count": 47
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "APOLLO GLOBAL MANAGEMENT",
+     "total": 8500.0,
+     "count": 5
+    },
+    {
+     "employer": "CHARLESBANK CAPITAL PARTNERS",
+     "total": 8000.0,
+     "count": 3
+    },
+    {
+     "employer": "THE JAMES AND JUDITH K. DIMON FOUNDATI",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "GREYLOCK PARTNERS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "JUST CREATIVE PARTNERS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MASS GENERAL HOSPITAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "GIVE FORWARD FOUNDATION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "THE BAUPOST GROUP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "THE RIVERSIDE COMPANY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "AGINS INTERIOR",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -2331,8 +2331,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00674259",
+  "committee_name": "DR JOHN JOYCE FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2755439.79,
+  "amounts": {
+   "individuals_200_or_less": 1860.57,
+   "individuals_over_200": 496599.99,
+   "pacs_and_parties": 1622243.17,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 461976.08,
+   "other_receipts": 172759.98
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    0
+   ],
+   [
+    "Individuals giving more than $200",
+    23
+   ],
+   [
+    "PACs and party committees",
+    77
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 942372.5,
+   "home_state": "PA",
+   "home_state_total": 553960.18,
+   "home_state_share": 59,
+   "top": [
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 553960.18,
+     "count": 295
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 106988.06,
+     "count": 106
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 49891.6,
+     "count": 34
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 36750.0,
+     "count": 45
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 36617.0,
+     "count": 21
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 27750.0,
+     "count": 14
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 22271.15,
+     "count": 23
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 18520.51,
+     "count": 9
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 14260.25,
+     "count": 6
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 12460.25,
+     "count": 10
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "DEGOL INDUSTRIES",
+     "total": 19000.0,
+     "count": 7
+    },
+    {
+     "employer": "JWF INDUSTRIES",
+     "total": 14760.73,
+     "count": 6
+    },
+    {
+     "employer": "CONSTELLATION",
+     "total": 14604.48,
+     "count": 5
+    },
+    {
+     "employer": "ROBINDALE ENERGY",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "AEY GLOBAL",
+     "total": 13600.0,
+     "count": 5
+    },
+    {
+     "employer": "COMCAST",
+     "total": 11643.56,
+     "count": 5
+    },
+    {
+     "employer": "BGR GROUP",
+     "total": 11625.0,
+     "count": 13
+    },
+    {
+     "employer": "MOUNTAIN GATE PROPERTIES",
+     "total": 11562.81,
+     "count": 10
+    },
+    {
+     "employer": "ALSTON  BIRD LLP",
+     "total": 11500.0,
+     "count": 10
+    },
+    {
+     "employer": "MIDLANTIC UROLOGY",
+     "total": 11100.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

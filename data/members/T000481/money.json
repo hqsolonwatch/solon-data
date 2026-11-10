@@ -155,8 +155,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00668608",
+  "committee_name": "RASHIDA TLAIB FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 3255577.41,
+  "amounts": {
+   "individuals_200_or_less": 1020940.42,
+   "individuals_over_200": 1726198.84,
+   "pacs_and_parties": 53150.01,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 367714.99,
+   "other_receipts": 69010.78
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    36
+   ],
+   [
+    "Individuals giving more than $200",
+    62
+   ],
+   [
+    "PACs and party committees",
+    2
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1967099.76,
+   "home_state": "MI",
+   "home_state_total": 150039.46,
+   "home_state_share": 8,
+   "top": [
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 538819.44,
+     "count": 5217
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 195378.2,
+     "count": 3021
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 150039.46,
+     "count": 2268
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 132548.58,
+     "count": 1265
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 129227.41,
+     "count": 470
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 110148.07,
+     "count": 1319
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 96973.41,
+     "count": 791
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 95229.86,
+     "count": 571
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 84637.24,
+     "count": 693
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 64145.01,
+     "count": 913
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ACCESS",
+     "total": 21842.0,
+     "count": 14
+    },
+    {
+     "employer": "MICROSOFT",
+     "total": 19950.0,
+     "count": 46
+    },
+    {
+     "employer": "CHAMI LAW FIRM",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "THE PRESSURE GROUT COMPANY",
+     "total": 13200.0,
+     "count": 4
+    },
+    {
+     "employer": "IRIS HOTEL",
+     "total": 11500.0,
+     "count": 5
+    },
+    {
+     "employer": "FAMVANS",
+     "total": 9250.0,
+     "count": 4
+    },
+    {
+     "employer": "WALKUP MELODIA",
+     "total": 9000.0,
+     "count": 4
+    },
+    {
+     "employer": "STONE SOUP",
+     "total": 8424.03,
+     "count": 71
+    },
+    {
+     "employer": "META",
+     "total": 8100.0,
+     "count": 25
+    },
+    {
+     "employer": "BBN TECHNOLOGIES",
+     "total": 8041.66,
+     "count": 20
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

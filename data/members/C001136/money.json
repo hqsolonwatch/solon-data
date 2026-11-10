@@ -969,8 +969,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00859496",
+  "committee_name": "HERB CONAWAY FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1152632.36,
+  "amounts": {
+   "individuals_200_or_less": 72635.05,
+   "individuals_over_200": 445793.46,
+   "pacs_and_parties": 630611.5,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    6
+   ],
+   [
+    "Individuals giving more than $200",
+    39
+   ],
+   [
+    "PACs and party committees",
+    55
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 375725.91,
+   "home_state": "NJ",
+   "home_state_total": 257827.24,
+   "home_state_share": 69,
+   "top": [
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 257827.24,
+     "count": 606
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 21155.0,
+     "count": 32
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 19450.0,
+     "count": 35
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 15250.0,
+     "count": 11
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 9750.0,
+     "count": 7
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 8500.0,
+     "count": 16
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 8201.0,
+     "count": 8
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 6800.0,
+     "count": 26
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 5500.0,
+     "count": 5
+    },
+    {
+     "state": "NV",
+     "state_full": "Nevada",
+     "total": 5000.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "WINNING STRATEGIES WASHINGTON",
+     "total": 9300.0,
+     "count": 6
+    },
+    {
+     "employer": "BGR GROUP",
+     "total": 8500.0,
+     "count": 11
+    },
+    {
+     "employer": "NEUROSURGEONS OF NEW JERSEY",
+     "total": 7413.44,
+     "count": 5
+    },
+    {
+     "employer": "NEW JERSEY SENATE",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "RUTAN MECHANICAL LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MASS GENERAL HOSPITAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ALSOP LOUIE PARTNERS",
+     "total": 6800.0,
+     "count": 2
+    },
+    {
+     "employer": "MOUNT LAUREL TOWNSHIP",
+     "total": 5700.0,
+     "count": 18
+    },
+    {
+     "employer": "CNSO",
+     "total": 5500.0,
+     "count": 3
+    },
+    {
+     "employer": "HAYSTACKID",
+     "total": 5000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

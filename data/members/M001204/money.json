@@ -1335,8 +1335,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00654723",
+  "committee_name": "MEUSER FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2129641.48,
+  "amounts": {
+   "individuals_200_or_less": 7531.03,
+   "individuals_over_200": 955543.48,
+   "pacs_and_parties": 938500.01,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 197214.45,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    1
+   ],
+   [
+    "Individuals giving more than $200",
+    50
+   ],
+   [
+    "PACs and party committees",
+    49
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1146240.59,
+   "home_state": "PA",
+   "home_state_total": 765506.73,
+   "home_state_share": 67,
+   "top": [
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 765506.73,
+     "count": 533
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 76508.9,
+     "count": 36
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 58332.04,
+     "count": 46
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 54407.84,
+     "count": 35
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 24835.0,
+     "count": 14
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 21705.09,
+     "count": 24
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 19333.34,
+     "count": 14
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 18669.0,
+     "count": 6
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 18341.02,
+     "count": 8
+    },
+    {
+     "state": "WI",
+     "state_full": "Wisconsin",
+     "total": 12000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "NASDAQ",
+     "total": 16705.08,
+     "count": 11
+    },
+    {
+     "employer": "ROBINDALE",
+     "total": 12500.0,
+     "count": 6
+    },
+    {
+     "employer": "THOMAS EDISON ELECTRIC",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "PACE-O-MATIC",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "CFG MERCHANT SOLUTIONS",
+     "total": 10335.0,
+     "count": 3
+    },
+    {
+     "employer": "CHAMPION BUILDERS INC",
+     "total": 9000.0,
+     "count": 3
+    },
+    {
+     "employer": "TALEN ENERGY",
+     "total": 8166.67,
+     "count": 6
+    },
+    {
+     "employer": "READING ANTHRACITE",
+     "total": 7250.0,
+     "count": 4
+    },
+    {
+     "employer": "EEG, INC",
+     "total": 7143.56,
+     "count": 2
+    },
+    {
+     "employer": "TIGERRISK PARTNERS",
+     "total": 7000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -1373,8 +1373,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00764381",
+  "committee_name": "SHONTEL BROWN FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1566468.32,
+  "amounts": {
+   "individuals_200_or_less": 45938.37,
+   "individuals_over_200": 523750.98,
+   "pacs_and_parties": 983787.6,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 8348.57
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    3
+   ],
+   [
+    "Individuals giving more than $200",
+    34
+   ],
+   [
+    "PACs and party committees",
+    63
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 408840.0,
+   "home_state": "OH",
+   "home_state_total": 281513.0,
+   "home_state_share": 69,
+   "top": [
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 281513.0,
+     "count": 402
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 25970.0,
+     "count": 36
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 17000.0,
+     "count": 23
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 15550.0,
+     "count": 14
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 10500.0,
+     "count": 5
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 8305.0,
+     "count": 50
+    },
+    {
+     "state": "OR",
+     "state_full": "Oregon",
+     "total": 7500.0,
+     "count": 3
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 7500.0,
+     "count": 6
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 7250.0,
+     "count": 6
+    },
+    {
+     "state": "AR",
+     "state_full": "Arkansas",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "TRANSDIGM GROUP",
+     "total": 14000.0,
+     "count": 8
+    },
+    {
+     "employer": "BGR GROUP",
+     "total": 8500.0,
+     "count": 6
+    },
+    {
+     "employer": "BLUE POINT CAPITAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SELF EEMPLOYED",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "THE NRP GROUP LLC",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "MCCAULLEY & COMPANY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "GOLDBERG COMPANIES",
+     "total": 7000.0,
+     "count": 5
+    },
+    {
+     "employer": "RIVERSIDE",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "MINUTEMEN",
+     "total": 5000.0,
+     "count": 3
+    },
+    {
+     "employer": "TRANSDIGM",
+     "total": 4500.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

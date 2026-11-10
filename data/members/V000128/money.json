@@ -302,8 +302,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00573758",
+  "committee_name": "VAN HOLLEN FOR SENATE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 2503116.41,
+  "amounts": {
+   "individuals_200_or_less": 141994.99,
+   "individuals_over_200": 1815797.94,
+   "pacs_and_parties": 84240.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 458448.21,
+   "other_receipts": 1000.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    7
+   ],
+   [
+    "Individuals giving more than $200",
+    89
+   ],
+   [
+    "PACs and party committees",
+    4
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1785290.7,
+   "home_state": "MD",
+   "home_state_total": 668234.2,
+   "home_state_share": 37,
+   "top": [
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 668234.2,
+     "count": 2095
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 221300.0,
+     "count": 93
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 164579.0,
+     "count": 192
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 141100.0,
+     "count": 104
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 135120.0,
+     "count": 99
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 133277.5,
+     "count": 138
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 85300.0,
+     "count": 42
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 53700.0,
+     "count": 67
+    },
+    {
+     "state": "NV",
+     "state_full": "Nevada",
+     "total": 31000.0,
+     "count": 36
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 29500.0,
+     "count": 18
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "SOUTHWEST AIRLINES",
+     "total": 22000.0,
+     "count": 13
+    },
+    {
+     "employer": "EXELON",
+     "total": 14000.0,
+     "count": 16
+    },
+    {
+     "employer": "ZEENA LLC",
+     "total": 12000.0,
+     "count": 4
+    },
+    {
+     "employer": "JOHNS HOPKINS UNIVERSITY",
+     "total": 9750.0,
+     "count": 6
+    },
+    {
+     "employer": "ACTUM LLC",
+     "total": 9000.0,
+     "count": 6
+    },
+    {
+     "employer": "MEI",
+     "total": 9000.0,
+     "count": 3
+    },
+    {
+     "employer": "GALLAGHER LLP",
+     "total": 8750.0,
+     "count": 3
+    },
+    {
+     "employer": "BASHA DIAGNOSTICS",
+     "total": 8000.0,
+     "count": 3
+    },
+    {
+     "employer": "MONUMENTAL SPORTS & ENTERTAINMENT",
+     "total": 8000.0,
+     "count": 3
+    },
+    {
+     "employer": "LIFEBRIDGE HEALTH",
+     "total": 7500.0,
+     "count": 8
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

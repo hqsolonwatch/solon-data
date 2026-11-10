@@ -1149,8 +1149,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00575126",
+  "committee_name": "JAMIE RASKIN FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 9316433.86,
+  "amounts": {
+   "individuals_200_or_less": 3831145.25,
+   "individuals_over_200": 4392786.31,
+   "pacs_and_parties": 501639.58,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 331650.0,
+   "other_receipts": 196621.55
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    44
+   ],
+   [
+    "Individuals giving more than $200",
+    50
+   ],
+   [
+    "PACs and party committees",
+    6
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 3806337.7,
+   "home_state": "MD",
+   "home_state_total": 1257913.71,
+   "home_state_share": 33,
+   "top": [
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 1257913.71,
+     "count": 11930
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 493599.86,
+     "count": 4870
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 393283.84,
+     "count": 2167
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 247235.91,
+     "count": 1073
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 215689.42,
+     "count": 1325
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 156822.93,
+     "count": 1116
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 102578.31,
+     "count": 986
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 95159.36,
+     "count": 766
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 84243.2,
+     "count": 727
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 63903.69,
+     "count": 656
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "AMERICAN UNIVERSITY",
+     "total": 17775.0,
+     "count": 56
+    },
+    {
+     "employer": "ROM-RYMER AND ASSOCIATES",
+     "total": 11000.0,
+     "count": 4
+    },
+    {
+     "employer": "GEORGETOWN UNIVERSITY",
+     "total": 8248.7,
+     "count": 41
+    },
+    {
+     "employer": "LONE PINE CAPITAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ALSOP LOUIE PARTNERS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "STAND UP AMERICA",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "DOUGLAS & LONDON P.C.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "WEINMAN COMPANY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "INTRAFI",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ANALYSIS GROUP",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

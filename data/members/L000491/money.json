@@ -1298,8 +1298,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00287912",
+  "committee_name": "LUCAS FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1055084.93,
+  "amounts": {
+   "individuals_200_or_less": 4358.12,
+   "individuals_over_200": 228254.64,
+   "pacs_and_parties": 809480.71,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 117.62
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    0
+   ],
+   [
+    "Individuals giving more than $200",
+    22
+   ],
+   [
+    "PACs and party committees",
+    78
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 219754.64,
+   "home_state": "OK",
+   "home_state_total": 138254.64,
+   "home_state_share": 63,
+   "top": [
+    {
+     "state": "OK",
+     "state_full": "Oklahoma",
+     "total": 138254.64,
+     "count": 94
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 16500.0,
+     "count": 17
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 11250.0,
+     "count": 13
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 9000.0,
+     "count": 9
+    },
+    {
+     "state": "AR",
+     "state_full": "Arkansas",
+     "total": 7500.0,
+     "count": 3
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 6250.0,
+     "count": 7
+    },
+    {
+     "state": "AL",
+     "state_full": "Alabama",
+     "total": 4500.0,
+     "count": 2
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 4500.0,
+     "count": 2
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 2000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "INDIAN TRIBE",
+     "total": 19300.0,
+     "count": 7
+    },
+    {
+     "employer": "FOWLER AGENCY",
+     "total": 9000.0,
+     "count": 10
+    },
+    {
+     "employer": "BLACKSTONE",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "EVANS & ASSOCIATES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "DEVON ENERGY",
+     "total": 6000.0,
+     "count": 3
+    },
+    {
+     "employer": "THE RUSSELL GROUP",
+     "total": 4500.0,
+     "count": 2
+    },
+    {
+     "employer": "HOUSEWIFE",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "NOT A CORPORATION",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "WILMES CHEVROLET",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "CLEARPATH",
+     "total": 3500.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

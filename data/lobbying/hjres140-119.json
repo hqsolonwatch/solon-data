@@ -4,6 +4,7 @@
   2025,
   2026
  ],
+ "fetched_ts": 1794345859,
  "report_count": 16,
  "clients": [
   {
@@ -12,6 +13,7 @@
    "reports": 1,
    "latest_report_amount": 1280000.0,
    "latest_report": "51a00dfa-7b7d-4ae9-b96d-e32af6bcdbc1",
+   "latest_report_period": "2026 first_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -21,6 +23,7 @@
    "reports": 2,
    "latest_report_amount": 900000.0,
    "latest_report": "47b73a3f-9001-4510-9b60-9571e3396108",
+   "latest_report_period": "2026 second_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -30,6 +33,7 @@
    "reports": 2,
    "latest_report_amount": 260000.0,
    "latest_report": "40b55a70-a1e0-48f8-b668-dea92a39ec72",
+   "latest_report_period": "2026 second_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -39,6 +43,7 @@
    "reports": 2,
    "latest_report_amount": 230000.0,
    "latest_report": "969ab3f3-e91d-4aa6-ad79-fa233d7a0bef",
+   "latest_report_period": "2026 second_quarter",
    "pac_ids": [
     "C00252940"
    ],
@@ -47,20 +52,22 @@
    ]
   },
   {
+   "client": "NATIONAL PARKS CONSERVATION ASSOCIATION",
+   "display_name": "National Parks Conservation Association",
+   "reports": 3,
+   "latest_report_amount": 150724.0,
+   "latest_report": "f836a99a-32f5-4255-80cb-948ee16e0443",
+   "latest_report_period": "2026 second_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
    "client": "TROUT UNLIMITED",
    "display_name": "Trout Unlimited",
    "reports": 1,
    "latest_report_amount": 120000.0,
    "latest_report": "b8b5620a-2f45-4a66-ba10-b5e7709185ad",
-   "pac_ids": [],
-   "pac_names": []
-  },
-  {
-   "client": "NATIONAL PARKS CONSERVATION ASSOCIATION",
-   "display_name": "National Parks Conservation Association",
-   "reports": 3,
-   "latest_report_amount": 113139.0,
-   "latest_report": "8e6f7313-e49b-46ad-8f7d-072462c777f2",
+   "latest_report_period": "2026 first_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -70,6 +77,7 @@
    "reports": 2,
    "latest_report_amount": 20000.0,
    "latest_report": "9bbc0a66-1bab-47e3-a1b9-fae5eb38e088",
+   "latest_report_period": "2026 second_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -79,6 +87,7 @@
    "reports": 2,
    "latest_report_amount": 6600.0,
    "latest_report": "5607d38b-3ffb-40f5-a88f-0c8db02fd68e",
+   "latest_report_period": "2026 second_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -88,6 +97,7 @@
    "reports": 1,
    "latest_report_amount": null,
    "latest_report": "cefc3078-8303-4040-a0da-453d1b550fe5",
+   "latest_report_period": "2026 first_quarter",
    "pac_ids": [],
    "pac_names": []
   }
@@ -99,6 +109,7 @@
    "reports": 2,
    "latest_report_amount": 230000.0,
    "latest_report": "969ab3f3-e91d-4aa6-ad79-fa233d7a0bef",
+   "latest_report_period": "2026 second_quarter",
    "pac_ids": [
     "C00252940"
    ],

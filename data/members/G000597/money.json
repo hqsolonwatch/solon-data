@@ -2810,8 +2810,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00729954",
+  "committee_name": "GARBARINO FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 4057667.29,
+  "amounts": {
+   "individuals_200_or_less": 5878.45,
+   "individuals_over_200": 844965.29,
+   "pacs_and_parties": 2228500.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 901787.73,
+   "other_receipts": 74586.05
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    0
+   ],
+   [
+    "Individuals giving more than $200",
+    28
+   ],
+   [
+    "PACs and party committees",
+    72
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1653767.57,
+   "home_state": "NY",
+   "home_state_total": 716589.52,
+   "home_state_share": 43,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 716589.52,
+     "count": 463
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 121284.55,
+     "count": 169
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 116021.21,
+     "count": 134
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 93468.5,
+     "count": 103
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 91700.0,
+     "count": 93
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 84082.34,
+     "count": 144
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 51737.5,
+     "count": 41
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 45017.5,
+     "count": 50
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 40611.5,
+     "count": 22
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 39600.5,
+     "count": 47
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "BLACKSTONE",
+     "total": 25250.0,
+     "count": 13
+    },
+    {
+     "employer": "SOUTHWEST AIRLINES",
+     "total": 21000.0,
+     "count": 15
+    },
+    {
+     "employer": "ANDREESSEN HOROWITZ",
+     "total": 20000.0,
+     "count": 6
+    },
+    {
+     "employer": "APOLLO",
+     "total": 17000.0,
+     "count": 6
+    },
+    {
+     "employer": "MICROSOFT",
+     "total": 16000.0,
+     "count": 13
+    },
+    {
+     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ARNOLD VENTURES",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "BNY",
+     "total": 13632.24,
+     "count": 6
+    },
+    {
+     "employer": "AMERICAN AIRLINES",
+     "total": 11500.0,
+     "count": 13
+    },
+    {
+     "employer": "SE MANAGEMENT CORP.",
+     "total": 10000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -1149,8 +1149,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00856005",
+  "committee_name": "FRIENDS OF TIM MOORE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2091454.5,
+  "amounts": {
+   "individuals_200_or_less": 26463.17,
+   "individuals_over_200": 1268706.66,
+   "pacs_and_parties": 634150.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 159179.14,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    1
+   ],
+   [
+    "Individuals giving more than $200",
+    66
+   ],
+   [
+    "PACs and party committees",
+    33
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1078711.66,
+   "home_state": "NC",
+   "home_state_total": 881855.07,
+   "home_state_share": 82,
+   "top": [
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 881855.07,
+     "count": 706
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 35000.0,
+     "count": 9
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 27105.59,
+     "count": 31
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 23143.0,
+     "count": 7
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 15500.0,
+     "count": 17
+    },
+    {
+     "state": "SC",
+     "state_full": "South Carolina",
+     "total": 15250.0,
+     "count": 7
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 12858.0,
+     "count": 6
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 10250.0,
+     "count": 6
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 8250.0,
+     "count": 8
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 7500.0,
+     "count": 7
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "POB VENTURES",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "METCON",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "ALG SENIOR LLC",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "SMI SYSTEMS",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "KENNEY COMPANIES",
+     "total": 9000.0,
+     "count": 3
+    },
+    {
+     "employer": "CPFRM LLC",
+     "total": 8500.0,
+     "count": 4
+    },
+    {
+     "employer": "COINBASE",
+     "total": 8000.0,
+     "count": 3
+    },
+    {
+     "employer": "KNOWBIO, LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PRESTON DEVELOPMENT COMPANY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "CLEARPATH",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

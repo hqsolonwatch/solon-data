@@ -2066,8 +2066,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00763649",
+  "committee_name": "TROY CARTER FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1941169.25,
+  "amounts": {
+   "individuals_200_or_less": 8818.13,
+   "individuals_over_200": 557392.55,
+   "pacs_and_parties": 1198642.06,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 176086.41,
+   "other_receipts": 230.1
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    0
+   ],
+   [
+    "Individuals giving more than $200",
+    32
+   ],
+   [
+    "PACs and party committees",
+    68
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 436362.55,
+   "home_state": "LA",
+   "home_state_total": 190600.0,
+   "home_state_share": 44,
+   "top": [
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 190600.0,
+     "count": 132
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 56955.0,
+     "count": 65
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 36650.0,
+     "count": 36
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 27000.0,
+     "count": 23
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 21750.0,
+     "count": 12
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 19000.0,
+     "count": 11
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 11000.0,
+     "count": 8
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 10250.0,
+     "count": 13
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 9607.55,
+     "count": 15
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 9500.0,
+     "count": 5
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "OCHSNER HEALTH",
+     "total": 13200.0,
+     "count": 4
+    },
+    {
+     "employer": "ENTERGY",
+     "total": 11500.0,
+     "count": 8
+    },
+    {
+     "employer": "CHARTER BROKERAGE LLC",
+     "total": 9500.0,
+     "count": 4
+    },
+    {
+     "employer": "ENTERGY CORPORATION",
+     "total": 7500.0,
+     "count": 4
+    },
+    {
+     "employer": "CRANE STRATEGIES LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "LILETTE ADVISORS",
+     "total": 7000.0,
+     "count": 5
+    },
+    {
+     "employer": "RAINWATER CONSULTING LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "THE PICARD GROUP",
+     "total": 6800.0,
+     "count": 5
+    },
+    {
+     "employer": "KING AND SPALDING",
+     "total": 6500.0,
+     "count": 2
+    },
+    {
+     "employer": "JONES WALKER",
+     "total": 6500.0,
+     "count": 6
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

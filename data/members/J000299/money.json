@@ -2015,8 +2015,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00608695",
+  "committee_name": "MIKE JOHNSON FOR LOUISIANA",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 24583416.13,
+  "amounts": {
+   "individuals_200_or_less": 4296949.53,
+   "individuals_over_200": 9727276.24,
+   "pacs_and_parties": 2093016.99,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 8454692.87,
+   "other_receipts": 9955.5
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    27
+   ],
+   [
+    "Individuals giving more than $200",
+    60
+   ],
+   [
+    "PACs and party committees",
+    13
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 17626344.45,
+   "home_state": "LA",
+   "home_state_total": 1477870.49,
+   "home_state_share": 8,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 2657281.86,
+     "count": 81985
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 2538729.98,
+     "count": 65769
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 2245239.76,
+     "count": 63334
+    },
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 1477870.49,
+     "count": 8079
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 671774.82,
+     "count": 16348
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 658450.07,
+     "count": 24870
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 469636.41,
+     "count": 18067
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 449498.82,
+     "count": 14114
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 406283.23,
+     "count": 24318
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 346994.56,
+     "count": 12322
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ENTREPRENEUR",
+     "total": 112557.27,
+     "count": 2639
+    },
+    {
+     "employer": "MILLER STRATEGIES",
+     "total": 33500.02,
+     "count": 13
+    },
+    {
+     "employer": "GOLDENTREE ASSET MANAGEMENT",
+     "total": 27000.04,
+     "count": 14
+    },
+    {
+     "employer": "MARQUIS MANAGEMENT INC.",
+     "total": 25000.0,
+     "count": 8
+    },
+    {
+     "employer": "NASDAQ",
+     "total": 23666.68,
+     "count": 10
+    },
+    {
+     "employer": "CC HOMES",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
+     "employer": "S-3 GROUP",
+     "total": 21000.0,
+     "count": 9
+    },
+    {
+     "employer": "PRAESES LLC",
+     "total": 20999.65,
+     "count": 15
+    },
+    {
+     "employer": "WOODFOREST NATIONAL BANK",
+     "total": 20666.66,
+     "count": 6
+    },
+    {
+     "employer": "CRESSET CAPITAL",
+     "total": 20000.0,
+     "count": 9
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

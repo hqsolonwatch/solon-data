@@ -1575,8 +1575,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00499467",
+  "committee_name": "TITUS FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2055144.17,
+  "amounts": {
+   "individuals_200_or_less": 89289.56,
+   "individuals_over_200": 846582.71,
+   "pacs_and_parties": 1010257.97,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 109004.91,
+   "other_receipts": 0.01
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    5
+   ],
+   [
+    "Individuals giving more than $200",
+    43
+   ],
+   [
+    "PACs and party committees",
+    52
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 706435.16,
+   "home_state": "NV",
+   "home_state_total": 287600.0,
+   "home_state_share": 41,
+   "top": [
+    {
+     "state": "NV",
+     "state_full": "Nevada",
+     "total": 287600.0,
+     "count": 625
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 103838.5,
+     "count": 97
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 51282.68,
+     "count": 45
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 47958.97,
+     "count": 37
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 37541.66,
+     "count": 16
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 26227.27,
+     "count": 41
+    },
+    {
+     "state": "OK",
+     "state_full": "Oklahoma",
+     "total": 15703.84,
+     "count": 5
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 14250.0,
+     "count": 27
+    },
+    {
+     "state": "HI",
+     "state_full": "Hawaii",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 13623.08,
+     "count": 9
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "EO SOLUTIONS",
+     "total": 28000.0,
+     "count": 8
+    },
+    {
+     "employer": "PARAGON GAMING",
+     "total": 9000.0,
+     "count": 3
+    },
+    {
+     "employer": "MGM RESORTS",
+     "total": 8500.0,
+     "count": 3
+    },
+    {
+     "employer": "ART ADVISORS LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MASS GENERAL HOSPITAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "U.S. SENATE",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SCHUSTERMAN INTERESTS LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "UNIVERSITY OF TEXAS AT AUSTIN",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MORGAN STANLEY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "LAW OFFICES OF R. STEPHEN MCNALLY",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

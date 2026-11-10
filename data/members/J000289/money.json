@@ -917,8 +917,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00416594",
+  "committee_name": "JIM JORDAN FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 5617701.79,
+  "amounts": {
+   "individuals_200_or_less": 2245775.28,
+   "individuals_over_200": 1662117.51,
+   "pacs_and_parties": 635815.34,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 205189.64,
+   "other_receipts": 680905.61
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    49
+   ],
+   [
+    "Individuals giving more than $200",
+    37
+   ],
+   [
+    "PACs and party committees",
+    14
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1817838.07,
+   "home_state": "OH",
+   "home_state_total": 328522.58,
+   "home_state_share": 18,
+   "top": [
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 328522.58,
+     "count": 1339
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 264073.87,
+     "count": 1025
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 187611.99,
+     "count": 1011
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 175121.95,
+     "count": 1118
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 75297.54,
+     "count": 215
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 70562.53,
+     "count": 255
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 69907.35,
+     "count": 410
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 50326.63,
+     "count": 299
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 43962.84,
+     "count": 338
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 43337.72,
+     "count": 157
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "CEO",
+     "total": 36731.4,
+     "count": 13
+    },
+    {
+     "employer": "EXECUTIVE",
+     "total": 23501.0,
+     "count": 11
+    },
+    {
+     "employer": "PRESIDENT",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "PHILANTHROPIST",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "CONSULTANT",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "PARTNER",
+     "total": 12500.0,
+     "count": 5
+    },
+    {
+     "employer": "LAWYER",
+     "total": 12000.0,
+     "count": 4
+    },
+    {
+     "employer": "PHYSICIAN",
+     "total": 12000.0,
+     "count": 4
+    },
+    {
+     "employer": "REAL ESTATE",
+     "total": 12000.0,
+     "count": 5
+    },
+    {
+     "employer": "CHAIRMAN",
+     "total": 10500.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

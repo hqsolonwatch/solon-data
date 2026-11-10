@@ -2583,8 +2583,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00504522",
+  "committee_name": "HUDSON FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 4173708.23,
+  "amounts": {
+   "individuals_200_or_less": 464831.27,
+   "individuals_over_200": 944475.45,
+   "pacs_and_parties": 2001397.28,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 739507.78,
+   "other_receipts": 22574.39
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    13
+   ],
+   [
+    "Individuals giving more than $200",
+    28
+   ],
+   [
+    "PACs and party committees",
+    59
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1462479.32,
+   "home_state": "NC",
+   "home_state_total": 798530.58,
+   "home_state_share": 55,
+   "top": [
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 798530.58,
+     "count": 558
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 140176.59,
+     "count": 218
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 100300.0,
+     "count": 99
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 86524.9,
+     "count": 265
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 49750.0,
+     "count": 43
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 36169.99,
+     "count": 40
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 32997.46,
+     "count": 122
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 31435.15,
+     "count": 39
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 24528.0,
+     "count": 18
+    },
+    {
+     "state": "SC",
+     "state_full": "South Carolina",
+     "total": 20454.22,
+     "count": 106
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "AT&T",
+     "total": 52400.0,
+     "count": 37
+    },
+    {
+     "employer": "ACN",
+     "total": 28000.0,
+     "count": 9
+    },
+    {
+     "employer": "COMCAST",
+     "total": 25000.0,
+     "count": 12
+    },
+    {
+     "employer": "CHARTER COMMUNICATIONS",
+     "total": 20500.0,
+     "count": 13
+    },
+    {
+     "employer": "ENTRAVISION",
+     "total": 17200.0,
+     "count": 9
+    },
+    {
+     "employer": "HENDRICK MOTORSPORTS",
+     "total": 15000.0,
+     "count": 6
+    },
+    {
+     "employer": "VETERANS GUARDIAN VA CLAIM CONSULTING",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "employer": "OGLETREE DEAKINS",
+     "total": 13800.0,
+     "count": 4
+    },
+    {
+     "employer": "BARNHILL CONTRACTING COMPANY",
+     "total": 10000.0,
+     "count": 3
+    },
+    {
+     "employer": "SABER HEALTHCARE",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

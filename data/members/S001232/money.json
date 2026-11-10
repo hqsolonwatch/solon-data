@@ -893,8 +893,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00844159",
+  "committee_name": "TIM SHEEHY FOR MONTANA",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 1921040.01,
+  "amounts": {
+   "individuals_200_or_less": 302204.0,
+   "individuals_over_200": 901798.38,
+   "pacs_and_parties": 509725.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 278638.34,
+   "other_receipts": -71413.92
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    18
+   ],
+   [
+    "Individuals giving more than $200",
+    52
+   ],
+   [
+    "PACs and party committees",
+    30
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1655636.73,
+   "home_state": "MT",
+   "home_state_total": 216540.21,
+   "home_state_share": 13,
+   "top": [
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 275557.03,
+     "count": 1014
+    },
+    {
+     "state": "MT",
+     "state_full": "Montana",
+     "total": 216540.21,
+     "count": 850
+    },
+    {
+     "state": "KS",
+     "state_full": "Kansas",
+     "total": 151784.93,
+     "count": 157
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 116461.87,
+     "count": 218
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 107151.58,
+     "count": 960
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 106373.87,
+     "count": 478
+    },
+    {
+     "state": "MO",
+     "state_full": "Missouri",
+     "total": 71933.89,
+     "count": 231
+    },
+    {
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 54539.27,
+     "count": 88
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 54298.95,
+     "count": 48
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 52200.54,
+     "count": 249
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "QUANTA SERVICES",
+     "total": 37470.43,
+     "count": 33
+    },
+    {
+     "employer": "PETERSON COMPANIES",
+     "total": 13200.0,
+     "count": 4
+    },
+    {
+     "employer": "STIFEL",
+     "total": 13200.0,
+     "count": 4
+    },
+    {
+     "employer": "WOOD DEVELOPMENT COMPANY",
+     "total": 12492.16,
+     "count": 22
+    },
+    {
+     "employer": "TOWN PUMP",
+     "total": 12400.0,
+     "count": 8
+    },
+    {
+     "employer": "SCHALL LAW",
+     "total": 10000.0,
+     "count": 4
+    },
+    {
+     "employer": "PBM CAPITAL GROUP",
+     "total": 10000.0,
+     "count": 1
+    },
+    {
+     "employer": "PHIL HARDY",
+     "total": 10000.0,
+     "count": 5
+    },
+    {
+     "employer": "SIERRA VENTURES",
+     "total": 9900.0,
+     "count": 3
+    },
+    {
+     "employer": "LAUGHERY INVESTMENTS",
+     "total": 8300.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

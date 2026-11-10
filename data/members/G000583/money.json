@@ -1732,8 +1732,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00573949",
+  "committee_name": "JOSH FOR JERSEY",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 5788812.15,
+  "amounts": {
+   "individuals_200_or_less": 27155.6,
+   "individuals_over_200": 3482598.25,
+   "pacs_and_parties": 1245300.01,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 313701.07,
+   "other_receipts": 718147.08
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    1
+   ],
+   [
+    "Individuals giving more than $200",
+    73
+   ],
+   [
+    "PACs and party committees",
+    26
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 3315567.25,
+   "home_state": "NJ",
+   "home_state_total": 623820.0,
+   "home_state_share": 19,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 870971.83,
+     "count": 417
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 623820.0,
+     "count": 519
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 492998.42,
+     "count": 253
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 271810.0,
+     "count": 173
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 128150.0,
+     "count": 69
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 127500.0,
+     "count": 63
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 125650.0,
+     "count": 52
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 124550.0,
+     "count": 49
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 68385.0,
+     "count": 44
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 66550.0,
+     "count": 73
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "BLACKSTONE",
+     "total": 59500.0,
+     "count": 19
+    },
+    {
+     "employer": "KKR & CO",
+     "total": 47750.0,
+     "count": 17
+    },
+    {
+     "employer": "APOLLO GLOBAL MANAGEMENT",
+     "total": 29000.0,
+     "count": 9
+    },
+    {
+     "employer": "BLACKROCK",
+     "total": 24500.0,
+     "count": 8
+    },
+    {
+     "employer": "SNOW PARTNERS",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
+     "employer": "BAIN CAPITAL",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
+     "employer": "COINBASE",
+     "total": 17500.0,
+     "count": 5
+    },
+    {
+     "employer": "ANTHROPIC",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "MONTGOMERY CAPITAL, INC.",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "STANDARD INDUSTRIES",
+     "total": 14000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

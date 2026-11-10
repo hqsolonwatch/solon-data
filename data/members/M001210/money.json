@@ -1845,8 +1845,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00697649",
+  "committee_name": "FRIENDS TO ELECT DR. GREG MURPHY TO CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2897749.02,
+  "amounts": {
+   "individuals_200_or_less": 31914.02,
+   "individuals_over_200": 1156140.83,
+   "pacs_and_parties": 1255549.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 374275.82,
+   "other_receipts": 75997.25
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    1
+   ],
+   [
+    "Individuals giving more than $200",
+    47
+   ],
+   [
+    "PACs and party committees",
+    52
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1261033.21,
+   "home_state": "NC",
+   "home_state_total": 682820.7,
+   "home_state_share": 54,
+   "top": [
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 682820.7,
+     "count": 619
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 127900.0,
+     "count": 90
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 67726.66,
+     "count": 48
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 62250.0,
+     "count": 68
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 57110.0,
+     "count": 31
+    },
+    {
+     "state": "SC",
+     "state_full": "South Carolina",
+     "total": 40985.35,
+     "count": 20
+    },
+    {
+     "state": "PR",
+     "state_full": "Puerto Rico",
+     "total": 36400.0,
+     "count": 22
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 17417.0,
+     "count": 25
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 15750.0,
+     "count": 15
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 15500.0,
+     "count": 22
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "UROLOGY CLINICS OF NORTH TEXAS",
+     "total": 24500.0,
+     "count": 7
+    },
+    {
+     "employer": "NYCBS",
+     "total": 24350.0,
+     "count": 30
+    },
+    {
+     "employer": "UROLOGY SPECIALISTS OF THE CAROLINAS,",
+     "total": 16900.0,
+     "count": 13
+    },
+    {
+     "employer": "NEW YORK CANCER",
+     "total": 14250.0,
+     "count": 7
+    },
+    {
+     "employer": "NYU LANGONE HEALTH",
+     "total": 13500.0,
+     "count": 6
+    },
+    {
+     "employer": "ADVOCATE HEALTH ADVISORS",
+     "total": 10000.0,
+     "count": 5
+    },
+    {
+     "employer": "FLORIDA PHYSICIAN SPECIALISTS, LLC",
+     "total": 10000.0,
+     "count": 1
+    },
+    {
+     "employer": "JIMMIE L MORRIS & SONS INC",
+     "total": 9500.0,
+     "count": 3
+    },
+    {
+     "employer": "RPS MEDICAL",
+     "total": 9500.0,
+     "count": 8
+    },
+    {
+     "employer": "HILLCO, LTD",
+     "total": 8500.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

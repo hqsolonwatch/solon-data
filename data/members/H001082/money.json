@@ -2108,8 +2108,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00636092",
+  "committee_name": "HERN FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 2512712.29,
+  "amounts": {
+   "individuals_200_or_less": 24451.95,
+   "individuals_over_200": 490008.09,
+   "pacs_and_parties": 1156658.96,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 813039.26,
+   "other_receipts": 28554.03
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    2
+   ],
+   [
+    "Individuals giving more than $200",
+    29
+   ],
+   [
+    "PACs and party committees",
+    69
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1290398.92,
+   "home_state": "OK",
+   "home_state_total": 256593.75,
+   "home_state_share": 20,
+   "top": [
+    {
+     "state": "OK",
+     "state_full": "Oklahoma",
+     "total": 256593.75,
+     "count": 341
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 154210.33,
+     "count": 500
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 144046.68,
+     "count": 2029
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 99154.31,
+     "count": 1742
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 77400.27,
+     "count": 1584
+    },
+    {
+     "state": "OT",
+     "state_full": "Other",
+     "total": 67516.03,
+     "count": 174
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 50766.53,
+     "count": 51
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 47373.89,
+     "count": 414
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 46204.49,
+     "count": 214
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 25720.11,
+     "count": 200
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "BGR GROUP",
+     "total": 14750.0,
+     "count": 13
+    },
+    {
+     "employer": "MCDONALD'S",
+     "total": 14000.0,
+     "count": 11
+    },
+    {
+     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "TODD STRATEGY GROUP",
+     "total": 13500.0,
+     "count": 9
+    },
+    {
+     "employer": "LOVE'S TRAVEL STOPS",
+     "total": 11250.0,
+     "count": 8
+    },
+    {
+     "employer": "CAPITOL TAX PARTNERS",
+     "total": 9500.0,
+     "count": 7
+    },
+    {
+     "employer": "NEXTEP",
+     "total": 8870.71,
+     "count": 7
+    },
+    {
+     "employer": "WEBB CREEK",
+     "total": 8333.0,
+     "count": 3
+    },
+    {
+     "employer": "FIERCE GOVERNMENT RELATIONS",
+     "total": 8000.0,
+     "count": 12
+    },
+    {
+     "employer": "TUCS EQUIPMENT",
+     "total": 7820.0,
+     "count": 18
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -2149,8 +2149,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00789404",
+  "committee_name": "GABE VASQUEZ FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 5518618.26,
+  "amounts": {
+   "individuals_200_or_less": 625981.1,
+   "individuals_over_200": 3111487.6,
+   "pacs_and_parties": 1377074.58,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 397348.56,
+   "other_receipts": 101.33
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    12
+   ],
+   [
+    "Individuals giving more than $200",
+    61
+   ],
+   [
+    "PACs and party committees",
+    27
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 3346818.42,
+   "home_state": "NM",
+   "home_state_total": 1094604.69,
+   "home_state_share": 33,
+   "top": [
+    {
+     "state": "NM",
+     "state_full": "New Mexico",
+     "total": 1094604.69,
+     "count": 6042
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 732234.24,
+     "count": 680
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 297708.59,
+     "count": 246
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 212148.03,
+     "count": 311
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 139994.51,
+     "count": 166
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 117603.93,
+     "count": 163
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 105665.92,
+     "count": 160
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 75497.5,
+     "count": 105
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 64489.29,
+     "count": 73
+    },
+    {
+     "state": "WY",
+     "state_full": "Wyoming",
+     "total": 62916.66,
+     "count": 37
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "SINGLETON SCHREIBER LLP",
+     "total": 22250.0,
+     "count": 7
+    },
+    {
+     "employer": "ANTHROPIC",
+     "total": 16500.0,
+     "count": 5
+    },
+    {
+     "employer": "ANDURIL INDUSTRIES",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "UNIVERSITY OF NEW MEXICO",
+     "total": 12978.33,
+     "count": 174
+    },
+    {
+     "employer": "MCGINN MONTOYA LOVE CURRY & SIEVERS PA",
+     "total": 11750.0,
+     "count": 6
+    },
+    {
+     "employer": "SINGLETON SCHREIBER",
+     "total": 10950.0,
+     "count": 10
+    },
+    {
+     "employer": "FIVE & DIME GENERAL STORES",
+     "total": 10700.0,
+     "count": 3
+    },
+    {
+     "employer": "BD&J PC",
+     "total": 9500.0,
+     "count": 3
+    },
+    {
+     "employer": "NEW MEXICO CANCER CENTER",
+     "total": 8000.0,
+     "count": 6
+    },
+    {
+     "employer": "STAHMANNS, INC.",
+     "total": 7500.43,
+     "count": 5
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

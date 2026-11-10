@@ -1467,8 +1467,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00711317",
+  "committee_name": "SCHOLTEN FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 3034438.11,
+  "amounts": {
+   "individuals_200_or_less": 208905.06,
+   "individuals_over_200": 1838593.61,
+   "pacs_and_parties": 886809.55,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 71686.69,
+   "other_receipts": 5968.06
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    7
+   ],
+   [
+    "Individuals giving more than $200",
+    63
+   ],
+   [
+    "PACs and party committees",
+    30
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1421224.14,
+   "home_state": "MI",
+   "home_state_total": 845834.12,
+   "home_state_share": 60,
+   "top": [
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 845834.12,
+     "count": 4074
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 90764.24,
+     "count": 94
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 79645.17,
+     "count": 67
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 76810.0,
+     "count": 150
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 69010.39,
+     "count": 74
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 52406.64,
+     "count": 61
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 41110.0,
+     "count": 102
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 37342.67,
+     "count": 54
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 23215.0,
+     "count": 36
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 15721.15,
+     "count": 15
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "COREWELL HEALTH",
+     "total": 28625.0,
+     "count": 36
+    },
+    {
+     "employer": "MILLER JOHNSON",
+     "total": 18600.0,
+     "count": 23
+    },
+    {
+     "employer": "VARNUM LLP",
+     "total": 11600.0,
+     "count": 14
+    },
+    {
+     "employer": "NYMAN TURKISH PC",
+     "total": 9500.0,
+     "count": 4
+    },
+    {
+     "employer": "SCHULER BOOKS INC.",
+     "total": 8500.0,
+     "count": 7
+    },
+    {
+     "employer": "RING FOUNDATION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "STATE OF ILLINOIS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "JOHNS HOPKINS APPLIED PHYSICS LAB",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "DETROIT PISTONS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "INTRAFI",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

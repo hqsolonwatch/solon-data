@@ -2095,8 +2095,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00459297",
+  "committee_name": "HUIZENGA FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 5562774.67,
+  "amounts": {
+   "individuals_200_or_less": 254042.61,
+   "individuals_over_200": 2013004.64,
+   "pacs_and_parties": 2103850.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 1191667.21,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    6
+   ],
+   [
+    "Individuals giving more than $200",
+    46
+   ],
+   [
+    "PACs and party committees",
+    48
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 2340791.37,
+   "home_state": "MI",
+   "home_state_total": 1015097.17,
+   "home_state_share": 43,
+   "top": [
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 1015097.17,
+     "count": 840
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 268857.05,
+     "count": 675
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 225716.28,
+     "count": 1075
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 199912.71,
+     "count": 452
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 75757.81,
+     "count": 68
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 57665.54,
+     "count": 117
+    },
+    {
+     "state": "NV",
+     "state_full": "Nevada",
+     "total": 49668.67,
+     "count": 30
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 38111.48,
+     "count": 24
+    },
+    {
+     "state": "UT",
+     "state_full": "Utah",
+     "total": 35626.15,
+     "count": 59
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 34820.83,
+     "count": 14
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ANTHROPIC",
+     "total": 28000.0,
+     "count": 8
+    },
+    {
+     "employer": "CIENA",
+     "total": 24500.0,
+     "count": 5
+    },
+    {
+     "employer": "BAD BOY MOWERS",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
+     "employer": "ANDREESSEN HOROWITZ",
+     "total": 15333.0,
+     "count": 6
+    },
+    {
+     "employer": "AMWAY",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "COINBASE",
+     "total": 14000.0,
+     "count": 8
+    },
+    {
+     "employer": "AZO SERVICES PIA, LLC",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ZHANG FINANCIAL",
+     "total": 12000.0,
+     "count": 4
+    },
+    {
+     "employer": "WELLER AUTO PARTS",
+     "total": 11000.0,
+     "count": 5
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

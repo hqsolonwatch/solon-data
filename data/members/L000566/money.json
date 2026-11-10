@@ -1708,8 +1708,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00438697",
+  "committee_name": "LATTA FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1772110.3,
+  "amounts": {
+   "individuals_200_or_less": 38520.06,
+   "individuals_over_200": 677306.0,
+   "pacs_and_parties": 1009150.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 34800.63,
+   "other_receipts": 12333.61
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    2
+   ],
+   [
+    "Individuals giving more than $200",
+    39
+   ],
+   [
+    "PACs and party committees",
+    59
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 602336.0,
+   "home_state": "OH",
+   "home_state_total": 387125.0,
+   "home_state_share": 64,
+   "top": [
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 387125.0,
+     "count": 422
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 48750.0,
+     "count": 51
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 37800.0,
+     "count": 16
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 26605.0,
+     "count": 21
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 24750.0,
+     "count": 26
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 15500.0,
+     "count": 6
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 15184.0,
+     "count": 8
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 8364.0,
+     "count": 4
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 7105.0,
+     "count": 9
+    },
+    {
+     "state": "NV",
+     "state_full": "Nevada",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "MISSION STRATEGIES",
+     "total": 20250.0,
+     "count": 17
+    },
+    {
+     "employer": "RW BECKETT",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "employer": "ANDREESSEN HOROWITZ",
+     "total": 8000.0,
+     "count": 3
+    },
+    {
+     "employer": "COOPER FARMS HATCHERY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BARD MFG. CO.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "COOPER FARMS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MCCAULLEYCOMPANY",
+     "total": 7000.0,
+     "count": 5
+    },
+    {
+     "employer": "ARNOLD VENTURES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PROFICIO",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BARD MANUFACTURING CO",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

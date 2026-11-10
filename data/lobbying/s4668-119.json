@@ -4,6 +4,7 @@
   2025,
   2026
  ],
+ "fetched_ts": 1794345859,
  "report_count": 203,
  "clients": [
   {
@@ -12,6 +13,7 @@
    "reports": 2,
    "latest_report_amount": 4490000.0,
    "latest_report": "f57759bc-7305-428e-83b4-7c4ce6195bbf",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00360354"
    ],
@@ -21,10 +23,11 @@
   },
   {
    "client": "NCTA - THE INTERNET & TELEVISION ASSOCIATION",
-   "display_name": "Ncta - the Internet & Television Association",
+   "display_name": "NCTA",
    "reports": 2,
    "latest_report_amount": 2940000.0,
    "latest_report": "05597db2-eab3-4dec-870d-3524bd219ed6",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -34,6 +37,7 @@
    "reports": 2,
    "latest_report_amount": 2700000.0,
    "latest_report": "8a799cbb-419a-4952-9603-8ee95180d301",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00009985"
    ],
@@ -47,6 +51,7 @@
    "reports": 2,
    "latest_report_amount": 2230000.0,
    "latest_report": "4163eb0c-5ca7-489f-bbdb-5bf70f2ede92",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00426775"
    ],
@@ -58,10 +63,35 @@
    "client": "PARAMOUNT SKYDANCE CORPORATION",
    "display_name": "Paramount Skydance",
    "reports": 3,
-   "latest_report_amount": 1860000.0,
-   "latest_report": "2327a48d-4e23-44e7-a3bc-79848a1bbd31",
+   "latest_report_amount": 1970000.0,
+   "latest_report": "6045e588-26e4-45a0-a7ad-546700be281d",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
+  },
+  {
+   "client": "AMERICAN ASSOCIATION FOR JUSTICE",
+   "display_name": "American Association for Justice",
+   "reports": 6,
+   "latest_report_amount": 1580000.0,
+   "latest_report": "3d207ca1-0d36-4dea-a158-ec7ef9193754",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "ENTERTAINMENT SOFTWARE ASSOCIATION",
+   "display_name": "Entertainment Software Association",
+   "reports": 3,
+   "latest_report_amount": 1370000.0,
+   "latest_report": "d75299ce-124f-430e-ade8-52130d1af3b8",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00439216"
+   ],
+   "pac_names": [
+    "ENTERTAINMENT SOFTWARE ASSOCIATION PAC (ESA PAC)"
+   ]
   },
   {
    "client": "DISNEY WORLDWIDE SERVICES INC",
@@ -69,6 +99,7 @@
    "reports": 2,
    "latest_report_amount": 930000.0,
    "latest_report": "1c7cf009-b24f-497f-8c78-cc7076594bef",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -78,6 +109,7 @@
    "reports": 2,
    "latest_report_amount": 920000.0,
    "latest_report": "81e8f17a-e7cc-456f-9c97-fd1429a14646",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00003806"
    ],
@@ -86,11 +118,22 @@
    ]
   },
   {
+   "client": "KALSHI",
+   "display_name": "Kalshi",
+   "reports": 4,
+   "latest_report_amount": 800000.0,
+   "latest_report": "46486f29-cafd-4ebf-8f55-65487521cec9",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
    "client": "AMERICAN FEDERATION OF STATE COUNTY AND MUNICIPAL EMPLOYEES",
    "display_name": "AFSCME",
    "reports": 1,
    "latest_report_amount": 570000.0,
    "latest_report": "88653fa4-d87c-4e9e-be6b-638090c666f3",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00011114"
    ],
@@ -104,6 +147,7 @@
    "reports": 1,
    "latest_report_amount": 350000.0,
    "latest_report": "2a38440a-a97d-46d0-9eb0-5869d23858db",
+   "latest_report_period": "2026 second_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -113,6 +157,7 @@
    "reports": 1,
    "latest_report_amount": 310000.0,
    "latest_report": "a1ccd7bf-26d5-4509-a3f5-4402299e7f63",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -122,6 +167,7 @@
    "reports": 1,
    "latest_report_amount": 291000.0,
    "latest_report": "20b12731-909c-4895-88f3-b494e3fedd45",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -131,6 +177,7 @@
    "reports": 4,
    "latest_report_amount": 290000.0,
    "latest_report": "ceeaa175-29ab-486a-b8d8-753507f9b7d4",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -140,6 +187,7 @@
    "reports": 2,
    "latest_report_amount": 250000.0,
    "latest_report": "7a5dcf15-5f76-455a-babb-d1da8d447d7b",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -149,6 +197,7 @@
    "reports": 4,
    "latest_report_amount": 240000.0,
    "latest_report": "83e8e700-5331-4c02-b975-9640927cf57a",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -158,6 +207,17 @@
    "reports": 1,
    "latest_report_amount": 220000.0,
    "latest_report": "3632e6d9-f8a6-4426-a4e0-32c442836f95",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "DUKE UNIVERSITY",
+   "display_name": "Duke University",
+   "reports": 4,
+   "latest_report_amount": 201000.0,
+   "latest_report": "ba508900-99e7-466f-9603-47c61e3b7659",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -167,6 +227,7 @@
    "reports": 2,
    "latest_report_amount": 200000.0,
    "latest_report": "0e7743dd-30e4-4bb7-ae9f-38da2ce1192c",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -176,6 +237,7 @@
    "reports": 1,
    "latest_report_amount": 200000.0,
    "latest_report": "bba98c91-07c0-42fd-9520-a49f083ecdef",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -185,6 +247,7 @@
    "reports": 2,
    "latest_report_amount": 180000.0,
    "latest_report": "23533c48-01a3-4828-9247-90955afd9660",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -194,6 +257,27 @@
    "reports": 2,
    "latest_report_amount": 170000.0,
    "latest_report": "7a4d9126-4caa-422c-a641-f80949b2c451",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NATIONAL HOCKEY LEAGUE",
+   "display_name": "National Hockey League",
+   "reports": 5,
+   "latest_report_amount": 150000.0,
+   "latest_report": "8dd7c960-a130-42f1-9620-e7052e387ac2",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "BIG TEN CONFERENCE",
+   "display_name": "Big Ten Conference",
+   "reports": 3,
+   "latest_report_amount": 150000.0,
+   "latest_report": "1f07d999-082d-4acb-be26-4edb7325062f",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -203,6 +287,7 @@
    "reports": 2,
    "latest_report_amount": 150000.0,
    "latest_report": "91aecb52-3714-4534-ab43-742fb130779e",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -212,6 +297,7 @@
    "reports": 2,
    "latest_report_amount": 150000.0,
    "latest_report": "22c0f398-f0d6-44a4-a0d0-59ed70871d4f",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -220,7 +306,8 @@
    "display_name": "University of Illinois",
    "reports": 4,
    "latest_report_amount": 140000.0,
-   "latest_report": "b4bb7aa7-c2df-473e-b9a0-2970e99b59a1",
+   "latest_report": "68860f95-7b98-416a-a898-f36e8039fd68",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -230,6 +317,7 @@
    "reports": 1,
    "latest_report_amount": 140000.0,
    "latest_report": "0b40e767-3673-411c-a6d4-4ac5c86a3c81",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -239,6 +327,17 @@
    "reports": 3,
    "latest_report_amount": 135000.0,
    "latest_report": "b40166d4-e374-4a92-8185-23a28e7d97f0",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "STANFORD UNIVERSITY",
+   "display_name": "Stanford University",
+   "reports": 5,
+   "latest_report_amount": 120000.0,
+   "latest_report": "6aaded7d-5c7c-44f1-83fc-d75c0812179f",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -248,6 +347,7 @@
    "reports": 2,
    "latest_report_amount": 112000.0,
    "latest_report": "9b9eb533-568e-45bc-9e03-3d2ca96b3ac6",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -257,6 +357,7 @@
    "reports": 1,
    "latest_report_amount": 105000.0,
    "latest_report": "e7f31239-ee6e-492d-b5f0-c53423f9855a",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -266,6 +367,7 @@
    "reports": 2,
    "latest_report_amount": 90115.0,
    "latest_report": "7efa7657-8037-4fec-9fb3-f04d720f2d44",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -275,6 +377,7 @@
    "reports": 2,
    "latest_report_amount": 90000.0,
    "latest_report": "ed978166-4a6a-41a2-9bce-a008b2dc5810",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -284,6 +387,7 @@
    "reports": 6,
    "latest_report_amount": 90000.0,
    "latest_report": "fb9db96c-e69b-477e-9591-3643beba40cd",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -293,15 +397,7 @@
    "reports": 2,
    "latest_report_amount": 90000.0,
    "latest_report": "178dd40d-1878-4346-a7eb-721c27ba4c1a",
-   "pac_ids": [],
-   "pac_names": []
-  },
-  {
-   "client": "AMERICAN ASSOCIATION FOR JUSTICE",
-   "display_name": "American Association for Justice",
-   "reports": 6,
-   "latest_report_amount": 90000.0,
-   "latest_report": "913e9c08-16b2-4996-82a9-ed0925a7878d",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -311,6 +407,7 @@
    "reports": 2,
    "latest_report_amount": 90000.0,
    "latest_report": "8764a09c-46ef-49ad-85cc-8d730e4aed40",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -320,6 +417,7 @@
    "reports": 2,
    "latest_report_amount": 90000.0,
    "latest_report": "345570b2-b79f-4a6f-97e0-abcdf7410706",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -329,35 +427,23 @@
    "reports": 2,
    "latest_report_amount": 80000.0,
    "latest_report": "a3454b05-bf89-4690-8e5a-c2b94ef9b028",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
   {
-   "client": "DUKE UNIVERSITY",
-   "display_name": "Duke University",
-   "reports": 4,
+   "client": "NATIONAL ATHLETIC TRAINERS ASSOCIATION",
+   "display_name": "National Athletic Trainers Association",
+   "reports": 5,
    "latest_report_amount": 80000.0,
-   "latest_report": "ba92f406-03f5-4531-b850-066e40a032df",
-   "pac_ids": [],
-   "pac_names": []
-  },
-  {
-   "client": "KALSHI",
-   "display_name": "Kalshi",
-   "reports": 4,
-   "latest_report_amount": 80000.0,
-   "latest_report": "c93f0616-5864-4605-a7ed-0f377dba0715",
-   "pac_ids": [],
-   "pac_names": []
-  },
-  {
-   "client": "BIG TEN CONFERENCE",
-   "display_name": "Big Ten Conference",
-   "reports": 3,
-   "latest_report_amount": 80000.0,
-   "latest_report": "44290669-a088-4383-b524-c0d755f735a3",
-   "pac_ids": [],
-   "pac_names": []
+   "latest_report": "bdeeba39-bf89-47f1-9d28-cc2d456f319c",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00408518"
+   ],
+   "pac_names": [
+    "NATIONAL ATHLETIC TRAINERS' ASSOCIATION INC POLITICAL ACTION COMMITTEE"
+   ]
   },
   {
    "client": "UNIVERSITY OF COLORADO",
@@ -365,6 +451,7 @@
    "reports": 1,
    "latest_report_amount": 80000.0,
    "latest_report": "e942e275-1365-467a-b8b0-ef00514dff95",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -374,6 +461,7 @@
    "reports": 1,
    "latest_report_amount": 80000.0,
    "latest_report": "90a51052-99b1-4f28-8d99-f296e31fec15",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -383,6 +471,7 @@
    "reports": 2,
    "latest_report_amount": 70000.0,
    "latest_report": "62aac7ec-cb20-475b-89ca-38a0a33aceb9",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -392,6 +481,7 @@
    "reports": 3,
    "latest_report_amount": 70000.0,
    "latest_report": "0707c516-1b5c-4b32-8dca-af2c57d2752d",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -401,6 +491,7 @@
    "reports": 1,
    "latest_report_amount": 70000.0,
    "latest_report": "83c0c048-7b06-4f36-815c-ff0d8ff56681",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -410,6 +501,7 @@
    "reports": 2,
    "latest_report_amount": 70000.0,
    "latest_report": "037e2d18-a436-4aa5-bab7-9010d9fed49f",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -419,6 +511,7 @@
    "reports": 2,
    "latest_report_amount": 70000.0,
    "latest_report": "6dc17b80-5429-41fb-b6e4-1989638d18e7",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -428,6 +521,7 @@
    "reports": 2,
    "latest_report_amount": 60000.0,
    "latest_report": "c9b89fa0-25dc-4c37-a749-6eb8daa74eda",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -437,6 +531,7 @@
    "reports": 2,
    "latest_report_amount": 60000.0,
    "latest_report": "a8927212-02c9-4163-8b57-4438432915c7",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -446,6 +541,7 @@
    "reports": 2,
    "latest_report_amount": 60000.0,
    "latest_report": "e75186e7-57c7-4da0-b74d-91d7ea900606",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -455,6 +551,7 @@
    "reports": 1,
    "latest_report_amount": 60000.0,
    "latest_report": "edce80b7-8135-4a3a-a9da-6522fca3ef3f",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -464,6 +561,7 @@
    "reports": 1,
    "latest_report_amount": 60000.0,
    "latest_report": "47c1e6c9-56a9-4d97-84bb-8b4ab27ea6d9",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -473,6 +571,7 @@
    "reports": 2,
    "latest_report_amount": 60000.0,
    "latest_report": "397b3d46-5866-4493-9f29-69e84f694e73",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -482,6 +581,7 @@
    "reports": 1,
    "latest_report_amount": 60000.0,
    "latest_report": "d1293066-80af-48c5-9349-3f754182d9d7",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00142786"
    ],
@@ -495,6 +595,7 @@
    "reports": 1,
    "latest_report_amount": 60000.0,
    "latest_report": "732e3900-81f6-4db3-ae2e-a70e6a689386",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -504,6 +605,7 @@
    "reports": 2,
    "latest_report_amount": 55000.0,
    "latest_report": "1a412611-b798-492b-b354-b6d47e608790",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -513,6 +615,7 @@
    "reports": 2,
    "latest_report_amount": 55000.0,
    "latest_report": "0468aa4c-e847-4e80-b7e9-e60114b1d014",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -522,6 +625,7 @@
    "reports": 2,
    "latest_report_amount": 50000.0,
    "latest_report": "a0d184ce-0d53-4049-bf50-48c32ac924c9",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -531,21 +635,9 @@
    "reports": 4,
    "latest_report_amount": 50000.0,
    "latest_report": "002c79b2-d51a-4f31-9b96-7165ca2bf9cb",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
-  },
-  {
-   "client": "ENTERTAINMENT SOFTWARE ASSOCIATION",
-   "display_name": "Entertainment Software Association",
-   "reports": 3,
-   "latest_report_amount": 50000.0,
-   "latest_report": "81839156-840c-4101-8ac9-da780a10fd9d",
-   "pac_ids": [
-    "C00439216"
-   ],
-   "pac_names": [
-    "ENTERTAINMENT SOFTWARE ASSOCIATION PAC (ESA PAC)"
-   ]
   },
   {
    "client": "AMERICAN ARBITRATION ASSOCIATION",
@@ -553,6 +645,7 @@
    "reports": 1,
    "latest_report_amount": 50000.0,
    "latest_report": "6713c8c5-da29-494b-abcc-acf97f696513",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -562,6 +655,7 @@
    "reports": 2,
    "latest_report_amount": 50000.0,
    "latest_report": "189115a1-e889-4c65-82d7-0cd6fe44b777",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -571,6 +665,7 @@
    "reports": 2,
    "latest_report_amount": 50000.0,
    "latest_report": "82725610-9297-4a8c-9e6b-f59c961491f7",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -580,6 +675,7 @@
    "reports": 2,
    "latest_report_amount": 50000.0,
    "latest_report": "846e6dd5-0fe3-4e3b-8f5d-e52c2f67e9d6",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -589,6 +685,17 @@
    "reports": 2,
    "latest_report_amount": 50000.0,
    "latest_report": "ec53b3ad-95a3-4b3b-9101-82bfbff313fc",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "AMERICAN FOOTBALL COACHES ASSOCIATION",
+   "display_name": "American Football Coaches Association",
+   "reports": 4,
+   "latest_report_amount": 50000.0,
+   "latest_report": "21246e5d-c57b-4bb1-b4fd-08793386adda",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -598,6 +705,7 @@
    "reports": 1,
    "latest_report_amount": 50000.0,
    "latest_report": "f6578686-c2e3-4a84-bb52-d148c0e072cb",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -607,6 +715,7 @@
    "reports": 1,
    "latest_report_amount": 50000.0,
    "latest_report": "cbcb7e07-b124-4074-8918-0a7a166d2cba",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -616,6 +725,7 @@
    "reports": 1,
    "latest_report_amount": 50000.0,
    "latest_report": "f27d924d-1808-41c9-bc93-04c016b75d81",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -625,6 +735,7 @@
    "reports": 1,
    "latest_report_amount": 50000.0,
    "latest_report": "69534998-1d3e-4f6c-8038-8a90ec61c3b2",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -634,6 +745,7 @@
    "reports": 1,
    "latest_report_amount": 50000.0,
    "latest_report": "c8982414-1f43-488e-a599-fd5feccbefa6",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00938142"
    ],
@@ -647,6 +759,7 @@
    "reports": 1,
    "latest_report_amount": 40000.0,
    "latest_report": "7547415f-da4a-424c-8036-a331155d0a3c",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -656,6 +769,7 @@
    "reports": 2,
    "latest_report_amount": 40000.0,
    "latest_report": "71c774bc-6dd9-4c52-b612-fe0dd06346fd",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -665,6 +779,7 @@
    "reports": 2,
    "latest_report_amount": 40000.0,
    "latest_report": "7170bf34-3ef4-44ea-b6cd-c47a6d95b0db",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -674,6 +789,7 @@
    "reports": 1,
    "latest_report_amount": 40000.0,
    "latest_report": "bdba2a1e-77c4-4c4a-88cc-9ebf069f3b78",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -683,6 +799,7 @@
    "reports": 1,
    "latest_report_amount": 40000.0,
    "latest_report": "de960460-8ec6-4d80-949a-0084c19dd696",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -692,6 +809,7 @@
    "reports": 2,
    "latest_report_amount": 30000.0,
    "latest_report": "82cd111a-604d-46a2-b836-a1f90135f1bd",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -701,6 +819,7 @@
    "reports": 2,
    "latest_report_amount": 30000.0,
    "latest_report": "d91c7a93-8879-49ac-98db-bd5592689ecc",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -710,6 +829,7 @@
    "reports": 2,
    "latest_report_amount": 30000.0,
    "latest_report": "e2bd069c-6b8c-43d3-8cf0-905c146eb94f",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -719,6 +839,7 @@
    "reports": 2,
    "latest_report_amount": 30000.0,
    "latest_report": "0ab28085-ed07-4ef0-8d79-395c0a4ed510",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -728,6 +849,7 @@
    "reports": 2,
    "latest_report_amount": 30000.0,
    "latest_report": "305da7a9-0afe-4f39-8815-c22a378f0119",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -737,6 +859,7 @@
    "reports": 1,
    "latest_report_amount": 30000.0,
    "latest_report": "4c29e0d7-54ac-47d7-92ad-73686145bafc",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -746,6 +869,7 @@
    "reports": 1,
    "latest_report_amount": 30000.0,
    "latest_report": "7f3fd85e-4ccc-450e-858a-b2b6c5ced5b0",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -755,6 +879,7 @@
    "reports": 1,
    "latest_report_amount": 30000.0,
    "latest_report": "06ebf552-4d70-45f0-96d0-847621337950",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -764,6 +889,7 @@
    "reports": 2,
    "latest_report_amount": 27000.0,
    "latest_report": "4267b797-975a-4ac1-80c3-4af64ae8e90b",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -773,6 +899,7 @@
    "reports": 2,
    "latest_report_amount": 20000.0,
    "latest_report": "4ec107cc-9e0e-44d5-8885-8da805c2f39e",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -782,21 +909,9 @@
    "reports": 2,
    "latest_report_amount": 20000.0,
    "latest_report": "b966e94a-205f-4c29-8713-b81edd3be446",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
-  },
-  {
-   "client": "NATIONAL ATHLETIC TRAINERS ASSOCIATION",
-   "display_name": "National Athletic Trainers Association",
-   "reports": 5,
-   "latest_report_amount": 20000.0,
-   "latest_report": "d4429acc-20f8-43a8-9eba-b44e8bb3d116",
-   "pac_ids": [
-    "C00408518"
-   ],
-   "pac_names": [
-    "NATIONAL ATHLETIC TRAINERS' ASSOCIATION INC POLITICAL ACTION COMMITTEE"
-   ]
   },
   {
    "client": "ASSOCIATION OF NATIONAL ADVERTISERS",
@@ -804,15 +919,7 @@
    "reports": 1,
    "latest_report_amount": 20000.0,
    "latest_report": "e9a95056-ce63-4731-916d-6a41d0f2eed8",
-   "pac_ids": [],
-   "pac_names": []
-  },
-  {
-   "client": "STANFORD UNIVERSITY",
-   "display_name": "Stanford University",
-   "reports": 5,
-   "latest_report_amount": 20000.0,
-   "latest_report": "37c8a4b8-d67f-434a-a9d6-ff539c3ff8c9",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -822,6 +929,7 @@
    "reports": 1,
    "latest_report_amount": 20000.0,
    "latest_report": "70d7b65a-1177-426c-a5e1-6976e309d10f",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -831,6 +939,7 @@
    "reports": 1,
    "latest_report_amount": 20000.0,
    "latest_report": "8ce39a0a-e831-43e2-bad5-109db2d7b33a",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -840,6 +949,7 @@
    "reports": 1,
    "latest_report_amount": 15500.0,
    "latest_report": "fb7fca0e-9838-4c54-a9dc-ef813ec8827e",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -848,7 +958,8 @@
    "display_name": "National Basketball Players Association",
    "reports": 3,
    "latest_report_amount": 10000.0,
-   "latest_report": "084e4a14-cef9-4bcf-8736-aca5945e1aad",
+   "latest_report": "26d32e6e-f9a3-4a03-82c8-ef9409b3c2e5",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -858,6 +969,7 @@
    "reports": 2,
    "latest_report_amount": 10000.0,
    "latest_report": "125b82f4-7d8f-4894-b48f-07b12192931c",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00619429"
    ],
@@ -871,6 +983,7 @@
    "reports": 2,
    "latest_report_amount": 10000.0,
    "latest_report": "fa48c5c6-ae8f-4fd6-a71f-268df31e1ad8",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -880,6 +993,7 @@
    "reports": 2,
    "latest_report_amount": 10000.0,
    "latest_report": "32a32909-06fa-48fe-a5ec-4804e189169a",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -889,15 +1003,7 @@
    "reports": 1,
    "latest_report_amount": 10000.0,
    "latest_report": "d15c2b30-24ca-4cb6-8688-d3111a97ba5e",
-   "pac_ids": [],
-   "pac_names": []
-  },
-  {
-   "client": "AMERICAN FOOTBALL COACHES ASSOCIATION",
-   "display_name": "American Football Coaches Association",
-   "reports": 4,
-   "latest_report_amount": 10000.0,
-   "latest_report": "178800ce-2967-49ac-9891-34c42c7d9e61",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -907,15 +1013,7 @@
    "reports": 2,
    "latest_report_amount": 10000.0,
    "latest_report": "d3597cb6-a2ef-4d00-8bd1-57a9a9157ebe",
-   "pac_ids": [],
-   "pac_names": []
-  },
-  {
-   "client": "NATIONAL HOCKEY LEAGUE",
-   "display_name": "National Hockey League",
-   "reports": 5,
-   "latest_report_amount": null,
-   "latest_report": "b9820740-6539-447b-ba5d-0d1cbba335ad",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -925,6 +1023,7 @@
    "reports": 1,
    "latest_report_amount": null,
    "latest_report": "ed4ecb31-2fa6-4335-8908-eacb79472c77",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -934,6 +1033,7 @@
    "reports": 1,
    "latest_report_amount": null,
    "latest_report": "f79e6779-6d80-4bce-bb92-a9bf7766752d",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -943,6 +1043,7 @@
    "reports": 1,
    "latest_report_amount": null,
    "latest_report": "a8864493-69e7-400f-911f-b49de0226551",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -952,6 +1053,7 @@
    "reports": 1,
    "latest_report_amount": null,
    "latest_report": "a4a2420a-1456-4e62-8b4a-820177e25c30",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   }
@@ -963,6 +1065,7 @@
    "reports": 2,
    "latest_report_amount": 4490000.0,
    "latest_report": "f57759bc-7305-428e-83b4-7c4ce6195bbf",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00360354"
    ],
@@ -976,6 +1079,7 @@
    "reports": 2,
    "latest_report_amount": 2700000.0,
    "latest_report": "8a799cbb-419a-4952-9603-8ee95180d301",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00009985"
    ],
@@ -989,6 +1093,7 @@
    "reports": 2,
    "latest_report_amount": 2230000.0,
    "latest_report": "4163eb0c-5ca7-489f-bbdb-5bf70f2ede92",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00426775"
    ],
@@ -997,29 +1102,31 @@
    ]
   },
   {
+   "client": "ENTERTAINMENT SOFTWARE ASSOCIATION",
+   "display_name": "Entertainment Software Association",
+   "reports": 3,
+   "latest_report_amount": 1370000.0,
+   "latest_report": "d75299ce-124f-430e-ade8-52130d1af3b8",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00439216"
+   ],
+   "pac_names": [
+    "ENTERTAINMENT SOFTWARE ASSOCIATION PAC (ESA PAC)"
+   ]
+  },
+  {
    "client": "AFL-CIO",
    "display_name": "AFL-CIO",
    "reports": 2,
    "latest_report_amount": 920000.0,
    "latest_report": "81e8f17a-e7cc-456f-9c97-fd1429a14646",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00003806"
    ],
    "pac_names": [
     "AFL-CIO COPE POLITICAL CONTRIBUTIONS COMMITTEE"
-   ]
-  },
-  {
-   "client": "AMERICAN FEDERATION OF STATE COUNTY AND MUNICIPAL EMPLOYEES",
-   "display_name": "AFSCME",
-   "reports": 1,
-   "latest_report_amount": 570000.0,
-   "latest_report": "88653fa4-d87c-4e9e-be6b-638090c666f3",
-   "pac_ids": [
-    "C00011114"
-   ],
-   "pac_names": [
-    "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E"
    ]
   }
  ],

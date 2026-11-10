@@ -1184,8 +1184,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00792598",
+  "committee_name": "MARK ALFORD FOR CONGRESS, INC.",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1599365.96,
+  "amounts": {
+   "individuals_200_or_less": 17859.5,
+   "individuals_over_200": 829555.7,
+   "pacs_and_parties": 699810.91,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 50139.85,
+   "other_receipts": 2000.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    1
+   ],
+   [
+    "Individuals giving more than $200",
+    54
+   ],
+   [
+    "PACs and party committees",
+    45
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 870475.8,
+   "home_state": "MO",
+   "home_state_total": 350629.33,
+   "home_state_share": 40,
+   "top": [
+    {
+     "state": "MO",
+     "state_full": "Missouri",
+     "total": 350629.33,
+     "count": 301
+    },
+    {
+     "state": "KS",
+     "state_full": "Kansas",
+     "total": 134674.02,
+     "count": 80
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 64634.64,
+     "count": 37
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 64562.81,
+     "count": 58
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 37250.0,
+     "count": 46
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 36800.0,
+     "count": 36
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 31250.0,
+     "count": 28
+    },
+    {
+     "state": "IA",
+     "state_full": "Iowa",
+     "total": 17000.0,
+     "count": 10
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 15500.0,
+     "count": 10
+    },
+    {
+     "state": "OT",
+     "state_full": "Other",
+     "total": 11800.0,
+     "count": 7
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "COMMUNITY",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "THE BOEING COMPANY PAC",
+     "total": 13000.0,
+     "count": 5
+    },
+    {
+     "employer": "GOLDEN VALLEY HEALTH",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "CORNERSTONE GOVERNMENT AFFAIRS",
+     "total": 8750.0,
+     "count": 10
+    },
+    {
+     "employer": "VETERANS GUARDIAN",
+     "total": 7500.0,
+     "count": 3
+    },
+    {
+     "employer": "WALZ TETRICK ADVERTISING",
+     "total": 7065.06,
+     "count": 2
+    },
+    {
+     "employer": "WARD MANAGEMENT",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "TOCCO - MALLORY KNOWS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "GME ALLIANCE",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ENTREPRENEUR",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -1899,8 +1899,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00694778",
+  "committee_name": "NICOLE FOR NEW YORK",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 3315036.94,
+  "amounts": {
+   "individuals_200_or_less": 272895.72,
+   "individuals_over_200": 1096062.9,
+   "pacs_and_parties": 1328300.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 490506.24,
+   "other_receipts": 105623.18
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    10
+   ],
+   [
+    "Individuals giving more than $200",
+    41
+   ],
+   [
+    "PACs and party committees",
+    49
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1590625.56,
+   "home_state": "NY",
+   "home_state_total": 784018.51,
+   "home_state_share": 49,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 784018.51,
+     "count": 1765
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 133932.77,
+     "count": 114
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 122525.69,
+     "count": 111
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 120102.05,
+     "count": 182
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 63747.27,
+     "count": 54
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 62078.35,
+     "count": 99
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 41524.75,
+     "count": 47
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 34451.1,
+     "count": 48
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 28352.79,
+     "count": 22
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 27954.72,
+     "count": 25
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "GAMECHANGE SOLAR",
+     "total": 31450.0,
+     "count": 15
+    },
+    {
+     "employer": "ATTORNEY",
+     "total": 18019.79,
+     "count": 7
+    },
+    {
+     "employer": "BLACKSTONE",
+     "total": 14000.0,
+     "count": 5
+    },
+    {
+     "employer": "CHAIRMAN",
+     "total": 14000.0,
+     "count": 5
+    },
+    {
+     "employer": "APOLLO",
+     "total": 12000.0,
+     "count": 6
+    },
+    {
+     "employer": "APOLLO GLOBAL MANAGEMENT",
+     "total": 9500.0,
+     "count": 6
+    },
+    {
+     "employer": "ATLAS CROSSING",
+     "total": 8500.0,
+     "count": 9
+    },
+    {
+     "employer": "NEW MOUNTAIN CAPITAL",
+     "total": 8000.0,
+     "count": 4
+    },
+    {
+     "employer": "CONSULTANT",
+     "total": 7500.0,
+     "count": 3
+    },
+    {
+     "employer": "COINBASE",
+     "total": 7000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -2557,8 +2557,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00852137",
+  "committee_name": "ROB FOR PA",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 6519139.21,
+  "amounts": {
+   "individuals_200_or_less": 799992.05,
+   "individuals_over_200": 1696777.27,
+   "pacs_and_parties": 1668352.0,
+   "candidate_own": 60486.35,
+   "transfers_from_authorized": 2286159.49,
+   "other_receipts": 0.02
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    19
+   ],
+   [
+    "Individuals giving more than $200",
+    40
+   ],
+   [
+    "PACs and party committees",
+    40
+   ],
+   [
+    "Candidate’s own money",
+    1
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 3406522.72,
+   "home_state": "PA",
+   "home_state_total": 1087130.81,
+   "home_state_share": 32,
+   "top": [
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 1087130.81,
+     "count": 1614
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 488209.86,
+     "count": 737
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 385232.12,
+     "count": 593
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 212130.02,
+     "count": 432
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 206626.99,
+     "count": 200
+    },
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 91629.8,
+     "count": 71
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 91038.26,
+     "count": 125
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 74365.09,
+     "count": 162
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 61463.46,
+     "count": 158
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 52834.08,
+     "count": 85
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "MILLER STRATEGIES",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
+     "employer": "COINBASE",
+     "total": 14875.0,
+     "count": 6
+    },
+    {
+     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "STARKEY HEARING TECHNOLOGIES",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "GENTEX CORPORATION",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "VALMORE GP",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "employer": "RHL COMPANIES",
+     "total": 12500.0,
+     "count": 7
+    },
+    {
+     "employer": "ATTORNEY",
+     "total": 12398.41,
+     "count": 11
+    },
+    {
+     "employer": "DISTRIBUTED CAPITAL PARTNERS",
+     "total": 12200.0,
+     "count": 4
+    },
+    {
+     "employer": "CEO",
+     "total": 10969.05,
+     "count": 6
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

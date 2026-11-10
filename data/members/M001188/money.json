@@ -1127,8 +1127,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00516666",
+  "committee_name": "GRACE FOR NEW YORK",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2199074.16,
+  "amounts": {
+   "individuals_200_or_less": 23175.83,
+   "individuals_over_200": 1355642.69,
+   "pacs_and_parties": 701800.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 114175.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    1
+   ],
+   [
+    "Individuals giving more than $200",
+    65
+   ],
+   [
+    "PACs and party committees",
+    34
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1444692.33,
+   "home_state": "NY",
+   "home_state_total": 1004188.16,
+   "home_state_share": 70,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 1004188.16,
+     "count": 855
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 70500.0,
+     "count": 29
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 70100.0,
+     "count": 39
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 67600.0,
+     "count": 41
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 46015.6,
+     "count": 27
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 31210.0,
+     "count": 21
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 29500.0,
+     "count": 40
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 16250.0,
+     "count": 34
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 15000.0,
+     "count": 8
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 12507.14,
+     "count": 17
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ANTHROPIC",
+     "total": 17000.0,
+     "count": 5
+    },
+    {
+     "employer": "AMPAC INDUSTRIAL",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "KIMCO REALTY",
+     "total": 11000.0,
+     "count": 4
+    },
+    {
+     "employer": "REESE LLP",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "PRINCETON UNIVERSITY",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "THEGROUP",
+     "total": 10000.0,
+     "count": 6
+    },
+    {
+     "employer": "SCHONFELD STRATEGIC ADVISORS",
+     "total": 7800.0,
+     "count": 3
+    },
+    {
+     "employer": "INNOVET",
+     "total": 7500.0,
+     "count": 4
+    },
+    {
+     "employer": "CRYSTAL WINDOW",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SHINE ELECTRONICS",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

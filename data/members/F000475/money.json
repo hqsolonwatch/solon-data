@@ -1657,8 +1657,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00807743",
+  "committee_name": "FINSTAD FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2765869.64,
+  "amounts": {
+   "individuals_200_or_less": 183747.96,
+   "individuals_over_200": 850662.16,
+   "pacs_and_parties": 1356913.67,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 374545.84,
+   "other_receipts": 0.01
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    8
+   ],
+   [
+    "Individuals giving more than $200",
+    35
+   ],
+   [
+    "PACs and party committees",
+    57
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 981048.93,
+   "home_state": "MN",
+   "home_state_total": 687772.06,
+   "home_state_share": 70,
+   "top": [
+    {
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 687772.06,
+     "count": 1011
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 43318.25,
+     "count": 17
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 42756.54,
+     "count": 36
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 35491.97,
+     "count": 26
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 31697.37,
+     "count": 34
+    },
+    {
+     "state": "NE",
+     "state_full": "Nebraska",
+     "total": 26500.0,
+     "count": 9
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 20791.02,
+     "count": 20
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 16764.71,
+     "count": 10
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 11946.02,
+     "count": 16
+    },
+    {
+     "state": "SD",
+     "state_full": "South Dakota",
+     "total": 11143.56,
+     "count": 8
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ANNO.AI",
+     "total": 21410.16,
+     "count": 13
+    },
+    {
+     "employer": "MARQUIS MANAGEMENT INC",
+     "total": 21000.0,
+     "count": 9
+    },
+    {
+     "employer": "CHRISTENSEN FARMS",
+     "total": 14666.67,
+     "count": 6
+    },
+    {
+     "employer": "STARKEY",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "STARKEY HEARING TECHNOLOGIES",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "INKIT",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "employer": "KING CAPITAL",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ULINE",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "NEW FASHION PORK",
+     "total": 12000.0,
+     "count": 6
+    },
+    {
+     "employer": "DOWNS FOOD GROUP",
+     "total": 12000.0,
+     "count": 5
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

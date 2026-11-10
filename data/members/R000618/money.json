@@ -1819,8 +1819,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00832436",
+  "committee_name": "PETE RICKETTS FOR SENATE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 14546959.4,
+  "amounts": {
+   "individuals_200_or_less": 322650.5,
+   "individuals_over_200": 2538856.74,
+   "pacs_and_parties": 1974380.93,
+   "candidate_own": 7296347.74,
+   "transfers_from_authorized": 2334894.1,
+   "other_receipts": 64943.42
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    3
+   ],
+   [
+    "Individuals giving more than $200",
+    21
+   ],
+   [
+    "PACs and party committees",
+    16
+   ],
+   [
+    "Candidate’s own money",
+    60
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 3967574.79,
+   "home_state": "NE",
+   "home_state_total": 1472608.68,
+   "home_state_share": 37,
+   "top": [
+    {
+     "state": "NE",
+     "state_full": "Nebraska",
+     "total": 1472608.68,
+     "count": 835
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 257902.44,
+     "count": 108
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 248262.2,
+     "count": 170
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 227212.59,
+     "count": 221
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 205486.01,
+     "count": 278
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 182607.95,
+     "count": 218
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 125473.22,
+     "count": 94
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 116280.17,
+     "count": 98
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 106250.0,
+     "count": 51
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 105632.25,
+     "count": 53
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "PEARSON & ASSOCIATES",
+     "total": 236360.47,
+     "count": 228
+    },
+    {
+     "employer": "HOLTZMAN VOGEL, PLLC",
+     "total": 80400.0,
+     "count": 27
+    },
+    {
+     "employer": "BP",
+     "total": 65700.0,
+     "count": 27
+    },
+    {
+     "employer": "GREENAMERICAN BIOFUELS",
+     "total": 39000.0,
+     "count": 13
+    },
+    {
+     "employer": "ANTHROPIC",
+     "total": 35000.0,
+     "count": 10
+    },
+    {
+     "employer": "S-3 GROUP",
+     "total": 34885.0,
+     "count": 35
+    },
+    {
+     "employer": "U.S. TRAVEL ASSOCIATION",
+     "total": 29750.0,
+     "count": 11
+    },
+    {
+     "employer": "MARQUIS MANAGEMENT, INC.",
+     "total": 24500.0,
+     "count": 13
+    },
+    {
+     "employer": "SANDHILLS PUBLISHING",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
+     "employer": "COINBASE",
+     "total": 17500.0,
+     "count": 6
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

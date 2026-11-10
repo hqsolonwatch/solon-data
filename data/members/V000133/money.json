@@ -752,8 +752,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00661868",
+  "committee_name": "VAN DREW FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2414607.2,
+  "amounts": {
+   "individuals_200_or_less": 272983.55,
+   "individuals_over_200": 1641846.3,
+   "pacs_and_parties": 450170.51,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 43535.36,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    12
+   ],
+   [
+    "Individuals giving more than $200",
+    69
+   ],
+   [
+    "PACs and party committees",
+    19
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1373384.04,
+   "home_state": "NJ",
+   "home_state_total": 1062865.53,
+   "home_state_share": 77,
+   "top": [
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 1062865.53,
+     "count": 1731
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 102493.3,
+     "count": 163
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 89927.63,
+     "count": 168
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 14977.41,
+     "count": 100
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 14883.07,
+     "count": 95
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 11000.0,
+     "count": 8
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 10300.0,
+     "count": 11
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 9230.15,
+     "count": 39
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 8117.4,
+     "count": 25
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 6998.68,
+     "count": 30
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ENTREPRENEUR",
+     "total": 26114.0,
+     "count": 56
+    },
+    {
+     "employer": "COOPER UNIVERSITY HEALTH CARE",
+     "total": 10500.0,
+     "count": 4
+    },
+    {
+     "employer": "PULSE VASCULAR",
+     "total": 10243.56,
+     "count": 6
+    },
+    {
+     "employer": "SILVI MATERIALS INC",
+     "total": 9700.0,
+     "count": 8
+    },
+    {
+     "employer": "BURKE MOTOR GROUP",
+     "total": 8561.52,
+     "count": 5
+    },
+    {
+     "employer": "CAPE MAY WHALE WATCHER",
+     "total": 7500.0,
+     "count": 3
+    },
+    {
+     "employer": "HENDERSON AQUATICS",
+     "total": 7400.0,
+     "count": 11
+    },
+    {
+     "employer": "LUNDS FISHERIES INC",
+     "total": 7250.0,
+     "count": 4
+    },
+    {
+     "employer": "TRIAD ASSOCIATES",
+     "total": 7000.0,
+     "count": 5
+    },
+    {
+     "employer": "CBI SERVICES",
+     "total": 7000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

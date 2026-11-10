@@ -158,8 +158,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00663781",
+  "committee_name": "TINA SMITH FOR MINNESOTA",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 48878.44,
+  "amounts": {
+   "individuals_200_or_less": 3520.48,
+   "individuals_over_200": 11683.55,
+   "pacs_and_parties": 23000.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 10643.58
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    9
+   ],
+   [
+    "Individuals giving more than $200",
+    31
+   ],
+   [
+    "PACs and party committees",
+    60
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 11683.55,
+   "home_state": "MN",
+   "home_state_total": 6068.0,
+   "home_state_share": 52,
+   "top": [
+    {
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 6068.0,
+     "count": 359
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 3353.05,
+     "count": 6
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 1000.0,
+     "count": 1
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 278.0,
+     "count": 22
+    },
+    {
+     "state": "WI",
+     "state_full": "Wisconsin",
+     "total": 235.0,
+     "count": 7
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 175.0,
+     "count": 4
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 75.0,
+     "count": 3
+    },
+    {
+     "state": "MS",
+     "state_full": "Mississippi",
+     "total": 75.0,
+     "count": 2
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 61.0,
+     "count": 5
+    },
+    {
+     "state": "IN",
+     "state_full": "Indiana",
+     "total": 52.0,
+     "count": 7
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ALBRIGHT STONEBRIDGE GROUP LLC",
+     "total": 1000.0,
+     "count": 1
+    },
+    {
+     "employer": "EDINA REALTY, INC.",
+     "total": 500.0,
+     "count": 1
+    },
+    {
+     "employer": "MAYO CLINIC",
+     "total": 160.0,
+     "count": 7
+    },
+    {
+     "employer": "MISSISSIPPI STATE UNIV",
+     "total": 75.0,
+     "count": 2
+    },
+    {
+     "employer": "STATE OF MINNESOTA",
+     "total": 70.0,
+     "count": 3
+    },
+    {
+     "employer": "UNIVERSITY OF MINNESOTA",
+     "total": 65.0,
+     "count": 2
+    },
+    {
+     "employer": "THOMPSON COBURN LLP",
+     "total": 50.0,
+     "count": 2
+    },
+    {
+     "employer": "ISD-11",
+     "total": 50.0,
+     "count": 1
+    },
+    {
+     "employer": "HCMC",
+     "total": 50.0,
+     "count": 2
+    },
+    {
+     "employer": "AUGSBURG UNIVERSITY",
+     "total": 50.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -1011,8 +1011,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00854471",
+  "committee_name": "APRIL MCCLAIN DELANEY FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 12535127.56,
+  "amounts": {
+   "individuals_200_or_less": 43860.82,
+   "individuals_over_200": 924754.71,
+   "pacs_and_parties": 497802.78,
+   "candidate_own": 11000000.0,
+   "transfers_from_authorized": 54550.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    0
+   ],
+   [
+    "Individuals giving more than $200",
+    8
+   ],
+   [
+    "PACs and party committees",
+    4
+   ],
+   [
+    "Candidate’s own money",
+    88
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 889065.08,
+   "home_state": "MD",
+   "home_state_total": 379351.65,
+   "home_state_share": 43,
+   "top": [
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 379351.65,
+     "count": 388
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 205500.0,
+     "count": 124
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 57838.1,
+     "count": 49
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 53604.95,
+     "count": 22
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 40615.39,
+     "count": 22
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 23250.0,
+     "count": 15
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 21384.62,
+     "count": 7
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 20684.62,
+     "count": 15
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 8000.0,
+     "count": 19
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "FORBRIGHT BANK",
+     "total": 27750.0,
+     "count": 14
+    },
+    {
+     "employer": "GALLATIN POINT CAPITAL",
+     "total": 13800.0,
+     "count": 7
+    },
+    {
+     "employer": "GEORGETOWN UNIVERSITY",
+     "total": 10500.0,
+     "count": 6
+    },
+    {
+     "employer": "ANTHROPIC",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "BCG",
+     "total": 10500.0,
+     "count": 7
+    },
+    {
+     "employer": "NATIONAL JOURNAL GROUP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "EPIC ADVISORY LLC",
+     "total": 7000.0,
+     "count": 4
+    },
+    {
+     "employer": "CRESA",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "FERNANDEZ FOUNDATION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "LONE PINE CAPITAL",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

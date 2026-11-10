@@ -1531,8 +1531,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00793760",
+  "committee_name": "JOSH RILEY FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 5986868.69,
+  "amounts": {
+   "individuals_200_or_less": 571596.55,
+   "individuals_over_200": 3800113.78,
+   "pacs_and_parties": 927546.19,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 650671.37,
+   "other_receipts": 29079.08
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    11
+   ],
+   [
+    "Individuals giving more than $200",
+    72
+   ],
+   [
+    "PACs and party committees",
+    17
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 3621554.98,
+   "home_state": "NY",
+   "home_state_total": 1713057.15,
+   "home_state_share": 47,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 1713057.15,
+     "count": 5856
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 475651.47,
+     "count": 759
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 246166.0,
+     "count": 263
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 184848.39,
+     "count": 249
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 170928.05,
+     "count": 219
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 143658.64,
+     "count": 155
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 110600.56,
+     "count": 148
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 95754.18,
+     "count": 247
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 89546.48,
+     "count": 103
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 79673.15,
+     "count": 158
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "BOIES SCHILLER FLEXNER, LLP",
+     "total": 48250.0,
+     "count": 45
+    },
+    {
+     "employer": "JENNER & BLOCK, LLP",
+     "total": 38600.0,
+     "count": 36
+    },
+    {
+     "employer": "PALANTIR TECHNOLOGIES",
+     "total": 30000.0,
+     "count": 10
+    },
+    {
+     "employer": "APPLE, INC.",
+     "total": 23000.0,
+     "count": 12
+    },
+    {
+     "employer": "KING & SPALDING, LLP",
+     "total": 19500.0,
+     "count": 13
+    },
+    {
+     "employer": "CORNELL UNIVERSITY",
+     "total": 17643.0,
+     "count": 166
+    },
+    {
+     "employer": "COVINGTON & BURLING, LLP",
+     "total": 14500.0,
+     "count": 11
+    },
+    {
+     "employer": "PETS AND SPIRITS",
+     "total": 14200.0,
+     "count": 4
+    },
+    {
+     "employer": "JANE STREET GROUP",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "employer": "PAUL, WEISS, RIFKIND, ET AL., LLP",
+     "total": 14000.0,
+     "count": 6
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

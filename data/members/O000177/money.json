@@ -300,8 +300,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00870238",
+  "committee_name": "ONDER FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1146488.94,
+  "amounts": {
+   "individuals_200_or_less": 85508.83,
+   "individuals_over_200": 466947.98,
+   "pacs_and_parties": 518480.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 65524.81,
+   "other_receipts": 6000.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    8
+   ],
+   [
+    "Individuals giving more than $200",
+    44
+   ],
+   [
+    "PACs and party committees",
+    48
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 491471.81,
+   "home_state": "MO",
+   "home_state_total": 398736.45,
+   "home_state_share": 81,
+   "top": [
+    {
+     "state": "MO",
+     "state_full": "Missouri",
+     "total": 398736.45,
+     "count": 244
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 14640.9,
+     "count": 46
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 14350.85,
+     "count": 11
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 8272.42,
+     "count": 6
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 6131.16,
+     "count": 51
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 5766.0,
+     "count": 5
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 5241.37,
+     "count": 27
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 4846.5,
+     "count": 10
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 4500.0,
+     "count": 10
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 4379.17,
+     "count": 24
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "GREY IRIS HOLDINGS",
+     "total": 7652.13,
+     "count": 3
+    },
+    {
+     "employer": "PATRIOT MACHINE INC",
+     "total": 7500.0,
+     "count": 4
+    },
+    {
+     "employer": "NATURAL GAS FUEL SOLUTIONS",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "JERRY KELLY HEATING AND AC",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "HUNTER ENGINEERING CO.",
+     "total": 7000.0,
+     "count": 5
+    },
+    {
+     "employer": "WINDBER HOSPITAL",
+     "total": 7000.0,
+     "count": 4
+    },
+    {
+     "employer": "BECK, LENOX, AND STOLZER",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "PATRIOT MACHINE",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PHELPS HEALTH",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "DIAMOND PET FOOD",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

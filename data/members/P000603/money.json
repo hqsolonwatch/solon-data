@@ -283,8 +283,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00496075",
+  "committee_name": "RAND PAUL FOR US SENATE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 4570589.39,
+  "amounts": {
+   "individuals_200_or_less": 1178734.54,
+   "individuals_over_200": 2674152.8,
+   "pacs_and_parties": 100546.15,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 225665.89,
+   "other_receipts": 300338.74
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    30
+   ],
+   [
+    "Individuals giving more than $200",
+    68
+   ],
+   [
+    "PACs and party committees",
+    2
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 2962484.41,
+   "home_state": "KY",
+   "home_state_total": 328160.76,
+   "home_state_share": 11,
+   "top": [
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 350701.8,
+     "count": 5107
+    },
+    {
+     "state": "KY",
+     "state_full": "Kentucky",
+     "total": 328160.76,
+     "count": 2828
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 263954.85,
+     "count": 3639
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 237799.95,
+     "count": 2996
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 114959.39,
+     "count": 1561
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 106280.09,
+     "count": 1123
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 91041.55,
+     "count": 1542
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 82783.94,
+     "count": 1133
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 80992.53,
+     "count": 1507
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 77018.87,
+     "count": 1037
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "GOLDEN AGE FARM LLC",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "employer": "CORNBREAD HEMP",
+     "total": 10000.0,
+     "count": 5
+    },
+    {
+     "employer": "HOMETOWN HERO",
+     "total": 9500.0,
+     "count": 3
+    },
+    {
+     "employer": "FORWARD THINKING MARKETING",
+     "total": 8500.0,
+     "count": 5
+    },
+    {
+     "employer": "BEAL BANK",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "IPC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "CAPTIVE AIRE SYSTEMS",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "VERANO",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "DYNAXE CAPITAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "REYES HOLDINGS LLC",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -1364,8 +1364,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00575209",
+  "committee_name": "ANGIE CRAIG FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-03-31T00:00:00",
+  "receipts": 1402823.75,
+  "amounts": {
+   "individuals_200_or_less": 39939.69,
+   "individuals_over_200": 837239.07,
+   "pacs_and_parties": 494272.67,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 1201.69,
+   "other_receipts": 2299.44
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    3
+   ],
+   [
+    "Individuals giving more than $200",
+    61
+   ],
+   [
+    "PACs and party committees",
+    36
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 837239.07,
+   "home_state": "MN",
+   "home_state_total": 389872.5,
+   "home_state_share": 47,
+   "top": [
+    {
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 389872.5,
+     "count": 307
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 84800.0,
+     "count": 42
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 79500.0,
+     "count": 31
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 79167.0,
+     "count": 33
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 43800.0,
+     "count": 38
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 28503.24,
+     "count": 33
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 24500.0,
+     "count": 7
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 21705.0,
+     "count": 19
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 20500.0,
+     "count": 7
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 11900.0,
+     "count": 5
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "PRETTYBROOK PARTNERS LLC",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "CRESSET CAPITAL",
+     "total": 10000.0,
+     "count": 4
+    },
+    {
+     "employer": "MINNEAPOLIS RADIATION ONCOLOGY",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "STRUCTURAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "AQUILO PARTNERS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "JOELE FRANK WILKINSON BRIMMER KATCHER",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ECOLAB",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "THE SCOTT FOUNDATION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "LONE PINE CAPITAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PSD, LLC",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

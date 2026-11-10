@@ -1241,8 +1241,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00558320",
+  "committee_name": "DONALD NORCROSS FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1950972.75,
+  "amounts": {
+   "individuals_200_or_less": 11579.06,
+   "individuals_over_200": 773860.34,
+   "pacs_and_parties": 1005573.98,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 55889.75,
+   "other_receipts": 103715.62
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    1
+   ],
+   [
+    "Individuals giving more than $200",
+    43
+   ],
+   [
+    "PACs and party committees",
+    56
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 766456.0,
+   "home_state": "NJ",
+   "home_state_total": 433820.0,
+   "home_state_share": 57,
+   "top": [
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 433820.0,
+     "count": 332
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 138850.0,
+     "count": 75
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 68536.0,
+     "count": 28
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 38850.0,
+     "count": 39
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 22000.0,
+     "count": 11
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 12000.0,
+     "count": 13
+    },
+    {
+     "state": "NE",
+     "state_full": "Nebraska",
+     "total": 10050.0,
+     "count": 9
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 10000.0,
+     "count": 4
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 7250.0,
+     "count": 6
+    },
+    {
+     "state": "DE",
+     "state_full": "Delaware",
+     "total": 7200.0,
+     "count": 10
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "COOPER UNIVERSITY HEALTH CARE",
+     "total": 16500.0,
+     "count": 5
+    },
+    {
+     "employer": "APOLLO",
+     "total": 15500.0,
+     "count": 5
+    },
+    {
+     "employer": "THE FOUR B'S",
+     "total": 15500.0,
+     "count": 5
+    },
+    {
+     "employer": "VIRTUA HEALTH",
+     "total": 11500.0,
+     "count": 23
+    },
+    {
+     "employer": "HOLT LOGISTICS CORP",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "CONNER STRONG & BUCKELEW",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "BACH ASSOCIATES, PC",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "CONNER STRONG BUCKELEW",
+     "total": 10000.0,
+     "count": 5
+    },
+    {
+     "employer": "ENVIRONMENTAL RESOLUTIONS, INC",
+     "total": 9225.0,
+     "count": 23
+    },
+    {
+     "employer": "UTILITY LINE SERVICE, INC.",
+     "total": 8500.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

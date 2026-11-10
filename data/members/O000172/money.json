@@ -121,8 +121,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00639591",
+  "committee_name": "ALEXANDRIA OCASIO-CORTEZ FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 38029039.1,
+  "amounts": {
+   "individuals_200_or_less": 24360785.3,
+   "individuals_over_200": 12880093.45,
+   "pacs_and_parties": 45550.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 111000.0,
+   "other_receipts": 490856.06
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    65
+   ],
+   [
+    "Individuals giving more than $200",
+    35
+   ],
+   [
+    "PACs and party committees",
+    0
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 10466240.27,
+   "home_state": "NY",
+   "home_state_total": 1306573.94,
+   "home_state_share": 12,
+   "top": [
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 2503579.14,
+     "count": 68343
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 1306573.94,
+     "count": 33764
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 575979.48,
+     "count": 16594
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 527597.33,
+     "count": 13985
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 445696.02,
+     "count": 12590
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 404619.48,
+     "count": 12643
+    },
+    {
+     "state": "OR",
+     "state_full": "Oregon",
+     "total": 330520.56,
+     "count": 10147
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 319394.36,
+     "count": 9503
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 302713.81,
+     "count": 9019
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 274019.13,
+     "count": 7322
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "GOOGLE",
+     "total": 43263.5,
+     "count": 707
+    },
+    {
+     "employer": "MICROSOFT",
+     "total": 17985.75,
+     "count": 344
+    },
+    {
+     "employer": "APPLE",
+     "total": 13824.0,
+     "count": 174
+    },
+    {
+     "employer": "NVIDIA CORPORATION",
+     "total": 12042.5,
+     "count": 78
+    },
+    {
+     "employer": "AMAZON",
+     "total": 11583.75,
+     "count": 251
+    },
+    {
+     "employer": "COLUMBIA UNIVERSITY",
+     "total": 9608.13,
+     "count": 271
+    },
+    {
+     "employer": "META",
+     "total": 9395.0,
+     "count": 116
+    },
+    {
+     "employer": "NYU",
+     "total": 9329.0,
+     "count": 127
+    },
+    {
+     "employer": "UNIVERSITY OF CALIFORNIA",
+     "total": 8424.0,
+     "count": 163
+    },
+    {
+     "employer": "HOSPITAL",
+     "total": 8194.41,
+     "count": 188
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

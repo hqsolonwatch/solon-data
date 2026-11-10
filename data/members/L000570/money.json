@@ -2415,8 +2415,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00443689",
+  "committee_name": "PEOPLE FOR BEN",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 6460521.86,
+  "amounts": {
+   "individuals_200_or_less": 1264650.17,
+   "individuals_over_200": 2107950.43,
+   "pacs_and_parties": 2075346.09,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 990314.89,
+   "other_receipts": 1477.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    23
+   ],
+   [
+    "Individuals giving more than $200",
+    39
+   ],
+   [
+    "PACs and party committees",
+    38
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 2661826.73,
+   "home_state": "NM",
+   "home_state_total": 511230.84,
+   "home_state_share": 19,
+   "top": [
+    {
+     "state": "NM",
+     "state_full": "New Mexico",
+     "total": 511230.84,
+     "count": 5451
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 460523.54,
+     "count": 3882
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 265510.0,
+     "count": 323
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 230879.0,
+     "count": 1307
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 182965.44,
+     "count": 1587
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 117712.33,
+     "count": 811
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 97818.12,
+     "count": 377
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 84595.5,
+     "count": 549
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 82320.5,
+     "count": 666
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 69554.43,
+     "count": 1001
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "CAPITAL GROUP",
+     "total": 47500.0,
+     "count": 19
+    },
+    {
+     "employer": "OPENAI",
+     "total": 19000.0,
+     "count": 8
+    },
+    {
+     "employer": "MICROSOFT CORPORATION",
+     "total": 17750.0,
+     "count": 10
+    },
+    {
+     "employer": "CORNERSTONE GOVERNMENT AFFAIRS",
+     "total": 17750.0,
+     "count": 15
+    },
+    {
+     "employer": "THE DASCHLE GROUP",
+     "total": 15500.0,
+     "count": 10
+    },
+    {
+     "employer": "BGR GROUP",
+     "total": 14500.0,
+     "count": 16
+    },
+    {
+     "employer": "PATTERN ENERGY",
+     "total": 14000.0,
+     "count": 8
+    },
+    {
+     "employer": "THEGROUP DC",
+     "total": 13000.0,
+     "count": 8
+    },
+    {
+     "employer": "OGILVY GOVERNMENT RELATIONS",
+     "total": 12000.0,
+     "count": 10
+    },
+    {
+     "employer": "KEEFE KEEFE & UNSELL P.C.",
+     "total": 12000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

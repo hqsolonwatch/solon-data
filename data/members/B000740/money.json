@@ -1856,8 +1856,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00703843",
+  "committee_name": "BICE FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2476528.64,
+  "amounts": {
+   "individuals_200_or_less": 65099.63,
+   "individuals_over_200": 598455.53,
+   "pacs_and_parties": 1260500.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 527561.9,
+   "other_receipts": 21293.1
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    3
+   ],
+   [
+    "Individuals giving more than $200",
+    31
+   ],
+   [
+    "PACs and party committees",
+    66
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 966999.49,
+   "home_state": "OK",
+   "home_state_total": 610836.88,
+   "home_state_share": 63,
+   "top": [
+    {
+     "state": "OK",
+     "state_full": "Oklahoma",
+     "total": 610836.88,
+     "count": 494
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 81645.83,
+     "count": 125
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 79633.07,
+     "count": 64
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 37833.66,
+     "count": 27
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 28100.72,
+     "count": 18
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 26311.53,
+     "count": 33
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 19234.23,
+     "count": 24
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 17583.32,
+     "count": 11
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 8550.0,
+     "count": 6
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "LOVES",
+     "total": 13500.0,
+     "count": 5
+    },
+    {
+     "employer": "CORNERSTONE GOVERNMENT AFFAIRS",
+     "total": 12000.0,
+     "count": 12
+    },
+    {
+     "employer": "BANCFIRST",
+     "total": 9000.0,
+     "count": 6
+    },
+    {
+     "employer": "LOVE'S TRAVEL STOPS",
+     "total": 8500.0,
+     "count": 4
+    },
+    {
+     "employer": "DEVON ENERGY",
+     "total": 7250.0,
+     "count": 3
+    },
+    {
+     "employer": "PIVOTAL VENTURES",
+     "total": 7050.0,
+     "count": 5
+    },
+    {
+     "employer": "SKYDWELLER AERO",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "GARDNER TANENBAUM",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "TURNAROUND PROFESSIONALS",
+     "total": 7000.0,
+     "count": 4
+    },
+    {
+     "employer": "DUCHOSSOIS CAPITAL MANAGEMENT",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

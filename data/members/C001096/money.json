@@ -642,8 +642,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00504704",
+  "committee_name": "CRAMER FOR SENATE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 1331451.93,
+  "amounts": {
+   "individuals_200_or_less": 544162.44,
+   "individuals_over_200": 469506.39,
+   "pacs_and_parties": 234000.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 47840.47
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    43
+   ],
+   [
+    "Individuals giving more than $200",
+    38
+   ],
+   [
+    "PACs and party committees",
+    19
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 405020.13,
+   "home_state": "ND",
+   "home_state_total": 15870.45,
+   "home_state_share": 4,
+   "top": [
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 81837.8,
+     "count": 887
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 38941.12,
+     "count": 773
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 37845.4,
+     "count": 138
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 24300.94,
+     "count": 1061
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 21512.85,
+     "count": 146
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 20643.56,
+     "count": 22
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 18456.79,
+     "count": 91
+    },
+    {
+     "state": "ND",
+     "state_full": "North Dakota",
+     "total": 15870.45,
+     "count": 117
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 14439.9,
+     "count": 153
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 12756.04,
+     "count": 247
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "CONSTELLATION ENERGY",
+     "total": 20878.06,
+     "count": 25
+    },
+    {
+     "employer": "CONSTELLATION",
+     "total": 17207.42,
+     "count": 22
+    },
+    {
+     "employer": "REDWOOD RESEARCH",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "METR",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "OPENAI",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ELLIOTT INVESTMENT MANAGEMENT",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "GENERAL ATOMICS ASI",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "DMM PROPRIETA MANAGEMENT",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "SOROBAN CAPITAL PARTNERS LP",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "ANTHROPIC",
+     "total": 7000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

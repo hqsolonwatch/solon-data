@@ -114,8 +114,128 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00873554",
+  "committee_name": "KING-HINDS FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 103385.97,
+  "amounts": {
+   "individuals_200_or_less": 875.0,
+   "individuals_over_200": 35580.4,
+   "pacs_and_parties": 55254.75,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 11591.74,
+   "other_receipts": 84.08
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    1
+   ],
+   [
+    "Individuals giving more than $200",
+    39
+   ],
+   [
+    "PACs and party committees",
+    60
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 24491.02,
+   "home_state": "MP",
+   "home_state_total": 19741.02,
+   "home_state_share": 81,
+   "top": [
+    {
+     "state": "MP",
+     "state_full": "Northern Mariana Islands",
+     "total": 19741.02,
+     "count": 18
+    },
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "state": "GU",
+     "state_full": "Guam",
+     "total": 750.0,
+     "count": 2
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 500.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "TAN HOLDINGS CORPORATION",
+     "total": 4400.0,
+     "count": 3
+    },
+    {
+     "employer": "TRIPLE J ENTERPRISES, INC.",
+     "total": 4000.0,
+     "count": 2
+    },
+    {
+     "employer": "CONNECT STRATEGY",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "TAN SUI LIN FOUNDATION",
+     "total": 1000.0,
+     "count": 1
+    },
+    {
+     "employer": "TSL FOUNDATION",
+     "total": 1000.0,
+     "count": 1
+    },
+    {
+     "employer": "PEGS, LLC",
+     "total": 1000.0,
+     "count": 1
+    },
+    {
+     "employer": "TAN SU LIN CORPORATION",
+     "total": 500.0,
+     "count": 1
+    },
+    {
+     "employer": "HONG YE CONSTRUCTION",
+     "total": 500.0,
+     "count": 1
+    },
+    {
+     "employer": "JC TENORIO ENTERPRISES",
+     "total": 500.0,
+     "count": 1
+    },
+    {
+     "employer": "TRIPLE J MOTORS",
+     "total": 500.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

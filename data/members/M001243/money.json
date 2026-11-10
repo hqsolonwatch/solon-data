@@ -1260,8 +1260,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00851980",
+  "committee_name": "FRIENDS OF DAVE MCCORMICK",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 6118596.82,
+  "amounts": {
+   "individuals_200_or_less": 975283.59,
+   "individuals_over_200": 2568679.08,
+   "pacs_and_parties": 779750.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 1551732.27,
+   "other_receipts": 8925.46
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    23
+   ],
+   [
+    "Individuals giving more than $200",
+    59
+   ],
+   [
+    "PACs and party committees",
+    18
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 3855786.57,
+   "home_state": "PA",
+   "home_state_total": 1770858.88,
+   "home_state_share": 46,
+   "top": [
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 1770858.88,
+     "count": 7747
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 403596.71,
+     "count": 3024
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 252121.43,
+     "count": 2499
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 244139.56,
+     "count": 1329
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 191415.01,
+     "count": 2807
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 148824.51,
+     "count": 822
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 103179.24,
+     "count": 117
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 87619.47,
+     "count": 762
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 62977.98,
+     "count": 513
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 62409.28,
+     "count": 767
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "CONSTELLATION",
+     "total": 30300.0,
+     "count": 33
+    },
+    {
+     "employer": "BLACKROCK",
+     "total": 27500.0,
+     "count": 16
+    },
+    {
+     "employer": "UPMC",
+     "total": 25043.92,
+     "count": 42
+    },
+    {
+     "employer": "RDV CORPORATION",
+     "total": 23100.0,
+     "count": 7
+    },
+    {
+     "employer": "WABTEC CORP",
+     "total": 21200.0,
+     "count": 7
+    },
+    {
+     "employer": "POND LEHOCKY",
+     "total": 20000.0,
+     "count": 4
+    },
+    {
+     "employer": "MILLER STRATEGIES LLC",
+     "total": 18200.0,
+     "count": 6
+    },
+    {
+     "employer": "BNY",
+     "total": 15200.0,
+     "count": 5
+    },
+    {
+     "employer": "CDL NUCLEAR TECHNOLOGIES",
+     "total": 15000.0,
+     "count": 6
+    },
+    {
+     "employer": "CONSTELLATION ENERGY",
+     "total": 14520.0,
+     "count": 19
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

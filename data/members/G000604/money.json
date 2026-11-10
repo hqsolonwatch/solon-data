@@ -633,8 +633,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00878454",
+  "committee_name": "MAGGIE FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 5012908.51,
+  "amounts": {
+   "individuals_200_or_less": 592201.08,
+   "individuals_over_200": 2894765.08,
+   "pacs_and_parties": 386336.82,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 1107625.0,
+   "other_receipts": 21395.29
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    15
+   ],
+   [
+    "Individuals giving more than $200",
+    75
+   ],
+   [
+    "PACs and party committees",
+    10
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 3540218.02,
+   "home_state": "NH",
+   "home_state_total": 633831.92,
+   "home_state_share": 18,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 772231.79,
+     "count": 424
+    },
+    {
+     "state": "NH",
+     "state_full": "New Hampshire",
+     "total": 633831.92,
+     "count": 1067
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 428216.51,
+     "count": 284
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 418825.14,
+     "count": 342
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 260949.37,
+     "count": 268
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 239716.65,
+     "count": 156
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 147076.62,
+     "count": 73
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 124533.55,
+     "count": 77
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 124025.0,
+     "count": 70
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 77002.02,
+     "count": 39
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "WILMERHALE",
+     "total": 23800.0,
+     "count": 14
+    },
+    {
+     "employer": "PALANTIR TECHNOLOGIES",
+     "total": 17500.0,
+     "count": 6
+    },
+    {
+     "employer": "BAIN CAPITAL",
+     "total": 17500.0,
+     "count": 5
+    },
+    {
+     "employer": "BLACKSTONE",
+     "total": 15550.0,
+     "count": 7
+    },
+    {
+     "employer": "US GOVERNMENT",
+     "total": 15100.0,
+     "count": 6
+    },
+    {
+     "employer": "JANE STREET CAPITAL",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "COLUMBIA UNIVERSITY",
+     "total": 12000.0,
+     "count": 5
+    },
+    {
+     "employer": "CORNERSTONE GOVERNMENT AFFAIRS",
+     "total": 12000.0,
+     "count": 10
+    },
+    {
+     "employer": "GOLDMAN SACHS",
+     "total": 11000.0,
+     "count": 4
+    },
+    {
+     "employer": "KNOWLEDGE CREATORS",
+     "total": 9000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

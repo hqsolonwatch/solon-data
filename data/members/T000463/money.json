@@ -785,8 +785,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00373001",
+  "committee_name": "CITIZENS FOR TURNER",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1315093.78,
+  "amounts": {
+   "individuals_200_or_less": 58378.58,
+   "individuals_over_200": 530102.19,
+   "pacs_and_parties": 604100.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 121761.36,
+   "other_receipts": 515.86
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    5
+   ],
+   [
+    "Individuals giving more than $200",
+    44
+   ],
+   [
+    "PACs and party committees",
+    51
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 435222.19,
+   "home_state": "OH",
+   "home_state_total": 303645.0,
+   "home_state_share": 70,
+   "top": [
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 303645.0,
+     "count": 162
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 37400.0,
+     "count": 32
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 34040.0,
+     "count": 25
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 16200.0,
+     "count": 17
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 14500.0,
+     "count": 5
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 10450.0,
+     "count": 9
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 7174.69,
+     "count": 7
+    },
+    {
+     "state": "NV",
+     "state_full": "Nevada",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "state": "OK",
+     "state_full": "Oklahoma",
+     "total": 3900.0,
+     "count": 3
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 500.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "SYNERGY",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "GOSIGER INC",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ADAMS ROBINSON ENTERPRISES",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "employer": "BERRY INVESTMENTS",
+     "total": 12000.0,
+     "count": 4
+    },
+    {
+     "employer": "CARESOURCE",
+     "total": 11250.0,
+     "count": 4
+    },
+    {
+     "employer": "DRAGOONITCN",
+     "total": 10750.0,
+     "count": 5
+    },
+    {
+     "employer": "SAWDEY SOLUTION SERVICES",
+     "total": 9100.0,
+     "count": 4
+    },
+    {
+     "employer": "ALPINE DEVELOPER GROUP",
+     "total": 8500.0,
+     "count": 10
+    },
+    {
+     "employer": "SAHARA GLOBAL SECURITY",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "PROJECTS UNLIMITED, INC.",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

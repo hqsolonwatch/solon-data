@@ -3051,8 +3051,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00543983",
+  "committee_name": "BILL CASSIDY FOR US SENATE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 6701121.15,
+  "amounts": {
+   "individuals_200_or_less": 51535.46,
+   "individuals_over_200": 2126968.19,
+   "pacs_and_parties": 1801509.52,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 2390539.02,
+   "other_receipts": 315375.92
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    1
+   ],
+   [
+    "Individuals giving more than $200",
+    54
+   ],
+   [
+    "PACs and party committees",
+    45
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 5349923.16,
+   "home_state": "LA",
+   "home_state_total": 1149249.66,
+   "home_state_share": 21,
+   "top": [
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 1149249.66,
+     "count": 1039
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 749137.49,
+     "count": 447
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 507017.67,
+     "count": 437
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 463137.76,
+     "count": 353
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 361560.22,
+     "count": 327
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 302250.26,
+     "count": 227
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 183541.61,
+     "count": 142
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 178714.27,
+     "count": 143
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 151759.34,
+     "count": 105
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 121590.28,
+     "count": 93
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "GALLIANO MARINE SERVICE LLC",
+     "total": 33000.0,
+     "count": 14
+    },
+    {
+     "employer": "APOLLO",
+     "total": 32500.0,
+     "count": 19
+    },
+    {
+     "employer": "NEW YORK CANCER & BLOOD SPECIALISTS",
+     "total": 28500.0,
+     "count": 29
+    },
+    {
+     "employer": "BLACKSTONE",
+     "total": 28000.0,
+     "count": 9
+    },
+    {
+     "employer": "WELSH CARSON ANDERSON & STOWE",
+     "total": 27700.0,
+     "count": 36
+    },
+    {
+     "employer": "POSIGEN",
+     "total": 27500.0,
+     "count": 15
+    },
+    {
+     "employer": "APOLLO GLOBAL MANAGEMENT",
+     "total": 25000.0,
+     "count": 22
+    },
+    {
+     "employer": "HOSPITAL FOR SPECIAL SURGERY",
+     "total": 21500.0,
+     "count": 11
+    },
+    {
+     "employer": "BOUDREAUXS NEW DRUG STORE",
+     "total": 21000.0,
+     "count": 10
+    },
+    {
+     "employer": "FERMAT CAPITAL MANAGEMENT",
+     "total": 21000.0,
+     "count": 6
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

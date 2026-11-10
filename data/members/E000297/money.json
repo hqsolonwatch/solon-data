@@ -1047,8 +1047,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00701953",
+  "committee_name": "ADRIANO ESPAILLAT FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 2891143.73,
+  "amounts": {
+   "individuals_200_or_less": 33487.17,
+   "individuals_over_200": 2191280.26,
+   "pacs_and_parties": 522975.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 130325.17,
+   "other_receipts": 10859.34
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    1
+   ],
+   [
+    "Individuals giving more than $200",
+    80
+   ],
+   [
+    "PACs and party committees",
+    19
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 2301432.57,
+   "home_state": "NY",
+   "home_state_total": 1291931.93,
+   "home_state_share": 56,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 1291931.93,
+     "count": 990
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 196384.67,
+     "count": 134
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 178270.0,
+     "count": 157
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 158275.99,
+     "count": 110
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 68433.34,
+     "count": 38
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 60500.0,
+     "count": 39
+    },
+    {
+     "state": "PR",
+     "state_full": "Puerto Rico",
+     "total": 47928.07,
+     "count": 39
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 44850.0,
+     "count": 39
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 42250.0,
+     "count": 46
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 38000.0,
+     "count": 35
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "NEWYORK-PRESBYTERIAN",
+     "total": 27300.0,
+     "count": 9
+    },
+    {
+     "employer": "KKR & CO.",
+     "total": 19832.67,
+     "count": 10
+    },
+    {
+     "employer": "SESSA CAPITAL",
+     "total": 15500.0,
+     "count": 5
+    },
+    {
+     "employer": "MONROE COLLEGE",
+     "total": 15300.0,
+     "count": 11
+    },
+    {
+     "employer": "GOTHAM ASSET MANAGEMENT",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "COLUMBIA UNIVERSITY",
+     "total": 11750.0,
+     "count": 12
+    },
+    {
+     "employer": "C-TOWN SUPERMARKET",
+     "total": 11500.0,
+     "count": 8
+    },
+    {
+     "employer": "THEGROUP",
+     "total": 11000.0,
+     "count": 5
+    },
+    {
+     "employer": "FLAIR BEVERAGES CORP.",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "NEW YORK PRESBYTERIAN",
+     "total": 10000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

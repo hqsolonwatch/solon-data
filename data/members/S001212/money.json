@@ -1749,8 +1749,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00650697",
+  "committee_name": "PETE STAUBER FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2566760.29,
+  "amounts": {
+   "individuals_200_or_less": 167616.76,
+   "individuals_over_200": 902821.26,
+   "pacs_and_parties": 1218709.59,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 212017.03,
+   "other_receipts": 773.54
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    7
+   ],
+   [
+    "Individuals giving more than $200",
+    40
+   ],
+   [
+    "PACs and party committees",
+    53
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 907178.4,
+   "home_state": "MN",
+   "home_state_total": 569692.53,
+   "home_state_share": 63,
+   "top": [
+    {
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 569692.53,
+     "count": 788
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 104214.88,
+     "count": 48
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 34410.0,
+     "count": 28
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 30500.0,
+     "count": 14
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 28500.0,
+     "count": 26
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 27333.33,
+     "count": 35
+    },
+    {
+     "state": "WI",
+     "state_full": "Wisconsin",
+     "total": 14000.0,
+     "count": 14
+    },
+    {
+     "state": "OK",
+     "state_full": "Oklahoma",
+     "total": 13500.0,
+     "count": 6
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 11500.0,
+     "count": 5
+    },
+    {
+     "state": "NM",
+     "state_full": "New Mexico",
+     "total": 10500.0,
+     "count": 6
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "SPEAR AI",
+     "total": 14250.0,
+     "count": 9
+    },
+    {
+     "employer": "DEL ZOTTO MANUFACTURING",
+     "total": 14000.0,
+     "count": 7
+    },
+    {
+     "employer": "RYAN, LLC",
+     "total": 13714.88,
+     "count": 8
+    },
+    {
+     "employer": "ARVIG ENTERPRISES",
+     "total": 12015.0,
+     "count": 12
+    },
+    {
+     "employer": "KLN FAMILY BRANDS",
+     "total": 12000.0,
+     "count": 10
+    },
+    {
+     "employer": "PRESIDENT",
+     "total": 12000.0,
+     "count": 7
+    },
+    {
+     "employer": "TUNGSTEN AUTOMATION",
+     "total": 7231.4,
+     "count": 3
+    },
+    {
+     "employer": "MEAGHER + GEER, P.L.L.P.",
+     "total": 7231.4,
+     "count": 3
+    },
+    {
+     "employer": "DCOR, LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MINERS INC.",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

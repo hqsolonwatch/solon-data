@@ -1787,8 +1787,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00657833",
+  "committee_name": "GUY FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 5037694.9,
+  "amounts": {
+   "individuals_200_or_less": 1189784.82,
+   "individuals_over_200": 1733841.9,
+   "pacs_and_parties": 1391650.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 706221.24,
+   "other_receipts": 15245.4
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    28
+   ],
+   [
+    "Individuals giving more than $200",
+    40
+   ],
+   [
+    "PACs and party committees",
+    32
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1971994.5,
+   "home_state": "PA",
+   "home_state_total": 619972.82,
+   "home_state_share": 31,
+   "top": [
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 619972.82,
+     "count": 1314
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 207985.32,
+     "count": 2489
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 149632.3,
+     "count": 892
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 123582.33,
+     "count": 2759
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 107770.75,
+     "count": 744
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 104887.41,
+     "count": 2180
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 72996.56,
+     "count": 209
+    },
+    {
+     "state": "NV",
+     "state_full": "Nevada",
+     "total": 62121.91,
+     "count": 248
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 58770.24,
+     "count": 75
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 44233.77,
+     "count": 606
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "6KA",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "J.A. GREEN  CO.",
+     "total": 12500.0,
+     "count": 5
+    },
+    {
+     "employer": "TITAN ROBOTICS INC.",
+     "total": 10000.0,
+     "count": 8
+    },
+    {
+     "employer": "GOLDEN POND LLC",
+     "total": 10000.0,
+     "count": 2
+    },
+    {
+     "employer": "COMCAST",
+     "total": 9500.0,
+     "count": 4
+    },
+    {
+     "employer": "HOLLAND  KNIGHT",
+     "total": 9000.0,
+     "count": 3
+    },
+    {
+     "employer": "TARGETED VICTORY",
+     "total": 7500.0,
+     "count": 2
+    },
+    {
+     "employer": "AKIN GUMP STRAUSS HAUER AND FELD",
+     "total": 7000.0,
+     "count": 1
+    },
+    {
+     "employer": "FUNDING METRICS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SYNERGOS HOLDINGS LLC",
+     "total": 7000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

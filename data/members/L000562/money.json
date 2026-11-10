@@ -687,8 +687,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00366948",
+  "committee_name": "STEPHEN LYNCH FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1060202.73,
+  "amounts": {
+   "individuals_200_or_less": 32594.09,
+   "individuals_over_200": 596725.0,
+   "pacs_and_parties": 415458.33,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 12202.37
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    3
+   ],
+   [
+    "Individuals giving more than $200",
+    57
+   ],
+   [
+    "PACs and party committees",
+    40
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 525075.0,
+   "home_state": "MA",
+   "home_state_total": 484325.0,
+   "home_state_share": 92,
+   "top": [
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 484325.0,
+     "count": 518
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 8500.0,
+     "count": 4
+    },
+    {
+     "state": "RI",
+     "state_full": "Rhode Island",
+     "total": 7000.0,
+     "count": 7
+    },
+    {
+     "state": "NH",
+     "state_full": "New Hampshire",
+     "total": 6250.0,
+     "count": 7
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 6000.0,
+     "count": 4
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 2500.0,
+     "count": 2
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 2000.0,
+     "count": 1
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 2000.0,
+     "count": 2
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 1500.0,
+     "count": 3
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 1250.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "MONARC DEVELOPMENT",
+     "total": 17500.0,
+     "count": 6
+    },
+    {
+     "employer": "MASS GENERAL HOSPITAL",
+     "total": 8000.0,
+     "count": 3
+    },
+    {
+     "employer": "SULLIVAN AND SULLIVAN LLP",
+     "total": 7500.0,
+     "count": 3
+    },
+    {
+     "employer": "HENRY KARA LAW OFFICES",
+     "total": 7500.0,
+     "count": 4
+    },
+    {
+     "employer": "FORWARD FINANCING",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "WINN CO",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "JRM RECYCLING",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "NATIONAL DEVELOPMENT",
+     "total": 5200.0,
+     "count": 8
+    },
+    {
+     "employer": "JRM HAULING & RECYCLING",
+     "total": 5000.0,
+     "count": 2
+    },
+    {
+     "employer": "CASHMAN CONSTRUCTORS",
+     "total": 5000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -201,8 +201,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00667741",
+  "committee_name": "THE COMMITTEE TO ELECT AYANNA PRESSLEY",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1319248.35,
+  "amounts": {
+   "individuals_200_or_less": 355172.0,
+   "individuals_over_200": 733854.28,
+   "pacs_and_parties": 93254.96,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 132725.0,
+   "other_receipts": 0.01
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    30
+   ],
+   [
+    "Individuals giving more than $200",
+    62
+   ],
+   [
+    "PACs and party committees",
+    8
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 712019.49,
+   "home_state": "MA",
+   "home_state_total": 481200.91,
+   "home_state_share": 68,
+   "top": [
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 481200.91,
+     "count": 2653
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 74138.48,
+     "count": 813
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 28585.95,
+     "count": 317
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 22777.55,
+     "count": 126
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 17751.63,
+     "count": 112
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 16634.67,
+     "count": 55
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 16260.97,
+     "count": 85
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 13878.78,
+     "count": 35
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 5452.58,
+     "count": 106
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 5093.44,
+     "count": 112
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "SOHOOKD",
+     "total": 14000.0,
+     "count": 3
+    },
+    {
+     "employer": "THERMO FISHER",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "THE PARTNERSHIP, INC.",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "EGERIA ENTERPRISES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "JORDAN REAL ESTATE INVESTMENTS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "METROPOLITAN BOSTON HOUSING PARTNERSHI",
+     "total": 7000.0,
+     "count": 6
+    },
+    {
+     "employer": "UNIVERSITY OF CALIFORNIA SAN FRANCISCO",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "VINSON & ELKINS LLP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SHOWCASE COMMERCE",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ARIEL INVESTMENTS",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

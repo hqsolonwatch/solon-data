@@ -921,8 +921,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00435974",
+  "committee_name": "ANDY HARRIS FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2703695.73,
+  "amounts": {
+   "individuals_200_or_less": 621085.35,
+   "individuals_over_200": 1496049.71,
+   "pacs_and_parties": 533458.89,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 10254.94,
+   "other_receipts": 41989.28
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    23
+   ],
+   [
+    "Individuals giving more than $200",
+    57
+   ],
+   [
+    "PACs and party committees",
+    20
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1308949.73,
+   "home_state": "MD",
+   "home_state_total": 656532.61,
+   "home_state_share": 50,
+   "top": [
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 656532.61,
+     "count": 1481
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 109566.29,
+     "count": 662
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 74662.11,
+     "count": 946
+    },
+    {
+     "state": "AR",
+     "state_full": "Arkansas",
+     "total": 42277.17,
+     "count": 34
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 37236.99,
+     "count": 174
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 36875.61,
+     "count": 244
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 36022.76,
+     "count": 160
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 35593.38,
+     "count": 179
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 31398.77,
+     "count": 92
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 23790.52,
+     "count": 184
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "YELLOWSTONE LANDSCAPE",
+     "total": 20000.0,
+     "count": 12
+    },
+    {
+     "employer": "HARRISON GROUP",
+     "total": 16500.0,
+     "count": 11
+    },
+    {
+     "employer": "NAI THE MICHAEL COMPANIES",
+     "total": 15500.0,
+     "count": 9
+    },
+    {
+     "employer": "GOOD DAY FARM",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "employer": "S-3 GROUP",
+     "total": 9250.0,
+     "count": 10
+    },
+    {
+     "employer": "HARDWIRE LLC",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "SAULSBURY INDUSTRIES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "KALSHI",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SUNMED GROWERS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "KEMMERER MANAGEMENT CORP",
+     "total": 7000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

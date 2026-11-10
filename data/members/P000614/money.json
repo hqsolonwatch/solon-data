@@ -481,8 +481,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00660464",
+  "committee_name": "CHRIS PAPPAS FOR SENATE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 23703648.39,
+  "amounts": {
+   "individuals_200_or_less": 7146627.92,
+   "individuals_over_200": 13933474.4,
+   "pacs_and_parties": 1424294.09,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 1196079.97,
+   "other_receipts": 0.02
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    32
+   ],
+   [
+    "Individuals giving more than $200",
+    62
+   ],
+   [
+    "PACs and party committees",
+    6
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 9633999.9,
+   "home_state": "NH",
+   "home_state_total": 2044044.73,
+   "home_state_share": 21,
+   "top": [
+    {
+     "state": "NH",
+     "state_full": "New Hampshire",
+     "total": 2044044.73,
+     "count": 11990
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 1516777.27,
+     "count": 6635
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 1289893.59,
+     "count": 4362
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 1204796.0,
+     "count": 3193
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 359697.1,
+     "count": 594
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 347551.98,
+     "count": 1727
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 334347.7,
+     "count": 1175
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 261098.82,
+     "count": 1651
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 245303.73,
+     "count": 1747
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 201698.39,
+     "count": 876
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "GENTEX CORPORATION",
+     "total": 26000.0,
+     "count": 9
+    },
+    {
+     "employer": "CORNERSTONE GOVERNMENT AFFAIRS",
+     "total": 22850.0,
+     "count": 34
+    },
+    {
+     "employer": "LIEFF CABRASER HEIMANN & BERNSTEIN, LL",
+     "total": 21100.0,
+     "count": 12
+    },
+    {
+     "employer": "JANE STREET CAPITAL",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
+     "employer": "WILMERHALE",
+     "total": 19502.0,
+     "count": 13
+    },
+    {
+     "employer": "ANTHROPIC",
+     "total": 18500.0,
+     "count": 6
+    },
+    {
+     "employer": "HARVARD UNIVERSITY",
+     "total": 18218.52,
+     "count": 16
+    },
+    {
+     "employer": "PURITAN BACKROOM",
+     "total": 15200.0,
+     "count": 7
+    },
+    {
+     "employer": "BGR GROUP",
+     "total": 14500.0,
+     "count": 15
+    },
+    {
+     "employer": "JANE STREET GROUP",
+     "total": 14000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

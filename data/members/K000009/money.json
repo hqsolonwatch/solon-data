@@ -2227,8 +2227,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00154625",
+  "committee_name": "KAPTUR FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 5910480.74,
+  "amounts": {
+   "individuals_200_or_less": 666698.91,
+   "individuals_over_200": 2783174.57,
+   "pacs_and_parties": 1515618.84,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 903455.93,
+   "other_receipts": 11016.4
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    13
+   ],
+   [
+    "Individuals giving more than $200",
+    56
+   ],
+   [
+    "PACs and party committees",
+    31
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 2695079.1,
+   "home_state": "OH",
+   "home_state_total": 581232.96,
+   "home_state_share": 22,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 760440.01,
+     "count": 385
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 581232.96,
+     "count": 2195
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 379223.09,
+     "count": 318
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 176557.84,
+     "count": 196
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 111391.67,
+     "count": 110
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 81680.12,
+     "count": 38
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 75758.75,
+     "count": 114
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 66591.66,
+     "count": 34
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 62834.58,
+     "count": 126
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 54308.14,
+     "count": 47
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "NO EMPLOYER",
+     "total": 139674.19,
+     "count": 94
+    },
+    {
+     "employer": "INSIGHT PARTNERS",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
+     "employer": "DE SHAW & CO",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "BESSEMER VENTURE PARTNERS",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "CENTERVIEW PARTNERS",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "SI, LLC",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "PARKER STEEL COMPANY",
+     "total": 8500.0,
+     "count": 2
+    },
+    {
+     "employer": "UNIVERSITY OF TOLEDO",
+     "total": 8450.0,
+     "count": 40
+    },
+    {
+     "employer": "STRATEGIC HEALTH CARE",
+     "total": 7500.0,
+     "count": 3
+    },
+    {
+     "employer": "CMDC",
+     "total": 7500.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

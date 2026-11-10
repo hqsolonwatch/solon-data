@@ -918,8 +918,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00466482",
+  "committee_name": "FAMILIES FOR JAMES LANKFORD",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 1169357.12,
+  "amounts": {
+   "individuals_200_or_less": 5765.95,
+   "individuals_over_200": 465830.51,
+   "pacs_and_parties": 397750.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 143005.82,
+   "other_receipts": 156904.84
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    1
+   ],
+   [
+    "Individuals giving more than $200",
+    53
+   ],
+   [
+    "PACs and party committees",
+    46
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 519820.51,
+   "home_state": "OK",
+   "home_state_total": 152470.51,
+   "home_state_share": 29,
+   "top": [
+    {
+     "state": "OK",
+     "state_full": "Oklahoma",
+     "total": 152470.51,
+     "count": 174
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 67300.0,
+     "count": 28
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 46300.0,
+     "count": 18
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 36500.0,
+     "count": 21
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 36000.0,
+     "count": 21
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 27250.0,
+     "count": 23
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 22000.0,
+     "count": 23
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 19250.0,
+     "count": 15
+    },
+    {
+     "state": "ID",
+     "state_full": "Idaho",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 12000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "HUNT COMPANIES INC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "OU MEDICAL CENTER",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "EOG RESOURCES, INC.",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "TULL CO LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ACTION SAFETY SUPPLY CO",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "EXPRESS EMPLOYMENT PROFESSIONALS",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "1ST FINANCIAL BANK USA",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "OVINTIV",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "ROUTE ONE INVESTMENT CO",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "TRIWEST HEALTHCARE ALLIANCE",
+     "total": 7000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

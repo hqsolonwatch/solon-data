@@ -2420,8 +2420,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00491357",
+  "committee_name": "STEVE DAINES FOR MONTANA",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 4779230.01,
+  "amounts": {
+   "individuals_200_or_less": 204177.54,
+   "individuals_over_200": 1170912.34,
+   "pacs_and_parties": 1414050.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 1772520.3,
+   "other_receipts": 217569.82
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    7
+   ],
+   [
+    "Individuals giving more than $200",
+    42
+   ],
+   [
+    "PACs and party committees",
+    51
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 3245577.36,
+   "home_state": "MT",
+   "home_state_total": 483482.72,
+   "home_state_share": 15,
+   "top": [
+    {
+     "state": "MT",
+     "state_full": "Montana",
+     "total": 483482.72,
+     "count": 905
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 453252.34,
+     "count": 1484
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 365295.95,
+     "count": 1287
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 353688.52,
+     "count": 1756
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 237642.57,
+     "count": 548
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 231415.37,
+     "count": 560
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 134561.09,
+     "count": 464
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 92627.08,
+     "count": 323
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 84414.46,
+     "count": 459
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 68830.57,
+     "count": 556
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "BLACKSTONE",
+     "total": 57000.0,
+     "count": 17
+    },
+    {
+     "employer": "YELLOWSTONE BANK",
+     "total": 35000.0,
+     "count": 15
+    },
+    {
+     "employer": "DELTA AIR LINES",
+     "total": 26001.86,
+     "count": 16
+    },
+    {
+     "employer": "REYES HOLDINGS",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
+     "employer": "KKR",
+     "total": 18500.0,
+     "count": 7
+    },
+    {
+     "employer": "TOWN PUMP INC",
+     "total": 17500.0,
+     "count": 5
+    },
+    {
+     "employer": "ADVANTAGE CAPITAL",
+     "total": 16500.0,
+     "count": 11
+    },
+    {
+     "employer": "MOFI",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "FISHER INVESTMENTS",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "employer": "ULINE",
+     "total": 12000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

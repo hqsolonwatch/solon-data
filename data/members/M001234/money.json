@@ -512,8 +512,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00856062",
+  "committee_name": "MORRISON FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1867912.24,
+  "amounts": {
+   "individuals_200_or_less": 138845.88,
+   "individuals_over_200": 1405370.14,
+   "pacs_and_parties": 311883.22,
+   "candidate_own": 7000.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    8
+   ],
+   [
+    "Individuals giving more than $200",
+    75
+   ],
+   [
+    "PACs and party committees",
+    17
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1045994.64,
+   "home_state": "MN",
+   "home_state_total": 880002.97,
+   "home_state_share": 84,
+   "top": [
+    {
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 880002.97,
+     "count": 1996
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 40175.0,
+     "count": 33
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 33700.0,
+     "count": 25
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 18500.0,
+     "count": 8
+    },
+    {
+     "state": "PR",
+     "state_full": "Puerto Rico",
+     "total": 10000.0,
+     "count": 3
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 8600.0,
+     "count": 8
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 7500.0,
+     "count": 3
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "state": "KY",
+     "state_full": "Kentucky",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "state": "WY",
+     "state_full": "Wyoming",
+     "total": 6600.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "CARLSON",
+     "total": 12000.0,
+     "count": 5
+    },
+    {
+     "employer": "ECOLAB",
+     "total": 10000.0,
+     "count": 5
+    },
+    {
+     "employer": "CALLANISH CAPITAL LLC",
+     "total": 7119.0,
+     "count": 3
+    },
+    {
+     "employer": "PNC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ROOM&BOARD",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BREAZEALE GROUP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "HIGGINS ESTATE LAWPLLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MARKET STREET DERMATOLOGY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PMG MANAGEMENT",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "CALLANISH CAPITAL",
+     "total": 7000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

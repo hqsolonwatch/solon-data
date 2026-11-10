@@ -1569,8 +1569,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00721449",
+  "committee_name": "JAKE AUCHINCLOSS FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 3935406.36,
+  "amounts": {
+   "individuals_200_or_less": 35685.86,
+   "individuals_over_200": 2379208.91,
+   "pacs_and_parties": 899250.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 425250.0,
+   "other_receipts": 189618.1
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    1
+   ],
+   [
+    "Individuals giving more than $200",
+    72
+   ],
+   [
+    "PACs and party committees",
+    27
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 2608854.91,
+   "home_state": "MA",
+   "home_state_total": 1229811.92,
+   "home_state_share": 47,
+   "top": [
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 1229811.92,
+     "count": 926
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 442427.65,
+     "count": 223
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 311564.82,
+     "count": 176
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 150150.0,
+     "count": 78
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 112400.0,
+     "count": 59
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 85481.43,
+     "count": 37
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 45000.0,
+     "count": 39
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 37776.0,
+     "count": 49
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 34813.63,
+     "count": 14
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 31750.0,
+     "count": 26
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "BAIN CAPITAL",
+     "total": 61999.94,
+     "count": 20
+    },
+    {
+     "employer": "KKR",
+     "total": 20500.0,
+     "count": 11
+    },
+    {
+     "employer": "LIBERTY MUTUAL INSURANCE",
+     "total": 20050.0,
+     "count": 26
+    },
+    {
+     "employer": "MASSACHUSETTS GENERAL HOSPITAL",
+     "total": 19250.0,
+     "count": 7
+    },
+    {
+     "employer": "KECHES LAW GROUP",
+     "total": 18800.0,
+     "count": 15
+    },
+    {
+     "employer": "PALANTIR TECHNOLOGIES",
+     "total": 18350.0,
+     "count": 8
+    },
+    {
+     "employer": "FLAGSHIP PIONEERING",
+     "total": 17110.46,
+     "count": 19
+    },
+    {
+     "employer": "BLACKSTONE",
+     "total": 16500.0,
+     "count": 6
+    },
+    {
+     "employer": "WCAS",
+     "total": 14700.0,
+     "count": 10
+    },
+    {
+     "employer": "BERKSHIRE PARTNERS",
+     "total": 14000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

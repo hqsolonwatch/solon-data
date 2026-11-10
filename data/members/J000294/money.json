@@ -2673,8 +2673,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00503052",
+  "committee_name": "JEFFRIES FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 17893352.11,
+  "amounts": {
+   "individuals_200_or_less": 8147893.38,
+   "individuals_over_200": 4542828.45,
+   "pacs_and_parties": 2765400.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 2342804.5,
+   "other_receipts": 8000.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    53
+   ],
+   [
+    "Individuals giving more than $200",
+    29
+   ],
+   [
+    "PACs and party committees",
+    18
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 5486097.45,
+   "home_state": "NY",
+   "home_state_total": 1187227.65,
+   "home_state_share": 22,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 1187227.65,
+     "count": 8639
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 973692.3,
+     "count": 16667
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 322341.18,
+     "count": 4515
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 259520.42,
+     "count": 726
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 251414.39,
+     "count": 4303
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 248819.7,
+     "count": 3294
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 219781.36,
+     "count": 3550
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 182980.96,
+     "count": 2331
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 178854.45,
+     "count": 2473
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 154311.4,
+     "count": 4133
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "CAPITAL GROUP",
+     "total": 62680.0,
+     "count": 42
+    },
+    {
+     "employer": "BLACKSTONE",
+     "total": 40000.0,
+     "count": 12
+    },
+    {
+     "employer": "THEGROUP",
+     "total": 31500.0,
+     "count": 9
+    },
+    {
+     "employer": "MARQUIS MANAGEMENT, LLC",
+     "total": 25000.0,
+     "count": 8
+    },
+    {
+     "employer": "INVARIANT",
+     "total": 15837.75,
+     "count": 22
+    },
+    {
+     "employer": "AMERICAN UNIVERSITY",
+     "total": 14100.0,
+     "count": 4
+    },
+    {
+     "employer": "DAVIDSON KEMPNER",
+     "total": 14000.0,
+     "count": 8
+    },
+    {
+     "employer": "THE WONDERFUL COMPANY",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "DELAWARE NORTH COMPANIES",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "INTERSYSTEMS CORPORATION",
+     "total": 14000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

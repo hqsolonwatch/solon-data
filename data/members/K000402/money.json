@@ -1172,8 +1172,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00856526",
+  "committee_name": "KENNEDY FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2761024.83,
+  "amounts": {
+   "individuals_200_or_less": 61885.93,
+   "individuals_over_200": 1920229.42,
+   "pacs_and_parties": 754839.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 8500.0,
+   "other_receipts": 233.76
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    2
+   ],
+   [
+    "Individuals giving more than $200",
+    70
+   ],
+   [
+    "PACs and party committees",
+    28
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1652569.65,
+   "home_state": "NY",
+   "home_state_total": 1429456.65,
+   "home_state_share": 86,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 1429456.65,
+     "count": 1151
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 42527.5,
+     "count": 49
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 35820.75,
+     "count": 19
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 26250.0,
+     "count": 19
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 24570.75,
+     "count": 34
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 24070.5,
+     "count": 11
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 19855.75,
+     "count": 10
+    },
+    {
+     "state": "RI",
+     "state_full": "Rhode Island",
+     "total": 11600.0,
+     "count": 3
+    },
+    {
+     "state": "ZZ",
+     "state_full": "Foreign Countries",
+     "total": 9500.0,
+     "count": 3
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "APOLLO GLOBAL MANAGEMENT",
+     "total": 24500.0,
+     "count": 8
+    },
+    {
+     "employer": "GREAT LAKES ANESTHESIOLOGY",
+     "total": 21952.75,
+     "count": 12
+    },
+    {
+     "employer": "POST ACUTE PARTNERS",
+     "total": 12000.0,
+     "count": 3
+    },
+    {
+     "employer": "JOY REAL ESTATE, LLC",
+     "total": 12000.0,
+     "count": 5
+    },
+    {
+     "employer": "AUBURN COMMUNITY HOSPITAL",
+     "total": 11600.0,
+     "count": 4
+    },
+    {
+     "employer": "HODGSON RUSS, LLP",
+     "total": 11351.76,
+     "count": 10
+    },
+    {
+     "employer": "LARKIN DEVELOPMENT GROUP",
+     "total": 8553.0,
+     "count": 4
+    },
+    {
+     "employer": "CIMINELLI REAL ESTATE CORPORATION",
+     "total": 8500.0,
+     "count": 5
+    },
+    {
+     "employer": "UNIVERSITY AT BUFFALO",
+     "total": 8175.25,
+     "count": 4
+    },
+    {
+     "employer": "WALSH DUFFIELD COMPANIES",
+     "total": 8000.0,
+     "count": 5
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -165,8 +165,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00765800",
+  "committee_name": "FETTERMAN FOR PA",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 2960756.56,
+  "amounts": {
+   "individuals_200_or_less": 733123.14,
+   "individuals_over_200": 1546026.11,
+   "pacs_and_parties": 40500.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 536019.89,
+   "other_receipts": 58109.83
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    31
+   ],
+   [
+    "Individuals giving more than $200",
+    67
+   ],
+   [
+    "PACs and party committees",
+    2
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 2129649.77,
+   "home_state": "PA",
+   "home_state_total": 475952.2,
+   "home_state_share": 22,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 550068.55,
+     "count": 2198
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 475952.2,
+     "count": 14702
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 225712.93,
+     "count": 3109
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 217561.76,
+     "count": 1410
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 161089.35,
+     "count": 1109
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 68593.27,
+     "count": 960
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 64916.34,
+     "count": 791
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 57910.33,
+     "count": 757
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 38188.34,
+     "count": 770
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 31948.9,
+     "count": 273
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "BELL & EVANS",
+     "total": 25000.0,
+     "count": 10
+    },
+    {
+     "employer": "ROBBINS GELLER RUDMAN AND DOWD LLP",
+     "total": 24000.0,
+     "count": 8
+    },
+    {
+     "employer": "TILEBAR",
+     "total": 12000.0,
+     "count": 5
+    },
+    {
+     "employer": "SEEGER WEISS LLP",
+     "total": 12000.0,
+     "count": 4
+    },
+    {
+     "employer": "WHITE PINE CAPITAL MANAGEMENT",
+     "total": 7500.0,
+     "count": 3
+    },
+    {
+     "employer": "TA ASSOCIATES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PARKVEST",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MORGAN & MORGAN",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "TREELINE BIOSCIENCES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "JEWISH LEARNING COLLABORATIVE",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

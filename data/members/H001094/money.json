@@ -1179,8 +1179,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00796144",
+  "committee_name": "VAL HOYLE FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1652428.49,
+  "amounts": {
+   "individuals_200_or_less": 102925.25,
+   "individuals_over_200": 758114.66,
+   "pacs_and_parties": 785751.85,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    6
+   ],
+   [
+    "Individuals giving more than $200",
+    46
+   ],
+   [
+    "PACs and party committees",
+    48
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 547257.01,
+   "home_state": "OR",
+   "home_state_total": 255766.94,
+   "home_state_share": 47,
+   "top": [
+    {
+     "state": "OR",
+     "state_full": "Oregon",
+     "total": 255766.94,
+     "count": 832
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 48397.0,
+     "count": 30
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 42325.0,
+     "count": 54
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 24250.0,
+     "count": 12
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 19300.0,
+     "count": 10
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 17018.07,
+     "count": 20
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 17000.0,
+     "count": 10
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 16000.0,
+     "count": 6
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 15300.0,
+     "count": 9
+    },
+    {
+     "state": "PR",
+     "state_full": "Puerto Rico",
+     "total": 15050.0,
+     "count": 19
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ARNOLD VENTURES",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ACCELERATE STRATEGIES",
+     "total": 8300.0,
+     "count": 4
+    },
+    {
+     "employer": "CHAIRMAN, CFO",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BGR GROUP",
+     "total": 7000.0,
+     "count": 12
+    },
+    {
+     "employer": "FE RAIL",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "PUBLIC AFFAIRS COUNSEL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ALSOP LOUIE PARTNERS",
+     "total": 6500.0,
+     "count": 2
+    },
+    {
+     "employer": "CAPITOL COUNSEL LLC",
+     "total": 5769.64,
+     "count": 5
+    },
+    {
+     "employer": "SMITH GARSON",
+     "total": 5025.0,
+     "count": 10
+    },
+    {
+     "employer": "NEWSUN PRINCIPAL LLC",
+     "total": 5000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

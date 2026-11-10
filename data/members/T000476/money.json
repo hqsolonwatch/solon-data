@@ -2927,8 +2927,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00545772",
+  "committee_name": "THOM TILLIS COMMITTEE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 4707959.82,
+  "amounts": {
+   "individuals_200_or_less": 120359.34,
+   "individuals_over_200": 2516410.02,
+   "pacs_and_parties": 1483500.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 535740.69,
+   "other_receipts": 39799.63
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    3
+   ],
+   [
+    "Individuals giving more than $200",
+    61
+   ],
+   [
+    "PACs and party committees",
+    36
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 3086070.73,
+   "home_state": "NC",
+   "home_state_total": 1021198.82,
+   "home_state_share": 33,
+   "top": [
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 1021198.82,
+     "count": 888
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 367064.5,
+     "count": 250
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 230845.75,
+     "count": 193
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 220036.53,
+     "count": 187
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 212688.26,
+     "count": 114
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 157171.2,
+     "count": 104
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 106003.83,
+     "count": 93
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 99750.0,
+     "count": 48
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 80209.5,
+     "count": 64
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 69883.07,
+     "count": 40
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "CLEAN ENERGY",
+     "total": 21500.0,
+     "count": 17
+    },
+    {
+     "employer": "CORNING",
+     "total": 19500.0,
+     "count": 19
+    },
+    {
+     "employer": "SOUTHERN ENERGY MANAGEMENT",
+     "total": 17500.0,
+     "count": 6
+    },
+    {
+     "employer": "MOBLEY HOLDINGS",
+     "total": 16667.0,
+     "count": 2
+    },
+    {
+     "employer": "WEBB CREEK",
+     "total": 16666.67,
+     "count": 4
+    },
+    {
+     "employer": "HENDRICK AUTOMOTIVE GROUP",
+     "total": 15000.0,
+     "count": 6
+    },
+    {
+     "employer": "CORNING INCORPORATED",
+     "total": 14500.0,
+     "count": 8
+    },
+    {
+     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "KIRKLAND & ELLIS LLP",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "SUNSTONE CREDIT",
+     "total": 14000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

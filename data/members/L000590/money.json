@@ -2161,8 +2161,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00655613",
+  "committee_name": "SUSIE LEE FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 5942431.93,
+  "amounts": {
+   "individuals_200_or_less": 300553.56,
+   "individuals_over_200": 3365828.57,
+   "pacs_and_parties": 1620737.71,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 618432.97,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    6
+   ],
+   [
+    "Individuals giving more than $200",
+    64
+   ],
+   [
+    "PACs and party committees",
+    30
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 2783177.67,
+   "home_state": "NV",
+   "home_state_total": 659071.68,
+   "home_state_share": 24,
+   "top": [
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 680270.29,
+     "count": 648
+    },
+    {
+     "state": "NV",
+     "state_full": "Nevada",
+     "total": 659071.68,
+     "count": 944
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 288929.07,
+     "count": 262
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 204861.04,
+     "count": 167
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 91663.8,
+     "count": 128
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 88983.31,
+     "count": 126
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 79851.54,
+     "count": 87
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 77571.66,
+     "count": 57
+    },
+    {
+     "state": "WY",
+     "state_full": "Wyoming",
+     "total": 63516.66,
+     "count": 35
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 51170.37,
+     "count": 78
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "EO SOLUTIONS",
+     "total": 37000.0,
+     "count": 12
+    },
+    {
+     "employer": "NO EMPLOYER",
+     "total": 14500.0,
+     "count": 5
+    },
+    {
+     "employer": "CHARLES & LYNN SCHUSTERMAN PHIL",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ANDURIL INDUSTRIES",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "STRIKE SOLUTIONS",
+     "total": 11000.0,
+     "count": 4
+    },
+    {
+     "employer": "UNLV",
+     "total": 8811.53,
+     "count": 10
+    },
+    {
+     "employer": "CHARLESBANK CAPITAL PARTNERS",
+     "total": 8000.0,
+     "count": 3
+    },
+    {
+     "employer": "GOOGLE",
+     "total": 8000.0,
+     "count": 4
+    },
+    {
+     "employer": "MP MATERIALS CORP.",
+     "total": 7500.0,
+     "count": 4
+    },
+    {
+     "employer": "STEINBERG FAMILY OFFICE",
+     "total": 7500.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

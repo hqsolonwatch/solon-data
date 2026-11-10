@@ -148,8 +148,121 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00516047",
+  "committee_name": "ANGUS KING FOR U.S. SENATE CAMPAIGN",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 72269.42,
+  "amounts": {
+   "individuals_200_or_less": 7996.64,
+   "individuals_over_200": 24110.0,
+   "pacs_and_parties": 34500.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 1255.41
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    12
+   ],
+   [
+    "Individuals giving more than $200",
+    36
+   ],
+   [
+    "PACs and party committees",
+    52
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 21160.0,
+   "home_state": "ME",
+   "home_state_total": 2510.0,
+   "home_state_share": 12,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "state": "AR",
+     "state_full": "Arkansas",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "state": "ME",
+     "state_full": "Maine",
+     "total": 2510.0,
+     "count": 19
+    },
+    {
+     "state": "OK",
+     "state_full": "Oklahoma",
+     "total": 2500.0,
+     "count": 1
+    },
+    {
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 1000.0,
+     "count": 1
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 1000.0,
+     "count": 1
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 150.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "VETERANS HEALTH ADMINISTRATION",
+     "total": 250.0,
+     "count": 1
+    },
+    {
+     "employer": "AUBURN MANUFACTURING, INC.",
+     "total": 200.0,
+     "count": 2
+    },
+    {
+     "employer": "BOWDOIN COLLEGE",
+     "total": 100.0,
+     "count": 1
+    },
+    {
+     "employer": "ISF TRADING CO, INC.",
+     "total": 100.0,
+     "count": 1
+    },
+    {
+     "employer": "BORDEN COTTAGE",
+     "total": 80.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

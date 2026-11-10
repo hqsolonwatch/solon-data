@@ -98,8 +98,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00850404",
+  "committee_name": "MARK HARRIS FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1238724.33,
+  "amounts": {
+   "individuals_200_or_less": 105722.97,
+   "individuals_over_200": 791532.53,
+   "pacs_and_parties": 251250.01,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 86091.66,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    9
+   ],
+   [
+    "Individuals giving more than $200",
+    69
+   ],
+   [
+    "PACs and party committees",
+    22
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 821180.78,
+   "home_state": "NC",
+   "home_state_total": 694195.9,
+   "home_state_share": 85,
+   "top": [
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 694195.9,
+     "count": 624
+    },
+    {
+     "state": "SC",
+     "state_full": "South Carolina",
+     "total": 30322.06,
+     "count": 23
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 20150.79,
+     "count": 17
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 17407.09,
+     "count": 89
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 16830.54,
+     "count": 141
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 11000.0,
+     "count": 5
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 5946.87,
+     "count": 114
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 4906.01,
+     "count": 26
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 4250.0,
+     "count": 5
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 3783.56,
+     "count": 75
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "BULLINGTON CONSTRUCTION",
+     "total": 27500.0,
+     "count": 10
+    },
+    {
+     "employer": "NO EMPLOYER",
+     "total": 21500.0,
+     "count": 11
+    },
+    {
+     "employer": "NJR GROUP",
+     "total": 14000.0,
+     "count": 5
+    },
+    {
+     "employer": "POWERS GREAT AMERICAN MIDWAYS",
+     "total": 9500.0,
+     "count": 6
+    },
+    {
+     "employer": "COX BROTHERS FARMS",
+     "total": 7500.0,
+     "count": 6
+    },
+    {
+     "employer": "YAGER GROUP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "FALLING OAK",
+     "total": 7000.0,
+     "count": 10
+    },
+    {
+     "employer": "BLACKSTONE",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "SIDES CONTRACTING CO., INC.",
+     "total": 7000.0,
+     "count": 4
+    },
+    {
+     "employer": "FIRST INDUSTRIAL BUILDINGS & LAND",
+     "total": 7000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

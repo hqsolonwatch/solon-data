@@ -338,8 +338,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00457325",
+  "committee_name": "SHAHEEN FOR SENATE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 176809.69,
+  "amounts": {
+   "individuals_200_or_less": 11127.11,
+   "individuals_over_200": 90308.73,
+   "pacs_and_parties": 54526.58,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 9562.8
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    7
+   ],
+   [
+    "Individuals giving more than $200",
+    58
+   ],
+   [
+    "PACs and party committees",
+    35
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 90308.73,
+   "home_state": "NH",
+   "home_state_total": 26695.5,
+   "home_state_share": 30,
+   "top": [
+    {
+     "state": "NH",
+     "state_full": "New Hampshire",
+     "total": 26695.5,
+     "count": 288
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 11170.0,
+     "count": 30
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 11049.0,
+     "count": 78
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 10850.0,
+     "count": 13
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 8669.0,
+     "count": 67
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 8135.73,
+     "count": 31
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 6622.0,
+     "count": 16
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 2097.0,
+     "count": 16
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 2012.5,
+     "count": 8
+    },
+    {
+     "state": "ME",
+     "state_full": "Maine",
+     "total": 550.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "THORN RUN PARTNERS",
+     "total": 5500.0,
+     "count": 7
+    },
+    {
+     "employer": "PARKER MEGGITT",
+     "total": 3500.0,
+     "count": 3
+    },
+    {
+     "employer": "KELLEY DRYE & WARREN",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "DOUGLAS MANAGEMENT AND REALTY",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "AUTONODYNE",
+     "total": 2500.0,
+     "count": 1
+    },
+    {
+     "employer": "VALLEY MEDICAL CENTER OF SAN JOSE",
+     "total": 2000.0,
+     "count": 1
+    },
+    {
+     "employer": "ALMORIDI REAL ESTATE",
+     "total": 1800.0,
+     "count": 1
+    },
+    {
+     "employer": "INTERO REAL ESTATE SERVICES",
+     "total": 1500.0,
+     "count": 2
+    },
+    {
+     "employer": "SOLTANI CONSTRUCTION",
+     "total": 1500.0,
+     "count": 1
+    },
+    {
+     "employer": "HARVEYS CAR WASH",
+     "total": 1500.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

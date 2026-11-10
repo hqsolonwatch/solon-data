@@ -790,8 +790,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00859108",
+  "committee_name": "MAXINE FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1297974.78,
+  "amounts": {
+   "individuals_200_or_less": 117335.54,
+   "individuals_over_200": 712630.36,
+   "pacs_and_parties": 453971.79,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    9
+   ],
+   [
+    "Individuals giving more than $200",
+    56
+   ],
+   [
+    "PACs and party committees",
+    35
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 580541.19,
+   "home_state": "OR",
+   "home_state_total": 435640.83,
+   "home_state_share": 75,
+   "top": [
+    {
+     "state": "OR",
+     "state_full": "Oregon",
+     "total": 435640.83,
+     "count": 803
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 49170.36,
+     "count": 48
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 26005.0,
+     "count": 54
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 19800.0,
+     "count": 20
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 13800.0,
+     "count": 17
+    },
+    {
+     "state": "AL",
+     "state_full": "Alabama",
+     "total": 4500.0,
+     "count": 2
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 4300.0,
+     "count": 7
+    },
+    {
+     "state": "OK",
+     "state_full": "Oklahoma",
+     "total": 3500.0,
+     "count": 2
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "state": "NH",
+     "state_full": "New Hampshire",
+     "total": 3300.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "DIGITAL VISION INC",
+     "total": 15000.0,
+     "count": 6
+    },
+    {
+     "employer": "VERNIER SCIENCE EDUCATION",
+     "total": 13500.0,
+     "count": 7
+    },
+    {
+     "employer": "OHSU",
+     "total": 8421.99,
+     "count": 28
+    },
+    {
+     "employer": "MINERVA VENTURES LLC",
+     "total": 7600.0,
+     "count": 4
+    },
+    {
+     "employer": "ADVOCACY ASSOCIATES",
+     "total": 7500.0,
+     "count": 4
+    },
+    {
+     "employer": "EDMUNSON BARNHART KNIGHT",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "METRO WEST AMBULA",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ARPININE",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "THORN RUN PARTNERS",
+     "total": 7000.0,
+     "count": 4
+    },
+    {
+     "employer": "MASS GENERAL",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

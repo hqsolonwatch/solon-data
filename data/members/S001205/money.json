@@ -933,8 +933,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00669358",
+  "committee_name": "SCANLON FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1340757.14,
+  "amounts": {
+   "individuals_200_or_less": 91389.26,
+   "individuals_over_200": 631771.15,
+   "pacs_and_parties": 613092.16,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    7
+   ],
+   [
+    "Individuals giving more than $200",
+    47
+   ],
+   [
+    "PACs and party committees",
+    46
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 466219.15,
+   "home_state": "PA",
+   "home_state_total": 381021.0,
+   "home_state_share": 82,
+   "top": [
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 381021.0,
+     "count": 1563
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 17470.0,
+     "count": 48
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 15900.0,
+     "count": 19
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 11100.0,
+     "count": 25
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 8750.0,
+     "count": 12
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 7250.0,
+     "count": 8
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 6650.0,
+     "count": 21
+    },
+    {
+     "state": "DE",
+     "state_full": "Delaware",
+     "total": 6313.0,
+     "count": 29
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 3050.0,
+     "count": 3
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 2457.15,
+     "count": 10
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "BALLARD SPAHR LLP",
+     "total": 12750.0,
+     "count": 23
+    },
+    {
+     "employer": "BALLARD SPAHR",
+     "total": 9750.0,
+     "count": 18
+    },
+    {
+     "employer": "UNIVERSITY OF PENNSYLVANIA",
+     "total": 8990.0,
+     "count": 11
+    },
+    {
+     "employer": "COZEN O'CONNOR",
+     "total": 7590.0,
+     "count": 8
+    },
+    {
+     "employer": "BEECHTREE CAPITAL PARTNERS, INC.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "L&L KILN MFG. INC.",
+     "total": 6300.0,
+     "count": 6
+    },
+    {
+     "employer": "BARRACK RODOS & BACINE",
+     "total": 4600.0,
+     "count": 3
+    },
+    {
+     "employer": "VILLANOVA UNIVERSITY",
+     "total": 4200.0,
+     "count": 6
+    },
+    {
+     "employer": "SHRAGER SACHS & BLANCO",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "SPECTRE'S ROCK MEDIA INC.",
+     "total": 3500.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

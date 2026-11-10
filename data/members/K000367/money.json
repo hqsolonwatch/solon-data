@@ -348,8 +348,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00431353",
+  "committee_name": "KLOBUCHAR FOR MINNESOTA",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 2519524.84,
+  "amounts": {
+   "individuals_200_or_less": 702212.68,
+   "individuals_over_200": 875993.15,
+   "pacs_and_parties": 159000.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 620194.27,
+   "other_receipts": 49853.48
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    40
+   ],
+   [
+    "Individuals giving more than $200",
+    51
+   ],
+   [
+    "PACs and party committees",
+    9
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1595485.15,
+   "home_state": "MN",
+   "home_state_total": 578511.0,
+   "home_state_share": 36,
+   "top": [
+    {
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 578511.0,
+     "count": 1860
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 165507.51,
+     "count": 685
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 153991.0,
+     "count": 208
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 97044.5,
+     "count": 247
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 72477.5,
+     "count": 126
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 69825.0,
+     "count": 53
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 48371.09,
+     "count": 110
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 39005.0,
+     "count": 93
+    },
+    {
+     "state": "WY",
+     "state_full": "Wyoming",
+     "total": 36750.0,
+     "count": 24
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 34727.0,
+     "count": 138
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "MARQUIS ENERGY, INC.",
+     "total": 10000.0,
+     "count": 4
+    },
+    {
+     "employer": "GENERAL MILLS",
+     "total": 8500.0,
+     "count": 3
+    },
+    {
+     "employer": "LIVERAMP",
+     "total": 8000.0,
+     "count": 3
+    },
+    {
+     "employer": "TARGET",
+     "total": 7500.0,
+     "count": 4
+    },
+    {
+     "employer": "CARLSON",
+     "total": 7500.0,
+     "count": 4
+    },
+    {
+     "employer": "MEDTRONIC",
+     "total": 7105.0,
+     "count": 5
+    },
+    {
+     "employer": "HEARTLAND REALTY INVESTORS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "GRANITE TELECOM",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MINNEAPOLIS RADIATION ONCOLOGY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "INTERMEDIATE CAPITAL GROUP",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

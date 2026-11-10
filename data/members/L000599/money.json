@@ -3175,8 +3175,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00815415",
+  "committee_name": "LAWLER FOR CONGRESS, INC.",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 10317627.15,
+  "amounts": {
+   "individuals_200_or_less": 532797.5,
+   "individuals_over_200": 3438775.6,
+   "pacs_and_parties": 2498554.73,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 3718838.66,
+   "other_receipts": 113337.94
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    8
+   ],
+   [
+    "Individuals giving more than $200",
+    53
+   ],
+   [
+    "PACs and party committees",
+    39
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 5974792.25,
+   "home_state": "NY",
+   "home_state_total": 2349798.57,
+   "home_state_share": 39,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 2349798.57,
+     "count": 2714
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 828421.88,
+     "count": 1004
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 554588.04,
+     "count": 744
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 418249.34,
+     "count": 597
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 246888.73,
+     "count": 224
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 165216.12,
+     "count": 311
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 131006.88,
+     "count": 148
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 117784.43,
+     "count": 276
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 95819.59,
+     "count": 138
+    },
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 92490.1,
+     "count": 88
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "HIGH OPPORTUNITY NEIGHBORHOOD PARTNERS",
+     "total": 50000.0,
+     "count": 17
+    },
+    {
+     "employer": "BLACKSTONE",
+     "total": 34500.0,
+     "count": 18
+    },
+    {
+     "employer": "APOLLO",
+     "total": 32500.0,
+     "count": 12
+    },
+    {
+     "employer": "BGR GROUP",
+     "total": 24730.0,
+     "count": 24
+    },
+    {
+     "employer": "COINBASE",
+     "total": 24000.0,
+     "count": 7
+    },
+    {
+     "employer": "PERIGROVE",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
+     "employer": "ARNOLD VENTURES",
+     "total": 17500.0,
+     "count": 5
+    },
+    {
+     "employer": "CAPITAL REALTY GROUP",
+     "total": 17500.0,
+     "count": 5
+    },
+    {
+     "employer": "NEW MOUNTAIN CAPITAL",
+     "total": 15500.0,
+     "count": 5
+    },
+    {
+     "employer": "MORGAN STANLEY",
+     "total": 15425.0,
+     "count": 10
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

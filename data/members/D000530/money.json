@@ -797,8 +797,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00787648",
+  "committee_name": "CHRIS DELUZIO FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 3815970.07,
+  "amounts": {
+   "individuals_200_or_less": 1142699.05,
+   "individuals_over_200": 1979699.08,
+   "pacs_and_parties": 621119.5700000001,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 40778.67,
+   "other_receipts": 14107.26
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    30
+   ],
+   [
+    "Individuals giving more than $200",
+    53
+   ],
+   [
+    "PACs and party committees",
+    17
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1497194.98,
+   "home_state": "PA",
+   "home_state_total": 826402.67,
+   "home_state_share": 55,
+   "top": [
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 826402.67,
+     "count": 3165
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 192942.2,
+     "count": 265
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 161560.84,
+     "count": 318
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 45887.5,
+     "count": 88
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 41225.0,
+     "count": 63
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 38324.5,
+     "count": 216
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 27527.0,
+     "count": 111
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 15433.0,
+     "count": 95
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 15316.0,
+     "count": 65
+    },
+    {
+     "state": "ME",
+     "state_full": "Maine",
+     "total": 15000.0,
+     "count": 5
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "UNIVERSITY OF PITTSBURGH",
+     "total": 12750.0,
+     "count": 20
+    },
+    {
+     "employer": "CARNEGIE MELLON UNIVERSITY",
+     "total": 9006.0,
+     "count": 44
+    },
+    {
+     "employer": "WALNUT CAPITAL",
+     "total": 8000.0,
+     "count": 4
+    },
+    {
+     "employer": "ALLEGHENY FINANCIAL GROUP",
+     "total": 7850.0,
+     "count": 20
+    },
+    {
+     "employer": "Q PRIME",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ALSOP LOUIE PARTNERS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PALANTIR TECHNOLOGIES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "NORTHWESTERN MUTUAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MONEY WITH A MISSION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "GLENVILLE GROUP",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

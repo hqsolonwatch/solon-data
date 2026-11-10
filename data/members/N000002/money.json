@@ -296,8 +296,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00290825",
+  "committee_name": "NADLER FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 258402.09,
+  "amounts": {
+   "individuals_200_or_less": 25975.72,
+   "individuals_over_200": 155851.65,
+   "pacs_and_parties": 70500.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    10
+   ],
+   [
+    "Individuals giving more than $200",
+    62
+   ],
+   [
+    "PACs and party committees",
+    28
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 155851.65,
+   "home_state": "NY",
+   "home_state_total": 118912.65,
+   "home_state_share": 76,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 118912.65,
+     "count": 478
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 9490.0,
+     "count": 12
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 8000.0,
+     "count": 5
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 4970.0,
+     "count": 19
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 3750.0,
+     "count": 2
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 3300.0,
+     "count": 18
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 3000.0,
+     "count": 2
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 2000.0,
+     "count": 2
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 1050.0,
+     "count": 8
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 419.0,
+     "count": 40
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "CREDIT RENAISSANCE PARTNERS",
+     "total": 6000.0,
+     "count": 2
+    },
+    {
+     "employer": "HERITAGE CAPITAL CORPORATION",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "KREINDLER & KREINDER",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "THE ELEEMOSYNARY GROUP",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "PROSKAUER ROSE LLP",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "STANDARD MOTOR PRODUCTS",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "PROSKAUER",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "GOURMET EXPRESS LTD",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "ALLEN & CO",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "FOA & SON CORPORATION / ALERA GROUP",
+     "total": 2500.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

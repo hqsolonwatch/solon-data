@@ -1400,8 +1400,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00855288",
+  "committee_name": "TROY DOWNING FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2733160.34,
+  "amounts": {
+   "individuals_200_or_less": 571046.97,
+   "individuals_over_200": 975813.57,
+   "pacs_and_parties": 905377.55,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 267414.19,
+   "other_receipts": 2000.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    23
+   ],
+   [
+    "Individuals giving more than $200",
+    40
+   ],
+   [
+    "PACs and party committees",
+    37
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 997496.55,
+   "home_state": "MT",
+   "home_state_total": 291048.0,
+   "home_state_share": 29,
+   "top": [
+    {
+     "state": "MT",
+     "state_full": "Montana",
+     "total": 291048.0,
+     "count": 513
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 139877.25,
+     "count": 1651
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 110047.78,
+     "count": 1504
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 100057.67,
+     "count": 916
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 46032.28,
+     "count": 239
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 40451.12,
+     "count": 328
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 27590.52,
+     "count": 256
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 18803.09,
+     "count": 186
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 17903.49,
+     "count": 315
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 17618.5,
+     "count": 81
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "YELLOWSTONE BANK",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "COINBASE",
+     "total": 11500.0,
+     "count": 3
+    },
+    {
+     "employer": "ARNOLD VENTURES",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "OPENTECH",
+     "total": 10300.0,
+     "count": 4
+    },
+    {
+     "employer": "FX SOLUTIONS INC",
+     "total": 10000.0,
+     "count": 3
+    },
+    {
+     "employer": "BIG SKY TACTICAL SOLUTIONS",
+     "total": 10000.0,
+     "count": 3
+    },
+    {
+     "employer": "MDS ENERGY DEVELOPMENT",
+     "total": 10000.0,
+     "count": 3
+    },
+    {
+     "employer": "PRICEWATERHOUSECOOPERS",
+     "total": 10000.0,
+     "count": 3
+    },
+    {
+     "employer": "TILLEMAN MOTOR",
+     "total": 8217.97,
+     "count": 3
+    },
+    {
+     "employer": "MENHOLT AUTO GROUP",
+     "total": 7000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

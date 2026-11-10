@@ -4,6 +4,7 @@
   2025,
   2026
  ],
+ "fetched_ts": 1794345859,
  "report_count": 17,
  "clients": [
   {
@@ -12,6 +13,7 @@
    "reports": 4,
    "latest_report_amount": 16480000.0,
    "latest_report": "3754d07c-7ecc-4531-85c0-e4c3de7642a6",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -21,6 +23,7 @@
    "reports": 2,
    "latest_report_amount": 2300000.0,
    "latest_report": "02cf667c-e964-4bfc-93ba-6c33b8eb853c",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -30,6 +33,7 @@
    "reports": 1,
    "latest_report_amount": 2070000.0,
    "latest_report": "487bc001-13d0-4255-89ef-087d1acbd9c0",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -39,6 +43,7 @@
    "reports": 5,
    "latest_report_amount": 343067.0,
    "latest_report": "5debed44-4146-4e1c-a765-2904634b5be9",
+   "latest_report_period": "2026 first_quarter",
    "pac_ids": [
     "C00236778"
    ],
@@ -52,6 +57,7 @@
    "reports": 1,
    "latest_report_amount": 180000.0,
    "latest_report": "17cf6596-06a0-4771-9360-c03b2b465cfa",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [
     "C00471540"
    ],
@@ -61,10 +67,11 @@
   },
   {
    "client": "HF SINCLAIR CORPORATION",
-   "display_name": "Hf Sinclair",
+   "display_name": "HF Sinclair",
    "reports": 2,
    "latest_report_amount": 60000.0,
-   "latest_report": "27f26bdc-a276-4245-bc63-40f2a5b9c8e4",
+   "latest_report": "aff3a995-eaff-4a8c-8cfb-78e639be496a",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [
     "C00342766"
    ],
@@ -78,6 +85,7 @@
    "reports": 1,
    "latest_report_amount": 60000.0,
    "latest_report": "6e016c0f-1fc6-40ce-8134-630a5a9c5762",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [
     "C00513549"
    ],
@@ -87,10 +95,11 @@
   },
   {
    "client": "LG ELECTRONICS USA, INC.",
-   "display_name": "Lg Electronics USA",
+   "display_name": "LG Electronics USA",
    "reports": 1,
    "latest_report_amount": 30000.0,
    "latest_report": "136b4649-9931-421a-b70c-08b34ca5e52a",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [],
    "pac_names": []
   }
@@ -102,6 +111,7 @@
    "reports": 5,
    "latest_report_amount": 343067.0,
    "latest_report": "5debed44-4146-4e1c-a765-2904634b5be9",
+   "latest_report_period": "2026 first_quarter",
    "pac_ids": [
     "C00236778"
    ],
@@ -115,6 +125,7 @@
    "reports": 1,
    "latest_report_amount": 180000.0,
    "latest_report": "17cf6596-06a0-4771-9360-c03b2b465cfa",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [
     "C00471540"
    ],
@@ -124,10 +135,11 @@
   },
   {
    "client": "HF SINCLAIR CORPORATION",
-   "display_name": "Hf Sinclair",
+   "display_name": "HF Sinclair",
    "reports": 2,
    "latest_report_amount": 60000.0,
-   "latest_report": "27f26bdc-a276-4245-bc63-40f2a5b9c8e4",
+   "latest_report": "aff3a995-eaff-4a8c-8cfb-78e639be496a",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [
     "C00342766"
    ],
@@ -141,6 +153,7 @@
    "reports": 1,
    "latest_report_amount": 60000.0,
    "latest_report": "6e016c0f-1fc6-40ce-8134-630a5a9c5762",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [
     "C00513549"
    ],

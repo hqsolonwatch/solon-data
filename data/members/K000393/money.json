@@ -330,8 +330,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00608398",
+  "committee_name": "JOHN KENNEDY FOR US",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 11883071.11,
+  "amounts": {
+   "individuals_200_or_less": 4655238.74,
+   "individuals_over_200": 5932365.38,
+   "pacs_and_parties": 120100.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 331413.79,
+   "other_receipts": 806884.6
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    44
+   ],
+   [
+    "Individuals giving more than $200",
+    55
+   ],
+   [
+    "PACs and party committees",
+    1
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 6374666.62,
+   "home_state": "LA",
+   "home_state_total": 988774.27,
+   "home_state_share": 16,
+   "top": [
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 988774.27,
+     "count": 6995
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 792672.72,
+     "count": 14806
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 766943.65,
+     "count": 15817
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 597752.03,
+     "count": 12971
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 174416.97,
+     "count": 4827
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 171675.16,
+     "count": 4354
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 165759.41,
+     "count": 3949
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 165423.77,
+     "count": 4072
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 155404.9,
+     "count": 4137
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 150584.39,
+     "count": 3843
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "NU CYBERTEK, INC.",
+     "total": 16721.81,
+     "count": 58
+    },
+    {
+     "employer": "HASLAM SPORTS GROUP LLC",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "DUGAN LAW FIRM",
+     "total": 13500.0,
+     "count": 4
+    },
+    {
+     "employer": "EDW. C. LEVY CO.",
+     "total": 11507.05,
+     "count": 25
+    },
+    {
+     "employer": "VALMORE GP",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "GREENBRIAR EQUITY GROUP",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "1ST FINANCIAL BANK",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "HEALTHY VALLEY MANAGEMENT SERVICES LLC",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "TITANIUM PAYMENTS",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "LEE M. BASS, INC.",
+     "total": 10500.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

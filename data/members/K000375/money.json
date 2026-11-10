@@ -446,8 +446,158 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00479063",
+  "committee_name": "THE BILL KEATING COMMITTEE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 553689.68,
+  "amounts": {
+   "individuals_200_or_less": 54699.67,
+   "individuals_over_200": 253240.01,
+   "pacs_and_parties": 245750.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    10
+   ],
+   [
+    "Individuals giving more than $200",
+    46
+   ],
+   [
+    "PACs and party committees",
+    44
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 203000.01,
+   "home_state": "MA",
+   "home_state_total": 173750.01,
+   "home_state_share": 86,
+   "top": [
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 173750.01,
+     "count": 488
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 12000.0,
+     "count": 11
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 6250.0,
+     "count": 5
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 4000.0,
+     "count": 6
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 3000.0,
+     "count": 2
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 2000.0,
+     "count": 3
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 1500.0,
+     "count": 2
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 250.0,
+     "count": 1
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 250.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "MASS GENERAL HOSPITAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "KECHES LAW GROUP",
+     "total": 6000.0,
+     "count": 5
+    },
+    {
+     "employer": "CHARTWELL STRATEGY GROUP",
+     "total": 4500.0,
+     "count": 2
+    },
+    {
+     "employer": "JAY CASHMAN CONSTRUCTION",
+     "total": 4500.0,
+     "count": 3
+    },
+    {
+     "employer": "TYCHO AI",
+     "total": 3500.01,
+     "count": 4
+    },
+    {
+     "employer": "THE CASUAL GOURMET",
+     "total": 3000.0,
+     "count": 2
+    },
+    {
+     "employer": "ABRAHAM & ASSOCIATES",
+     "total": 2700.0,
+     "count": 1
+    },
+    {
+     "employer": "HERITAGE BUSINESS INTERNATIONAL",
+     "total": 2500.0,
+     "count": 2
+    },
+    {
+     "employer": "WINDJAMMER CONSTRUCTION",
+     "total": 2350.0,
+     "count": 4
+    },
+    {
+     "employer": "THORNTON LAW FIRM",
+     "total": 2010.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -1197,8 +1197,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00699744",
+  "committee_name": "TORRES FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 7172392.64,
+  "amounts": {
+   "individuals_200_or_less": 139131.21,
+   "individuals_over_200": 2295799.83,
+   "pacs_and_parties": 908350.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 3015431.18,
+   "other_receipts": 797129.03
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    4
+   ],
+   [
+    "Individuals giving more than $200",
+    69
+   ],
+   [
+    "PACs and party committees",
+    27
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 5270887.92,
+   "home_state": "NY",
+   "home_state_total": 2858749.09,
+   "home_state_share": 54,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 2858749.09,
+     "count": 2154
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 471285.93,
+     "count": 483
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 452790.0,
+     "count": 312
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 297026.23,
+     "count": 212
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 186728.0,
+     "count": 114
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 142350.0,
+     "count": 75
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 135353.0,
+     "count": 180
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 95616.67,
+     "count": 83
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 92334.0,
+     "count": 68
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 79336.0,
+     "count": 100
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "BLACKSTONE",
+     "total": 85900.0,
+     "count": 26
+    },
+    {
+     "employer": "CEO",
+     "total": 42018.0,
+     "count": 19
+    },
+    {
+     "employer": "ELLIOTT MANAGEMENT",
+     "total": 34500.0,
+     "count": 10
+    },
+    {
+     "employer": "KKR",
+     "total": 29000.0,
+     "count": 10
+    },
+    {
+     "employer": "UNION SQUARE VENTURES",
+     "total": 27538.63,
+     "count": 9
+    },
+    {
+     "employer": "BNY",
+     "total": 26500.0,
+     "count": 10
+    },
+    {
+     "employer": "REAL ESTATE",
+     "total": 25500.0,
+     "count": 14
+    },
+    {
+     "employer": "NEWMARK",
+     "total": 17000.0,
+     "count": 7
+    },
+    {
+     "employer": "FIDELITY INVESTMENTS",
+     "total": 16150.0,
+     "count": 16
+    },
+    {
+     "employer": "PRESIDENT",
+     "total": 14400.0,
+     "count": 6
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

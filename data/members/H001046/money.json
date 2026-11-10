@@ -1208,8 +1208,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00434563",
+  "committee_name": "MARTIN HEINRICH FOR SENATE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 1707571.31,
+  "amounts": {
+   "individuals_200_or_less": 297908.86,
+   "individuals_over_200": 884492.48,
+   "pacs_and_parties": 506421.39,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 15460.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    18
+   ],
+   [
+    "Individuals giving more than $200",
+    52
+   ],
+   [
+    "PACs and party committees",
+    30
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 734082.46,
+   "home_state": "NM",
+   "home_state_total": 175320.7,
+   "home_state_share": 24,
+   "top": [
+    {
+     "state": "NM",
+     "state_full": "New Mexico",
+     "total": 175320.7,
+     "count": 3676
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 148190.0,
+     "count": 118
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 103200.0,
+     "count": 86
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 73275.0,
+     "count": 81
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 44550.5,
+     "count": 118
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 29819.5,
+     "count": 49
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 20049.26,
+     "count": 54
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 19972.5,
+     "count": 100
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 16180.0,
+     "count": 17
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 12075.0,
+     "count": 24
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "HOLLAND & KNIGHT LLP",
+     "total": 14500.0,
+     "count": 9
+    },
+    {
+     "employer": "CORNERSTONE GOVERNMENT AFFAIRS INC.",
+     "total": 11750.0,
+     "count": 13
+    },
+    {
+     "employer": "CORVID TECHNOLOGIES, LLC",
+     "total": 10000.0,
+     "count": 4
+    },
+    {
+     "employer": "CASSIDY & ASSOCIATES, INC.",
+     "total": 10000.0,
+     "count": 5
+    },
+    {
+     "employer": "BGR GROUP",
+     "total": 9500.0,
+     "count": 11
+    },
+    {
+     "employer": "MMR GROUP",
+     "total": 7500.0,
+     "count": 4
+    },
+    {
+     "employer": "TIBER CREEK GROUP INC.",
+     "total": 7500.0,
+     "count": 8
+    },
+    {
+     "employer": "CRUX CLIMATE, LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "JANE STREET CAPITAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ICEBREAKER STRATEGIES, LLC",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

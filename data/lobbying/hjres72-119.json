@@ -4,6 +4,7 @@
   2025,
   2026
  ],
+ "fetched_ts": 1794345859,
  "report_count": 10,
  "clients": [
   {
@@ -12,6 +13,7 @@
    "reports": 7,
    "latest_report_amount": 810000.0,
    "latest_report": "87c748c2-e5c6-4bd1-8710-8c814049d4ce",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00375048"
    ],
@@ -25,6 +27,7 @@
    "reports": 1,
    "latest_report_amount": 290000.0,
    "latest_report": "4a019491-45ef-4061-9232-a60c409705a0",
+   "latest_report_period": "2026 first_quarter",
    "pac_ids": [
     "C00848820"
    ],
@@ -38,6 +41,7 @@
    "reports": 1,
    "latest_report_amount": 240000.0,
    "latest_report": "ee145903-10fd-4bd8-b47b-6f6a0b358f0e",
+   "latest_report_period": "2026 first_quarter",
    "pac_ids": [
     "C00039461"
    ],
@@ -47,10 +51,11 @@
   },
   {
    "client": "LG ELECTRONICS USA, INC.",
-   "display_name": "Lg Electronics USA",
+   "display_name": "LG Electronics USA",
    "reports": 1,
    "latest_report_amount": 30000.0,
    "latest_report": "61a99a7f-ae74-40ab-a840-bbd807b2b1e3",
+   "latest_report_period": "2026 first_quarter",
    "pac_ids": [],
    "pac_names": []
   }
@@ -62,6 +67,7 @@
    "reports": 7,
    "latest_report_amount": 810000.0,
    "latest_report": "87c748c2-e5c6-4bd1-8710-8c814049d4ce",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00375048"
    ],
@@ -75,6 +81,7 @@
    "reports": 1,
    "latest_report_amount": 290000.0,
    "latest_report": "4a019491-45ef-4061-9232-a60c409705a0",
+   "latest_report_period": "2026 first_quarter",
    "pac_ids": [
     "C00848820"
    ],
@@ -88,6 +95,7 @@
    "reports": 1,
    "latest_report_amount": 240000.0,
    "latest_report": "ee145903-10fd-4bd8-b47b-6f6a0b358f0e",
+   "latest_report_period": "2026 first_quarter",
    "pac_ids": [
     "C00039461"
    ],

@@ -1749,8 +1749,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00766428",
+  "committee_name": "JULIA LETLOW FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-08-21T00:00:00",
+  "receipts": 2078840.56,
+  "amounts": {
+   "individuals_200_or_less": 5950.95,
+   "individuals_over_200": 704124.75,
+   "pacs_and_parties": 777477.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 591287.86,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    1
+   ],
+   [
+    "Individuals giving more than $200",
+    47
+   ],
+   [
+    "PACs and party committees",
+    52
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1265427.75,
+   "home_state": "LA",
+   "home_state_total": 965115.5,
+   "home_state_share": 76,
+   "top": [
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 965115.5,
+     "count": 517
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 54000.0,
+     "count": 66
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 47500.0,
+     "count": 17
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 42250.0,
+     "count": 41
+    },
+    {
+     "state": "AL",
+     "state_full": "Alabama",
+     "total": 36500.0,
+     "count": 27
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 29750.0,
+     "count": 10
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 29000.0,
+     "count": 11
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 14800.0,
+     "count": 14
+    },
+    {
+     "state": "SC",
+     "state_full": "South Carolina",
+     "total": 8500.0,
+     "count": 4
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 7500.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "RADIANCE TECHNOLOGIES",
+     "total": 14000.0,
+     "count": 13
+    },
+    {
+     "employer": "KENNEDY RICE MILL",
+     "total": 13500.0,
+     "count": 4
+    },
+    {
+     "employer": "PRIORITY MANAGEMENT GROUP, LLC",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "CAJUN INDUSTRIES, LLC",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "PRIORITY MGT. SERVICES",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "PETRO LAND SERVICES SOUTH LLC",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "SN SERVICING",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "GORDON MCKERNAN INJURY ATTORNEYS, LLC",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "CENTRAL MANAGEMENT COMPANY LLC",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "ALLEGIANCE HEALTH MANAGEMENT",
+     "total": 10000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

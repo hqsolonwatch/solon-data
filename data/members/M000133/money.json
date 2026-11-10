@@ -783,8 +783,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00196774",
+  "committee_name": "THE MARKEY COMMITTEE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 5985385.37,
+  "amounts": {
+   "individuals_200_or_less": 890340.31,
+   "individuals_over_200": 1789477.15,
+   "pacs_and_parties": 743440.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 2369238.31,
+   "other_receipts": 103976.22
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    26
+   ],
+   [
+    "Individuals giving more than $200",
+    52
+   ],
+   [
+    "PACs and party committees",
+    22
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 3895661.56,
+   "home_state": "MA",
+   "home_state_total": 1737080.18,
+   "home_state_share": 45,
+   "top": [
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 1737080.18,
+     "count": 9446
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 604608.77,
+     "count": 776
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 290566.0,
+     "count": 344
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 273609.59,
+     "count": 292
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 168754.48,
+     "count": 227
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 133273.87,
+     "count": 131
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 106335.0,
+     "count": 157
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 90928.0,
+     "count": 110
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 90737.0,
+     "count": 143
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 64893.0,
+     "count": 129
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "KECHES LAW GROUP",
+     "total": 16350.0,
+     "count": 19
+    },
+    {
+     "employer": "CENTERVIEW PARTNERS",
+     "total": 15000.0,
+     "count": 4
+    },
+    {
+     "employer": "CLIFFORD LAW OFFICES",
+     "total": 14250.0,
+     "count": 5
+    },
+    {
+     "employer": "BAIN CAPITAL",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ANTHROPIC",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "STEPTOE LLP",
+     "total": 14000.0,
+     "count": 12
+    },
+    {
+     "employer": "NEW ENGLAND DEVELOPMENT",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "EDM MANAGEMENT",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "employer": "DRAFTKINGS",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "Q PRIME INC.",
+     "total": 14000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -249,8 +249,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00652727",
+  "committee_name": "JOSH HAWLEY FOR SENATE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 1905255.26,
+  "amounts": {
+   "individuals_200_or_less": 69518.3,
+   "individuals_over_200": 264751.95,
+   "pacs_and_parties": 31450.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 1531291.73,
+   "other_receipts": 5344.56
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    19
+   ],
+   [
+    "Individuals giving more than $200",
+    72
+   ],
+   [
+    "PACs and party committees",
+    9
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 3339424.73,
+   "home_state": "MO",
+   "home_state_total": 997525.82,
+   "home_state_share": 30,
+   "top": [
+    {
+     "state": "MO",
+     "state_full": "Missouri",
+     "total": 997525.82,
+     "count": 4989
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 293350.77,
+     "count": 2866
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 216785.99,
+     "count": 1648
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 202559.15,
+     "count": 1940
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 108060.65,
+     "count": 753
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 107899.7,
+     "count": 842
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 93266.23,
+     "count": 873
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 81798.14,
+     "count": 1023
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 74695.31,
+     "count": 667
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 65211.92,
+     "count": 783
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "BOEING",
+     "total": 8051.0,
+     "count": 21
+    },
+    {
+     "employer": "SHOW ME DEFENDERS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "HIGHLAND ESTATES NORWELL LLC",
+     "total": 7000.0,
+     "count": 5
+    },
+    {
+     "employer": "CARELLA BYRNE",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BASS PRO LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "REDWOOD RESEARCH",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "DOLMAN LAW GROUP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "COMMUNITY VOLUNTEER",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "DURHAM COMPANY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BSI CONSTRUCTORS",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

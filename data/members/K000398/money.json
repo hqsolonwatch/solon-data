@@ -2283,8 +2283,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00703058",
+  "committee_name": "KEAN FOR CONGRESS INC",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 6128373.01,
+  "amounts": {
+   "individuals_200_or_less": 284602.08,
+   "individuals_over_200": 2506677.99,
+   "pacs_and_parties": 1473215.03,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 1805421.33,
+   "other_receipts": 54603.09
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    7
+   ],
+   [
+    "Individuals giving more than $200",
+    59
+   ],
+   [
+    "PACs and party committees",
+    34
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 4318689.67,
+   "home_state": "NJ",
+   "home_state_total": 1409032.02,
+   "home_state_share": 33,
+   "top": [
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 1409032.02,
+     "count": 1455
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 644047.03,
+     "count": 572
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 433130.97,
+     "count": 352
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 378904.54,
+     "count": 442
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 298196.86,
+     "count": 291
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 87999.78,
+     "count": 50
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 84973.71,
+     "count": 47
+    },
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 84857.3,
+     "count": 45
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 84563.7,
+     "count": 61
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 84454.97,
+     "count": 43
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "BLACKSTONE",
+     "total": 18000.0,
+     "count": 6
+    },
+    {
+     "employer": "NEW MOUNTAIN CAPITAL",
+     "total": 14169.69,
+     "count": 6
+    },
+    {
+     "employer": "NORPAK CORPORATION",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "FOUNDERS FUND",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "RED ROCK RESORTS",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "STARKEY HEARING TECHNOLOGIES",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "BLUFF POINT ASSOCIATION",
+     "total": 14000.0,
+     "count": 5
+    },
+    {
+     "employer": "WSW",
+     "total": 12501.0,
+     "count": 10
+    },
+    {
+     "employer": "YONKERS CONTRACTING",
+     "total": 12000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

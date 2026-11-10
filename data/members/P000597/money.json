@@ -537,8 +537,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00433391",
+  "committee_name": "PINGREE FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 551077.7,
+  "amounts": {
+   "individuals_200_or_less": 81268.14,
+   "individuals_over_200": 151266.0,
+   "pacs_and_parties": 306050.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 10742.35,
+   "other_receipts": 10.84
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    15
+   ],
+   [
+    "Individuals giving more than $200",
+    28
+   ],
+   [
+    "PACs and party committees",
+    57
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 157110.0,
+   "home_state": "ME",
+   "home_state_total": 59345.0,
+   "home_state_share": 38,
+   "top": [
+    {
+     "state": "ME",
+     "state_full": "Maine",
+     "total": 59345.0,
+     "count": 609
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 26000.0,
+     "count": 11
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 19000.0,
+     "count": 36
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 8000.0,
+     "count": 3
+    },
+    {
+     "state": "OK",
+     "state_full": "Oklahoma",
+     "total": 7000.0,
+     "count": 5
+    },
+    {
+     "state": "UT",
+     "state_full": "Utah",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 5796.0,
+     "count": 13
+    },
+    {
+     "state": "AL",
+     "state_full": "Alabama",
+     "total": 4500.0,
+     "count": 2
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 4050.0,
+     "count": 8
+    },
+    {
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 3750.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "TISHMAN HOTEL & REALTY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PAINE SCHWARTZ PARTNERS",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "INCITE",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "FRONTERA GROUP",
+     "total": 3400.0,
+     "count": 2
+    },
+    {
+     "employer": "MAPETSI POLICY GROUP LLC",
+     "total": 3000.0,
+     "count": 2
+    },
+    {
+     "employer": "POSEIDON TECH CORPORATION",
+     "total": 3000.0,
+     "count": 1
+    },
+    {
+     "employer": "SEACOAST INC.",
+     "total": 2500.0,
+     "count": 1
+    },
+    {
+     "employer": "S A D #28",
+     "total": 2000.0,
+     "count": 1
+    },
+    {
+     "employer": "AUTO EUROPE",
+     "total": 1050.0,
+     "count": 11
+    },
+    {
+     "employer": "NESSEL DEVELOPMENT",
+     "total": 1000.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

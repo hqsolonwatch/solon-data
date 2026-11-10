@@ -1215,8 +1215,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00842336",
+  "committee_name": "BELL FOR MISSOURI",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 4024636.06,
+  "amounts": {
+   "individuals_200_or_less": 84871.46,
+   "individuals_over_200": 3136230.25,
+   "pacs_and_parties": 706795.68,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 88850.0,
+   "other_receipts": 959.51
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    2
+   ],
+   [
+    "Individuals giving more than $200",
+    80
+   ],
+   [
+    "PACs and party committees",
+    18
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 3225187.89,
+   "home_state": "MO",
+   "home_state_total": 605737.0,
+   "home_state_share": 19,
+   "top": [
+    {
+     "state": "MO",
+     "state_full": "Missouri",
+     "total": 605737.0,
+     "count": 680
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 581099.75,
+     "count": 482
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 546164.57,
+     "count": 362
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 349582.0,
+     "count": 314
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 234737.0,
+     "count": 249
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 159627.0,
+     "count": 102
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 118510.0,
+     "count": 122
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 80950.0,
+     "count": 51
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 62063.0,
+     "count": 62
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 51364.0,
+     "count": 22
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "EDWARD JONES",
+     "total": 28850.0,
+     "count": 15
+    },
+    {
+     "employer": "NEUBERGER BERMAN",
+     "total": 18750.0,
+     "count": 6
+    },
+    {
+     "employer": "KIRKLAND & ELLIS LLP",
+     "total": 17600.0,
+     "count": 9
+    },
+    {
+     "employer": "THE BOEING COMPANY",
+     "total": 16200.0,
+     "count": 29
+    },
+    {
+     "employer": "CAMBRIDGE INFORMATION GROUP",
+     "total": 13250.0,
+     "count": 3
+    },
+    {
+     "employer": "BBR PARTNERS",
+     "total": 12500.0,
+     "count": 4
+    },
+    {
+     "employer": "WASHINGTON UNIVERSITY",
+     "total": 12500.0,
+     "count": 6
+    },
+    {
+     "employer": "ALEXIS BEDNYAK DESIGN",
+     "total": 9800.0,
+     "count": 5
+    },
+    {
+     "employer": "AMEREN",
+     "total": 8750.0,
+     "count": 14
+    },
+    {
+     "employer": "RETTNER BUILDING MANAGEMENT",
+     "total": 8300.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

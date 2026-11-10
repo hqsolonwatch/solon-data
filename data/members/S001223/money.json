@@ -2095,8 +2095,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00801274",
+  "committee_name": "EMILIA SYKES FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 3990518.8,
+  "amounts": {
+   "individuals_200_or_less": 546468.66,
+   "individuals_over_200": 1958986.73,
+   "pacs_and_parties": 1268198.67,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 185591.73,
+   "other_receipts": 11483.43
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    14
+   ],
+   [
+    "Individuals giving more than $200",
+    52
+   ],
+   [
+    "PACs and party committees",
+    34
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1664847.76,
+   "home_state": "OH",
+   "home_state_total": 584132.55,
+   "home_state_share": 35,
+   "top": [
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 584132.55,
+     "count": 2223
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 345631.83,
+     "count": 391
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 160890.01,
+     "count": 136
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 135721.62,
+     "count": 134
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 85382.0,
+     "count": 109
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 56043.2,
+     "count": 71
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 35717.99,
+     "count": 96
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 35576.66,
+     "count": 23
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 32846.15,
+     "count": 20
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 28051.58,
+     "count": 66
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "JANE STREET",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "BERKSHIRE PARTNERS",
+     "total": 8333.33,
+     "count": 3
+    },
+    {
+     "employer": "BGR GROUP",
+     "total": 8250.0,
+     "count": 10
+    },
+    {
+     "employer": "CAPITAL GROUP",
+     "total": 7500.0,
+     "count": 3
+    },
+    {
+     "employer": "CHARLESBANK CAPITAL PARTNERS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PIVOTAL VENTURES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "HIGH TIDE FOUNDATION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "Q PRIME INC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "GIVE FORWARD FOUNDATION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "THE BAUPOST GROUP",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

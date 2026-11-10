@@ -1831,8 +1831,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00543363",
+  "committee_name": "CITIZENS FOR BOYLE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2883854.83,
+  "amounts": {
+   "individuals_200_or_less": 20387.24,
+   "individuals_over_200": 566850.4,
+   "pacs_and_parties": 1236035.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 167065.0,
+   "other_receipts": 890598.57
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    1
+   ],
+   [
+    "Individuals giving more than $200",
+    31
+   ],
+   [
+    "PACs and party committees",
+    68
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 722125.4,
+   "home_state": "PA",
+   "home_state_total": 135876.0,
+   "home_state_share": 19,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 157250.0,
+     "count": 75
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 135876.0,
+     "count": 174
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 95850.0,
+     "count": 65
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 45500.0,
+     "count": 17
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 43205.0,
+     "count": 29
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 29685.0,
+     "count": 43
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 26684.4,
+     "count": 18
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 26100.0,
+     "count": 10
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 24625.0,
+     "count": 20
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 18500.0,
+     "count": 9
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "AMSCOT FINANCIAL, INC.",
+     "total": 15000.0,
+     "count": 6
+    },
+    {
+     "employer": "SELECT MEDICAL",
+     "total": 13600.0,
+     "count": 4
+    },
+    {
+     "employer": "LUPA SYSTEMS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MEDLEY PARTNERS LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "JANE STREET CAPITAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "JUST CREATIVE PARTNERS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "THE JAMES AND JUDITH K. DIMON FOUNDATI",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "A16Z",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BOSTON BEER COMPANY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ARNOLD VENTURES",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

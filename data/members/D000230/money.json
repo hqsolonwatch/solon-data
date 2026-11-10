@@ -2779,8 +2779,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00795211",
+  "committee_name": "DON DAVIS FOR NC",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 5805482.43,
+  "amounts": {
+   "individuals_200_or_less": 573800.82,
+   "individuals_over_200": 2749133.27,
+   "pacs_and_parties": 1900538.19,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 572784.19,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    11
+   ],
+   [
+    "Individuals giving more than $200",
+    53
+   ],
+   [
+    "PACs and party committees",
+    36
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 3166934.92,
+   "home_state": "NC",
+   "home_state_total": 347195.33,
+   "home_state_share": 11,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 670895.17,
+     "count": 410
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 655756.53,
+     "count": 599
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 347195.33,
+     "count": 1184
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 262651.36,
+     "count": 341
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 145098.43,
+     "count": 142
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 123492.16,
+     "count": 222
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 122176.42,
+     "count": 97
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 106848.7,
+     "count": 158
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 99561.07,
+     "count": 75
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 70690.21,
+     "count": 76
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "JANE STREET CAPITAL",
+     "total": 24500.0,
+     "count": 8
+    },
+    {
+     "employer": "NOT EMPLOYER",
+     "total": 17500.0,
+     "count": 5
+    },
+    {
+     "employer": "CHARLES AND LYNN SCHUSTERMAN FAMILY PH",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "employer": "COINBASE",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "employer": "INSIGHT PARTNERS",
+     "total": 10500.0,
+     "count": 4
+    },
+    {
+     "employer": "ANTHROPIC",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "BESSEMER VENTURE PARTNERS",
+     "total": 10500.0,
+     "count": 4
+    },
+    {
+     "employer": "JANE STREET",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "GOOGLE",
+     "total": 8883.33,
+     "count": 7
+    },
+    {
+     "employer": "CROWNE PARTNERS INC",
+     "total": 8500.0,
+     "count": 5
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

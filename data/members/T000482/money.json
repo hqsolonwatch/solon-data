@@ -1562,8 +1562,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00655647",
+  "committee_name": "LORI TRAHAN FOR CONGRESS COMMITTEE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1878706.73,
+  "amounts": {
+   "individuals_200_or_less": 0.0,
+   "individuals_over_200": 862549.84,
+   "pacs_and_parties": 991250.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 23250.0,
+   "other_receipts": 1072.01
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    0
+   ],
+   [
+    "Individuals giving more than $200",
+    47
+   ],
+   [
+    "PACs and party committees",
+    53
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 821871.77,
+   "home_state": "MA",
+   "home_state_total": 652713.8,
+   "home_state_share": 79,
+   "top": [
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 652713.8,
+     "count": 1680
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 60916.6,
+     "count": 114
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 43648.54,
+     "count": 51
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 12991.2,
+     "count": 18
+    },
+    {
+     "state": "NH",
+     "state_full": "New Hampshire",
+     "total": 11225.0,
+     "count": 20
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 10525.0,
+     "count": 11
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 6800.0,
+     "count": 2
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 4500.0,
+     "count": 2
+    },
+    {
+     "state": "MO",
+     "state_full": "Missouri",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "state": "PR",
+     "state_full": "Puerto Rico",
+     "total": 3500.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "MARKLEY GROUP",
+     "total": 17500.0,
+     "count": 5
+    },
+    {
+     "employer": "KEYSER PUBLIC STRATEGIES",
+     "total": 8000.0,
+     "count": 6
+    },
+    {
+     "employer": "RED+BLUE STRATEGIES",
+     "total": 8000.0,
+     "count": 4
+    },
+    {
+     "employer": "BENCHMARK SENIOR LIVING",
+     "total": 8000.0,
+     "count": 18
+    },
+    {
+     "employer": "LIFE YIELD",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BARR FOUNDATION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "KOUNTOUPES DENHAM CARR AND REID",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SUNSHINE PAVING CORP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "GRANITE TELECOM",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "CRE MANAGEMENT",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

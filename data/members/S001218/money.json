@@ -529,8 +529,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00765099",
+  "committee_name": "MELANIE FOR NEW MEXICO",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1721315.41,
+  "amounts": {
+   "individuals_200_or_less": 591329.74,
+   "individuals_over_200": 839521.44,
+   "pacs_and_parties": 264334.77,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 22657.53,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    35
+   ],
+   [
+    "Individuals giving more than $200",
+    49
+   ],
+   [
+    "PACs and party committees",
+    16
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 669894.26,
+   "home_state": "NM",
+   "home_state_total": 439515.1,
+   "home_state_share": 66,
+   "top": [
+    {
+     "state": "NM",
+     "state_full": "New Mexico",
+     "total": 439515.1,
+     "count": 3813
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 50479.5,
+     "count": 211
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 24572.0,
+     "count": 128
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 20095.0,
+     "count": 46
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 13900.0,
+     "count": 30
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 12487.5,
+     "count": 37
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 11325.0,
+     "count": 55
+    },
+    {
+     "state": "OK",
+     "state_full": "Oklahoma",
+     "total": 9900.0,
+     "count": 12
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 9696.88,
+     "count": 45
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 9564.5,
+     "count": 40
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "THORNBURG INVESTMENT MANAGEMENT",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "FIVE & DIME GENERAL STORES",
+     "total": 7000.0,
+     "count": 4
+    },
+    {
+     "employer": "TRUECOVERAGE LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "CALCULEX INC.",
+     "total": 6200.0,
+     "count": 2
+    },
+    {
+     "employer": "UNM",
+     "total": 5875.0,
+     "count": 64
+    },
+    {
+     "employer": "UNIVERSITY OF NEW MEXICO",
+     "total": 4320.0,
+     "count": 54
+    },
+    {
+     "employer": "GIBBS & BRUNS LLP",
+     "total": 4000.0,
+     "count": 3
+    },
+    {
+     "employer": "TPG CAPITAL",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "COLLINEAR NETWORKS",
+     "total": 3500.0,
+     "count": 2
+    },
+    {
+     "employer": "UNION SQUARE VENTURES",
+     "total": 3500.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -686,8 +686,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00803502",
+  "committee_name": "JOHN JAMES FOR CONGRESS, INC.",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2025-12-23T00:00:00",
+  "receipts": 554399.53,
+  "amounts": {
+   "individuals_200_or_less": 22088.5,
+   "individuals_over_200": 12671.58,
+   "pacs_and_parties": 229500.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 287794.03,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    8
+   ],
+   [
+    "Individuals giving more than $200",
+    5
+   ],
+   [
+    "PACs and party committees",
+    87
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 410854.83,
+   "home_state": "MI",
+   "home_state_total": 29755.81,
+   "home_state_share": 7,
+   "top": [
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 103796.29,
+     "count": 148
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 55087.48,
+     "count": 79
+    },
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 44513.57,
+     "count": 19
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 31954.44,
+     "count": 91
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 30982.41,
+     "count": 173
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 29755.81,
+     "count": 344
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 11557.39,
+     "count": 5
+    },
+    {
+     "state": "UT",
+     "state_full": "Utah",
+     "total": 11500.0,
+     "count": 7
+    },
+    {
+     "state": "AR",
+     "state_full": "Arkansas",
+     "total": 11450.0,
+     "count": 11
+    },
+    {
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 9429.35,
+     "count": 33
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "PERFOMANCE CONTRACTORS INC.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "CROWNQUEST OPERATING LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ENERGY TRANSFER COMPANY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "WPR DEVELOPMENT CO",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MOUNTAIRE CORPORATION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MIDLAND ENERGY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "FOUNDERS FUND",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SILVER EAGLE BEVERAGES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "EDISON CHOUEST OFFSHORE",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "INVEMED",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

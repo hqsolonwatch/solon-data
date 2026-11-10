@@ -227,8 +227,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00680934",
+  "committee_name": "ILHAN FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 8247981.67,
+  "amounts": {
+   "individuals_200_or_less": 5437584.33,
+   "individuals_over_200": 2495238.06,
+   "pacs_and_parties": 104828.5,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 189021.3,
+   "other_receipts": 3176.99
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    68
+   ],
+   [
+    "Individuals giving more than $200",
+    31
+   ],
+   [
+    "PACs and party committees",
+    1
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1979894.85,
+   "home_state": "MN",
+   "home_state_total": 172190.76,
+   "home_state_share": 9,
+   "top": [
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 474310.63,
+     "count": 6926
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 175210.54,
+     "count": 3269
+    },
+    {
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 172190.76,
+     "count": 2805
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 127821.41,
+     "count": 1011
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 126823.83,
+     "count": 1267
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 119426.33,
+     "count": 1234
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 73602.65,
+     "count": 1401
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 59871.62,
+     "count": 918
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 58377.31,
+     "count": 584
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 54542.8,
+     "count": 1554
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "NVIDIA",
+     "total": 12600.0,
+     "count": 13
+    },
+    {
+     "employer": "HCA",
+     "total": 10526.13,
+     "count": 14
+    },
+    {
+     "employer": "ORACLE CORPORATION",
+     "total": 8999.99,
+     "count": 5
+    },
+    {
+     "employer": "RICELAND HEALTHCARE",
+     "total": 8125.0,
+     "count": 4
+    },
+    {
+     "employer": "SHOWCASE COMMERCE",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ALEXANDER SOROS FOUNDATION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SEHC",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "REMBRAND",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "IDS REAL ESTATE GROUP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "APEX GROUP",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

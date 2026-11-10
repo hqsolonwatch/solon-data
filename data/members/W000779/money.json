@@ -974,8 +974,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00308676",
+  "committee_name": "WYDEN FOR SENATE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 1923549.09,
+  "amounts": {
+   "individuals_200_or_less": 365649.31,
+   "individuals_over_200": 744451.45,
+   "pacs_and_parties": 372500.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 374119.6,
+   "other_receipts": 63542.04
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    25
+   ],
+   [
+    "Individuals giving more than $200",
+    50
+   ],
+   [
+    "PACs and party committees",
+    25
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 986279.16,
+   "home_state": "OR",
+   "home_state_total": 513374.48,
+   "home_state_share": 52,
+   "top": [
+    {
+     "state": "OR",
+     "state_full": "Oregon",
+     "total": 513374.48,
+     "count": 5694
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 102615.5,
+     "count": 184
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 73040.0,
+     "count": 57
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 65153.5,
+     "count": 200
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 36010.0,
+     "count": 54
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 33000.0,
+     "count": 30
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 20739.18,
+     "count": 16
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 20212.0,
+     "count": 44
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 15020.0,
+     "count": 8
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 11200.0,
+     "count": 7
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "WINKLER DEVELOPMENT CORPORATION",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ANTHROPIC PBC",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "CAPITOL COUNSEL",
+     "total": 12500.0,
+     "count": 7
+    },
+    {
+     "employer": "ADOBE",
+     "total": 7400.0,
+     "count": 4
+    },
+    {
+     "employer": "OREGON UROLOGY INSTITUTE",
+     "total": 7280.0,
+     "count": 10
+    },
+    {
+     "employer": "BRIGHTNIGHT",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "THE CORSON & JOHNSON LAW FIRM, P.C.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "8 MINUTE SOLAR ENERGY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "HARSCH INVESTMENT PROPERTIES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "KING ESTATES WINERY",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

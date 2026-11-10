@@ -807,8 +807,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00815290",
+  "committee_name": "PAT RYAN FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 5359733.43,
+  "amounts": {
+   "individuals_200_or_less": 347874.27,
+   "individuals_over_200": 3639398.83,
+   "pacs_and_parties": 639146.61,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 578483.47,
+   "other_receipts": 65836.53
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    7
+   ],
+   [
+    "Individuals giving more than $200",
+    79
+   ],
+   [
+    "PACs and party committees",
+    14
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 3904891.16,
+   "home_state": "NY",
+   "home_state_total": 2559542.77,
+   "home_state_share": 66,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 2559542.77,
+     "count": 4084
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 363331.0,
+     "count": 244
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 197073.12,
+     "count": 124
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 118540.0,
+     "count": 70
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 116624.5,
+     "count": 136
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 87706.37,
+     "count": 107
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 76380.0,
+     "count": 78
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 69565.1,
+     "count": 89
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 53474.25,
+     "count": 67
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 37000.0,
+     "count": 21
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "PALANTIR TECHNOLOGIES",
+     "total": 28500.0,
+     "count": 16
+    },
+    {
+     "employer": "POWER ROGERS LLP",
+     "total": 24000.0,
+     "count": 9
+    },
+    {
+     "employer": "ANTHROPIC",
+     "total": 23500.0,
+     "count": 10
+    },
+    {
+     "employer": "ANDURIL INDUSTRIES",
+     "total": 18050.0,
+     "count": 9
+    },
+    {
+     "employer": "KLM EQUITIES",
+     "total": 18000.0,
+     "count": 9
+    },
+    {
+     "employer": "SHIFT5",
+     "total": 17500.0,
+     "count": 15
+    },
+    {
+     "employer": "PAUL WEISS LLP",
+     "total": 17500.0,
+     "count": 6
+    },
+    {
+     "employer": "INSIGHT PARTNERS",
+     "total": 15500.0,
+     "count": 7
+    },
+    {
+     "employer": "SULLIVAN & CROMWELL LLP",
+     "total": 15000.0,
+     "count": 10
+    },
+    {
+     "employer": "CLIFFORD LAW OFFICES",
+     "total": 14000.0,
+     "count": 6
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -3531,8 +3531,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00607416",
+  "committee_name": "BRIAN FITZPATRICK FOR ALL OF US",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 8021375.59,
+  "amounts": {
+   "individuals_200_or_less": 154837.33,
+   "individuals_over_200": 1756862.72,
+   "pacs_and_parties": 2687561.8,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 3072458.19,
+   "other_receipts": 349534.07
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    3
+   ],
+   [
+    "Individuals giving more than $200",
+    38
+   ],
+   [
+    "PACs and party committees",
+    59
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 4400044.72,
+   "home_state": "PA",
+   "home_state_total": 849001.32,
+   "home_state_share": 19,
+   "top": [
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 849001.32,
+     "count": 857
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 633276.61,
+     "count": 534
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 488638.34,
+     "count": 238
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 426222.11,
+     "count": 231
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 406906.72,
+     "count": 300
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 189071.77,
+     "count": 147
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 149446.55,
+     "count": 127
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 141544.42,
+     "count": 108
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 114739.62,
+     "count": 46
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 95855.04,
+     "count": 40
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "KKR",
+     "total": 45500.0,
+     "count": 13
+    },
+    {
+     "employer": "MILLER STRATEGIES",
+     "total": 24500.0,
+     "count": 7
+    },
+    {
+     "employer": "ENTREPRENEUR",
+     "total": 22981.84,
+     "count": 8
+    },
+    {
+     "employer": "GAMECHANGE SOLAR",
+     "total": 18725.0,
+     "count": 10
+    },
+    {
+     "employer": "MILLER STRATEGIES, LLC",
+     "total": 17500.0,
+     "count": 5
+    },
+    {
+     "employer": "NEW YORK LIFE",
+     "total": 16500.0,
+     "count": 7
+    },
+    {
+     "employer": "APOLLO",
+     "total": 15800.0,
+     "count": 7
+    },
+    {
+     "employer": "CROW HOLDINGS",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "SHADE TREE ADVISORS",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "FORTRESS INVESTMENT GROUP",
+     "total": 14000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

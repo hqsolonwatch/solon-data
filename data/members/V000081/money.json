@@ -208,8 +208,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00271312",
+  "committee_name": "COMMITTEE TO RE-ELECT NYDIA M VELAZQUEZ TO CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 180256.68,
+  "amounts": {
+   "individuals_200_or_less": 6410.37,
+   "individuals_over_200": 109346.31,
+   "pacs_and_parties": 64500.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    3
+   ],
+   [
+    "Individuals giving more than $200",
+    61
+   ],
+   [
+    "PACs and party committees",
+    36
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 109346.31,
+   "home_state": "NY",
+   "home_state_total": 74491.31,
+   "home_state_share": 68,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 74491.31,
+     "count": 140
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 10805.0,
+     "count": 16
+    },
+    {
+     "state": "PR",
+     "state_full": "Puerto Rico",
+     "total": 8950.0,
+     "count": 6
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 6500.0,
+     "count": 6
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 2500.0,
+     "count": 3
+    },
+    {
+     "state": "NH",
+     "state_full": "New Hampshire",
+     "total": 1000.0,
+     "count": 1
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 1000.0,
+     "count": 1
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 500.0,
+     "count": 1
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 100.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "SIEDMAN & ASSOC PC",
+     "total": 4500.0,
+     "count": 4
+    },
+    {
+     "employer": "HARVARD KENNEDY SCHOOL",
+     "total": 4300.0,
+     "count": 2
+    },
+    {
+     "employer": "5000 BROADWAY PRODUCTIONS",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "AMG WATERPROOFING",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "CAI MANAGERS",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "INKIT",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "THE ELEEMOSYNARY GROUP",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "TUSK STRATEGIES",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "HOSPITAL CARIBBEAN MEDICAL CENTER",
+     "total": 1700.0,
+     "count": 1
+    },
+    {
+     "employer": "MEHLMAN CONSULTING",
+     "total": 1555.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -1669,8 +1669,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00845461",
+  "committee_name": "MANNION FOR NEW YORK",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 3240826.28,
+  "amounts": {
+   "individuals_200_or_less": 382015.87,
+   "individuals_over_200": 1731733.13,
+   "pacs_and_parties": 965520.53,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 107606.51,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    13
+   ],
+   [
+    "Individuals giving more than $200",
+    56
+   ],
+   [
+    "PACs and party committees",
+    31
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1495183.38,
+   "home_state": "NY",
+   "home_state_total": 1073520.87,
+   "home_state_share": 72,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 1073520.87,
+     "count": 3872
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 88839.5,
+     "count": 128
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 81437.68,
+     "count": 74
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 46478.08,
+     "count": 66
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 33453.25,
+     "count": 60
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 27916.66,
+     "count": 13
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 25284.0,
+     "count": 26
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 16850.0,
+     "count": 28
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 15772.0,
+     "count": 33
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 15750.0,
+     "count": 12
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "SYRACUSE UNIVERSITY",
+     "total": 18601.0,
+     "count": 54
+    },
+    {
+     "employer": "HAMILTON COLLEGE",
+     "total": 10750.0,
+     "count": 53
+    },
+    {
+     "employer": "LE MOYNE COLLEGE",
+     "total": 8650.0,
+     "count": 8
+    },
+    {
+     "employer": "SAAB",
+     "total": 7500.0,
+     "count": 6
+    },
+    {
+     "employer": "GOLDEN ARTIST COLORS",
+     "total": 7500.0,
+     "count": 7
+    },
+    {
+     "employer": "PAR",
+     "total": 7000.0,
+     "count": 4
+    },
+    {
+     "employer": "LIBERTY RESOURCES POST LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MASS GENERAL HOSPITAL",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "GIVE FORWARD FOUNDATION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "Q PRIME INC.",
+     "total": 7000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

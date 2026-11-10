@@ -4,6 +4,7 @@
   2025,
   2026
  ],
+ "fetched_ts": 1794345859,
  "report_count": 25,
  "clients": [
   {
@@ -12,6 +13,7 @@
    "reports": 4,
    "latest_report_amount": 16480000.0,
    "latest_report": "3754d07c-7ecc-4531-85c0-e4c3de7642a6",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -21,6 +23,7 @@
    "reports": 2,
    "latest_report_amount": 2300000.0,
    "latest_report": "02cf667c-e964-4bfc-93ba-6c33b8eb853c",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -30,6 +33,7 @@
    "reports": 1,
    "latest_report_amount": 2070000.0,
    "latest_report": "487bc001-13d0-4255-89ef-087d1acbd9c0",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -39,6 +43,7 @@
    "reports": 3,
    "latest_report_amount": 1502541.0,
    "latest_report": "ddb398ff-b76e-4bf9-baea-7fafa2d17da7",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00516526"
    ],
@@ -52,6 +57,7 @@
    "reports": 1,
    "latest_report_amount": 570000.0,
    "latest_report": "ffd9e89e-d9b2-4017-9dd2-295d0817f8ee",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [
     "C00496307"
    ],
@@ -60,11 +66,36 @@
    ]
   },
   {
+   "client": "VALERO ENERGY CORPORATION",
+   "display_name": "Valero Energy",
+   "reports": 2,
+   "latest_report_amount": 430000.0,
+   "latest_report": "023af60b-6eee-4dab-8c74-29fc4164d2c5",
+   "latest_report_period": "2025 second_quarter",
+   "pac_ids": [
+    "C00109546"
+   ],
+   "pac_names": [
+    "VALERO ENERGY CORPORATION POLITICAL ACTION COMMITTEE"
+   ]
+  },
+  {
+   "client": "SPECIALTY EQUIPMENT MARKET ASSOCIATION",
+   "display_name": "Specialty Equipment Market Association",
+   "reports": 2,
+   "latest_report_amount": 350000.0,
+   "latest_report": "257d36b0-c1b9-44ec-9e5f-e31d8c9540c9",
+   "latest_report_period": "2025 second_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
    "client": "UNITED ASSN OF JOURNEYMEN & APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY",
    "display_name": "United Assn of Journeymen & Apprentices of the Plumbing & Pipefitting Industry",
    "reports": 1,
    "latest_report_amount": 260000.0,
    "latest_report": "23066307-1811-45b8-a594-daa7cf6cf64c",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -74,6 +105,7 @@
    "reports": 1,
    "latest_report_amount": 140000.0,
    "latest_report": "baf7323e-e8b1-4ddc-8832-41dbd5336469",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -83,28 +115,17 @@
    "reports": 1,
    "latest_report_amount": 70000.0,
    "latest_report": "3a026e6c-eacf-49b4-9af9-ee2ed984e8c3",
+   "latest_report_period": "2025 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
   {
-   "client": "VALERO ENERGY CORPORATION",
-   "display_name": "Valero Energy",
-   "reports": 2,
-   "latest_report_amount": 60000.0,
-   "latest_report": "33cd170b-6f5d-4a4f-8eec-f968752edf03",
-   "pac_ids": [
-    "C00109546"
-   ],
-   "pac_names": [
-    "VALERO ENERGY CORPORATION POLITICAL ACTION COMMITTEE"
-   ]
-  },
-  {
    "client": "HF SINCLAIR CORPORATION",
-   "display_name": "Hf Sinclair",
+   "display_name": "HF Sinclair",
    "reports": 2,
    "latest_report_amount": 60000.0,
-   "latest_report": "27f26bdc-a276-4245-bc63-40f2a5b9c8e4",
+   "latest_report": "aff3a995-eaff-4a8c-8cfb-78e639be496a",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [
     "C00342766"
    ],
@@ -113,24 +134,12 @@
    ]
   },
   {
-   "client": "PHILLIPS 66 COMPANY",
-   "display_name": "Phillips 66 Company",
-   "reports": 1,
-   "latest_report_amount": 60000.0,
-   "latest_report": "6e016c0f-1fc6-40ce-8134-630a5a9c5762",
-   "pac_ids": [
-    "C00513549"
-   ],
-   "pac_names": [
-    "PHILLIPS 66 PAC"
-   ]
-  },
-  {
    "client": "GENERAL MOTORS",
    "display_name": "General Motors",
    "reports": 3,
-   "latest_report_amount": 50000.0,
-   "latest_report": "6d838df4-d98c-4d16-8237-8d43a665c79a",
+   "latest_report_amount": 60000.0,
+   "latest_report": "d888a065-0136-49be-b5c5-1ddeb154bc8e",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [
     "C00076810"
    ],
@@ -139,20 +148,26 @@
    ]
   },
   {
-   "client": "SPECIALTY EQUIPMENT MARKET ASSOCIATION",
-   "display_name": "Specialty Equipment Market Association",
-   "reports": 2,
-   "latest_report_amount": 30000.0,
-   "latest_report": "ccf6e0fa-5b7c-452b-b3bb-56f2c7a460ae",
-   "pac_ids": [],
-   "pac_names": []
+   "client": "PHILLIPS 66 COMPANY",
+   "display_name": "Phillips 66 Company",
+   "reports": 1,
+   "latest_report_amount": 60000.0,
+   "latest_report": "6e016c0f-1fc6-40ce-8134-630a5a9c5762",
+   "latest_report_period": "2025 second_quarter",
+   "pac_ids": [
+    "C00513549"
+   ],
+   "pac_names": [
+    "PHILLIPS 66 PAC"
+   ]
   },
   {
    "client": "LG ELECTRONICS USA, INC.",
-   "display_name": "Lg Electronics USA",
+   "display_name": "LG Electronics USA",
    "reports": 1,
    "latest_report_amount": 30000.0,
    "latest_report": "136b4649-9931-421a-b70c-08b34ca5e52a",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [],
    "pac_names": []
   }
@@ -164,6 +179,7 @@
    "reports": 3,
    "latest_report_amount": 1502541.0,
    "latest_report": "ddb398ff-b76e-4bf9-baea-7fafa2d17da7",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00516526"
    ],
@@ -177,6 +193,7 @@
    "reports": 1,
    "latest_report_amount": 570000.0,
    "latest_report": "ffd9e89e-d9b2-4017-9dd2-295d0817f8ee",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [
     "C00496307"
    ],
@@ -188,8 +205,9 @@
    "client": "VALERO ENERGY CORPORATION",
    "display_name": "Valero Energy",
    "reports": 2,
-   "latest_report_amount": 60000.0,
-   "latest_report": "33cd170b-6f5d-4a4f-8eec-f968752edf03",
+   "latest_report_amount": 430000.0,
+   "latest_report": "023af60b-6eee-4dab-8c74-29fc4164d2c5",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [
     "C00109546"
    ],
@@ -199,10 +217,11 @@
   },
   {
    "client": "HF SINCLAIR CORPORATION",
-   "display_name": "Hf Sinclair",
+   "display_name": "HF Sinclair",
    "reports": 2,
    "latest_report_amount": 60000.0,
-   "latest_report": "27f26bdc-a276-4245-bc63-40f2a5b9c8e4",
+   "latest_report": "aff3a995-eaff-4a8c-8cfb-78e639be496a",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [
     "C00342766"
    ],
@@ -211,16 +230,17 @@
    ]
   },
   {
-   "client": "PHILLIPS 66 COMPANY",
-   "display_name": "Phillips 66 Company",
-   "reports": 1,
+   "client": "GENERAL MOTORS",
+   "display_name": "General Motors",
+   "reports": 3,
    "latest_report_amount": 60000.0,
-   "latest_report": "6e016c0f-1fc6-40ce-8134-630a5a9c5762",
+   "latest_report": "d888a065-0136-49be-b5c5-1ddeb154bc8e",
+   "latest_report_period": "2025 second_quarter",
    "pac_ids": [
-    "C00513549"
+    "C00076810"
    ],
    "pac_names": [
-    "PHILLIPS 66 PAC"
+    "GENERAL MOTORS COMPANY POLITICAL ACTION COMMITTEE (GM PAC)"
    ]
   }
  ],

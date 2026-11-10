@@ -209,8 +209,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00834218",
+  "committee_name": "ELISSA SLOTKIN FOR MICHIGAN",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 6023063.09,
+  "amounts": {
+   "individuals_200_or_less": 3301820.09,
+   "individuals_over_200": 2344068.83,
+   "pacs_and_parties": 37500.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 4347.24,
+   "other_receipts": 233632.51
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    58
+   ],
+   [
+    "Individuals giving more than $200",
+    41
+   ],
+   [
+    "PACs and party committees",
+    1
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1955157.39,
+   "home_state": "MI",
+   "home_state_total": 790985.27,
+   "home_state_share": 40,
+   "top": [
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 790985.27,
+     "count": 13333
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 270993.42,
+     "count": 2485
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 193124.91,
+     "count": 1276
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 68416.5,
+     "count": 716
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 64067.25,
+     "count": 622
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 59898.5,
+     "count": 551
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 51816.5,
+     "count": 479
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 51111.0,
+     "count": 414
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 35898.79,
+     "count": 279
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 35678.0,
+     "count": 400
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "THE WONDERFUL COMPANY",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "MICHIGAN STATE UNIVERSITY",
+     "total": 13787.64,
+     "count": 250
+    },
+    {
+     "employer": "APOLLO GLOBAL MANAGEMENT",
+     "total": 11500.0,
+     "count": 4
+    },
+    {
+     "employer": "APOLLO",
+     "total": 8500.0,
+     "count": 3
+    },
+    {
+     "employer": "UNIVERSITY OF MICHIGAN",
+     "total": 7842.0,
+     "count": 187
+    },
+    {
+     "employer": "JANE STREET CAPITAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ALLIANCE FOR AUTOMOTIVE INNOVATION",
+     "total": 6375.0,
+     "count": 5
+    },
+    {
+     "employer": "STRELITZIA VENTURES",
+     "total": 5000.0,
+     "count": 2
+    },
+    {
+     "employer": "WOODLAND FOODS",
+     "total": 5000.0,
+     "count": 2
+    },
+    {
+     "employer": "CITY ALUMINUM FOUNDRY CO.",
+     "total": 4550.0,
+     "count": 7
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

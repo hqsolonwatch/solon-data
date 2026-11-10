@@ -1331,8 +1331,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00450049",
+  "committee_name": "PAUL TONKO FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1247202.32,
+  "amounts": {
+   "individuals_200_or_less": 109527.12,
+   "individuals_over_200": 316574.17,
+   "pacs_and_parties": 818555.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 2546.03
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    9
+   ],
+   [
+    "Individuals giving more than $200",
+    25
+   ],
+   [
+    "PACs and party committees",
+    66
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 239594.69,
+   "home_state": "NY",
+   "home_state_total": 189275.09,
+   "home_state_share": 79,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 189275.09,
+     "count": 1298
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 12716.45,
+     "count": 22
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "state": "SD",
+     "state_full": "South Dakota",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 3800.0,
+     "count": 12
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 3016.45,
+     "count": 6
+    },
+    {
+     "state": "KY",
+     "state_full": "Kentucky",
+     "total": 1200.0,
+     "count": 2
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 1105.0,
+     "count": 5
+    },
+    {
+     "state": "AR",
+     "state_full": "Arkansas",
+     "total": 1000.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ARNOLD VENTURES",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "POET PAC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "NOT-EMPLOYED",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "GUIDE CONSULTING SERVICES",
+     "total": 5000.0,
+     "count": 2
+    },
+    {
+     "employer": "OPEN SPACE INSTITUTE",
+     "total": 2500.0,
+     "count": 5
+    },
+    {
+     "employer": "PLUG POWER, INC.",
+     "total": 2250.0,
+     "count": 5
+    },
+    {
+     "employer": "GOLUB CORPORATION",
+     "total": 2250.0,
+     "count": 3
+    },
+    {
+     "employer": "HIPPO'S HOME ENTERTAINMENT",
+     "total": 2000.0,
+     "count": 2
+    },
+    {
+     "employer": "NY STATE BROADCASTERS ASSOCIATION",
+     "total": 2000.0,
+     "count": 1
+    },
+    {
+     "employer": "NYS PUBLIC EMPLOYEES FEDERATION",
+     "total": 1630.0,
+     "count": 49
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

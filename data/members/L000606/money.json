@@ -522,8 +522,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00859041",
+  "committee_name": "GEORGE LATIMER FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 681937.92,
+  "amounts": {
+   "individuals_200_or_less": 64203.23,
+   "individuals_over_200": 331512.0,
+   "pacs_and_parties": 274150.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    10
+   ],
+   [
+    "Individuals giving more than $200",
+    49
+   ],
+   [
+    "PACs and party committees",
+    41
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 266487.0,
+   "home_state": "NY",
+   "home_state_total": 225566.0,
+   "home_state_share": 85,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 225566.0,
+     "count": 611
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 13425.0,
+     "count": 53
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 6000.0,
+     "count": 3
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 5850.0,
+     "count": 5
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 4650.0,
+     "count": 12
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 3686.0,
+     "count": 5
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 1500.0,
+     "count": 4
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 1000.0,
+     "count": 1
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 700.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "FIRST MANHATTAN",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PAGNY HEALTH AND HOSPITAL JACOBI MEDIC",
+     "total": 3600.0,
+     "count": 2
+    },
+    {
+     "employer": "CBRE",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "SARACHEK LAW FIRM",
+     "total": 3500.0,
+     "count": 2
+    },
+    {
+     "employer": "R.A. COHEN & ASSOCIATES, INC.",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "ATALAN CAPITAL",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "BRODIE GENERATIONAL CAPITAL PARTNERS",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "RUBRIC",
+     "total": 3300.0,
+     "count": 1
+    },
+    {
+     "employer": "WESTCHESTER COUNTY",
+     "total": 2565.0,
+     "count": 6
+    },
+    {
+     "employer": "RPW GROUP INC",
+     "total": 2500.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -617,8 +617,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00775015",
+  "committee_name": "SCHMITT FOR SENATE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 4180607.29,
+  "amounts": {
+   "individuals_200_or_less": 1017474.48,
+   "individuals_over_200": 1981895.39,
+   "pacs_and_parties": 270000.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 911237.42,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    31
+   ],
+   [
+    "Individuals giving more than $200",
+    61
+   ],
+   [
+    "PACs and party committees",
+    8
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 2414878.46,
+   "home_state": "MO",
+   "home_state_total": 953700.3,
+   "home_state_share": 39,
+   "top": [
+    {
+     "state": "MO",
+     "state_full": "Missouri",
+     "total": 953700.3,
+     "count": 3643
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 240893.99,
+     "count": 5820
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 167356.42,
+     "count": 9691
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 107272.22,
+     "count": 1271
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 98078.01,
+     "count": 1377
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 89194.53,
+     "count": 2568
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 88600.25,
+     "count": 1930
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 49330.97,
+     "count": 277
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 47542.34,
+     "count": 2338
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 45888.56,
+     "count": 62
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "EDWARD JONES",
+     "total": 45000.0,
+     "count": 21
+    },
+    {
+     "employer": "CHARTER COMMUNICATIONS",
+     "total": 34500.0,
+     "count": 16
+    },
+    {
+     "employer": "SELF EMLOYED",
+     "total": 34045.67,
+     "count": 333
+    },
+    {
+     "employer": "BLACKSTONE",
+     "total": 23000.0,
+     "count": 10
+    },
+    {
+     "employer": "APOLLO GLOBAL MANAGEMENT",
+     "total": 19300.0,
+     "count": 8
+    },
+    {
+     "employer": "OWNER",
+     "total": 14726.45,
+     "count": 32
+    },
+    {
+     "employer": "INGRAM ENTERPRISES INC.",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "TORCH ELECTRONICS",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "employer": "FLOORING SYSTEMS INC",
+     "total": 11000.0,
+     "count": 4
+    },
+    {
+     "employer": "R & S MACHINING",
+     "total": 10500.0,
+     "count": 7
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

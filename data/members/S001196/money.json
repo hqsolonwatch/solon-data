@@ -562,8 +562,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00547893",
+  "committee_name": "ELISE FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 5005266.4,
+  "amounts": {
+   "individuals_200_or_less": 1453897.89,
+   "individuals_over_200": 980020.68,
+   "pacs_and_parties": 309592.86,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 2212597.9,
+   "other_receipts": 49082.07
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    53
+   ],
+   [
+    "Individuals giving more than $200",
+    36
+   ],
+   [
+    "PACs and party committees",
+    11
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 3237888.01,
+   "home_state": "NY",
+   "home_state_total": 1177969.75,
+   "home_state_share": 36,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 1177969.75,
+     "count": 6548
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 409638.18,
+     "count": 5742
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 223838.18,
+     "count": 4991
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 210704.53,
+     "count": 7104
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 115646.73,
+     "count": 1735
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 77815.03,
+     "count": 2236
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 65100.97,
+     "count": 1164
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 64936.79,
+     "count": 2057
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 58119.21,
+     "count": 2008
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 56013.45,
+     "count": 1650
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "CORCORAN PARTNERS",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "BLUE OWL CAPITAL",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "employer": "ACCESS INDUSTRIES",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "JERICHO CAPITAL",
+     "total": 10300.0,
+     "count": 3
+    },
+    {
+     "employer": "NGC",
+     "total": 8597.7,
+     "count": 12
+    },
+    {
+     "employer": "NEXTGEN MANAGEMENT LLC",
+     "total": 7400.0,
+     "count": 6
+    },
+    {
+     "employer": "OWNER",
+     "total": 7250.0,
+     "count": 3
+    },
+    {
+     "employer": "ENTREPRENEUR",
+     "total": 7250.0,
+     "count": 3
+    },
+    {
+     "employer": "KASSELMAN ELECTRIC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "HOFFMAN CAR WASH",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

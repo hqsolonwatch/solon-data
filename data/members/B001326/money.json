@@ -2485,8 +2485,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00843425",
+  "committee_name": "JANELLE BYNUM FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 4737331.62,
+  "amounts": {
+   "individuals_200_or_less": 602539.65,
+   "individuals_over_200": 2268529.01,
+   "pacs_and_parties": 1376925.39,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 477577.12,
+   "other_receipts": 136.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    14
+   ],
+   [
+    "Individuals giving more than $200",
+    53
+   ],
+   [
+    "PACs and party committees",
+    33
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 2637331.58,
+   "home_state": "OR",
+   "home_state_total": 746962.71,
+   "home_state_share": 28,
+   "top": [
+    {
+     "state": "OR",
+     "state_full": "Oregon",
+     "total": 746962.71,
+     "count": 3810
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 460362.89,
+     "count": 789
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 263769.21,
+     "count": 247
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 178661.77,
+     "count": 200
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 165184.65,
+     "count": 221
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 101678.59,
+     "count": 220
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 76915.79,
+     "count": 308
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 73275.18,
+     "count": 62
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 66848.98,
+     "count": 129
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 60942.2,
+     "count": 76
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "JANE STREET CAPITAL",
+     "total": 18000.0,
+     "count": 7
+    },
+    {
+     "employer": "APOLLO GLOBAL MANAGEMENT",
+     "total": 11000.0,
+     "count": 7
+    },
+    {
+     "employer": "VERNIER SCIENCE EDUCATION",
+     "total": 9400.0,
+     "count": 9
+    },
+    {
+     "employer": "VIZIENT",
+     "total": 8666.67,
+     "count": 10
+    },
+    {
+     "employer": "CITY OF NEW YORK",
+     "total": 7928.0,
+     "count": 12
+    },
+    {
+     "employer": "DIGITAL VISION INC",
+     "total": 7641.67,
+     "count": 13
+    },
+    {
+     "employer": "THORN RUN PARTNERS",
+     "total": 7500.0,
+     "count": 6
+    },
+    {
+     "employer": "U.S. SENATE",
+     "total": 7250.0,
+     "count": 4
+    },
+    {
+     "employer": "THE BAUPOST GROUP",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "FLUENCE ENERGY",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

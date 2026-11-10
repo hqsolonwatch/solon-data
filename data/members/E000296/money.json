@@ -319,8 +319,158 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00591065",
+  "committee_name": "DWIGHT EVANS FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 233844.15,
+  "amounts": {
+   "individuals_200_or_less": 6976.34,
+   "individuals_over_200": 119125.0,
+   "pacs_and_parties": 107500.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    3
+   ],
+   [
+    "Individuals giving more than $200",
+    51
+   ],
+   [
+    "PACs and party committees",
+    46
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 110625.0,
+   "home_state": "PA",
+   "home_state_total": 97925.0,
+   "home_state_share": 89,
+   "top": [
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 97925.0,
+     "count": 134
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 1700.0,
+     "count": 3
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 1000.0,
+     "count": 1
+    },
+    {
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 1000.0,
+     "count": 1
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 1000.0,
+     "count": 1
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 500.0,
+     "count": 1
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 250.0,
+     "count": 1
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 250.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ASURION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ANDERSON CONSTRUCTION COMPANY, INC.",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "S.R. WOJDAK & ASSOCIATES, LP",
+     "total": 3500.0,
+     "count": 2
+    },
+    {
+     "employer": "METRO PHILLY MANAGEMENT",
+     "total": 2500.0,
+     "count": 1
+    },
+    {
+     "employer": "THE GOLDMAN LAW FIRM",
+     "total": 2500.0,
+     "count": 1
+    },
+    {
+     "employer": "UCH",
+     "total": 2500.0,
+     "count": 1
+    },
+    {
+     "employer": "OBERMAYER REBMAN MAXWELL & HIPPEL, LLP",
+     "total": 2500.0,
+     "count": 1
+    },
+    {
+     "employer": "TRIUMPH BAPTIST CHURCH",
+     "total": 2000.0,
+     "count": 1
+    },
+    {
+     "employer": "AMAZING KIDZ ACADEMY LLC",
+     "total": 2000.0,
+     "count": 1
+    },
+    {
+     "employer": "MAIN LINE HEALTH",
+     "total": 2000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

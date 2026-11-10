@@ -1239,8 +1239,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00794727",
+  "committee_name": "FOUSHEE FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1048542.77,
+  "amounts": {
+   "individuals_200_or_less": 97043.0,
+   "individuals_over_200": 362745.31,
+   "pacs_and_parties": 580135.27,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 139.41
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    9
+   ],
+   [
+    "Individuals giving more than $200",
+    35
+   ],
+   [
+    "PACs and party committees",
+    56
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 321453.11,
+   "home_state": "NC",
+   "home_state_total": 255088.11,
+   "home_state_share": 79,
+   "top": [
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 255088.11,
+     "count": 1180
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 24750.0,
+     "count": 8
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 13500.0,
+     "count": 21
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 10750.0,
+     "count": 4
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 3750.0,
+     "count": 6
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 3250.0,
+     "count": 3
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 1240.0,
+     "count": 7
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 1050.0,
+     "count": 15
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 1000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ANTHROPIC",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "XYZ VENTURE CAPITAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "UNC CHAPEL HILL",
+     "total": 5300.0,
+     "count": 24
+    },
+    {
+     "employer": "DUKE UNIVERSITY",
+     "total": 5050.0,
+     "count": 15
+    },
+    {
+     "employer": "STACEY MINDICH PRODUCTIONS LLC",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "FCR INC.",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "MANNING & ASSOCIATES PLLC",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "MARKETING ASSOCIATES",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "JACOBS INVESTMENT COMPANY LLC",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "PEREGRINE 9 LLC",
+     "total": 3000.0,
+     "count": 12
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

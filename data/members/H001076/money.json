@@ -1614,8 +1614,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00588772",
+  "committee_name": "MAGGIE FOR NH",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 3178839.91,
+  "amounts": {
+   "individuals_200_or_less": 1037638.3,
+   "individuals_over_200": 1431334.87,
+   "pacs_and_parties": 654880.77,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 54985.97
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    33
+   ],
+   [
+    "Individuals giving more than $200",
+    46
+   ],
+   [
+    "PACs and party committees",
+    21
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1138517.55,
+   "home_state": "NH",
+   "home_state_total": 190542.97,
+   "home_state_share": 17,
+   "top": [
+    {
+     "state": "NH",
+     "state_full": "New Hampshire",
+     "total": 190542.97,
+     "count": 2694
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 127455.84,
+     "count": 694
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 120513.86,
+     "count": 1077
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 114200.0,
+     "count": 152
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 100933.92,
+     "count": 738
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 72632.4,
+     "count": 272
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 70565.5,
+     "count": 293
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 37836.0,
+     "count": 328
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 29651.5,
+     "count": 331
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 24215.0,
+     "count": 231
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ANTHROPIC PBC",
+     "total": 28000.0,
+     "count": 8
+    },
+    {
+     "employer": "LIBERTY MUTUAL INSURANCE COMPANY",
+     "total": 17926.47,
+     "count": 22
+    },
+    {
+     "employer": "WINGED KEEL GROUP, INC.",
+     "total": 10500.0,
+     "count": 13
+    },
+    {
+     "employer": "ROSEN PARTNERS LLC",
+     "total": 10000.0,
+     "count": 3
+    },
+    {
+     "employer": "CORNERSTONE GOVERNMENT AFFAIRS INC.",
+     "total": 10000.0,
+     "count": 12
+    },
+    {
+     "employer": "CHISHOLM CHISHOLM & KILPATRICK LTD.",
+     "total": 7144.0,
+     "count": 4
+    },
+    {
+     "employer": "CONSTELLATION BIO",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MASS GENERAL HOSPITAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "140 SUMMER PARTNERS LP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "VETERANS UNITED HOME LOANS",
+     "total": 7000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

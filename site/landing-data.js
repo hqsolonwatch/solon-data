@@ -33,17 +33,17 @@ var MEMBERS = [
           2230000
         ],
         [
+          "Entertainment Software Association",
+          0,
+          1370000
+        ],
+        [
           "AFL-CIO",
           0,
           920000
-        ],
-        [
-          "AFSCME",
-          10000,
-          570000
         ]
       ],
-      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: Amazon (C00360354); National Association of Broadcasters (C00009985); Charter Communications (C00426775); AFL-CIO (C00003806); AFSCME (C00011114)"
+      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: Amazon (C00360354); National Association of Broadcasters (C00009985); Charter Communications (C00426775); Entertainment Software Association (C00439216); AFL-CIO (C00003806)"
     },
     "money": {
       "cycle": "2026 cycle",
@@ -126,17 +126,17 @@ var MEMBERS = [
           2230000
         ],
         [
+          "Entertainment Software Association",
+          0,
+          1370000
+        ],
+        [
           "AFL-CIO",
           0,
           920000
-        ],
-        [
-          "AFSCME",
-          0,
-          570000
         ]
       ],
-      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: Amazon (C00360354); National Association of Broadcasters (C00009985); Charter Communications (C00426775); AFL-CIO (C00003806); AFSCME (C00011114)"
+      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: Amazon (C00360354); National Association of Broadcasters (C00009985); Charter Communications (C00426775); Entertainment Software Association (C00439216); AFL-CIO (C00003806)"
     },
     "money": {
       "cycle": "2026 cycle",
@@ -194,7 +194,7 @@ var MEMBERS = [
     "vote": {
       "bill": "H.R. 9612",
       "title": "American Enrichment Deployment Act",
-      "summary": "The following analysis is based on draft bill text that was made available by the House of Representatives and may differ from the bill text as introduced.",
+      "summary": "Allows for the construction of a uranium enrichment facility before a license is issued by the Nuclear Regulatory Commission (NRC).",
       "cast": "Yea",
       "result": "Passed 394 to 3",
       "date": "November 9, 2026",
@@ -224,12 +224,12 @@ var MEMBERS = [
           300000
         ],
         [
-          "Bwx Technologies",
+          "BWX Technologies",
           2000,
           230000
         ]
       ],
-      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: Nuclear Energy Institute (C00239848); Entergy Services (C00363879); Pinnacle West Capital (C00015933); Xcel Energy (C00107771); Bwx Technologies (C00365502)"
+      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: Nuclear Energy Institute (C00239848); Entergy Services (C00363879); Pinnacle West Capital (C00015933); Xcel Energy (C00107771); BWX Technologies (C00365502)"
     }
   },
   {
@@ -241,7 +241,7 @@ var MEMBERS = [
     "vote": {
       "bill": "H.R. 9612",
       "title": "American Enrichment Deployment Act",
-      "summary": "The following analysis is based on draft bill text that was made available by the House of Representatives and may differ from the bill text as introduced.",
+      "summary": "Allows for the construction of a uranium enrichment facility before a license is issued by the Nuclear Regulatory Commission (NRC).",
       "cast": "Yea",
       "result": "Passed 394 to 3",
       "date": "November 9, 2026",
@@ -271,12 +271,12 @@ var MEMBERS = [
           300000
         ],
         [
-          "Bwx Technologies",
+          "BWX Technologies",
           0,
           230000
         ]
       ],
-      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: Nuclear Energy Institute (C00239848); Entergy Services (C00363879); Pinnacle West Capital (C00015933); Xcel Energy (C00107771); Bwx Technologies (C00365502)"
+      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: Nuclear Energy Institute (C00239848); Entergy Services (C00363879); Pinnacle West Capital (C00015933); Xcel Energy (C00107771); BWX Technologies (C00365502)"
     }
   }
 ];
@@ -289,7 +289,7 @@ var DISTRICTS = [
     "name": "Louisiana District 1",
     "member": "Rep. Steve Scalise",
     "score": "0.04",
-    "scoreSource": "Polsby-Popper score of 0.036, calculated by Solon Watch from the U.S. Census Bureau cartographic boundary file for the 119th Congress (1:500,000), using an equal-area projection for each district. It ranks 1 of the districts in states with more than one seat (1 is the least compact), and 1 among districts held by a Republican",
+    "scoreSource": "Polsby-Popper score of 0.036, calculated by Solon Watch from the U.S. Census Bureau cartographic boundary file for the 119th Congress (1:500,000), using an equal-area projection for each district. It is the least compact of the 429 districts in states with more than one seat, and the least compact held by a Republican",
     "race": "2024 U.S. House race",
     "whole": {
       "d": 24,
@@ -387,7 +387,7 @@ var DISTRICTS = [
     "name": "Massachusetts District 9",
     "member": "Rep. William Keating",
     "score": "0.05",
-    "scoreSource": "Polsby-Popper score of 0.046, calculated by Solon Watch from the U.S. Census Bureau cartographic boundary file for the 119th Congress (1:500,000), using an equal-area projection for each district. It ranks 4 of the districts in states with more than one seat (1 is the least compact), and 2 among districts held by a Democrat",
+    "scoreSource": "Polsby-Popper score of 0.046, calculated by Solon Watch from the U.S. Census Bureau cartographic boundary file for the 119th Congress (1:500,000), using an equal-area projection for each district. It is the 4th least compact of the 429 districts in states with more than one seat, and the 2nd least compact held by a Democrat",
     "race": "2024 U.S. House race",
     "whole": {
       "d": 56,

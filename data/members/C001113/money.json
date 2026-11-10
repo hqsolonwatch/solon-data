@@ -699,8 +699,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00575548",
+  "committee_name": "CATHERINE CORTEZ MASTO FOR SENATE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 2625969.9,
+  "amounts": {
+   "individuals_200_or_less": 727644.36,
+   "individuals_over_200": 1242767.45,
+   "pacs_and_parties": 321135.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 15200.0,
+   "other_receipts": 117038.15
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    32
+   ],
+   [
+    "Individuals giving more than $200",
+    54
+   ],
+   [
+    "PACs and party committees",
+    14
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1045271.0,
+   "home_state": "NV",
+   "home_state_total": 156521.71,
+   "home_state_share": 15,
+   "top": [
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 171357.41,
+     "count": 3168
+    },
+    {
+     "state": "NV",
+     "state_full": "Nevada",
+     "total": 156521.71,
+     "count": 1520
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 146194.77,
+     "count": 1186
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 58503.76,
+     "count": 554
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 55642.13,
+     "count": 673
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 54372.5,
+     "count": 759
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 48140.0,
+     "count": 108
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 37601.76,
+     "count": 471
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 35704.38,
+     "count": 317
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 33525.02,
+     "count": 659
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "APOLLO",
+     "total": 26500.0,
+     "count": 9
+    },
+    {
+     "employer": "WINGED KEEL GROUP",
+     "total": 14000.0,
+     "count": 13
+    },
+    {
+     "employer": "APOLLO GLOBAL MANAGEMENT",
+     "total": 13500.0,
+     "count": 5
+    },
+    {
+     "employer": "D'LEON CONSULTING ENGINEERS",
+     "total": 13000.0,
+     "count": 4
+    },
+    {
+     "employer": "GENERAL ATOMICS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "HOPE CHICAGO",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SV ANGEL, LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "APOLLO MANAGEMENT",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "WANXIANG AMERICA CORPORATION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "JUSTWORKS",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

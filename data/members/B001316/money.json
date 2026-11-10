@@ -675,8 +675,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00788414",
+  "committee_name": "ERIC BURLISON FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1697441.77,
+  "amounts": {
+   "individuals_200_or_less": 700275.09,
+   "individuals_over_200": 643519.31,
+   "pacs_and_parties": 309255.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 20330.0,
+   "other_receipts": 24062.37
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    42
+   ],
+   [
+    "Individuals giving more than $200",
+    39
+   ],
+   [
+    "PACs and party committees",
+    19
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 571162.97,
+   "home_state": "MO",
+   "home_state_total": 249873.76,
+   "home_state_share": 44,
+   "top": [
+    {
+     "state": "MO",
+     "state_full": "Missouri",
+     "total": 249873.76,
+     "count": 362
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 56924.17,
+     "count": 1427
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 33142.91,
+     "count": 288
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 25716.28,
+     "count": 746
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 16932.11,
+     "count": 696
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 16501.53,
+     "count": 74
+    },
+    {
+     "state": "WY",
+     "state_full": "Wyoming",
+     "total": 16286.33,
+     "count": 45
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 11848.15,
+     "count": 110
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 11677.26,
+     "count": 290
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 10750.0,
+     "count": 11
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "CIGNA",
+     "total": 13250.0,
+     "count": 12
+    },
+    {
+     "employer": "THE CIGNA GROUP",
+     "total": 12000.0,
+     "count": 8
+    },
+    {
+     "employer": "FITBRAZIL",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "MA TRADERS",
+     "total": 7000.0,
+     "count": 7
+    },
+    {
+     "employer": "MINISTRY PRESBYTERIAN CHURCH",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "HUTCHENS CONSTRUCTION CO.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "KEMMERER MANAGEMENT CORP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "HUNTER ENGINEERING",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SPACEX",
+     "total": 6600.0,
+     "count": 2
+    },
+    {
+     "employer": "JARED COMMERCIAL  MANAGEMENT",
+     "total": 6000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

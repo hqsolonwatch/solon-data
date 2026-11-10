@@ -980,8 +980,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00638650",
+  "committee_name": "HALEY STEVENS FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 1571873.15,
+  "amounts": {
+   "individuals_200_or_less": 37657.42,
+   "individuals_over_200": 771246.33,
+   "pacs_and_parties": 492000.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 6000.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    3
+   ],
+   [
+    "Individuals giving more than $200",
+    59
+   ],
+   [
+    "PACs and party committees",
+    38
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 780546.33,
+   "home_state": "MI",
+   "home_state_total": 248359.0,
+   "home_state_share": 32,
+   "top": [
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 248359.0,
+     "count": 212
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 99400.0,
+     "count": 63
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 75979.0,
+     "count": 63
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 75000.0,
+     "count": 52
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 65750.0,
+     "count": 61
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 62950.0,
+     "count": 39
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 32050.0,
+     "count": 16
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 30750.0,
+     "count": 36
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 18000.0,
+     "count": 6
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 12000.0,
+     "count": 11
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "NYMAN TURKISH PC",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
+     "employer": "MESIROW",
+     "total": 14250.0,
+     "count": 9
+    },
+    {
+     "employer": "VENTAS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "YOUNGMAN SPEECH AND LANGUAGE LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "GPS INVESTMENT PARTNERS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "NACHTLAW",
+     "total": 7000.0,
+     "count": 4
+    },
+    {
+     "employer": "IGNITE SOCIAL MEDIA",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SCANLON PARTNERS LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PROGRESSIVE METAL MANUFACTURING",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BERNARD FINANCIAL GROUP",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

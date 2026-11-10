@@ -395,8 +395,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00617662",
+  "committee_name": "CAPTAIN HIGGINS FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 904294.13,
+  "amounts": {
+   "individuals_200_or_less": 95336.82,
+   "individuals_over_200": 140140.0,
+   "pacs_and_parties": 169500.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 497528.88,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    23
+   ],
+   [
+    "Individuals giving more than $200",
+    35
+   ],
+   [
+    "PACs and party committees",
+    42
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 782431.57,
+   "home_state": "LA",
+   "home_state_total": 688534.0,
+   "home_state_share": 88,
+   "top": [
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 688534.0,
+     "count": 432
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 53691.47,
+     "count": 51
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 10800.0,
+     "count": 16
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 8000.0,
+     "count": 4
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 6504.0,
+     "count": 35
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 4300.0,
+     "count": 4
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 1520.0,
+     "count": 6
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 904.0,
+     "count": 5
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 895.1,
+     "count": 5
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 895.0,
+     "count": 5
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "LEMOINE",
+     "total": 20000.0,
+     "count": 8
+    },
+    {
+     "employer": "VERSABAR, INC.",
+     "total": 7191.0,
+     "count": 3
+    },
+    {
+     "employer": "ST. MARY PARISH SCHOOLS",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "D&T CRAWFISH",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ACADIAN AMBULANCE SERVICE",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "TONY PALERMO SR INVESTMENTS LLC",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "GULF LOGISTICS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "METAL SHARK",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "LAD SERVICES OF LA",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ALLISON MARINE",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

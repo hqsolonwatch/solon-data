@@ -949,8 +949,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00816660",
+  "committee_name": "DAN GOLDMAN FOR NEW YORK",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 8699480.02,
+  "amounts": {
+   "individuals_200_or_less": 389483.95,
+   "individuals_over_200": 4608409.2,
+   "pacs_and_parties": 484364.0,
+   "candidate_own": 2450000.0,
+   "transfers_from_authorized": 748122.5,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    5
+   ],
+   [
+    "Individuals giving more than $200",
+    58
+   ],
+   [
+    "PACs and party committees",
+    6
+   ],
+   [
+    "Candidate’s own money",
+    31
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 5420828.84,
+   "home_state": "NY",
+   "home_state_total": 3180790.55,
+   "home_state_share": 59,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 3180790.55,
+     "count": 2805
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 827117.65,
+     "count": 663
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 244652.15,
+     "count": 276
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 143015.0,
+     "count": 158
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 142162.18,
+     "count": 116
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 138978.0,
+     "count": 93
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 92684.0,
+     "count": 144
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 88260.0,
+     "count": 109
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 70001.1,
+     "count": 125
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 69616.0,
+     "count": 135
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "BLACKSTONE",
+     "total": 50000.0,
+     "count": 16
+    },
+    {
+     "employer": "GOLDMAN SACHS",
+     "total": 28000.0,
+     "count": 19
+    },
+    {
+     "employer": "CITIGROUP",
+     "total": 21500.0,
+     "count": 11
+    },
+    {
+     "employer": "OBERLIN COLLEGE",
+     "total": 21000.0,
+     "count": 5
+    },
+    {
+     "employer": "APOLLO GLOBAL MANAGEMENT",
+     "total": 19000.0,
+     "count": 10
+    },
+    {
+     "employer": "PAUL WEISS",
+     "total": 16800.0,
+     "count": 7
+    },
+    {
+     "employer": "HUESTON HENNIGAN LLP",
+     "total": 16500.0,
+     "count": 8
+    },
+    {
+     "employer": "STANDARD INDUSTRIES",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "employer": "DAVIDSON KEMPNER",
+     "total": 14000.0,
+     "count": 5
+    },
+    {
+     "employer": "EVIL TWIN CAPITAL",
+     "total": 14000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

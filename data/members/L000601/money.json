@@ -1945,8 +1945,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00800276",
+  "committee_name": "LANDSMAN FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 5662206.21,
+  "amounts": {
+   "individuals_200_or_less": 333040.25,
+   "individuals_over_200": 3221889.3,
+   "pacs_and_parties": 1202610.86,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 889688.29,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    7
+   ],
+   [
+    "Individuals giving more than $200",
+    68
+   ],
+   [
+    "PACs and party committees",
+    25
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 3405233.98,
+   "home_state": "OH",
+   "home_state_total": 821344.17,
+   "home_state_share": 24,
+   "top": [
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 821344.17,
+     "count": 1782
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 778137.28,
+     "count": 360
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 443052.82,
+     "count": 311
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 185090.71,
+     "count": 204
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 151133.57,
+     "count": 122
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 148816.32,
+     "count": 170
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 131394.22,
+     "count": 111
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 118766.94,
+     "count": 54
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 97734.06,
+     "count": 143
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 75323.33,
+     "count": 45
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "INSIGHT PARTNERS",
+     "total": 21000.0,
+     "count": 7
+    },
+    {
+     "employer": "BLACKSTONE",
+     "total": 15000.0,
+     "count": 6
+    },
+    {
+     "employer": "BGR GROUP",
+     "total": 14750.0,
+     "count": 17
+    },
+    {
+     "employer": "UNIVERSITY OF CINCINNATI",
+     "total": 14193.0,
+     "count": 29
+    },
+    {
+     "employer": "REMINGTON ROAD GROUP",
+     "total": 14006.89,
+     "count": 5
+    },
+    {
+     "employer": "CENTERVIEW PARTNERS",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "employer": "LAUDER PARTNERS LLC",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "DE SHAW & CO",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "EVERCORE PARTNERS LLC",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "BESSEMER VENTURE PARTNERS",
+     "total": 14000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

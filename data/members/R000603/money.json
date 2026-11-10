@@ -2151,8 +2151,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00501643",
+  "committee_name": "DAVID ROUZER FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2534038.14,
+  "amounts": {
+   "individuals_200_or_less": 9075.81,
+   "individuals_over_200": 948891.48,
+   "pacs_and_parties": 1562574.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 13335.44,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    0
+   ],
+   [
+    "Individuals giving more than $200",
+    38
+   ],
+   [
+    "PACs and party committees",
+    62
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 773906.69,
+   "home_state": "NC",
+   "home_state_total": 443691.75,
+   "home_state_share": 57,
+   "top": [
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 443691.75,
+     "count": 294
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 86393.95,
+     "count": 83
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 49817.27,
+     "count": 25
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 33693.57,
+     "count": 30
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 29060.74,
+     "count": 18
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 23300.0,
+     "count": 9
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 14520.5,
+     "count": 16
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 13800.0,
+     "count": 12
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 11041.02,
+     "count": 9
+    },
+    {
+     "state": "MS",
+     "state_full": "Mississippi",
+     "total": 8950.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ROUTE 66 SHOOTING SPORTS PARK",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "PEPPER CONTRACTING SERVICES INC",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "INDIAN TRIBE",
+     "total": 8800.0,
+     "count": 4
+    },
+    {
+     "employer": "COASTAL KIA",
+     "total": 8000.0,
+     "count": 4
+    },
+    {
+     "employer": "CASSIDY AND ASSOCIATES",
+     "total": 7500.0,
+     "count": 5
+    },
+    {
+     "employer": "ALG SENIOR",
+     "total": 7287.12,
+     "count": 4
+    },
+    {
+     "employer": "TI COASTAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "RICCOBENE ASSOCIATES",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "PRESTON DEVELOPMENT",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SEMPER SOZO INC.",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

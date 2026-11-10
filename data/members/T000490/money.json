@@ -1058,8 +1058,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00860213",
+  "committee_name": "DAVE TAYLOR FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1768914.66,
+  "amounts": {
+   "individuals_200_or_less": 397516.58,
+   "individuals_over_200": 823367.67,
+   "pacs_and_parties": 505750.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 39345.19,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    23
+   ],
+   [
+    "Individuals giving more than $200",
+    48
+   ],
+   [
+    "PACs and party committees",
+    29
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 520209.57,
+   "home_state": "OH",
+   "home_state_total": 415291.57,
+   "home_state_share": 80,
+   "top": [
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 415291.57,
+     "count": 414
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 30630.88,
+     "count": 13
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 18529.8,
+     "count": 70
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 11993.15,
+     "count": 75
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 11041.96,
+     "count": 41
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 7136.52,
+     "count": 75
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 4776.45,
+     "count": 12
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 3842.2,
+     "count": 134
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 3000.0,
+     "count": 5
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 1786.1,
+     "count": 15
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
+     "total": 30600.0,
+     "count": 10
+    },
+    {
+     "employer": "TOTAL QUALITY LOGISTICS",
+     "total": 13400.0,
+     "count": 5
+    },
+    {
+     "employer": "AMERICAN FINANCIAL",
+     "total": 11500.0,
+     "count": 5
+    },
+    {
+     "employer": "RENT-2-OWN",
+     "total": 10330.58,
+     "count": 4
+    },
+    {
+     "employer": "TWINS BUICK GMC",
+     "total": 8000.0,
+     "count": 6
+    },
+    {
+     "employer": "GOVERNMENT STRATEGIES GROUP",
+     "total": 7231.4,
+     "count": 4
+    },
+    {
+     "employer": "PHELAN INSURANCE",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ANDURIL INDUSTRIES, INC.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SUNDAY CREEK HORIZONS LLC",
+     "total": 6037.89,
+     "count": 4
+    },
+    {
+     "employer": "CINCINNATI BENGALS",
+     "total": 6000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

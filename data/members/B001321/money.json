@@ -2095,8 +2095,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00793976",
+  "committee_name": "TOM BARRETT FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 8238468.08,
+  "amounts": {
+   "individuals_200_or_less": 1915073.5,
+   "individuals_over_200": 2650300.12,
+   "pacs_and_parties": 1803507.89,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 1856956.03,
+   "other_receipts": 12630.54
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    30
+   ],
+   [
+    "Individuals giving more than $200",
+    42
+   ],
+   [
+    "PACs and party committees",
+    28
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 3362454.42,
+   "home_state": "MI",
+   "home_state_total": 751368.85,
+   "home_state_share": 22,
+   "top": [
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 751368.85,
+     "count": 795
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 438713.7,
+     "count": 927
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 403048.19,
+     "count": 836
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 246664.48,
+     "count": 1033
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 159473.95,
+     "count": 371
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 90935.21,
+     "count": 363
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 88663.01,
+     "count": 578
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 80052.69,
+     "count": 401
+    },
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 76924.55,
+     "count": 197
+    },
+    {
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 74378.65,
+     "count": 160
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "OWNER",
+     "total": 30047.62,
+     "count": 18
+    },
+    {
+     "employer": "FLEXIBL PLAN INVESTMENTS, LTD",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "OWOSSO SPEEDWAY",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "PUROLITE",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "EXECUTIVE",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "WINKLEVOSS CAPITAL",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "FOUNDERS FUND",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "STARKEY HEARING",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "VETERANS UNITED HOME LOANS",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "ADAPTIVE CONSTRUCTION SOLUTION",
+     "total": 8917.59,
+     "count": 5
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

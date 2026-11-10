@@ -1094,8 +1094,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00776393",
+  "committee_name": "COMMITTEE TO ELECT MIKE EZELL",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1149872.59,
+  "amounts": {
+   "individuals_200_or_less": 12650.98,
+   "individuals_over_200": 525894.4,
+   "pacs_and_parties": 562250.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 47625.12,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    1
+   ],
+   [
+    "Individuals giving more than $200",
+    48
+   ],
+   [
+    "PACs and party committees",
+    51
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 489174.85,
+   "home_state": "MS",
+   "home_state_total": 312568.61,
+   "home_state_share": 64,
+   "top": [
+    {
+     "state": "MS",
+     "state_full": "Mississippi",
+     "total": 312568.61,
+     "count": 354
+    },
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 65500.0,
+     "count": 23
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 21873.06,
+     "count": 33
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 19398.58,
+     "count": 31
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 18705.08,
+     "count": 21
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 17805.0,
+     "count": 13
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 9250.0,
+     "count": 5
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 8041.02,
+     "count": 5
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 3750.0,
+     "count": 6
+    },
+    {
+     "state": "AL",
+     "state_full": "Alabama",
+     "total": 3471.97,
+     "count": 7
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "EDISON CHOUEST OFFSHORE LLC",
+     "total": 37500.0,
+     "count": 11
+    },
+    {
+     "employer": "SEEMANN COMPOSITIES",
+     "total": 14015.0,
+     "count": 7
+    },
+    {
+     "employer": "WAYPOINT CONSULTING",
+     "total": 8205.08,
+     "count": 13
+    },
+    {
+     "employer": "OCEAN AERO",
+     "total": 7082.03,
+     "count": 4
+    },
+    {
+     "employer": "ANDURIL INDUSTRIES INC.",
+     "total": 7000.0,
+     "count": 4
+    },
+    {
+     "employer": "EDISON CHOEDISON CHOUEST GROUP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SOMNIFERA BEST",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "EMPRESS ELECTRONICS",
+     "total": 6600.0,
+     "count": 3
+    },
+    {
+     "employer": "SPECS FOR VETERANS",
+     "total": 6600.0,
+     "count": 5
+    },
+    {
+     "employer": "CARNIVAL CRUISE LINE",
+     "total": 6000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

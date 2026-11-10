@@ -265,8 +265,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00798132",
+  "committee_name": "SHRI FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 3194222.05,
+  "amounts": {
+   "individuals_200_or_less": 21013.23,
+   "individuals_over_200": 886286.5,
+   "pacs_and_parties": 91000.0,
+   "candidate_own": 2970300.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": -774377.68
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    1
+   ],
+   [
+    "Individuals giving more than $200",
+    22
+   ],
+   [
+    "PACs and party committees",
+    2
+   ],
+   [
+    "Candidate’s own money",
+    75
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 886286.5,
+   "home_state": "MI",
+   "home_state_total": 156804.0,
+   "home_state_share": 18,
+   "top": [
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 156804.0,
+     "count": 128
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 155145.95,
+     "count": 107
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 119656.93,
+     "count": 115
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 103450.0,
+     "count": 74
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 53569.67,
+     "count": 53
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 43500.0,
+     "count": 24
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 40100.0,
+     "count": 34
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 39000.0,
+     "count": 24
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 38271.0,
+     "count": 25
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 37685.99,
+     "count": 19
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "STERLING GROUP",
+     "total": 15000.0,
+     "count": 6
+    },
+    {
+     "employer": "EASTPOINTE RADIOLOGY",
+     "total": 7804.0,
+     "count": 3
+    },
+    {
+     "employer": "DETROIT PISTONS",
+     "total": 7000.0,
+     "count": 1
+    },
+    {
+     "employer": "MILLER BARONDESS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BUSINESSES. OWNERS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MEGHNA SHARMA",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "RAJ ASSOCIATES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "GTS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "LGC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "TPMG",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

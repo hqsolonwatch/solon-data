@@ -2119,8 +2119,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00846501",
+  "committee_name": "MACKENZIE FOR CONGRESS COMMITTEE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 5296663.91,
+  "amounts": {
+   "individuals_200_or_less": 666386.88,
+   "individuals_over_200": 1235807.18,
+   "pacs_and_parties": 1324712.78,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 2020364.92,
+   "other_receipts": 47211.25
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    21
+   ],
+   [
+    "Individuals giving more than $200",
+    38
+   ],
+   [
+    "PACs and party committees",
+    41
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 2944555.07,
+   "home_state": "PA",
+   "home_state_total": 705177.53,
+   "home_state_share": 24,
+   "top": [
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 705177.53,
+     "count": 1185
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 498858.16,
+     "count": 1923
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 392044.34,
+     "count": 2187
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 219095.46,
+     "count": 420
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 189336.51,
+     "count": 1371
+    },
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 96564.66,
+     "count": 230
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 82720.37,
+     "count": 404
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 80077.28,
+     "count": 432
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 54019.6,
+     "count": 252
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 53894.65,
+     "count": 65
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "MILLER STRATEGIES",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
+     "employer": "VALMORE GP",
+     "total": 14110.11,
+     "count": 7
+    },
+    {
+     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "STARKEY HEARING TECHNOLOGIES",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "QOL MEDICAL LLC",
+     "total": 13980.0,
+     "count": 4
+    },
+    {
+     "employer": "A10 ASSOCIATES LLC",
+     "total": 11000.0,
+     "count": 8
+    },
+    {
+     "employer": "BRODIE GENERATIONAL CAPITAL PARTNERS",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "MILLER STRATEGIES, LLC",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "DUCHOSSOIS CAPITAL MANAGEMENT",
+     "total": 10500.0,
+     "count": 8
+    },
+    {
+     "employer": "CONTINENTAL INVESTORS",
+     "total": 8809.52,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

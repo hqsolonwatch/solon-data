@@ -1319,8 +1319,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00415331",
+  "committee_name": "CLARKE FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1288233.88,
+  "amounts": {
+   "individuals_200_or_less": 31501.29,
+   "individuals_over_200": 460528.32,
+   "pacs_and_parties": 789450.78,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    2
+   ],
+   [
+    "Individuals giving more than $200",
+    36
+   ],
+   [
+    "PACs and party committees",
+    62
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 456133.32,
+   "home_state": "NY",
+   "home_state_total": 147773.32,
+   "home_state_share": 32,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 147773.32,
+     "count": 391
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 69435.0,
+     "count": 48
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 58520.0,
+     "count": 93
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 22500.0,
+     "count": 11
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 21400.0,
+     "count": 28
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 19750.0,
+     "count": 8
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 17400.0,
+     "count": 22
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 16750.0,
+     "count": 8
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 16250.0,
+     "count": 19
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 12100.0,
+     "count": 13
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "KALSHI",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ANTHROPIC",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "THEGROUP",
+     "total": 13500.0,
+     "count": 5
+    },
+    {
+     "employer": "DAVITA",
+     "total": 11000.0,
+     "count": 5
+    },
+    {
+     "employer": "XYZ VENTURE CAPITAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "CARROLLTON REGIONAL MEDICAL CENTER",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "THE AUGUST COMPANY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "WASSERMAN",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "GENENTECH",
+     "total": 6950.0,
+     "count": 20
+    },
+    {
+     "employer": "EMBLEMHEALTH",
+     "total": 6850.0,
+     "count": 7
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

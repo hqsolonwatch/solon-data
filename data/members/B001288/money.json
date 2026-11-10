@@ -599,8 +599,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00540500",
+  "committee_name": "CORY BOOKER FOR SENATE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 21275162.52,
+  "amounts": {
+   "individuals_200_or_less": 9359884.65,
+   "individuals_over_200": 6315116.51,
+   "pacs_and_parties": 512780.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 4410463.14,
+   "other_receipts": 667736.39
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    58
+   ],
+   [
+    "Individuals giving more than $200",
+    39
+   ],
+   [
+    "PACs and party committees",
+    3
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 10358747.7,
+   "home_state": "NJ",
+   "home_state_total": 1774570.03,
+   "home_state_share": 17,
+   "top": [
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 2256731.23,
+     "count": 12522
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 1774570.03,
+     "count": 10986
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 1528748.71,
+     "count": 5506
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 541615.42,
+     "count": 2506
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 398881.46,
+     "count": 2484
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 373201.51,
+     "count": 2461
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 310522.05,
+     "count": 1612
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 297510.27,
+     "count": 1921
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 282577.23,
+     "count": 2030
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 255523.38,
+     "count": 1685
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "APOLLO GLOBAL MANAGEMENT",
+     "total": 30800.0,
+     "count": 11
+    },
+    {
+     "employer": "BLACKSTONE",
+     "total": 26750.0,
+     "count": 9
+    },
+    {
+     "employer": "WINSTON & STRAWN LLP",
+     "total": 26055.4,
+     "count": 22
+    },
+    {
+     "employer": "ANTHROPIC",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
+     "employer": "KESSLER TOPAZ MELTZER & CHECK, LLP",
+     "total": 20400.0,
+     "count": 11
+    },
+    {
+     "employer": "GOOGLE",
+     "total": 19696.9,
+     "count": 37
+    },
+    {
+     "employer": "APOLLO",
+     "total": 17700.0,
+     "count": 8
+    },
+    {
+     "employer": "WELLS FARGO",
+     "total": 15460.0,
+     "count": 44
+    },
+    {
+     "employer": "PARADIGM",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "PAYWARD",
+     "total": 14000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

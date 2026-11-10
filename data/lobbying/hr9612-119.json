@@ -4,6 +4,7 @@
   2025,
   2026
  ],
+ "fetched_ts": 1794345859,
  "report_count": 14,
  "clients": [
   {
@@ -12,6 +13,7 @@
    "reports": 1,
    "latest_report_amount": 2420000.0,
    "latest_report": "780908cd-77ab-4680-ab28-b5d1516ce815",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -21,6 +23,7 @@
    "reports": 1,
    "latest_report_amount": 660000.0,
    "latest_report": "43ec0d1a-11ba-40cf-b00f-51ecec0c68a2",
+   "latest_report_period": "2026 second_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -30,6 +33,7 @@
    "reports": 1,
    "latest_report_amount": 600000.0,
    "latest_report": "70166a9f-457b-4517-a9c0-86cdb1bbed4b",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00239848"
    ],
@@ -43,6 +47,7 @@
    "reports": 2,
    "latest_report_amount": 570000.0,
    "latest_report": "06dffd02-156c-4644-ab94-d663f3f728de",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00363879"
    ],
@@ -56,6 +61,7 @@
    "reports": 2,
    "latest_report_amount": 340000.0,
    "latest_report": "998c5432-fc40-44cc-baec-09c5008dbe8d",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00015933"
    ],
@@ -69,6 +75,7 @@
    "reports": 1,
    "latest_report_amount": 300000.0,
    "latest_report": "7b489763-2ce9-46e3-bf28-d56bdbd8bc42",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00107771"
    ],
@@ -78,10 +85,11 @@
   },
   {
    "client": "BWX TECHNOLOGIES INC",
-   "display_name": "Bwx Technologies",
+   "display_name": "BWX Technologies",
    "reports": 1,
    "latest_report_amount": 230000.0,
    "latest_report": "95fce933-5638-49d7-8daa-16db97b33206",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00365502"
    ],
@@ -91,10 +99,11 @@
   },
   {
    "client": "ORANO USA LLC (FORMERLY KNOWN AS AREVA NUCLEAR MATERIALS LLC)",
-   "display_name": "Orano USA Llc (formerly Known As Areva Nuclear Materials Llc)",
+   "display_name": "Orano USA",
    "reports": 2,
    "latest_report_amount": 120000.0,
    "latest_report": "170cac30-3b5d-4d31-8e4a-0fec5fb145f3",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -104,15 +113,17 @@
    "reports": 1,
    "latest_report_amount": 110000.0,
    "latest_report": "1b54423c-f8f6-4e44-9e58-c6e9a03115ee",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
   {
    "client": "FRAMATOME, INC. (FORMELY KNOWN AS AREVA, INC.)",
-   "display_name": "Framatome, Inc. (formely Known As Areva, Inc.)",
+   "display_name": "Framatome",
    "reports": 1,
    "latest_report_amount": 85000.0,
    "latest_report": "de596632-c73e-4196-8a96-1d2c7c492f7e",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   },
@@ -122,6 +133,7 @@
    "reports": 1,
    "latest_report_amount": 40000.0,
    "latest_report": "52d0e90e-782b-4056-bbb1-11e6f96f30d4",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [],
    "pac_names": []
   }
@@ -133,6 +145,7 @@
    "reports": 1,
    "latest_report_amount": 600000.0,
    "latest_report": "70166a9f-457b-4517-a9c0-86cdb1bbed4b",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00239848"
    ],
@@ -146,6 +159,7 @@
    "reports": 2,
    "latest_report_amount": 570000.0,
    "latest_report": "06dffd02-156c-4644-ab94-d663f3f728de",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00363879"
    ],
@@ -159,6 +173,7 @@
    "reports": 2,
    "latest_report_amount": 340000.0,
    "latest_report": "998c5432-fc40-44cc-baec-09c5008dbe8d",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00015933"
    ],
@@ -172,6 +187,7 @@
    "reports": 1,
    "latest_report_amount": 300000.0,
    "latest_report": "7b489763-2ce9-46e3-bf28-d56bdbd8bc42",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00107771"
    ],
@@ -181,10 +197,11 @@
   },
   {
    "client": "BWX TECHNOLOGIES INC",
-   "display_name": "Bwx Technologies",
+   "display_name": "BWX Technologies",
    "reports": 1,
    "latest_report_amount": 230000.0,
    "latest_report": "95fce933-5638-49d7-8daa-16db97b33206",
+   "latest_report_period": "2026 third_quarter",
    "pac_ids": [
     "C00365502"
    ],

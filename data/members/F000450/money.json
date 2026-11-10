@@ -953,8 +953,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00386748",
+  "committee_name": "VIRGINIA FOXX FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2189052.01,
+  "amounts": {
+   "individuals_200_or_less": 30587.21,
+   "individuals_over_200": 1433135.34,
+   "pacs_and_parties": 593765.7,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 127678.12
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    1
+   ],
+   [
+    "Individuals giving more than $200",
+    70
+   ],
+   [
+    "PACs and party committees",
+    29
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1377756.34,
+   "home_state": "NC",
+   "home_state_total": 667415.34,
+   "home_state_share": 48,
+   "top": [
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 667415.34,
+     "count": 562
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 286875.0,
+     "count": 148
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 101000.0,
+     "count": 42
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 45875.0,
+     "count": 42
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 41254.0,
+     "count": 33
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 36000.0,
+     "count": 17
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 25100.0,
+     "count": 13
+    },
+    {
+     "state": "SC",
+     "state_full": "South Carolina",
+     "total": 21750.0,
+     "count": 14
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 21000.0,
+     "count": 21
+    },
+    {
+     "state": "NV",
+     "state_full": "Nevada",
+     "total": 15500.0,
+     "count": 5
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "APOLLO GLOBAL MANAGEMENT",
+     "total": 33600.0,
+     "count": 12
+    },
+    {
+     "employer": "HOUSEWIFE",
+     "total": 17450.0,
+     "count": 10
+    },
+    {
+     "employer": "ICI HOMES INC.",
+     "total": 14000.0,
+     "count": 2
+    },
+    {
+     "employer": "PAGE INTERWORKS PA",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "AFFINITY LIVING GROUP",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "APOLLO",
+     "total": 13600.0,
+     "count": 4
+    },
+    {
+     "employer": "APOLLO MANAGEMENT",
+     "total": 11100.0,
+     "count": 4
+    },
+    {
+     "employer": "OCI ASSOCIATES",
+     "total": 8700.0,
+     "count": 3
+    },
+    {
+     "employer": "PARKDALE MILLS",
+     "total": 7500.0,
+     "count": 2
+    },
+    {
+     "employer": "PINEHILL CAPITAL PARTNERS",
+     "total": 7500.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

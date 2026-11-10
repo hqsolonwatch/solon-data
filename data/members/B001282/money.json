@@ -1303,8 +1303,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00467571",
+  "committee_name": "ANDY BARR FOR SENATE, INC.",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 12476747.89,
+  "amounts": {
+   "individuals_200_or_less": 820469.15,
+   "individuals_over_200": 6093276.85,
+   "pacs_and_parties": 2551548.54,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 2780973.93,
+   "other_receipts": 224868.82
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    9
+   ],
+   [
+    "Individuals giving more than $200",
+    64
+   ],
+   [
+    "PACs and party committees",
+    27
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 6936975.05,
+   "home_state": "KY",
+   "home_state_total": 2702859.78,
+   "home_state_share": 39,
+   "top": [
+    {
+     "state": "KY",
+     "state_full": "Kentucky",
+     "total": 2702859.78,
+     "count": 2980
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 656597.22,
+     "count": 5015
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 441075.1,
+     "count": 1787
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 415667.61,
+     "count": 2387
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 358860.1,
+     "count": 5170
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 206422.36,
+     "count": 865
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 199927.91,
+     "count": 1101
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 178006.12,
+     "count": 163
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 171004.34,
+     "count": 1021
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 154065.71,
+     "count": 689
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "PNC",
+     "total": 50000.0,
+     "count": 16
+    },
+    {
+     "employer": "BLACKSTONE",
+     "total": 47435.35,
+     "count": 15
+    },
+    {
+     "employer": "MORGAN STANLEY",
+     "total": 46619.16,
+     "count": 19
+    },
+    {
+     "employer": "FICO",
+     "total": 35000.0,
+     "count": 15
+    },
+    {
+     "employer": "KKR",
+     "total": 28500.0,
+     "count": 14
+    },
+    {
+     "employer": "BNY",
+     "total": 25181.82,
+     "count": 9
+    },
+    {
+     "employer": "AEG FUELS",
+     "total": 21520.51,
+     "count": 7
+    },
+    {
+     "employer": "MT BRILLIANT FARM",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
+     "employer": "COINBASE",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
+     "employer": "GJ PEPSI-COLA BOTTLERS",
+     "total": 21000.0,
+     "count": 7
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794344784.7930243,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
