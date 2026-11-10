@@ -1,0 +1,254 @@
+{
+ "code": "TX-13",
+ "state": "TX",
+ "number": 13,
+ "geoid": "4813",
+ "congress": 119,
+ "member": {
+  "bioguide": "J000304",
+  "name": "Ronny Jackson",
+  "short_name": "Ronny Jackson",
+  "party": "Republican"
+ },
+ "polsby_popper": 0.2833,
+ "square_miles": 35360.7,
+ "svg": {
+  "box": [
+   480,
+   360
+  ],
+  "shape": "14,185 14,25 242,25 242,202 248,201 265,219 272,219 275,215 287,219 288,213 290,211 293,216 298,216 297,218 302,222 303,234 314,235 318,233 327,239 331,239 336,242 347,238 356,247 362,245 365,239 380,243 384,239 386,241 383,247 386,249 384,250 386,253 396,254 394,263 402,267 409,263 409,261 417,254 423,257 424,262 431,261 431,305 451,306 451,315 457,314 459,318 464,320 466,328 461,330 459,332 455,324 438,324 437,322 423,322 414,324 412,327 409,325 405,328 406,331 404,330 403,334 398,335 399,305 394,305 394,302 361,302 361,308 164,308 164,225 132,225 132,185",
+  "islands_bridged": false,
+  "counties": [
+   {
+    "fips": "48233",
+    "county": "Hutchinson",
+    "share_of_county_area": 1.0,
+    "poly": "118,62 118,108 164,108 164,62"
+   },
+   {
+    "fips": "48075",
+    "county": "Childress",
+    "share_of_county_area": 1.0,
+    "poly": "208,227 246,228 245,182 208,182"
+   },
+   {
+    "fips": "48341",
+    "county": "Moore",
+    "share_of_county_area": 1.0,
+    "poly": "77,62 77,108 124,108 124,62"
+   },
+   {
+    "fips": "48375",
+    "county": "Potter",
+    "share_of_county_area": 1.0,
+    "poly": "77,148 124,148 124,102 77,102"
+   },
+   {
+    "fips": "48393",
+    "county": "Roberts",
+    "share_of_county_area": 1.0,
+    "poly": "158,108 205,108 205,62 158,62"
+   },
+   {
+    "fips": "48345",
+    "county": "Motley",
+    "share_of_county_area": 1.0,
+    "poly": "161,222 161,271 206,271 207,221"
+   },
+   {
+    "fips": "48359",
+    "county": "Oldham",
+    "share_of_county_area": 1.0,
+    "poly": "11,102 11,148 83,148 83,101"
+   },
+   {
+    "fips": "48195",
+    "county": "Hansford",
+    "share_of_county_area": 1.0,
+    "poly": "118,22 118,68 164,68 164,22"
+   },
+   {
+    "fips": "48087",
+    "county": "Collingsworth",
+    "share_of_county_area": 1.0,
+    "poly": "199,188 245,188 245,142 199,142"
+   },
+   {
+    "fips": "48155",
+    "county": "Foard",
+    "share_of_county_area": 1.0,
+    "poly": "236,271 252,271 252,273 257,273 264,275 266,273 272,276 275,275 285,285 285,240 276,245 271,241 260,242 242,228 237,229"
+   },
+   {
+    "fips": "48125",
+    "county": "Dickens",
+    "share_of_county_area": 1.0,
+    "poly": "161,265 161,311 207,311 206,265"
+   },
+   {
+    "fips": "48487",
+    "county": "Wilbarger",
+    "share_of_county_area": 1.0,
+    "poly": "279,271 324,271 324,227 320,231 319,229 313,232 306,231 305,221 301,217 303,214 295,213 290,207 285,211 285,215 279,213"
+   },
+   {
+    "fips": "48121",
+    "county": "Denton",
+    "share_of_county_area": 0.238,
+    "poly": "434,348 482,349 482,304 436,302"
+   },
+   {
+    "fips": "48117",
+    "county": "Deaf Smith",
+    "share_of_county_area": 1.0,
+    "poly": "11,142 11,188 83,188 83,142"
+   },
+   {
+    "fips": "48337",
+    "county": "Montague",
+    "share_of_county_area": 1.0,
+    "poly": "391,258 391,308 434,308 434,257 426,259 426,255 417,250 405,259 403,263"
+   },
+   {
+    "fips": "48009",
+    "county": "Archer",
+    "share_of_county_area": 1.0,
+    "poly": "318,311 364,311 364,265 318,265"
+   },
+   {
+    "fips": "48179",
+    "county": "Gray",
+    "share_of_county_area": 1.0,
+    "poly": "158,148 205,148 205,102 158,102"
+   },
+   {
+    "fips": "48357",
+    "county": "Ochiltree",
+    "share_of_county_area": 1.0,
+    "poly": "158,68 204,68 204,22 158,22"
+   },
+   {
+    "fips": "48111",
+    "county": "Dallam",
+    "share_of_county_area": 1.0,
+    "poly": "11,22 11,68 83,68 83,22"
+   },
+   {
+    "fips": "48077",
+    "county": "Clay",
+    "share_of_county_area": 1.0,
+    "poly": "358,245 358,305 397,305 397,264 400,262 398,258 400,253 395,249 391,250 387,246 389,241 385,235 379,239 365,236 361,238"
+   },
+   {
+    "fips": "48485",
+    "county": "Wichita",
+    "share_of_county_area": 1.0,
+    "poly": "318,271 364,271 364,241 357,244 349,236 343,235 336,238 332,235 328,236 318,227"
+   },
+   {
+    "fips": "48269",
+    "county": "King",
+    "share_of_county_area": 1.0,
+    "poly": "200,265 201,311 246,311 246,265"
+   },
+   {
+    "fips": "48275",
+    "county": "Knox",
+    "share_of_county_area": 1.0,
+    "poly": "240,265 240,311 285,311 285,277 283,272 265,265 264,267 258,267 257,265"
+   },
+   {
+    "fips": "48483",
+    "county": "Wheeler",
+    "share_of_county_area": 1.0,
+    "poly": "199,102 199,148 245,148 245,102"
+   },
+   {
+    "fips": "48497",
+    "county": "Wise",
+    "share_of_county_area": 0.51,
+    "poly": "395,347 440,348 442,302 396,302"
+   },
+   {
+    "fips": "48421",
+    "county": "Sherman",
+    "share_of_county_area": 1.0,
+    "poly": "77,68 124,68 124,22 77,22"
+   },
+   {
+    "fips": "48205",
+    "county": "Hartley",
+    "share_of_county_area": 1.0,
+    "poly": "11,62 11,108 83,107 83,62"
+   },
+   {
+    "fips": "48211",
+    "county": "Hemphill",
+    "share_of_county_area": 1.0,
+    "poly": "199,62 199,108 245,108 245,62"
+   },
+   {
+    "fips": "48197",
+    "county": "Hardeman",
+    "share_of_county_area": 1.0,
+    "poly": "240,200 240,234 259,248 270,247 277,252 279,249 284,250 285,215 273,211 271,216 267,216 247,197"
+   },
+   {
+    "fips": "48381",
+    "county": "Randall",
+    "share_of_county_area": 1.0,
+    "poly": "77,188 123,188 124,142 77,142"
+   },
+   {
+    "fips": "48295",
+    "county": "Lipscomb",
+    "share_of_county_area": 1.0,
+    "poly": "198,68 245,68 245,22 198,22"
+   },
+   {
+    "fips": "48129",
+    "county": "Donley",
+    "share_of_county_area": 1.0,
+    "poly": "157,188 205,188 205,142 158,142"
+   },
+   {
+    "fips": "48045",
+    "county": "Briscoe",
+    "share_of_county_area": 1.0,
+    "poly": "129,182 129,228 174,228 174,182"
+   },
+   {
+    "fips": "48011",
+    "county": "Armstrong",
+    "share_of_county_area": 1.0,
+    "poly": "117,188 163,188 164,142 118,142"
+   },
+   {
+    "fips": "48191",
+    "county": "Hall",
+    "share_of_county_area": 1.0,
+    "poly": "168,228 214,227 214,182 168,182"
+   },
+   {
+    "fips": "48065",
+    "county": "Carson",
+    "share_of_county_area": 1.0,
+    "poly": "118,148 164,148 164,102 118,102"
+   },
+   {
+    "fips": "48023",
+    "county": "Baylor",
+    "share_of_county_area": 1.0,
+    "poly": "279,265 279,311 324,311 324,265"
+   },
+   {
+    "fips": "48101",
+    "county": "Cottle",
+    "share_of_county_area": 1.0,
+    "poly": "200,271 242,271 242,237 246,244 246,222 201,221"
+   }
+  ]
+ },
+ "source": "U.S. Census Bureau cartographic boundary file cb_2025_us_cd119_500k and cb_2025_us_county_500k"
+}

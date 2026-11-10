@@ -1,0 +1,150 @@
+{
+ "bill": "hjres25-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "report_count": 9,
+ "clients": [
+  {
+   "client": "PARADIGM OPERATIONS LP",
+   "display_name": "Paradigm Operations",
+   "reports": 2,
+   "latest_report_amount": 370000.0,
+   "latest_report": "3a746f23-0e05-48e6-8bde-1bc337636661",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "AMERICANS FOR FINANCIAL REFORM",
+   "display_name": "Americans for Financial Reform",
+   "reports": 1,
+   "latest_report_amount": 150000.0,
+   "latest_report": "007d9e03-8b2b-485c-82c9-43f50da688c0",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "UNISWAP LABS",
+   "display_name": "Uniswap Labs",
+   "reports": 1,
+   "latest_report_amount": 90000.0,
+   "latest_report": "33b0c7b1-3f68-40bf-9348-c99bcc562e8f",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "AMERICANS FOR TAX REFORM",
+   "display_name": "Americans for Tax Reform",
+   "reports": 4,
+   "latest_report_amount": 60000.0,
+   "latest_report": "bde96f74-9184-4e73-9171-b3709d8223e9",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "LEDGER",
+   "display_name": "Ledger",
+   "reports": 1,
+   "latest_report_amount": 40000.0,
+   "latest_report": "d4098724-7d2f-41f5-9664-923766c99bf6",
+   "pac_ids": [],
+   "pac_names": []
+  }
+ ],
+ "groups_shown": [],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "33b0c7b1-3f68-40bf-9348-c99bcc562e8f",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-10T13:23:27-04:00",
+   "amount": 90000.0,
+   "registrant": "UNISWAP LABS",
+   "client": "UNISWAP LABS",
+   "url": "https://lda.gov/filings/public/filing/33b0c7b1-3f68-40bf-9348-c99bcc562e8f/print/"
+  },
+  {
+   "filing_uuid": "d4098724-7d2f-41f5-9664-923766c99bf6",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-21T12:53:05-04:00",
+   "amount": 40000.0,
+   "registrant": "CAPITOL ASSET STRATEGIES",
+   "client": "LEDGER",
+   "url": "https://lda.gov/filings/public/filing/d4098724-7d2f-41f5-9664-923766c99bf6/print/"
+  },
+  {
+   "filing_uuid": "26b5d6a6-0f3b-4b28-8cbe-e08d8d6a5c52",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-21T18:39:17-04:00",
+   "amount": 270000.0,
+   "registrant": "PARADIGM OPERATIONS LP",
+   "client": "PARADIGM OPERATIONS LP",
+   "url": "https://lda.gov/filings/public/filing/26b5d6a6-0f3b-4b28-8cbe-e08d8d6a5c52/print/"
+  },
+  {
+   "filing_uuid": "007d9e03-8b2b-485c-82c9-43f50da688c0",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-25T15:47:24-04:00",
+   "amount": 150000.0,
+   "registrant": "AMERICANS FOR FINANCIAL REFORM",
+   "client": "AMERICANS FOR FINANCIAL REFORM",
+   "url": "https://lda.gov/filings/public/filing/007d9e03-8b2b-485c-82c9-43f50da688c0/print/"
+  },
+  {
+   "filing_uuid": "1badf6fc-0a85-44d4-98bf-0d674878b7b2",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-28T13:01:49-04:00",
+   "amount": 60000.0,
+   "registrant": "AMERICANS FOR TAX REFORM",
+   "client": "AMERICANS FOR TAX REFORM",
+   "url": "https://lda.gov/filings/public/filing/1badf6fc-0a85-44d4-98bf-0d674878b7b2/print/"
+  },
+  {
+   "filing_uuid": "3a746f23-0e05-48e6-8bde-1bc337636661",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T15:38:41-04:00",
+   "amount": 370000.0,
+   "registrant": "PARADIGM OPERATIONS LP",
+   "client": "PARADIGM OPERATIONS LP",
+   "url": "https://lda.gov/filings/public/filing/3a746f23-0e05-48e6-8bde-1bc337636661/print/"
+  },
+  {
+   "filing_uuid": "28e5a6cc-3e98-48d2-9402-950ad49a3014",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-22T00:18:02-04:00",
+   "amount": 60000.0,
+   "registrant": "AMERICANS FOR TAX REFORM",
+   "client": "AMERICANS FOR TAX REFORM",
+   "url": "https://lda.gov/filings/public/filing/28e5a6cc-3e98-48d2-9402-950ad49a3014/print/"
+  },
+  {
+   "filing_uuid": "3f9140fd-c3d5-4e9f-ac89-5e03b2039573",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T22:52:35-04:00",
+   "amount": 60000.0,
+   "registrant": "AMERICANS FOR TAX REFORM",
+   "client": "AMERICANS FOR TAX REFORM",
+   "url": "https://lda.gov/filings/public/filing/3f9140fd-c3d5-4e9f-ac89-5e03b2039573/print/"
+  },
+  {
+   "filing_uuid": "bde96f74-9184-4e73-9171-b3709d8223e9",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-02-04T16:17:55-05:00",
+   "amount": 60000.0,
+   "registrant": "AMERICANS FOR TAX REFORM",
+   "client": "AMERICANS FOR TAX REFORM",
+   "url": "https://lda.gov/filings/public/filing/bde96f74-9184-4e73-9171-b3709d8223e9/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}

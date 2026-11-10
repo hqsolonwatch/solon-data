@@ -1,0 +1,485 @@
+{
+ "bioguide": "S001188",
+ "name": "Marlin A. Stutzman",
+ "cycle": 2026,
+ "candidate_id": "H0IN03198",
+ "summary": {
+  "receipts": 967094.9,
+  "individual_contributions": 400177.1,
+  "pac_contributions": 441800.0,
+  "party_contributions": 150.0,
+  "candidate_contributions": 0.0,
+  "candidate_loans": 0.0,
+  "transfers_from_authorized": 115397.15,
+  "cash_on_hand": 101047.75,
+  "coverage_end": "10/14/2026"
+ },
+ "pac_contributions": [
+  {
+   "committee_id": "C00005249",
+   "name": "NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS POLITICAL ACTION COMM",
+   "connected_org": "NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00693796",
+   "name": "BUCKEYE LIBERTY POLITICAL ACTION COMMITTEE",
+   "connected_org": "BUCKEYE VICTORY FUND",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00877365",
+   "name": "AMERICA'S BOLD ERA PAC",
+   "connected_org": "HAMADEH",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00012245",
+   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+   "connected_org": "UBS AMERICAS INC.",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00010421",
+   "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00107235",
+   "name": "PRICEWATERHOUSECOOPERS POLITICAL ACTION COMMITTEE I",
+   "connected_org": "NONE",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00280222",
+   "name": "KPMG PARTNERS/PRINCIPALS AND EMPLOYEES PAC",
+   "connected_org": "NONE",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00838128",
+   "name": "MAKING AMERICA RESTORE LEADERSHIP & INDEPENDENCE NOW POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00542365",
+   "name": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC)",
+   "connected_org": "TOYOTA MOTOR NORTH AMERICA, INC",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00447565",
+   "name": "FINSECA PAC",
+   "connected_org": "FINSECA",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00227744",
+   "name": "ERNST & YOUNG POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00306894",
+   "name": "MANAGED FUNDS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "MANAGED FUNDS ASSOCIATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00126763",
+   "name": "NATIONAL ASSOCIATION OF CONVENIENCE STORES POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL ASSOCIATION OF CONVENIENCE STORES",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00164145",
+   "name": "UNITED SERVICES AUTOMOBILE ASSOCIATION EMPLOYEE PAC - USAA EMPLOYEE PAC",
+   "connected_org": "UNITED SERVICES AUTOMOBILE ASSOCIATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00076810",
+   "name": "GENERAL MOTORS COMPANY POLITICAL ACTION COMMITTEE (GM PAC)",
+   "connected_org": "GENERAL MOTORS COMPANY",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00480863",
+   "name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. POLITICAL ACTION COMMITTEE (NSSF PAC)",
+   "connected_org": "NATIONAL SHOOTING SPORTS FOUNDATION, INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00000901",
+   "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+   "connected_org": "NATIONAL ASSOCIATION OF HOME BUILDERS",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00387274",
+   "name": "NEW MAJORITY FEDERAL PAC",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00325332",
+   "name": "AMERICAN SENIORS HOUSING ASSOCIATION (SENIORS HOUSING PAC)",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00043463",
+   "name": "MANUFACTURED HOUSING INSTITUTE PAC",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00032698",
+   "name": "INDEPENDENT COMMUNITY BANKERS OF AMERICA POLITICAL ACTION COMMITTEE (ICBA PAC)",
+   "connected_org": "INDEPENDENT COMMUNITY BANKERS OF AMERICA",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00066472",
+   "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION POLITICAL ACTION COMMITTEE (INSURING AMERICA PAC)",
+   "connected_org": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00350744",
+   "name": "THE GOLDMAN SACHS GROUP, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE GOLDMAN SACHS GROUP INC",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00072751",
+   "name": "STATE STREET BANK AND TRUST COMPANY VOLUNTARY POLITICAL ACTION COMMITTEE",
+   "connected_org": "STATE STREET BANK AND TRUST COMPANY",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00300178",
+   "name": "WELLS FARGO AND COMPANY EMPLOYEES GOOD GOVERNMENT FEDERAL FUND II",
+   "connected_org": "WELLS FARGO AND COMPANY",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00082792",
+   "name": "ELI LILLY AND COMPANY POLITICAL ACTION COMMITTEE",
+   "connected_org": "ELI LILLY AND COMPANY",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00411173",
+   "name": "COMMERCIAL REAL ESTATE FINANCE COUNCIL PAC",
+   "connected_org": "COMMERCIAL REAL ESTATE FINANCE COUNCIL",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00399089",
+   "name": "COOK GROUP INC PAC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00236489",
+   "name": "KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
+   "connected_org": "KOCH, INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00544817",
+   "name": "STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY FEDERAL POLITICAL ACTION COMMITTEE (STATE FARM FEDERAL PAC)",
+   "connected_org": "STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00171843",
+   "name": "LIBERTY MUTUAL INSURANCE COMPANY - PAC",
+   "connected_org": "LIBERTY MUTUAL INSURANCE COMPANY",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00101105",
+   "name": "NATIONAL FEDERATION OF INDEPENDENT BUSINESS FEDERAL POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL FEDERATION OF INDEPENDENT BUSINESS",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00104299",
+   "name": "JPMORGAN CHASE & CO. FEDERAL POLITICAL ACTION COMMITTEE",
+   "connected_org": "JPMORGAN CHASE & CO.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00386904",
+   "name": "FAEGRE DRINKER POLITICAL ACTION COMMITTEE (FAEGRE DRINKER PAC)",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00303024",
+   "name": "LOCKHEED MARTIN CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
+   "connected_org": "LOCKHEED MARTIN CORPORATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00387753",
+   "name": "SECURITY FINANCE CORPORATION OF SPARTANBURG AND AFFILIATES POLITICAL ACTION COMMITTEE",
+   "connected_org": "SECURITY FINANCE CORPORATION OF SPARTANBURG",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00103978",
+   "name": "INDIANA ACRE/INDIANA STATEWIDE ASSOCIATION OF RURAL ELECTRIC COOPERATIVES DBA INDIANA ELECTRIC COOPERATIVES FEDERAL PAC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00565614",
+   "name": "CONCRETE REINFORCING STEEL INSTITUTE PAC (REBAR PAC)",
+   "connected_org": "CONCRETE REINFORCING STEEL INSTITUTE",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00002972",
+   "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
+   "connected_org": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION (NRECA)",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00053553",
+   "name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00492579",
+   "name": "AMERICAN PRINCIPLES",
+   "connected_org": "NONE",
+   "total": 750.0
+  },
+  {
+   "committee_id": "C00541078",
+   "name": "EXCELSIOR PAC",
+   "connected_org": null,
+   "total": 500.0
+  },
+  {
+   "committee_id": "C00099754",
+   "name": "BAKEPAC - THE POLITICAL ACTION COMMITTEE OF THE INDEPENDENT BAKERS ASSOCIATION",
+   "connected_org": null,
+   "total": 350.0
+  },
+  {
+   "committee_id": "C00395533",
+   "name": "THE NATIONAL RIGHT TO WORK COMMITTEE PAC",
+   "connected_org": "THE NATIONAL RIGHT TO WORK COMMITTEE",
+   "total": 250.0
+  }
+ ],
+ "pac_by_type": [
+  {
+   "type": "Trade association PACs",
+   "total": 36850.0
+  },
+  {
+   "type": "Corporate PACs",
+   "total": 32250.0
+  },
+  {
+   "type": "Leadership PACs (run by other politicians)",
+   "total": 19000.0
+  },
+  {
+   "type": "Membership group PACs",
+   "total": 8500.0
+  },
+  {
+   "type": "Other PACs",
+   "total": 7750.0
+  },
+  {
+   "type": "Cooperative PACs",
+   "total": 1000.0
+  }
+ ],
+ "outside_spending": {
+  "support_total": 13.0,
+  "oppose_total": 0.0,
+  "spenders": [
+   {
+    "committee_id": "C00552851",
+    "name": "FREEDOM CAUCUS FUND",
+    "support": 13.0,
+    "oppose": 0.0
+   }
+  ],
+  "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
+ },
+ "detail": {
+  "committee_id": "C00838110",
+  "committee_name": "STUTZMAN FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 967094.9,
+  "amounts": {
+   "individuals_200_or_less": 92634.39,
+   "individuals_over_200": 307542.71,
+   "pacs_and_parties": 441950.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 115397.15,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    11
+   ],
+   [
+    "Individuals giving more than $200",
+    37
+   ],
+   [
+    "PACs and party committees",
+    52
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 471249.15,
+   "home_state": "IN",
+   "home_state_total": 296850.83,
+   "home_state_share": 63,
+   "top": [
+    {
+     "state": "IN",
+     "state_full": "Indiana",
+     "total": 296850.83,
+     "count": 313
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 59595.65,
+     "count": 166
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 25109.85,
+     "count": 117
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 17689.77,
+     "count": 122
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 13310.02,
+     "count": 55
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 9062.93,
+     "count": 22
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 8085.55,
+     "count": 34
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 5208.2,
+     "count": 4
+    },
+    {
+     "state": "KY",
+     "state_full": "Kentucky",
+     "total": 5000.0,
+     "count": 2
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 4585.95,
+     "count": 35
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "GLENBROOK DODGE CHRYSLER",
+     "total": 15000.0,
+     "count": 10
+    },
+    {
+     "employer": "GRABER LUMBER",
+     "total": 9500.0,
+     "count": 4
+    },
+    {
+     "employer": "WRIGHT DESIGN",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "WIRCO",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ALL CLEAR PRODUCTIONS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "RHEUMATOLOGY INDIANA",
+     "total": 7000.0,
+     "count": 5
+    },
+    {
+     "employer": "MANCHESTER MERCANTILE LLC",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "IRWIN R. ROSE & CO. LLC",
+     "total": 7000.0,
+     "count": 4
+    },
+    {
+     "employer": "KALSHI",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "LEADERS STAFFING LLC",
+     "total": 7000.0,
+     "count": 7
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794319828.5573218,
+ "sources": {
+  "summary": "FEC candidate summary file (weball)",
+  "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
+  "detail": "FEC API, principal campaign committee"
+ }
+}

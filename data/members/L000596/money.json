@@ -1,0 +1,585 @@
+{
+ "bioguide": "L000596",
+ "name": "Anna Paulina Luna",
+ "cycle": 2026,
+ "candidate_id": "H0FL13158",
+ "summary": {
+  "receipts": 4351791.83,
+  "individual_contributions": 2747014.26,
+  "pac_contributions": 219500.0,
+  "party_contributions": 0.0,
+  "candidate_contributions": 97.37,
+  "candidate_loans": 0.0,
+  "transfers_from_authorized": 1374261.9,
+  "cash_on_hand": 746955.17,
+  "coverage_end": "10/14/2026"
+ },
+ "pac_contributions": [
+  {
+   "committee_id": "C00639229",
+   "name": "AMERICAN REVIVAL PAC",
+   "connected_org": null,
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00234120",
+   "name": "UNITED STATES SUGAR CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN POLITICAL ACTION COMMITTEE,",
+   "connected_org": "UNITED STATES SUGAR CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN POLITICAL ACTION COMMITTEE,",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00583153",
+   "name": "VALOR PAC",
+   "connected_org": "MAST",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00096156",
+   "name": "HONEYWELL INTERNATIONAL INC. TECHNOLOGIES PUBLIC AFFAIRS COUNCIL (HONPAC)",
+   "connected_org": "HONEYWELL INTERNATIONAL INC.",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00411116",
+   "name": "SPACE EXPLORATION TECHNOLOGIES CORP. PAC",
+   "connected_org": "SPACE EXPLORATION TECHNOLOGIES CORP.",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00552851",
+   "name": "FREEDOM CAUCUS FUND",
+   "connected_org": "NONE",
+   "total": 8530.0
+  },
+  {
+   "committee_id": "C00817338",
+   "name": "MVL PAC",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00336743",
+   "name": "ASIAN AMERICAN HOTEL OWNERS ASSOCIATION PAC (AAHOA PAC)",
+   "connected_org": "ASIAN AMERICAN HOTEL OWNERS ASSOCIATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00808717",
+   "name": "KEEP TEXAS TEXAS PAC",
+   "connected_org": "DE LA CRUZ",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00927871",
+   "name": "DEFENSE OF FREEDOM",
+   "connected_org": "LAUF",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00809012",
+   "name": "FROGMAN PAC",
+   "connected_org": "VAN ORDEN VICTORY FUND",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00592089",
+   "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+   "connected_org": "EMMER VICTORY COMMITTEE",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00432260",
+   "name": "CLUB FOR GROWTH PAC",
+   "connected_org": "CLUB FOR GROWTH",
+   "total": 4522.0
+  },
+  {
+   "committee_id": "C00823351",
+   "name": "REPUBLICANS UNITED TO DEFEND YOU PAC",
+   "connected_org": "YAKYM",
+   "total": 4500.0
+  },
+  {
+   "committee_id": "C00822767",
+   "name": "RUDY FOR INDIANA",
+   "connected_org": "RUDY VICTORY FUND",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00570226",
+   "name": "SEAL PAC SUPPORTING ELECTING AMERICAN LEADERS PAC",
+   "connected_org": null,
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00934877",
+   "name": "STOP COMMUNISM PAC",
+   "connected_org": null,
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00693796",
+   "name": "BUCKEYE LIBERTY POLITICAL ACTION COMMITTEE",
+   "connected_org": "BUCKEYE VICTORY FUND",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00764795",
+   "name": "WE THE PEOPLE LEADERSHIP PAC",
+   "connected_org": null,
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00877506",
+   "name": "SPACE COAST LEADERSHIP PAC",
+   "connected_org": "HARIDOPOLOS VICTORY FUND",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00827675",
+   "name": "TRIDENT POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00938647",
+   "name": "BOLD REPUBLICAN IN NEBRASKA KEEPING ELECTIONS RED PAC",
+   "connected_org": null,
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00903898",
+   "name": "DELIVER ENERGIZE SUCCEED PAC",
+   "connected_org": "DESMOND",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00959700",
+   "name": "THE AMERICAN MAJORITY FOR PROSPERITY & ACCOUNTABILITY PAC (TAMPA PAC)",
+   "connected_org": "BELTRAN VICTORY FUND",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00326439",
+   "name": "HOUSE CONSERVATIVES FUND",
+   "connected_org": null,
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00030718",
+   "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL ASSOCIATION OF REALTORS",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00847897",
+   "name": "GOD, FAMILY, & COUNTRY PAC",
+   "connected_org": "FAITH, HONOR, & COURAGE",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00850099",
+   "name": "COMPETITIVE MARKETS PAC",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00010421",
+   "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00040998",
+   "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00024521",
+   "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+   "connected_org": "AMERICAN ASSOCIATION FOR JUSTICE (AAJ)",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00608695",
+   "name": "MIKE JOHNSON FOR LOUISIANA",
+   "connected_org": "JOHNSON LEADERSHIP FUND",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00416594",
+   "name": "JIM JORDAN FOR CONGRESS",
+   "connected_org": "BUCKEYE VICTORY FUND",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00918979",
+   "name": "JOE MITCHELL FOR CONGRESS",
+   "connected_org": "EMMER MAJORITY BUILDERS",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00303024",
+   "name": "LOCKHEED MARTIN CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
+   "connected_org": "LOCKHEED MARTIN CORPORATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00000901",
+   "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+   "connected_org": "NATIONAL ASSOCIATION OF HOME BUILDERS",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00002972",
+   "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
+   "connected_org": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION (NRECA)",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00245548",
+   "name": "NATIONAL MARINE MANUFACTURERS ASSOCIATION AND MARINE RETAILERS ASSOCIATION BOAT PAC",
+   "connected_org": "NATIONAL MARINE MANUFACTURERS ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00524926",
+   "name": "HISPANIC 100 FED PAC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00010868",
+   "name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
+   "connected_org": "AMERICAN COUNCIL OF ENGINEERING COMPANIES",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00053553",
+   "name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00480863",
+   "name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. POLITICAL ACTION COMMITTEE (NSSF PAC)",
+   "connected_org": "NATIONAL SHOOTING SPORTS FOUNDATION, INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00392670",
+   "name": "JUSTICE FREEDOM & LIBERTY PAC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00295527",
+   "name": "CITIZENS UNITED POLITICAL VICTORY FUND",
+   "connected_org": "CITIZENS UNITED",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00163832",
+   "name": "CSX CORPORATION GOOD GOVERNMENT FUND",
+   "connected_org": "CSX CORPORATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00756551",
+   "name": "AMERICAN GRIT PAC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00083535",
+   "name": "DUKE ENERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (DUKEPAC)",
+   "connected_org": "DUKE ENERGY CORPORATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00425439",
+   "name": "THOROUGHBRED PAC",
+   "connected_org": "NONE",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00101105",
+   "name": "NATIONAL FEDERATION OF INDEPENDENT BUSINESS FEDERAL POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL FEDERATION OF INDEPENDENT BUSINESS",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00029447",
+   "name": "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC",
+   "connected_org": "INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS",
+   "total": 500.0
+  },
+  {
+   "committee_id": "C00841361",
+   "name": "NEXT GENERATION PAC",
+   "connected_org": "RAHM",
+   "total": 500.0
+  },
+  {
+   "committee_id": "C00395533",
+   "name": "THE NATIONAL RIGHT TO WORK COMMITTEE PAC",
+   "connected_org": "THE NATIONAL RIGHT TO WORK COMMITTEE",
+   "total": 250.0
+  },
+  {
+   "committee_id": "C00797670",
+   "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": -6.0
+  },
+  {
+   "committee_id": "C00563726",
+   "name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+   "connected_org": "SMITH VICTORY",
+   "total": -2500.0
+  }
+ ],
+ "pac_by_type": [
+  {
+   "type": "Leadership PACs (run by other politicians)",
+   "total": 54500.0
+  },
+  {
+   "type": "Other PACs",
+   "total": 45030.0
+  },
+  {
+   "type": "Corporate PACs",
+   "total": 34250.0
+  },
+  {
+   "type": "Trade association PACs",
+   "total": 16000.0
+  },
+  {
+   "type": "Membership group PACs",
+   "total": 13016.0
+  },
+  {
+   "type": "Other candidates’ campaigns",
+   "total": 10000.0
+  },
+  {
+   "type": "Labor union PACs",
+   "total": 500.0
+  }
+ ],
+ "outside_spending": {
+  "support_total": 150331.0,
+  "oppose_total": 922358.0,
+  "spenders": [
+   {
+    "committee_id": "C00540443",
+    "name": "GIFFORDS PAC",
+    "support": 0.0,
+    "oppose": 828557.0
+   },
+   {
+    "committee_id": "C00888867",
+    "name": "LATINOS FOR CONSERVATIVE VALUES",
+    "support": 128741.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00495028",
+    "name": "HMP",
+    "support": 0.0,
+    "oppose": 93331.0
+   },
+   {
+    "committee_id": "C00432260",
+    "name": "CLUB FOR GROWTH PAC",
+    "support": 20108.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00448696",
+    "name": "SENATE CONSERVATIVES FUND",
+    "support": 1116.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00955138",
+    "name": "BUILDING TOGETHER",
+    "support": 0.0,
+    "oppose": 470.0
+   },
+   {
+    "committee_id": "C00552851",
+    "name": "FREEDOM CAUCUS FUND",
+    "support": 366.0,
+    "oppose": 0.0
+   }
+  ],
+  "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
+ },
+ "detail": {
+  "committee_id": "C00718239",
+  "committee_name": "ANNA PAULINA LUNA FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 4351791.83,
+  "amounts": {
+   "individuals_200_or_less": 1581398.61,
+   "individuals_over_200": 1165615.65,
+   "pacs_and_parties": 219500.0,
+   "candidate_own": 97.37,
+   "transfers_from_authorized": 1374261.9,
+   "other_receipts": 1618.72
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    53
+   ],
+   [
+    "Individuals giving more than $200",
+    39
+   ],
+   [
+    "PACs and party committees",
+    8
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 2229491.69,
+   "home_state": "FL",
+   "home_state_total": 984814.03,
+   "home_state_share": 44,
+   "top": [
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 984814.03,
+     "count": 2415
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 263334.06,
+     "count": 609
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 190125.56,
+     "count": 782
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 94630.94,
+     "count": 190
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 58528.94,
+     "count": 204
+    },
+    {
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 47281.62,
+     "count": 79
+    },
+    {
+     "state": "NV",
+     "state_full": "Nevada",
+     "total": 41765.59,
+     "count": 78
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 40083.63,
+     "count": 96
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 37725.15,
+     "count": 137
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 35276.26,
+     "count": 115
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ENTREPRENEUR",
+     "total": 15981.84,
+     "count": 6
+    },
+    {
+     "employer": "STARKEY HEARING TECHNOLOGIES",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "AEVEX AEROSPACE LLC",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "CONSUL PARTNERS",
+     "total": 8984.59,
+     "count": 15
+    },
+    {
+     "employer": "RONPAK",
+     "total": 7711.54,
+     "count": 4
+    },
+    {
+     "employer": "SILVER VENTURES",
+     "total": 7475.0,
+     "count": 3
+    },
+    {
+     "employer": "PRICEMDS.COM",
+     "total": 7250.0,
+     "count": 3
+    },
+    {
+     "employer": "KING EQUITY",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "CROWNQUEST OPERATING, LLC",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794319828.5573218,
+ "sources": {
+  "summary": "FEC candidate summary file (weball)",
+  "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
+  "detail": "FEC API, principal campaign committee"
+ }
+}

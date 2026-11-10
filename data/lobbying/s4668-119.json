@@ -1,0 +1,3060 @@
+{
+ "bill": "s4668-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "report_count": 203,
+ "clients": [
+  {
+   "client": "AMAZON.COM SERVICES LLC",
+   "display_name": "Amazon",
+   "reports": 2,
+   "latest_report_amount": 4490000.0,
+   "latest_report": "f57759bc-7305-428e-83b4-7c4ce6195bbf",
+   "pac_ids": [
+    "C00360354"
+   ],
+   "pac_names": [
+    "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)"
+   ]
+  },
+  {
+   "client": "NCTA - THE INTERNET & TELEVISION ASSOCIATION",
+   "display_name": "Ncta - the Internet & Television Association",
+   "reports": 2,
+   "latest_report_amount": 2940000.0,
+   "latest_report": "05597db2-eab3-4dec-870d-3524bd219ed6",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NATIONAL ASSOCIATION OF BROADCASTERS",
+   "display_name": "National Association of Broadcasters",
+   "reports": 2,
+   "latest_report_amount": 2700000.0,
+   "latest_report": "8a799cbb-419a-4952-9603-8ee95180d301",
+   "pac_ids": [
+    "C00009985"
+   ],
+   "pac_names": [
+    "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)"
+   ]
+  },
+  {
+   "client": "CHARTER COMMUNICATIONS INC",
+   "display_name": "Charter Communications",
+   "reports": 2,
+   "latest_report_amount": 2230000.0,
+   "latest_report": "4163eb0c-5ca7-489f-bbdb-5bf70f2ede92",
+   "pac_ids": [
+    "C00426775"
+   ],
+   "pac_names": [
+    "CHARTER COMMUNICATIONS INC. POLITICAL ACTION COMMITTEE"
+   ]
+  },
+  {
+   "client": "PARAMOUNT SKYDANCE CORPORATION",
+   "display_name": "Paramount Skydance",
+   "reports": 3,
+   "latest_report_amount": 1860000.0,
+   "latest_report": "2327a48d-4e23-44e7-a3bc-79848a1bbd31",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "DISNEY WORLDWIDE SERVICES INC",
+   "display_name": "Disney Worldwide Services",
+   "reports": 2,
+   "latest_report_amount": 930000.0,
+   "latest_report": "1c7cf009-b24f-497f-8c78-cc7076594bef",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "AFL-CIO",
+   "display_name": "AFL-CIO",
+   "reports": 2,
+   "latest_report_amount": 920000.0,
+   "latest_report": "81e8f17a-e7cc-456f-9c97-fd1429a14646",
+   "pac_ids": [
+    "C00003806"
+   ],
+   "pac_names": [
+    "AFL-CIO COPE POLITICAL CONTRIBUTIONS COMMITTEE"
+   ]
+  },
+  {
+   "client": "AMERICAN FEDERATION OF STATE COUNTY AND MUNICIPAL EMPLOYEES",
+   "display_name": "AFSCME",
+   "reports": 1,
+   "latest_report_amount": 570000.0,
+   "latest_report": "88653fa4-d87c-4e9e-be6b-638090c666f3",
+   "pac_ids": [
+    "C00011114"
+   ],
+   "pac_names": [
+    "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E"
+   ]
+  },
+  {
+   "client": "JOHNS HOPKINS UNIVERSITY",
+   "display_name": "Johns Hopkins University",
+   "reports": 1,
+   "latest_report_amount": 350000.0,
+   "latest_report": "2a38440a-a97d-46d0-9eb0-5869d23858db",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "SERVICE EMPLOYEES INTERNATIONAL UNION CTW-CLC",
+   "display_name": "Service Employees International Union Ctw-clc",
+   "reports": 1,
+   "latest_report_amount": 310000.0,
+   "latest_report": "a1ccd7bf-26d5-4509-a3f5-4402299e7f63",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "UNIVERSITY OF WASHINGTON",
+   "display_name": "University of Washington",
+   "reports": 1,
+   "latest_report_amount": 291000.0,
+   "latest_report": "20b12731-909c-4895-88f3-b494e3fedd45",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NATIONAL COLLEGIATE ATHLETIC ASSOCIATION",
+   "display_name": "National Collegiate Athletic Association",
+   "reports": 4,
+   "latest_report_amount": 290000.0,
+   "latest_report": "ceeaa175-29ab-486a-b8d8-753507f9b7d4",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "UNIVERSITY OF CALIFORNIA",
+   "display_name": "University of California",
+   "reports": 2,
+   "latest_report_amount": 250000.0,
+   "latest_report": "7a5dcf15-5f76-455a-babb-d1da8d447d7b",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "VANDERBILT UNIVERSITY",
+   "display_name": "Vanderbilt University",
+   "reports": 4,
+   "latest_report_amount": 240000.0,
+   "latest_report": "83e8e700-5331-4c02-b975-9640927cf57a",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "CORNELL UNIVERSITY",
+   "display_name": "Cornell University",
+   "reports": 1,
+   "latest_report_amount": 220000.0,
+   "latest_report": "3632e6d9-f8a6-4426-a4e0-32c442836f95",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "SOUTHEASTERN CONFERENCE",
+   "display_name": "Southeastern Conference",
+   "reports": 2,
+   "latest_report_amount": 200000.0,
+   "latest_report": "0e7743dd-30e4-4bb7-ae9f-38da2ce1192c",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "HARVARD UNIVERSITY--PRESIDENT AND FELLOWS OF HARVARD COLLEGE",
+   "display_name": "Harvard University--president and Fellows of Harvard College",
+   "reports": 1,
+   "latest_report_amount": 200000.0,
+   "latest_report": "bba98c91-07c0-42fd-9520-a49f083ecdef",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "ATLANTIC COAST CONFERENCE",
+   "display_name": "Atlantic Coast Conference",
+   "reports": 2,
+   "latest_report_amount": 180000.0,
+   "latest_report": "23533c48-01a3-4828-9247-90955afd9660",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "THE UNIVERSITY OF TENNESSEE",
+   "display_name": "The University of Tennessee",
+   "reports": 2,
+   "latest_report_amount": 170000.0,
+   "latest_report": "7a4d9126-4caa-422c-a641-f80949b2c451",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "PENNSYLVANIA STATE UNIVERSITY",
+   "display_name": "Pennsylvania State University",
+   "reports": 2,
+   "latest_report_amount": 150000.0,
+   "latest_report": "91aecb52-3714-4534-ab43-742fb130779e",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "UNIVERSITY OF MICHIGAN",
+   "display_name": "University of Michigan",
+   "reports": 2,
+   "latest_report_amount": 150000.0,
+   "latest_report": "22c0f398-f0d6-44a4-a0d0-59ed70871d4f",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "UNIVERSITY OF ILLINOIS",
+   "display_name": "University of Illinois",
+   "reports": 4,
+   "latest_report_amount": 140000.0,
+   "latest_report": "b4bb7aa7-c2df-473e-b9a0-2970e99b59a1",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "SYRACUSE UNIVERSITY",
+   "display_name": "Syracuse University",
+   "reports": 1,
+   "latest_report_amount": 140000.0,
+   "latest_report": "0b40e767-3673-411c-a6d4-4ac5c86a3c81",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NORTHWESTERN UNIV",
+   "display_name": "Northwestern Univ",
+   "reports": 3,
+   "latest_report_amount": 135000.0,
+   "latest_report": "b40166d4-e374-4a92-8185-23a28e7d97f0",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "BOARD OF REGENTS OF UNIVERSITY OF WISCONSIN SYSTEM",
+   "display_name": "Board of Regents of University of Wisconsin System",
+   "reports": 2,
+   "latest_report_amount": 112000.0,
+   "latest_report": "9b9eb533-568e-45bc-9e03-3d2ca96b3ac6",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "FLORIDA STATE UNIVERSITY",
+   "display_name": "Florida State University",
+   "reports": 1,
+   "latest_report_amount": 105000.0,
+   "latest_report": "e7f31239-ee6e-492d-b5f0-c53423f9855a",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "THE OHIO STATE UNIVERSITY",
+   "display_name": "The Ohio State University",
+   "reports": 2,
+   "latest_report_amount": 90115.0,
+   "latest_report": "7efa7657-8037-4fec-9fb3-f04d720f2d44",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "BAYLOR UNIVERSITY",
+   "display_name": "Baylor University",
+   "reports": 2,
+   "latest_report_amount": 90000.0,
+   "latest_report": "ed978166-4a6a-41a2-9bce-a008b2dc5810",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "SAVING COLLEGE SPORTS",
+   "display_name": "Saving College Sports",
+   "reports": 6,
+   "latest_report_amount": 90000.0,
+   "latest_report": "fb9db96c-e69b-477e-9591-3643beba40cd",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL",
+   "display_name": "University of North Carolina at Chapel Hill",
+   "reports": 2,
+   "latest_report_amount": 90000.0,
+   "latest_report": "178dd40d-1878-4346-a7eb-721c27ba4c1a",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "AMERICAN ASSOCIATION FOR JUSTICE",
+   "display_name": "American Association for Justice",
+   "reports": 6,
+   "latest_report_amount": 90000.0,
+   "latest_report": "913e9c08-16b2-4996-82a9-ed0925a7878d",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "WESTERN MICHIGAN UNIVERSITY",
+   "display_name": "Western Michigan University",
+   "reports": 2,
+   "latest_report_amount": 90000.0,
+   "latest_report": "8764a09c-46ef-49ad-85cc-8d730e4aed40",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "RICE UNIVERSITY",
+   "display_name": "Rice University",
+   "reports": 2,
+   "latest_report_amount": 90000.0,
+   "latest_report": "345570b2-b79f-4a6f-97e0-abcdf7410706",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "DARTMOUTH COLLEGE",
+   "display_name": "Dartmouth College",
+   "reports": 2,
+   "latest_report_amount": 80000.0,
+   "latest_report": "a3454b05-bf89-4690-8e5a-c2b94ef9b028",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "DUKE UNIVERSITY",
+   "display_name": "Duke University",
+   "reports": 4,
+   "latest_report_amount": 80000.0,
+   "latest_report": "ba92f406-03f5-4531-b850-066e40a032df",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "KALSHI",
+   "display_name": "Kalshi",
+   "reports": 4,
+   "latest_report_amount": 80000.0,
+   "latest_report": "c93f0616-5864-4605-a7ed-0f377dba0715",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "BIG TEN CONFERENCE",
+   "display_name": "Big Ten Conference",
+   "reports": 3,
+   "latest_report_amount": 80000.0,
+   "latest_report": "44290669-a088-4383-b524-c0d755f735a3",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "UNIVERSITY OF COLORADO",
+   "display_name": "University of Colorado",
+   "reports": 1,
+   "latest_report_amount": 80000.0,
+   "latest_report": "e942e275-1365-467a-b8b0-ef00514dff95",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+   "display_name": "University of Southern California",
+   "reports": 1,
+   "latest_report_amount": 80000.0,
+   "latest_report": "90a51052-99b1-4f28-8d99-f296e31fec15",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "RUTGERS THE STATE UNIVERSITY OF NEW JERSEY",
+   "display_name": "Rutgers the State University of New Jersey",
+   "reports": 2,
+   "latest_report_amount": 70000.0,
+   "latest_report": "62aac7ec-cb20-475b-89ca-38a0a33aceb9",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NATIONAL ASSN OF INDEPENDENT COLLEGES & UNIVERSITIES",
+   "display_name": "National Assn of Independent Colleges & Universities",
+   "reports": 3,
+   "latest_report_amount": 70000.0,
+   "latest_report": "0707c516-1b5c-4b32-8dca-af2c57d2752d",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "HERITAGE ACTION FOR AMERICA",
+   "display_name": "Heritage Action for America",
+   "reports": 1,
+   "latest_report_amount": 70000.0,
+   "latest_report": "83c0c048-7b06-4f36-815c-ff0d8ff56681",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "UNIVERSITY OF VIRGINIA",
+   "display_name": "University of Virginia",
+   "reports": 2,
+   "latest_report_amount": 70000.0,
+   "latest_report": "037e2d18-a436-4aa5-bab7-9010d9fed49f",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "MICHIGAN STATE UNIV",
+   "display_name": "Michigan State Univ",
+   "reports": 2,
+   "latest_report_amount": 70000.0,
+   "latest_report": "6dc17b80-5429-41fb-b6e4-1989638d18e7",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "UNIVERSITY OF KANSAS",
+   "display_name": "University of Kansas",
+   "reports": 2,
+   "latest_report_amount": 60000.0,
+   "latest_report": "c9b89fa0-25dc-4c37-a749-6eb8daa74eda",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "WEST VIRGINIA UNIVERSITY",
+   "display_name": "West Virginia University",
+   "reports": 2,
+   "latest_report_amount": 60000.0,
+   "latest_report": "a8927212-02c9-4163-8b57-4438432915c7",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "COLORADO STATE UNIVERSITY FOUNDATION",
+   "display_name": "Colorado State University Foundation",
+   "reports": 2,
+   "latest_report_amount": 60000.0,
+   "latest_report": "e75186e7-57c7-4da0-b74d-91d7ea900606",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "BOSTON UNIVERSITY",
+   "display_name": "Boston University",
+   "reports": 1,
+   "latest_report_amount": 60000.0,
+   "latest_report": "edce80b7-8135-4a3a-a9da-6522fca3ef3f",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "UNIVERSITY OF SOUTH FLORIDA",
+   "display_name": "University of South Florida",
+   "reports": 1,
+   "latest_report_amount": 60000.0,
+   "latest_report": "47c1e6c9-56a9-4d97-84bb-8b4ab27ea6d9",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "ALLIANCE DEFENDING FREEDOM",
+   "display_name": "Alliance Defending Freedom",
+   "reports": 2,
+   "latest_report_amount": 60000.0,
+   "latest_report": "397b3d46-5866-4493-9f29-69e84f694e73",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NIKE, INC.",
+   "display_name": "Nike",
+   "reports": 1,
+   "latest_report_amount": 60000.0,
+   "latest_report": "d1293066-80af-48c5-9349-3f754182d9d7",
+   "pac_ids": [
+    "C00142786"
+   ],
+   "pac_names": [
+    "NIKE INC FEDERAL POLITICAL ACTION COMMITTEE (NIKE FEDERAL PAC)"
+   ]
+  },
+  {
+   "client": "NEVADA SYSTEM OF HIGHER EDUCATION",
+   "display_name": "Nevada System of Higher Education",
+   "reports": 1,
+   "latest_report_amount": 60000.0,
+   "latest_report": "732e3900-81f6-4db3-ae2e-a70e6a689386",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "UNIVERSITY OF OREGON",
+   "display_name": "University of Oregon",
+   "reports": 2,
+   "latest_report_amount": 55000.0,
+   "latest_report": "1a412611-b798-492b-b354-b6d47e608790",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "OREGON STATE UNIVERSITY",
+   "display_name": "Oregon State University",
+   "reports": 2,
+   "latest_report_amount": 55000.0,
+   "latest_report": "0468aa4c-e847-4e80-b7e9-e60114b1d014",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "UNIVERSITY OF DENVER",
+   "display_name": "University of Denver",
+   "reports": 2,
+   "latest_report_amount": 50000.0,
+   "latest_report": "a0d184ce-0d53-4049-bf50-48c32ac924c9",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "WAKE FOREST UNIVERSITY",
+   "display_name": "Wake Forest University",
+   "reports": 4,
+   "latest_report_amount": 50000.0,
+   "latest_report": "002c79b2-d51a-4f31-9b96-7165ca2bf9cb",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "ENTERTAINMENT SOFTWARE ASSOCIATION",
+   "display_name": "Entertainment Software Association",
+   "reports": 3,
+   "latest_report_amount": 50000.0,
+   "latest_report": "81839156-840c-4101-8ac9-da780a10fd9d",
+   "pac_ids": [
+    "C00439216"
+   ],
+   "pac_names": [
+    "ENTERTAINMENT SOFTWARE ASSOCIATION PAC (ESA PAC)"
+   ]
+  },
+  {
+   "client": "AMERICAN ARBITRATION ASSOCIATION",
+   "display_name": "American Arbitration Association",
+   "reports": 1,
+   "latest_report_amount": 50000.0,
+   "latest_report": "6713c8c5-da29-494b-abcc-acf97f696513",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "PAC-12 CONFERENCE",
+   "display_name": "Pac-12 Conference",
+   "reports": 2,
+   "latest_report_amount": 50000.0,
+   "latest_report": "189115a1-e889-4c65-82d7-0cd6fe44b777",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "UNIVERSITY OF IOWA",
+   "display_name": "University of Iowa",
+   "reports": 2,
+   "latest_report_amount": 50000.0,
+   "latest_report": "82725610-9297-4a8c-9e6b-f59c961491f7",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "ARIZONA STATE UNIVERSITY",
+   "display_name": "Arizona State University",
+   "reports": 2,
+   "latest_report_amount": 50000.0,
+   "latest_report": "846e6dd5-0fe3-4e3b-8f5d-e52c2f67e9d6",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NORTH DAKOTA STATE UNIVERSITY",
+   "display_name": "North Dakota State University",
+   "reports": 2,
+   "latest_report_amount": 50000.0,
+   "latest_report": "ec53b3ad-95a3-4b3b-9101-82bfbff313fc",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "SAN DIEGO STATE UNIVERSITY RESEARCH FOUNDATION",
+   "display_name": "San Diego State University Research Foundation",
+   "reports": 1,
+   "latest_report_amount": 50000.0,
+   "latest_report": "f6578686-c2e3-4a84-bb52-d148c0e072cb",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "THE UNIVERSITY OF UTAH",
+   "display_name": "The University of Utah",
+   "reports": 1,
+   "latest_report_amount": 50000.0,
+   "latest_report": "cbcb7e07-b124-4074-8918-0a7a166d2cba",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NORTH CAROLINA STATE UNIVERSITY",
+   "display_name": "North Carolina State University",
+   "reports": 1,
+   "latest_report_amount": 50000.0,
+   "latest_report": "f27d924d-1808-41c9-bc93-04c016b75d81",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "LIBERTY UNIVERSITY",
+   "display_name": "Liberty University",
+   "reports": 1,
+   "latest_report_amount": 50000.0,
+   "latest_report": "69534998-1d3e-4f6c-8038-8a90ec61c3b2",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NATIONAL WOMEN'S LAW CENTER ACTION FUND",
+   "display_name": "National Women's Law Center Action Fund",
+   "reports": 1,
+   "latest_report_amount": 50000.0,
+   "latest_report": "c8982414-1f43-488e-a599-fd5feccbefa6",
+   "pac_ids": [
+    "C00938142"
+   ],
+   "pac_names": [
+    "NATIONAL WOMEN'S LAW CENTER ACTION FUND PAC"
+   ]
+  },
+  {
+   "client": "BLACK MOUNTAIN LAND COMPANY LP",
+   "display_name": "Black Mountain Land Company",
+   "reports": 1,
+   "latest_report_amount": 40000.0,
+   "latest_report": "7547415f-da4a-424c-8036-a331155d0a3c",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "UNIVERSITY OF CINCINNATI",
+   "display_name": "University of Cincinnati",
+   "reports": 2,
+   "latest_report_amount": 40000.0,
+   "latest_report": "71c774bc-6dd9-4c52-b612-fe0dd06346fd",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "BIG 12 CONFERENCE",
+   "display_name": "Big 12 Conference",
+   "reports": 2,
+   "latest_report_amount": 40000.0,
+   "latest_report": "7170bf34-3ef4-44ea-b6cd-c47a6d95b0db",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "UNIVERSITY OF NEW HAMPSHIRE",
+   "display_name": "University of New Hampshire",
+   "reports": 1,
+   "latest_report_amount": 40000.0,
+   "latest_report": "bdba2a1e-77c4-4c4a-88cc-9ebf069f3b78",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "THE WALT DISNEY COMPANY",
+   "display_name": "The Walt Disney Company",
+   "reports": 1,
+   "latest_report_amount": 40000.0,
+   "latest_report": "de960460-8ec6-4d80-949a-0084c19dd696",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NATIONAL FOOTBALL LEAGUE",
+   "display_name": "National Football League",
+   "reports": 2,
+   "latest_report_amount": 30000.0,
+   "latest_report": "82cd111a-604d-46a2-b836-a1f90135f1bd",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "COMMITTEE TO SUPPORT THE ANTITRUST LAWS",
+   "display_name": "Committee to Support the Antitrust Laws",
+   "reports": 2,
+   "latest_report_amount": 30000.0,
+   "latest_report": "d91c7a93-8879-49ac-98db-bd5592689ecc",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "DAVIDSON COLLEGE",
+   "display_name": "Davidson College",
+   "reports": 2,
+   "latest_report_amount": 30000.0,
+   "latest_report": "e2bd069c-6b8c-43d3-8cf0-905c146eb94f",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "THE UNIVERSITY OF ALABAMA SYSTEM",
+   "display_name": "The University of Alabama System",
+   "reports": 2,
+   "latest_report_amount": 30000.0,
+   "latest_report": "0ab28085-ed07-4ef0-8d79-395c0a4ed510",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "VIRGINIA POLYTECHNIC INSTITUTE AND STATE UNIVERSITY (VIRGINIA TECH)",
+   "display_name": "Virginia Polytechnic Institute and State University (virginia Tech)",
+   "reports": 2,
+   "latest_report_amount": 30000.0,
+   "latest_report": "305da7a9-0afe-4f39-8815-c22a378f0119",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "COLLEGE FOOTBALL PLAYOFF",
+   "display_name": "College Football Playoff",
+   "reports": 1,
+   "latest_report_amount": 30000.0,
+   "latest_report": "4c29e0d7-54ac-47d7-92ad-73686145bafc",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "DEPAUL UNIVERSITY",
+   "display_name": "Depaul University",
+   "reports": 1,
+   "latest_report_amount": 30000.0,
+   "latest_report": "7f3fd85e-4ccc-450e-858a-b2b6c5ced5b0",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "OHIO UNIVERSITY",
+   "display_name": "Ohio University",
+   "reports": 1,
+   "latest_report_amount": 30000.0,
+   "latest_report": "06ebf552-4d70-45f0-96d0-847621337950",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "UNIVERSITY OF MARYLAND",
+   "display_name": "University of Maryland",
+   "reports": 2,
+   "latest_report_amount": 27000.0,
+   "latest_report": "4267b797-975a-4ac1-80c3-4af64ae8e90b",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "MARQUETTE UNIVERSITY",
+   "display_name": "Marquette University",
+   "reports": 2,
+   "latest_report_amount": 20000.0,
+   "latest_report": "4ec107cc-9e0e-44d5-8885-8da805c2f39e",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "SOUTHERN METHODIST UNIVERSITY",
+   "display_name": "Southern Methodist University",
+   "reports": 2,
+   "latest_report_amount": 20000.0,
+   "latest_report": "b966e94a-205f-4c29-8713-b81edd3be446",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NATIONAL ATHLETIC TRAINERS ASSOCIATION",
+   "display_name": "National Athletic Trainers Association",
+   "reports": 5,
+   "latest_report_amount": 20000.0,
+   "latest_report": "d4429acc-20f8-43a8-9eba-b44e8bb3d116",
+   "pac_ids": [
+    "C00408518"
+   ],
+   "pac_names": [
+    "NATIONAL ATHLETIC TRAINERS' ASSOCIATION INC POLITICAL ACTION COMMITTEE"
+   ]
+  },
+  {
+   "client": "ASSOCIATION OF NATIONAL ADVERTISERS",
+   "display_name": "Association of National Advertisers",
+   "reports": 1,
+   "latest_report_amount": 20000.0,
+   "latest_report": "e9a95056-ce63-4731-916d-6a41d0f2eed8",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "STANFORD UNIVERSITY",
+   "display_name": "Stanford University",
+   "reports": 5,
+   "latest_report_amount": 20000.0,
+   "latest_report": "37c8a4b8-d67f-434a-a9d6-ff539c3ff8c9",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "UNIVERSITY OF NEVADA, LAS VEGAS",
+   "display_name": "University of Nevada, Las Vegas",
+   "reports": 1,
+   "latest_report_amount": 20000.0,
+   "latest_report": "70d7b65a-1177-426c-a5e1-6976e309d10f",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "UNIVERSITY OF NEVADA, RENO",
+   "display_name": "University of Nevada, Reno",
+   "reports": 1,
+   "latest_report_amount": 20000.0,
+   "latest_report": "8ce39a0a-e831-43e2-bad5-109db2d7b33a",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "CONCERNED WOMEN FOR AMERICA LEGISLATIVE ACTION COMMITTEE",
+   "display_name": "Concerned Women for America Legislative Action Committee",
+   "reports": 1,
+   "latest_report_amount": 15500.0,
+   "latest_report": "fb7fca0e-9838-4c54-a9dc-ef813ec8827e",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NATIONAL BASKETBALL PLAYERS ASSOCIATION",
+   "display_name": "National Basketball Players Association",
+   "reports": 3,
+   "latest_report_amount": 10000.0,
+   "latest_report": "084e4a14-cef9-4bcf-8736-aca5945e1aad",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NATIONAL FOOTBALL LEAGUE PLAYERS ASSOCIATION",
+   "display_name": "National Football League Players Association",
+   "reports": 2,
+   "latest_report_amount": 10000.0,
+   "latest_report": "125b82f4-7d8f-4894-b48f-07b12192931c",
+   "pac_ids": [
+    "C00619429"
+   ],
+   "pac_names": [
+    "NATIONAL FOOTBALL LEAGUE PLAYERS ASSOCIATION ONE TEAM PAC"
+   ]
+  },
+  {
+   "client": "NATIONAL HOCKEY LEAGUE PLAYERS ASSOCIATION",
+   "display_name": "National Hockey League Players Association",
+   "reports": 2,
+   "latest_report_amount": 10000.0,
+   "latest_report": "fa48c5c6-ae8f-4fd6-a71f-268df31e1ad8",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "MAJOR LEAGUE SOCCER PLAYERS ASSOCIATION",
+   "display_name": "Major League Soccer Players Association",
+   "reports": 2,
+   "latest_report_amount": 10000.0,
+   "latest_report": "32a32909-06fa-48fe-a5ec-4804e189169a",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "MAJOR LEAGUE BASEBALL PLAYERS ASSOCIATION",
+   "display_name": "Major League Baseball Players Association",
+   "reports": 1,
+   "latest_report_amount": 10000.0,
+   "latest_report": "d15c2b30-24ca-4cb6-8688-d3111a97ba5e",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "AMERICAN FOOTBALL COACHES ASSOCIATION",
+   "display_name": "American Football Coaches Association",
+   "reports": 4,
+   "latest_report_amount": 10000.0,
+   "latest_report": "178800ce-2967-49ac-9891-34c42c7d9e61",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "BOARD OF TRUSTEES OF EASTERN ILLINOIS UNIVERSITY",
+   "display_name": "Board of Trustees of Eastern Illinois University",
+   "reports": 2,
+   "latest_report_amount": 10000.0,
+   "latest_report": "d3597cb6-a2ef-4d00-8bd1-57a9a9157ebe",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NATIONAL HOCKEY LEAGUE",
+   "display_name": "National Hockey League",
+   "reports": 5,
+   "latest_report_amount": null,
+   "latest_report": "b9820740-6539-447b-ba5d-0d1cbba335ad",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "DEMAND PROGRESS ACTION",
+   "display_name": "Demand Progress Action",
+   "reports": 1,
+   "latest_report_amount": null,
+   "latest_report": "ed4ecb31-2fa6-4335-8908-eacb79472c77",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "FAMILY RESEARCH COUNCIL",
+   "display_name": "Family Research Council",
+   "reports": 1,
+   "latest_report_amount": null,
+   "latest_report": "f79e6779-6d80-4bce-bb92-a9bf7766752d",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "CLEMSON UNIVERSITY",
+   "display_name": "Clemson University",
+   "reports": 1,
+   "latest_report_amount": null,
+   "latest_report": "a8864493-69e7-400f-911f-b49de0226551",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NATIONAL ASSOCIATION FOR THE ADVANCEMENT OF COLORED PEOPLE",
+   "display_name": "National Association for the Advancement of Colored People",
+   "reports": 1,
+   "latest_report_amount": null,
+   "latest_report": "a4a2420a-1456-4e62-8b4a-820177e25c30",
+   "pac_ids": [],
+   "pac_names": []
+  }
+ ],
+ "groups_shown": [
+  {
+   "client": "AMAZON.COM SERVICES LLC",
+   "display_name": "Amazon",
+   "reports": 2,
+   "latest_report_amount": 4490000.0,
+   "latest_report": "f57759bc-7305-428e-83b4-7c4ce6195bbf",
+   "pac_ids": [
+    "C00360354"
+   ],
+   "pac_names": [
+    "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)"
+   ]
+  },
+  {
+   "client": "NATIONAL ASSOCIATION OF BROADCASTERS",
+   "display_name": "National Association of Broadcasters",
+   "reports": 2,
+   "latest_report_amount": 2700000.0,
+   "latest_report": "8a799cbb-419a-4952-9603-8ee95180d301",
+   "pac_ids": [
+    "C00009985"
+   ],
+   "pac_names": [
+    "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)"
+   ]
+  },
+  {
+   "client": "CHARTER COMMUNICATIONS INC",
+   "display_name": "Charter Communications",
+   "reports": 2,
+   "latest_report_amount": 2230000.0,
+   "latest_report": "4163eb0c-5ca7-489f-bbdb-5bf70f2ede92",
+   "pac_ids": [
+    "C00426775"
+   ],
+   "pac_names": [
+    "CHARTER COMMUNICATIONS INC. POLITICAL ACTION COMMITTEE"
+   ]
+  },
+  {
+   "client": "AFL-CIO",
+   "display_name": "AFL-CIO",
+   "reports": 2,
+   "latest_report_amount": 920000.0,
+   "latest_report": "81e8f17a-e7cc-456f-9c97-fd1429a14646",
+   "pac_ids": [
+    "C00003806"
+   ],
+   "pac_names": [
+    "AFL-CIO COPE POLITICAL CONTRIBUTIONS COMMITTEE"
+   ]
+  },
+  {
+   "client": "AMERICAN FEDERATION OF STATE COUNTY AND MUNICIPAL EMPLOYEES",
+   "display_name": "AFSCME",
+   "reports": 1,
+   "latest_report_amount": 570000.0,
+   "latest_report": "88653fa4-d87c-4e9e-be6b-638090c666f3",
+   "pac_ids": [
+    "C00011114"
+   ],
+   "pac_names": [
+    "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E"
+   ]
+  }
+ ],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "39ea8e70-93ef-47a9-ae7e-3179575499e4",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-06-25T15:23:47-04:00",
+   "amount": 60000.0,
+   "registrant": "UNIVERSITY OF KANSAS",
+   "client": "UNIVERSITY OF KANSAS",
+   "url": "https://lda.gov/filings/public/filing/39ea8e70-93ef-47a9-ae7e-3179575499e4/print/"
+  },
+  {
+   "filing_uuid": "1a756f4e-f2fe-4ecb-8d77-3fb3c82a3f3b",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-01T12:34:17-04:00",
+   "amount": 27000.0,
+   "registrant": "UNIVERSITY OF MARYLAND",
+   "client": "UNIVERSITY OF MARYLAND",
+   "url": "https://lda.gov/filings/public/filing/1a756f4e-f2fe-4ecb-8d77-3fb3c82a3f3b/print/"
+  },
+  {
+   "filing_uuid": "0ef6ae4c-cf8a-4432-9d5e-d560ea79b4dd",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-10T14:57:12-04:00",
+   "amount": 50000.0,
+   "registrant": "LEWIS-BURKE ASSOCIATES, LLC",
+   "client": "UNIVERSITY OF DENVER",
+   "url": "https://lda.gov/filings/public/filing/0ef6ae4c-cf8a-4432-9d5e-d560ea79b4dd/print/"
+  },
+  {
+   "filing_uuid": "71a936a3-8ae6-4f2c-a064-74f6c67b9243",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-14T15:05:06-04:00",
+   "amount": 20000.0,
+   "registrant": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+   "client": "NATIONAL HOCKEY LEAGUE",
+   "url": "https://lda.gov/filings/public/filing/71a936a3-8ae6-4f2c-a064-74f6c67b9243/print/"
+  },
+  {
+   "filing_uuid": "64f84212-5796-45af-9be9-a007a0445265",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-14T15:43:38-04:00",
+   "amount": 200000.0,
+   "registrant": "THE UNIVERSITY OF TENNESSEE",
+   "client": "THE UNIVERSITY OF TENNESSEE",
+   "url": "https://lda.gov/filings/public/filing/64f84212-5796-45af-9be9-a007a0445265/print/"
+  },
+  {
+   "filing_uuid": "08d275d5-bcc6-4b6e-80c2-23f870d877ce",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-15T09:39:31-04:00",
+   "amount": null,
+   "registrant": "JGB & ASSOCIATES, LLC",
+   "client": "NATIONAL HOCKEY LEAGUE",
+   "url": "https://lda.gov/filings/public/filing/08d275d5-bcc6-4b6e-80c2-23f870d877ce/print/"
+  },
+  {
+   "filing_uuid": "ce3bc689-f851-4bc4-8df7-d40fb569b099",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-16T10:04:18-04:00",
+   "amount": 80000.0,
+   "registrant": "DARTMOUTH COLLEGE",
+   "client": "DARTMOUTH COLLEGE",
+   "url": "https://lda.gov/filings/public/filing/ce3bc689-f851-4bc4-8df7-d40fb569b099/print/"
+  },
+  {
+   "filing_uuid": "4c12c9f5-dad5-43af-8d05-ca6f767d5fb4",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-16T16:51:20-04:00",
+   "amount": 90000.0,
+   "registrant": "BAYLOR UNIVERSITY",
+   "client": "BAYLOR UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/4c12c9f5-dad5-43af-8d05-ca6f767d5fb4/print/"
+  },
+  {
+   "filing_uuid": "984c6690-af8c-4829-a8b2-94f68959fb51",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T10:52:14-04:00",
+   "amount": 20000.0,
+   "registrant": "MARQUETTE UNIVERSITY",
+   "client": "MARQUETTE UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/984c6690-af8c-4829-a8b2-94f68959fb51/print/"
+  },
+  {
+   "filing_uuid": "cf438696-df86-41c3-89c6-dce73f196d65",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T12:01:59-04:00",
+   "amount": 50000.0,
+   "registrant": "WEST VIRGINIA UNIVERSITY",
+   "client": "WEST VIRGINIA UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/cf438696-df86-41c3-89c6-dce73f196d65/print/"
+  },
+  {
+   "filing_uuid": "72f0f339-027e-4fe7-91a8-7b4d9bfadaf4",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T13:03:59-04:00",
+   "amount": 91000.0,
+   "registrant": "NORTHWESTERN UNIV",
+   "client": "NORTHWESTERN UNIV",
+   "url": "https://lda.gov/filings/public/filing/72f0f339-027e-4fe7-91a8-7b4d9bfadaf4/print/"
+  },
+  {
+   "filing_uuid": "c01cbcc7-cf40-4ce2-8520-b55075042bc4",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T14:05:24-04:00",
+   "amount": 180000.0,
+   "registrant": "DLA PIPER LLP (US)",
+   "client": "ATLANTIC COAST CONFERENCE",
+   "url": "https://lda.gov/filings/public/filing/c01cbcc7-cf40-4ce2-8520-b55075042bc4/print/"
+  },
+  {
+   "filing_uuid": "ce40471d-b172-4add-b7a1-96daf0c1d983",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-18T10:07:16-04:00",
+   "amount": 20000.0,
+   "registrant": "JUDD LLC",
+   "client": "SAVING COLLEGE SPORTS",
+   "url": "https://lda.gov/filings/public/filing/ce40471d-b172-4add-b7a1-96daf0c1d983/print/"
+  },
+  {
+   "filing_uuid": "15faa9c7-cd8f-4292-89bc-c3d983173511",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T09:38:12-04:00",
+   "amount": 80000.0,
+   "registrant": "DLA PIPER LLP (US)",
+   "client": "DUKE UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/15faa9c7-cd8f-4292-89bc-c3d983173511/print/"
+  },
+  {
+   "filing_uuid": "08ca986f-3cb7-40c0-af55-02a2521d9918",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T09:45:55-04:00",
+   "amount": 90000.0,
+   "registrant": "DLA PIPER LLP (US)",
+   "client": "UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL",
+   "url": "https://lda.gov/filings/public/filing/08ca986f-3cb7-40c0-af55-02a2521d9918/print/"
+  },
+  {
+   "filing_uuid": "c705a992-e0e0-40df-ae67-210ac99d2c54",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T09:46:58-04:00",
+   "amount": 50000.0,
+   "registrant": "DLA PIPER LLP (US)",
+   "client": "WAKE FOREST UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/c705a992-e0e0-40df-ae67-210ac99d2c54/print/"
+  },
+  {
+   "filing_uuid": "731fbcca-34fd-4fa8-9a3e-2590f4090667",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T11:09:29-04:00",
+   "amount": 10000.0,
+   "registrant": "RESOLUTION PUBLIC AFFAIRS, LLC",
+   "client": "SAVING COLLEGE SPORTS",
+   "url": "https://lda.gov/filings/public/filing/731fbcca-34fd-4fa8-9a3e-2590f4090667/print/"
+  },
+  {
+   "filing_uuid": "98ca4ae4-cbcd-4332-89aa-4d7e0964c5fc",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T13:25:35-04:00",
+   "amount": 760000.0,
+   "registrant": "AFL-CIO",
+   "client": "AFL-CIO",
+   "url": "https://lda.gov/filings/public/filing/98ca4ae4-cbcd-4332-89aa-4d7e0964c5fc/print/"
+  },
+  {
+   "filing_uuid": "b0fd59dc-2ebd-4a07-a7db-027b42a961c3",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T13:28:14-04:00",
+   "amount": 210000.0,
+   "registrant": "VANDERBILT UNIVERSITY",
+   "client": "VANDERBILT UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/b0fd59dc-2ebd-4a07-a7db-027b42a961c3/print/"
+  },
+  {
+   "filing_uuid": "ff516c56-a1f5-4898-80e0-a518dc0dd5a3",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T13:40:39-04:00",
+   "amount": 20000.0,
+   "registrant": "SCHAERR JAFFE LLP",
+   "client": "SOUTHERN METHODIST UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/ff516c56-a1f5-4898-80e0-a518dc0dd5a3/print/"
+  },
+  {
+   "filing_uuid": "cf861450-ee99-47dc-a936-85cba6dce749",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T13:51:50-04:00",
+   "amount": 30000.0,
+   "registrant": "PHRONESISDC, LLC",
+   "client": "NATIONAL FOOTBALL LEAGUE",
+   "url": "https://lda.gov/filings/public/filing/cf861450-ee99-47dc-a936-85cba6dce749/print/"
+  },
+  {
+   "filing_uuid": "07ea1c93-2a5a-43ea-bc52-2417fa279e4a",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T14:28:14-04:00",
+   "amount": 2450000.0,
+   "registrant": "CHARTER COMMUNICATIONS, INC.",
+   "client": "CHARTER COMMUNICATIONS INC",
+   "url": "https://lda.gov/filings/public/filing/07ea1c93-2a5a-43ea-bc52-2417fa279e4a/print/"
+  },
+  {
+   "filing_uuid": "39ba13a1-3cb4-452b-a93c-d0612801cffb",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T14:34:25-04:00",
+   "amount": 130000.0,
+   "registrant": "KLEIN/JOHNSON GROUP",
+   "client": "SOUTHEASTERN CONFERENCE",
+   "url": "https://lda.gov/filings/public/filing/39ba13a1-3cb4-452b-a93c-d0612801cffb/print/"
+  },
+  {
+   "filing_uuid": "a12ecfbe-8920-40a5-8720-b74c4f5bf8f3",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T14:59:05-04:00",
+   "amount": 50000.0,
+   "registrant": "UNIVERSITY OF ILLINOIS",
+   "client": "UNIVERSITY OF ILLINOIS",
+   "url": "https://lda.gov/filings/public/filing/a12ecfbe-8920-40a5-8720-b74c4f5bf8f3/print/"
+  },
+  {
+   "filing_uuid": "aa041bcd-b7f4-484e-9159-8b1e78bf6fc1",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T15:19:56-04:00",
+   "amount": 60000.0,
+   "registrant": "WOODBERRY ASSOCIATES",
+   "client": "COLORADO STATE UNIVERSITY FOUNDATION",
+   "url": "https://lda.gov/filings/public/filing/aa041bcd-b7f4-484e-9159-8b1e78bf6fc1/print/"
+  },
+  {
+   "filing_uuid": "6850dc47-27d1-4a27-82ff-c600a782ebf0",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T16:20:39-04:00",
+   "amount": 89454.0,
+   "registrant": "THE OHIO STATE UNIVERSITY",
+   "client": "THE OHIO STATE UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/6850dc47-27d1-4a27-82ff-c600a782ebf0/print/"
+  },
+  {
+   "filing_uuid": "76bb729f-35cd-407f-afc0-3ef66042ad78",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T16:35:35-04:00",
+   "amount": 1390000.0,
+   "registrant": "ENTERTAINMENT SOFTWARE ASSOCIATION",
+   "client": "ENTERTAINMENT SOFTWARE ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/76bb729f-35cd-407f-afc0-3ef66042ad78/print/"
+  },
+  {
+   "filing_uuid": "a24aede2-fd6c-4e8b-8f48-a752fd800691",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T16:55:55-04:00",
+   "amount": 60000.0,
+   "registrant": "RESOLUTION PUBLIC AFFAIRS, LLC",
+   "client": "KALSHI",
+   "url": "https://lda.gov/filings/public/filing/a24aede2-fd6c-4e8b-8f48-a752fd800691/print/"
+  },
+  {
+   "filing_uuid": "10119e1b-77e7-4537-ab88-f4ecb8439048",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T17:18:03-04:00",
+   "amount": 4360000.0,
+   "registrant": "AMAZON.COM SERVICES LLC",
+   "client": "AMAZON.COM SERVICES LLC",
+   "url": "https://lda.gov/filings/public/filing/10119e1b-77e7-4537-ab88-f4ecb8439048/print/"
+  },
+  {
+   "filing_uuid": "3427aba5-36f9-4fbc-b404-96c2e1c04f3e",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T17:33:04-04:00",
+   "amount": 55000.0,
+   "registrant": "UNIVERSITY OF OREGON",
+   "client": "UNIVERSITY OF OREGON",
+   "url": "https://lda.gov/filings/public/filing/3427aba5-36f9-4fbc-b404-96c2e1c04f3e/print/"
+  },
+  {
+   "filing_uuid": "ca542380-c8b4-4386-b28c-89d19714cd0d",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T17:35:52-04:00",
+   "amount": 80000.0,
+   "registrant": "RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY",
+   "client": "RUTGERS THE STATE UNIVERSITY OF NEW JERSEY",
+   "url": "https://lda.gov/filings/public/filing/ca542380-c8b4-4386-b28c-89d19714cd0d/print/"
+  },
+  {
+   "filing_uuid": "bca01ac5-363d-4df8-adab-921bbb603763",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T18:59:54-04:00",
+   "amount": 840000.0,
+   "registrant": "UNIVERSITY OF CALIFORNIA",
+   "client": "UNIVERSITY OF CALIFORNIA",
+   "url": "https://lda.gov/filings/public/filing/bca01ac5-363d-4df8-adab-921bbb603763/print/"
+  },
+  {
+   "filing_uuid": "dd3f5a01-558b-42f0-b700-69c853a12f87",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T19:39:00-04:00",
+   "amount": 70000.0,
+   "registrant": "NATIONAL ASSN OF INDEPENDENT COLLEGES & UNIVERSITIES",
+   "client": "NATIONAL ASSN OF INDEPENDENT COLLEGES & UNIVERSITIES",
+   "url": "https://lda.gov/filings/public/filing/dd3f5a01-558b-42f0-b700-69c853a12f87/print/"
+  },
+  {
+   "filing_uuid": "2b1b7f22-b5f2-4efe-876e-93b99af59e0f",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T21:17:22-04:00",
+   "amount": 10000.0,
+   "registrant": "ELEVATE GOVERNMENT AFFAIRS, LLC",
+   "client": "NATIONAL BASKETBALL PLAYERS ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/2b1b7f22-b5f2-4efe-876e-93b99af59e0f/print/"
+  },
+  {
+   "filing_uuid": "2e9cbfde-f776-4d15-be5e-ef67818d1e86",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T21:19:14-04:00",
+   "amount": 10000.0,
+   "registrant": "ELEVATE GOVERNMENT AFFAIRS, LLC",
+   "client": "NATIONAL FOOTBALL LEAGUE PLAYERS ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/2e9cbfde-f776-4d15-be5e-ef67818d1e86/print/"
+  },
+  {
+   "filing_uuid": "84026d39-6f44-45de-a992-fabf4b38acf7",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T21:29:19-04:00",
+   "amount": 10000.0,
+   "registrant": "ELEVATE GOVERNMENT AFFAIRS, LLC",
+   "client": "NATIONAL HOCKEY LEAGUE PLAYERS ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/84026d39-6f44-45de-a992-fabf4b38acf7/print/"
+  },
+  {
+   "filing_uuid": "f84c1041-5e53-4038-a477-d3acdea71474",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T21:33:28-04:00",
+   "amount": 10000.0,
+   "registrant": "ELEVATE GOVERNMENT AFFAIRS, LLC",
+   "client": "MAJOR LEAGUE SOCCER PLAYERS ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/f84c1041-5e53-4038-a477-d3acdea71474/print/"
+  },
+  {
+   "filing_uuid": "6bf9067d-c841-44b3-a644-524a2c45bc55",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T22:03:10-04:00",
+   "amount": 1520000.0,
+   "registrant": "PARAMOUNT SKYDANCE CORPORATION",
+   "client": "PARAMOUNT SKYDANCE CORPORATION",
+   "url": "https://lda.gov/filings/public/filing/6bf9067d-c841-44b3-a644-524a2c45bc55/print/"
+  },
+  {
+   "filing_uuid": "72837ccc-77f9-45fe-baff-7f61a27d1f24",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-23T09:06:48-04:00",
+   "amount": 30000.0,
+   "registrant": "CUNEO GILBERT & LADUCA",
+   "client": "COMMITTEE TO SUPPORT THE ANTITRUST LAWS",
+   "url": "https://lda.gov/filings/public/filing/72837ccc-77f9-45fe-baff-7f61a27d1f24/print/"
+  },
+  {
+   "filing_uuid": "0cfcdd28-cfe4-46cf-8419-c2ca699eaadb",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-23T09:08:01-04:00",
+   "amount": 30000.0,
+   "registrant": "CUNEO GILBERT & LADUCA",
+   "client": "AMERICAN ASSOCIATION FOR JUSTICE",
+   "url": "https://lda.gov/filings/public/filing/0cfcdd28-cfe4-46cf-8419-c2ca699eaadb/print/"
+  },
+  {
+   "filing_uuid": "c81a8477-5c60-45c2-9189-0a01e68e6165",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-08-27T18:49:55-04:00",
+   "amount": 125000.0,
+   "registrant": "NATIONAL ASSN OF INDEPENDENT COLLEGES & UNIVERSITIES",
+   "client": "NATIONAL ASSN OF INDEPENDENT COLLEGES & UNIVERSITIES",
+   "url": "https://lda.gov/filings/public/filing/c81a8477-5c60-45c2-9189-0a01e68e6165/print/"
+  },
+  {
+   "filing_uuid": "ed4ecb31-2fa6-4335-8908-eacb79472c77",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-03T07:44:19-04:00",
+   "amount": null,
+   "registrant": "KATHERINE OH",
+   "client": "DEMAND PROGRESS ACTION",
+   "url": "https://lda.gov/filings/public/filing/ed4ecb31-2fa6-4335-8908-eacb79472c77/print/"
+  },
+  {
+   "filing_uuid": "c9b89fa0-25dc-4c37-a749-6eb8daa74eda",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-05T14:40:24-04:00",
+   "amount": 60000.0,
+   "registrant": "UNIVERSITY OF KANSAS",
+   "client": "UNIVERSITY OF KANSAS",
+   "url": "https://lda.gov/filings/public/filing/c9b89fa0-25dc-4c37-a749-6eb8daa74eda/print/"
+  },
+  {
+   "filing_uuid": "4ec107cc-9e0e-44d5-8885-8da805c2f39e",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-14T11:23:13-04:00",
+   "amount": 20000.0,
+   "registrant": "MARQUETTE UNIVERSITY",
+   "client": "MARQUETTE UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/4ec107cc-9e0e-44d5-8885-8da805c2f39e/print/"
+  },
+  {
+   "filing_uuid": "992dc11b-9d93-43e9-af45-6daa74047650",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-14T11:30:23-04:00",
+   "amount": 30000.0,
+   "registrant": "VENABLE LLP",
+   "client": "NATIONAL ATHLETIC TRAINERS ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/992dc11b-9d93-43e9-af45-6daa74047650/print/"
+  },
+  {
+   "filing_uuid": "7a4d9126-4caa-422c-a641-f80949b2c451",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-14T12:37:08-04:00",
+   "amount": 170000.0,
+   "registrant": "THE UNIVERSITY OF TENNESSEE",
+   "client": "THE UNIVERSITY OF TENNESSEE",
+   "url": "https://lda.gov/filings/public/filing/7a4d9126-4caa-422c-a641-f80949b2c451/print/"
+  },
+  {
+   "filing_uuid": "a0d184ce-0d53-4049-bf50-48c32ac924c9",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-14T16:17:43-04:00",
+   "amount": 50000.0,
+   "registrant": "LEWIS-BURKE ASSOCIATES, LLC",
+   "client": "UNIVERSITY OF DENVER",
+   "url": "https://lda.gov/filings/public/filing/a0d184ce-0d53-4049-bf50-48c32ac924c9/print/"
+  },
+  {
+   "filing_uuid": "a3454b05-bf89-4690-8e5a-c2b94ef9b028",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-14T17:21:19-04:00",
+   "amount": 80000.0,
+   "registrant": "DARTMOUTH COLLEGE",
+   "client": "DARTMOUTH COLLEGE",
+   "url": "https://lda.gov/filings/public/filing/a3454b05-bf89-4690-8e5a-c2b94ef9b028/print/"
+  },
+  {
+   "filing_uuid": "f79e6779-6d80-4bce-bb92-a9bf7766752d",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-15T13:59:02-04:00",
+   "amount": null,
+   "registrant": "FAMILY RESEARCH COUNCIL",
+   "client": "FAMILY RESEARCH COUNCIL",
+   "url": "https://lda.gov/filings/public/filing/f79e6779-6d80-4bce-bb92-a9bf7766752d/print/"
+  },
+  {
+   "filing_uuid": "e5cee01c-b8f0-445c-b2e9-bed6b941ef96",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-15T14:58:35-04:00",
+   "amount": 180000.0,
+   "registrant": "SQUIRE PATTON BOGGS",
+   "client": "KALSHI INC.",
+   "url": "https://lda.gov/filings/public/filing/e5cee01c-b8f0-445c-b2e9-bed6b941ef96/print/"
+  },
+  {
+   "filing_uuid": "edce80b7-8135-4a3a-a9da-6522fca3ef3f",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-15T16:17:56-04:00",
+   "amount": 60000.0,
+   "registrant": "BOSTON UNIVERSITY",
+   "client": "BOSTON UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/edce80b7-8135-4a3a-a9da-6522fca3ef3f/print/"
+  },
+  {
+   "filing_uuid": "ecc5da7a-a398-48c1-88f9-d9df200c3d1a",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-16T15:48:59-04:00",
+   "amount": 91000.0,
+   "registrant": "NORTHWESTERN UNIV",
+   "client": "NORTHWESTERN UNIV",
+   "url": "https://lda.gov/filings/public/filing/ecc5da7a-a398-48c1-88f9-d9df200c3d1a/print/"
+  },
+  {
+   "filing_uuid": "b40166d4-e374-4a92-8185-23a28e7d97f0",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-16T15:50:22-04:00",
+   "amount": 135000.0,
+   "registrant": "NORTHWESTERN UNIV",
+   "client": "NORTHWESTERN UNIV",
+   "url": "https://lda.gov/filings/public/filing/b40166d4-e374-4a92-8185-23a28e7d97f0/print/"
+  },
+  {
+   "filing_uuid": "83c0c048-7b06-4f36-815c-ff0d8ff56681",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-16T17:55:39-04:00",
+   "amount": 70000.0,
+   "registrant": "HERITAGE ACTION FOR AMERICA",
+   "client": "HERITAGE ACTION FOR AMERICA",
+   "url": "https://lda.gov/filings/public/filing/83c0c048-7b06-4f36-815c-ff0d8ff56681/print/"
+  },
+  {
+   "filing_uuid": "bb95644c-11ea-4b25-b13a-15f77c1640a1",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-16T23:44:04-04:00",
+   "amount": 50000.0,
+   "registrant": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+   "client": "NATIONAL HOCKEY LEAGUE",
+   "url": "https://lda.gov/filings/public/filing/bb95644c-11ea-4b25-b13a-15f77c1640a1/print/"
+  },
+  {
+   "filing_uuid": "ba508900-99e7-466f-9603-47c61e3b7659",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T10:39:21-04:00",
+   "amount": 201000.0,
+   "registrant": "DUKE UNIVERSITY",
+   "client": "DUKE UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/ba508900-99e7-466f-9603-47c61e3b7659/print/"
+  },
+  {
+   "filing_uuid": "bdfbc59f-c607-46ac-8aa2-98f14cf2d7c1",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T11:08:33-04:00",
+   "amount": 201000.0,
+   "registrant": "DUKE UNIVERSITY",
+   "client": "DUKE UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/bdfbc59f-c607-46ac-8aa2-98f14cf2d7c1/print/"
+  },
+  {
+   "filing_uuid": "a8927212-02c9-4163-8b57-4438432915c7",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T13:03:05-04:00",
+   "amount": 60000.0,
+   "registrant": "WEST VIRGINIA UNIVERSITY",
+   "client": "WEST VIRGINIA UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/a8927212-02c9-4163-8b57-4438432915c7/print/"
+  },
+  {
+   "filing_uuid": "88653fa4-d87c-4e9e-be6b-638090c666f3",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T15:07:31-04:00",
+   "amount": 570000.0,
+   "registrant": "AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES",
+   "client": "AMERICAN FEDERATION OF STATE COUNTY AND MUNICIPAL EMPLOYEES",
+   "url": "https://lda.gov/filings/public/filing/88653fa4-d87c-4e9e-be6b-638090c666f3/print/"
+  },
+  {
+   "filing_uuid": "bba98c91-07c0-42fd-9520-a49f083ecdef",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T16:16:31-04:00",
+   "amount": 200000.0,
+   "registrant": "HARVARD UNIVERSITY--PRESIDENT AND FELLOWS OF HARVARD COLLEGE",
+   "client": "HARVARD UNIVERSITY--PRESIDENT AND FELLOWS OF HARVARD COLLEGE",
+   "url": "https://lda.gov/filings/public/filing/bba98c91-07c0-42fd-9520-a49f083ecdef/print/"
+  },
+  {
+   "filing_uuid": "b966e94a-205f-4c29-8713-b81edd3be446",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T16:37:54-04:00",
+   "amount": 20000.0,
+   "registrant": "SCHAERR JAFFE LLP",
+   "client": "SOUTHERN METHODIST UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/b966e94a-205f-4c29-8713-b81edd3be446/print/"
+  },
+  {
+   "filing_uuid": "47c1e6c9-56a9-4d97-84bb-8b4ab27ea6d9",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T17:09:30-04:00",
+   "amount": 60000.0,
+   "registrant": "UNIVERSITY OF SOUTH FLORIDA",
+   "client": "UNIVERSITY OF SOUTH FLORIDA",
+   "url": "https://lda.gov/filings/public/filing/47c1e6c9-56a9-4d97-84bb-8b4ab27ea6d9/print/"
+  },
+  {
+   "filing_uuid": "a1ccd7bf-26d5-4509-a3f5-4402299e7f63",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T19:46:51-04:00",
+   "amount": 310000.0,
+   "registrant": "SERVICE EMPLOYEES INTERNATIONAL UNION CTW-CLC",
+   "client": "SERVICE EMPLOYEES INTERNATIONAL UNION CTW-CLC",
+   "url": "https://lda.gov/filings/public/filing/a1ccd7bf-26d5-4509-a3f5-4402299e7f63/print/"
+  },
+  {
+   "filing_uuid": "e9a95056-ce63-4731-916d-6a41d0f2eed8",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T20:02:04-04:00",
+   "amount": 20000.0,
+   "registrant": "LAW OFFICES OF KEVIN G. CURTIN",
+   "client": "ASSOCIATION OF NATIONAL ADVERTISERS",
+   "url": "https://lda.gov/filings/public/filing/e9a95056-ce63-4731-916d-6a41d0f2eed8/print/"
+  },
+  {
+   "filing_uuid": "4267b797-975a-4ac1-80c3-4af64ae8e90b",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T08:22:31-04:00",
+   "amount": 27000.0,
+   "registrant": "UNIVERSITY OF MARYLAND",
+   "client": "UNIVERSITY OF MARYLAND",
+   "url": "https://lda.gov/filings/public/filing/4267b797-975a-4ac1-80c3-4af64ae8e90b/print/"
+  },
+  {
+   "filing_uuid": "d91c7a93-8879-49ac-98db-bd5592689ecc",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T09:01:00-04:00",
+   "amount": 30000.0,
+   "registrant": "CUNEO GILBERT & LADUCA",
+   "client": "COMMITTEE TO SUPPORT THE ANTITRUST LAWS",
+   "url": "https://lda.gov/filings/public/filing/d91c7a93-8879-49ac-98db-bd5592689ecc/print/"
+  },
+  {
+   "filing_uuid": "1cdaecde-2b13-409c-a292-e5e7b7a0bda4",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T09:05:11-04:00",
+   "amount": 30000.0,
+   "registrant": "CUNEO GILBERT & LADUCA",
+   "client": "AMERICAN ASSOCIATION FOR JUSTICE",
+   "url": "https://lda.gov/filings/public/filing/1cdaecde-2b13-409c-a292-e5e7b7a0bda4/print/"
+  },
+  {
+   "filing_uuid": "23533c48-01a3-4828-9247-90955afd9660",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T10:17:33-04:00",
+   "amount": 180000.0,
+   "registrant": "DLA PIPER LLP (US)",
+   "client": "ATLANTIC COAST CONFERENCE",
+   "url": "https://lda.gov/filings/public/filing/23533c48-01a3-4828-9247-90955afd9660/print/"
+  },
+  {
+   "filing_uuid": "ba92f406-03f5-4531-b850-066e40a032df",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T10:19:12-04:00",
+   "amount": 80000.0,
+   "registrant": "DLA PIPER LLP (US)",
+   "client": "DUKE UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/ba92f406-03f5-4531-b850-066e40a032df/print/"
+  },
+  {
+   "filing_uuid": "161aa96a-261a-482d-8365-d5fbdb85b29a",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T10:21:26-04:00",
+   "amount": 40000.0,
+   "registrant": "AKIN GUMP STRAUSS HAUER & FELD",
+   "client": "STANFORD UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/161aa96a-261a-482d-8365-d5fbdb85b29a/print/"
+  },
+  {
+   "filing_uuid": "44290669-a088-4383-b524-c0d755f735a3",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T10:56:51-04:00",
+   "amount": 80000.0,
+   "registrant": "MICHAEL BEST STRATEGIES LLC",
+   "client": "BIG TEN CONFERENCE",
+   "url": "https://lda.gov/filings/public/filing/44290669-a088-4383-b524-c0d755f735a3/print/"
+  },
+  {
+   "filing_uuid": "5a643c63-4ce4-4319-8a66-b63d4a56dcd3",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T11:17:40-04:00",
+   "amount": 20000.0,
+   "registrant": "JUDD LLC",
+   "client": "SAVING COLLEGE SPORTS",
+   "url": "https://lda.gov/filings/public/filing/5a643c63-4ce4-4319-8a66-b63d4a56dcd3/print/"
+  },
+  {
+   "filing_uuid": "81e8f17a-e7cc-456f-9c97-fd1429a14646",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T11:31:34-04:00",
+   "amount": 920000.0,
+   "registrant": "AFL-CIO",
+   "client": "AFL-CIO",
+   "url": "https://lda.gov/filings/public/filing/81e8f17a-e7cc-456f-9c97-fd1429a14646/print/"
+  },
+  {
+   "filing_uuid": "ed978166-4a6a-41a2-9bce-a008b2dc5810",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T11:31:44-04:00",
+   "amount": 90000.0,
+   "registrant": "BAYLOR UNIVERSITY",
+   "client": "BAYLOR UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/ed978166-4a6a-41a2-9bce-a008b2dc5810/print/"
+  },
+  {
+   "filing_uuid": "e75186e7-57c7-4da0-b74d-91d7ea900606",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T11:51:19-04:00",
+   "amount": 60000.0,
+   "registrant": "WOODBERRY ASSOCIATES",
+   "client": "COLORADO STATE UNIVERSITY FOUNDATION",
+   "url": "https://lda.gov/filings/public/filing/e75186e7-57c7-4da0-b74d-91d7ea900606/print/"
+  },
+  {
+   "filing_uuid": "68860f95-7b98-416a-a898-f36e8039fd68",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T11:56:41-04:00",
+   "amount": 140000.0,
+   "registrant": "UNIVERSITY OF ILLINOIS",
+   "client": "UNIVERSITY OF ILLINOIS",
+   "url": "https://lda.gov/filings/public/filing/68860f95-7b98-416a-a898-f36e8039fd68/print/"
+  },
+  {
+   "filing_uuid": "7547415f-da4a-424c-8036-a331155d0a3c",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T12:02:19-04:00",
+   "amount": 40000.0,
+   "registrant": "RIDGELINE ADVOCACY GROUP LLC",
+   "client": "BLACK MOUNTAIN LAND COMPANY LP",
+   "url": "https://lda.gov/filings/public/filing/7547415f-da4a-424c-8036-a331155d0a3c/print/"
+  },
+  {
+   "filing_uuid": "002c79b2-d51a-4f31-9b96-7165ca2bf9cb",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T12:13:56-04:00",
+   "amount": 50000.0,
+   "registrant": "DLA PIPER LLP (US)",
+   "client": "WAKE FOREST UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/002c79b2-d51a-4f31-9b96-7165ca2bf9cb/print/"
+  },
+  {
+   "filing_uuid": "4163eb0c-5ca7-489f-bbdb-5bf70f2ede92",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T13:17:52-04:00",
+   "amount": 2230000.0,
+   "registrant": "CHARTER COMMUNICATIONS, INC.",
+   "client": "CHARTER COMMUNICATIONS INC",
+   "url": "https://lda.gov/filings/public/filing/4163eb0c-5ca7-489f-bbdb-5bf70f2ede92/print/"
+  },
+  {
+   "filing_uuid": "62aac7ec-cb20-475b-89ca-38a0a33aceb9",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T14:08:36-04:00",
+   "amount": 70000.0,
+   "registrant": "RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY",
+   "client": "RUTGERS THE STATE UNIVERSITY OF NEW JERSEY",
+   "url": "https://lda.gov/filings/public/filing/62aac7ec-cb20-475b-89ca-38a0a33aceb9/print/"
+  },
+  {
+   "filing_uuid": "0e7743dd-30e4-4bb7-ae9f-38da2ce1192c",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T14:35:33-04:00",
+   "amount": 200000.0,
+   "registrant": "KLEIN/JOHNSON GROUP",
+   "client": "SOUTHEASTERN CONFERENCE",
+   "url": "https://lda.gov/filings/public/filing/0e7743dd-30e4-4bb7-ae9f-38da2ce1192c/print/"
+  },
+  {
+   "filing_uuid": "3632e6d9-f8a6-4426-a4e0-32c442836f95",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T15:01:03-04:00",
+   "amount": 220000.0,
+   "registrant": "CORNELL UNIVERSITY",
+   "client": "CORNELL UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/3632e6d9-f8a6-4426-a4e0-32c442836f95/print/"
+  },
+  {
+   "filing_uuid": "8a799cbb-419a-4952-9603-8ee95180d301",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T15:20:55-04:00",
+   "amount": 2700000.0,
+   "registrant": "NATIONAL ASSOCIATION OF BROADCASTERS",
+   "client": "NATIONAL ASSOCIATION OF BROADCASTERS",
+   "url": "https://lda.gov/filings/public/filing/8a799cbb-419a-4952-9603-8ee95180d301/print/"
+  },
+  {
+   "filing_uuid": "fb9db96c-e69b-477e-9591-3643beba40cd",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T15:59:48-04:00",
+   "amount": 90000.0,
+   "registrant": "RESOLUTION PUBLIC AFFAIRS, LLC",
+   "client": "SAVING COLLEGE SPORTS",
+   "url": "https://lda.gov/filings/public/filing/fb9db96c-e69b-477e-9591-3643beba40cd/print/"
+  },
+  {
+   "filing_uuid": "7a5dcf15-5f76-455a-babb-d1da8d447d7b",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T16:23:29-04:00",
+   "amount": 250000.0,
+   "registrant": "UNIVERSITY OF CALIFORNIA",
+   "client": "UNIVERSITY OF CALIFORNIA",
+   "url": "https://lda.gov/filings/public/filing/7a5dcf15-5f76-455a-babb-d1da8d447d7b/print/"
+  },
+  {
+   "filing_uuid": "178dd40d-1878-4346-a7eb-721c27ba4c1a",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T16:29:47-04:00",
+   "amount": 90000.0,
+   "registrant": "DLA PIPER LLP (US)",
+   "client": "UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL",
+   "url": "https://lda.gov/filings/public/filing/178dd40d-1878-4346-a7eb-721c27ba4c1a/print/"
+  },
+  {
+   "filing_uuid": "d75299ce-124f-430e-ade8-52130d1af3b8",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T16:31:07-04:00",
+   "amount": 1370000.0,
+   "registrant": "ENTERTAINMENT SOFTWARE ASSOCIATION",
+   "client": "ENTERTAINMENT SOFTWARE ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/d75299ce-124f-430e-ade8-52130d1af3b8/print/"
+  },
+  {
+   "filing_uuid": "7efa7657-8037-4fec-9fb3-f04d720f2d44",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T16:51:16-04:00",
+   "amount": 90115.0,
+   "registrant": "THE OHIO STATE UNIVERSITY",
+   "client": "THE OHIO STATE UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/7efa7657-8037-4fec-9fb3-f04d720f2d44/print/"
+  },
+  {
+   "filing_uuid": "f57759bc-7305-428e-83b4-7c4ce6195bbf",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T17:24:14-04:00",
+   "amount": 4490000.0,
+   "registrant": "AMAZON.COM SERVICES LLC",
+   "client": "AMAZON.COM SERVICES LLC",
+   "url": "https://lda.gov/filings/public/filing/f57759bc-7305-428e-83b4-7c4ce6195bbf/print/"
+  },
+  {
+   "filing_uuid": "46486f29-cafd-4ebf-8f55-65487521cec9",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T17:29:08-04:00",
+   "amount": 800000.0,
+   "registrant": "KALSHI INC.",
+   "client": "KALSHI INC.",
+   "url": "https://lda.gov/filings/public/filing/46486f29-cafd-4ebf-8f55-65487521cec9/print/"
+  },
+  {
+   "filing_uuid": "8dd7c960-a130-42f1-9620-e7052e387ac2",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T17:44:23-04:00",
+   "amount": 150000.0,
+   "registrant": "NATIONAL HOCKEY LEAGUE",
+   "client": "NATIONAL HOCKEY LEAGUE",
+   "url": "https://lda.gov/filings/public/filing/8dd7c960-a130-42f1-9620-e7052e387ac2/print/"
+  },
+  {
+   "filing_uuid": "0707c516-1b5c-4b32-8dca-af2c57d2752d",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T18:06:43-04:00",
+   "amount": 70000.0,
+   "registrant": "NATIONAL ASSN OF INDEPENDENT COLLEGES & UNIVERSITIES",
+   "client": "NATIONAL ASSN OF INDEPENDENT COLLEGES & UNIVERSITIES",
+   "url": "https://lda.gov/filings/public/filing/0707c516-1b5c-4b32-8dca-af2c57d2752d/print/"
+  },
+  {
+   "filing_uuid": "6045e588-26e4-45a0-a7ad-546700be281d",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T18:14:08-04:00",
+   "amount": 1970000.0,
+   "registrant": "PARAMOUNT SKYDANCE CORPORATION",
+   "client": "PARAMOUNT SKYDANCE CORPORATION",
+   "url": "https://lda.gov/filings/public/filing/6045e588-26e4-45a0-a7ad-546700be281d/print/"
+  },
+  {
+   "filing_uuid": "2327a48d-4e23-44e7-a3bc-79848a1bbd31",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-10-20T18:15:51-04:00",
+   "amount": 1860000.0,
+   "registrant": "PARAMOUNT SKYDANCE CORPORATION",
+   "client": "PARAMOUNT SKYDANCE CORPORATION",
+   "url": "https://lda.gov/filings/public/filing/2327a48d-4e23-44e7-a3bc-79848a1bbd31/print/"
+  },
+  {
+   "filing_uuid": "1a412611-b798-492b-b354-b6d47e608790",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T18:44:45-04:00",
+   "amount": 55000.0,
+   "registrant": "UNIVERSITY OF OREGON",
+   "client": "UNIVERSITY OF OREGON",
+   "url": "https://lda.gov/filings/public/filing/1a412611-b798-492b-b354-b6d47e608790/print/"
+  },
+  {
+   "filing_uuid": "e942e275-1365-467a-b8b0-ef00514dff95",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T19:40:41-04:00",
+   "amount": 80000.0,
+   "registrant": "MICHAEL BEST STRATEGIES LLC",
+   "client": "UNIVERSITY OF COLORADO",
+   "url": "https://lda.gov/filings/public/filing/e942e275-1365-467a-b8b0-ef00514dff95/print/"
+  },
+  {
+   "filing_uuid": "90a51052-99b1-4f28-8d99-f296e31fec15",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T19:42:43-04:00",
+   "amount": 80000.0,
+   "registrant": "MICHAEL BEST STRATEGIES LLC",
+   "client": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+   "url": "https://lda.gov/filings/public/filing/90a51052-99b1-4f28-8d99-f296e31fec15/print/"
+  },
+  {
+   "filing_uuid": "d15c2b30-24ca-4cb6-8688-d3111a97ba5e",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T19:46:14-04:00",
+   "amount": 10000.0,
+   "registrant": "ELEVATE GOVERNMENT AFFAIRS, LLC",
+   "client": "MAJOR LEAGUE BASEBALL PLAYERS ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/d15c2b30-24ca-4cb6-8688-d3111a97ba5e/print/"
+  },
+  {
+   "filing_uuid": "26d32e6e-f9a3-4a03-82c8-ef9409b3c2e5",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T19:47:02-04:00",
+   "amount": 10000.0,
+   "registrant": "ELEVATE GOVERNMENT AFFAIRS, LLC",
+   "client": "NATIONAL BASKETBALL PLAYERS ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/26d32e6e-f9a3-4a03-82c8-ef9409b3c2e5/print/"
+  },
+  {
+   "filing_uuid": "084e4a14-cef9-4bcf-8736-aca5945e1aad",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T20:02:42-04:00",
+   "amount": 10000.0,
+   "registrant": "ELEVATE GOVERNMENT AFFAIRS, LLC",
+   "client": "NATIONAL BASKETBALL PLAYERS ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/084e4a14-cef9-4bcf-8736-aca5945e1aad/print/"
+  },
+  {
+   "filing_uuid": "125b82f4-7d8f-4894-b48f-07b12192931c",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T20:03:24-04:00",
+   "amount": 10000.0,
+   "registrant": "ELEVATE GOVERNMENT AFFAIRS, LLC",
+   "client": "NATIONAL FOOTBALL LEAGUE PLAYERS ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/125b82f4-7d8f-4894-b48f-07b12192931c/print/"
+  },
+  {
+   "filing_uuid": "fa48c5c6-ae8f-4fd6-a71f-268df31e1ad8",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T20:04:10-04:00",
+   "amount": 10000.0,
+   "registrant": "ELEVATE GOVERNMENT AFFAIRS, LLC",
+   "client": "NATIONAL HOCKEY LEAGUE PLAYERS ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/fa48c5c6-ae8f-4fd6-a71f-268df31e1ad8/print/"
+  },
+  {
+   "filing_uuid": "32a32909-06fa-48fe-a5ec-4804e189169a",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T20:04:49-04:00",
+   "amount": 10000.0,
+   "registrant": "ELEVATE GOVERNMENT AFFAIRS, LLC",
+   "client": "MAJOR LEAGUE SOCCER PLAYERS ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/32a32909-06fa-48fe-a5ec-4804e189169a/print/"
+  },
+  {
+   "filing_uuid": "b9820740-6539-447b-ba5d-0d1cbba335ad",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T20:51:10-04:00",
+   "amount": null,
+   "registrant": "JGB & ASSOCIATES, LLC",
+   "client": "NATIONAL HOCKEY LEAGUE",
+   "url": "https://lda.gov/filings/public/filing/b9820740-6539-447b-ba5d-0d1cbba335ad/print/"
+  },
+  {
+   "filing_uuid": "82cd111a-604d-46a2-b836-a1f90135f1bd",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T21:42:10-04:00",
+   "amount": 30000.0,
+   "registrant": "PHRONESISDC, LLC",
+   "client": "NATIONAL FOOTBALL LEAGUE",
+   "url": "https://lda.gov/filings/public/filing/82cd111a-604d-46a2-b836-a1f90135f1bd/print/"
+  },
+  {
+   "filing_uuid": "83e8e700-5331-4c02-b975-9640927cf57a",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T21:44:20-04:00",
+   "amount": 240000.0,
+   "registrant": "VANDERBILT UNIVERSITY",
+   "client": "VANDERBILT UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/83e8e700-5331-4c02-b975-9640927cf57a/print/"
+  },
+  {
+   "filing_uuid": "bc4dd363-24e8-4ede-88d0-ac9575e89987",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-10-27T12:20:22-04:00",
+   "amount": 120000.0,
+   "registrant": "UNIVERSITY OF ILLINOIS",
+   "client": "UNIVERSITY OF ILLINOIS",
+   "url": "https://lda.gov/filings/public/filing/bc4dd363-24e8-4ede-88d0-ac9575e89987/print/"
+  },
+  {
+   "filing_uuid": "b4bb7aa7-c2df-473e-b9a0-2970e99b59a1",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-27T12:23:23-04:00",
+   "amount": 140000.0,
+   "registrant": "UNIVERSITY OF ILLINOIS",
+   "client": "UNIVERSITY OF ILLINOIS",
+   "url": "https://lda.gov/filings/public/filing/b4bb7aa7-c2df-473e-b9a0-2970e99b59a1/print/"
+  },
+  {
+   "filing_uuid": "c93f0616-5864-4605-a7ed-0f377dba0715",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-11-03T12:10:57-05:00",
+   "amount": 80000.0,
+   "registrant": "RESOLUTION PUBLIC AFFAIRS, LLC",
+   "client": "KALSHI",
+   "url": "https://lda.gov/filings/public/filing/c93f0616-5864-4605-a7ed-0f377dba0715/print/"
+  },
+  {
+   "filing_uuid": "6713c8c5-da29-494b-abcc-acf97f696513",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-11-03T12:49:30-05:00",
+   "amount": 50000.0,
+   "registrant": "AMERICAN ARBITRATION ASSOCIATION",
+   "client": "AMERICAN ARBITRATION ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/6713c8c5-da29-494b-abcc-acf97f696513/print/"
+  },
+  {
+   "filing_uuid": "e7f31239-ee6e-492d-b5f0-c53423f9855a",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-11-09T11:20:49-05:00",
+   "amount": 105000.0,
+   "registrant": "FLORIDA STATE UNIVERSITY",
+   "client": "FLORIDA STATE UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/e7f31239-ee6e-492d-b5f0-c53423f9855a/print/"
+  },
+  {
+   "filing_uuid": "0aab5e0d-f965-4645-8e83-fa1b6ede2510",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-10T12:48:53-04:00",
+   "amount": 40000.0,
+   "registrant": "LEWIS-BURKE ASSOCIATES, LLC",
+   "client": "UNIVERSITY OF CINCINNATI",
+   "url": "https://lda.gov/filings/public/filing/0aab5e0d-f965-4645-8e83-fa1b6ede2510/print/"
+  },
+  {
+   "filing_uuid": "a0859d95-ed2b-4706-bc0c-607ab4547e8e",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-13T13:02:20-04:00",
+   "amount": 50000.0,
+   "registrant": "CASSIDY & ASSOCIATES, INC.",
+   "client": "PAC-12 CONFERENCE",
+   "url": "https://lda.gov/filings/public/filing/a0859d95-ed2b-4706-bc0c-607ab4547e8e/print/"
+  },
+  {
+   "filing_uuid": "52c482ac-f2ec-4792-9b06-cf7d9711b216",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-15T12:44:20-04:00",
+   "amount": 120000.0,
+   "registrant": "CASSIDY & ASSOCIATES, INC.",
+   "client": "THE BIG TEN CONFERENCE, INC",
+   "url": "https://lda.gov/filings/public/filing/52c482ac-f2ec-4792-9b06-cf7d9711b216/print/"
+  },
+  {
+   "filing_uuid": "b3dac4f0-29d5-4d56-9300-cd608ee72132",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-16T11:04:07-04:00",
+   "amount": 80000.0,
+   "registrant": "NATIONAL ATHLETIC TRAINERS' ASSOCIATION",
+   "client": "NATIONAL ATHLETIC TRAINERS' ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/b3dac4f0-29d5-4d56-9300-cd608ee72132/print/"
+  },
+  {
+   "filing_uuid": "56027e32-36e0-47fe-8591-deb1995b5353",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-16T19:43:13-04:00",
+   "amount": 90000.0,
+   "registrant": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+   "client": "NATIONAL COLLEGIATE ATHLETIC ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/56027e32-36e0-47fe-8591-deb1995b5353/print/"
+  },
+  {
+   "filing_uuid": "f8ee8ef9-2737-4a30-80ed-8e013099bd71",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T12:34:29-04:00",
+   "amount": 30000.0,
+   "registrant": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+   "client": "DAVIDSON COLLEGE",
+   "url": "https://lda.gov/filings/public/filing/f8ee8ef9-2737-4a30-80ed-8e013099bd71/print/"
+  },
+  {
+   "filing_uuid": "e9bb8c62-cccb-4233-863e-2fe1929e3d96",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T13:08:23-04:00",
+   "amount": 50000.0,
+   "registrant": "UNIVERSITY OF IOWA",
+   "client": "UNIVERSITY OF IOWA",
+   "url": "https://lda.gov/filings/public/filing/e9bb8c62-cccb-4233-863e-2fe1929e3d96/print/"
+  },
+  {
+   "filing_uuid": "2165b002-3ab1-4e1a-882d-6721086f8d2b",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T13:08:31-04:00",
+   "amount": 50000.0,
+   "registrant": "MEHLMAN CONSULTING, INC.",
+   "client": "ARIZONA STATE UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/2165b002-3ab1-4e1a-882d-6721086f8d2b/print/"
+  },
+  {
+   "filing_uuid": "4f04283e-0bf7-490b-a818-518e6787e98f",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T13:38:11-04:00",
+   "amount": 20000.0,
+   "registrant": "WHEAT SHROYER GOVERNMENT RELATIONS LLC",
+   "client": "WESTERN MICHIGAN UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/4f04283e-0bf7-490b-a818-518e6787e98f/print/"
+  },
+  {
+   "filing_uuid": "6d843c08-5e8b-4fa6-81a8-1d71b1e622e8",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T13:50:51-04:00",
+   "amount": 130000.0,
+   "registrant": "STANFORD UNIVERSITY",
+   "client": "STANFORD UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/6d843c08-5e8b-4fa6-81a8-1d71b1e622e8/print/"
+  },
+  {
+   "filing_uuid": "4a2b64fe-7988-4ba2-8745-42035ea23678",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T15:03:12-04:00",
+   "amount": 140000.0,
+   "registrant": "THE PENNSYLVANIA STATE UNIVERSITY",
+   "client": "PENNSYLVANIA STATE UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/4a2b64fe-7988-4ba2-8745-42035ea23678/print/"
+  },
+  {
+   "filing_uuid": "1e5fe136-1f3e-47ba-a2ac-a384dcc4b6bd",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T15:47:01-04:00",
+   "amount": 40000.0,
+   "registrant": "KIT BOND STRATEGIES",
+   "client": "BIG 12 CONFERENCE",
+   "url": "https://lda.gov/filings/public/filing/1e5fe136-1f3e-47ba-a2ac-a384dcc4b6bd/print/"
+  },
+  {
+   "filing_uuid": "860574f0-adc1-483d-96d9-af0b2108bd54",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-19T11:15:31-04:00",
+   "amount": 30000.0,
+   "registrant": "VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC)",
+   "client": "THE UNIVERSITY OF ALABAMA SYSTEM",
+   "url": "https://lda.gov/filings/public/filing/860574f0-adc1-483d-96d9-af0b2108bd54/print/"
+  },
+  {
+   "filing_uuid": "2711ee24-dd1c-44f0-9b4d-ce5bce15ec34",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-19T23:37:06-04:00",
+   "amount": 20000.0,
+   "registrant": "CROSSROADS STRATEGIES, LLC",
+   "client": "NATIONAL ATHLETIC TRAINERS' ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/2711ee24-dd1c-44f0-9b4d-ce5bce15ec34/print/"
+  },
+  {
+   "filing_uuid": "fed51bd6-a7c3-471b-8fe8-ca8525285de9",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T09:12:47-04:00",
+   "amount": 50000.0,
+   "registrant": "LEWIS-BURKE ASSOCIATES, LLC",
+   "client": "NORTH DAKOTA STATE UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/fed51bd6-a7c3-471b-8fe8-ca8525285de9/print/"
+  },
+  {
+   "filing_uuid": "e2edf68e-890c-44c2-9400-172b597a459b",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T11:00:02-04:00",
+   "amount": 150000.0,
+   "registrant": "UNIVERSITY OF MICHIGAN",
+   "client": "UNIVERSITY OF MICHIGAN",
+   "url": "https://lda.gov/filings/public/filing/e2edf68e-890c-44c2-9400-172b597a459b/print/"
+  },
+  {
+   "filing_uuid": "6848c079-475c-4513-9fa9-8d81dfc1d766",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T11:43:59-04:00",
+   "amount": 50000.0,
+   "registrant": "FIERCE GOVERNMENT RELATIONS",
+   "client": "SAVING COLLEGE SPORTS",
+   "url": "https://lda.gov/filings/public/filing/6848c079-475c-4513-9fa9-8d81dfc1d766/print/"
+  },
+  {
+   "filing_uuid": "7fccc672-3bfd-4ae2-a1c1-f8f294759bcf",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T11:50:18-04:00",
+   "amount": 20000.0,
+   "registrant": "FIERCE GOVERNMENT RELATIONS",
+   "client": "STANFORD UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/7fccc672-3bfd-4ae2-a1c1-f8f294759bcf/print/"
+  },
+  {
+   "filing_uuid": "dde35be7-3c36-4789-bb68-1a726433b537",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T12:31:22-04:00",
+   "amount": 1840000.0,
+   "registrant": "AMERICAN ASSOCIATION FOR JUSTICE",
+   "client": "AMERICAN ASSOCIATION FOR JUSTICE",
+   "url": "https://lda.gov/filings/public/filing/dde35be7-3c36-4789-bb68-1a726433b537/print/"
+  },
+  {
+   "filing_uuid": "000d102a-367d-4e29-bcb4-bed5720f224c",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T13:07:24-04:00",
+   "amount": 105000.0,
+   "registrant": "BOARD OF REGENTS OF UNIVERSITY OF WISCONSIN SYSTEM",
+   "client": "BOARD OF REGENTS OF UNIVERSITY OF WISCONSIN SYSTEM",
+   "url": "https://lda.gov/filings/public/filing/000d102a-367d-4e29-bcb4-bed5720f224c/print/"
+  },
+  {
+   "filing_uuid": "7960b3bf-c1ed-42b2-8895-428001e5814a",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T13:41:49-04:00",
+   "amount": 30000.0,
+   "registrant": "VIRGINIA POLYTECHNIC INSTITUTE AND STATE UNIVERSITY (VIRGINIA TECH)",
+   "client": "VIRGINIA POLYTECHNIC INSTITUTE AND STATE UNIVERSITY (VIRGINIA TECH)",
+   "url": "https://lda.gov/filings/public/filing/7960b3bf-c1ed-42b2-8895-428001e5814a/print/"
+  },
+  {
+   "filing_uuid": "437ae818-bc22-4177-aef6-021a18310f0d",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T14:02:43-04:00",
+   "amount": 10000.0,
+   "registrant": "CAPITOL COUNSEL LLC",
+   "client": "AMERICAN FOOTBALL COACHES ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/437ae818-bc22-4177-aef6-021a18310f0d/print/"
+  },
+  {
+   "filing_uuid": "93db6729-498f-4992-98dc-09d88773d6cf",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T14:45:29-04:00",
+   "amount": 1400000.0,
+   "registrant": "DISNEY WORLDWIDE SERVICES, INC.",
+   "client": "DISNEY WORLDWIDE SERVICES INC",
+   "url": "https://lda.gov/filings/public/filing/93db6729-498f-4992-98dc-09d88773d6cf/print/"
+  },
+  {
+   "filing_uuid": "c14e1105-ef81-4e2d-b873-586e4b56ea23",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T14:58:08-04:00",
+   "amount": 2620000.0,
+   "registrant": "NATIONAL ASSOCIATION OF BROADCASTERS",
+   "client": "NATIONAL ASSOCIATION OF BROADCASTERS",
+   "url": "https://lda.gov/filings/public/filing/c14e1105-ef81-4e2d-b873-586e4b56ea23/print/"
+  },
+  {
+   "filing_uuid": "b7faad89-f645-40af-82bb-fd2591dee247",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T15:06:57-04:00",
+   "amount": 3190000.0,
+   "registrant": "NCTA - THE INTERNET & TELEVISION ASSOCIATION",
+   "client": "NCTA - THE INTERNET & TELEVISION ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/b7faad89-f645-40af-82bb-fd2591dee247/print/"
+  },
+  {
+   "filing_uuid": "c544fcc2-3a1e-429e-9b7c-7638e99649af",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T15:53:59-04:00",
+   "amount": 70000.0,
+   "registrant": "UNIVERSITY OF VIRGINIA",
+   "client": "UNIVERSITY OF VIRGINIA",
+   "url": "https://lda.gov/filings/public/filing/c544fcc2-3a1e-429e-9b7c-7638e99649af/print/"
+  },
+  {
+   "filing_uuid": "66059154-3a52-4b2f-bb69-247eb85eb7fd",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T15:56:16-04:00",
+   "amount": 10000.0,
+   "registrant": "VAN SCOYOC ASSOCIATES",
+   "client": "BOARD OF TRUSTEES OF EASTERN ILLINOIS UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/66059154-3a52-4b2f-bb69-247eb85eb7fd/print/"
+  },
+  {
+   "filing_uuid": "1589d8f9-562f-43e0-aa36-f079720aa4d3",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T16:44:59-04:00",
+   "amount": null,
+   "registrant": "CHET CULVER GROUP",
+   "client": "AMERICAN FOOTBALL COACHES ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/1589d8f9-562f-43e0-aa36-f079720aa4d3/print/"
+  },
+  {
+   "filing_uuid": "01a963a0-61d7-4d99-9f3b-cb98c5cec913",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T18:19:05-04:00",
+   "amount": 40000.0,
+   "registrant": "ALLIANCE DEFENDING FREEDOM",
+   "client": "ALLIANCE DEFENDING FREEDOM",
+   "url": "https://lda.gov/filings/public/filing/01a963a0-61d7-4d99-9f3b-cb98c5cec913/print/"
+  },
+  {
+   "filing_uuid": "a979e322-d448-4f20-ace8-828642afe19f",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T18:35:40-04:00",
+   "amount": 90000.0,
+   "registrant": "NVG, LLC",
+   "client": "AMERICAN ASSOCIATION FOR JUSTICE",
+   "url": "https://lda.gov/filings/public/filing/a979e322-d448-4f20-ace8-828642afe19f/print/"
+  },
+  {
+   "filing_uuid": "06617c6c-1c26-4345-aac1-6e6ad680cd90",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T19:43:28-04:00",
+   "amount": 260000.0,
+   "registrant": "NATIONAL COLLEGIATE ATHLETIC ASSOCIATION",
+   "client": "NATIONAL COLLEGIATE ATHLETIC ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/06617c6c-1c26-4345-aac1-6e6ad680cd90/print/"
+  },
+  {
+   "filing_uuid": "2a38440a-a97d-46d0-9eb0-5869d23858db",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T20:16:27-04:00",
+   "amount": 350000.0,
+   "registrant": "JOHNS HOPKINS UNIVERSITY",
+   "client": "JOHNS HOPKINS UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/2a38440a-a97d-46d0-9eb0-5869d23858db/print/"
+  },
+  {
+   "filing_uuid": "77387739-c1b9-4bbe-8223-783135d52670",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T21:42:57-04:00",
+   "amount": 70000.0,
+   "registrant": "RICE UNIVERSITY",
+   "client": "RICE UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/77387739-c1b9-4bbe-8223-783135d52670/print/"
+  },
+  {
+   "filing_uuid": "6767c676-17d3-4ab8-b9be-6f2103c000cd",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T23:36:06-04:00",
+   "amount": 90000.0,
+   "registrant": "MICHIGAN STATE UNIVERSITY",
+   "client": "MICHIGAN STATE UNIV",
+   "url": "https://lda.gov/filings/public/filing/6767c676-17d3-4ab8-b9be-6f2103c000cd/print/"
+  },
+  {
+   "filing_uuid": "189115a1-e889-4c65-82d7-0cd6fe44b777",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-01T11:17:55-04:00",
+   "amount": 50000.0,
+   "registrant": "CASSIDY & ASSOCIATES, INC.",
+   "client": "PAC-12 CONFERENCE",
+   "url": "https://lda.gov/filings/public/filing/189115a1-e889-4c65-82d7-0cd6fe44b777/print/"
+  },
+  {
+   "filing_uuid": "bdeeba39-bf89-47f1-9d28-cc2d456f319c",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-01T16:50:20-04:00",
+   "amount": 80000.0,
+   "registrant": "NATIONAL ATHLETIC TRAINERS' ASSOCIATION",
+   "client": "NATIONAL ATHLETIC TRAINERS' ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/bdeeba39-bf89-47f1-9d28-cc2d456f319c/print/"
+  },
+  {
+   "filing_uuid": "1f07d999-082d-4acb-be26-4edb7325062f",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-07T10:24:28-04:00",
+   "amount": 150000.0,
+   "registrant": "CASSIDY & ASSOCIATES, INC.",
+   "client": "THE BIG TEN CONFERENCE, INC",
+   "url": "https://lda.gov/filings/public/filing/1f07d999-082d-4acb-be26-4edb7325062f/print/"
+  },
+  {
+   "filing_uuid": "a8864493-69e7-400f-911f-b49de0226551",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-08T09:27:13-04:00",
+   "amount": null,
+   "registrant": "CDB PROJX LLC",
+   "client": "CLEMSON UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/a8864493-69e7-400f-911f-b49de0226551/print/"
+  },
+  {
+   "filing_uuid": "f6578686-c2e3-4a84-bb52-d148c0e072cb",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-09T15:46:22-04:00",
+   "amount": 50000.0,
+   "registrant": "SAN DIEGO STATE UNIVERSITY RESEARCH FOUNDATION",
+   "client": "SAN DIEGO STATE UNIVERSITY RESEARCH FOUNDATION",
+   "url": "https://lda.gov/filings/public/filing/f6578686-c2e3-4a84-bb52-d148c0e072cb/print/"
+  },
+  {
+   "filing_uuid": "bdba2a1e-77c4-4c4a-88cc-9ebf069f3b78",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-13T12:56:42-04:00",
+   "amount": 40000.0,
+   "registrant": "LEWIS-BURKE ASSOCIATES, LLC",
+   "client": "UNIVERSITY OF NEW HAMPSHIRE",
+   "url": "https://lda.gov/filings/public/filing/bdba2a1e-77c4-4c4a-88cc-9ebf069f3b78/print/"
+  },
+  {
+   "filing_uuid": "6aaded7d-5c7c-44f1-83fc-d75c0812179f",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-14T10:24:55-04:00",
+   "amount": 120000.0,
+   "registrant": "STANFORD UNIVERSITY",
+   "client": "STANFORD UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/6aaded7d-5c7c-44f1-83fc-d75c0812179f/print/"
+  },
+  {
+   "filing_uuid": "4c29e0d7-54ac-47d7-92ad-73686145bafc",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-14T14:41:32-04:00",
+   "amount": 30000.0,
+   "registrant": "HOGAN LOVELLS CADWALADER US LLP (FKA HOGAN LOVELLS US LLP)",
+   "client": "COLLEGE FOOTBALL PLAYOFF",
+   "url": "https://lda.gov/filings/public/filing/4c29e0d7-54ac-47d7-92ad-73686145bafc/print/"
+  },
+  {
+   "filing_uuid": "ec53b3ad-95a3-4b3b-9101-82bfbff313fc",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-15T13:17:21-04:00",
+   "amount": 50000.0,
+   "registrant": "LEWIS-BURKE ASSOCIATES, LLC",
+   "client": "NORTH DAKOTA STATE UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/ec53b3ad-95a3-4b3b-9101-82bfbff313fc/print/"
+  },
+  {
+   "filing_uuid": "71c774bc-6dd9-4c52-b612-fe0dd06346fd",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-15T14:16:50-04:00",
+   "amount": 40000.0,
+   "registrant": "LEWIS-BURKE ASSOCIATES, LLC",
+   "client": "UNIVERSITY OF CINCINNATI",
+   "url": "https://lda.gov/filings/public/filing/71c774bc-6dd9-4c52-b612-fe0dd06346fd/print/"
+  },
+  {
+   "filing_uuid": "fb7fca0e-9838-4c54-a9dc-ef813ec8827e",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-15T15:36:26-04:00",
+   "amount": 15500.0,
+   "registrant": "CONCERNED WOMEN FOR AMERICA LEGISLATIVE ACTION COMMITTEE",
+   "client": "CONCERNED WOMEN FOR AMERICA LEGISLATIVE ACTION COMMITTEE",
+   "url": "https://lda.gov/filings/public/filing/fb7fca0e-9838-4c54-a9dc-ef813ec8827e/print/"
+  },
+  {
+   "filing_uuid": "e2bd069c-6b8c-43d3-8cf0-905c146eb94f",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-16T18:36:56-04:00",
+   "amount": 30000.0,
+   "registrant": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+   "client": "DAVIDSON COLLEGE",
+   "url": "https://lda.gov/filings/public/filing/e2bd069c-6b8c-43d3-8cf0-905c146eb94f/print/"
+  },
+  {
+   "filing_uuid": "7f3fd85e-4ccc-450e-858a-b2b6c5ced5b0",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-16T18:46:45-04:00",
+   "amount": 30000.0,
+   "registrant": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+   "client": "DEPAUL UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/7f3fd85e-4ccc-450e-858a-b2b6c5ced5b0/print/"
+  },
+  {
+   "filing_uuid": "d1293066-80af-48c5-9349-3f754182d9d7",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-16T23:29:33-04:00",
+   "amount": 60000.0,
+   "registrant": "OGR",
+   "client": "NIKE, INC.",
+   "url": "https://lda.gov/filings/public/filing/d1293066-80af-48c5-9349-3f754182d9d7/print/"
+  },
+  {
+   "filing_uuid": "21246e5d-c57b-4bb1-b4fd-08793386adda",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-17T11:02:07-04:00",
+   "amount": 50000.0,
+   "registrant": "CAPITOL COUNSEL LLC",
+   "client": "AMERICAN FOOTBALL COACHES ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/21246e5d-c57b-4bb1-b4fd-08793386adda/print/"
+  },
+  {
+   "filing_uuid": "b2567ccc-8f65-4378-87f4-b5f86e314af7",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-18T16:01:39-04:00",
+   "amount": 90000.0,
+   "registrant": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+   "client": "NATIONAL COLLEGIATE ATHLETIC ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/b2567ccc-8f65-4378-87f4-b5f86e314af7/print/"
+  },
+  {
+   "filing_uuid": "732e3900-81f6-4db3-ae2e-a70e6a689386",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T07:07:49-04:00",
+   "amount": 60000.0,
+   "registrant": "VAN SCOYOC ASSOCIATES",
+   "client": "NEVADA SYSTEM OF HIGHER EDUCATION",
+   "url": "https://lda.gov/filings/public/filing/732e3900-81f6-4db3-ae2e-a70e6a689386/print/"
+  },
+  {
+   "filing_uuid": "06ebf552-4d70-45f0-96d0-847621337950",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T07:09:26-04:00",
+   "amount": 30000.0,
+   "registrant": "VAN SCOYOC ASSOCIATES",
+   "client": "OHIO UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/06ebf552-4d70-45f0-96d0-847621337950/print/"
+  },
+  {
+   "filing_uuid": "cbcb7e07-b124-4074-8918-0a7a166d2cba",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T07:15:48-04:00",
+   "amount": 50000.0,
+   "registrant": "VAN SCOYOC ASSOCIATES",
+   "client": "THE UNIVERSITY OF UTAH",
+   "url": "https://lda.gov/filings/public/filing/cbcb7e07-b124-4074-8918-0a7a166d2cba/print/"
+  },
+  {
+   "filing_uuid": "70d7b65a-1177-426c-a5e1-6976e309d10f",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T07:19:02-04:00",
+   "amount": 20000.0,
+   "registrant": "VAN SCOYOC ASSOCIATES",
+   "client": "UNIVERSITY OF NEVADA, LAS VEGAS",
+   "url": "https://lda.gov/filings/public/filing/70d7b65a-1177-426c-a5e1-6976e309d10f/print/"
+  },
+  {
+   "filing_uuid": "8ce39a0a-e831-43e2-bad5-109db2d7b33a",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T07:20:59-04:00",
+   "amount": 20000.0,
+   "registrant": "VAN SCOYOC ASSOCIATES",
+   "client": "UNIVERSITY OF NEVADA, RENO",
+   "url": "https://lda.gov/filings/public/filing/8ce39a0a-e831-43e2-bad5-109db2d7b33a/print/"
+  },
+  {
+   "filing_uuid": "7170bf34-3ef4-44ea-b6cd-c47a6d95b0db",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T10:56:24-04:00",
+   "amount": 40000.0,
+   "registrant": "KIT BOND STRATEGIES",
+   "client": "BIG 12 CONFERENCE",
+   "url": "https://lda.gov/filings/public/filing/7170bf34-3ef4-44ea-b6cd-c47a6d95b0db/print/"
+  },
+  {
+   "filing_uuid": "d3597cb6-a2ef-4d00-8bd1-57a9a9157ebe",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T12:38:37-04:00",
+   "amount": 10000.0,
+   "registrant": "VAN SCOYOC ASSOCIATES",
+   "client": "BOARD OF TRUSTEES OF EASTERN ILLINOIS UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/d3597cb6-a2ef-4d00-8bd1-57a9a9157ebe/print/"
+  },
+  {
+   "filing_uuid": "178800ce-2967-49ac-9891-34c42c7d9e61",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T15:37:53-04:00",
+   "amount": 10000.0,
+   "registrant": "CHET CULVER GROUP",
+   "client": "AMERICAN FOOTBALL COACHES ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/178800ce-2967-49ac-9891-34c42c7d9e61/print/"
+  },
+  {
+   "filing_uuid": "d4429acc-20f8-43a8-9eba-b44e8bb3d116",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T16:47:19-04:00",
+   "amount": 20000.0,
+   "registrant": "CROSSROADS STRATEGIES, LLC",
+   "client": "NATIONAL ATHLETIC TRAINERS' ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/d4429acc-20f8-43a8-9eba-b44e8bb3d116/print/"
+  },
+  {
+   "filing_uuid": "ceeaa175-29ab-486a-b8d8-753507f9b7d4",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T08:48:03-04:00",
+   "amount": 290000.0,
+   "registrant": "NATIONAL COLLEGIATE ATHLETIC ASSOCIATION",
+   "client": "NATIONAL COLLEGIATE ATHLETIC ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/ceeaa175-29ab-486a-b8d8-753507f9b7d4/print/"
+  },
+  {
+   "filing_uuid": "846e6dd5-0fe3-4e3b-8f5d-e52c2f67e9d6",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T08:50:39-04:00",
+   "amount": 50000.0,
+   "registrant": "MEHLMAN CONSULTING, INC.",
+   "client": "ARIZONA STATE UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/846e6dd5-0fe3-4e3b-8f5d-e52c2f67e9d6/print/"
+  },
+  {
+   "filing_uuid": "f27d924d-1808-41c9-bc93-04c016b75d81",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T09:47:17-04:00",
+   "amount": 50000.0,
+   "registrant": "NORTH CAROLINA STATE UNIVERSITY",
+   "client": "NORTH CAROLINA STATE UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/f27d924d-1808-41c9-bc93-04c016b75d81/print/"
+  },
+  {
+   "filing_uuid": "8764a09c-46ef-49ad-85cc-8d730e4aed40",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T10:58:11-04:00",
+   "amount": 90000.0,
+   "registrant": "WHEAT SHROYER GOVERNMENT RELATIONS LLC",
+   "client": "WESTERN MICHIGAN UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/8764a09c-46ef-49ad-85cc-8d730e4aed40/print/"
+  },
+  {
+   "filing_uuid": "22c0f398-f0d6-44a4-a0d0-59ed70871d4f",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T11:56:01-04:00",
+   "amount": 150000.0,
+   "registrant": "UNIVERSITY OF MICHIGAN",
+   "client": "UNIVERSITY OF MICHIGAN",
+   "url": "https://lda.gov/filings/public/filing/22c0f398-f0d6-44a4-a0d0-59ed70871d4f/print/"
+  },
+  {
+   "filing_uuid": "e662f297-e813-4ee6-8e09-42b1a54be0dd",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T11:56:32-04:00",
+   "amount": 90000.0,
+   "registrant": "ATLAS CROSSING LLC",
+   "client": "VANDERBILT UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/e662f297-e813-4ee6-8e09-42b1a54be0dd/print/"
+  },
+  {
+   "filing_uuid": "f55eb63e-726c-48a9-b0aa-d9c039510c67",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T11:56:54-04:00",
+   "amount": 90000.0,
+   "registrant": "ATLAS CROSSING LLC",
+   "client": "VANDERBILT UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/f55eb63e-726c-48a9-b0aa-d9c039510c67/print/"
+  },
+  {
+   "filing_uuid": "9f3a80ad-2060-4fb8-8506-ee0b0358df9e",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T12:05:27-04:00",
+   "amount": 50000.0,
+   "registrant": "FIERCE GOVERNMENT RELATIONS",
+   "client": "SAVING COLLEGE SPORTS",
+   "url": "https://lda.gov/filings/public/filing/9f3a80ad-2060-4fb8-8506-ee0b0358df9e/print/"
+  },
+  {
+   "filing_uuid": "37c8a4b8-d67f-434a-a9d6-ff539c3ff8c9",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T12:20:57-04:00",
+   "amount": 20000.0,
+   "registrant": "FIERCE GOVERNMENT RELATIONS",
+   "client": "STANFORD UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/37c8a4b8-d67f-434a-a9d6-ff539c3ff8c9/print/"
+  },
+  {
+   "filing_uuid": "69534998-1d3e-4f6c-8038-8a90ec61c3b2",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T12:21:42-04:00",
+   "amount": 50000.0,
+   "registrant": "WILLIAMS AND JENSEN, PLLC",
+   "client": "LIBERTY UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/69534998-1d3e-4f6c-8038-8a90ec61c3b2/print/"
+  },
+  {
+   "filing_uuid": "0ab28085-ed07-4ef0-8d79-395c0a4ed510",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T12:24:47-04:00",
+   "amount": 30000.0,
+   "registrant": "VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC)",
+   "client": "THE UNIVERSITY OF ALABAMA SYSTEM",
+   "url": "https://lda.gov/filings/public/filing/0ab28085-ed07-4ef0-8d79-395c0a4ed510/print/"
+  },
+  {
+   "filing_uuid": "3d207ca1-0d36-4dea-a158-ec7ef9193754",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T12:35:46-04:00",
+   "amount": 1580000.0,
+   "registrant": "AMERICAN ASSOCIATION FOR JUSTICE",
+   "client": "AMERICAN ASSOCIATION FOR JUSTICE",
+   "url": "https://lda.gov/filings/public/filing/3d207ca1-0d36-4dea-a158-ec7ef9193754/print/"
+  },
+  {
+   "filing_uuid": "91aecb52-3714-4534-ab43-742fb130779e",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T12:42:55-04:00",
+   "amount": 150000.0,
+   "registrant": "THE PENNSYLVANIA STATE UNIVERSITY",
+   "client": "PENNSYLVANIA STATE UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/91aecb52-3714-4534-ab43-742fb130779e/print/"
+  },
+  {
+   "filing_uuid": "305da7a9-0afe-4f39-8815-c22a378f0119",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T12:56:27-04:00",
+   "amount": 30000.0,
+   "registrant": "VIRGINIA POLYTECHNIC INSTITUTE AND STATE UNIVERSITY (VIRGINIA TECH)",
+   "client": "VIRGINIA POLYTECHNIC INSTITUTE AND STATE UNIVERSITY (VIRGINIA TECH)",
+   "url": "https://lda.gov/filings/public/filing/305da7a9-0afe-4f39-8815-c22a378f0119/print/"
+  },
+  {
+   "filing_uuid": "82725610-9297-4a8c-9e6b-f59c961491f7",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T13:29:57-04:00",
+   "amount": 50000.0,
+   "registrant": "UNIVERSITY OF IOWA",
+   "client": "UNIVERSITY OF IOWA",
+   "url": "https://lda.gov/filings/public/filing/82725610-9297-4a8c-9e6b-f59c961491f7/print/"
+  },
+  {
+   "filing_uuid": "6dc17b80-5429-41fb-b6e4-1989638d18e7",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T14:08:23-04:00",
+   "amount": 70000.0,
+   "registrant": "MICHIGAN STATE UNIVERSITY",
+   "client": "MICHIGAN STATE UNIV",
+   "url": "https://lda.gov/filings/public/filing/6dc17b80-5429-41fb-b6e4-1989638d18e7/print/"
+  },
+  {
+   "filing_uuid": "20b12731-909c-4895-88f3-b494e3fedd45",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T14:56:10-04:00",
+   "amount": 291000.0,
+   "registrant": "UNIVERSITY OF WASHINGTON",
+   "client": "UNIVERSITY OF WASHINGTON",
+   "url": "https://lda.gov/filings/public/filing/20b12731-909c-4895-88f3-b494e3fedd45/print/"
+  },
+  {
+   "filing_uuid": "05597db2-eab3-4dec-870d-3524bd219ed6",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T15:02:16-04:00",
+   "amount": 2940000.0,
+   "registrant": "NCTA - THE INTERNET & TELEVISION ASSOCIATION",
+   "client": "NCTA - THE INTERNET & TELEVISION ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/05597db2-eab3-4dec-870d-3524bd219ed6/print/"
+  },
+  {
+   "filing_uuid": "9b9eb533-568e-45bc-9e03-3d2ca96b3ac6",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T15:29:08-04:00",
+   "amount": 112000.0,
+   "registrant": "BOARD OF REGENTS OF UNIVERSITY OF WISCONSIN SYSTEM",
+   "client": "BOARD OF REGENTS OF UNIVERSITY OF WISCONSIN SYSTEM",
+   "url": "https://lda.gov/filings/public/filing/9b9eb533-568e-45bc-9e03-3d2ca96b3ac6/print/"
+  },
+  {
+   "filing_uuid": "0b40e767-3673-411c-a6d4-4ac5c86a3c81",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T16:39:50-04:00",
+   "amount": 140000.0,
+   "registrant": "SYRACUSE UNIVERSITY",
+   "client": "SYRACUSE UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/0b40e767-3673-411c-a6d4-4ac5c86a3c81/print/"
+  },
+  {
+   "filing_uuid": "1c7cf009-b24f-497f-8c78-cc7076594bef",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T17:15:13-04:00",
+   "amount": 930000.0,
+   "registrant": "DISNEY WORLDWIDE SERVICES, INC.",
+   "client": "DISNEY WORLDWIDE SERVICES INC",
+   "url": "https://lda.gov/filings/public/filing/1c7cf009-b24f-497f-8c78-cc7076594bef/print/"
+  },
+  {
+   "filing_uuid": "81839156-840c-4101-8ac9-da780a10fd9d",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T17:31:27-04:00",
+   "amount": 50000.0,
+   "registrant": "AVOQ, LLC",
+   "client": "ENTERTAINMENT SOFTWARE ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/81839156-840c-4101-8ac9-da780a10fd9d/print/"
+  },
+  {
+   "filing_uuid": "de960460-8ec6-4d80-949a-0084c19dd696",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T17:52:43-04:00",
+   "amount": 40000.0,
+   "registrant": "CGCN GROUP, LLC",
+   "client": "THE WALT DISNEY COMPANY",
+   "url": "https://lda.gov/filings/public/filing/de960460-8ec6-4d80-949a-0084c19dd696/print/"
+  },
+  {
+   "filing_uuid": "913e9c08-16b2-4996-82a9-ed0925a7878d",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T18:05:35-04:00",
+   "amount": 90000.0,
+   "registrant": "NVG, LLC",
+   "client": "AMERICAN ASSOCIATION FOR JUSTICE",
+   "url": "https://lda.gov/filings/public/filing/913e9c08-16b2-4996-82a9-ed0925a7878d/print/"
+  },
+  {
+   "filing_uuid": "c8982414-1f43-488e-a599-fd5feccbefa6",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T19:22:42-04:00",
+   "amount": 50000.0,
+   "registrant": "NATIONAL WOMEN'S LAW CENTER ACTION FUND",
+   "client": "NATIONAL WOMEN'S LAW CENTER ACTION FUND",
+   "url": "https://lda.gov/filings/public/filing/c8982414-1f43-488e-a599-fd5feccbefa6/print/"
+  },
+  {
+   "filing_uuid": "397b3d46-5866-4493-9f29-69e84f694e73",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T21:08:48-04:00",
+   "amount": 60000.0,
+   "registrant": "ALLIANCE DEFENDING FREEDOM",
+   "client": "ALLIANCE DEFENDING FREEDOM",
+   "url": "https://lda.gov/filings/public/filing/397b3d46-5866-4493-9f29-69e84f694e73/print/"
+  },
+  {
+   "filing_uuid": "345570b2-b79f-4a6f-97e0-abcdf7410706",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T22:26:38-04:00",
+   "amount": 90000.0,
+   "registrant": "RICE UNIVERSITY",
+   "client": "RICE UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/345570b2-b79f-4a6f-97e0-abcdf7410706/print/"
+  },
+  {
+   "filing_uuid": "037e2d18-a436-4aa5-bab7-9010d9fed49f",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-28T20:32:35-04:00",
+   "amount": 70000.0,
+   "registrant": "UNIVERSITY OF VIRGINIA",
+   "client": "UNIVERSITY OF VIRGINIA",
+   "url": "https://lda.gov/filings/public/filing/037e2d18-a436-4aa5-bab7-9010d9fed49f/print/"
+  },
+  {
+   "filing_uuid": "a4a2420a-1456-4e62-8b4a-820177e25c30",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-30T13:24:05-04:00",
+   "amount": null,
+   "registrant": "NATIONAL ASSOCIATION FOR THE ADVANCEMENT OF COLORED PEOPLE",
+   "client": "NATIONAL ASSOCIATION FOR THE ADVANCEMENT OF COLORED PEOPLE",
+   "url": "https://lda.gov/filings/public/filing/a4a2420a-1456-4e62-8b4a-820177e25c30/print/"
+  },
+  {
+   "filing_uuid": "36ace046-0ce8-4e91-ab16-f78e92c93274",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T19:53:15-04:00",
+   "amount": 55000.0,
+   "registrant": "OREGON STATE UNIVERSITY",
+   "client": "OREGON STATE UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/36ace046-0ce8-4e91-ab16-f78e92c93274/print/"
+  },
+  {
+   "filing_uuid": "037f8875-2ee2-4bb5-a757-9fa5df013cef",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-05T13:07:24-04:00",
+   "amount": 25000.0,
+   "registrant": "WAKE FOREST UNIVERSITY",
+   "client": "WAKE FOREST UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/037f8875-2ee2-4bb5-a757-9fa5df013cef/print/"
+  },
+  {
+   "filing_uuid": "40b9f274-b847-487f-8727-a7c0fc968c63",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-10-05T13:15:22-04:00",
+   "amount": 25000.0,
+   "registrant": "WAKE FOREST UNIVERSITY",
+   "client": "WAKE FOREST UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/40b9f274-b847-487f-8727-a7c0fc968c63/print/"
+  },
+  {
+   "filing_uuid": "0468aa4c-e847-4e80-b7e9-e60114b1d014",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-16T19:13:03-04:00",
+   "amount": 55000.0,
+   "registrant": "OREGON STATE UNIVERSITY",
+   "client": "OREGON STATE UNIVERSITY",
+   "url": "https://lda.gov/filings/public/filing/0468aa4c-e847-4e80-b7e9-e60114b1d014/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}

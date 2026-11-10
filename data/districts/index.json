@@ -1,0 +1,6510 @@
+{
+ "congress": 119,
+ "boundary_file": "cb_2025_us_cd119_500k",
+ "count": 435,
+ "ranked_districts": 429,
+ "note": "Ranks cover districts in states with more than one House seat. Rank 1 is the least compact.",
+ "districts": [
+  {
+   "code": "AK-AL",
+   "state": "AK",
+   "number": null,
+   "member": {
+    "bioguide": "B001323",
+    "name": "Nicholas J. Begich III",
+    "short_name": "Nicholas Begich, III",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.011,
+   "square_miles": 587103.4
+  },
+  {
+   "code": "AL-01",
+   "state": "AL",
+   "number": 1,
+   "member": {
+    "bioguide": "M001212",
+    "name": "Barry Moore",
+    "short_name": "Barry Moore",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1117,
+   "square_miles": 7394.4,
+   "rank_least_compact": 53,
+   "rank_least_compact_in_party": 20
+  },
+  {
+   "code": "AL-02",
+   "state": "AL",
+   "number": 2,
+   "member": {
+    "bioguide": "F000481",
+    "name": "Shomari Figures",
+    "short_name": "Shomari Figures",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1449,
+   "square_miles": 9556.0,
+   "rank_least_compact": 82,
+   "rank_least_compact_in_party": 52
+  },
+  {
+   "code": "AL-03",
+   "state": "AL",
+   "number": 3,
+   "member": {
+    "bioguide": "R000575",
+    "name": "Mike Rogers",
+    "short_name": "Mike Rogers",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3586,
+   "square_miles": 6870.4,
+   "rank_least_compact": 344,
+   "rank_least_compact_in_party": 163
+  },
+  {
+   "code": "AL-04",
+   "state": "AL",
+   "number": 4,
+   "member": {
+    "bioguide": "A000055",
+    "name": "Robert B. Aderholt",
+    "short_name": "Robert Aderholt",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.201,
+   "square_miles": 8854.5,
+   "rank_least_compact": 151,
+   "rank_least_compact_in_party": 60
+  },
+  {
+   "code": "AL-05",
+   "state": "AL",
+   "number": 5,
+   "member": {
+    "bioguide": "S001220",
+    "name": "Dale W. Strong",
+    "short_name": "Dale Strong",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4035,
+   "square_miles": 4066.8,
+   "rank_least_compact": 372,
+   "rank_least_compact_in_party": 176
+  },
+  {
+   "code": "AL-06",
+   "state": "AL",
+   "number": 6,
+   "member": {
+    "bioguide": "P000609",
+    "name": "Gary J. Palmer",
+    "short_name": "Gary Palmer",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2045,
+   "square_miles": 4554.9,
+   "rank_least_compact": 156,
+   "rank_least_compact_in_party": 61
+  },
+  {
+   "code": "AL-07",
+   "state": "AL",
+   "number": 7,
+   "member": {
+    "bioguide": "S001185",
+    "name": "Terri A. Sewell",
+    "short_name": "Terri Sewell",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2105,
+   "square_miles": 10399.5,
+   "rank_least_compact": 164,
+   "rank_least_compact_in_party": 97
+  },
+  {
+   "code": "AR-01",
+   "state": "AR",
+   "number": 1,
+   "member": {
+    "bioguide": "C001087",
+    "name": "Eric A. \"Rick\" Crawford",
+    "short_name": "Rick Crawford",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1245,
+   "square_miles": 20400.3,
+   "rank_least_compact": 67,
+   "rank_least_compact_in_party": 25
+  },
+  {
+   "code": "AR-02",
+   "state": "AR",
+   "number": 2,
+   "member": {
+    "bioguide": "H001072",
+    "name": "J. French Hill",
+    "short_name": "J. Hill",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2725,
+   "square_miles": 5441.4,
+   "rank_least_compact": 244,
+   "rank_least_compact_in_party": 104
+  },
+  {
+   "code": "AR-03",
+   "state": "AR",
+   "number": 3,
+   "member": {
+    "bioguide": "W000809",
+    "name": "Steve Womack",
+    "short_name": "Steve Womack",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4338,
+   "square_miles": 4244.2,
+   "rank_least_compact": 388,
+   "rank_least_compact_in_party": 188
+  },
+  {
+   "code": "AR-04",
+   "state": "AR",
+   "number": 4,
+   "member": {
+    "bioguide": "W000821",
+    "name": "Bruce Westerman",
+    "short_name": "Bruce Westerman",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2656,
+   "square_miles": 23112.0,
+   "rank_least_compact": 237,
+   "rank_least_compact_in_party": 100
+  },
+  {
+   "code": "AZ-01",
+   "state": "AZ",
+   "number": 1,
+   "member": {
+    "bioguide": "S001183",
+    "name": "David Schweikert",
+    "short_name": "David Schweikert",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3818,
+   "square_miles": 1614.2,
+   "rank_least_compact": 359,
+   "rank_least_compact_in_party": 169
+  },
+  {
+   "code": "AZ-02",
+   "state": "AZ",
+   "number": 2,
+   "member": {
+    "bioguide": "C001132",
+    "name": "Elijah Crane",
+    "short_name": "Eli Crane",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3019,
+   "square_miles": 58491.9,
+   "rank_least_compact": 299,
+   "rank_least_compact_in_party": 137
+  },
+  {
+   "code": "AZ-03",
+   "state": "AZ",
+   "number": 3,
+   "member": {
+    "bioguide": "A000381",
+    "name": "Yassamin Ansari",
+    "short_name": "Yassamin Ansari",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3931,
+   "square_miles": 206.5,
+   "rank_least_compact": 366,
+   "rank_least_compact_in_party": 191
+  },
+  {
+   "code": "AZ-04",
+   "state": "AZ",
+   "number": 4,
+   "member": {
+    "bioguide": "S001211",
+    "name": "Greg Stanton",
+    "short_name": "Greg Stanton",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2154,
+   "square_miles": 179.8,
+   "rank_least_compact": 173,
+   "rank_least_compact_in_party": 101
+  },
+  {
+   "code": "AZ-05",
+   "state": "AZ",
+   "number": 5,
+   "member": {
+    "bioguide": "B001302",
+    "name": "Andy Biggs",
+    "short_name": "Andy Biggs",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3148,
+   "square_miles": 405.7,
+   "rank_least_compact": 320,
+   "rank_least_compact_in_party": 149
+  },
+  {
+   "code": "AZ-06",
+   "state": "AZ",
+   "number": 6,
+   "member": {
+    "bioguide": "C001133",
+    "name": "Juan Ciscomani",
+    "short_name": "Juan Ciscomani",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.227,
+   "square_miles": 13713.6,
+   "rank_least_compact": 185,
+   "rank_least_compact_in_party": 76
+  },
+  {
+   "code": "AZ-07",
+   "state": "AZ",
+   "number": 7,
+   "member": {
+    "bioguide": "G000606",
+    "name": "Adelita S. Grijalva",
+    "short_name": "Adelita Grijalva",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1792,
+   "square_miles": 15424.2,
+   "rank_least_compact": 126,
+   "rank_least_compact_in_party": 75
+  },
+  {
+   "code": "AZ-08",
+   "state": "AZ",
+   "number": 8,
+   "member": {
+    "bioguide": "H001098",
+    "name": "Abraham J. Hamadeh",
+    "short_name": "Abraham Hamadeh",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3207,
+   "square_miles": 578.8,
+   "rank_least_compact": 322,
+   "rank_least_compact_in_party": 151
+  },
+  {
+   "code": "AZ-09",
+   "state": "AZ",
+   "number": 9,
+   "member": {
+    "bioguide": "G000565",
+    "name": "Paul A. Gosar",
+    "short_name": "Paul Gosar",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1834,
+   "square_miles": 23375.5,
+   "rank_least_compact": 136,
+   "rank_least_compact_in_party": 53
+  },
+  {
+   "code": "CA-01",
+   "state": "CA",
+   "number": 1,
+   "member": {
+    "bioguide": "G000607",
+    "name": "James Gallagher",
+    "short_name": "James Gallagher",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2228,
+   "square_miles": 27049.2,
+   "rank_least_compact": 182,
+   "rank_least_compact_in_party": 75
+  },
+  {
+   "code": "CA-02",
+   "state": "CA",
+   "number": 2,
+   "member": {
+    "bioguide": "H001068",
+    "name": "Jared Huffman",
+    "short_name": "Jared Huffman",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1546,
+   "square_miles": 13162.4,
+   "rank_least_compact": 93,
+   "rank_least_compact_in_party": 57
+  },
+  {
+   "code": "CA-03",
+   "state": "CA",
+   "number": 3,
+   "member": {
+    "bioguide": "K000401",
+    "name": "Kevin Kiley",
+    "short_name": "Kevin Kiley",
+    "party": "Independent"
+   },
+   "polsby_popper": 0.1352,
+   "square_miles": 22048.5,
+   "rank_least_compact": 78
+  },
+  {
+   "code": "CA-04",
+   "state": "CA",
+   "number": 4,
+   "member": {
+    "bioguide": "T000460",
+    "name": "Mike Thompson",
+    "short_name": "Mike Thompson",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.184,
+   "square_miles": 3910.5,
+   "rank_least_compact": 137,
+   "rank_least_compact_in_party": 83
+  },
+  {
+   "code": "CA-05",
+   "state": "CA",
+   "number": 5,
+   "member": {
+    "bioguide": "M001177",
+    "name": "Tom McClintock",
+    "short_name": "Tom McClintock",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1718,
+   "square_miles": 9967.6,
+   "rank_least_compact": 116,
+   "rank_least_compact_in_party": 45
+  },
+  {
+   "code": "CA-06",
+   "state": "CA",
+   "number": 6,
+   "member": {
+    "bioguide": "B001287",
+    "name": "Ami Bera",
+    "short_name": "Ami Bera",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3325,
+   "square_miles": 254.2,
+   "rank_least_compact": 330,
+   "rank_least_compact_in_party": 172
+  },
+  {
+   "code": "CA-07",
+   "state": "CA",
+   "number": 7,
+   "member": {
+    "bioguide": "M001163",
+    "name": "Doris O. Matsui",
+    "short_name": "Doris Matsui",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2549,
+   "square_miles": 707.0,
+   "rank_least_compact": 223,
+   "rank_least_compact_in_party": 129
+  },
+  {
+   "code": "CA-08",
+   "state": "CA",
+   "number": 8,
+   "member": {
+    "bioguide": "G000559",
+    "name": "John Garamendi",
+    "short_name": "John Garamendi",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1795,
+   "square_miles": 555.4,
+   "rank_least_compact": 127,
+   "rank_least_compact_in_party": 76
+  },
+  {
+   "code": "CA-09",
+   "state": "CA",
+   "number": 9,
+   "member": {
+    "bioguide": "H001090",
+    "name": "Josh Harder",
+    "short_name": "Josh Harder",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2497,
+   "square_miles": 1383.3,
+   "rank_least_compact": 216,
+   "rank_least_compact_in_party": 124
+  },
+  {
+   "code": "CA-10",
+   "state": "CA",
+   "number": 10,
+   "member": {
+    "bioguide": "D000623",
+    "name": "Mark DeSaulnier",
+    "short_name": "Mark DeSaulnier",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2376,
+   "square_miles": 560.9,
+   "rank_least_compact": 204,
+   "rank_least_compact_in_party": 117
+  },
+  {
+   "code": "CA-11",
+   "state": "CA",
+   "number": 11,
+   "member": {
+    "bioguide": "P000197",
+    "name": "Nancy Pelosi",
+    "short_name": "Nancy Pelosi",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.307,
+   "square_miles": 41.9,
+   "rank_least_compact": 309,
+   "rank_least_compact_in_party": 164
+  },
+  {
+   "code": "CA-12",
+   "state": "CA",
+   "number": 12,
+   "member": {
+    "bioguide": "S001231",
+    "name": "Lateefah Simon",
+    "short_name": "Lateefah Simon",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2786,
+   "square_miles": 97.4,
+   "rank_least_compact": 259,
+   "rank_least_compact_in_party": 147
+  },
+  {
+   "code": "CA-13",
+   "state": "CA",
+   "number": 13,
+   "member": {
+    "bioguide": "G000605",
+    "name": "Adam Gray",
+    "short_name": "Adam Gray",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2359,
+   "square_miles": 6349.1,
+   "rank_least_compact": 200,
+   "rank_least_compact_in_party": 115
+  },
+  {
+   "code": "CA-14",
+   "state": "CA",
+   "number": 14,
+   "member": {
+    "bioguide": "W000832",
+    "name": "Aisha Wahab",
+    "short_name": "Aisha Wahab",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3331,
+   "square_miles": 587.1,
+   "rank_least_compact": 331,
+   "rank_least_compact_in_party": 173
+  },
+  {
+   "code": "CA-15",
+   "state": "CA",
+   "number": 15,
+   "member": {
+    "bioguide": "M001225",
+    "name": "Kevin Mullin",
+    "short_name": "Kevin Mullin",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2211,
+   "square_miles": 120.9,
+   "rank_least_compact": 181,
+   "rank_least_compact_in_party": 105
+  },
+  {
+   "code": "CA-16",
+   "state": "CA",
+   "number": 16,
+   "member": {
+    "bioguide": "L000607",
+    "name": "Sam T. Liccardo",
+    "short_name": "Sam Liccardo",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.156,
+   "square_miles": 535.0,
+   "rank_least_compact": 94,
+   "rank_least_compact_in_party": 58
+  },
+  {
+   "code": "CA-17",
+   "state": "CA",
+   "number": 17,
+   "member": {
+    "bioguide": "K000389",
+    "name": "Ro Khanna",
+    "short_name": "Ro Khanna",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2399,
+   "square_miles": 182.0,
+   "rank_least_compact": 210,
+   "rank_least_compact_in_party": 121
+  },
+  {
+   "code": "CA-18",
+   "state": "CA",
+   "number": 18,
+   "member": {
+    "bioguide": "L000397",
+    "name": "Zoe Lofgren",
+    "short_name": "Zoe Lofgren",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1777,
+   "square_miles": 4607.9,
+   "rank_least_compact": 124,
+   "rank_least_compact_in_party": 73
+  },
+  {
+   "code": "CA-19",
+   "state": "CA",
+   "number": 19,
+   "member": {
+    "bioguide": "P000613",
+    "name": "Jimmy Panetta",
+    "short_name": "Jimmy Panetta",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0755,
+   "square_miles": 2833.2,
+   "rank_least_compact": 16,
+   "rank_least_compact_in_party": 10
+  },
+  {
+   "code": "CA-20",
+   "state": "CA",
+   "number": 20,
+   "member": {
+    "bioguide": "F000480",
+    "name": "Vince Fong",
+    "short_name": "Vince Fong",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.0992,
+   "square_miles": 9722.9,
+   "rank_least_compact": 42,
+   "rank_least_compact_in_party": 15
+  },
+  {
+   "code": "CA-21",
+   "state": "CA",
+   "number": 21,
+   "member": {
+    "bioguide": "C001059",
+    "name": "Jim Costa",
+    "short_name": "Jim Costa",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.198,
+   "square_miles": 893.4,
+   "rank_least_compact": 147,
+   "rank_least_compact_in_party": 89
+  },
+  {
+   "code": "CA-22",
+   "state": "CA",
+   "number": 22,
+   "member": {
+    "bioguide": "V000129",
+    "name": "David G. Valadao",
+    "short_name": "David Valadao",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3141,
+   "square_miles": 4320.7,
+   "rank_least_compact": 318,
+   "rank_least_compact_in_party": 147
+  },
+  {
+   "code": "CA-23",
+   "state": "CA",
+   "number": 23,
+   "member": {
+    "bioguide": "O000019",
+    "name": "Jay Obernolte",
+    "short_name": "Jay Obernolte",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4372,
+   "square_miles": 17986.3,
+   "rank_least_compact": 394,
+   "rank_least_compact_in_party": 191
+  },
+  {
+   "code": "CA-24",
+   "state": "CA",
+   "number": 24,
+   "member": {
+    "bioguide": "C001112",
+    "name": "Salud O. Carbajal",
+    "short_name": "Salud Carbajal",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1534,
+   "square_miles": 4917.4,
+   "rank_least_compact": 91,
+   "rank_least_compact_in_party": 56
+  },
+  {
+   "code": "CA-25",
+   "state": "CA",
+   "number": 25,
+   "member": {
+    "bioguide": "R000599",
+    "name": "Raul Ruiz",
+    "short_name": "Raul Ruiz",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.165,
+   "square_miles": 12351.6,
+   "rank_least_compact": 106,
+   "rank_least_compact_in_party": 64
+  },
+  {
+   "code": "CA-26",
+   "state": "CA",
+   "number": 26,
+   "member": {
+    "bioguide": "B001285",
+    "name": "Julia Brownley",
+    "short_name": "Julia Brownley",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3075,
+   "square_miles": 1725.8,
+   "rank_least_compact": 310,
+   "rank_least_compact_in_party": 165
+  },
+  {
+   "code": "CA-27",
+   "state": "CA",
+   "number": 27,
+   "member": {
+    "bioguide": "W000830",
+    "name": "George Whitesides",
+    "short_name": "George Whitesides",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3783,
+   "square_miles": 1528.5,
+   "rank_least_compact": 354,
+   "rank_least_compact_in_party": 184
+  },
+  {
+   "code": "CA-28",
+   "state": "CA",
+   "number": 28,
+   "member": {
+    "bioguide": "C001080",
+    "name": "Judy Chu",
+    "short_name": "Judy Chu",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1388,
+   "square_miles": 789.7,
+   "rank_least_compact": 81,
+   "rank_least_compact_in_party": 51
+  },
+  {
+   "code": "CA-29",
+   "state": "CA",
+   "number": 29,
+   "member": {
+    "bioguide": "R000620",
+    "name": "Luz M. Rivas",
+    "short_name": "Luz Rivas",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1842,
+   "square_miles": 129.4,
+   "rank_least_compact": 138,
+   "rank_least_compact_in_party": 84
+  },
+  {
+   "code": "CA-30",
+   "state": "CA",
+   "number": 30,
+   "member": {
+    "bioguide": "F000483",
+    "name": "Laura Friedman",
+    "short_name": "Laura Friedman",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1568,
+   "square_miles": 180.1,
+   "rank_least_compact": 96,
+   "rank_least_compact_in_party": 60
+  },
+  {
+   "code": "CA-31",
+   "state": "CA",
+   "number": 31,
+   "member": {
+    "bioguide": "C001123",
+    "name": "Gilbert Ray Cisneros, Jr.",
+    "short_name": "Gilbert Cisneros",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1126,
+   "square_miles": 211.0,
+   "rank_least_compact": 55,
+   "rank_least_compact_in_party": 35
+  },
+  {
+   "code": "CA-32",
+   "state": "CA",
+   "number": 32,
+   "member": {
+    "bioguide": "S000344",
+    "name": "Brad Sherman",
+    "short_name": "Brad Sherman",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.183,
+   "square_miles": 296.6,
+   "rank_least_compact": 134,
+   "rank_least_compact_in_party": 82
+  },
+  {
+   "code": "CA-33",
+   "state": "CA",
+   "number": 33,
+   "member": {
+    "bioguide": "A000371",
+    "name": "Pete Aguilar",
+    "short_name": "Pete Aguilar",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1948,
+   "square_miles": 190.3,
+   "rank_least_compact": 145,
+   "rank_least_compact_in_party": 88
+  },
+  {
+   "code": "CA-34",
+   "state": "CA",
+   "number": 34,
+   "member": {
+    "bioguide": "G000585",
+    "name": "Jimmy Gomez",
+    "short_name": "Jimmy Gomez",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2171,
+   "square_miles": 50.0,
+   "rank_least_compact": 178,
+   "rank_least_compact_in_party": 103
+  },
+  {
+   "code": "CA-35",
+   "state": "CA",
+   "number": 35,
+   "member": {
+    "bioguide": "T000474",
+    "name": "Norma J. Torres",
+    "short_name": "Norma Torres",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2574,
+   "square_miles": 177.4,
+   "rank_least_compact": 228,
+   "rank_least_compact_in_party": 131
+  },
+  {
+   "code": "CA-36",
+   "state": "CA",
+   "number": 36,
+   "member": {
+    "bioguide": "L000582",
+    "name": "Ted Lieu",
+    "short_name": "Ted Lieu",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1262,
+   "square_miles": 97.1,
+   "rank_least_compact": 68,
+   "rank_least_compact_in_party": 43
+  },
+  {
+   "code": "CA-37",
+   "state": "CA",
+   "number": 37,
+   "member": {
+    "bioguide": "K000400",
+    "name": "Sydney Kamlager-Dove",
+    "short_name": "Sydney Kamlager-Dove",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3052,
+   "square_miles": 52.9,
+   "rank_least_compact": 305,
+   "rank_least_compact_in_party": 163
+  },
+  {
+   "code": "CA-38",
+   "state": "CA",
+   "number": 38,
+   "member": {
+    "bioguide": "S001156",
+    "name": "Linda T. Sánchez",
+    "short_name": "Linda Sánchez",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1498,
+   "square_miles": 150.7,
+   "rank_least_compact": 87,
+   "rank_least_compact_in_party": 54
+  },
+  {
+   "code": "CA-39",
+   "state": "CA",
+   "number": 39,
+   "member": {
+    "bioguide": "T000472",
+    "name": "Mark Takano",
+    "short_name": "Mark Takano",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2039,
+   "square_miles": 285.7,
+   "rank_least_compact": 155,
+   "rank_least_compact_in_party": 93
+  },
+  {
+   "code": "CA-40",
+   "state": "CA",
+   "number": 40,
+   "member": {
+    "bioguide": "K000397",
+    "name": "Young Kim",
+    "short_name": "Young Kim",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1537,
+   "square_miles": 393.3,
+   "rank_least_compact": 92,
+   "rank_least_compact_in_party": 35
+  },
+  {
+   "code": "CA-41",
+   "state": "CA",
+   "number": 41,
+   "member": {
+    "bioguide": "C000059",
+    "name": "Ken Calvert",
+    "short_name": "Ken Calvert",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.0625,
+   "square_miles": 1345.8,
+   "rank_least_compact": 12,
+   "rank_least_compact_in_party": 6
+  },
+  {
+   "code": "CA-42",
+   "state": "CA",
+   "number": 42,
+   "member": {
+    "bioguide": "G000598",
+    "name": "Robert Garcia",
+    "short_name": "Robert Garcia",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0669,
+   "square_miles": 218.8,
+   "rank_least_compact": 13,
+   "rank_least_compact_in_party": 7
+  },
+  {
+   "code": "CA-43",
+   "state": "CA",
+   "number": 43,
+   "member": {
+    "bioguide": "W000187",
+    "name": "Maxine Waters",
+    "short_name": "Maxine Waters",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2026,
+   "square_miles": 72.5,
+   "rank_least_compact": 153,
+   "rank_least_compact_in_party": 91
+  },
+  {
+   "code": "CA-44",
+   "state": "CA",
+   "number": 44,
+   "member": {
+    "bioguide": "B001300",
+    "name": "Nanette Diaz Barragán",
+    "short_name": "Nanette Barragán",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1567,
+   "square_miles": 94.7,
+   "rank_least_compact": 95,
+   "rank_least_compact_in_party": 59
+  },
+  {
+   "code": "CA-45",
+   "state": "CA",
+   "number": 45,
+   "member": {
+    "bioguide": "T000491",
+    "name": "Derek Tran",
+    "short_name": "Derek Tran",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.082,
+   "square_miles": 103.9,
+   "rank_least_compact": 25,
+   "rank_least_compact_in_party": 17
+  },
+  {
+   "code": "CA-46",
+   "state": "CA",
+   "number": 46,
+   "member": {
+    "bioguide": "C001110",
+    "name": "J. Luis Correa",
+    "short_name": "J. Correa",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1685,
+   "square_miles": 75.0,
+   "rank_least_compact": 111,
+   "rank_least_compact_in_party": 67
+  },
+  {
+   "code": "CA-47",
+   "state": "CA",
+   "number": 47,
+   "member": {
+    "bioguide": "M001241",
+    "name": "Dave Min",
+    "short_name": "Dave Min",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1783,
+   "square_miles": 176.0,
+   "rank_least_compact": 125,
+   "rank_least_compact_in_party": 74
+  },
+  {
+   "code": "CA-48",
+   "state": "CA",
+   "number": 48,
+   "member": {
+    "bioguide": "I000056",
+    "name": "Darrell Issa",
+    "short_name": "Darrell Issa",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2138,
+   "square_miles": 3634.5,
+   "rank_least_compact": 170,
+   "rank_least_compact_in_party": 70
+  },
+  {
+   "code": "CA-49",
+   "state": "CA",
+   "number": 49,
+   "member": {
+    "bioguide": "L000593",
+    "name": "Mike Levin",
+    "short_name": "Mike Levin",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2146,
+   "square_miles": 499.1,
+   "rank_least_compact": 171,
+   "rank_least_compact_in_party": 99
+  },
+  {
+   "code": "CA-50",
+   "state": "CA",
+   "number": 50,
+   "member": {
+    "bioguide": "P000608",
+    "name": "Scott H. Peters",
+    "short_name": "Scott Peters",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0897,
+   "square_miles": 272.9,
+   "rank_least_compact": 30,
+   "rank_least_compact_in_party": 20
+  },
+  {
+   "code": "CA-51",
+   "state": "CA",
+   "number": 51,
+   "member": {
+    "bioguide": "J000305",
+    "name": "Sara Jacobs",
+    "short_name": "Sara Jacobs",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1286,
+   "square_miles": 191.1,
+   "rank_least_compact": 70,
+   "rank_least_compact_in_party": 44
+  },
+  {
+   "code": "CA-52",
+   "state": "CA",
+   "number": 52,
+   "member": {
+    "bioguide": "V000130",
+    "name": "Juan Vargas",
+    "short_name": "Juan Vargas",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2659,
+   "square_miles": 142.9,
+   "rank_least_compact": 238,
+   "rank_least_compact_in_party": 136
+  },
+  {
+   "code": "CO-01",
+   "state": "CO",
+   "number": 1,
+   "member": {
+    "bioguide": "D000197",
+    "name": "Diana DeGette",
+    "short_name": "Diana DeGette",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0916,
+   "square_miles": 155.5,
+   "rank_least_compact": 33,
+   "rank_least_compact_in_party": 22
+  },
+  {
+   "code": "CO-02",
+   "state": "CO",
+   "number": 2,
+   "member": {
+    "bioguide": "N000191",
+    "name": "Joe Neguse",
+    "short_name": "Joe Neguse",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3348,
+   "square_miles": 11539.8,
+   "rank_least_compact": 332,
+   "rank_least_compact_in_party": 174
+  },
+  {
+   "code": "CO-03",
+   "state": "CO",
+   "number": 3,
+   "member": {
+    "bioguide": "H001100",
+    "name": "Jeff Hurd",
+    "short_name": "Jeff Hurd",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.306,
+   "square_miles": 50086.2,
+   "rank_least_compact": 306,
+   "rank_least_compact_in_party": 140
+  },
+  {
+   "code": "CO-04",
+   "state": "CO",
+   "number": 4,
+   "member": {
+    "bioguide": "B000825",
+    "name": "Lauren Boebert",
+    "short_name": "Lauren Boebert",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2941,
+   "square_miles": 32294.7,
+   "rank_least_compact": 286,
+   "rank_least_compact_in_party": 130
+  },
+  {
+   "code": "CO-05",
+   "state": "CO",
+   "number": 5,
+   "member": {
+    "bioguide": "C001137",
+    "name": "Jeff Crank",
+    "short_name": "Jeff Crank",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.5596,
+   "square_miles": 1474.1,
+   "rank_least_compact": 422,
+   "rank_least_compact_in_party": 209
+  },
+  {
+   "code": "CO-06",
+   "state": "CO",
+   "number": 6,
+   "member": {
+    "bioguide": "C001121",
+    "name": "Jason Crow",
+    "short_name": "Jason Crow",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0996,
+   "square_miles": 311.0,
+   "rank_least_compact": 43,
+   "rank_least_compact_in_party": 28
+  },
+  {
+   "code": "CO-07",
+   "state": "CO",
+   "number": 7,
+   "member": {
+    "bioguide": "P000620",
+    "name": "Brittany Pettersen",
+    "short_name": "Brittany Pettersen",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2511,
+   "square_miles": 7200.2,
+   "rank_least_compact": 219,
+   "rank_least_compact_in_party": 127
+  },
+  {
+   "code": "CO-08",
+   "state": "CO",
+   "number": 8,
+   "member": {
+    "bioguide": "E000300",
+    "name": "Gabe Evans",
+    "short_name": "Gabe Evans",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2123,
+   "square_miles": 1031.5,
+   "rank_least_compact": 168,
+   "rank_least_compact_in_party": 68
+  },
+  {
+   "code": "CT-01",
+   "state": "CT",
+   "number": 1,
+   "member": {
+    "bioguide": "L000557",
+    "name": "John B. Larson",
+    "short_name": "John Larson",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1706,
+   "square_miles": 676.2,
+   "rank_least_compact": 115,
+   "rank_least_compact_in_party": 70
+  },
+  {
+   "code": "CT-02",
+   "state": "CT",
+   "number": 2,
+   "member": {
+    "bioguide": "C001069",
+    "name": "Joe Courtney",
+    "short_name": "Joe Courtney",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3727,
+   "square_miles": 2083.8,
+   "rank_least_compact": 350,
+   "rank_least_compact_in_party": 181
+  },
+  {
+   "code": "CT-03",
+   "state": "CT",
+   "number": 3,
+   "member": {
+    "bioguide": "D000216",
+    "name": "Rosa L. DeLauro",
+    "short_name": "Rosa DeLauro",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2386,
+   "square_miles": 489.4,
+   "rank_least_compact": 206,
+   "rank_least_compact_in_party": 118
+  },
+  {
+   "code": "CT-04",
+   "state": "CT",
+   "number": 4,
+   "member": {
+    "bioguide": "H001047",
+    "name": "James A. Himes",
+    "short_name": "Jim Himes",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2259,
+   "square_miles": 460.3,
+   "rank_least_compact": 184,
+   "rank_least_compact_in_party": 107
+  },
+  {
+   "code": "CT-05",
+   "state": "CT",
+   "number": 5,
+   "member": {
+    "bioguide": "H001081",
+    "name": "Jahana Hayes",
+    "short_name": "Jahana Hayes",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2332,
+   "square_miles": 1280.2,
+   "rank_least_compact": 197,
+   "rank_least_compact_in_party": 113
+  },
+  {
+   "code": "DE-AL",
+   "state": "DE",
+   "number": null,
+   "member": {
+    "bioguide": "M001238",
+    "name": "Sarah McBride",
+    "short_name": "Sarah McBride",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3463,
+   "square_miles": 2010.5
+  },
+  {
+   "code": "FL-01",
+   "state": "FL",
+   "number": 1,
+   "member": {
+    "bioguide": "P000622",
+    "name": "Jimmy Patronis",
+    "short_name": "Jimmy Patronis, Jr.",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4785,
+   "square_miles": 3570.4,
+   "rank_least_compact": 406,
+   "rank_least_compact_in_party": 199
+  },
+  {
+   "code": "FL-02",
+   "state": "FL",
+   "number": 2,
+   "member": {
+    "bioguide": "D000628",
+    "name": "Neal P. Dunn",
+    "short_name": "Neal Dunn",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2295,
+   "square_miles": 10247.2,
+   "rank_least_compact": 190,
+   "rank_least_compact_in_party": 79
+  },
+  {
+   "code": "FL-03",
+   "state": "FL",
+   "number": 3,
+   "member": {
+    "bioguide": "C001039",
+    "name": "Kat Cammack",
+    "short_name": "Kat Cammack",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4443,
+   "square_miles": 7511.5,
+   "rank_least_compact": 397,
+   "rank_least_compact_in_party": 193
+  },
+  {
+   "code": "FL-04",
+   "state": "FL",
+   "number": 4,
+   "member": {
+    "bioguide": "B001314",
+    "name": "Aaron Bean",
+    "short_name": "Aaron Bean",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3727,
+   "square_miles": 1891.4,
+   "rank_least_compact": 351,
+   "rank_least_compact_in_party": 167
+  },
+  {
+   "code": "FL-05",
+   "state": "FL",
+   "number": 5,
+   "member": {
+    "bioguide": "R000609",
+    "name": "John H. Rutherford",
+    "short_name": "John Rutherford",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4959,
+   "square_miles": 684.0,
+   "rank_least_compact": 410,
+   "rank_least_compact_in_party": 201
+  },
+  {
+   "code": "FL-06",
+   "state": "FL",
+   "number": 6,
+   "member": {
+    "bioguide": "F000484",
+    "name": "Randy Fine",
+    "short_name": "Randy Fine",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4999,
+   "square_miles": 3770.7,
+   "rank_least_compact": 411,
+   "rank_least_compact_in_party": 202
+  },
+  {
+   "code": "FL-07",
+   "state": "FL",
+   "number": 7,
+   "member": {
+    "bioguide": "M001216",
+    "name": "Cory Mills",
+    "short_name": "Cory Mills",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4122,
+   "square_miles": 940.3,
+   "rank_least_compact": 377,
+   "rank_least_compact_in_party": 179
+  },
+  {
+   "code": "FL-08",
+   "state": "FL",
+   "number": 8,
+   "member": {
+    "bioguide": "H001099",
+    "name": "Mike Haridopolos",
+    "short_name": "Mike Haridopolos",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.406,
+   "square_miles": 1959.7,
+   "rank_least_compact": 374,
+   "rank_least_compact_in_party": 177
+  },
+  {
+   "code": "FL-09",
+   "state": "FL",
+   "number": 9,
+   "member": {
+    "bioguide": "S001200",
+    "name": "Darren Soto",
+    "short_name": "Darren Soto",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.4877,
+   "square_miles": 1846.1,
+   "rank_least_compact": 408,
+   "rank_least_compact_in_party": 205
+  },
+  {
+   "code": "FL-10",
+   "state": "FL",
+   "number": 10,
+   "member": {
+    "bioguide": "F000476",
+    "name": "Maxwell Frost",
+    "short_name": "Maxwell Frost",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3779,
+   "square_miles": 272.5,
+   "rank_least_compact": 353,
+   "rank_least_compact_in_party": 183
+  },
+  {
+   "code": "FL-11",
+   "state": "FL",
+   "number": 11,
+   "member": {
+    "bioguide": "W000806",
+    "name": "Daniel Webster",
+    "short_name": "Daniel Webster",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3662,
+   "square_miles": 1836.2,
+   "rank_least_compact": 346,
+   "rank_least_compact_in_party": 165
+  },
+  {
+   "code": "FL-12",
+   "state": "FL",
+   "number": 12,
+   "member": {
+    "bioguide": "B001257",
+    "name": "Gus M. Bilirakis",
+    "short_name": "Gus Bilirakis",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2962,
+   "square_miles": 1770.9,
+   "rank_least_compact": 290,
+   "rank_least_compact_in_party": 133
+  },
+  {
+   "code": "FL-13",
+   "state": "FL",
+   "number": 13,
+   "member": {
+    "bioguide": "L000596",
+    "name": "Anna Paulina Luna",
+    "short_name": "Anna Luna",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1659,
+   "square_miles": 273.7,
+   "rank_least_compact": 107,
+   "rank_least_compact_in_party": 42
+  },
+  {
+   "code": "FL-14",
+   "state": "FL",
+   "number": 14,
+   "member": {
+    "bioguide": "C001066",
+    "name": "Kathy Castor",
+    "short_name": "Kathy Castor",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0953,
+   "square_miles": 301.1,
+   "rank_least_compact": 36,
+   "rank_least_compact_in_party": 25
+  },
+  {
+   "code": "FL-15",
+   "state": "FL",
+   "number": 15,
+   "member": {
+    "bioguide": "L000597",
+    "name": "Laurel M. Lee",
+    "short_name": "Laurel Lee",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.5829,
+   "square_miles": 674.9,
+   "rank_least_compact": 426,
+   "rank_least_compact_in_party": 213
+  },
+  {
+   "code": "FL-16",
+   "state": "FL",
+   "number": 16,
+   "member": {
+    "bioguide": "B001260",
+    "name": "Vern Buchanan",
+    "short_name": "Vern Buchanan",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4448,
+   "square_miles": 1224.4,
+   "rank_least_compact": 399,
+   "rank_least_compact_in_party": 195
+  },
+  {
+   "code": "FL-17",
+   "state": "FL",
+   "number": 17,
+   "member": {
+    "bioguide": "S001214",
+    "name": "W. Gregory Steube",
+    "short_name": "W. Steube",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2703,
+   "square_miles": 1574.1,
+   "rank_least_compact": 241,
+   "rank_least_compact_in_party": 102
+  },
+  {
+   "code": "FL-18",
+   "state": "FL",
+   "number": 18,
+   "member": {
+    "bioguide": "F000472",
+    "name": "Scott Franklin",
+    "short_name": "C. Franklin",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4308,
+   "square_miles": 7084.3,
+   "rank_least_compact": 385,
+   "rank_least_compact_in_party": 185
+  },
+  {
+   "code": "FL-19",
+   "state": "FL",
+   "number": 19,
+   "member": {
+    "bioguide": "D000032",
+    "name": "Byron Donalds",
+    "short_name": "Byron Donalds",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1104,
+   "square_miles": 803.7,
+   "rank_least_compact": 52,
+   "rank_least_compact_in_party": 19
+  },
+  {
+   "code": "FL-20",
+   "state": "FL",
+   "number": 20,
+   "member": null,
+   "polsby_popper": 0.2785,
+   "square_miles": 2396.6,
+   "rank_least_compact": 258
+  },
+  {
+   "code": "FL-21",
+   "state": "FL",
+   "number": 21,
+   "member": {
+    "bioguide": "M001199",
+    "name": "Brian J. Mast",
+    "short_name": "Brian Mast",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4707,
+   "square_miles": 1689.6,
+   "rank_least_compact": 405,
+   "rank_least_compact_in_party": 198
+  },
+  {
+   "code": "FL-22",
+   "state": "FL",
+   "number": 22,
+   "member": {
+    "bioguide": "F000462",
+    "name": "Lois Frankel",
+    "short_name": "Lois Frankel",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3786,
+   "square_miles": 261.8,
+   "rank_least_compact": 355,
+   "rank_least_compact_in_party": 185
+  },
+  {
+   "code": "FL-23",
+   "state": "FL",
+   "number": 23,
+   "member": {
+    "bioguide": "M001217",
+    "name": "Jared Moskowitz",
+    "short_name": "Jared Moskowitz",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2283,
+   "square_miles": 173.9,
+   "rank_least_compact": 189,
+   "rank_least_compact_in_party": 109
+  },
+  {
+   "code": "FL-24",
+   "state": "FL",
+   "number": 24,
+   "member": {
+    "bioguide": "W000808",
+    "name": "Frederica S. Wilson",
+    "short_name": "Frederica Wilson",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.452,
+   "square_miles": 123.5,
+   "rank_least_compact": 401,
+   "rank_least_compact_in_party": 202
+  },
+  {
+   "code": "FL-25",
+   "state": "FL",
+   "number": 25,
+   "member": {
+    "bioguide": "W000797",
+    "name": "Debbie Wasserman Schultz",
+    "short_name": "Debbie Wasserman Schultz",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3994,
+   "square_miles": 208.7,
+   "rank_least_compact": 369,
+   "rank_least_compact_in_party": 192
+  },
+  {
+   "code": "FL-26",
+   "state": "FL",
+   "number": 26,
+   "member": {
+    "bioguide": "D000600",
+    "name": "Mario Diaz-Balart",
+    "short_name": "Mario Diaz-Balart",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3248,
+   "square_miles": 2402.4,
+   "rank_least_compact": 324,
+   "rank_least_compact_in_party": 152
+  },
+  {
+   "code": "FL-27",
+   "state": "FL",
+   "number": 27,
+   "member": {
+    "bioguide": "S000168",
+    "name": "Maria Elvira Salazar",
+    "short_name": "Maria Salazar",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2917,
+   "square_miles": 130.3,
+   "rank_least_compact": 282,
+   "rank_least_compact_in_party": 126
+  },
+  {
+   "code": "FL-28",
+   "state": "FL",
+   "number": 28,
+   "member": {
+    "bioguide": "G000593",
+    "name": "Carlos A. Gimenez",
+    "short_name": "Carlos Gimenez",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.0547,
+   "square_miles": 2626.2,
+   "rank_least_compact": 10,
+   "rank_least_compact_in_party": 5
+  },
+  {
+   "code": "GA-01",
+   "state": "GA",
+   "number": 1,
+   "member": {
+    "bioguide": "C001103",
+    "name": "Earl L. \"Buddy\" Carter",
+    "short_name": "Buddy Carter",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2538,
+   "square_miles": 7640.1,
+   "rank_least_compact": 222,
+   "rank_least_compact_in_party": 92
+  },
+  {
+   "code": "GA-02",
+   "state": "GA",
+   "number": 2,
+   "member": {
+    "bioguide": "B000490",
+    "name": "Sanford D. Bishop, Jr.",
+    "short_name": "Sanford Bishop, Jr.",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2746,
+   "square_miles": 10119.6,
+   "rank_least_compact": 250,
+   "rank_least_compact_in_party": 142
+  },
+  {
+   "code": "GA-03",
+   "state": "GA",
+   "number": 3,
+   "member": {
+    "bioguide": "J000311",
+    "name": "Brian Jack",
+    "short_name": "Brian Jack",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2809,
+   "square_miles": 4249.3,
+   "rank_least_compact": 262,
+   "rank_least_compact_in_party": 110
+  },
+  {
+   "code": "GA-04",
+   "state": "GA",
+   "number": 4,
+   "member": {
+    "bioguide": "J000288",
+    "name": "Henry C. \"Hank\" Johnson, Jr.",
+    "short_name": "Hank Johnson, Jr.",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2064,
+   "square_miles": 273.4,
+   "rank_least_compact": 160,
+   "rank_least_compact_in_party": 95
+  },
+  {
+   "code": "GA-05",
+   "state": "GA",
+   "number": 5,
+   "member": {
+    "bioguide": "W000788",
+    "name": "Nikema Williams",
+    "short_name": "Nikema Williams",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2581,
+   "square_miles": 226.1,
+   "rank_least_compact": 230,
+   "rank_least_compact_in_party": 133
+  },
+  {
+   "code": "GA-06",
+   "state": "GA",
+   "number": 6,
+   "member": {
+    "bioguide": "M001208",
+    "name": "Lucy McBath",
+    "short_name": "Lucy McBath",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2583,
+   "square_miles": 523.4,
+   "rank_least_compact": 231,
+   "rank_least_compact_in_party": 134
+  },
+  {
+   "code": "GA-07",
+   "state": "GA",
+   "number": 7,
+   "member": {
+    "bioguide": "M001218",
+    "name": "Richard McCormick",
+    "short_name": "Rich McCormick",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2395,
+   "square_miles": 1157.2,
+   "rank_least_compact": 209,
+   "rank_least_compact_in_party": 87
+  },
+  {
+   "code": "GA-08",
+   "state": "GA",
+   "number": 8,
+   "member": {
+    "bioguide": "S001189",
+    "name": "Austin Scott",
+    "short_name": "Austin Scott",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2167,
+   "square_miles": 11080.8,
+   "rank_least_compact": 177,
+   "rank_least_compact_in_party": 73
+  },
+  {
+   "code": "GA-09",
+   "state": "GA",
+   "number": 9,
+   "member": {
+    "bioguide": "C001116",
+    "name": "Andrew S. Clyde",
+    "short_name": "Andrew Clyde",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1812,
+   "square_miles": 3464.7,
+   "rank_least_compact": 129,
+   "rank_least_compact_in_party": 51
+  },
+  {
+   "code": "GA-10",
+   "state": "GA",
+   "number": 10,
+   "member": {
+    "bioguide": "C001129",
+    "name": "Mike Collins",
+    "short_name": "Mike Collins, Jr.",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2413,
+   "square_miles": 5341.4,
+   "rank_least_compact": 213,
+   "rank_least_compact_in_party": 89
+  },
+  {
+   "code": "GA-11",
+   "state": "GA",
+   "number": 11,
+   "member": {
+    "bioguide": "L000583",
+    "name": "Barry Loudermilk",
+    "short_name": "Barry Loudermilk",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2938,
+   "square_miles": 1502.9,
+   "rank_least_compact": 285,
+   "rank_least_compact_in_party": 129
+  },
+  {
+   "code": "GA-12",
+   "state": "GA",
+   "number": 12,
+   "member": {
+    "bioguide": "A000372",
+    "name": "Rick W. Allen",
+    "short_name": "Rick Allen",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2901,
+   "square_miles": 9824.5,
+   "rank_least_compact": 279,
+   "rank_least_compact_in_party": 123
+  },
+  {
+   "code": "GA-13",
+   "state": "GA",
+   "number": 13,
+   "member": {
+    "bioguide": "B001328",
+    "name": "Everton Blair Jr.",
+    "short_name": "Everton Blair, Jr.",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1362,
+   "square_miles": 543.4,
+   "rank_least_compact": 79,
+   "rank_least_compact_in_party": 49
+  },
+  {
+   "code": "GA-14",
+   "state": "GA",
+   "number": 14,
+   "member": {
+    "bioguide": "F000485",
+    "name": "Clay Fuller",
+    "short_name": "Clay Fuller",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2955,
+   "square_miles": 2961.0,
+   "rank_least_compact": 289,
+   "rank_least_compact_in_party": 132
+  },
+  {
+   "code": "HI-01",
+   "state": "HI",
+   "number": 1,
+   "member": {
+    "bioguide": "C001055",
+    "name": "Ed Case",
+    "short_name": "Ed Case",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3281,
+   "square_miles": 214.1,
+   "rank_least_compact": 326,
+   "rank_least_compact_in_party": 170
+  },
+  {
+   "code": "HI-02",
+   "state": "HI",
+   "number": 2,
+   "member": {
+    "bioguide": "T000487",
+    "name": "Jill N. Tokuda",
+    "short_name": "Jill Tokuda",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0813,
+   "square_miles": 6243.1,
+   "rank_least_compact": 23,
+   "rank_least_compact_in_party": 15
+  },
+  {
+   "code": "IA-01",
+   "state": "IA",
+   "number": 1,
+   "member": {
+    "bioguide": "M001215",
+    "name": "Mariannette Miller-Meeks",
+    "short_name": "Mariannette Miller-Meeks",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2858,
+   "square_miles": 10997.5,
+   "rank_least_compact": 271,
+   "rank_least_compact_in_party": 117
+  },
+  {
+   "code": "IA-02",
+   "state": "IA",
+   "number": 2,
+   "member": {
+    "bioguide": "H001091",
+    "name": "Ashley Hinson",
+    "short_name": "Ashley Hinson",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4195,
+   "square_miles": 12985.7,
+   "rank_least_compact": 380,
+   "rank_least_compact_in_party": 181
+  },
+  {
+   "code": "IA-03",
+   "state": "IA",
+   "number": 3,
+   "member": {
+    "bioguide": "N000193",
+    "name": "Zachary Nunn",
+    "short_name": "Zachary (Zach) Nunn",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3526,
+   "square_miles": 10748.9,
+   "rank_least_compact": 340,
+   "rank_least_compact_in_party": 161
+  },
+  {
+   "code": "IA-04",
+   "state": "IA",
+   "number": 4,
+   "member": {
+    "bioguide": "F000446",
+    "name": "Randy Feenstra",
+    "short_name": "Randy Feenstra",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2884,
+   "square_miles": 21540.2,
+   "rank_least_compact": 275,
+   "rank_least_compact_in_party": 120
+  },
+  {
+   "code": "ID-01",
+   "state": "ID",
+   "number": 1,
+   "member": {
+    "bioguide": "F000469",
+    "name": "Russ Fulcher",
+    "short_name": "Russ Fulcher",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1897,
+   "square_miles": 39906.1,
+   "rank_least_compact": 140,
+   "rank_least_compact_in_party": 54
+  },
+  {
+   "code": "ID-02",
+   "state": "ID",
+   "number": 2,
+   "member": {
+    "bioguide": "S001148",
+    "name": "Michael K. Simpson",
+    "short_name": "Mike Simpson",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3282,
+   "square_miles": 43662.5,
+   "rank_least_compact": 327,
+   "rank_least_compact_in_party": 154
+  },
+  {
+   "code": "IL-01",
+   "state": "IL",
+   "number": 1,
+   "member": {
+    "bioguide": "J000309",
+    "name": "Jonathan L. Jackson",
+    "short_name": "Jonathan Jackson",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1329,
+   "square_miles": 620.2,
+   "rank_least_compact": 75,
+   "rank_least_compact_in_party": 48
+  },
+  {
+   "code": "IL-02",
+   "state": "IL",
+   "number": 2,
+   "member": {
+    "bioguide": "K000385",
+    "name": "Robin L. Kelly",
+    "short_name": "Robin Kelly",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2796,
+   "square_miles": 3930.4,
+   "rank_least_compact": 261,
+   "rank_least_compact_in_party": 149
+  },
+  {
+   "code": "IL-03",
+   "state": "IL",
+   "number": 3,
+   "member": {
+    "bioguide": "R000617",
+    "name": "Delia C. Ramirez",
+    "short_name": "Delia Ramirez",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0824,
+   "square_miles": 156.8,
+   "rank_least_compact": 26,
+   "rank_least_compact_in_party": 18
+  },
+  {
+   "code": "IL-04",
+   "state": "IL",
+   "number": 4,
+   "member": {
+    "bioguide": "G000586",
+    "name": "Jesús G. \"Chuy\" García",
+    "short_name": "Chuy García",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1203,
+   "square_miles": 97.0,
+   "rank_least_compact": 61,
+   "rank_least_compact_in_party": 38
+  },
+  {
+   "code": "IL-05",
+   "state": "IL",
+   "number": 5,
+   "member": {
+    "bioguide": "Q000023",
+    "name": "Mike Quigley",
+    "short_name": "Mike Quigley",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0718,
+   "square_miles": 158.2,
+   "rank_least_compact": 15,
+   "rank_least_compact_in_party": 9
+  },
+  {
+   "code": "IL-06",
+   "state": "IL",
+   "number": 6,
+   "member": {
+    "bioguide": "C001117",
+    "name": "Sean Casten",
+    "short_name": "Sean Casten",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.163,
+   "square_miles": 229.8,
+   "rank_least_compact": 105,
+   "rank_least_compact_in_party": 63
+  },
+  {
+   "code": "IL-07",
+   "state": "IL",
+   "number": 7,
+   "member": {
+    "bioguide": "D000096",
+    "name": "Danny K. Davis",
+    "short_name": "Danny Davis",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1364,
+   "square_miles": 68.8,
+   "rank_least_compact": 80,
+   "rank_least_compact_in_party": 50
+  },
+  {
+   "code": "IL-08",
+   "state": "IL",
+   "number": 8,
+   "member": {
+    "bioguide": "K000391",
+    "name": "Raja Krishnamoorthi",
+    "short_name": "Raja Krishnamoorthi",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1097,
+   "square_miles": 291.3,
+   "rank_least_compact": 51,
+   "rank_least_compact_in_party": 33
+  },
+  {
+   "code": "IL-09",
+   "state": "IL",
+   "number": 9,
+   "member": {
+    "bioguide": "S001145",
+    "name": "Janice D. Schakowsky",
+    "short_name": "Jan Schakowsky",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1063,
+   "square_miles": 172.0,
+   "rank_least_compact": 48,
+   "rank_least_compact_in_party": 31
+  },
+  {
+   "code": "IL-10",
+   "state": "IL",
+   "number": 10,
+   "member": {
+    "bioguide": "S001190",
+    "name": "Bradley Scott Schneider",
+    "short_name": "Brad Schneider",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2781,
+   "square_miles": 536.0,
+   "rank_least_compact": 255,
+   "rank_least_compact_in_party": 144
+  },
+  {
+   "code": "IL-11",
+   "state": "IL",
+   "number": 11,
+   "member": {
+    "bioguide": "F000454",
+    "name": "Bill Foster",
+    "short_name": "Bill Foster",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1479,
+   "square_miles": 928.1,
+   "rank_least_compact": 85,
+   "rank_least_compact_in_party": 53
+  },
+  {
+   "code": "IL-12",
+   "state": "IL",
+   "number": 12,
+   "member": {
+    "bioguide": "B001295",
+    "name": "Mike Bost",
+    "short_name": "Mike Bost",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2679,
+   "square_miles": 14273.8,
+   "rank_least_compact": 239,
+   "rank_least_compact_in_party": 101
+  },
+  {
+   "code": "IL-13",
+   "state": "IL",
+   "number": 13,
+   "member": {
+    "bioguide": "B001315",
+    "name": "Nikki Budzinski",
+    "short_name": "Nicole (Nikki) Budzinski",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1059,
+   "square_miles": 2300.0,
+   "rank_least_compact": 47,
+   "rank_least_compact_in_party": 30
+  },
+  {
+   "code": "IL-14",
+   "state": "IL",
+   "number": 14,
+   "member": {
+    "bioguide": "U000040",
+    "name": "Lauren Underwood",
+    "short_name": "Lauren Underwood",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.279,
+   "square_miles": 1998.0,
+   "rank_least_compact": 260,
+   "rank_least_compact_in_party": 148
+  },
+  {
+   "code": "IL-15",
+   "state": "IL",
+   "number": 15,
+   "member": {
+    "bioguide": "M001211",
+    "name": "Mary E. Miller",
+    "short_name": "Mary Miller",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1272,
+   "square_miles": 16988.2,
+   "rank_least_compact": 69,
+   "rank_least_compact_in_party": 26
+  },
+  {
+   "code": "IL-16",
+   "state": "IL",
+   "number": 16,
+   "member": {
+    "bioguide": "L000585",
+    "name": "Darin LaHood",
+    "short_name": "Darin LaHood",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.0991,
+   "square_miles": 9022.4,
+   "rank_least_compact": 41,
+   "rank_least_compact_in_party": 14
+  },
+  {
+   "code": "IL-17",
+   "state": "IL",
+   "number": 17,
+   "member": {
+    "bioguide": "S001225",
+    "name": "Eric Sorensen",
+    "short_name": "Eric Sorensen",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0814,
+   "square_miles": 4567.3,
+   "rank_least_compact": 24,
+   "rank_least_compact_in_party": 16
+  },
+  {
+   "code": "IN-01",
+   "state": "IN",
+   "number": 1,
+   "member": {
+    "bioguide": "M001214",
+    "name": "Frank J. Mrvan",
+    "short_name": "Frank Mrvan",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.4275,
+   "square_miles": 1112.3,
+   "rank_least_compact": 384,
+   "rank_least_compact_in_party": 197
+  },
+  {
+   "code": "IN-02",
+   "state": "IN",
+   "number": 2,
+   "member": {
+    "bioguide": "Y000067",
+    "name": "Rudy Yakym III",
+    "short_name": "Rudy Yakym",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.5293,
+   "square_miles": 4397.5,
+   "rank_least_compact": 418,
+   "rank_least_compact_in_party": 206
+  },
+  {
+   "code": "IN-03",
+   "state": "IN",
+   "number": 3,
+   "member": {
+    "bioguide": "S001188",
+    "name": "Marlin A. Stutzman",
+    "short_name": "Marlin Stutzman",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.5299,
+   "square_miles": 4445.6,
+   "rank_least_compact": 419,
+   "rank_least_compact_in_party": 207
+  },
+  {
+   "code": "IN-04",
+   "state": "IN",
+   "number": 4,
+   "member": {
+    "bioguide": "B001307",
+    "name": "James R. Baird",
+    "short_name": "James Baird",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4108,
+   "square_miles": 6126.3,
+   "rank_least_compact": 376,
+   "rank_least_compact_in_party": 178
+  },
+  {
+   "code": "IN-05",
+   "state": "IN",
+   "number": 5,
+   "member": {
+    "bioguide": "S000929",
+    "name": "Victoria Spartz",
+    "short_name": "Victoria Spartz",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.5597,
+   "square_miles": 2209.3,
+   "rank_least_compact": 423,
+   "rank_least_compact_in_party": 210
+  },
+  {
+   "code": "IN-06",
+   "state": "IN",
+   "number": 6,
+   "member": {
+    "bioguide": "S001229",
+    "name": "Jefferson Shreve",
+    "short_name": "Jefferson Shreve",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4217,
+   "square_miles": 3298.2,
+   "rank_least_compact": 381,
+   "rank_least_compact_in_party": 182
+  },
+  {
+   "code": "IN-07",
+   "state": "IN",
+   "number": 7,
+   "member": {
+    "bioguide": "C001072",
+    "name": "André Carson",
+    "short_name": "André Carson",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.7148,
+   "square_miles": 282.8,
+   "rank_least_compact": 429,
+   "rank_least_compact_in_party": 212
+  },
+  {
+   "code": "IN-08",
+   "state": "IN",
+   "number": 8,
+   "member": {
+    "bioguide": "M001233",
+    "name": "Mark B. Messmer",
+    "short_name": "Mark Messmer",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2155,
+   "square_miles": 8217.0,
+   "rank_least_compact": 174,
+   "rank_least_compact_in_party": 71
+  },
+  {
+   "code": "IN-09",
+   "state": "IN",
+   "number": 9,
+   "member": {
+    "bioguide": "H001093",
+    "name": "Erin Houchin",
+    "short_name": "Erin Houchin",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3498,
+   "square_miles": 6098.1,
+   "rank_least_compact": 336,
+   "rank_least_compact_in_party": 158
+  },
+  {
+   "code": "KS-01",
+   "state": "KS",
+   "number": 1,
+   "member": {
+    "bioguide": "M000871",
+    "name": "Tracey Mann",
+    "short_name": "Tracey Mann",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.351,
+   "square_miles": 49840.9,
+   "rank_least_compact": 338,
+   "rank_least_compact_in_party": 160
+  },
+  {
+   "code": "KS-02",
+   "state": "KS",
+   "number": 2,
+   "member": {
+    "bioguide": "S001228",
+    "name": "Derek Schmidt",
+    "short_name": "Derek Schmidt",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1526,
+   "square_miles": 15504.7,
+   "rank_least_compact": 89,
+   "rank_least_compact_in_party": 33
+  },
+  {
+   "code": "KS-03",
+   "state": "KS",
+   "number": 3,
+   "member": {
+    "bioguide": "D000629",
+    "name": "Sharice Davids",
+    "short_name": "Sharice Davids",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.4528,
+   "square_miles": 2293.6,
+   "rank_least_compact": 402,
+   "rank_least_compact_in_party": 203
+  },
+  {
+   "code": "KS-04",
+   "state": "KS",
+   "number": 4,
+   "member": {
+    "bioguide": "E000298",
+    "name": "Ron Estes",
+    "short_name": "Ron Estes",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4476,
+   "square_miles": 14637.5,
+   "rank_least_compact": 400,
+   "rank_least_compact_in_party": 196
+  },
+  {
+   "code": "KY-01",
+   "state": "KY",
+   "number": 1,
+   "member": {
+    "bioguide": "C001108",
+    "name": "James Comer",
+    "short_name": "James Comer",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.0963,
+   "square_miles": 11956.8,
+   "rank_least_compact": 38,
+   "rank_least_compact_in_party": 13
+  },
+  {
+   "code": "KY-02",
+   "state": "KY",
+   "number": 2,
+   "member": {
+    "bioguide": "G000558",
+    "name": "Brett Guthrie",
+    "short_name": "Brett Guthrie",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2353,
+   "square_miles": 7445.8,
+   "rank_least_compact": 199,
+   "rank_least_compact_in_party": 83
+  },
+  {
+   "code": "KY-03",
+   "state": "KY",
+   "number": 3,
+   "member": {
+    "bioguide": "M001220",
+    "name": "Morgan McGarvey",
+    "short_name": "Morgan McGarvey",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.4405,
+   "square_miles": 323.1,
+   "rank_least_compact": 396,
+   "rank_least_compact_in_party": 201
+  },
+  {
+   "code": "KY-04",
+   "state": "KY",
+   "number": 4,
+   "member": {
+    "bioguide": "M001184",
+    "name": "Thomas Massie",
+    "short_name": "Thomas Massie",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1575,
+   "square_miles": 4968.5,
+   "rank_least_compact": 97,
+   "rank_least_compact_in_party": 36
+  },
+  {
+   "code": "KY-05",
+   "state": "KY",
+   "number": 5,
+   "member": {
+    "bioguide": "R000395",
+    "name": "Harold Rogers",
+    "short_name": "Hal Rogers",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2932,
+   "square_miles": 11880.5,
+   "rank_least_compact": 283,
+   "rank_least_compact_in_party": 127
+  },
+  {
+   "code": "KY-06",
+   "state": "KY",
+   "number": 6,
+   "member": {
+    "bioguide": "B001282",
+    "name": "Andy Barr",
+    "short_name": "Andy Barr",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.265,
+   "square_miles": 3831.7,
+   "rank_least_compact": 236,
+   "rank_least_compact_in_party": 99
+  },
+  {
+   "code": "LA-01",
+   "state": "LA",
+   "number": 1,
+   "member": {
+    "bioguide": "S001176",
+    "name": "Steve Scalise",
+    "short_name": "Steve Scalise",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.0359,
+   "square_miles": 5208.0,
+   "rank_least_compact": 1,
+   "rank_least_compact_in_party": 1
+  },
+  {
+   "code": "LA-02",
+   "state": "LA",
+   "number": 2,
+   "member": {
+    "bioguide": "C001125",
+    "name": "Troy A. Carter",
+    "short_name": "Troy Carter",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.112,
+   "square_miles": 2385.4,
+   "rank_least_compact": 54,
+   "rank_least_compact_in_party": 34
+  },
+  {
+   "code": "LA-03",
+   "state": "LA",
+   "number": 3,
+   "member": {
+    "bioguide": "H001077",
+    "name": "Clay Higgins",
+    "short_name": "Clay Higgins",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.0914,
+   "square_miles": 8644.2,
+   "rank_least_compact": 32,
+   "rank_least_compact_in_party": 11
+  },
+  {
+   "code": "LA-04",
+   "state": "LA",
+   "number": 4,
+   "member": {
+    "bioguide": "J000299",
+    "name": "Mike Johnson",
+    "short_name": "Mike Johnson",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.0875,
+   "square_miles": 15052.0,
+   "rank_least_compact": 29,
+   "rank_least_compact_in_party": 10
+  },
+  {
+   "code": "LA-05",
+   "state": "LA",
+   "number": 5,
+   "member": {
+    "bioguide": "L000595",
+    "name": "Julia Letlow",
+    "short_name": "Julia Letlow",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.085,
+   "square_miles": 10785.7,
+   "rank_least_compact": 27,
+   "rank_least_compact_in_party": 9
+  },
+  {
+   "code": "LA-06",
+   "state": "LA",
+   "number": 6,
+   "member": {
+    "bioguide": "F000110",
+    "name": "Cleo Fields",
+    "short_name": "Cleo Fields",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0546,
+   "square_miles": 5032.0,
+   "rank_least_compact": 9,
+   "rank_least_compact_in_party": 5
+  },
+  {
+   "code": "MA-01",
+   "state": "MA",
+   "number": 1,
+   "member": {
+    "bioguide": "N000015",
+    "name": "Richard E. Neal",
+    "short_name": "Richard Neal",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2858,
+   "square_miles": 2292.9,
+   "rank_least_compact": 272,
+   "rank_least_compact_in_party": 152
+  },
+  {
+   "code": "MA-02",
+   "state": "MA",
+   "number": 2,
+   "member": {
+    "bioguide": "M000312",
+    "name": "James P. McGovern",
+    "short_name": "Jim McGovern",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2179,
+   "square_miles": 1863.5,
+   "rank_least_compact": 179,
+   "rank_least_compact_in_party": 104
+  },
+  {
+   "code": "MA-03",
+   "state": "MA",
+   "number": 3,
+   "member": {
+    "bioguide": "T000482",
+    "name": "Lori Trahan",
+    "short_name": "Lori Trahan",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2281,
+   "square_miles": 779.3,
+   "rank_least_compact": 188,
+   "rank_least_compact_in_party": 108
+  },
+  {
+   "code": "MA-04",
+   "state": "MA",
+   "number": 4,
+   "member": {
+    "bioguide": "A000148",
+    "name": "Jake Auchincloss",
+    "short_name": "Jake Auchincloss",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1822,
+   "square_miles": 709.9,
+   "rank_least_compact": 133,
+   "rank_least_compact_in_party": 81
+  },
+  {
+   "code": "MA-05",
+   "state": "MA",
+   "number": 5,
+   "member": {
+    "bioguide": "C001101",
+    "name": "Katherine M. Clark",
+    "short_name": "Katherine Clark",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1816,
+   "square_miles": 229.8,
+   "rank_least_compact": 130,
+   "rank_least_compact_in_party": 78
+  },
+  {
+   "code": "MA-06",
+   "state": "MA",
+   "number": 6,
+   "member": {
+    "bioguide": "M001196",
+    "name": "Seth Moulton",
+    "short_name": "Seth Moulton",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2062,
+   "square_miles": 569.3,
+   "rank_least_compact": 159,
+   "rank_least_compact_in_party": 94
+  },
+  {
+   "code": "MA-07",
+   "state": "MA",
+   "number": 7,
+   "member": {
+    "bioguide": "P000617",
+    "name": "Ayanna Pressley",
+    "short_name": "Ayanna Pressley",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.097,
+   "square_miles": 64.3,
+   "rank_least_compact": 39,
+   "rank_least_compact_in_party": 26
+  },
+  {
+   "code": "MA-08",
+   "state": "MA",
+   "number": 8,
+   "member": {
+    "bioguide": "L000562",
+    "name": "Stephen F. Lynch",
+    "short_name": "Stephen Lynch",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0908,
+   "square_miles": 306.4,
+   "rank_least_compact": 31,
+   "rank_least_compact_in_party": 21
+  },
+  {
+   "code": "MA-09",
+   "state": "MA",
+   "number": 9,
+   "member": {
+    "bioguide": "K000375",
+    "name": "William R. Keating",
+    "short_name": "William Keating",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0459,
+   "square_miles": 1373.4,
+   "rank_least_compact": 4,
+   "rank_least_compact_in_party": 2
+  },
+  {
+   "code": "MD-01",
+   "state": "MD",
+   "number": 1,
+   "member": {
+    "bioguide": "H001052",
+    "name": "Andy Harris",
+    "short_name": "Andy Harris",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.054,
+   "square_miles": 4217.7,
+   "rank_least_compact": 8,
+   "rank_least_compact_in_party": 4
+  },
+  {
+   "code": "MD-02",
+   "state": "MD",
+   "number": 2,
+   "member": {
+    "bioguide": "O000176",
+    "name": "Johnny Olszewski, Jr.",
+    "short_name": "Johnny Olszewski, Jr.",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1818,
+   "square_miles": 830.3,
+   "rank_least_compact": 132,
+   "rank_least_compact_in_party": 80
+  },
+  {
+   "code": "MD-03",
+   "state": "MD",
+   "number": 3,
+   "member": {
+    "bioguide": "E000301",
+    "name": "Sarah Elfreth",
+    "short_name": "Sarah Elfreth",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2327,
+   "square_miles": 529.9,
+   "rank_least_compact": 195,
+   "rank_least_compact_in_party": 112
+  },
+  {
+   "code": "MD-04",
+   "state": "MD",
+   "number": 4,
+   "member": {
+    "bioguide": "I000058",
+    "name": "Glenn Ivey",
+    "short_name": "Glenn Ivey",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2393,
+   "square_miles": 224.3,
+   "rank_least_compact": 207,
+   "rank_least_compact_in_party": 119
+  },
+  {
+   "code": "MD-05",
+   "state": "MD",
+   "number": 5,
+   "member": {
+    "bioguide": "H000874",
+    "name": "Steny H. Hoyer",
+    "short_name": "Steny Hoyer",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1996,
+   "square_miles": 1629.0,
+   "rank_least_compact": 150,
+   "rank_least_compact_in_party": 90
+  },
+  {
+   "code": "MD-06",
+   "state": "MD",
+   "number": 6,
+   "member": {
+    "bioguide": "M001232",
+    "name": "April McClain Delaney",
+    "short_name": "April McClain Delaney",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.123,
+   "square_miles": 2432.5,
+   "rank_least_compact": 65,
+   "rank_least_compact_in_party": 41
+  },
+  {
+   "code": "MD-07",
+   "state": "MD",
+   "number": 7,
+   "member": {
+    "bioguide": "M000687",
+    "name": "Kweisi Mfume",
+    "short_name": "Kweisi Mfume",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2159,
+   "square_miles": 140.4,
+   "rank_least_compact": 175,
+   "rank_least_compact_in_party": 102
+  },
+  {
+   "code": "MD-08",
+   "state": "MD",
+   "number": 8,
+   "member": {
+    "bioguide": "R000606",
+    "name": "Jamie Raskin",
+    "short_name": "Jamie Raskin",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3297,
+   "square_miles": 280.3,
+   "rank_least_compact": 328,
+   "rank_least_compact_in_party": 171
+  },
+  {
+   "code": "ME-01",
+   "state": "ME",
+   "number": 1,
+   "member": {
+    "bioguide": "P000597",
+    "name": "Chellie Pingree",
+    "short_name": "Chellie Pingree",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0482,
+   "square_miles": 3613.2,
+   "rank_least_compact": 5,
+   "rank_least_compact_in_party": 3
+  },
+  {
+   "code": "ME-02",
+   "state": "ME",
+   "number": 2,
+   "member": {
+    "bioguide": "G000592",
+    "name": "Jared F. Golden",
+    "short_name": "Jared Golden",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1065,
+   "square_miles": 29162.0,
+   "rank_least_compact": 49,
+   "rank_least_compact_in_party": 32
+  },
+  {
+   "code": "MI-01",
+   "state": "MI",
+   "number": 1,
+   "member": {
+    "bioguide": "B001301",
+    "name": "Jack Bergman",
+    "short_name": "Jack Bergman",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.0499,
+   "square_miles": 27932.0,
+   "rank_least_compact": 6,
+   "rank_least_compact_in_party": 3
+  },
+  {
+   "code": "MI-02",
+   "state": "MI",
+   "number": 2,
+   "member": {
+    "bioguide": "M001194",
+    "name": "John R. Moolenaar",
+    "short_name": "John Moolenaar",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4194,
+   "square_miles": 9919.8,
+   "rank_least_compact": 379,
+   "rank_least_compact_in_party": 180
+  },
+  {
+   "code": "MI-03",
+   "state": "MI",
+   "number": 3,
+   "member": {
+    "bioguide": "S001221",
+    "name": "Hillary J. Scholten",
+    "short_name": "Hillary Scholten",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3703,
+   "square_miles": 831.1,
+   "rank_least_compact": 347,
+   "rank_least_compact_in_party": 179
+  },
+  {
+   "code": "MI-04",
+   "state": "MI",
+   "number": 4,
+   "member": {
+    "bioguide": "H001058",
+    "name": "Bill Huizenga",
+    "short_name": "Bill Huizenga",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4384,
+   "square_miles": 2444.7,
+   "rank_least_compact": 395,
+   "rank_least_compact_in_party": 192
+  },
+  {
+   "code": "MI-05",
+   "state": "MI",
+   "number": 5,
+   "member": {
+    "bioguide": "W000798",
+    "name": "Tim Walberg",
+    "short_name": "Tim Walberg",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2937,
+   "square_miles": 5358.1,
+   "rank_least_compact": 284,
+   "rank_least_compact_in_party": 128
+  },
+  {
+   "code": "MI-06",
+   "state": "MI",
+   "number": 6,
+   "member": {
+    "bioguide": "D000624",
+    "name": "Debbie Dingell",
+    "short_name": "Debbie Dingell",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3916,
+   "square_miles": 1007.6,
+   "rank_least_compact": 365,
+   "rank_least_compact_in_party": 190
+  },
+  {
+   "code": "MI-07",
+   "state": "MI",
+   "number": 7,
+   "member": {
+    "bioguide": "B001321",
+    "name": "Tom Barrett",
+    "short_name": "Tom Barrett",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.5597,
+   "square_miles": 2814.4,
+   "rank_least_compact": 424,
+   "rank_least_compact_in_party": 211
+  },
+  {
+   "code": "MI-08",
+   "state": "MI",
+   "number": 8,
+   "member": {
+    "bioguide": "M001237",
+    "name": "Kristen McDonald Rivet",
+    "short_name": "Kristen McDonald Rivet",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3798,
+   "square_miles": 2271.5,
+   "rank_least_compact": 357,
+   "rank_least_compact_in_party": 186
+  },
+  {
+   "code": "MI-09",
+   "state": "MI",
+   "number": 9,
+   "member": {
+    "bioguide": "M001136",
+    "name": "Lisa C. McClain",
+    "short_name": "Lisa McClain",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3536,
+   "square_miles": 4708.1,
+   "rank_least_compact": 341,
+   "rank_least_compact_in_party": 162
+  },
+  {
+   "code": "MI-10",
+   "state": "MI",
+   "number": 10,
+   "member": {
+    "bioguide": "J000307",
+    "name": "John James",
+    "short_name": "John James",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4362,
+   "square_miles": 229.7,
+   "rank_least_compact": 393,
+   "rank_least_compact_in_party": 190
+  },
+  {
+   "code": "MI-11",
+   "state": "MI",
+   "number": 11,
+   "member": {
+    "bioguide": "S001215",
+    "name": "Haley M. Stevens",
+    "short_name": "Haley Stevens",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.4146,
+   "square_miles": 336.1,
+   "rank_least_compact": 378,
+   "rank_least_compact_in_party": 196
+  },
+  {
+   "code": "MI-12",
+   "state": "MI",
+   "number": 12,
+   "member": {
+    "bioguide": "T000481",
+    "name": "Rashida Tlaib",
+    "short_name": "Rashida Tlaib",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.4877,
+   "square_miles": 191.5,
+   "rank_least_compact": 409,
+   "rank_least_compact_in_party": 206
+  },
+  {
+   "code": "MI-13",
+   "state": "MI",
+   "number": 13,
+   "member": {
+    "bioguide": "T000488",
+    "name": "Shri Thanedar",
+    "short_name": "Shri Thanedar",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2975,
+   "square_miles": 221.9,
+   "rank_least_compact": 293,
+   "rank_least_compact_in_party": 156
+  },
+  {
+   "code": "MN-01",
+   "state": "MN",
+   "number": 1,
+   "member": {
+    "bioguide": "F000475",
+    "name": "Brad Finstad",
+    "short_name": "Brad Finstad",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2895,
+   "square_miles": 12454.8,
+   "rank_least_compact": 277,
+   "rank_least_compact_in_party": 122
+  },
+  {
+   "code": "MN-02",
+   "state": "MN",
+   "number": 2,
+   "member": {
+    "bioguide": "C001119",
+    "name": "Angie Craig",
+    "short_name": "Angie Craig",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3745,
+   "square_miles": 1810.0,
+   "rank_least_compact": 352,
+   "rank_least_compact_in_party": 182
+  },
+  {
+   "code": "MN-03",
+   "state": "MN",
+   "number": 3,
+   "member": {
+    "bioguide": "M001234",
+    "name": "Kelly Morrison",
+    "short_name": "Kelly Morrison",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2991,
+   "square_miles": 517.0,
+   "rank_least_compact": 296,
+   "rank_least_compact_in_party": 157
+  },
+  {
+   "code": "MN-04",
+   "state": "MN",
+   "number": 4,
+   "member": {
+    "bioguide": "M001143",
+    "name": "Betty McCollum",
+    "short_name": "Betty McCollum",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.5475,
+   "square_miles": 334.0,
+   "rank_least_compact": 421,
+   "rank_least_compact_in_party": 210
+  },
+  {
+   "code": "MN-05",
+   "state": "MN",
+   "number": 5,
+   "member": {
+    "bioguide": "O000173",
+    "name": "Ilhan Omar",
+    "short_name": "Ilhan Omar",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.4341,
+   "square_miles": 137.2,
+   "rank_least_compact": 389,
+   "rank_least_compact_in_party": 198
+  },
+  {
+   "code": "MN-06",
+   "state": "MN",
+   "number": 6,
+   "member": {
+    "bioguide": "E000294",
+    "name": "Tom Emmer",
+    "short_name": "Tom Emmer",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2277,
+   "square_miles": 2615.2,
+   "rank_least_compact": 187,
+   "rank_least_compact_in_party": 78
+  },
+  {
+   "code": "MN-07",
+   "state": "MN",
+   "number": 7,
+   "member": {
+    "bioguide": "F000470",
+    "name": "Michelle Fischbach",
+    "short_name": "Michelle Fischbach",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1832,
+   "square_miles": 32025.0,
+   "rank_least_compact": 135,
+   "rank_least_compact_in_party": 52
+  },
+  {
+   "code": "MN-08",
+   "state": "MN",
+   "number": 8,
+   "member": {
+    "bioguide": "S001212",
+    "name": "Pete Stauber",
+    "short_name": "Pete Stauber",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2409,
+   "square_miles": 34493.6,
+   "rank_least_compact": 212,
+   "rank_least_compact_in_party": 88
+  },
+  {
+   "code": "MO-01",
+   "state": "MO",
+   "number": 1,
+   "member": {
+    "bioguide": "B001324",
+    "name": "Wesley Bell",
+    "short_name": "Wesley Bell",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.313,
+   "square_miles": 258.4,
+   "rank_least_compact": 315,
+   "rank_least_compact_in_party": 168
+  },
+  {
+   "code": "MO-02",
+   "state": "MO",
+   "number": 2,
+   "member": {
+    "bioguide": "W000812",
+    "name": "Ann Wagner",
+    "short_name": "Ann Wagner",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2989,
+   "square_miles": 1821.7,
+   "rank_least_compact": 295,
+   "rank_least_compact_in_party": 136
+  },
+  {
+   "code": "MO-03",
+   "state": "MO",
+   "number": 3,
+   "member": {
+    "bioguide": "O000177",
+    "name": "Robert F. Onder, Jr.",
+    "short_name": "Robert Onder, Jr.",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1588,
+   "square_miles": 7698.0,
+   "rank_least_compact": 101,
+   "rank_least_compact_in_party": 39
+  },
+  {
+   "code": "MO-04",
+   "state": "MO",
+   "number": 4,
+   "member": {
+    "bioguide": "A000379",
+    "name": "Mark Alford",
+    "short_name": "Mark Alford",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3051,
+   "square_miles": 14664.6,
+   "rank_least_compact": 304,
+   "rank_least_compact_in_party": 139
+  },
+  {
+   "code": "MO-05",
+   "state": "MO",
+   "number": 5,
+   "member": {
+    "bioguide": "C001061",
+    "name": "Emanuel Cleaver",
+    "short_name": "Emanuel Cleaver, II",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3847,
+   "square_miles": 431.5,
+   "rank_least_compact": 362,
+   "rank_least_compact_in_party": 188
+  },
+  {
+   "code": "MO-06",
+   "state": "MO",
+   "number": 6,
+   "member": {
+    "bioguide": "G000546",
+    "name": "Sam Graves",
+    "short_name": "Sam Graves",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.303,
+   "square_miles": 20483.7,
+   "rank_least_compact": 303,
+   "rank_least_compact_in_party": 138
+  },
+  {
+   "code": "MO-07",
+   "state": "MO",
+   "number": 7,
+   "member": {
+    "bioguide": "B001316",
+    "name": "Eric Burlison",
+    "short_name": "Eric Burlison",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.5287,
+   "square_miles": 5865.5,
+   "rank_least_compact": 417,
+   "rank_least_compact_in_party": 205
+  },
+  {
+   "code": "MO-08",
+   "state": "MO",
+   "number": 8,
+   "member": {
+    "bioguide": "S001195",
+    "name": "Jason Smith",
+    "short_name": "Jason Smith",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.274,
+   "square_miles": 18485.5,
+   "rank_least_compact": 248,
+   "rank_least_compact_in_party": 106
+  },
+  {
+   "code": "MS-01",
+   "state": "MS",
+   "number": 1,
+   "member": {
+    "bioguide": "K000388",
+    "name": "Trent Kelly",
+    "short_name": "Trent Kelly",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3831,
+   "square_miles": 10095.4,
+   "rank_least_compact": 360,
+   "rank_least_compact_in_party": 170
+  },
+  {
+   "code": "MS-02",
+   "state": "MS",
+   "number": 2,
+   "member": {
+    "bioguide": "T000193",
+    "name": "Bennie G. Thompson",
+    "short_name": "Bennie Thompson",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1296,
+   "square_miles": 18404.1,
+   "rank_least_compact": 71,
+   "rank_least_compact_in_party": 45
+  },
+  {
+   "code": "MS-03",
+   "state": "MS",
+   "number": 3,
+   "member": {
+    "bioguide": "G000591",
+    "name": "Michael Guest",
+    "short_name": "Michael Guest",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2477,
+   "square_miles": 11822.6,
+   "rank_least_compact": 215,
+   "rank_least_compact_in_party": 90
+  },
+  {
+   "code": "MS-04",
+   "state": "MS",
+   "number": 4,
+   "member": {
+    "bioguide": "E000235",
+    "name": "Mike Ezell",
+    "short_name": "Mike Ezell",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.328,
+   "square_miles": 7350.7,
+   "rank_least_compact": 325,
+   "rank_least_compact_in_party": 153
+  },
+  {
+   "code": "MT-01",
+   "state": "MT",
+   "number": 1,
+   "member": {
+    "bioguide": "Z000018",
+    "name": "Ryan K. Zinke",
+    "short_name": "Ryan Zinke",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2054,
+   "square_miles": 40779.0,
+   "rank_least_compact": 157,
+   "rank_least_compact_in_party": 62
+  },
+  {
+   "code": "MT-02",
+   "state": "MT",
+   "number": 2,
+   "member": {
+    "bioguide": "D000634",
+    "name": "Troy Downing",
+    "short_name": "Troy Downing",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.5086,
+   "square_miles": 106265.0,
+   "rank_least_compact": 414,
+   "rank_least_compact_in_party": 204
+  },
+  {
+   "code": "NC-01",
+   "state": "NC",
+   "number": 1,
+   "member": {
+    "bioguide": "D000230",
+    "name": "Donald G. Davis",
+    "short_name": "Donald Davis",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1209,
+   "square_miles": 8520.3,
+   "rank_least_compact": 62,
+   "rank_least_compact_in_party": 39
+  },
+  {
+   "code": "NC-02",
+   "state": "NC",
+   "number": 2,
+   "member": {
+    "bioguide": "R000305",
+    "name": "Deborah K. Ross",
+    "short_name": "Deborah Ross",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2853,
+   "square_miles": 413.2,
+   "rank_least_compact": 270,
+   "rank_least_compact_in_party": 151
+  },
+  {
+   "code": "NC-03",
+   "state": "NC",
+   "number": 3,
+   "member": {
+    "bioguide": "M001210",
+    "name": "Gregory F. Murphy",
+    "short_name": "Gregory Murphy",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.0407,
+   "square_miles": 7156.4,
+   "rank_least_compact": 3,
+   "rank_least_compact_in_party": 2
+  },
+  {
+   "code": "NC-04",
+   "state": "NC",
+   "number": 4,
+   "member": {
+    "bioguide": "F000477",
+    "name": "Valerie P. Foushee",
+    "short_name": "Valerie Foushee",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2583,
+   "square_miles": 1082.3,
+   "rank_least_compact": 232,
+   "rank_least_compact_in_party": 135
+  },
+  {
+   "code": "NC-05",
+   "state": "NC",
+   "number": 5,
+   "member": {
+    "bioguide": "F000450",
+    "name": "Virginia Foxx",
+    "short_name": "Virginia Foxx",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2366,
+   "square_miles": 4237.6,
+   "rank_least_compact": 202,
+   "rank_least_compact_in_party": 85
+  },
+  {
+   "code": "NC-06",
+   "state": "NC",
+   "number": 6,
+   "member": {
+    "bioguide": "M001240",
+    "name": "Addison P. McDowell",
+    "short_name": "Addison McDowell",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2973,
+   "square_miles": 1687.4,
+   "rank_least_compact": 292,
+   "rank_least_compact_in_party": 134
+  },
+  {
+   "code": "NC-07",
+   "state": "NC",
+   "number": 7,
+   "member": {
+    "bioguide": "R000603",
+    "name": "David Rouzer",
+    "short_name": "David Rouzer",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2862,
+   "square_miles": 4954.3,
+   "rank_least_compact": 273,
+   "rank_least_compact_in_party": 118
+  },
+  {
+   "code": "NC-08",
+   "state": "NC",
+   "number": 8,
+   "member": {
+    "bioguide": "H001102",
+    "name": "Mark Harris",
+    "short_name": "Mark Harris",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2907,
+   "square_miles": 3767.3,
+   "rank_least_compact": 280,
+   "rank_least_compact_in_party": 124
+  },
+  {
+   "code": "NC-09",
+   "state": "NC",
+   "number": 9,
+   "member": {
+    "bioguide": "H001067",
+    "name": "Richard Hudson",
+    "short_name": "Richard Hudson",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1753,
+   "square_miles": 3306.2,
+   "rank_least_compact": 121,
+   "rank_least_compact_in_party": 49
+  },
+  {
+   "code": "NC-10",
+   "state": "NC",
+   "number": 10,
+   "member": {
+    "bioguide": "H001101",
+    "name": "Pat Harrigan",
+    "short_name": "Pat Harrigan",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.278,
+   "square_miles": 1924.0,
+   "rank_least_compact": 254,
+   "rank_least_compact_in_party": 109
+  },
+  {
+   "code": "NC-11",
+   "state": "NC",
+   "number": 11,
+   "member": {
+    "bioguide": "E000246",
+    "name": "Chuck Edwards",
+    "short_name": "Charles (Chuck) Edwards",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2949,
+   "square_miles": 6307.0,
+   "rank_least_compact": 287,
+   "rank_least_compact_in_party": 131
+  },
+  {
+   "code": "NC-12",
+   "state": "NC",
+   "number": 12,
+   "member": {
+    "bioguide": "A000370",
+    "name": "Alma S. Adams",
+    "short_name": "Alma Adams",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2895,
+   "square_miles": 274.8,
+   "rank_least_compact": 278,
+   "rank_least_compact_in_party": 153
+  },
+  {
+   "code": "NC-13",
+   "state": "NC",
+   "number": 13,
+   "member": {
+    "bioguide": "K000405",
+    "name": "Brad Knott",
+    "short_name": "Brad Knott",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1464,
+   "square_miles": 3765.6,
+   "rank_least_compact": 83,
+   "rank_least_compact_in_party": 30
+  },
+  {
+   "code": "NC-14",
+   "state": "NC",
+   "number": 14,
+   "member": {
+    "bioguide": "M001236",
+    "name": "Tim Moore",
+    "short_name": "Tim Moore",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1722,
+   "square_miles": 2234.7,
+   "rank_least_compact": 117,
+   "rank_least_compact_in_party": 46
+  },
+  {
+   "code": "ND-AL",
+   "state": "ND",
+   "number": null,
+   "member": {
+    "bioguide": "F000482",
+    "name": "Julie Fedorchak",
+    "short_name": "Julie Fedorchak",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.5289,
+   "square_miles": 70698.7
+  },
+  {
+   "code": "NE-01",
+   "state": "NE",
+   "number": 1,
+   "member": {
+    "bioguide": "F000474",
+    "name": "Mike Flood",
+    "short_name": "Mike Flood",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2565,
+   "square_miles": 6053.4,
+   "rank_least_compact": 226,
+   "rank_least_compact_in_party": 94
+  },
+  {
+   "code": "NE-02",
+   "state": "NE",
+   "number": 2,
+   "member": {
+    "bioguide": "B001298",
+    "name": "Don Bacon",
+    "short_name": "Don Bacon",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4225,
+   "square_miles": 1249.3,
+   "rank_least_compact": 382,
+   "rank_least_compact_in_party": 183
+  },
+  {
+   "code": "NE-03",
+   "state": "NE",
+   "number": 3,
+   "member": {
+    "bioguide": "S001172",
+    "name": "Adrian Smith",
+    "short_name": "Adrian Smith",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3142,
+   "square_miles": 70046.9,
+   "rank_least_compact": 319,
+   "rank_least_compact_in_party": 148
+  },
+  {
+   "code": "NH-01",
+   "state": "NH",
+   "number": 1,
+   "member": {
+    "bioguide": "P000614",
+    "name": "Chris Pappas",
+    "short_name": "Chris Pappas",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.168,
+   "square_miles": 2310.4,
+   "rank_least_compact": 110,
+   "rank_least_compact_in_party": 66
+  },
+  {
+   "code": "NH-02",
+   "state": "NH",
+   "number": 2,
+   "member": {
+    "bioguide": "G000604",
+    "name": "Maggie Goodlander",
+    "short_name": "Maggie Goodlander",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1699,
+   "square_miles": 6970.8,
+   "rank_least_compact": 114,
+   "rank_least_compact_in_party": 69
+  },
+  {
+   "code": "NJ-01",
+   "state": "NJ",
+   "number": 1,
+   "member": {
+    "bioguide": "N000188",
+    "name": "Donald Norcross",
+    "short_name": "Donald Norcross",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.4006,
+   "square_miles": 380.3,
+   "rank_least_compact": 370,
+   "rank_least_compact_in_party": 193
+  },
+  {
+   "code": "NJ-02",
+   "state": "NJ",
+   "number": 2,
+   "member": {
+    "bioguide": "V000133",
+    "name": "Jefferson Van Drew",
+    "short_name": "Jefferson Van Drew",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2165,
+   "square_miles": 2207.3,
+   "rank_least_compact": 176,
+   "rank_least_compact_in_party": 72
+  },
+  {
+   "code": "NJ-03",
+   "state": "NJ",
+   "number": 3,
+   "member": {
+    "bioguide": "C001136",
+    "name": "Herbert C. Conaway, Jr.",
+    "short_name": "Herbert Conaway, Jr.",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2473,
+   "square_miles": 1104.5,
+   "rank_least_compact": 214,
+   "rank_least_compact_in_party": 123
+  },
+  {
+   "code": "NJ-04",
+   "state": "NJ",
+   "number": 4,
+   "member": {
+    "bioguide": "S000522",
+    "name": "Christopher H. Smith",
+    "short_name": "Chris Smith",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2916,
+   "square_miles": 700.2,
+   "rank_least_compact": 281,
+   "rank_least_compact_in_party": 125
+  },
+  {
+   "code": "NJ-05",
+   "state": "NJ",
+   "number": 5,
+   "member": {
+    "bioguide": "G000583",
+    "name": "Josh Gottheimer",
+    "short_name": "Josh Gottheimer",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2522,
+   "square_miles": 677.7,
+   "rank_least_compact": 220,
+   "rank_least_compact_in_party": 128
+  },
+  {
+   "code": "NJ-06",
+   "state": "NJ",
+   "number": 6,
+   "member": {
+    "bioguide": "P000034",
+    "name": "Frank Pallone, Jr.",
+    "short_name": "Frank Pallone, Jr.",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0974,
+   "square_miles": 206.6,
+   "rank_least_compact": 40,
+   "rank_least_compact_in_party": 27
+  },
+  {
+   "code": "NJ-07",
+   "state": "NJ",
+   "number": 7,
+   "member": {
+    "bioguide": "K000398",
+    "name": "Thomas H. Kean, Jr.",
+    "short_name": "Thomas Kean, Jr.",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2096,
+   "square_miles": 1377.7,
+   "rank_least_compact": 162,
+   "rank_least_compact_in_party": 64
+  },
+  {
+   "code": "NJ-08",
+   "state": "NJ",
+   "number": 8,
+   "member": {
+    "bioguide": "M001226",
+    "name": "Robert Menendez",
+    "short_name": "Robert Menendez, Jr.",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0872,
+   "square_miles": 56.3,
+   "rank_least_compact": 28,
+   "rank_least_compact_in_party": 19
+  },
+  {
+   "code": "NJ-09",
+   "state": "NJ",
+   "number": 9,
+   "member": {
+    "bioguide": "P000621",
+    "name": "Nellie Pou",
+    "short_name": "Nellie Pou",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1688,
+   "square_miles": 117.7,
+   "rank_least_compact": 112,
+   "rank_least_compact_in_party": 68
+  },
+  {
+   "code": "NJ-10",
+   "state": "NJ",
+   "number": 10,
+   "member": {
+    "bioguide": "M001229",
+    "name": "LaMonica McIver",
+    "short_name": "LaMonica McIver",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1201,
+   "square_miles": 78.4,
+   "rank_least_compact": 60,
+   "rank_least_compact_in_party": 37
+  },
+  {
+   "code": "NJ-11",
+   "state": "NJ",
+   "number": 11,
+   "member": {
+    "bioguide": "M001246",
+    "name": "Analilia Mejia",
+    "short_name": "Analilia Mejia",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2255,
+   "square_miles": 412.6,
+   "rank_least_compact": 183,
+   "rank_least_compact_in_party": 106
+  },
+  {
+   "code": "NJ-12",
+   "state": "NJ",
+   "number": 12,
+   "member": {
+    "bioguide": "W000822",
+    "name": "Bonnie Watson Coleman",
+    "short_name": "Bonnie Watson Coleman",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1817,
+   "square_miles": 445.9,
+   "rank_least_compact": 131,
+   "rank_least_compact_in_party": 79
+  },
+  {
+   "code": "NM-01",
+   "state": "NM",
+   "number": 1,
+   "member": {
+    "bioguide": "S001218",
+    "name": "Melanie A. Stansbury",
+    "short_name": "Melanie Stansbury",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3027,
+   "square_miles": 17589.3,
+   "rank_least_compact": 302,
+   "rank_least_compact_in_party": 162
+  },
+  {
+   "code": "NM-02",
+   "state": "NM",
+   "number": 2,
+   "member": {
+    "bioguide": "V000136",
+    "name": "Gabe Vasquez",
+    "short_name": "Gabriel (Gabe) Vasquez",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.302,
+   "square_miles": 51550.8,
+   "rank_least_compact": 300,
+   "rank_least_compact_in_party": 160
+  },
+  {
+   "code": "NM-03",
+   "state": "NM",
+   "number": 3,
+   "member": {
+    "bioguide": "L000273",
+    "name": "Teresa Leger Fernandez",
+    "short_name": "Teresa Leger Fernandez",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2681,
+   "square_miles": 52450.6,
+   "rank_least_compact": 240,
+   "rank_least_compact_in_party": 137
+  },
+  {
+   "code": "NV-01",
+   "state": "NV",
+   "number": 1,
+   "member": {
+    "bioguide": "T000468",
+    "name": "Dina Titus",
+    "short_name": "Dina Titus",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.4354,
+   "square_miles": 1018.8,
+   "rank_least_compact": 391,
+   "rank_least_compact_in_party": 200
+  },
+  {
+   "code": "NV-02",
+   "state": "NV",
+   "number": 2,
+   "member": {
+    "bioguide": "A000369",
+    "name": "Mark E. Amodei",
+    "short_name": "Mark Amodei",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.5826,
+   "square_miles": 65518.7,
+   "rank_least_compact": 425,
+   "rank_least_compact_in_party": 212
+  },
+  {
+   "code": "NV-03",
+   "state": "NV",
+   "number": 3,
+   "member": {
+    "bioguide": "L000590",
+    "name": "Susie Lee",
+    "short_name": "Susie Lee",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2553,
+   "square_miles": 2024.3,
+   "rank_least_compact": 224,
+   "rank_least_compact_in_party": 130
+  },
+  {
+   "code": "NV-04",
+   "state": "NV",
+   "number": 4,
+   "member": {
+    "bioguide": "H001066",
+    "name": "Steven Horsford",
+    "short_name": "Steven Horsford",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.5049,
+   "square_miles": 42007.5,
+   "rank_least_compact": 413,
+   "rank_least_compact_in_party": 207
+  },
+  {
+   "code": "NY-01",
+   "state": "NY",
+   "number": 1,
+   "member": {
+    "bioguide": "L000598",
+    "name": "Nick LaLota",
+    "short_name": "Nicolas LaLota",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1217,
+   "square_miles": 795.5,
+   "rank_least_compact": 63,
+   "rank_least_compact_in_party": 24
+  },
+  {
+   "code": "NY-02",
+   "state": "NY",
+   "number": 2,
+   "member": {
+    "bioguide": "G000597",
+    "name": "Andrew R. Garbarino",
+    "short_name": "Andrew Garbarino",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4549,
+   "square_miles": 351.3,
+   "rank_least_compact": 403,
+   "rank_least_compact_in_party": 197
+  },
+  {
+   "code": "NY-03",
+   "state": "NY",
+   "number": 3,
+   "member": {
+    "bioguide": "S001201",
+    "name": "Thomas R. Suozzi",
+    "short_name": "Thomas Suozzi",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1599,
+   "square_miles": 197.9,
+   "rank_least_compact": 102,
+   "rank_least_compact_in_party": 62
+  },
+  {
+   "code": "NY-04",
+   "state": "NY",
+   "number": 4,
+   "member": {
+    "bioguide": "G000602",
+    "name": "Laura Gillen",
+    "short_name": "Laura Gillen",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.599,
+   "square_miles": 134.1,
+   "rank_least_compact": 427,
+   "rank_least_compact_in_party": 211
+  },
+  {
+   "code": "NY-05",
+   "state": "NY",
+   "number": 5,
+   "member": {
+    "bioguide": "M001137",
+    "name": "Gregory W. Meeks",
+    "short_name": "Gregory Meeks",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2498,
+   "square_miles": 56.6,
+   "rank_least_compact": 217,
+   "rank_least_compact_in_party": 125
+  },
+  {
+   "code": "NY-06",
+   "state": "NY",
+   "number": 6,
+   "member": {
+    "bioguide": "M001188",
+    "name": "Grace Meng",
+    "short_name": "Grace Meng",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2811,
+   "square_miles": 26.1,
+   "rank_least_compact": 263,
+   "rank_least_compact_in_party": 150
+  },
+  {
+   "code": "NY-07",
+   "state": "NY",
+   "number": 7,
+   "member": {
+    "bioguide": "V000081",
+    "name": "Nydia M. Velázquez",
+    "short_name": "Nydia Velázquez",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2784,
+   "square_miles": 22.4,
+   "rank_least_compact": 256,
+   "rank_least_compact_in_party": 145
+  },
+  {
+   "code": "NY-08",
+   "state": "NY",
+   "number": 8,
+   "member": {
+    "bioguide": "J000294",
+    "name": "Hakeem S. Jeffries",
+    "short_name": "Hakeem Jeffries",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2408,
+   "square_miles": 36.2,
+   "rank_least_compact": 211,
+   "rank_least_compact_in_party": 122
+  },
+  {
+   "code": "NY-09",
+   "state": "NY",
+   "number": 9,
+   "member": {
+    "bioguide": "C001067",
+    "name": "Yvette D. Clarke",
+    "short_name": "Yvette Clarke",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3896,
+   "square_miles": 15.2,
+   "rank_least_compact": 364,
+   "rank_least_compact_in_party": 189
+  },
+  {
+   "code": "NY-10",
+   "state": "NY",
+   "number": 10,
+   "member": {
+    "bioguide": "G000599",
+    "name": "Daniel S. Goldman",
+    "short_name": "Dan Goldman",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1858,
+   "square_miles": 17.2,
+   "rank_least_compact": 139,
+   "rank_least_compact_in_party": 85
+  },
+  {
+   "code": "NY-11",
+   "state": "NY",
+   "number": 11,
+   "member": {
+    "bioguide": "M000317",
+    "name": "Nicole Malliotakis",
+    "short_name": "Nicole Malliotakis",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2866,
+   "square_miles": 64.4,
+   "rank_least_compact": 274,
+   "rank_least_compact_in_party": 119
+  },
+  {
+   "code": "NY-12",
+   "state": "NY",
+   "number": 12,
+   "member": {
+    "bioguide": "N000002",
+    "name": "Jerrold Nadler",
+    "short_name": "Jerrold Nadler",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.4075,
+   "square_miles": 13.6,
+   "rank_least_compact": 375,
+   "rank_least_compact_in_party": 195
+  },
+  {
+   "code": "NY-13",
+   "state": "NY",
+   "number": 13,
+   "member": {
+    "bioguide": "E000297",
+    "name": "Adriano Espaillat",
+    "short_name": "Adriano Espaillat",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2725,
+   "square_miles": 14.6,
+   "rank_least_compact": 245,
+   "rank_least_compact_in_party": 139
+  },
+  {
+   "code": "NY-14",
+   "state": "NY",
+   "number": 14,
+   "member": {
+    "bioguide": "O000172",
+    "name": "Alexandria Ocasio-Cortez",
+    "short_name": "Alexandria Ocasio-Cortez",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1809,
+   "square_miles": 36.9,
+   "rank_least_compact": 128,
+   "rank_least_compact_in_party": 77
+  },
+  {
+   "code": "NY-15",
+   "state": "NY",
+   "number": 15,
+   "member": {
+    "bioguide": "T000486",
+    "name": "Ritchie Torres",
+    "short_name": "Ritchie Torres",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2346,
+   "square_miles": 19.8,
+   "rank_least_compact": 198,
+   "rank_least_compact_in_party": 114
+  },
+  {
+   "code": "NY-16",
+   "state": "NY",
+   "number": 16,
+   "member": {
+    "bioguide": "L000606",
+    "name": "George Latimer",
+    "short_name": "George Latimer",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3554,
+   "square_miles": 134.2,
+   "rank_least_compact": 343,
+   "rank_least_compact_in_party": 178
+  },
+  {
+   "code": "NY-17",
+   "state": "NY",
+   "number": 17,
+   "member": {
+    "bioguide": "L000599",
+    "name": "Michael Lawler",
+    "short_name": "Michael Lawler",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4355,
+   "square_miles": 904.7,
+   "rank_least_compact": 392,
+   "rank_least_compact_in_party": 189
+  },
+  {
+   "code": "NY-18",
+   "state": "NY",
+   "number": 18,
+   "member": {
+    "bioguide": "R000579",
+    "name": "Patrick Ryan",
+    "short_name": "Patrick Ryan",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2578,
+   "square_miles": 1934.3,
+   "rank_least_compact": 229,
+   "rank_least_compact_in_party": 132
+  },
+  {
+   "code": "NY-19",
+   "state": "NY",
+   "number": 19,
+   "member": {
+    "bioguide": "R000622",
+    "name": "Josh Riley",
+    "short_name": "Josh Riley",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1931,
+   "square_miles": 8375.2,
+   "rank_least_compact": 144,
+   "rank_least_compact_in_party": 87
+  },
+  {
+   "code": "NY-20",
+   "state": "NY",
+   "number": 20,
+   "member": {
+    "bioguide": "T000469",
+    "name": "Paul Tonko",
+    "short_name": "Paul Tonko",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3115,
+   "square_miles": 1403.1,
+   "rank_least_compact": 314,
+   "rank_least_compact_in_party": 167
+  },
+  {
+   "code": "NY-21",
+   "state": "NY",
+   "number": 21,
+   "member": {
+    "bioguide": "S001196",
+    "name": "Elise M. Stefanik",
+    "short_name": "Elise Stefanik",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3486,
+   "square_miles": 17047.8,
+   "rank_least_compact": 335,
+   "rank_least_compact_in_party": 157
+  },
+  {
+   "code": "NY-22",
+   "state": "NY",
+   "number": 22,
+   "member": {
+    "bioguide": "M001231",
+    "name": "John W. Mannion",
+    "short_name": "John Mannion",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3704,
+   "square_miles": 2493.3,
+   "rank_least_compact": 348,
+   "rank_least_compact_in_party": 180
+  },
+  {
+   "code": "NY-23",
+   "state": "NY",
+   "number": 23,
+   "member": {
+    "bioguide": "L000600",
+    "name": "Nicholas A. Langworthy",
+    "short_name": "Nicholas Langworthy",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2103,
+   "square_miles": 6523.0,
+   "rank_least_compact": 163,
+   "rank_least_compact_in_party": 65
+  },
+  {
+   "code": "NY-24",
+   "state": "NY",
+   "number": 24,
+   "member": {
+    "bioguide": "T000478",
+    "name": "Claudia Tenney",
+    "short_name": "Claudia Tenney",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1081,
+   "square_miles": 7403.4,
+   "rank_least_compact": 50,
+   "rank_least_compact_in_party": 18
+  },
+  {
+   "code": "NY-25",
+   "state": "NY",
+   "number": 25,
+   "member": {
+    "bioguide": "M001206",
+    "name": "Joseph D. Morelle",
+    "short_name": "Joseph Morelle",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.5166,
+   "square_miles": 717.6,
+   "rank_least_compact": 415,
+   "rank_least_compact_in_party": 208
+  },
+  {
+   "code": "NY-26",
+   "state": "NY",
+   "number": 26,
+   "member": {
+    "bioguide": "K000402",
+    "name": "Timothy M. Kennedy",
+    "short_name": "Timothy Kennedy",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.4566,
+   "square_miles": 274.6,
+   "rank_least_compact": 404,
+   "rank_least_compact_in_party": 204
+  },
+  {
+   "code": "OH-01",
+   "state": "OH",
+   "number": 1,
+   "member": {
+    "bioguide": "L000601",
+    "name": "Greg Landsman",
+    "short_name": "Greg Landsman",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2504,
+   "square_miles": 611.0,
+   "rank_least_compact": 218,
+   "rank_least_compact_in_party": 126
+  },
+  {
+   "code": "OH-02",
+   "state": "OH",
+   "number": 2,
+   "member": {
+    "bioguide": "T000490",
+    "name": "David J. Taylor",
+    "short_name": "David Taylor",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3164,
+   "square_miles": 7441.7,
+   "rank_least_compact": 321,
+   "rank_least_compact_in_party": 150
+  },
+  {
+   "code": "OH-03",
+   "state": "OH",
+   "number": 3,
+   "member": {
+    "bioguide": "B001281",
+    "name": "Joyce Beatty",
+    "short_name": "Joyce Beatty",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.5167,
+   "square_miles": 221.1,
+   "rank_least_compact": 416,
+   "rank_least_compact_in_party": 209
+  },
+  {
+   "code": "OH-04",
+   "state": "OH",
+   "number": 4,
+   "member": {
+    "bioguide": "J000289",
+    "name": "Jim Jordan",
+    "short_name": "Jim Jordan",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3137,
+   "square_miles": 4921.4,
+   "rank_least_compact": 316,
+   "rank_least_compact_in_party": 145
+  },
+  {
+   "code": "OH-05",
+   "state": "OH",
+   "number": 5,
+   "member": {
+    "bioguide": "L000566",
+    "name": "Robert E. Latta",
+    "short_name": "Robert Latta",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2134,
+   "square_miles": 5562.4,
+   "rank_least_compact": 169,
+   "rank_least_compact_in_party": 69
+  },
+  {
+   "code": "OH-06",
+   "state": "OH",
+   "number": 6,
+   "member": {
+    "bioguide": "R000619",
+    "name": "Michael A. Rulli",
+    "short_name": "Michael Rulli",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2208,
+   "square_miles": 4842.1,
+   "rank_least_compact": 180,
+   "rank_least_compact_in_party": 74
+  },
+  {
+   "code": "OH-07",
+   "state": "OH",
+   "number": 7,
+   "member": {
+    "bioguide": "M001222",
+    "name": "Max L. Miller",
+    "short_name": "Max Miller",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2271,
+   "square_miles": 1325.9,
+   "rank_least_compact": 186,
+   "rank_least_compact_in_party": 77
+  },
+  {
+   "code": "OH-08",
+   "state": "OH",
+   "number": 8,
+   "member": {
+    "bioguide": "D000626",
+    "name": "Warren Davidson",
+    "short_name": "Warren Davidson",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2847,
+   "square_miles": 1804.6,
+   "rank_least_compact": 268,
+   "rank_least_compact_in_party": 115
+  },
+  {
+   "code": "OH-09",
+   "state": "OH",
+   "number": 9,
+   "member": {
+    "bioguide": "K000009",
+    "name": "Marcy Kaptur",
+    "short_name": "Marcy Kaptur",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.13,
+   "square_miles": 2623.4,
+   "rank_least_compact": 72,
+   "rank_least_compact_in_party": 46
+  },
+  {
+   "code": "OH-10",
+   "state": "OH",
+   "number": 10,
+   "member": {
+    "bioguide": "T000463",
+    "name": "Michael R. Turner",
+    "short_name": "Michael Turner",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4446,
+   "square_miles": 996.6,
+   "rank_least_compact": 398,
+   "rank_least_compact_in_party": 194
+  },
+  {
+   "code": "OH-11",
+   "state": "OH",
+   "number": 11,
+   "member": {
+    "bioguide": "B001313",
+    "name": "Shontel M. Brown",
+    "short_name": "Shontel Brown",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2319,
+   "square_miles": 216.4,
+   "rank_least_compact": 194,
+   "rank_least_compact_in_party": 111
+  },
+  {
+   "code": "OH-12",
+   "state": "OH",
+   "number": 12,
+   "member": {
+    "bioguide": "B001306",
+    "name": "Troy Balderson",
+    "short_name": "Troy Balderson",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3101,
+   "square_miles": 5633.1,
+   "rank_least_compact": 312,
+   "rank_least_compact_in_party": 144
+  },
+  {
+   "code": "OH-13",
+   "state": "OH",
+   "number": 13,
+   "member": {
+    "bioguide": "S001223",
+    "name": "Emilia Strong Sykes",
+    "short_name": "Emilia Sykes",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2771,
+   "square_miles": 630.8,
+   "rank_least_compact": 252,
+   "rank_least_compact_in_party": 143
+  },
+  {
+   "code": "OH-14",
+   "state": "OH",
+   "number": 14,
+   "member": {
+    "bioguide": "J000295",
+    "name": "David P. Joyce",
+    "short_name": "David Joyce",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.6267,
+   "square_miles": 2483.8,
+   "rank_least_compact": 428,
+   "rank_least_compact_in_party": 214
+  },
+  {
+   "code": "OH-15",
+   "state": "OH",
+   "number": 15,
+   "member": {
+    "bioguide": "C001126",
+    "name": "Mike Carey",
+    "short_name": "Mike Carey",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1471,
+   "square_miles": 1943.6,
+   "rank_least_compact": 84,
+   "rank_least_compact_in_party": 31
+  },
+  {
+   "code": "OK-01",
+   "state": "OK",
+   "number": 1,
+   "member": {
+    "bioguide": "H001082",
+    "name": "Kevin Hern",
+    "short_name": "Kevin Hern",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3308,
+   "square_miles": 1103.4,
+   "rank_least_compact": 329,
+   "rank_least_compact_in_party": 155
+  },
+  {
+   "code": "OK-02",
+   "state": "OK",
+   "number": 2,
+   "member": {
+    "bioguide": "B001317",
+    "name": "Josh Brecheen",
+    "short_name": "Josh Brecheen",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2763,
+   "square_miles": 22413.8,
+   "rank_least_compact": 251,
+   "rank_least_compact_in_party": 107
+  },
+  {
+   "code": "OK-03",
+   "state": "OK",
+   "number": 3,
+   "member": {
+    "bioguide": "L000491",
+    "name": "Frank D. Lucas",
+    "short_name": "Frank Lucas",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2361,
+   "square_miles": 32907.6,
+   "rank_least_compact": 201,
+   "rank_least_compact_in_party": 84
+  },
+  {
+   "code": "OK-04",
+   "state": "OK",
+   "number": 4,
+   "member": {
+    "bioguide": "C001053",
+    "name": "Tom Cole",
+    "short_name": "Tom Cole",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2571,
+   "square_miles": 9889.8,
+   "rank_least_compact": 227,
+   "rank_least_compact_in_party": 95
+  },
+  {
+   "code": "OK-05",
+   "state": "OK",
+   "number": 5,
+   "member": {
+    "bioguide": "B000740",
+    "name": "Stephanie I. Bice",
+    "short_name": "Stephanie Bice",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3455,
+   "square_miles": 3584.2,
+   "rank_least_compact": 334,
+   "rank_least_compact_in_party": 156
+  },
+  {
+   "code": "OR-01",
+   "state": "OR",
+   "number": 1,
+   "member": {
+    "bioguide": "B001278",
+    "name": "Suzanne Bonamici",
+    "short_name": "Suzanne Bonamici",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3524,
+   "square_miles": 3438.2,
+   "rank_least_compact": 339,
+   "rank_least_compact_in_party": 176
+  },
+  {
+   "code": "OR-02",
+   "state": "OR",
+   "number": 2,
+   "member": {
+    "bioguide": "B000668",
+    "name": "Cliff Bentz",
+    "short_name": "Cliff Bentz",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4327,
+   "square_miles": 72876.6,
+   "rank_least_compact": 387,
+   "rank_least_compact_in_party": 187
+  },
+  {
+   "code": "OR-03",
+   "state": "OR",
+   "number": 3,
+   "member": {
+    "bioguide": "D000635",
+    "name": "Maxine Dexter",
+    "short_name": "Maxine Dexter",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3548,
+   "square_miles": 1427.4,
+   "rank_least_compact": 342,
+   "rank_least_compact_in_party": 177
+  },
+  {
+   "code": "OR-04",
+   "state": "OR",
+   "number": 4,
+   "member": {
+    "bioguide": "H001094",
+    "name": "Val T. Hoyle",
+    "short_name": "Valerie Hoyle",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2394,
+   "square_miles": 11761.1,
+   "rank_least_compact": 208,
+   "rank_least_compact_in_party": 120
+  },
+  {
+   "code": "OR-05",
+   "state": "OR",
+   "number": 5,
+   "member": {
+    "bioguide": "B001326",
+    "name": "Janelle S. Bynum",
+    "short_name": "Janelle Bynum",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2149,
+   "square_miles": 5630.8,
+   "rank_least_compact": 172,
+   "rank_least_compact_in_party": 100
+  },
+  {
+   "code": "OR-06",
+   "state": "OR",
+   "number": 6,
+   "member": {
+    "bioguide": "S001226",
+    "name": "Andrea Salinas",
+    "short_name": "Andrea Salinas",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3803,
+   "square_miles": 1906.6,
+   "rank_least_compact": 358,
+   "rank_least_compact_in_party": 187
+  },
+  {
+   "code": "PA-01",
+   "state": "PA",
+   "number": 1,
+   "member": {
+    "bioguide": "F000466",
+    "name": "Brian K. Fitzpatrick",
+    "short_name": "Brian Fitzpatrick",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4016,
+   "square_miles": 718.3,
+   "rank_least_compact": 371,
+   "rank_least_compact_in_party": 175
+  },
+  {
+   "code": "PA-02",
+   "state": "PA",
+   "number": 2,
+   "member": {
+    "bioguide": "B001296",
+    "name": "Brendan F. Boyle",
+    "short_name": "Brendan Boyle",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.4342,
+   "square_miles": 67.5,
+   "rank_least_compact": 390,
+   "rank_least_compact_in_party": 199
+  },
+  {
+   "code": "PA-03",
+   "state": "PA",
+   "number": 3,
+   "member": {
+    "bioguide": "E000296",
+    "name": "Dwight Evans",
+    "short_name": "Dwight Evans",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3358,
+   "square_miles": 54.8,
+   "rank_least_compact": 333,
+   "rank_least_compact_in_party": 175
+  },
+  {
+   "code": "PA-04",
+   "state": "PA",
+   "number": 4,
+   "member": {
+    "bioguide": "D000631",
+    "name": "Madeleine Dean",
+    "short_name": "Madeleine Dean",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1762,
+   "square_miles": 733.6,
+   "rank_least_compact": 122,
+   "rank_least_compact_in_party": 72
+  },
+  {
+   "code": "PA-05",
+   "state": "PA",
+   "number": 5,
+   "member": {
+    "bioguide": "S001205",
+    "name": "Mary Gay Scanlon",
+    "short_name": "Mary Scanlon",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2735,
+   "square_miles": 239.8,
+   "rank_least_compact": 247,
+   "rank_least_compact_in_party": 140
+  },
+  {
+   "code": "PA-06",
+   "state": "PA",
+   "number": 6,
+   "member": {
+    "bioguide": "H001085",
+    "name": "Chrissy Houlahan",
+    "short_name": "Chrissy Houlahan",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3027,
+   "square_miles": 936.1,
+   "rank_least_compact": 301,
+   "rank_least_compact_in_party": 161
+  },
+  {
+   "code": "PA-07",
+   "state": "PA",
+   "number": 7,
+   "member": {
+    "bioguide": "M001230",
+    "name": "Ryan Mackenzie",
+    "short_name": "Ryan Mackenzie",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4233,
+   "square_miles": 1184.5,
+   "rank_least_compact": 383,
+   "rank_least_compact_in_party": 184
+  },
+  {
+   "code": "PA-08",
+   "state": "PA",
+   "number": 8,
+   "member": {
+    "bioguide": "B001327",
+    "name": "Robert P. Bresnahan, Jr.",
+    "short_name": "Robert Bresnahan, Jr.",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2851,
+   "square_miles": 2840.1,
+   "rank_least_compact": 269,
+   "rank_least_compact_in_party": 116
+  },
+  {
+   "code": "PA-09",
+   "state": "PA",
+   "number": 9,
+   "member": {
+    "bioguide": "M001204",
+    "name": "Daniel Meuser",
+    "short_name": "Daniel Meuser",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2829,
+   "square_miles": 6153.7,
+   "rank_least_compact": 265,
+   "rank_least_compact_in_party": 112
+  },
+  {
+   "code": "PA-10",
+   "state": "PA",
+   "number": 10,
+   "member": {
+    "bioguide": "P000605",
+    "name": "Scott Perry",
+    "short_name": "Scott Perry",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2834,
+   "square_miles": 1294.3,
+   "rank_least_compact": 267,
+   "rank_least_compact_in_party": 114
+  },
+  {
+   "code": "PA-11",
+   "state": "PA",
+   "number": 11,
+   "member": {
+    "bioguide": "S001199",
+    "name": "Lloyd Smucker",
+    "short_name": "Lloyd Smucker",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.387,
+   "square_miles": 1544.9,
+   "rank_least_compact": 363,
+   "rank_least_compact_in_party": 172
+  },
+  {
+   "code": "PA-12",
+   "state": "PA",
+   "number": 12,
+   "member": {
+    "bioguide": "L000602",
+    "name": "Summer L. Lee",
+    "short_name": "Summer Lee",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1925,
+   "square_miles": 433.8,
+   "rank_least_compact": 143,
+   "rank_least_compact_in_party": 86
+  },
+  {
+   "code": "PA-13",
+   "state": "PA",
+   "number": 13,
+   "member": {
+    "bioguide": "J000302",
+    "name": "John Joyce",
+    "short_name": "John Joyce",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3945,
+   "square_miles": 6403.4,
+   "rank_least_compact": 367,
+   "rank_least_compact_in_party": 173
+  },
+  {
+   "code": "PA-14",
+   "state": "PA",
+   "number": 14,
+   "member": {
+    "bioguide": "R000610",
+    "name": "Guy Reschenthaler",
+    "short_name": "Guy Reschenthaler",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3065,
+   "square_miles": 4808.6,
+   "rank_least_compact": 308,
+   "rank_least_compact_in_party": 142
+  },
+  {
+   "code": "PA-15",
+   "state": "PA",
+   "number": 15,
+   "member": {
+    "bioguide": "T000467",
+    "name": "Glenn Thompson",
+    "short_name": "Glenn Thompson",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4309,
+   "square_miles": 13082.9,
+   "rank_least_compact": 386,
+   "rank_least_compact_in_party": 186
+  },
+  {
+   "code": "PA-16",
+   "state": "PA",
+   "number": 16,
+   "member": {
+    "bioguide": "K000376",
+    "name": "Mike Kelly",
+    "short_name": "Mike Kelly",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.396,
+   "square_miles": 3900.0,
+   "rank_least_compact": 368,
+   "rank_least_compact_in_party": 174
+  },
+  {
+   "code": "PA-17",
+   "state": "PA",
+   "number": 17,
+   "member": {
+    "bioguide": "D000530",
+    "name": "Christopher R. Deluzio",
+    "short_name": "Chris Deluzio",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2742,
+   "square_miles": 909.1,
+   "rank_least_compact": 249,
+   "rank_least_compact_in_party": 141
+  },
+  {
+   "code": "RI-01",
+   "state": "RI",
+   "number": 1,
+   "member": {
+    "bioguide": "A000380",
+    "name": "Gabe Amo",
+    "short_name": "Gabe Amo",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0622,
+   "square_miles": 288.0,
+   "rank_least_compact": 11,
+   "rank_least_compact_in_party": 6
+  },
+  {
+   "code": "RI-02",
+   "state": "RI",
+   "number": 2,
+   "member": {
+    "bioguide": "M001223",
+    "name": "Seth Magaziner",
+    "short_name": "Seth Magaziner",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3011,
+   "square_miles": 809.8,
+   "rank_least_compact": 297,
+   "rank_least_compact_in_party": 158
+  },
+  {
+   "code": "SC-01",
+   "state": "SC",
+   "number": 1,
+   "member": {
+    "bioguide": "M000194",
+    "name": "Nancy Mace",
+    "short_name": "Nancy Mace",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.103,
+   "square_miles": 2950.0,
+   "rank_least_compact": 45,
+   "rank_least_compact_in_party": 16
+  },
+  {
+   "code": "SC-02",
+   "state": "SC",
+   "number": 2,
+   "member": {
+    "bioguide": "W000795",
+    "name": "Joe Wilson",
+    "short_name": "Joe Wilson",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1772,
+   "square_miles": 3200.7,
+   "rank_least_compact": 123,
+   "rank_least_compact_in_party": 50
+  },
+  {
+   "code": "SC-03",
+   "state": "SC",
+   "number": 3,
+   "member": {
+    "bioguide": "B001325",
+    "name": "Sheri Biggs",
+    "short_name": "Sheri Biggs",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3587,
+   "square_miles": 5846.4,
+   "rank_least_compact": 345,
+   "rank_least_compact_in_party": 164
+  },
+  {
+   "code": "SC-04",
+   "state": "SC",
+   "number": 4,
+   "member": {
+    "bioguide": "T000480",
+    "name": "William R. Timmons IV",
+    "short_name": "William Timmons",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2553,
+   "square_miles": 1249.0,
+   "rank_least_compact": 225,
+   "rank_least_compact_in_party": 93
+  },
+  {
+   "code": "SC-05",
+   "state": "SC",
+   "number": 5,
+   "member": {
+    "bioguide": "N000190",
+    "name": "Ralph Norman",
+    "short_name": "Ralph Norman",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.238,
+   "square_miles": 5252.1,
+   "rank_least_compact": 205,
+   "rank_least_compact_in_party": 86
+  },
+  {
+   "code": "SC-06",
+   "state": "SC",
+   "number": 6,
+   "member": {
+    "bioguide": "C000537",
+    "name": "James E. Clyburn",
+    "short_name": "Jim Clyburn",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0805,
+   "square_miles": 7106.9,
+   "rank_least_compact": 22,
+   "rank_least_compact_in_party": 14
+  },
+  {
+   "code": "SC-07",
+   "state": "SC",
+   "number": 7,
+   "member": {
+    "bioguide": "F000478",
+    "name": "Russell Fry",
+    "short_name": "Russell Fry",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3139,
+   "square_miles": 5503.5,
+   "rank_least_compact": 317,
+   "rank_least_compact_in_party": 146
+  },
+  {
+   "code": "SD-AL",
+   "state": "SD",
+   "number": null,
+   "member": {
+    "bioguide": "J000301",
+    "name": "Dusty Johnson",
+    "short_name": "Dusty Johnson",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.5764,
+   "square_miles": 77115.5
+  },
+  {
+   "code": "TN-01",
+   "state": "TN",
+   "number": 1,
+   "member": {
+    "bioguide": "H001086",
+    "name": "Diana Harshbarger",
+    "short_name": "Diana Harshbarger",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2824,
+   "square_miles": 4465.9,
+   "rank_least_compact": 264,
+   "rank_least_compact_in_party": 111
+  },
+  {
+   "code": "TN-02",
+   "state": "TN",
+   "number": 2,
+   "member": {
+    "bioguide": "B001309",
+    "name": "Tim Burchett",
+    "short_name": "Tim Burchett",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1688,
+   "square_miles": 2684.9,
+   "rank_least_compact": 113,
+   "rank_least_compact_in_party": 44
+  },
+  {
+   "code": "TN-03",
+   "state": "TN",
+   "number": 3,
+   "member": {
+    "bioguide": "F000459",
+    "name": "Charles J. \"Chuck\" Fleischmann",
+    "short_name": "Chuck Fleischmann",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.158,
+   "square_miles": 4066.9,
+   "rank_least_compact": 100,
+   "rank_least_compact_in_party": 38
+  },
+  {
+   "code": "TN-04",
+   "state": "TN",
+   "number": 4,
+   "member": {
+    "bioguide": "D000616",
+    "name": "Scott DesJarlais",
+    "short_name": "Scott DesJarlais",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.198,
+   "square_miles": 6567.2,
+   "rank_least_compact": 146,
+   "rank_least_compact_in_party": 57
+  },
+  {
+   "code": "TN-05",
+   "state": "TN",
+   "number": 5,
+   "member": {
+    "bioguide": "O000175",
+    "name": "Andrew Ogles",
+    "short_name": "Andrew Ogles, IV",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1349,
+   "square_miles": 2078.0,
+   "rank_least_compact": 77,
+   "rank_least_compact_in_party": 29
+  },
+  {
+   "code": "TN-06",
+   "state": "TN",
+   "number": 6,
+   "member": {
+    "bioguide": "R000612",
+    "name": "John W. Rose",
+    "short_name": "John Rose",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2524,
+   "square_miles": 6043.6,
+   "rank_least_compact": 221,
+   "rank_least_compact_in_party": 91
+  },
+  {
+   "code": "TN-07",
+   "state": "TN",
+   "number": 7,
+   "member": {
+    "bioguide": "V000139",
+    "name": "Matt Van Epps",
+    "short_name": "Matt Van Epps",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2729,
+   "square_miles": 6034.9,
+   "rank_least_compact": 246,
+   "rank_least_compact_in_party": 105
+  },
+  {
+   "code": "TN-08",
+   "state": "TN",
+   "number": 8,
+   "member": {
+    "bioguide": "K000392",
+    "name": "David Kustoff",
+    "short_name": "David Kustoff",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.298,
+   "square_miles": 9378.5,
+   "rank_least_compact": 294,
+   "rank_least_compact_in_party": 135
+  },
+  {
+   "code": "TN-09",
+   "state": "TN",
+   "number": 9,
+   "member": {
+    "bioguide": "C001068",
+    "name": "Steve Cohen",
+    "short_name": "Steve Cohen",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1236,
+   "square_miles": 808.7,
+   "rank_least_compact": 66,
+   "rank_least_compact_in_party": 42
+  },
+  {
+   "code": "TX-01",
+   "state": "TX",
+   "number": 1,
+   "member": {
+    "bioguide": "M001224",
+    "name": "Nathaniel Moran",
+    "short_name": "Nathaniel Moran",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1742,
+   "square_miles": 9869.5,
+   "rank_least_compact": 119,
+   "rank_least_compact_in_party": 47
+  },
+  {
+   "code": "TX-02",
+   "state": "TX",
+   "number": 2,
+   "member": {
+    "bioguide": "C001120",
+    "name": "Dan Crenshaw",
+    "short_name": "Dan Crenshaw",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2331,
+   "square_miles": 659.5,
+   "rank_least_compact": 196,
+   "rank_least_compact_in_party": 82
+  },
+  {
+   "code": "TX-03",
+   "state": "TX",
+   "number": 3,
+   "member": {
+    "bioguide": "S001224",
+    "name": "Keith Self",
+    "short_name": "Keith Self",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.351,
+   "square_miles": 1495.9,
+   "rank_least_compact": 337,
+   "rank_least_compact_in_party": 159
+  },
+  {
+   "code": "TX-04",
+   "state": "TX",
+   "number": 4,
+   "member": {
+    "bioguide": "F000246",
+    "name": "Pat Fallon",
+    "short_name": "Pat Fallon",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.0792,
+   "square_miles": 5432.6,
+   "rank_least_compact": 19,
+   "rank_least_compact_in_party": 8
+  },
+  {
+   "code": "TX-05",
+   "state": "TX",
+   "number": 5,
+   "member": {
+    "bioguide": "G000589",
+    "name": "Lance Gooden",
+    "short_name": "Lance Gooden",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1576,
+   "square_miles": 3784.8,
+   "rank_least_compact": 98,
+   "rank_least_compact_in_party": 37
+  },
+  {
+   "code": "TX-06",
+   "state": "TX",
+   "number": 6,
+   "member": {
+    "bioguide": "E000071",
+    "name": "Jake Ellzey",
+    "short_name": "Jake Ellzey",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1604,
+   "square_miles": 6019.6,
+   "rank_least_compact": 103,
+   "rank_least_compact_in_party": 40
+  },
+  {
+   "code": "TX-07",
+   "state": "TX",
+   "number": 7,
+   "member": {
+    "bioguide": "F000468",
+    "name": "Lizzie Fletcher",
+    "short_name": "Lizzie Fletcher",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0934,
+   "square_miles": 132.8,
+   "rank_least_compact": 34,
+   "rank_least_compact_in_party": 23
+  },
+  {
+   "code": "TX-08",
+   "state": "TX",
+   "number": 8,
+   "member": {
+    "bioguide": "L000603",
+    "name": "Morgan Luttrell",
+    "short_name": "Morgan Luttrell",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2311,
+   "square_miles": 3000.6,
+   "rank_least_compact": 191,
+   "rank_least_compact_in_party": 80
+  },
+  {
+   "code": "TX-09",
+   "state": "TX",
+   "number": 9,
+   "member": {
+    "bioguide": "G000553",
+    "name": "Al Green",
+    "short_name": "Al Green",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1663,
+   "square_miles": 220.0,
+   "rank_least_compact": 108,
+   "rank_least_compact_in_party": 65
+  },
+  {
+   "code": "TX-10",
+   "state": "TX",
+   "number": 10,
+   "member": {
+    "bioguide": "M001157",
+    "name": "Michael T. McCaul",
+    "short_name": "Michael McCaul",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1904,
+   "square_miles": 7799.9,
+   "rank_least_compact": 141,
+   "rank_least_compact_in_party": 55
+  },
+  {
+   "code": "TX-11",
+   "state": "TX",
+   "number": 11,
+   "member": {
+    "bioguide": "P000048",
+    "name": "August Pfluger",
+    "short_name": "August Pfluger, II",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.306,
+   "square_miles": 19343.8,
+   "rank_least_compact": 307,
+   "rank_least_compact_in_party": 141
+  },
+  {
+   "code": "TX-12",
+   "state": "TX",
+   "number": 12,
+   "member": {
+    "bioguide": "G000601",
+    "name": "Craig A. Goldman",
+    "short_name": "Craig Goldman",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.212,
+   "square_miles": 994.8,
+   "rank_least_compact": 167,
+   "rank_least_compact_in_party": 67
+  },
+  {
+   "code": "TX-13",
+   "state": "TX",
+   "number": 13,
+   "member": {
+    "bioguide": "J000304",
+    "name": "Ronny Jackson",
+    "short_name": "Ronny Jackson",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2833,
+   "square_miles": 35360.7,
+   "rank_least_compact": 266,
+   "rank_least_compact_in_party": 113
+  },
+  {
+   "code": "TX-14",
+   "state": "TX",
+   "number": 14,
+   "member": {
+    "bioguide": "W000814",
+    "name": "Randy K. Weber, Sr.",
+    "short_name": "Randy Weber, Sr.",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.0957,
+   "square_miles": 2726.4,
+   "rank_least_compact": 37,
+   "rank_least_compact_in_party": 12
+  },
+  {
+   "code": "TX-15",
+   "state": "TX",
+   "number": 15,
+   "member": {
+    "bioguide": "D000594",
+    "name": "Monica De La Cruz",
+    "short_name": "Mónica De La Cruz",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1132,
+   "square_miles": 6296.1,
+   "rank_least_compact": 56,
+   "rank_least_compact_in_party": 21
+  },
+  {
+   "code": "TX-16",
+   "state": "TX",
+   "number": 16,
+   "member": {
+    "bioguide": "E000299",
+    "name": "Veronica Escobar",
+    "short_name": "Veronica Escobar",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2319,
+   "square_miles": 316.4,
+   "rank_least_compact": 193,
+   "rank_least_compact_in_party": 110
+  },
+  {
+   "code": "TX-17",
+   "state": "TX",
+   "number": 17,
+   "member": {
+    "bioguide": "S000250",
+    "name": "Pete Sessions",
+    "short_name": "Pete Sessions",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1491,
+   "square_miles": 10661.7,
+   "rank_least_compact": 86,
+   "rank_least_compact_in_party": 32
+  },
+  {
+   "code": "TX-18",
+   "state": "TX",
+   "number": 18,
+   "member": {
+    "bioguide": "M001245",
+    "name": "Christian D. Menefee",
+    "short_name": "Christian Menefee",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0694,
+   "square_miles": 232.1,
+   "rank_least_compact": 14,
+   "rank_least_compact_in_party": 8
+  },
+  {
+   "code": "TX-19",
+   "state": "TX",
+   "number": 19,
+   "member": {
+    "bioguide": "A000375",
+    "name": "Jodey C. Arrington",
+    "short_name": "Jodey Arrington",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.5326,
+   "square_miles": 30260.3,
+   "rank_least_compact": 420,
+   "rank_least_compact_in_party": 208
+  },
+  {
+   "code": "TX-20",
+   "state": "TX",
+   "number": 20,
+   "member": {
+    "bioguide": "C001091",
+    "name": "Joaquin Castro",
+    "short_name": "Joaquin Castro",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1312,
+   "square_miles": 180.0,
+   "rank_least_compact": 74,
+   "rank_least_compact_in_party": 47
+  },
+  {
+   "code": "TX-21",
+   "state": "TX",
+   "number": 21,
+   "member": {
+    "bioguide": "R000614",
+    "name": "Chip Roy",
+    "short_name": "Chip Roy",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3098,
+   "square_miles": 6332.9,
+   "rank_least_compact": 311,
+   "rank_least_compact_in_party": 143
+  },
+  {
+   "code": "TX-22",
+   "state": "TX",
+   "number": 22,
+   "member": {
+    "bioguide": "N000026",
+    "name": "Troy E. Nehls",
+    "short_name": "Troy Nehls",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1667,
+   "square_miles": 3476.7,
+   "rank_least_compact": 109,
+   "rank_least_compact_in_party": 43
+  },
+  {
+   "code": "TX-23",
+   "state": "TX",
+   "number": 23,
+   "member": null,
+   "polsby_popper": 0.2016,
+   "square_miles": 58960.2,
+   "rank_least_compact": 152
+  },
+  {
+   "code": "TX-24",
+   "state": "TX",
+   "number": 24,
+   "member": {
+    "bioguide": "V000134",
+    "name": "Beth Van Duyne",
+    "short_name": "Beth Van Duyne",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.117,
+   "square_miles": 277.0,
+   "rank_least_compact": 58,
+   "rank_least_compact_in_party": 22
+  },
+  {
+   "code": "TX-25",
+   "state": "TX",
+   "number": 25,
+   "member": {
+    "bioguide": "W000816",
+    "name": "Roger Williams",
+    "short_name": "Roger Williams",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.263,
+   "square_miles": 9135.5,
+   "rank_least_compact": 235,
+   "rank_least_compact_in_party": 98
+  },
+  {
+   "code": "TX-26",
+   "state": "TX",
+   "number": 26,
+   "member": {
+    "bioguide": "G000603",
+    "name": "Brandon Gill",
+    "short_name": "Brandon Gill",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1531,
+   "square_miles": 2057.6,
+   "rank_least_compact": 90,
+   "rank_least_compact_in_party": 34
+  },
+  {
+   "code": "TX-27",
+   "state": "TX",
+   "number": 27,
+   "member": {
+    "bioguide": "C001115",
+    "name": "Michael Cloud",
+    "short_name": "Michael Cloud",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1181,
+   "square_miles": 10814.2,
+   "rank_least_compact": 59,
+   "rank_least_compact_in_party": 23
+  },
+  {
+   "code": "TX-28",
+   "state": "TX",
+   "number": 28,
+   "member": {
+    "bioguide": "C001063",
+    "name": "Henry Cuellar",
+    "short_name": "Henry Cuellar",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2096,
+   "square_miles": 11470.8,
+   "rank_least_compact": 161,
+   "rank_least_compact_in_party": 96
+  },
+  {
+   "code": "TX-29",
+   "state": "TX",
+   "number": 29,
+   "member": {
+    "bioguide": "G000587",
+    "name": "Sylvia R. Garcia",
+    "short_name": "Sylvia Garcia",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0936,
+   "square_miles": 209.3,
+   "rank_least_compact": 35,
+   "rank_least_compact_in_party": 24
+  },
+  {
+   "code": "TX-30",
+   "state": "TX",
+   "number": 30,
+   "member": {
+    "bioguide": "C001130",
+    "name": "Jasmine Crockett",
+    "short_name": "Jasmine Crockett",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2028,
+   "square_miles": 369.8,
+   "rank_least_compact": 154,
+   "rank_least_compact_in_party": 92
+  },
+  {
+   "code": "TX-31",
+   "state": "TX",
+   "number": 31,
+   "member": {
+    "bioguide": "C001051",
+    "name": "John R. Carter",
+    "short_name": "John Carter",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1989,
+   "square_miles": 5712.9,
+   "rank_least_compact": 149,
+   "rank_least_compact_in_party": 59
+  },
+  {
+   "code": "TX-32",
+   "state": "TX",
+   "number": 32,
+   "member": {
+    "bioguide": "J000310",
+    "name": "Julie Johnson",
+    "short_name": "Julie Johnson",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0796,
+   "square_miles": 151.2,
+   "rank_least_compact": 20,
+   "rank_least_compact_in_party": 12
+  },
+  {
+   "code": "TX-33",
+   "state": "TX",
+   "number": 33,
+   "member": {
+    "bioguide": "V000131",
+    "name": "Marc A. Veasey",
+    "short_name": "Marc Veasey",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0397,
+   "square_miles": 225.6,
+   "rank_least_compact": 2,
+   "rank_least_compact_in_party": 1
+  },
+  {
+   "code": "TX-34",
+   "state": "TX",
+   "number": 34,
+   "member": {
+    "bioguide": "G000581",
+    "name": "Vicente Gonzalez",
+    "short_name": "Vicente Gonzalez",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0765,
+   "square_miles": 4390.5,
+   "rank_least_compact": 17,
+   "rank_least_compact_in_party": 11
+  },
+  {
+   "code": "TX-35",
+   "state": "TX",
+   "number": 35,
+   "member": {
+    "bioguide": "C001131",
+    "name": "Greg Casar",
+    "short_name": "Gregorio Casar",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0803,
+   "square_miles": 527.5,
+   "rank_least_compact": 21,
+   "rank_least_compact_in_party": 13
+  },
+  {
+   "code": "TX-36",
+   "state": "TX",
+   "number": 36,
+   "member": {
+    "bioguide": "B001291",
+    "name": "Brian Babin",
+    "short_name": "Brian Babin",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2058,
+   "square_miles": 6079.2,
+   "rank_least_compact": 158,
+   "rank_least_compact_in_party": 63
+  },
+  {
+   "code": "TX-37",
+   "state": "TX",
+   "number": 37,
+   "member": {
+    "bioguide": "D000399",
+    "name": "Lloyd Doggett",
+    "short_name": "Lloyd Doggett",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1579,
+   "square_miles": 227.0,
+   "rank_least_compact": 99,
+   "rank_least_compact_in_party": 61
+  },
+  {
+   "code": "TX-38",
+   "state": "TX",
+   "number": 38,
+   "member": {
+    "bioguide": "H001095",
+    "name": "Wesley Hunt",
+    "short_name": "Wesley Hunt",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1303,
+   "square_miles": 310.3,
+   "rank_least_compact": 73,
+   "rank_least_compact_in_party": 27
+  },
+  {
+   "code": "UT-01",
+   "state": "UT",
+   "number": 1,
+   "member": {
+    "bioguide": "M001213",
+    "name": "Blake D. Moore",
+    "short_name": "Blake Moore",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.4803,
+   "square_miles": 11354.6,
+   "rank_least_compact": 407,
+   "rank_least_compact_in_party": 200
+  },
+  {
+   "code": "UT-02",
+   "state": "UT",
+   "number": 2,
+   "member": {
+    "bioguide": "M001228",
+    "name": "Celeste Maloy",
+    "short_name": "Celeste Maloy",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3832,
+   "square_miles": 40044.4,
+   "rank_least_compact": 361,
+   "rank_least_compact_in_party": 171
+  },
+  {
+   "code": "UT-03",
+   "state": "UT",
+   "number": 3,
+   "member": {
+    "bioguide": "K000403",
+    "name": "Mike Kennedy",
+    "short_name": "Mike Kennedy",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2718,
+   "square_miles": 28959.2,
+   "rank_least_compact": 243,
+   "rank_least_compact_in_party": 103
+  },
+  {
+   "code": "UT-04",
+   "state": "UT",
+   "number": 4,
+   "member": {
+    "bioguide": "O000086",
+    "name": "Burgess Owens",
+    "short_name": "Burgess Owens",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2884,
+   "square_miles": 4540.9,
+   "rank_least_compact": 276,
+   "rank_least_compact_in_party": 121
+  },
+  {
+   "code": "VA-01",
+   "state": "VA",
+   "number": 1,
+   "member": {
+    "bioguide": "W000804",
+    "name": "Robert J. Wittman",
+    "short_name": "Robert Wittman",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.0784,
+   "square_miles": 3232.4,
+   "rank_least_compact": 18,
+   "rank_least_compact_in_party": 7
+  },
+  {
+   "code": "VA-02",
+   "state": "VA",
+   "number": 2,
+   "member": {
+    "bioguide": "K000399",
+    "name": "Jennifer A. Kiggans",
+    "short_name": "Jennifer Kiggans",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1044,
+   "square_miles": 2493.2,
+   "rank_least_compact": 46,
+   "rank_least_compact_in_party": 17
+  },
+  {
+   "code": "VA-03",
+   "state": "VA",
+   "number": 3,
+   "member": {
+    "bioguide": "S000185",
+    "name": "Robert C. \"Bobby\" Scott",
+    "short_name": "Bobby Scott",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.122,
+   "square_miles": 272.7,
+   "rank_least_compact": 64,
+   "rank_least_compact_in_party": 40
+  },
+  {
+   "code": "VA-04",
+   "state": "VA",
+   "number": 4,
+   "member": {
+    "bioguide": "M001227",
+    "name": "Jennifer L. McClellan",
+    "short_name": "Jennifer McClellan",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.295,
+   "square_miles": 3498.0,
+   "rank_least_compact": 288,
+   "rank_least_compact_in_party": 154
+  },
+  {
+   "code": "VA-05",
+   "state": "VA",
+   "number": 5,
+   "member": {
+    "bioguide": "M001239",
+    "name": "John J. McGuire III",
+    "short_name": "John McGuire, III",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3716,
+   "square_miles": 9610.7,
+   "rank_least_compact": 349,
+   "rank_least_compact_in_party": 166
+  },
+  {
+   "code": "VA-06",
+   "state": "VA",
+   "number": 6,
+   "member": {
+    "bioguide": "C001118",
+    "name": "Ben Cline",
+    "short_name": "Ben Cline",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2117,
+   "square_miles": 6306.3,
+   "rank_least_compact": 166,
+   "rank_least_compact_in_party": 66
+  },
+  {
+   "code": "VA-07",
+   "state": "VA",
+   "number": 7,
+   "member": {
+    "bioguide": "V000138",
+    "name": "Eugene Simon Vindman",
+    "short_name": "Eugene Vindman",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2108,
+   "square_miles": 2774.7,
+   "rank_least_compact": 165,
+   "rank_least_compact_in_party": 98
+  },
+  {
+   "code": "VA-08",
+   "state": "VA",
+   "number": 8,
+   "member": {
+    "bioguide": "B001292",
+    "name": "Donald S. Beyer, Jr.",
+    "short_name": "Donald Beyer, Jr.",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3107,
+   "square_miles": 154.0,
+   "rank_least_compact": 313,
+   "rank_least_compact_in_party": 166
+  },
+  {
+   "code": "VA-09",
+   "state": "VA",
+   "number": 9,
+   "member": {
+    "bioguide": "G000568",
+    "name": "H. Morgan Griffith",
+    "short_name": "H. Griffith",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1984,
+   "square_miles": 10162.7,
+   "rank_least_compact": 148,
+   "rank_least_compact_in_party": 58
+  },
+  {
+   "code": "VA-10",
+   "state": "VA",
+   "number": 10,
+   "member": {
+    "bioguide": "S001230",
+    "name": "Suhas Subramanyam",
+    "short_name": "Suhas Subramanyam",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2965,
+   "square_miles": 1705.6,
+   "rank_least_compact": 291,
+   "rank_least_compact_in_party": 155
+  },
+  {
+   "code": "VA-11",
+   "state": "VA",
+   "number": 11,
+   "member": {
+    "bioguide": "W000831",
+    "name": "James R. Walkinshaw",
+    "short_name": "James Walkinshaw",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2785,
+   "square_miles": 254.3,
+   "rank_least_compact": 257,
+   "rank_least_compact_in_party": 146
+  },
+  {
+   "code": "VT-AL",
+   "state": "VT",
+   "number": null,
+   "member": {
+    "bioguide": "B001318",
+    "name": "Becca Balint",
+    "short_name": "Becca Balint",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3842,
+   "square_miles": 9615.1
+  },
+  {
+   "code": "WA-01",
+   "state": "WA",
+   "number": 1,
+   "member": {
+    "bioguide": "D000617",
+    "name": "Suzan K. DelBene",
+    "short_name": "Suzan DelBene",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1524,
+   "square_miles": 349.4,
+   "rank_least_compact": 88,
+   "rank_least_compact_in_party": 55
+  },
+  {
+   "code": "WA-02",
+   "state": "WA",
+   "number": 2,
+   "member": {
+    "bioguide": "L000560",
+    "name": "Rick Larsen",
+    "short_name": "Rick Larsen",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.0524,
+   "square_miles": 4520.4,
+   "rank_least_compact": 7,
+   "rank_least_compact_in_party": 4
+  },
+  {
+   "code": "WA-03",
+   "state": "WA",
+   "number": 3,
+   "member": {
+    "bioguide": "G000600",
+    "name": "Marie Gluesenkamp Perez",
+    "short_name": "Marie Gluesenkamp Perez",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.3015,
+   "square_miles": 7453.5,
+   "rank_least_compact": 298,
+   "rank_least_compact_in_party": 159
+  },
+  {
+   "code": "WA-04",
+   "state": "WA",
+   "number": 4,
+   "member": {
+    "bioguide": "N000189",
+    "name": "Dan Newhouse",
+    "short_name": "Dan Newhouse",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2313,
+   "square_miles": 18192.2,
+   "rank_least_compact": 192,
+   "rank_least_compact_in_party": 81
+  },
+  {
+   "code": "WA-05",
+   "state": "WA",
+   "number": 5,
+   "member": {
+    "bioguide": "B001322",
+    "name": "Michael Baumgartner",
+    "short_name": "Michael Baumgartner",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.5022,
+   "square_miles": 18984.9,
+   "rank_least_compact": 412,
+   "rank_least_compact_in_party": 203
+  },
+  {
+   "code": "WA-06",
+   "state": "WA",
+   "number": 6,
+   "member": {
+    "bioguide": "R000621",
+    "name": "Emily Randall",
+    "short_name": "Emily Randall",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1,
+   "square_miles": 7103.6,
+   "rank_least_compact": 44,
+   "rank_least_compact_in_party": 29
+  },
+  {
+   "code": "WA-07",
+   "state": "WA",
+   "number": 7,
+   "member": {
+    "bioguide": "J000298",
+    "name": "Pramila Jayapal",
+    "short_name": "Pramila Jayapal",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1136,
+   "square_miles": 150.0,
+   "rank_least_compact": 57,
+   "rank_least_compact_in_party": 36
+  },
+  {
+   "code": "WA-08",
+   "state": "WA",
+   "number": 8,
+   "member": {
+    "bioguide": "S001216",
+    "name": "Kim Schrier",
+    "short_name": "Kim Schrier",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2715,
+   "square_miles": 9995.5,
+   "rank_least_compact": 242,
+   "rank_least_compact_in_party": 138
+  },
+  {
+   "code": "WA-09",
+   "state": "WA",
+   "number": 9,
+   "member": {
+    "bioguide": "S000510",
+    "name": "Adam Smith",
+    "short_name": "Adam Smith",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.2371,
+   "square_miles": 200.8,
+   "rank_least_compact": 203,
+   "rank_least_compact_in_party": 116
+  },
+  {
+   "code": "WA-10",
+   "state": "WA",
+   "number": 10,
+   "member": {
+    "bioguide": "S001159",
+    "name": "Marilyn Strickland",
+    "short_name": "Marilyn Strickland",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.1729,
+   "square_miles": 745.8,
+   "rank_least_compact": 118,
+   "rank_least_compact_in_party": 71
+  },
+  {
+   "code": "WI-01",
+   "state": "WI",
+   "number": 1,
+   "member": {
+    "bioguide": "S001213",
+    "name": "Bryan Steil",
+    "short_name": "Bryan Steil",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2771,
+   "square_miles": 1571.4,
+   "rank_least_compact": 253,
+   "rank_least_compact_in_party": 108
+  },
+  {
+   "code": "WI-02",
+   "state": "WI",
+   "number": 2,
+   "member": {
+    "bioguide": "P000607",
+    "name": "Mark Pocan",
+    "short_name": "Mark Pocan",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.4049,
+   "square_miles": 4368.5,
+   "rank_least_compact": 373,
+   "rank_least_compact_in_party": 194
+  },
+  {
+   "code": "WI-03",
+   "state": "WI",
+   "number": 3,
+   "member": {
+    "bioguide": "V000135",
+    "name": "Derrick Van Orden",
+    "short_name": "Derrick Van Orden",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1748,
+   "square_miles": 11544.2,
+   "rank_least_compact": 120,
+   "rank_least_compact_in_party": 48
+  },
+  {
+   "code": "WI-04",
+   "state": "WI",
+   "number": 4,
+   "member": {
+    "bioguide": "M001160",
+    "name": "Gwen Moore",
+    "short_name": "Gwen Moore",
+    "party": "Democrat"
+   },
+   "polsby_popper": 0.323,
+   "square_miles": 140.7,
+   "rank_least_compact": 323,
+   "rank_least_compact_in_party": 169
+  },
+  {
+   "code": "WI-05",
+   "state": "WI",
+   "number": 5,
+   "member": {
+    "bioguide": "F000471",
+    "name": "Scott Fitzgerald",
+    "short_name": "Scott Fitzgerald",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.3787,
+   "square_miles": 2219.3,
+   "rank_least_compact": 356,
+   "rank_least_compact_in_party": 168
+  },
+  {
+   "code": "WI-06",
+   "state": "WI",
+   "number": 6,
+   "member": {
+    "bioguide": "G000576",
+    "name": "Glenn Grothman",
+    "short_name": "Glenn Grothman",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2623,
+   "square_miles": 5353.0,
+   "rank_least_compact": 233,
+   "rank_least_compact_in_party": 96
+  },
+  {
+   "code": "WI-07",
+   "state": "WI",
+   "number": 7,
+   "member": {
+    "bioguide": "T000165",
+    "name": "Thomas P. Tiffany",
+    "short_name": "Thomas Tiffany",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1917,
+   "square_miles": 24061.6,
+   "rank_least_compact": 142,
+   "rank_least_compact_in_party": 56
+  },
+  {
+   "code": "WI-08",
+   "state": "WI",
+   "number": 8,
+   "member": {
+    "bioguide": "W000829",
+    "name": "Tony Wied",
+    "short_name": "Tony Wied",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1622,
+   "square_miles": 6853.7,
+   "rank_least_compact": 104,
+   "rank_least_compact_in_party": 41
+  },
+  {
+   "code": "WV-01",
+   "state": "WV",
+   "number": 1,
+   "member": {
+    "bioguide": "M001205",
+    "name": "Carol D. Miller",
+    "short_name": "Carol Miller",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.2627,
+   "square_miles": 14450.1,
+   "rank_least_compact": 234,
+   "rank_least_compact_in_party": 97
+  },
+  {
+   "code": "WV-02",
+   "state": "WV",
+   "number": 2,
+   "member": {
+    "bioguide": "M001235",
+    "name": "Riley M. Moore",
+    "short_name": "Riley Moore",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.1336,
+   "square_miles": 9780.0,
+   "rank_least_compact": 76,
+   "rank_least_compact_in_party": 28
+  },
+  {
+   "code": "WY-AL",
+   "state": "WY",
+   "number": null,
+   "member": {
+    "bioguide": "H001096",
+    "name": "Harriet M. Hageman",
+    "short_name": "Harriet Hageman",
+    "party": "Republican"
+   },
+   "polsby_popper": 0.7727,
+   "square_miles": 97809.0
+  }
+ ],
+ "updated": "2026-11-10"
+}

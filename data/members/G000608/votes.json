@@ -1,0 +1,1159 @@
+{
+ "bioguide": "G000608",
+ "latest_passage_vote": {
+  "vote_id": "senate-119-2-250",
+  "date": "2026-09-28",
+  "vote": "Yea",
+  "kind": "passage",
+  "question": "On Passage of the Bill",
+  "result": "Bill Passed (77-22)",
+  "bill": {
+   "type": "s",
+   "number": 4668,
+   "label": "S. 4668",
+   "id": "s4668-119"
+  },
+  "totals": {
+   "yea": 77,
+   "nay": 22,
+   "present": 0,
+   "not_voting": 1
+  },
+  "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00250.xml"
+ },
+ "votes": [
+  {
+   "vote_id": "senate-119-2-257",
+   "date": "2026-11-09",
+   "vote": "Yea",
+   "kind": "cloture",
+   "question": "On Cloture on the Motion to Proceed",
+   "result": "Cloture on the Motion to Proceed Agreed to (73-25, 3/5 majority required)",
+   "bill": {
+    "type": "hr",
+    "number": 2347,
+    "label": "H.R. 2347",
+    "id": "hr2347-119"
+   },
+   "totals": {
+    "yea": 73,
+    "nay": 25,
+    "present": 0,
+    "not_voting": 2
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00257.xml"
+  },
+  {
+   "vote_id": "senate-119-2-256",
+   "date": "2026-09-30",
+   "vote": "Yea",
+   "kind": "nomination",
+   "question": "On the Nomination",
+   "result": "Nomination Confirmed (47-41)",
+   "bill": null,
+   "totals": {
+    "yea": 47,
+    "nay": 41,
+    "present": 0,
+    "not_voting": 12
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00256.xml"
+  },
+  {
+   "vote_id": "senate-119-2-255",
+   "date": "2026-09-30",
+   "vote": "Yea",
+   "kind": "cloture",
+   "question": "On the Cloture Motion",
+   "result": "Cloture Motion Agreed to (53-47)",
+   "bill": null,
+   "totals": {
+    "yea": 53,
+    "nay": 47,
+    "present": 0,
+    "not_voting": 0
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00255.xml"
+  },
+  {
+   "vote_id": "senate-119-2-254",
+   "date": "2026-09-30",
+   "vote": "Yea",
+   "kind": "cloture",
+   "question": "On Cloture on the Motion to Proceed",
+   "result": "Cloture on the Motion to Proceed Rejected (57-43, 3/5 majority required)",
+   "bill": {
+    "type": "hr",
+    "number": 9340,
+    "label": "H.R. 9340",
+    "id": "hr9340-119"
+   },
+   "totals": {
+    "yea": 57,
+    "nay": 43,
+    "present": 0,
+    "not_voting": 0
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00254.xml"
+  },
+  {
+   "vote_id": "senate-119-2-253",
+   "date": "2026-09-30",
+   "vote": "Yea",
+   "kind": "cloture",
+   "question": "On Cloture on the Motion to Proceed",
+   "result": "Cloture on the Motion to Proceed Rejected (53-47, 3/5 majority required)",
+   "bill": {
+    "type": "hr",
+    "number": 7008,
+    "label": "H.R. 7008",
+    "id": "hr7008-119"
+   },
+   "totals": {
+    "yea": 53,
+    "nay": 47,
+    "present": 0,
+    "not_voting": 0
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00253.xml"
+  },
+  {
+   "vote_id": "senate-119-2-252",
+   "date": "2026-09-29",
+   "vote": "Nay",
+   "kind": "procedural",
+   "question": "On the Motion to Discharge",
+   "result": "Motion to Discharge Rejected (47-51)",
+   "bill": {
+    "type": "sres",
+    "number": 852,
+    "label": "S.Res. 852",
+    "id": "sres852-119"
+   },
+   "totals": {
+    "yea": 47,
+    "nay": 51,
+    "present": 0,
+    "not_voting": 2
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00252.xml"
+  },
+  {
+   "vote_id": "senate-119-2-251",
+   "date": "2026-09-29",
+   "vote": "Nay",
+   "kind": "procedural",
+   "question": "On the Motion to Proceed",
+   "result": "Motion to Proceed Rejected (48-51)",
+   "bill": {
+    "type": "sjres",
+    "number": 197,
+    "label": "S.J.Res. 197",
+    "id": "sjres197-119"
+   },
+   "totals": {
+    "yea": 48,
+    "nay": 51,
+    "present": 0,
+    "not_voting": 1
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00251.xml"
+  },
+  {
+   "vote_id": "senate-119-2-250",
+   "date": "2026-09-28",
+   "vote": "Yea",
+   "kind": "passage",
+   "question": "On Passage of the Bill",
+   "result": "Bill Passed (77-22)",
+   "bill": {
+    "type": "s",
+    "number": 4668,
+    "label": "S. 4668",
+    "id": "s4668-119"
+   },
+   "totals": {
+    "yea": 77,
+    "nay": 22,
+    "present": 0,
+    "not_voting": 1
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00250.xml"
+  },
+  {
+   "vote_id": "senate-119-2-249",
+   "date": "2026-09-28",
+   "vote": "Nay",
+   "kind": "amendment",
+   "question": "On the Amendment",
+   "result": "Amendment Rejected (47-52)",
+   "bill": null,
+   "totals": {
+    "yea": 47,
+    "nay": 52,
+    "present": 0,
+    "not_voting": 1
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00249.xml"
+  },
+  {
+   "vote_id": "senate-119-2-248",
+   "date": "2026-09-28",
+   "vote": "Nay",
+   "kind": "amendment",
+   "question": "On the Amendment",
+   "result": "Amendment Rejected (49-50)",
+   "bill": null,
+   "totals": {
+    "yea": 49,
+    "nay": 50,
+    "present": 0,
+    "not_voting": 1
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00248.xml"
+  },
+  {
+   "vote_id": "senate-119-2-247",
+   "date": "2026-09-28",
+   "vote": "Yea",
+   "kind": "amendment",
+   "question": "On the Amendment",
+   "result": "Amendment Rejected (42-54, 3/5 majority required)",
+   "bill": null,
+   "totals": {
+    "yea": 42,
+    "nay": 54,
+    "present": 0,
+    "not_voting": 4
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00247.xml"
+  },
+  {
+   "vote_id": "senate-119-2-246",
+   "date": "2026-09-28",
+   "vote": "Nay",
+   "kind": "amendment",
+   "question": "On the Amendment",
+   "result": "Amendment Rejected (1-94)",
+   "bill": null,
+   "totals": {
+    "yea": 1,
+    "nay": 94,
+    "present": 0,
+    "not_voting": 5
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00246.xml"
+  },
+  {
+   "vote_id": "senate-119-2-245",
+   "date": "2026-09-28",
+   "vote": "Yea",
+   "kind": "amendment",
+   "question": "On the Amendment",
+   "result": "Amendment Agreed to (96-1)",
+   "bill": null,
+   "totals": {
+    "yea": 96,
+    "nay": 1,
+    "present": 0,
+    "not_voting": 3
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00245.xml"
+  },
+  {
+   "vote_id": "senate-119-2-244",
+   "date": "2026-09-24",
+   "vote": "Nay",
+   "kind": "passage",
+   "question": "On the Concurrent Resolution",
+   "result": "Concurrent Resolution Rejected (49-50)",
+   "bill": {
+    "type": "hconres",
+    "number": 89,
+    "label": "H.Con.Res. 89",
+    "id": "hconres89-119"
+   },
+   "totals": {
+    "yea": 49,
+    "nay": 50,
+    "present": 0,
+    "not_voting": 1
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00244.xml"
+  },
+  {
+   "vote_id": "senate-119-2-243",
+   "date": "2026-09-24",
+   "vote": "Yea",
+   "kind": "cloture",
+   "question": "On the Cloture Motion",
+   "result": "Cloture Motion Agreed to (74-25, 3/5 majority required)",
+   "bill": {
+    "type": "s",
+    "number": 4668,
+    "label": "S. 4668",
+    "id": "s4668-119"
+   },
+   "totals": {
+    "yea": 74,
+    "nay": 25,
+    "present": 0,
+    "not_voting": 1
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00243.xml"
+  },
+  {
+   "vote_id": "senate-119-2-242",
+   "date": "2026-09-24",
+   "vote": "Yea",
+   "kind": "amendment",
+   "question": "On the Amendment",
+   "result": "Amendment Agreed to (77-23)",
+   "bill": null,
+   "totals": {
+    "yea": 77,
+    "nay": 23,
+    "present": 0,
+    "not_voting": 0
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00242.xml"
+  },
+  {
+   "vote_id": "senate-119-2-241",
+   "date": "2026-09-23",
+   "vote": "Yea",
+   "kind": "nomination",
+   "question": "On the Nomination",
+   "result": "Nomination Confirmed (50-47)",
+   "bill": null,
+   "totals": {
+    "yea": 50,
+    "nay": 47,
+    "present": 0,
+    "not_voting": 3
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00241.xml"
+  },
+  {
+   "vote_id": "senate-119-2-240",
+   "date": "2026-09-22",
+   "vote": "Yea",
+   "kind": "cloture",
+   "question": "On the Cloture Motion",
+   "result": "Cloture Motion Agreed to (70-21, 3/5 majority required)",
+   "bill": null,
+   "totals": {
+    "yea": 70,
+    "nay": 21,
+    "present": 0,
+    "not_voting": 9
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00240.xml"
+  },
+  {
+   "vote_id": "senate-119-2-239",
+   "date": "2026-09-22",
+   "vote": "Yea",
+   "kind": "cloture",
+   "question": "On the Cloture Motion",
+   "result": "Cloture Motion Agreed to (52-43)",
+   "bill": null,
+   "totals": {
+    "yea": 52,
+    "nay": 43,
+    "present": 0,
+    "not_voting": 5
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00239.xml"
+  },
+  {
+   "vote_id": "senate-119-2-238",
+   "date": "2026-09-17",
+   "vote": "Yea",
+   "kind": "nomination",
+   "question": "On the Nomination",
+   "result": "Nomination Confirmed (49-45)",
+   "bill": null,
+   "totals": {
+    "yea": 49,
+    "nay": 45,
+    "present": 0,
+    "not_voting": 6
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00238.xml"
+  },
+  {
+   "vote_id": "senate-119-2-237",
+   "date": "2026-09-17",
+   "vote": "Yea",
+   "kind": "cloture",
+   "question": "On the Cloture Motion",
+   "result": "Cloture Motion Agreed to (49-47)",
+   "bill": null,
+   "totals": {
+    "yea": 49,
+    "nay": 47,
+    "present": 0,
+    "not_voting": 4
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00237.xml"
+  },
+  {
+   "vote_id": "senate-119-2-236",
+   "date": "2026-09-17",
+   "vote": "Yea",
+   "kind": "procedural",
+   "question": "On the Motion to Proceed",
+   "result": "Motion to Proceed Agreed to (77-22)",
+   "bill": {
+    "type": "s",
+    "number": 4668,
+    "label": "S. 4668",
+    "id": "s4668-119"
+   },
+   "totals": {
+    "yea": 77,
+    "nay": 22,
+    "present": 0,
+    "not_voting": 1
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00236.xml"
+  },
+  {
+   "vote_id": "senate-119-2-235",
+   "date": "2026-09-15",
+   "vote": "Yea",
+   "kind": "cloture",
+   "question": "On Cloture on the Motion to Proceed",
+   "result": "Cloture on the Motion to Proceed Agreed to (74-24, 3/5 majority required)",
+   "bill": {
+    "type": "s",
+    "number": 4668,
+    "label": "S. 4668",
+    "id": "s4668-119"
+   },
+   "totals": {
+    "yea": 74,
+    "nay": 24,
+    "present": 0,
+    "not_voting": 2
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00235.xml"
+  },
+  {
+   "vote_id": "senate-119-2-234",
+   "date": "2026-09-15",
+   "vote": "Yea",
+   "kind": "cloture",
+   "question": "On Cloture on the Motion to Proceed",
+   "result": "Cloture on the Motion to Proceed Rejected (49-50, 3/5 majority required)",
+   "bill": {
+    "type": "hr",
+    "number": 3633,
+    "label": "H.R. 3633",
+    "id": "hr3633-119"
+   },
+   "totals": {
+    "yea": 49,
+    "nay": 50,
+    "present": 0,
+    "not_voting": 1
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00234.xml"
+  },
+  {
+   "vote_id": "senate-119-2-233",
+   "date": "2026-09-15",
+   "vote": "Yea",
+   "kind": "nomination",
+   "question": "On the Nomination",
+   "result": "Nomination Confirmed (52-45)",
+   "bill": null,
+   "totals": {
+    "yea": 52,
+    "nay": 45,
+    "present": 0,
+    "not_voting": 3
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00233.xml"
+  },
+  {
+   "vote_id": "senate-119-2-232",
+   "date": "2026-09-14",
+   "vote": "Yea",
+   "kind": "cloture",
+   "question": "On the Cloture Motion",
+   "result": "Cloture Motion Agreed to (47-46)",
+   "bill": null,
+   "totals": {
+    "yea": 47,
+    "nay": 46,
+    "present": 0,
+    "not_voting": 7
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00232.xml"
+  },
+  {
+   "vote_id": "senate-119-2-231",
+   "date": "2026-08-08",
+   "vote": "Yea",
+   "kind": "cloture",
+   "question": "On Cloture on the Motion to Proceed",
+   "result": "Cloture on the Motion to Proceed Rejected (52-46, 3/5 majority required)",
+   "bill": {
+    "type": "s",
+    "number": 5271,
+    "label": "S. 5271",
+    "id": "s5271-119"
+   },
+   "totals": {
+    "yea": 52,
+    "nay": 46,
+    "present": 0,
+    "not_voting": 2
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00231.xml"
+  },
+  {
+   "vote_id": "senate-119-2-230",
+   "date": "2026-08-08",
+   "vote": "Yea",
+   "kind": "nomination",
+   "question": "On the Nomination",
+   "result": "Nomination Confirmed (50-49)",
+   "bill": null,
+   "totals": {
+    "yea": 50,
+    "nay": 49,
+    "present": 0,
+    "not_voting": 1
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00230.xml"
+  },
+  {
+   "vote_id": "senate-119-2-229",
+   "date": "2026-08-08",
+   "vote": "Yea",
+   "kind": "cloture",
+   "question": "On the Cloture Motion",
+   "result": "Cloture Motion Agreed to (50-49)",
+   "bill": null,
+   "totals": {
+    "yea": 50,
+    "nay": 49,
+    "present": 0,
+    "not_voting": 1
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00229.xml"
+  },
+  {
+   "vote_id": "senate-119-2-228",
+   "date": "2026-08-08",
+   "vote": "Present",
+   "kind": "passage",
+   "question": "On Passage of the Bill",
+   "result": "Bill Passed (90-6, 3/5 majority required)",
+   "bill": {
+    "type": "hr",
+    "number": 6500,
+    "label": "H.R. 6500",
+    "id": "hr6500-119"
+   },
+   "totals": {
+    "yea": 90,
+    "nay": 6,
+    "present": 1,
+    "not_voting": 3
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00228.xml"
+  },
+  {
+   "vote_id": "senate-119-2-227",
+   "date": "2026-08-08",
+   "vote": "Yea",
+   "kind": "procedural",
+   "question": "On the Motion to Table",
+   "result": "Motion to Table Agreed to (61-32)",
+   "bill": null,
+   "totals": {
+    "yea": 61,
+    "nay": 32,
+    "present": 0,
+    "not_voting": 7
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00227.xml"
+  },
+  {
+   "vote_id": "senate-119-2-226",
+   "date": "2026-08-07",
+   "vote": "Present",
+   "kind": "cloture",
+   "question": "On the Cloture Motion",
+   "result": "Cloture Motion Agreed to (91-6, 3/5 majority required)",
+   "bill": null,
+   "totals": {
+    "yea": 91,
+    "nay": 6,
+    "present": 1,
+    "not_voting": 2
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00226.xml"
+  },
+  {
+   "vote_id": "senate-119-2-225",
+   "date": "2026-08-07",
+   "vote": "Yea",
+   "kind": "nomination",
+   "question": "On the Nomination",
+   "result": "Nomination Confirmed (51-47)",
+   "bill": null,
+   "totals": {
+    "yea": 51,
+    "nay": 47,
+    "present": 0,
+    "not_voting": 2
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00225.xml"
+  },
+  {
+   "vote_id": "senate-119-2-224",
+   "date": "2026-08-07",
+   "vote": "Yea",
+   "kind": "passage",
+   "question": "On Passage of the Bill",
+   "result": "Bill Passed (86-11, 3/5 majority required)",
+   "bill": {
+    "type": "hr",
+    "number": 5334,
+    "label": "H.R. 5334",
+    "id": "hr5334-119"
+   },
+   "totals": {
+    "yea": 86,
+    "nay": 11,
+    "present": 0,
+    "not_voting": 3
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00224.xml"
+  },
+  {
+   "vote_id": "senate-119-2-223",
+   "date": "2026-08-07",
+   "vote": "Nay",
+   "kind": "amendment",
+   "question": "On the Amendment",
+   "result": "Amendment Rejected (32-64)",
+   "bill": null,
+   "totals": {
+    "yea": 32,
+    "nay": 64,
+    "present": 0,
+    "not_voting": 4
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00223.xml"
+  },
+  {
+   "vote_id": "senate-119-2-222",
+   "date": "2026-08-05",
+   "vote": "Nay",
+   "kind": "procedural",
+   "question": "On the Motion to Proceed",
+   "result": "Motion to Proceed Rejected (48-50)",
+   "bill": {
+    "type": "sjres",
+    "number": 187,
+    "label": "S.J.Res. 187",
+    "id": "sjres187-119"
+   },
+   "totals": {
+    "yea": 48,
+    "nay": 50,
+    "present": 0,
+    "not_voting": 2
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00222.xml"
+  },
+  {
+   "vote_id": "senate-119-2-221",
+   "date": "2026-08-05",
+   "vote": "Yea",
+   "kind": "cloture",
+   "question": "On the Cloture Motion",
+   "result": "Cloture Motion Agreed to (50-44)",
+   "bill": null,
+   "totals": {
+    "yea": 50,
+    "nay": 44,
+    "present": 0,
+    "not_voting": 6
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00221.xml"
+  },
+  {
+   "vote_id": "senate-119-2-220",
+   "date": "2026-08-05",
+   "vote": "Yea",
+   "kind": "nomination",
+   "question": "On the Nomination",
+   "result": "Nomination Confirmed (51-44)",
+   "bill": null,
+   "totals": {
+    "yea": 51,
+    "nay": 44,
+    "present": 0,
+    "not_voting": 5
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00220.xml"
+  },
+  {
+   "vote_id": "senate-119-2-219",
+   "date": "2026-08-05",
+   "vote": "Yea",
+   "kind": "cloture",
+   "question": "On the Cloture Motion",
+   "result": "Cloture Motion Agreed to (51-43)",
+   "bill": null,
+   "totals": {
+    "yea": 51,
+    "nay": 43,
+    "present": 0,
+    "not_voting": 6
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00219.xml"
+  },
+  {
+   "vote_id": "senate-119-2-218",
+   "date": "2026-08-03",
+   "vote": "Not Voting",
+   "kind": "cloture",
+   "question": "On Cloture on the Motion to Proceed",
+   "result": "Cloture on the Motion to Proceed Agreed to (89-4, 3/5 majority required)",
+   "bill": {
+    "type": "hr",
+    "number": 6500,
+    "label": "H.R. 6500",
+    "id": "hr6500-119"
+   },
+   "totals": {
+    "yea": 89,
+    "nay": 4,
+    "present": 0,
+    "not_voting": 7
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00218.xml"
+  },
+  {
+   "vote_id": "senate-119-2-217",
+   "date": "2026-07-30",
+   "vote": "Yea",
+   "kind": "passage",
+   "question": "On the Resolution",
+   "result": "Resolution Agreed to (50-47)",
+   "bill": {
+    "type": "sres",
+    "number": 817,
+    "label": "S.Res. 817",
+    "id": "sres817-119"
+   },
+   "totals": {
+    "yea": 50,
+    "nay": 47,
+    "present": 0,
+    "not_voting": 3
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00217.xml"
+  },
+  {
+   "vote_id": "senate-119-2-216",
+   "date": "2026-07-30",
+   "vote": "Nay",
+   "kind": "procedural",
+   "question": "On the Motion to Discharge",
+   "result": "Motion to Discharge Rejected (49-50)",
+   "bill": {
+    "type": "sjres",
+    "number": 181,
+    "label": "S.J.Res. 181",
+    "id": "sjres181-119"
+   },
+   "totals": {
+    "yea": 49,
+    "nay": 50,
+    "present": 0,
+    "not_voting": 1
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00216.xml"
+  },
+  {
+   "vote_id": "senate-119-2-215",
+   "date": "2026-07-30",
+   "vote": "Nay",
+   "kind": "procedural",
+   "question": "On the Motion to Proceed",
+   "result": "Motion to Proceed Rejected (47-52)",
+   "bill": {
+    "type": "sjres",
+    "number": 199,
+    "label": "S.J.Res. 199",
+    "id": "sjres199-119"
+   },
+   "totals": {
+    "yea": 47,
+    "nay": 52,
+    "present": 0,
+    "not_voting": 1
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00215.xml"
+  },
+  {
+   "vote_id": "senate-119-2-214",
+   "date": "2026-07-29",
+   "vote": "Not Voting",
+   "kind": "cloture",
+   "question": "On the Cloture Motion",
+   "result": "Cloture Motion Agreed to (50-45)",
+   "bill": {
+    "type": "sres",
+    "number": 817,
+    "label": "S.Res. 817",
+    "id": "sres817-119"
+   },
+   "totals": {
+    "yea": 50,
+    "nay": 45,
+    "present": 0,
+    "not_voting": 5
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00214.xml"
+  },
+  {
+   "vote_id": "senate-119-2-213",
+   "date": "2026-07-29",
+   "vote": "Not Voting",
+   "kind": "procedural",
+   "question": "On the Motion to Proceed",
+   "result": "Motion to Proceed Agreed to (84-12)",
+   "bill": {
+    "type": "hr",
+    "number": 5334,
+    "label": "H.R. 5334",
+    "id": "hr5334-119"
+   },
+   "totals": {
+    "yea": 84,
+    "nay": 12,
+    "present": 0,
+    "not_voting": 4
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00213.xml"
+  },
+  {
+   "vote_id": "senate-119-2-212",
+   "date": "2026-07-28",
+   "vote": "Not Voting",
+   "kind": "cloture",
+   "question": "On Cloture on the Motion to Proceed",
+   "result": "Cloture on the Motion to Proceed Agreed to (86-12, 3/5 majority required)",
+   "bill": {
+    "type": "hr",
+    "number": 5334,
+    "label": "H.R. 5334",
+    "id": "hr5334-119"
+   },
+   "totals": {
+    "yea": 86,
+    "nay": 12,
+    "present": 0,
+    "not_voting": 2
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00212.xml"
+  },
+  {
+   "vote_id": "senate-119-2-211",
+   "date": "2026-07-28",
+   "vote": "Not Voting",
+   "kind": "nomination",
+   "question": "On the Nomination",
+   "result": "Nomination Confirmed (51-47)",
+   "bill": null,
+   "totals": {
+    "yea": 51,
+    "nay": 47,
+    "present": 0,
+    "not_voting": 2
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00211.xml"
+  },
+  {
+   "vote_id": "senate-119-2-210",
+   "date": "2026-07-27",
+   "vote": "Yea",
+   "kind": "cloture",
+   "question": "On the Cloture Motion",
+   "result": "Cloture Motion Agreed to (51-43)",
+   "bill": null,
+   "totals": {
+    "yea": 51,
+    "nay": 43,
+    "present": 0,
+    "not_voting": 6
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00210.xml"
+  },
+  {
+   "vote_id": "senate-119-2-209",
+   "date": "2026-07-23",
+   "vote": "Yea",
+   "kind": "nomination",
+   "question": "On the Nomination",
+   "result": "Nomination Confirmed (49-44)",
+   "bill": null,
+   "totals": {
+    "yea": 49,
+    "nay": 44,
+    "present": 0,
+    "not_voting": 7
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00209.xml"
+  },
+  {
+   "vote_id": "senate-119-2-208",
+   "date": "2026-07-23",
+   "vote": "Yea",
+   "kind": "nomination",
+   "question": "On the Nomination",
+   "result": "Nomination Confirmed (48-47)",
+   "bill": null,
+   "totals": {
+    "yea": 48,
+    "nay": 47,
+    "present": 0,
+    "not_voting": 5
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00208.xml"
+  },
+  {
+   "vote_id": "senate-119-2-207",
+   "date": "2026-07-23",
+   "vote": "Nay",
+   "kind": "procedural",
+   "question": "On the Motion to Discharge",
+   "result": "Motion to Discharge Rejected (47-49)",
+   "bill": {
+    "type": "sjres",
+    "number": 180,
+    "label": "S.J.Res. 180",
+    "id": "sjres180-119"
+   },
+   "totals": {
+    "yea": 47,
+    "nay": 49,
+    "present": 0,
+    "not_voting": 4
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00207.xml"
+  },
+  {
+   "vote_id": "senate-119-2-206",
+   "date": "2026-07-22",
+   "vote": "Yea",
+   "kind": "cloture",
+   "question": "On the Cloture Motion",
+   "result": "Cloture Motion Agreed to (51-46)",
+   "bill": null,
+   "totals": {
+    "yea": 51,
+    "nay": 46,
+    "present": 0,
+    "not_voting": 3
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00206.xml"
+  },
+  {
+   "vote_id": "senate-119-2-205",
+   "date": "2026-07-22",
+   "vote": "Yea",
+   "kind": "cloture",
+   "question": "On the Cloture Motion",
+   "result": "Cloture Motion Agreed to (54-44)",
+   "bill": null,
+   "totals": {
+    "yea": 54,
+    "nay": 44,
+    "present": 0,
+    "not_voting": 2
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00205.xml"
+  },
+  {
+   "vote_id": "senate-119-2-204",
+   "date": "2026-07-22",
+   "vote": "Yea",
+   "kind": "nomination",
+   "question": "On the Nomination",
+   "result": "Nomination Confirmed (62-36)",
+   "bill": null,
+   "totals": {
+    "yea": 62,
+    "nay": 36,
+    "present": 0,
+    "not_voting": 2
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00204.xml"
+  },
+  {
+   "vote_id": "senate-119-2-203",
+   "date": "2026-07-22",
+   "vote": "Yea",
+   "kind": "cloture",
+   "question": "On the Cloture Motion",
+   "result": "Cloture Motion Agreed to (60-35)",
+   "bill": null,
+   "totals": {
+    "yea": 60,
+    "nay": 35,
+    "present": 0,
+    "not_voting": 5
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00203.xml"
+  },
+  {
+   "vote_id": "senate-119-2-202",
+   "date": "2026-07-22",
+   "vote": "Yea",
+   "kind": "nomination",
+   "question": "On the Nomination",
+   "result": "Nomination Confirmed (49-46)",
+   "bill": null,
+   "totals": {
+    "yea": 49,
+    "nay": 46,
+    "present": 0,
+    "not_voting": 5
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00202.xml"
+  },
+  {
+   "vote_id": "senate-119-2-201",
+   "date": "2026-07-21",
+   "vote": "Yea",
+   "kind": "nomination",
+   "question": "On the Nomination",
+   "result": "Nomination Confirmed (50-48)",
+   "bill": null,
+   "totals": {
+    "yea": 50,
+    "nay": 48,
+    "present": 0,
+    "not_voting": 2
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00201.xml"
+  },
+  {
+   "vote_id": "senate-119-2-200",
+   "date": "2026-07-20",
+   "vote": "Yea",
+   "kind": "cloture",
+   "question": "On the Cloture Motion",
+   "result": "Cloture Motion Agreed to (43-40)",
+   "bill": null,
+   "totals": {
+    "yea": 43,
+    "nay": 40,
+    "present": 0,
+    "not_voting": 17
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00200.xml"
+  },
+  {
+   "vote_id": "senate-119-2-199",
+   "date": "2026-07-16",
+   "vote": "Nay",
+   "kind": "procedural",
+   "question": "On the Motion to Proceed",
+   "result": "Motion to Proceed Rejected (46-50)",
+   "bill": {
+    "type": "sjres",
+    "number": 198,
+    "label": "S.J.Res. 198",
+    "id": "sjres198-119"
+   },
+   "totals": {
+    "yea": 46,
+    "nay": 50,
+    "present": 0,
+    "not_voting": 4
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00199.xml"
+  },
+  {
+   "vote_id": "senate-119-2-198",
+   "date": "2026-07-16",
+   "vote": "Yea",
+   "kind": "cloture",
+   "question": "On the Cloture Motion",
+   "result": "Cloture Motion Agreed to (49-48)",
+   "bill": null,
+   "totals": {
+    "yea": 49,
+    "nay": 48,
+    "present": 0,
+    "not_voting": 3
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00198.xml"
+  },
+  {
+   "vote_id": "senate-119-2-197",
+   "date": "2026-07-15",
+   "vote": "Yea",
+   "kind": "nomination",
+   "question": "On the Nomination",
+   "result": "Nomination Confirmed (51-46)",
+   "bill": null,
+   "totals": {
+    "yea": 51,
+    "nay": 46,
+    "present": 0,
+    "not_voting": 3
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00197.xml"
+  },
+  {
+   "vote_id": "senate-119-2-196",
+   "date": "2026-07-15",
+   "vote": "Yea",
+   "kind": "cloture",
+   "question": "On the Cloture Motion",
+   "result": "Cloture Motion Agreed to (51-46)",
+   "bill": null,
+   "totals": {
+    "yea": 51,
+    "nay": 46,
+    "present": 0,
+    "not_voting": 3
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00196.xml"
+  },
+  {
+   "vote_id": "senate-119-2-195",
+   "date": "2026-07-14",
+   "vote": "Yea",
+   "kind": "cloture",
+   "question": "On Cloture on the Motion to Proceed",
+   "result": "Cloture on the Motion to Proceed Rejected (50-46, 3/5 majority required)",
+   "bill": {
+    "type": "s",
+    "number": 4784,
+    "label": "S. 4784",
+    "id": "s4784-119"
+   },
+   "totals": {
+    "yea": 50,
+    "nay": 46,
+    "present": 0,
+    "not_voting": 4
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00195.xml"
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "bioguide": "R000612",
+ "name": "John W. Rose",
+ "cycle": 2026,
+ "candidate_id": "H8TN06094",
+ "summary": {
+  "receipts": 77889.95,
+  "individual_contributions": 47889.95,
+  "pac_contributions": 18000.0,
+  "party_contributions": 0.0,
+  "candidate_contributions": 0.0,
+  "candidate_loans": 0.0,
+  "transfers_from_authorized": 12000.0,
+  "cash_on_hand": 43007.57,
+  "coverage_end": "09/30/2026"
+ },
+ "pac_contributions": [
+  {
+   "committee_id": "C00000901",
+   "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+   "connected_org": "NATIONAL ASSOCIATION OF HOME BUILDERS",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00467381",
+   "name": "LENDINGTREE LLC POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00122101",
+   "name": "SAFARI CLUB INTERNATIONAL PAC (SCI-PAC)",
+   "connected_org": "SAFARI CLUB INTERNATIONAL",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00183962",
+   "name": "CADENCE BANK PAC",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00400705",
+   "name": "PUBLIX SUPER MARKETS, INC. ASSOCIATES POLITICAL ACTION COMMITTEE",
+   "connected_org": "PUBLIX SUPER MARKETS, INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00392670",
+   "name": "JUSTICE FREEDOM & LIBERTY PAC",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00172833",
+   "name": "AMERICAN ASSOCIATION OF CROP INSURERS PAC",
+   "connected_org": "AMERICAN ASSOCIATION OF CROP INSURERS",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00396671",
+   "name": "HARDWOOD FEDERATION PAC, INC",
+   "connected_org": "HARDWOOD FEDERATION",
+   "total": 1000.0
+  }
+ ],
+ "pac_by_type": [
+  {
+   "type": "Corporate PACs",
+   "total": 8000.0
+  },
+  {
+   "type": "Trade association PACs",
+   "total": 6500.0
+  },
+  {
+   "type": "Membership group PACs",
+   "total": 2500.0
+  },
+  {
+   "type": "Other PACs",
+   "total": 2000.0
+  }
+ ],
+ "outside_spending": {
+  "support_total": 0,
+  "oppose_total": 0,
+  "spenders": [],
+  "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
+ },
+ "detail": null,
+ "detail_fetched_ts": 0,
+ "sources": {
+  "summary": "FEC candidate summary file (weball)",
+  "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
+  "detail": "FEC API, principal campaign committee"
+ }
+}

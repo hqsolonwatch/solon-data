@@ -1,0 +1,152 @@
+{
+ "code": "IA-03",
+ "state": "IA",
+ "number": 3,
+ "geoid": "1903",
+ "congress": 119,
+ "member": {
+  "bioguide": "N000193",
+  "name": "Zachary Nunn",
+  "short_name": "Zachary (Zach) Nunn",
+  "party": "Republican"
+ },
+ "polsby_popper": 0.3526,
+ "square_miles": 10748.9,
+ "svg": {
+  "box": [
+   480,
+   360
+  ],
+  "shape": "14,304 14,223 46,223 47,158 111,159 110,140 104,140 104,91 121,91 121,26 186,26 186,91 301,91 301,140 304,140 304,161 303,162 302,163 301,162 301,160 300,160 300,161 299,162 298,162 297,161 296,160 296,161 295,162 294,162 293,162 293,161 294,161 294,160 294,159 293,159 292,160 292,161 291,161 291,160 292,159 292,158 290,158 289,158 289,159 288,159 288,158 273,157 239,157 239,223 288,223 466,223 466,312 466,328 423,329 394,330 358,331 313,332 271,332 198,334 168,334 120,334 16,332 16,318 16,304",
+  "islands_bridged": false,
+  "counties": [
+   {
+    "fips": "19175",
+    "county": "Union",
+    "share_of_county_area": 1.0,
+    "poly": "140,221 140,275 210,276 210,221"
+   },
+   {
+    "fips": "19003",
+    "county": "Adams",
+    "share_of_county_area": 1.0,
+    "poly": "75,275 146,275 146,221 76,221"
+   },
+   {
+    "fips": "19135",
+    "county": "Monroe",
+    "share_of_county_area": 1.0,
+    "poly": "333,220 333,275 404,275 404,220"
+   },
+   {
+    "fips": "19039",
+    "county": "Clarke",
+    "share_of_county_area": 1.0,
+    "poly": "204,221 204,276 275,275 275,220"
+   },
+   {
+    "fips": "19007",
+    "county": "Appanoose",
+    "share_of_county_area": 1.0,
+    "poly": "333,269 333,335 404,333 404,269"
+   },
+   {
+    "fips": "19077",
+    "county": "Guthrie",
+    "share_of_county_area": 1.0,
+    "poly": "101,88 101,143 108,143 108,162 178,162 178,137 173,137 173,88"
+   },
+   {
+    "fips": "19029",
+    "county": "Cass",
+    "share_of_county_area": 1.0,
+    "poly": "43,226 114,227 114,156 44,155"
+   },
+   {
+    "fips": "19053",
+    "county": "Decatur",
+    "share_of_county_area": 1.0,
+    "poly": "204,336 275,335 275,269 204,270"
+   },
+   {
+    "fips": "19179",
+    "county": "Wapello",
+    "share_of_county_area": 1.0,
+    "poly": "398,221 398,275 469,275 469,220"
+   },
+   {
+    "fips": "19001",
+    "county": "Adair",
+    "share_of_county_area": 1.0,
+    "poly": "108,156 108,227 178,227 178,156"
+   },
+   {
+    "fips": "19117",
+    "county": "Lucas",
+    "share_of_county_area": 1.0,
+    "poly": "269,220 269,275 339,275 339,220"
+   },
+   {
+    "fips": "19121",
+    "county": "Madison",
+    "share_of_county_area": 1.0,
+    "poly": "172,156 172,227 242,226 242,154 224,156"
+   },
+   {
+    "fips": "19153",
+    "county": "Polk",
+    "share_of_county_area": 1.0,
+    "poly": "232,88 232,144 236,144 236,160 287,161 284,166 290,164 289,167 296,164 301,167 307,163 307,137 304,137 304,88"
+   },
+   {
+    "fips": "19159",
+    "county": "Ringgold",
+    "share_of_county_area": 1.0,
+    "poly": "140,269 140,337 210,336 210,270"
+   },
+   {
+    "fips": "19051",
+    "county": "Davis",
+    "share_of_county_area": 1.0,
+    "poly": "398,269 398,333 469,331 469,269"
+   },
+   {
+    "fips": "19185",
+    "county": "Wayne",
+    "share_of_county_area": 1.0,
+    "poly": "269,269 269,335 339,334 339,269"
+   },
+   {
+    "fips": "19073",
+    "county": "Greene",
+    "share_of_county_area": 1.0,
+    "poly": "118,23 118,94 189,94 189,23"
+   },
+   {
+    "fips": "19173",
+    "county": "Taylor",
+    "share_of_county_area": 1.0,
+    "poly": "75,269 75,307 78,308 77,336 146,337 146,269"
+   },
+   {
+    "fips": "19049",
+    "county": "Dallas",
+    "share_of_county_area": 1.0,
+    "poly": "167,88 167,143 172,143 172,162 224,162 242,160 242,138 238,138 238,88"
+   },
+   {
+    "fips": "19137",
+    "county": "Montgomery",
+    "share_of_county_area": 1.0,
+    "poly": "11,275 81,275 82,221 11,220"
+   },
+   {
+    "fips": "19145",
+    "county": "Page",
+    "share_of_county_area": 1.0,
+    "poly": "11,306 13,307 13,335 83,336 81,269 11,269"
+   }
+  ]
+ },
+ "source": "U.S. Census Bureau cartographic boundary file cb_2025_us_cd119_500k and cb_2025_us_county_500k"
+}

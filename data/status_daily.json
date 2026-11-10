@@ -1,0 +1,54 @@
+{
+ "started": "2026-11-10 13:59:12 UTC",
+ "run": "daily",
+ "steps": {
+  "members": {
+   "ok": true,
+   "seconds": 0
+  },
+  "votes": {
+   "ok": true,
+   "seconds": 673
+  },
+  "upcoming": {
+   "ok": true,
+   "seconds": 1
+  },
+  "money": {
+   "ok": true,
+   "seconds": 1086
+  },
+  "bills": {
+   "ok": true,
+   "seconds": 7025
+  },
+  "lobbying": {
+   "ok": true,
+   "seconds": 919
+  },
+  "districts": {
+   "ok": true,
+   "seconds": 29
+  },
+  "landing": {
+   "ok": true,
+   "seconds": 1
+  }
+ },
+ "api_keys": {
+  "API_DATA_GOV_KEY": true,
+  "LDA_API_KEY": true
+ },
+ "requests": {
+  "unitedstates.github.io": 2,
+  "clerk.house.gov": 684,
+  "www.senate.gov": 919,
+  "docs.house.gov": 4,
+  "www.fec.gov": 3,
+  "api.open.fec.gov": 850,
+  "api.congress.gov": 1043,
+  "lda.gov": 900,
+  "www2.census.gov": 2
+ },
+ "finished": "2026-11-10 16:41:26 UTC"
+}

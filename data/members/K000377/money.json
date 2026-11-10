@@ -1,0 +1,411 @@
+{
+ "bioguide": "K000377",
+ "name": "Mark Kelly",
+ "cycle": 2026,
+ "candidate_id": "S0AZ00350",
+ "summary": {
+  "receipts": 47539201.61,
+  "individual_contributions": 47009284.83,
+  "pac_contributions": 35750.0,
+  "party_contributions": 0.0,
+  "candidate_contributions": 23.41,
+  "candidate_loans": 0.0,
+  "transfers_from_authorized": 129453.84,
+  "cash_on_hand": 26498148.59,
+  "coverage_end": "09/30/2026"
+ },
+ "pac_contributions": [
+  {
+   "committee_id": "C00365270",
+   "name": "M-PAC",
+   "connected_org": null,
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00245548",
+   "name": "NATIONAL MARINE MANUFACTURERS ASSOCIATION AND MARINE RETAILERS ASSOCIATION BOAT PAC",
+   "connected_org": "NATIONAL MARINE MANUFACTURERS ASSOCIATION",
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00027342",
+   "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+   "connected_org": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00004325",
+   "name": "SEAFARERS POLITICAL ACTIVITY DONATION - SEAFARERS INTERNATIONAL UNION OF NA-AGLIW",
+   "connected_org": "SEAFARERS INTERNATIONAL UNION OF NA-AGLIW",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00267849",
+   "name": "ALLIED PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00262295",
+   "name": "CTIA - THE WIRELESS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "CTIA - THE WIRELESS ASSOCIATION",
+   "total": 4500.0
+  },
+  {
+   "committee_id": "C00471540",
+   "name": "ENVIRONMENTAL DEFENSE ACTION FUND PAC (EDAF PAC)",
+   "connected_org": "ENVIRONMENTAL DEFENSE ACTION FUND",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00574970",
+   "name": "FAIR SHOT PAC",
+   "connected_org": "CLARK",
+   "total": 3456.0
+  },
+  {
+   "committee_id": "C00441949",
+   "name": "JSTREETPAC",
+   "connected_org": "J STREET",
+   "total": 2833.0
+  },
+  {
+   "committee_id": "C00032995",
+   "name": "AMALGAMATED TRANSIT UNION - COPE",
+   "connected_org": "AMALGAMATED TRANSIT UNION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00432963",
+   "name": "AMERICAN ROLL-ON ROLL-OFF CARRIER GROUP, INC. FREEDOM PAC / ARC FREEDOM PAC",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00691618",
+   "name": "THE SURETY & FIDELITY ASSOCIATION OF AMERICA POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE SURETY & FIDELITY ASSOCIATION OF AMERICA",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00419911",
+   "name": "LUMEN TECHNOLOGIES, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00213173",
+   "name": "K&L GATES LLP POLITICAL ACTION COMMITTEE (DC)",
+   "connected_org": "NONE",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00431858",
+   "name": "STEPTOE LLP POLITICAL ACTION COMMITTEE",
+   "connected_org": "NONE",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00859017",
+   "name": "SCITECH PAC",
+   "connected_org": "NONE",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00852400",
+   "name": "BLUE AMP ACTION PAC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00395947",
+   "name": "BARNES & THORNBURG POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00066472",
+   "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION POLITICAL ACTION COMMITTEE (INSURING AMERICA PAC)",
+   "connected_org": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00834291",
+   "name": "LATEEFAH FOR CONGRESS",
+   "connected_org": "THE EMPOWERMENT FUND",
+   "total": 250.0
+  },
+  {
+   "committee_id": "C00633248",
+   "name": "314 ACTION FUND",
+   "connected_org": "314 ACTION VICTORY FUND",
+   "total": 200.0
+  },
+  {
+   "committee_id": "C00411694",
+   "name": "SALTCHUK RESOURCES, INC. PAC",
+   "connected_org": "SALTCHUK RESOURCES, INC. PAC",
+   "total": 0.0
+  },
+  {
+   "committee_id": "C00422501",
+   "name": "CSL BEHRING LLC EMPLOYEES POLITICAL ACTION COMMITTEE (CSL EMPLOYEES PAC)",
+   "connected_org": "CSL BEHRING LLC",
+   "total": 0.0
+  },
+  {
+   "committee_id": "C00379784",
+   "name": "ENPRO INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 0.0
+  },
+  {
+   "committee_id": "C00012328",
+   "name": "FLORIDA SUGAR CANE LEAGUE PAC",
+   "connected_org": "FLORIDA SUGAR CANE LEAGUE",
+   "total": -2000.0
+  },
+  {
+   "committee_id": "C00023028",
+   "name": "NATIONAL COTTON COUNCIL OF AMERICA COMMITTEE FOR THE ADVANCEMENT OF COTTON",
+   "connected_org": "NATIONAL COTTON COUNCIL OF AMERICA",
+   "total": -2500.0
+  },
+  {
+   "committee_id": "C00497545",
+   "name": "CONCORDE CAREER COLLEGES AND UNIVERSAL TECHNICAL INSTITUTE INC. PAC",
+   "connected_org": "UNIVERSAL TECHNICAL INSTITUTE INC. PAC (UTIPAC)",
+   "total": -5000.0
+  }
+ ],
+ "pac_by_type": [
+  {
+   "type": "Labor union PACs",
+   "total": 17500.0
+  },
+  {
+   "type": "Leadership PACs (run by other politicians)",
+   "total": 13456.0
+  },
+  {
+   "type": "Trade association PACs",
+   "total": 11000.0
+  },
+  {
+   "type": "Membership group PACs",
+   "total": 6833.0
+  },
+  {
+   "type": "Other PACs",
+   "total": 5200.0
+  },
+  {
+   "type": "Other candidates’ campaigns",
+   "total": 250.0
+  },
+  {
+   "type": "Corporate PACs",
+   "total": 0.0
+  }
+ ],
+ "outside_spending": {
+  "support_total": 43575.0,
+  "oppose_total": 7351.0,
+  "spenders": [
+   {
+    "committee_id": "C00418897",
+    "name": "VOTEVETS",
+    "support": 40000.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00448696",
+    "name": "SENATE CONSERVATIVES FUND",
+    "support": 0.0,
+    "oppose": 7351.0
+   },
+   {
+    "committee_id": "C00704593",
+    "name": "BLUE BATTLEGROUND PROJECT",
+    "support": 2500.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00814152",
+    "name": "TURNING POINT PAC INC.",
+    "support": 575.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00934273",
+    "name": "DEMOCRATIC FUTURE PAC",
+    "support": 500.0,
+    "oppose": 0.0
+   }
+  ],
+  "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
+ },
+ "detail": {
+  "committee_id": "C00696526",
+  "committee_name": "MARK KELLY FOR SENATE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 47539201.61,
+  "amounts": {
+   "individuals_200_or_less": 29728682.44,
+   "individuals_over_200": 17280602.39,
+   "pacs_and_parties": 35750.0,
+   "candidate_own": 23.41,
+   "transfers_from_authorized": 129453.84,
+   "other_receipts": 326002.59
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    63
+   ],
+   [
+    "Individuals giving more than $200",
+    37
+   ],
+   [
+    "PACs and party committees",
+    0
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 14040576.04,
+   "home_state": "AZ",
+   "home_state_total": 2934764.6,
+   "home_state_share": 21,
+   "top": [
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 2934764.6,
+     "count": 54564
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 2398986.78,
+     "count": 38700
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 745155.59,
+     "count": 9912
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 719327.78,
+     "count": 11994
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 606795.64,
+     "count": 8790
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 553744.56,
+     "count": 9521
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 537536.6,
+     "count": 7270
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 385424.51,
+     "count": 5728
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 376460.53,
+     "count": 6195
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 356311.11,
+     "count": 5823
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "HERITAGE CAPITAL CORPORATION",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "MASS GENERAL HOSPITAL",
+     "total": 13750.0,
+     "count": 8
+    },
+    {
+     "employer": "REGLAGENE, INC.",
+     "total": 13500.0,
+     "count": 11
+    },
+    {
+     "employer": "THE WONDERFUL COMPANY",
+     "total": 13200.0,
+     "count": 4
+    },
+    {
+     "employer": "UNIVERSITY OF ARIZONA",
+     "total": 12871.0,
+     "count": 294
+    },
+    {
+     "employer": "GOOGLE",
+     "total": 11605.0,
+     "count": 68
+    },
+    {
+     "employer": "FLAGSHIP PIONEERING",
+     "total": 10750.0,
+     "count": 9
+    },
+    {
+     "employer": "FIELD HANDS PRODUCTIONS",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "ICG",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "ARIZONA STATE UNIVERSITY",
+     "total": 10487.0,
+     "count": 201
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794319828.5573218,
+ "sources": {
+  "summary": "FEC candidate summary file (weball)",
+  "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
+  "detail": "FEC API, principal campaign committee"
+ }
+}

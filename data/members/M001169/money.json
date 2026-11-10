@@ -1,0 +1,278 @@
+{
+ "bioguide": "M001169",
+ "name": "Christopher Murphy",
+ "cycle": 2026,
+ "candidate_id": "S2CT00132",
+ "summary": {
+  "receipts": 14020487.66,
+  "individual_contributions": 12616135.2,
+  "pac_contributions": 0.0,
+  "party_contributions": 0.0,
+  "candidate_contributions": 0.0,
+  "candidate_loans": 0.0,
+  "transfers_from_authorized": 1099398.38,
+  "cash_on_hand": 11517904.26,
+  "coverage_end": "09/30/2026"
+ },
+ "pac_contributions": [
+  {
+   "committee_id": "C00118943",
+   "name": "MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY POLITICAL ACTION COMMITTEE",
+   "connected_org": "MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00029447",
+   "name": "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC",
+   "connected_org": "INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00573261",
+   "name": "END CITIZENS UNITED",
+   "connected_org": "LET AMERICA VOTE PAC",
+   "total": 0.0
+  },
+  {
+   "committee_id": "C00400705",
+   "name": "PUBLIX SUPER MARKETS, INC. ASSOCIATES POLITICAL ACTION COMMITTEE",
+   "connected_org": "PUBLIX SUPER MARKETS, INC.",
+   "total": 0.0
+  },
+  {
+   "committee_id": "C00034470",
+   "name": "DIAGEO NORTH AMERICA, INC. EMPLOYEES' POLITICAL PARTICIPATION COMMITTEE (DIAGEO PAC)",
+   "connected_org": "DIAGEO NORTH AMERICA, INC.",
+   "total": -1000.0
+  },
+  {
+   "committee_id": "C00207795",
+   "name": "NBT PAC FEDERAL FUND",
+   "connected_org": null,
+   "total": -1000.0
+  },
+  {
+   "committee_id": "C00398271",
+   "name": "ENVISION HEALTHCARE OPERATING, INC POLITICAL ACTION COMMITTEE",
+   "connected_org": "ENVISION HEALTHCARE OPERATING, INC",
+   "total": -1000.0
+  },
+  {
+   "committee_id": "C00032995",
+   "name": "AMALGAMATED TRANSIT UNION - COPE",
+   "connected_org": "AMALGAMATED TRANSIT UNION",
+   "total": -2500.0
+  },
+  {
+   "committee_id": "C00377952",
+   "name": "CUMMINS INC. POLITICAL ACTION COMMITTEE (CIPAC)",
+   "connected_org": "CUMMINS INC.",
+   "total": -3000.0
+  },
+  {
+   "committee_id": "C00375584",
+   "name": "GREAT LAKES PAC",
+   "connected_org": null,
+   "total": -5000.0
+  },
+  {
+   "committee_id": "C00023580",
+   "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+   "connected_org": "BRANCH 193 NATIONAL ASSOCIATION OF LETTER CARRIERS POLITICAL ACTION COMMITTEE",
+   "total": -5000.0
+  },
+  {
+   "committee_id": "C00479246",
+   "name": "BLACKROCK FUNDS SERVICES GROUP LLC POLITICAL ACTION COMMITTEE (BLACKROCK PAC)",
+   "connected_org": "BLACKROCK FUNDS SERVICES GROUP LLC",
+   "total": -5000.0
+  }
+ ],
+ "pac_by_type": [
+  {
+   "type": "Other PACs",
+   "total": 0.0
+  },
+  {
+   "type": "Leadership PACs (run by other politicians)",
+   "total": -5000.0
+  },
+  {
+   "type": "Labor union PACs",
+   "total": -5000.0
+  },
+  {
+   "type": "Corporate PACs",
+   "total": -6000.0
+  }
+ ],
+ "outside_spending": {
+  "support_total": 0,
+  "oppose_total": 0,
+  "spenders": [],
+  "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
+ },
+ "detail": {
+  "committee_id": "C00492645",
+  "committee_name": "FRIENDS OF CHRIS MURPHY",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 14020487.66,
+  "amounts": {
+   "individuals_200_or_less": 8263120.65,
+   "individuals_over_200": 4353014.55,
+   "pacs_and_parties": 0.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 1099398.38,
+   "other_receipts": 297219.97
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    65
+   ],
+   [
+    "Individuals giving more than $200",
+    35
+   ],
+   [
+    "PACs and party committees",
+    0
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 4557854.73,
+   "home_state": "CT",
+   "home_state_total": 1442989.45,
+   "home_state_share": 32,
+   "top": [
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 1442989.45,
+     "count": 26169
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 584371.9,
+     "count": 10190
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 448184.29,
+     "count": 6123
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 249258.53,
+     "count": 3641
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 169017.8,
+     "count": 2340
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 123177.81,
+     "count": 1725
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 107960.14,
+     "count": 1816
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 107711.15,
+     "count": 1828
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 107530.97,
+     "count": 1983
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 106974.0,
+     "count": 1836
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "YALE UNIVERSITY",
+     "total": 16446.66,
+     "count": 188
+    },
+    {
+     "employer": "GOOGLE",
+     "total": 12000.0,
+     "count": 4
+    },
+    {
+     "employer": "MASS GENERAL HOSPITAL",
+     "total": 12000.0,
+     "count": 3
+    },
+    {
+     "employer": "THE BAUPOST GROUP L.L.C.",
+     "total": 10000.0,
+     "count": 4
+    },
+    {
+     "employer": "GIBSON DUNN & CRUTCHER",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "ACCENTURE",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "CASPER & DE TOLEDO LLC",
+     "total": 6000.0,
+     "count": 2
+    },
+    {
+     "employer": "WELLS FARGO",
+     "total": 5670.0,
+     "count": 10
+    },
+    {
+     "employer": "YALE",
+     "total": 5270.0,
+     "count": 74
+    },
+    {
+     "employer": "AMERICAN HALAL CO",
+     "total": 5000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794319828.5573218,
+ "sources": {
+  "summary": "FEC candidate summary file (weball)",
+  "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
+  "detail": "FEC API, principal campaign committee"
+ }
+}

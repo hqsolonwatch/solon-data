@@ -1,0 +1,34 @@
+{
+ "bill": "hjres60-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "report_count": 1,
+ "clients": [
+  {
+   "client": "NATIONAL PARKS CONSERVATION ASSOCIATION",
+   "display_name": "National Parks Conservation Association",
+   "reports": 1,
+   "latest_report_amount": 266884.0,
+   "latest_report": "6ea48d6f-fdb3-49dc-8937-fc90faae7099",
+   "pac_ids": [],
+   "pac_names": []
+  }
+ ],
+ "groups_shown": [],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "6ea48d6f-fdb3-49dc-8937-fc90faae7099",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T10:10:46-04:00",
+   "amount": 266884.0,
+   "registrant": "NATIONAL PARKS CONSERVATION ASSOCIATION",
+   "client": "NATIONAL PARKS CONSERVATION ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/6ea48d6f-fdb3-49dc-8937-fc90faae7099/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}

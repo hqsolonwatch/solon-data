@@ -1,0 +1,2628 @@
+{
+ "chamber": "house",
+ "congress": 119,
+ "session": 2,
+ "number": 194,
+ "id": "house-119-2-194",
+ "date": "2026-06-03",
+ "question": "On Ordering the Previous Question",
+ "vote_type": "YEA-AND-NAY",
+ "result": "Passed",
+ "description": "Providing for consideration of the bills (H.R. 8646) Agriculture, Rural Development, Food and Drug Administration, and Related Agency Appropriations Act, 2027; (H.R. 7726) Stop Child Care Scams Act; (H.R. 7892) No Aid for Ghost Students Act; and (H.R. 8872) Preventing Waste, Fraud, and Abuse in TANF Act",
+ "bill": {
+  "type": "hres",
+  "number": 1333,
+  "label": "H.Res. 1333",
+  "id": "hres1333-119"
+ },
+ "kind": "procedural",
+ "totals": {
+  "yea": 208,
+  "nay": 207,
+  "present": 0,
+  "not_voting": 15
+ },
+ "by_party": {
+  "Republican": {
+   "yea": 207,
+   "nay": 0,
+   "present": 0,
+   "not-voting": 10
+  },
+  "Democratic": {
+   "yea": 0,
+   "nay": 207,
+   "present": 0,
+   "not-voting": 5
+  },
+  "Independent": {
+   "yea": 1,
+   "nay": 0,
+   "present": 0,
+   "not-voting": 0
+  }
+ },
+ "positions": [
+  {
+   "id": "A000370",
+   "party": "D",
+   "state": "NC",
+   "vote": "Nay"
+  },
+  {
+   "id": "A000055",
+   "party": "R",
+   "state": "AL",
+   "vote": "Yea"
+  },
+  {
+   "id": "A000371",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "A000379",
+   "party": "R",
+   "state": "MO",
+   "vote": "Yea"
+  },
+  {
+   "id": "A000372",
+   "party": "R",
+   "state": "GA",
+   "vote": "Yea"
+  },
+  {
+   "id": "A000380",
+   "party": "D",
+   "state": "RI",
+   "vote": "Nay"
+  },
+  {
+   "id": "A000369",
+   "party": "R",
+   "state": "NV",
+   "vote": "Yea"
+  },
+  {
+   "id": "A000381",
+   "party": "D",
+   "state": "AZ",
+   "vote": "Nay"
+  },
+  {
+   "id": "A000375",
+   "party": "R",
+   "state": "TX",
+   "vote": "Yea"
+  },
+  {
+   "id": "A000148",
+   "party": "D",
+   "state": "MA",
+   "vote": "Nay"
+  },
+  {
+   "id": "B001291",
+   "party": "R",
+   "state": "TX",
+   "vote": "Yea"
+  },
+  {
+   "id": "B001298",
+   "party": "R",
+   "state": "NE",
+   "vote": "Yea"
+  },
+  {
+   "id": "B001307",
+   "party": "R",
+   "state": "IN",
+   "vote": "Yea"
+  },
+  {
+   "id": "B001306",
+   "party": "R",
+   "state": "OH",
+   "vote": "Yea"
+  },
+  {
+   "id": "B001318",
+   "party": "D",
+   "state": "VT",
+   "vote": "Nay"
+  },
+  {
+   "id": "B001282",
+   "party": "R",
+   "state": "KY",
+   "vote": "Yea"
+  },
+  {
+   "id": "B001300",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "B001321",
+   "party": "R",
+   "state": "MI",
+   "vote": "Yea"
+  },
+  {
+   "id": "B001322",
+   "party": "R",
+   "state": "WA",
+   "vote": "Yea"
+  },
+  {
+   "id": "B001314",
+   "party": "R",
+   "state": "FL",
+   "vote": "Yea"
+  },
+  {
+   "id": "B001281",
+   "party": "D",
+   "state": "OH",
+   "vote": "Nay"
+  },
+  {
+   "id": "B001323",
+   "party": "R",
+   "state": "AK",
+   "vote": "Yea"
+  },
+  {
+   "id": "B001324",
+   "party": "D",
+   "state": "MO",
+   "vote": "Nay"
+  },
+  {
+   "id": "B000668",
+   "party": "R",
+   "state": "OR",
+   "vote": "Yea"
+  },
+  {
+   "id": "B001287",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "B001301",
+   "party": "R",
+   "state": "MI",
+   "vote": "Yea"
+  },
+  {
+   "id": "B001292",
+   "party": "D",
+   "state": "VA",
+   "vote": "Nay"
+  },
+  {
+   "id": "B000740",
+   "party": "R",
+   "state": "OK",
+   "vote": "Yea"
+  },
+  {
+   "id": "B001302",
+   "party": "R",
+   "state": "AZ",
+   "vote": "Yea"
+  },
+  {
+   "id": "B001325",
+   "party": "R",
+   "state": "SC",
+   "vote": "Yea"
+  },
+  {
+   "id": "B001257",
+   "party": "R",
+   "state": "FL",
+   "vote": "Yea"
+  },
+  {
+   "id": "B000490",
+   "party": "D",
+   "state": "GA",
+   "vote": "Nay"
+  },
+  {
+   "id": "B000825",
+   "party": "R",
+   "state": "CO",
+   "vote": "Yea"
+  },
+  {
+   "id": "B001278",
+   "party": "D",
+   "state": "OR",
+   "vote": "Nay"
+  },
+  {
+   "id": "B001295",
+   "party": "R",
+   "state": "IL",
+   "vote": "Yea"
+  },
+  {
+   "id": "B001296",
+   "party": "D",
+   "state": "PA",
+   "vote": "Nay"
+  },
+  {
+   "id": "B001317",
+   "party": "R",
+   "state": "OK",
+   "vote": "Yea"
+  },
+  {
+   "id": "B001327",
+   "party": "R",
+   "state": "PA",
+   "vote": "Yea"
+  },
+  {
+   "id": "B001313",
+   "party": "D",
+   "state": "OH",
+   "vote": "Nay"
+  },
+  {
+   "id": "B001285",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "B001260",
+   "party": "R",
+   "state": "FL",
+   "vote": "Yea"
+  },
+  {
+   "id": "B001315",
+   "party": "D",
+   "state": "IL",
+   "vote": "Nay"
+  },
+  {
+   "id": "B001309",
+   "party": "R",
+   "state": "TN",
+   "vote": "Yea"
+  },
+  {
+   "id": "B001316",
+   "party": "R",
+   "state": "MO",
+   "vote": "Yea"
+  },
+  {
+   "id": "B001326",
+   "party": "D",
+   "state": "OR",
+   "vote": "Nay"
+  },
+  {
+   "id": "C000059",
+   "party": "R",
+   "state": "CA",
+   "vote": "Yea"
+  },
+  {
+   "id": "C001039",
+   "party": "R",
+   "state": "FL",
+   "vote": "Yea"
+  },
+  {
+   "id": "C001112",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "C001126",
+   "party": "R",
+   "state": "OH",
+   "vote": "Yea"
+  },
+  {
+   "id": "C001072",
+   "party": "D",
+   "state": "IN",
+   "vote": "Nay"
+  },
+  {
+   "id": "C001103",
+   "party": "R",
+   "state": "GA",
+   "vote": "Yea"
+  },
+  {
+   "id": "C001125",
+   "party": "D",
+   "state": "LA",
+   "vote": "Nay"
+  },
+  {
+   "id": "C001051",
+   "party": "R",
+   "state": "TX",
+   "vote": "Yea"
+  },
+  {
+   "id": "C001131",
+   "party": "D",
+   "state": "TX",
+   "vote": "Nay"
+  },
+  {
+   "id": "C001055",
+   "party": "D",
+   "state": "HI",
+   "vote": "Nay"
+  },
+  {
+   "id": "C001117",
+   "party": "D",
+   "state": "IL",
+   "vote": "Nay"
+  },
+  {
+   "id": "C001066",
+   "party": "D",
+   "state": "FL",
+   "vote": "Nay"
+  },
+  {
+   "id": "C001091",
+   "party": "D",
+   "state": "TX",
+   "vote": "Nay"
+  },
+  {
+   "id": "C001080",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "C001133",
+   "party": "R",
+   "state": "AZ",
+   "vote": "Yea"
+  },
+  {
+   "id": "C001123",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "C001101",
+   "party": "D",
+   "state": "MA",
+   "vote": "Nay"
+  },
+  {
+   "id": "C001067",
+   "party": "D",
+   "state": "NY",
+   "vote": "Nay"
+  },
+  {
+   "id": "C001061",
+   "party": "D",
+   "state": "MO",
+   "vote": "Nay"
+  },
+  {
+   "id": "C001118",
+   "party": "R",
+   "state": "VA",
+   "vote": "Yea"
+  },
+  {
+   "id": "C001115",
+   "party": "R",
+   "state": "TX",
+   "vote": "Yea"
+  },
+  {
+   "id": "C000537",
+   "party": "D",
+   "state": "SC",
+   "vote": "Nay"
+  },
+  {
+   "id": "C001116",
+   "party": "R",
+   "state": "GA",
+   "vote": "Yea"
+  },
+  {
+   "id": "C001068",
+   "party": "D",
+   "state": "TN",
+   "vote": "Nay"
+  },
+  {
+   "id": "C001053",
+   "party": "R",
+   "state": "OK",
+   "vote": "Yea"
+  },
+  {
+   "id": "C001129",
+   "party": "R",
+   "state": "GA",
+   "vote": "Yea"
+  },
+  {
+   "id": "C001108",
+   "party": "R",
+   "state": "KY",
+   "vote": "Yea"
+  },
+  {
+   "id": "C001136",
+   "party": "D",
+   "state": "NJ",
+   "vote": "Nay"
+  },
+  {
+   "id": "C001110",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "C001059",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "C001069",
+   "party": "D",
+   "state": "CT",
+   "vote": "Nay"
+  },
+  {
+   "id": "C001119",
+   "party": "D",
+   "state": "MN",
+   "vote": "Nay"
+  },
+  {
+   "id": "C001132",
+   "party": "R",
+   "state": "AZ",
+   "vote": "Yea"
+  },
+  {
+   "id": "C001137",
+   "party": "R",
+   "state": "CO",
+   "vote": "Yea"
+  },
+  {
+   "id": "C001087",
+   "party": "R",
+   "state": "AR",
+   "vote": "Yea"
+  },
+  {
+   "id": "C001120",
+   "party": "R",
+   "state": "TX",
+   "vote": "Yea"
+  },
+  {
+   "id": "C001130",
+   "party": "D",
+   "state": "TX",
+   "vote": "Nay"
+  },
+  {
+   "id": "C001121",
+   "party": "D",
+   "state": "CO",
+   "vote": "Nay"
+  },
+  {
+   "id": "C001063",
+   "party": "D",
+   "state": "TX",
+   "vote": "Nay"
+  },
+  {
+   "id": "D000629",
+   "party": "D",
+   "state": "KS",
+   "vote": "Nay"
+  },
+  {
+   "id": "D000626",
+   "party": "R",
+   "state": "OH",
+   "vote": "Yea"
+  },
+  {
+   "id": "D000096",
+   "party": "D",
+   "state": "IL",
+   "vote": "Nay"
+  },
+  {
+   "id": "D000230",
+   "party": "D",
+   "state": "NC",
+   "vote": "Nay"
+  },
+  {
+   "id": "D000594",
+   "party": "R",
+   "state": "TX",
+   "vote": "Yea"
+  },
+  {
+   "id": "D000631",
+   "party": "D",
+   "state": "PA",
+   "vote": "Nay"
+  },
+  {
+   "id": "D000197",
+   "party": "D",
+   "state": "CO",
+   "vote": "Nay"
+  },
+  {
+   "id": "D000216",
+   "party": "D",
+   "state": "CT",
+   "vote": "Nay"
+  },
+  {
+   "id": "D000617",
+   "party": "D",
+   "state": "WA",
+   "vote": "Nay"
+  },
+  {
+   "id": "D000530",
+   "party": "D",
+   "state": "PA",
+   "vote": "Nay"
+  },
+  {
+   "id": "D000623",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "D000616",
+   "party": "R",
+   "state": "TN",
+   "vote": "Yea"
+  },
+  {
+   "id": "D000635",
+   "party": "D",
+   "state": "OR",
+   "vote": "Nay"
+  },
+  {
+   "id": "D000600",
+   "party": "R",
+   "state": "FL",
+   "vote": "Yea"
+  },
+  {
+   "id": "D000624",
+   "party": "D",
+   "state": "MI",
+   "vote": "Nay"
+  },
+  {
+   "id": "D000399",
+   "party": "D",
+   "state": "TX",
+   "vote": "Nay"
+  },
+  {
+   "id": "D000032",
+   "party": "R",
+   "state": "FL",
+   "vote": "Yea"
+  },
+  {
+   "id": "D000634",
+   "party": "R",
+   "state": "MT",
+   "vote": "Yea"
+  },
+  {
+   "id": "D000628",
+   "party": "R",
+   "state": "FL",
+   "vote": "Yea"
+  },
+  {
+   "id": "E000246",
+   "party": "R",
+   "state": "NC",
+   "vote": "Yea"
+  },
+  {
+   "id": "E000301",
+   "party": "D",
+   "state": "MD",
+   "vote": "Nay"
+  },
+  {
+   "id": "E000071",
+   "party": "R",
+   "state": "TX",
+   "vote": "Yea"
+  },
+  {
+   "id": "E000294",
+   "party": "R",
+   "state": "MN",
+   "vote": "Yea"
+  },
+  {
+   "id": "E000299",
+   "party": "D",
+   "state": "TX",
+   "vote": "Nay"
+  },
+  {
+   "id": "E000297",
+   "party": "D",
+   "state": "NY",
+   "vote": "Nay"
+  },
+  {
+   "id": "E000298",
+   "party": "R",
+   "state": "KS",
+   "vote": "Yea"
+  },
+  {
+   "id": "E000300",
+   "party": "R",
+   "state": "CO",
+   "vote": "Yea"
+  },
+  {
+   "id": "E000296",
+   "party": "D",
+   "state": "PA",
+   "vote": "Nay"
+  },
+  {
+   "id": "E000235",
+   "party": "R",
+   "state": "MS",
+   "vote": "Yea"
+  },
+  {
+   "id": "F000246",
+   "party": "R",
+   "state": "TX",
+   "vote": "Yea"
+  },
+  {
+   "id": "F000482",
+   "party": "R",
+   "state": "ND",
+   "vote": "Yea"
+  },
+  {
+   "id": "F000446",
+   "party": "R",
+   "state": "IA",
+   "vote": "Yea"
+  },
+  {
+   "id": "F000110",
+   "party": "D",
+   "state": "LA",
+   "vote": "Nay"
+  },
+  {
+   "id": "F000481",
+   "party": "D",
+   "state": "AL",
+   "vote": "Nay"
+  },
+  {
+   "id": "F000484",
+   "party": "R",
+   "state": "FL",
+   "vote": "Yea"
+  },
+  {
+   "id": "F000475",
+   "party": "R",
+   "state": "MN",
+   "vote": "Yea"
+  },
+  {
+   "id": "F000470",
+   "party": "R",
+   "state": "MN",
+   "vote": "Yea"
+  },
+  {
+   "id": "F000471",
+   "party": "R",
+   "state": "WI",
+   "vote": "Yea"
+  },
+  {
+   "id": "F000466",
+   "party": "R",
+   "state": "PA",
+   "vote": "Yea"
+  },
+  {
+   "id": "F000459",
+   "party": "R",
+   "state": "TN",
+   "vote": "Yea"
+  },
+  {
+   "id": "F000468",
+   "party": "D",
+   "state": "TX",
+   "vote": "Nay"
+  },
+  {
+   "id": "F000474",
+   "party": "R",
+   "state": "NE",
+   "vote": "Yea"
+  },
+  {
+   "id": "F000480",
+   "party": "R",
+   "state": "CA",
+   "vote": "Yea"
+  },
+  {
+   "id": "F000454",
+   "party": "D",
+   "state": "IL",
+   "vote": "Nay"
+  },
+  {
+   "id": "F000477",
+   "party": "D",
+   "state": "NC",
+   "vote": "Nay"
+  },
+  {
+   "id": "F000450",
+   "party": "R",
+   "state": "NC",
+   "vote": "Yea"
+  },
+  {
+   "id": "F000462",
+   "party": "D",
+   "state": "FL",
+   "vote": "Nay"
+  },
+  {
+   "id": "F000472",
+   "party": "R",
+   "state": "FL",
+   "vote": "Yea"
+  },
+  {
+   "id": "F000483",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "F000476",
+   "party": "D",
+   "state": "FL",
+   "vote": "Nay"
+  },
+  {
+   "id": "F000478",
+   "party": "R",
+   "state": "SC",
+   "vote": "Yea"
+  },
+  {
+   "id": "F000469",
+   "party": "R",
+   "state": "ID",
+   "vote": "Yea"
+  },
+  {
+   "id": "F000485",
+   "party": "R",
+   "state": "GA",
+   "vote": "Yea"
+  },
+  {
+   "id": "G000559",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "G000597",
+   "party": "R",
+   "state": "NY",
+   "vote": "Yea"
+  },
+  {
+   "id": "G000598",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "G000586",
+   "party": "D",
+   "state": "IL",
+   "vote": "Nay"
+  },
+  {
+   "id": "G000587",
+   "party": "D",
+   "state": "TX",
+   "vote": "Nay"
+  },
+  {
+   "id": "G000603",
+   "party": "R",
+   "state": "TX",
+   "vote": "Yea"
+  },
+  {
+   "id": "G000602",
+   "party": "D",
+   "state": "NY",
+   "vote": "Nay"
+  },
+  {
+   "id": "G000593",
+   "party": "R",
+   "state": "FL",
+   "vote": "Yea"
+  },
+  {
+   "id": "G000592",
+   "party": "D",
+   "state": "ME",
+   "vote": "Nay"
+  },
+  {
+   "id": "G000599",
+   "party": "D",
+   "state": "NY",
+   "vote": "Nay"
+  },
+  {
+   "id": "G000601",
+   "party": "R",
+   "state": "TX",
+   "vote": "Yea"
+  },
+  {
+   "id": "G000585",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "G000581",
+   "party": "D",
+   "state": "TX",
+   "vote": "Not Voting"
+  },
+  {
+   "id": "G000589",
+   "party": "R",
+   "state": "TX",
+   "vote": "Yea"
+  },
+  {
+   "id": "G000604",
+   "party": "D",
+   "state": "NH",
+   "vote": "Nay"
+  },
+  {
+   "id": "G000565",
+   "party": "R",
+   "state": "AZ",
+   "vote": "Yea"
+  },
+  {
+   "id": "G000583",
+   "party": "D",
+   "state": "NJ",
+   "vote": "Nay"
+  },
+  {
+   "id": "G000546",
+   "party": "R",
+   "state": "MO",
+   "vote": "Yea"
+  },
+  {
+   "id": "G000605",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "G000553",
+   "party": "D",
+   "state": "TX",
+   "vote": "Nay"
+  },
+  {
+   "id": "G000568",
+   "party": "R",
+   "state": "VA",
+   "vote": "Yea"
+  },
+  {
+   "id": "G000606",
+   "party": "D",
+   "state": "AZ",
+   "vote": "Nay"
+  },
+  {
+   "id": "G000576",
+   "party": "R",
+   "state": "WI",
+   "vote": "Yea"
+  },
+  {
+   "id": "G000591",
+   "party": "R",
+   "state": "MS",
+   "vote": "Yea"
+  },
+  {
+   "id": "G000558",
+   "party": "R",
+   "state": "KY",
+   "vote": "Yea"
+  },
+  {
+   "id": "H001096",
+   "party": "R",
+   "state": "WY",
+   "vote": "Yea"
+  },
+  {
+   "id": "H001098",
+   "party": "R",
+   "state": "AZ",
+   "vote": "Yea"
+  },
+  {
+   "id": "H001090",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "H001099",
+   "party": "R",
+   "state": "FL",
+   "vote": "Yea"
+  },
+  {
+   "id": "H001101",
+   "party": "R",
+   "state": "NC",
+   "vote": "Yea"
+  },
+  {
+   "id": "H001052",
+   "party": "R",
+   "state": "MD",
+   "vote": "Yea"
+  },
+  {
+   "id": "H001102",
+   "party": "R",
+   "state": "NC",
+   "vote": "Yea"
+  },
+  {
+   "id": "H001086",
+   "party": "R",
+   "state": "TN",
+   "vote": "Yea"
+  },
+  {
+   "id": "H001081",
+   "party": "D",
+   "state": "CT",
+   "vote": "Nay"
+  },
+  {
+   "id": "H001082",
+   "party": "R",
+   "state": "OK",
+   "vote": "Yea"
+  },
+  {
+   "id": "H001077",
+   "party": "R",
+   "state": "LA",
+   "vote": "Yea"
+  },
+  {
+   "id": "H001072",
+   "party": "R",
+   "state": "AR",
+   "vote": "Yea"
+  },
+  {
+   "id": "H001047",
+   "party": "D",
+   "state": "CT",
+   "vote": "Nay"
+  },
+  {
+   "id": "H001091",
+   "party": "R",
+   "state": "IA",
+   "vote": "Yea"
+  },
+  {
+   "id": "H001066",
+   "party": "D",
+   "state": "NV",
+   "vote": "Nay"
+  },
+  {
+   "id": "H001093",
+   "party": "R",
+   "state": "IN",
+   "vote": "Yea"
+  },
+  {
+   "id": "H001085",
+   "party": "D",
+   "state": "PA",
+   "vote": "Nay"
+  },
+  {
+   "id": "H000874",
+   "party": "D",
+   "state": "MD",
+   "vote": "Nay"
+  },
+  {
+   "id": "H001094",
+   "party": "D",
+   "state": "OR",
+   "vote": "Nay"
+  },
+  {
+   "id": "H001067",
+   "party": "R",
+   "state": "NC",
+   "vote": "Yea"
+  },
+  {
+   "id": "H001068",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "H001058",
+   "party": "R",
+   "state": "MI",
+   "vote": "Yea"
+  },
+  {
+   "id": "H001095",
+   "party": "R",
+   "state": "TX",
+   "vote": "Yea"
+  },
+  {
+   "id": "H001100",
+   "party": "R",
+   "state": "CO",
+   "vote": "Yea"
+  },
+  {
+   "id": "I000056",
+   "party": "R",
+   "state": "CA",
+   "vote": "Yea"
+  },
+  {
+   "id": "I000058",
+   "party": "D",
+   "state": "MD",
+   "vote": "Nay"
+  },
+  {
+   "id": "J000311",
+   "party": "R",
+   "state": "GA",
+   "vote": "Yea"
+  },
+  {
+   "id": "J000309",
+   "party": "D",
+   "state": "IL",
+   "vote": "Nay"
+  },
+  {
+   "id": "J000304",
+   "party": "R",
+   "state": "TX",
+   "vote": "Yea"
+  },
+  {
+   "id": "J000305",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "J000307",
+   "party": "R",
+   "state": "MI",
+   "vote": "Yea"
+  },
+  {
+   "id": "J000298",
+   "party": "D",
+   "state": "WA",
+   "vote": "Not Voting"
+  },
+  {
+   "id": "J000294",
+   "party": "D",
+   "state": "NY",
+   "vote": "Nay"
+  },
+  {
+   "id": "J000288",
+   "party": "D",
+   "state": "GA",
+   "vote": "Nay"
+  },
+  {
+   "id": "J000299",
+   "party": "R",
+   "state": "LA",
+   "vote": "Yea"
+  },
+  {
+   "id": "J000301",
+   "party": "R",
+   "state": "SD",
+   "vote": "Not Voting"
+  },
+  {
+   "id": "J000310",
+   "party": "D",
+   "state": "TX",
+   "vote": "Nay"
+  },
+  {
+   "id": "J000289",
+   "party": "R",
+   "state": "OH",
+   "vote": "Not Voting"
+  },
+  {
+   "id": "J000295",
+   "party": "R",
+   "state": "OH",
+   "vote": "Yea"
+  },
+  {
+   "id": "J000302",
+   "party": "R",
+   "state": "PA",
+   "vote": "Yea"
+  },
+  {
+   "id": "K000400",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "K000009",
+   "party": "D",
+   "state": "OH",
+   "vote": "Nay"
+  },
+  {
+   "id": "K000398",
+   "party": "R",
+   "state": "NJ",
+   "vote": "Not Voting"
+  },
+  {
+   "id": "K000375",
+   "party": "D",
+   "state": "MA",
+   "vote": "Nay"
+  },
+  {
+   "id": "K000385",
+   "party": "D",
+   "state": "IL",
+   "vote": "Nay"
+  },
+  {
+   "id": "K000388",
+   "party": "R",
+   "state": "MS",
+   "vote": "Yea"
+  },
+  {
+   "id": "K000376",
+   "party": "R",
+   "state": "PA",
+   "vote": "Yea"
+  },
+  {
+   "id": "K000402",
+   "party": "D",
+   "state": "NY",
+   "vote": "Nay"
+  },
+  {
+   "id": "K000403",
+   "party": "R",
+   "state": "UT",
+   "vote": "Yea"
+  },
+  {
+   "id": "K000389",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "K000399",
+   "party": "R",
+   "state": "VA",
+   "vote": "Yea"
+  },
+  {
+   "id": "K000401",
+   "party": "I",
+   "state": "CA",
+   "vote": "Yea"
+  },
+  {
+   "id": "K000397",
+   "party": "R",
+   "state": "CA",
+   "vote": "Yea"
+  },
+  {
+   "id": "K000405",
+   "party": "R",
+   "state": "NC",
+   "vote": "Yea"
+  },
+  {
+   "id": "K000391",
+   "party": "D",
+   "state": "IL",
+   "vote": "Nay"
+  },
+  {
+   "id": "K000392",
+   "party": "R",
+   "state": "TN",
+   "vote": "Yea"
+  },
+  {
+   "id": "L000585",
+   "party": "R",
+   "state": "IL",
+   "vote": "Not Voting"
+  },
+  {
+   "id": "L000598",
+   "party": "R",
+   "state": "NY",
+   "vote": "Yea"
+  },
+  {
+   "id": "L000601",
+   "party": "D",
+   "state": "OH",
+   "vote": "Nay"
+  },
+  {
+   "id": "L000600",
+   "party": "R",
+   "state": "NY",
+   "vote": "Yea"
+  },
+  {
+   "id": "L000560",
+   "party": "D",
+   "state": "WA",
+   "vote": "Nay"
+  },
+  {
+   "id": "L000557",
+   "party": "D",
+   "state": "CT",
+   "vote": "Nay"
+  },
+  {
+   "id": "L000606",
+   "party": "D",
+   "state": "NY",
+   "vote": "Nay"
+  },
+  {
+   "id": "L000566",
+   "party": "R",
+   "state": "OH",
+   "vote": "Yea"
+  },
+  {
+   "id": "L000599",
+   "party": "R",
+   "state": "NY",
+   "vote": "Yea"
+  },
+  {
+   "id": "L000597",
+   "party": "R",
+   "state": "FL",
+   "vote": "Yea"
+  },
+  {
+   "id": "L000590",
+   "party": "D",
+   "state": "NV",
+   "vote": "Nay"
+  },
+  {
+   "id": "L000602",
+   "party": "D",
+   "state": "PA",
+   "vote": "Nay"
+  },
+  {
+   "id": "L000273",
+   "party": "D",
+   "state": "NM",
+   "vote": "Nay"
+  },
+  {
+   "id": "L000595",
+   "party": "R",
+   "state": "LA",
+   "vote": "Yea"
+  },
+  {
+   "id": "L000593",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "L000607",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "L000582",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "L000397",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "L000583",
+   "party": "R",
+   "state": "GA",
+   "vote": "Yea"
+  },
+  {
+   "id": "L000491",
+   "party": "R",
+   "state": "OK",
+   "vote": "Yea"
+  },
+  {
+   "id": "L000596",
+   "party": "R",
+   "state": "FL",
+   "vote": "Yea"
+  },
+  {
+   "id": "L000603",
+   "party": "R",
+   "state": "TX",
+   "vote": "Yea"
+  },
+  {
+   "id": "L000562",
+   "party": "D",
+   "state": "MA",
+   "vote": "Nay"
+  },
+  {
+   "id": "M000194",
+   "party": "R",
+   "state": "SC",
+   "vote": "Not Voting"
+  },
+  {
+   "id": "M001230",
+   "party": "R",
+   "state": "PA",
+   "vote": "Yea"
+  },
+  {
+   "id": "M001223",
+   "party": "D",
+   "state": "RI",
+   "vote": "Nay"
+  },
+  {
+   "id": "M000317",
+   "party": "R",
+   "state": "NY",
+   "vote": "Yea"
+  },
+  {
+   "id": "M001228",
+   "party": "R",
+   "state": "UT",
+   "vote": "Yea"
+  },
+  {
+   "id": "M000871",
+   "party": "R",
+   "state": "KS",
+   "vote": "Yea"
+  },
+  {
+   "id": "M001231",
+   "party": "D",
+   "state": "NY",
+   "vote": "Nay"
+  },
+  {
+   "id": "M001184",
+   "party": "R",
+   "state": "KY",
+   "vote": "Yea"
+  },
+  {
+   "id": "M001199",
+   "party": "R",
+   "state": "FL",
+   "vote": "Yea"
+  },
+  {
+   "id": "M001163",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "M001208",
+   "party": "D",
+   "state": "GA",
+   "vote": "Nay"
+  },
+  {
+   "id": "M001238",
+   "party": "D",
+   "state": "DE",
+   "vote": "Nay"
+  },
+  {
+   "id": "M001157",
+   "party": "R",
+   "state": "TX",
+   "vote": "Not Voting"
+  },
+  {
+   "id": "M001136",
+   "party": "R",
+   "state": "MI",
+   "vote": "Yea"
+  },
+  {
+   "id": "M001232",
+   "party": "D",
+   "state": "MD",
+   "vote": "Nay"
+  },
+  {
+   "id": "M001227",
+   "party": "D",
+   "state": "VA",
+   "vote": "Nay"
+  },
+  {
+   "id": "M001177",
+   "party": "R",
+   "state": "CA",
+   "vote": "Yea"
+  },
+  {
+   "id": "M001143",
+   "party": "D",
+   "state": "MN",
+   "vote": "Nay"
+  },
+  {
+   "id": "M001218",
+   "party": "R",
+   "state": "GA",
+   "vote": "Yea"
+  },
+  {
+   "id": "M001237",
+   "party": "D",
+   "state": "MI",
+   "vote": "Nay"
+  },
+  {
+   "id": "M001240",
+   "party": "R",
+   "state": "NC",
+   "vote": "Yea"
+  },
+  {
+   "id": "M001220",
+   "party": "D",
+   "state": "KY",
+   "vote": "Nay"
+  },
+  {
+   "id": "M000312",
+   "party": "D",
+   "state": "MA",
+   "vote": "Nay"
+  },
+  {
+   "id": "M001239",
+   "party": "R",
+   "state": "VA",
+   "vote": "Yea"
+  },
+  {
+   "id": "M001229",
+   "party": "D",
+   "state": "NJ",
+   "vote": "Nay"
+  },
+  {
+   "id": "M001137",
+   "party": "D",
+   "state": "NY",
+   "vote": "Nay"
+  },
+  {
+   "id": "M001246",
+   "party": "D",
+   "state": "NJ",
+   "vote": "Nay"
+  },
+  {
+   "id": "M001245",
+   "party": "D",
+   "state": "TX",
+   "vote": "Nay"
+  },
+  {
+   "id": "M001226",
+   "party": "D",
+   "state": "NJ",
+   "vote": "Nay"
+  },
+  {
+   "id": "M001188",
+   "party": "D",
+   "state": "NY",
+   "vote": "Nay"
+  },
+  {
+   "id": "M001233",
+   "party": "R",
+   "state": "IN",
+   "vote": "Yea"
+  },
+  {
+   "id": "M001204",
+   "party": "R",
+   "state": "PA",
+   "vote": "Yea"
+  },
+  {
+   "id": "M000687",
+   "party": "D",
+   "state": "MD",
+   "vote": "Nay"
+  },
+  {
+   "id": "M001211",
+   "party": "R",
+   "state": "IL",
+   "vote": "Yea"
+  },
+  {
+   "id": "M001222",
+   "party": "R",
+   "state": "OH",
+   "vote": "Yea"
+  },
+  {
+   "id": "M001205",
+   "party": "R",
+   "state": "WV",
+   "vote": "Yea"
+  },
+  {
+   "id": "M001215",
+   "party": "R",
+   "state": "IA",
+   "vote": "Yea"
+  },
+  {
+   "id": "M001216",
+   "party": "R",
+   "state": "FL",
+   "vote": "Yea"
+  },
+  {
+   "id": "M001241",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "M001194",
+   "party": "R",
+   "state": "MI",
+   "vote": "Yea"
+  },
+  {
+   "id": "M001212",
+   "party": "R",
+   "state": "AL",
+   "vote": "Yea"
+  },
+  {
+   "id": "M001236",
+   "party": "R",
+   "state": "NC",
+   "vote": "Yea"
+  },
+  {
+   "id": "M001213",
+   "party": "R",
+   "state": "UT",
+   "vote": "Yea"
+  },
+  {
+   "id": "M001160",
+   "party": "D",
+   "state": "WI",
+   "vote": "Nay"
+  },
+  {
+   "id": "M001235",
+   "party": "R",
+   "state": "WV",
+   "vote": "Yea"
+  },
+  {
+   "id": "M001224",
+   "party": "R",
+   "state": "TX",
+   "vote": "Yea"
+  },
+  {
+   "id": "M001206",
+   "party": "D",
+   "state": "NY",
+   "vote": "Nay"
+  },
+  {
+   "id": "M001234",
+   "party": "D",
+   "state": "MN",
+   "vote": "Nay"
+  },
+  {
+   "id": "M001217",
+   "party": "D",
+   "state": "FL",
+   "vote": "Nay"
+  },
+  {
+   "id": "M001196",
+   "party": "D",
+   "state": "MA",
+   "vote": "Nay"
+  },
+  {
+   "id": "M001214",
+   "party": "D",
+   "state": "IN",
+   "vote": "Nay"
+  },
+  {
+   "id": "M001225",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "M001210",
+   "party": "R",
+   "state": "NC",
+   "vote": "Yea"
+  },
+  {
+   "id": "N000002",
+   "party": "D",
+   "state": "NY",
+   "vote": "Nay"
+  },
+  {
+   "id": "N000015",
+   "party": "D",
+   "state": "MA",
+   "vote": "Nay"
+  },
+  {
+   "id": "N000191",
+   "party": "D",
+   "state": "CO",
+   "vote": "Nay"
+  },
+  {
+   "id": "N000026",
+   "party": "R",
+   "state": "TX",
+   "vote": "Yea"
+  },
+  {
+   "id": "N000189",
+   "party": "R",
+   "state": "WA",
+   "vote": "Yea"
+  },
+  {
+   "id": "N000188",
+   "party": "D",
+   "state": "NJ",
+   "vote": "Nay"
+  },
+  {
+   "id": "N000190",
+   "party": "R",
+   "state": "SC",
+   "vote": "Not Voting"
+  },
+  {
+   "id": "N000193",
+   "party": "R",
+   "state": "IA",
+   "vote": "Yea"
+  },
+  {
+   "id": "O000019",
+   "party": "R",
+   "state": "CA",
+   "vote": "Yea"
+  },
+  {
+   "id": "O000172",
+   "party": "D",
+   "state": "NY",
+   "vote": "Nay"
+  },
+  {
+   "id": "O000175",
+   "party": "R",
+   "state": "TN",
+   "vote": "Not Voting"
+  },
+  {
+   "id": "O000176",
+   "party": "D",
+   "state": "MD",
+   "vote": "Nay"
+  },
+  {
+   "id": "O000173",
+   "party": "D",
+   "state": "MN",
+   "vote": "Nay"
+  },
+  {
+   "id": "O000177",
+   "party": "R",
+   "state": "MO",
+   "vote": "Yea"
+  },
+  {
+   "id": "O000086",
+   "party": "R",
+   "state": "UT",
+   "vote": "Yea"
+  },
+  {
+   "id": "P000034",
+   "party": "D",
+   "state": "NJ",
+   "vote": "Nay"
+  },
+  {
+   "id": "P000609",
+   "party": "R",
+   "state": "AL",
+   "vote": "Yea"
+  },
+  {
+   "id": "P000613",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "P000614",
+   "party": "D",
+   "state": "NH",
+   "vote": "Nay"
+  },
+  {
+   "id": "P000622",
+   "party": "R",
+   "state": "FL",
+   "vote": "Yea"
+  },
+  {
+   "id": "P000197",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "G000600",
+   "party": "D",
+   "state": "WA",
+   "vote": "Nay"
+  },
+  {
+   "id": "P000605",
+   "party": "R",
+   "state": "PA",
+   "vote": "Yea"
+  },
+  {
+   "id": "P000608",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "P000620",
+   "party": "D",
+   "state": "CO",
+   "vote": "Nay"
+  },
+  {
+   "id": "P000048",
+   "party": "R",
+   "state": "TX",
+   "vote": "Yea"
+  },
+  {
+   "id": "P000597",
+   "party": "D",
+   "state": "ME",
+   "vote": "Nay"
+  },
+  {
+   "id": "P000607",
+   "party": "D",
+   "state": "WI",
+   "vote": "Nay"
+  },
+  {
+   "id": "P000621",
+   "party": "D",
+   "state": "NJ",
+   "vote": "Nay"
+  },
+  {
+   "id": "P000617",
+   "party": "D",
+   "state": "MA",
+   "vote": "Nay"
+  },
+  {
+   "id": "Q000023",
+   "party": "D",
+   "state": "IL",
+   "vote": "Nay"
+  },
+  {
+   "id": "R000617",
+   "party": "D",
+   "state": "IL",
+   "vote": "Nay"
+  },
+  {
+   "id": "R000621",
+   "party": "D",
+   "state": "WA",
+   "vote": "Nay"
+  },
+  {
+   "id": "R000606",
+   "party": "D",
+   "state": "MD",
+   "vote": "Nay"
+  },
+  {
+   "id": "R000610",
+   "party": "R",
+   "state": "PA",
+   "vote": "Yea"
+  },
+  {
+   "id": "R000622",
+   "party": "D",
+   "state": "NY",
+   "vote": "Nay"
+  },
+  {
+   "id": "R000620",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "R000575",
+   "party": "R",
+   "state": "AL",
+   "vote": "Not Voting"
+  },
+  {
+   "id": "R000395",
+   "party": "R",
+   "state": "KY",
+   "vote": "Yea"
+  },
+  {
+   "id": "R000612",
+   "party": "R",
+   "state": "TN",
+   "vote": "Not Voting"
+  },
+  {
+   "id": "R000305",
+   "party": "D",
+   "state": "NC",
+   "vote": "Nay"
+  },
+  {
+   "id": "R000603",
+   "party": "R",
+   "state": "NC",
+   "vote": "Yea"
+  },
+  {
+   "id": "R000614",
+   "party": "R",
+   "state": "TX",
+   "vote": "Yea"
+  },
+  {
+   "id": "R000599",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "R000619",
+   "party": "R",
+   "state": "OH",
+   "vote": "Yea"
+  },
+  {
+   "id": "R000609",
+   "party": "R",
+   "state": "FL",
+   "vote": "Yea"
+  },
+  {
+   "id": "R000579",
+   "party": "D",
+   "state": "NY",
+   "vote": "Nay"
+  },
+  {
+   "id": "S000168",
+   "party": "R",
+   "state": "FL",
+   "vote": "Yea"
+  },
+  {
+   "id": "S001226",
+   "party": "D",
+   "state": "OR",
+   "vote": "Nay"
+  },
+  {
+   "id": "S001156",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "S001176",
+   "party": "R",
+   "state": "LA",
+   "vote": "Yea"
+  },
+  {
+   "id": "S001205",
+   "party": "D",
+   "state": "PA",
+   "vote": "Nay"
+  },
+  {
+   "id": "S001145",
+   "party": "D",
+   "state": "IL",
+   "vote": "Nay"
+  },
+  {
+   "id": "S001228",
+   "party": "R",
+   "state": "KS",
+   "vote": "Yea"
+  },
+  {
+   "id": "S001190",
+   "party": "D",
+   "state": "IL",
+   "vote": "Nay"
+  },
+  {
+   "id": "S001221",
+   "party": "D",
+   "state": "MI",
+   "vote": "Nay"
+  },
+  {
+   "id": "S001216",
+   "party": "D",
+   "state": "WA",
+   "vote": "Nay"
+  },
+  {
+   "id": "S001183",
+   "party": "R",
+   "state": "AZ",
+   "vote": "Yea"
+  },
+  {
+   "id": "S000185",
+   "party": "D",
+   "state": "VA",
+   "vote": "Nay"
+  },
+  {
+   "id": "S001189",
+   "party": "R",
+   "state": "GA",
+   "vote": "Yea"
+  },
+  {
+   "id": "S001224",
+   "party": "R",
+   "state": "TX",
+   "vote": "Yea"
+  },
+  {
+   "id": "S000250",
+   "party": "R",
+   "state": "TX",
+   "vote": "Yea"
+  },
+  {
+   "id": "S001185",
+   "party": "D",
+   "state": "AL",
+   "vote": "Nay"
+  },
+  {
+   "id": "S000344",
+   "party": "D",
+   "state": "CA",
+   "vote": "Not Voting"
+  },
+  {
+   "id": "S001229",
+   "party": "R",
+   "state": "IN",
+   "vote": "Yea"
+  },
+  {
+   "id": "S001231",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "S001148",
+   "party": "R",
+   "state": "ID",
+   "vote": "Yea"
+  },
+  {
+   "id": "S001195",
+   "party": "R",
+   "state": "MO",
+   "vote": "Yea"
+  },
+  {
+   "id": "S001172",
+   "party": "R",
+   "state": "NE",
+   "vote": "Yea"
+  },
+  {
+   "id": "S000522",
+   "party": "R",
+   "state": "NJ",
+   "vote": "Yea"
+  },
+  {
+   "id": "S000510",
+   "party": "D",
+   "state": "WA",
+   "vote": "Nay"
+  },
+  {
+   "id": "S001199",
+   "party": "R",
+   "state": "PA",
+   "vote": "Yea"
+  },
+  {
+   "id": "S001225",
+   "party": "D",
+   "state": "IL",
+   "vote": "Nay"
+  },
+  {
+   "id": "S001200",
+   "party": "D",
+   "state": "FL",
+   "vote": "Nay"
+  },
+  {
+   "id": "S000929",
+   "party": "R",
+   "state": "IN",
+   "vote": "Yea"
+  },
+  {
+   "id": "S001218",
+   "party": "D",
+   "state": "NM",
+   "vote": "Nay"
+  },
+  {
+   "id": "S001211",
+   "party": "D",
+   "state": "AZ",
+   "vote": "Nay"
+  },
+  {
+   "id": "S001212",
+   "party": "R",
+   "state": "MN",
+   "vote": "Yea"
+  },
+  {
+   "id": "S001196",
+   "party": "R",
+   "state": "NY",
+   "vote": "Yea"
+  },
+  {
+   "id": "S001213",
+   "party": "R",
+   "state": "WI",
+   "vote": "Yea"
+  },
+  {
+   "id": "S001214",
+   "party": "R",
+   "state": "FL",
+   "vote": "Yea"
+  },
+  {
+   "id": "S001215",
+   "party": "D",
+   "state": "MI",
+   "vote": "Nay"
+  },
+  {
+   "id": "S001159",
+   "party": "D",
+   "state": "WA",
+   "vote": "Nay"
+  },
+  {
+   "id": "S001220",
+   "party": "R",
+   "state": "AL",
+   "vote": "Yea"
+  },
+  {
+   "id": "S001188",
+   "party": "R",
+   "state": "IN",
+   "vote": "Yea"
+  },
+  {
+   "id": "S001230",
+   "party": "D",
+   "state": "VA",
+   "vote": "Nay"
+  },
+  {
+   "id": "S001201",
+   "party": "D",
+   "state": "NY",
+   "vote": "Nay"
+  },
+  {
+   "id": "S001223",
+   "party": "D",
+   "state": "OH",
+   "vote": "Nay"
+  },
+  {
+   "id": "T000472",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "T000490",
+   "party": "R",
+   "state": "OH",
+   "vote": "Yea"
+  },
+  {
+   "id": "T000478",
+   "party": "R",
+   "state": "NY",
+   "vote": "Yea"
+  },
+  {
+   "id": "T000488",
+   "party": "D",
+   "state": "MI",
+   "vote": "Nay"
+  },
+  {
+   "id": "T000460",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "T000193",
+   "party": "D",
+   "state": "MS",
+   "vote": "Nay"
+  },
+  {
+   "id": "T000467",
+   "party": "R",
+   "state": "PA",
+   "vote": "Yea"
+  },
+  {
+   "id": "T000165",
+   "party": "R",
+   "state": "WI",
+   "vote": "Yea"
+  },
+  {
+   "id": "T000480",
+   "party": "R",
+   "state": "SC",
+   "vote": "Yea"
+  },
+  {
+   "id": "T000468",
+   "party": "D",
+   "state": "NV",
+   "vote": "Nay"
+  },
+  {
+   "id": "T000481",
+   "party": "D",
+   "state": "MI",
+   "vote": "Nay"
+  },
+  {
+   "id": "T000487",
+   "party": "D",
+   "state": "HI",
+   "vote": "Nay"
+  },
+  {
+   "id": "T000469",
+   "party": "D",
+   "state": "NY",
+   "vote": "Nay"
+  },
+  {
+   "id": "T000474",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "T000486",
+   "party": "D",
+   "state": "NY",
+   "vote": "Nay"
+  },
+  {
+   "id": "T000482",
+   "party": "D",
+   "state": "MA",
+   "vote": "Nay"
+  },
+  {
+   "id": "T000491",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "T000463",
+   "party": "R",
+   "state": "OH",
+   "vote": "Yea"
+  },
+  {
+   "id": "U000040",
+   "party": "D",
+   "state": "IL",
+   "vote": "Nay"
+  },
+  {
+   "id": "V000129",
+   "party": "R",
+   "state": "CA",
+   "vote": "Yea"
+  },
+  {
+   "id": "V000133",
+   "party": "R",
+   "state": "NJ",
+   "vote": "Yea"
+  },
+  {
+   "id": "V000134",
+   "party": "R",
+   "state": "TX",
+   "vote": "Yea"
+  },
+  {
+   "id": "V000139",
+   "party": "R",
+   "state": "TN",
+   "vote": "Yea"
+  },
+  {
+   "id": "V000135",
+   "party": "R",
+   "state": "WI",
+   "vote": "Yea"
+  },
+  {
+   "id": "V000130",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "V000136",
+   "party": "D",
+   "state": "NM",
+   "vote": "Nay"
+  },
+  {
+   "id": "V000131",
+   "party": "D",
+   "state": "TX",
+   "vote": "Nay"
+  },
+  {
+   "id": "V000081",
+   "party": "D",
+   "state": "NY",
+   "vote": "Nay"
+  },
+  {
+   "id": "V000138",
+   "party": "D",
+   "state": "VA",
+   "vote": "Nay"
+  },
+  {
+   "id": "W000812",
+   "party": "R",
+   "state": "MO",
+   "vote": "Yea"
+  },
+  {
+   "id": "W000798",
+   "party": "R",
+   "state": "MI",
+   "vote": "Yea"
+  },
+  {
+   "id": "W000831",
+   "party": "D",
+   "state": "VA",
+   "vote": "Nay"
+  },
+  {
+   "id": "W000797",
+   "party": "D",
+   "state": "FL",
+   "vote": "Nay"
+  },
+  {
+   "id": "W000187",
+   "party": "D",
+   "state": "CA",
+   "vote": "Not Voting"
+  },
+  {
+   "id": "W000822",
+   "party": "D",
+   "state": "NJ",
+   "vote": "Nay"
+  },
+  {
+   "id": "W000814",
+   "party": "R",
+   "state": "TX",
+   "vote": "Yea"
+  },
+  {
+   "id": "W000806",
+   "party": "R",
+   "state": "FL",
+   "vote": "Yea"
+  },
+  {
+   "id": "W000821",
+   "party": "R",
+   "state": "AR",
+   "vote": "Yea"
+  },
+  {
+   "id": "W000830",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "id": "W000829",
+   "party": "R",
+   "state": "WI",
+   "vote": "Yea"
+  },
+  {
+   "id": "W000788",
+   "party": "D",
+   "state": "GA",
+   "vote": "Nay"
+  },
+  {
+   "id": "W000816",
+   "party": "R",
+   "state": "TX",
+   "vote": "Yea"
+  },
+  {
+   "id": "W000808",
+   "party": "D",
+   "state": "FL",
+   "vote": "Not Voting"
+  },
+  {
+   "id": "W000795",
+   "party": "R",
+   "state": "SC",
+   "vote": "Yea"
+  },
+  {
+   "id": "W000804",
+   "party": "R",
+   "state": "VA",
+   "vote": "Yea"
+  },
+  {
+   "id": "W000809",
+   "party": "R",
+   "state": "AR",
+   "vote": "Yea"
+  },
+  {
+   "id": "Y000067",
+   "party": "R",
+   "state": "IN",
+   "vote": "Yea"
+  },
+  {
+   "id": "Z000018",
+   "party": "R",
+   "state": "MT",
+   "vote": "Yea"
+  }
+ ],
+ "source_url": "https://clerk.house.gov/evs/2026/roll194.xml"
+}

@@ -1,0 +1,390 @@
+{
+ "bill": "hjres20-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "report_count": 23,
+ "clients": [
+  {
+   "client": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "display_name": "Chamber of Commerce of the U.s.a.",
+   "reports": 4,
+   "latest_report_amount": 17960000.0,
+   "latest_report": "96338377-b266-4f3c-9cc7-bb1e0b8f4024",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "AMERICAN MEDICAL ASSOCIATION",
+   "display_name": "American Medical Association",
+   "reports": 1,
+   "latest_report_amount": 8000000.0,
+   "latest_report": "0fcc85c0-4c5c-450c-9709-988b02544a2b",
+   "pac_ids": [
+    "C00000422",
+    "C00003194"
+   ],
+   "pac_names": [
+    "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+    "CALIFORNIA MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE - FEDERAL"
+   ]
+  },
+  {
+   "client": "SOUTHERN COMPANY",
+   "display_name": "Southern Company",
+   "reports": 5,
+   "latest_report_amount": 2250000.0,
+   "latest_report": "beafe1c4-17f1-43c2-b820-7848d34fb34c",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "BRADFORD WHITE CORPORATION",
+   "display_name": "Bradford White",
+   "reports": 4,
+   "latest_report_amount": 60000.0,
+   "latest_report": "62267310-2f75-43e7-a50b-f69c412e678e",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "AMERICAN SUPPLY ASSOCIATION",
+   "display_name": "American Supply Association",
+   "reports": 2,
+   "latest_report_amount": 30000.0,
+   "latest_report": "5028722e-edb0-4085-a132-abb1d98a83c9",
+   "pac_ids": [
+    "C00166074"
+   ],
+   "pac_names": [
+    "AMERICAN SUPPLY ASSOCIATION POLITICAL ACTION COMMITTEE"
+   ]
+  },
+  {
+   "client": "LG ELECTRONICS USA, INC.",
+   "display_name": "Lg Electronics USA",
+   "reports": 2,
+   "latest_report_amount": 30000.0,
+   "latest_report": "5fe979bd-21b2-4def-a849-89b1cfc3a444",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "A. O. SMITH CORPORATION",
+   "display_name": "A. O. Smith",
+   "reports": 3,
+   "latest_report_amount": 20000.0,
+   "latest_report": "f0a51b2f-d837-4c81-8b04-0e9b885d7597",
+   "pac_ids": [
+    "C00104687"
+   ],
+   "pac_names": [
+    "AO SMITH CORPORATION POLITICAL ACTION COMMITTEE (AOSPAC)"
+   ]
+  },
+  {
+   "client": "AIR CONDITIONING CONTRACTORS OF AMERICA",
+   "display_name": "Air Conditioning Contractors of America",
+   "reports": 2,
+   "latest_report_amount": 20000.0,
+   "latest_report": "3e69efb1-ae04-49f7-b97a-e200a821f54f",
+   "pac_ids": [
+    "C00100974"
+   ],
+   "pac_names": [
+    "AIR CONDITIONING CONTRACTORS OF AMERICA PAC"
+   ]
+  }
+ ],
+ "groups_shown": [
+  {
+   "client": "AMERICAN MEDICAL ASSOCIATION",
+   "display_name": "American Medical Association",
+   "reports": 1,
+   "latest_report_amount": 8000000.0,
+   "latest_report": "0fcc85c0-4c5c-450c-9709-988b02544a2b",
+   "pac_ids": [
+    "C00000422",
+    "C00003194"
+   ],
+   "pac_names": [
+    "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+    "CALIFORNIA MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE - FEDERAL"
+   ]
+  },
+  {
+   "client": "AMERICAN SUPPLY ASSOCIATION",
+   "display_name": "American Supply Association",
+   "reports": 2,
+   "latest_report_amount": 30000.0,
+   "latest_report": "5028722e-edb0-4085-a132-abb1d98a83c9",
+   "pac_ids": [
+    "C00166074"
+   ],
+   "pac_names": [
+    "AMERICAN SUPPLY ASSOCIATION POLITICAL ACTION COMMITTEE"
+   ]
+  },
+  {
+   "client": "A. O. SMITH CORPORATION",
+   "display_name": "A. O. Smith",
+   "reports": 3,
+   "latest_report_amount": 20000.0,
+   "latest_report": "f0a51b2f-d837-4c81-8b04-0e9b885d7597",
+   "pac_ids": [
+    "C00104687"
+   ],
+   "pac_names": [
+    "AO SMITH CORPORATION POLITICAL ACTION COMMITTEE (AOSPAC)"
+   ]
+  },
+  {
+   "client": "AIR CONDITIONING CONTRACTORS OF AMERICA",
+   "display_name": "Air Conditioning Contractors of America",
+   "reports": 2,
+   "latest_report_amount": 20000.0,
+   "latest_report": "3e69efb1-ae04-49f7-b97a-e200a821f54f",
+   "pac_ids": [
+    "C00100974"
+   ],
+   "pac_names": [
+    "AIR CONDITIONING CONTRACTORS OF AMERICA PAC"
+   ]
+  }
+ ],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "935e47b1-2f78-4a35-8bb9-4ef2b0e3c0bd",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-16T04:51:16-04:00",
+   "amount": 20000.0,
+   "registrant": "PENN AVENUE PARTNERS",
+   "client": "A. O. SMITH CORPORATION",
+   "url": "https://lda.gov/filings/public/filing/935e47b1-2f78-4a35-8bb9-4ef2b0e3c0bd/print/"
+  },
+  {
+   "filing_uuid": "8a239742-9208-45ab-8f4e-1f2da430ef10",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-16T15:25:50-04:00",
+   "amount": 30000.0,
+   "registrant": "AMERICAN SUPPLY ASSOCIATION",
+   "client": "AMERICAN SUPPLY ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/8a239742-9208-45ab-8f4e-1f2da430ef10/print/"
+  },
+  {
+   "filing_uuid": "54f20360-42b5-40f6-ba47-51691704a390",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-16T16:42:45-04:00",
+   "amount": 40000.0,
+   "registrant": "FORBES-TATE",
+   "client": "A.O. SMITH CORPORATION",
+   "url": "https://lda.gov/filings/public/filing/54f20360-42b5-40f6-ba47-51691704a390/print/"
+  },
+  {
+   "filing_uuid": "ff9305db-ef52-472f-b175-909e04dc6993",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-19T21:50:19-04:00",
+   "amount": 50000.0,
+   "registrant": "CGCN GROUP, LLC",
+   "client": "BRADFORD WHITE CORPORATION",
+   "url": "https://lda.gov/filings/public/filing/ff9305db-ef52-472f-b175-909e04dc6993/print/"
+  },
+  {
+   "filing_uuid": "0fcc85c0-4c5c-450c-9709-988b02544a2b",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-21T10:14:05-04:00",
+   "amount": 8000000.0,
+   "registrant": "AMERICAN MEDICAL ASSOCIATION",
+   "client": "AMERICAN MEDICAL ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/0fcc85c0-4c5c-450c-9709-988b02544a2b/print/"
+  },
+  {
+   "filing_uuid": "9d2f56f6-44b2-4376-bd1e-efeaf5f56b9f",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-21T12:14:09-04:00",
+   "amount": 40000.0,
+   "registrant": "SCONSET STRATEGIES, LLC",
+   "client": "BRADFORD WHITE CORPORATION",
+   "url": "https://lda.gov/filings/public/filing/9d2f56f6-44b2-4376-bd1e-efeaf5f56b9f/print/"
+  },
+  {
+   "filing_uuid": "cd77f510-f0d8-416b-a11c-b304e8653c7d",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-21T12:42:26-04:00",
+   "amount": 19340000.0,
+   "registrant": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "client": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "url": "https://lda.gov/filings/public/filing/cd77f510-f0d8-416b-a11c-b304e8653c7d/print/"
+  },
+  {
+   "filing_uuid": "84eb000a-d81c-475d-aa76-24be5c9841ff",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-21T23:54:46-04:00",
+   "amount": 3080000.0,
+   "registrant": "SOUTHERN COMPANY",
+   "client": "SOUTHERN COMPANY",
+   "url": "https://lda.gov/filings/public/filing/84eb000a-d81c-475d-aa76-24be5c9841ff/print/"
+  },
+  {
+   "filing_uuid": "2f48d753-b38f-40b1-8caf-d3ed0dac1577",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-27T00:39:14-04:00",
+   "amount": 20000.0,
+   "registrant": "AIR CONDITIONING CONTRACTORS OF AMERICA",
+   "client": "AIR CONDITIONING CONTRACTORS OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/2f48d753-b38f-40b1-8caf-d3ed0dac1577/print/"
+  },
+  {
+   "filing_uuid": "f0a51b2f-d837-4c81-8b04-0e9b885d7597",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-09T21:35:43-04:00",
+   "amount": 20000.0,
+   "registrant": "PENN AVENUE PARTNERS",
+   "client": "A. O. SMITH CORPORATION",
+   "url": "https://lda.gov/filings/public/filing/f0a51b2f-d837-4c81-8b04-0e9b885d7597/print/"
+  },
+  {
+   "filing_uuid": "3e69efb1-ae04-49f7-b97a-e200a821f54f",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-16T11:47:24-04:00",
+   "amount": 20000.0,
+   "registrant": "AIR CONDITIONING CONTRACTORS OF AMERICA",
+   "client": "AIR CONDITIONING CONTRACTORS OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/3e69efb1-ae04-49f7-b97a-e200a821f54f/print/"
+  },
+  {
+   "filing_uuid": "e3b612f5-6fc5-4447-a7c0-be721da43a7b",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-18T23:18:40-04:00",
+   "amount": 50000.0,
+   "registrant": "CGCN GROUP, LLC",
+   "client": "BRADFORD WHITE CORPORATION",
+   "url": "https://lda.gov/filings/public/filing/e3b612f5-6fc5-4447-a7c0-be721da43a7b/print/"
+  },
+  {
+   "filing_uuid": "136b4649-9931-421a-b70c-08b34ca5e52a",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T10:32:53-04:00",
+   "amount": 30000.0,
+   "registrant": "LAW OFFICES OF KEVIN G. CURTIN",
+   "client": "LG ELECTRONICS USA, INC.",
+   "url": "https://lda.gov/filings/public/filing/136b4649-9931-421a-b70c-08b34ca5e52a/print/"
+  },
+  {
+   "filing_uuid": "5028722e-edb0-4085-a132-abb1d98a83c9",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T10:50:25-04:00",
+   "amount": 30000.0,
+   "registrant": "AMERICAN SUPPLY ASSOCIATION",
+   "client": "AMERICAN SUPPLY ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/5028722e-edb0-4085-a132-abb1d98a83c9/print/"
+  },
+  {
+   "filing_uuid": "62267310-2f75-43e7-a50b-f69c412e678e",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T12:23:25-04:00",
+   "amount": 60000.0,
+   "registrant": "SCONSET STRATEGIES, LLC",
+   "client": "BRADFORD WHITE CORPORATION",
+   "url": "https://lda.gov/filings/public/filing/62267310-2f75-43e7-a50b-f69c412e678e/print/"
+  },
+  {
+   "filing_uuid": "9540c35a-5726-45ad-aa09-89283b86b0c0",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T16:26:04-04:00",
+   "amount": 19340000.0,
+   "registrant": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "client": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "url": "https://lda.gov/filings/public/filing/9540c35a-5726-45ad-aa09-89283b86b0c0/print/"
+  },
+  {
+   "filing_uuid": "c8e87905-2373-420c-a6f1-86ceadda7727",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T22:32:10-04:00",
+   "amount": 2780000.0,
+   "registrant": "SOUTHERN COMPANY",
+   "client": "SOUTHERN COMPANY",
+   "url": "https://lda.gov/filings/public/filing/c8e87905-2373-420c-a6f1-86ceadda7727/print/"
+  },
+  {
+   "filing_uuid": "98dd1ea9-1cda-4342-8355-0bb7dfce6ead",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-23T11:56:33-04:00",
+   "amount": 2780000.0,
+   "registrant": "SOUTHERN COMPANY",
+   "client": "SOUTHERN COMPANY",
+   "url": "https://lda.gov/filings/public/filing/98dd1ea9-1cda-4342-8355-0bb7dfce6ead/print/"
+  },
+  {
+   "filing_uuid": "d15f437e-f17a-4f34-9282-457c254ad49a",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-08-06T12:28:16-04:00",
+   "amount": 2780000.0,
+   "registrant": "SOUTHERN COMPANY",
+   "client": "SOUTHERN COMPANY",
+   "url": "https://lda.gov/filings/public/filing/d15f437e-f17a-4f34-9282-457c254ad49a/print/"
+  },
+  {
+   "filing_uuid": "5fe979bd-21b2-4def-a849-89b1cfc3a444",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T16:37:19-04:00",
+   "amount": 30000.0,
+   "registrant": "LAW OFFICES OF KEVIN G. CURTIN",
+   "client": "LG ELECTRONICS USA, INC.",
+   "url": "https://lda.gov/filings/public/filing/5fe979bd-21b2-4def-a849-89b1cfc3a444/print/"
+  },
+  {
+   "filing_uuid": "4c04ee95-5e4b-43e5-9a78-41a2504de0f6",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T18:13:17-04:00",
+   "amount": 13650000.0,
+   "registrant": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "client": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "url": "https://lda.gov/filings/public/filing/4c04ee95-5e4b-43e5-9a78-41a2504de0f6/print/"
+  },
+  {
+   "filing_uuid": "beafe1c4-17f1-43c2-b820-7848d34fb34c",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T23:01:52-04:00",
+   "amount": 2250000.0,
+   "registrant": "SOUTHERN COMPANY",
+   "client": "SOUTHERN COMPANY",
+   "url": "https://lda.gov/filings/public/filing/beafe1c4-17f1-43c2-b820-7848d34fb34c/print/"
+  },
+  {
+   "filing_uuid": "96338377-b266-4f3c-9cc7-bb1e0b8f4024",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T14:34:52-05:00",
+   "amount": 17960000.0,
+   "registrant": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "client": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "url": "https://lda.gov/filings/public/filing/96338377-b266-4f3c-9cc7-bb1e0b8f4024/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}

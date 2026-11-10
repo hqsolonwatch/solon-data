@@ -1,0 +1,166 @@
+{
+ "bioguide": "J000312",
+ "name": "James C. Justice",
+ "cycle": 2026,
+ "candidate_id": "S4WV00332",
+ "summary": {
+  "receipts": 87370.2,
+  "individual_contributions": 46421.75,
+  "pac_contributions": 38750.0,
+  "party_contributions": 0.0,
+  "candidate_contributions": 0.0,
+  "candidate_loans": 0.0,
+  "transfers_from_authorized": 0.0,
+  "cash_on_hand": 133969.4,
+  "coverage_end": "09/30/2026"
+ },
+ "pac_contributions": [
+  {
+   "committee_id": "C00777326",
+   "name": "ALLIANCE FOR PHYSICAL THERAPY QUALITY AND INNOVATION INC PAC",
+   "connected_org": null,
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00106146",
+   "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+   "connected_org": "AMERICAN HOSPITAL ASSOCIATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00760348",
+   "name": "MAKING INVESTMENTS TOWARD CONSERVATIVE HEROES PAC",
+   "connected_org": "BLUEGRASS COMMITTEE",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00786434",
+   "name": "U.S. PHYSICAL THERAPY, INC. PAC",
+   "connected_org": "U.S. PHYSICAL THERAPY, INC.",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00503680",
+   "name": "CROP INSURANCE PROFESSIONALS ASSOCIATION PAC-CIPA PAC",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00032979",
+   "name": "D.R.I.V.E. - DEM, REP, IND VOTER ED (THE PAC OF THE INT'L BRHD OF TEAMSTERS)",
+   "connected_org": "INTERNATIONAL BROTHERHOOD OF TEAMSTERS",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00002972",
+   "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
+   "connected_org": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION (NRECA)",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00063586",
+   "name": "UNITED STATES BEET SUGAR ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "UNITED STATES BEET SUGAR ASSOCIATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00035204",
+   "name": "ENERGY MARKETERS OF AMERICA SMALL BUSINESS COMMITTEE PAC (EMA SBC PAC)",
+   "connected_org": "ENERGY MARKETERS OF AMERICA SMALL BUSINESS COMMITTEE PAC (EMA SBC PAC)",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00308478",
+   "name": "USA RICE FEDERATION PAC",
+   "connected_org": "USA RICE FEDERATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00585885",
+   "name": "COVESTROPAC A POLITICAL ACTION COMMITTEE OF COVESTRO LLC",
+   "connected_org": "COVESTRO LLC",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00077701",
+   "name": "THE KRAFT HEINZ COMPANY POLITICAL ACTION COMMITTEE (KRAFTHEINZPAC)",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00760660",
+   "name": "PAIN FREE AMERICA, THE POLITICAL ACTION COMMITTEE OF ATHLETICO HOLDINGS, LLC",
+   "connected_org": "ATHLETICO HOLDINGS, LLC",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00408468",
+   "name": "AMERICAN SOYBEAN ASSOCIATION PAC (SOYPAC)",
+   "connected_org": "NONE",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00525055",
+   "name": "TRANSCANADA USA SERVICES, INC. PAC (TC PAC)",
+   "connected_org": "TRANSCANADA USA SERVICES, INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00096842",
+   "name": "THE AMERICAN ELECTRIC POWER COMMITTEE FOR RESPONSIBLE GOVERNMENT",
+   "connected_org": "AMERICAN ELECTRIC POWER",
+   "total": 250.0
+  },
+  {
+   "committee_id": "C00010868",
+   "name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
+   "connected_org": "AMERICAN COUNCIL OF ENGINEERING COMPANIES",
+   "total": 25.0
+  },
+  {
+   "committee_id": "C00492058",
+   "name": "LEADERSHIP AND ACCOUNTABILITY ARE NATIONAL KEYS PAC",
+   "connected_org": "FAMILIES FOR JAMES LANKFORD",
+   "total": -5000.0
+  }
+ ],
+ "pac_by_type": [
+  {
+   "type": "Trade association PACs",
+   "total": 14025.0
+  },
+  {
+   "type": "Corporate PACs",
+   "total": 8250.0
+  },
+  {
+   "type": "Leadership PACs (run by other politicians)",
+   "total": 5000.0
+  },
+  {
+   "type": "Other PACs",
+   "total": 5000.0
+  },
+  {
+   "type": "Labor union PACs",
+   "total": 2500.0
+  },
+  {
+   "type": "Membership group PACs",
+   "total": 1000.0
+  }
+ ],
+ "outside_spending": {
+  "support_total": 0,
+  "oppose_total": 0,
+  "spenders": [],
+  "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
+ },
+ "detail": null,
+ "detail_fetched_ts": 0,
+ "sources": {
+  "summary": "FEC candidate summary file (weball)",
+  "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
+  "detail": "FEC API, principal campaign committee"
+ }
+}

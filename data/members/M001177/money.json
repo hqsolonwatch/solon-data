@@ -1,0 +1,570 @@
+{
+ "bioguide": "M001177",
+ "name": "Tom McClintock",
+ "cycle": 2026,
+ "candidate_id": "H8CA04152",
+ "summary": {
+  "receipts": 1254441.78,
+  "individual_contributions": 1056030.34,
+  "pac_contributions": 195851.0,
+  "party_contributions": 0.0,
+  "candidate_contributions": 0.0,
+  "candidate_loans": 0.0,
+  "transfers_from_authorized": 0.0,
+  "cash_on_hand": 314100.38,
+  "coverage_end": "10/14/2026"
+ },
+ "pac_contributions": [
+  {
+   "committee_id": "C00005249",
+   "name": "NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS POLITICAL ACTION COMM",
+   "connected_org": "NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00390161",
+   "name": "EUREKA POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00428052",
+   "name": "MAJORITY COMMITTEE PAC--MC PAC",
+   "connected_org": null,
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00744532",
+   "name": "SUPPORT TAXFIGHTERS & ELECT EFFECTIVE LEADERS PAC",
+   "connected_org": null,
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00077321",
+   "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS",
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00749481",
+   "name": "RAPTOR PAC",
+   "connected_org": "PFLUGER VICTORY FUND",
+   "total": 6000.0
+  },
+  {
+   "committee_id": "C00010470",
+   "name": "UNION PACIFIC CORP. FUND FOR EFFECTIVE GOVERNMENT",
+   "connected_org": "UNION PACIFIC CORP.",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00639229",
+   "name": "AMERICAN REVIVAL PAC",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00004275",
+   "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+   "connected_org": "AMERICAN BANKERS ASSOCIATION (ABA)",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00818344",
+   "name": "FARMER PAC",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00693796",
+   "name": "BUCKEYE LIBERTY POLITICAL ACTION COMMITTEE",
+   "connected_org": "BUCKEYE VICTORY FUND",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00236489",
+   "name": "KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
+   "connected_org": "KOCH, INC.",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00592089",
+   "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+   "connected_org": "EMMER VICTORY COMMITTEE",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00411116",
+   "name": "SPACE EXPLORATION TECHNOLOGIES CORP. PAC",
+   "connected_org": "SPACE EXPLORATION TECHNOLOGIES CORP.",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00797670",
+   "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 4994.0
+  },
+  {
+   "committee_id": "C00509422",
+   "name": "DOUG LAMALFA COMMITTEE",
+   "connected_org": "TRANSPORTATION TRUST FUND",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00822767",
+   "name": "RUDY FOR INDIANA",
+   "connected_org": "RUDY VICTORY FUND",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00019653",
+   "name": "EDISON INTERNATIONAL PAC",
+   "connected_org": "EDISON INTERNATIONAL",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00296269",
+   "name": "CALIFORNIA POULTRY INDUSTRY FEDERATION POULTRY PAC",
+   "connected_org": "NONE",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00000901",
+   "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+   "connected_org": "NATIONAL ASSOCIATION OF HOME BUILDERS",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00002972",
+   "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
+   "connected_org": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION (NRECA)",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00390633",
+   "name": "SCHOOLSFIRST FEDERAL CREDIT UNION EMPLOYEES FEDERAL PAC",
+   "connected_org": "SCHOOLSFIRST FEDERAL CREDIT UNION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00035006",
+   "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
+   "connected_org": "CHEVRON CORPORATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00495002",
+   "name": "AMERICAN INVESTMENT COUNCIL POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN INVESTMENT COUNCIL",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00480863",
+   "name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. POLITICAL ACTION COMMITTEE (NSSF PAC)",
+   "connected_org": "NATIONAL SHOOTING SPORTS FOUNDATION, INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00577288",
+   "name": "OLD NORTH LEADERSHIP PAC",
+   "connected_org": "ROUZER",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00683508",
+   "name": "FOREVER YOUTH ORGANIZATION UTILIZING A NEW GENERATION PAC",
+   "connected_org": "KIM VICTORY FUND",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00079566",
+   "name": "CALIFORNIA WESTSIDE FARMERS FED PAC",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00410274",
+   "name": "MASTERCARD INTERNATIONAL INC. EMPLOYEE PAC (MASTERCARD PAC) OR (MASTERCARD EMPLOYEE PAC)",
+   "connected_org": "MASTERCARD INTERNATIONAL INC.",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00193631",
+   "name": "THE FARM CREDIT COUNCIL POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE FARM CREDIT COUNCIL",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00177469",
+   "name": "PG&E CORPORATION EMPLOYEES ENERGYPAC",
+   "connected_org": "PG&E CORPORATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00318766",
+   "name": "CALIFORNIA INDEPENDENT PETROLEUM ASSOCIATION FEDERAL PAC",
+   "connected_org": "CALIFORNIA INDEPENDENT PETROLEUM ASSOCIATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00030718",
+   "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL ASSOCIATION OF REALTORS",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00532887",
+   "name": "DELAWARE NORTH COMPANIES, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00608695",
+   "name": "MIKE JOHNSON FOR LOUISIANA",
+   "connected_org": "JOHNSON LEADERSHIP FUND",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00588657",
+   "name": "TEXANS FOR JODEY ARRINGTON",
+   "connected_org": "ARRINGTON VICTORY COMMITTEE",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00719294",
+   "name": "AUGUST PFLUGER FOR CONGRESS",
+   "connected_org": "PFLUGER VICTORY FUND",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00545749",
+   "name": "EMMER FOR CONGRESS",
+   "connected_org": "EMMER VICTORY COMMITTEE",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00053553",
+   "name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00251009",
+   "name": "UNITED PILOTS PAC/UNITED AIRLINES MASTER EXECUTIVE COUNCIL",
+   "connected_org": "UNITED AIRLINES MASTER EXECUTIVE COUNCIL (UALMEC)",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00001198",
+   "name": "AMERICAN HOTEL AND LODGING ASSOCIATION POLITICAL ACTION COMMITTEE ('HOTELPAC')",
+   "connected_org": null,
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00278101",
+   "name": "GUN OWNERS OF AMERICA, INC. POLITICAL VICTORY FUND",
+   "connected_org": "GUN OWNERS OF AMERICA, INC.",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00228296",
+   "name": "THE ASCAP LEGISLATIVE FUND FOR THE ARTS",
+   "connected_org": "NONE",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00244863",
+   "name": "NATIONAL ROOFING CONTRACTORS ASSOCIATION ROOF PAC",
+   "connected_org": "NATIONAL ROOFING AND CONTRACTORS ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00248658",
+   "name": "LOS ANGELES COUNTY LINCOLN CLUB",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00829671",
+   "name": "IMMIGRANT INVESTORS ASSOCIATION, INC./INVEST IN THE USA PAC (IIUSA PAC)",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00101105",
+   "name": "NATIONAL FEDERATION OF INDEPENDENT BUSINESS FEDERAL POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL FEDERATION OF INDEPENDENT BUSINESS",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00216127",
+   "name": "DENTONS US LLP PAC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00326439",
+   "name": "HOUSE CONSERVATIVES FUND",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00080135",
+   "name": "BLUE DIAMOND GROWERS POLITICAL ACTION COMMITTEE",
+   "connected_org": "BLUE DIAMOND GROWERS",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00823351",
+   "name": "REPUBLICANS UNITED TO DEFEND YOU PAC",
+   "connected_org": "YAKYM",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00121582",
+   "name": "CALIFORNIA FRESH FRUIT ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00148882",
+   "name": "LINCOLN CLUB OF NORTHERN CALIFORNIA FEDERAL PAC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00111880",
+   "name": "CEMEX INC. EMPLOYEES PAC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00147173",
+   "name": "WINE AND SPIRITS WHOLESALERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "WINE & SPIRITS WHOLESALERS OF AMERICA",
+   "total": 876.0
+  },
+  {
+   "committee_id": "C00257956",
+   "name": "THE GOOD FUND",
+   "connected_org": "NONE",
+   "total": 500.0
+  },
+  {
+   "committee_id": "C00432260",
+   "name": "CLUB FOR GROWTH PAC",
+   "connected_org": "CLUB FOR GROWTH",
+   "total": 250.0
+  }
+ ],
+ "pac_by_type": [
+  {
+   "type": "Leadership PACs (run by other politicians)",
+   "total": 53000.0
+  },
+  {
+   "type": "Trade association PACs",
+   "total": 43876.0
+  },
+  {
+   "type": "Corporate PACs",
+   "total": 30000.0
+  },
+  {
+   "type": "Membership group PACs",
+   "total": 21744.0
+  },
+  {
+   "type": "Other candidates’ campaigns",
+   "total": 16000.0
+  },
+  {
+   "type": "Other PACs",
+   "total": 15000.0
+  },
+  {
+   "type": "Labor union PACs",
+   "total": 2000.0
+  },
+  {
+   "type": "Cooperative PACs",
+   "total": 1000.0
+  }
+ ],
+ "outside_spending": {
+  "support_total": 0,
+  "oppose_total": 0,
+  "spenders": [],
+  "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
+ },
+ "detail": {
+  "committee_id": "C00446815",
+  "committee_name": "MCCLINTOCK FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1254441.78,
+  "amounts": {
+   "individuals_200_or_less": 132966.56,
+   "individuals_over_200": 923063.78,
+   "pacs_and_parties": 195851.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    10
+   ],
+   [
+    "Individuals giving more than $200",
+    74
+   ],
+   [
+    "PACs and party committees",
+    16
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 659441.78,
+   "home_state": "CA",
+   "home_state_total": 590776.78,
+   "home_state_share": 90,
+   "top": [
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 590776.78,
+     "count": 791
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 9500.0,
+     "count": 11
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 8000.0,
+     "count": 3
+    },
+    {
+     "state": "NV",
+     "state_full": "Nevada",
+     "total": 7650.0,
+     "count": 24
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 7250.0,
+     "count": 5
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 5750.0,
+     "count": 7
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 3700.0,
+     "count": 5
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 3250.0,
+     "count": 6
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 3000.0,
+     "count": 1
+    },
+    {
+     "state": "WY",
+     "state_full": "Wyoming",
+     "total": 3000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "NOT PROVIDED",
+     "total": 11750.0,
+     "count": 13
+    },
+    {
+     "employer": "SOVEREIGN NATION",
+     "total": 11500.0,
+     "count": 6
+    },
+    {
+     "employer": "SENSORIO",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PYRAMES INC.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "AKT INVESTMENTS INC.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SH SMITH FARMS",
+     "total": 7000.0,
+     "count": 4
+    },
+    {
+     "employer": "CROWN ASSOCIATES REALTY, INC.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "TECHNICAL MAINTENANCE SUPPORT, INC.",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "CEN-CAL FIRE SYSTEMS, INC.",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "AKT DEVELOPMENT",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794319828.5573218,
+ "sources": {
+  "summary": "FEC candidate summary file (weball)",
+  "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
+  "detail": "FEC API, principal campaign committee"
+ }
+}

@@ -1,0 +1,198 @@
+{
+ "bill": "hjres106-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "report_count": 12,
+ "clients": [
+  {
+   "client": "NATIONAL MINING ASSOCIATION",
+   "display_name": "National Mining Association",
+   "reports": 3,
+   "latest_report_amount": 640000.0,
+   "latest_report": "41eaf687-362d-45e4-8bc6-4e073403766f",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "LEAGUE OF CONSERVATION VOTERS",
+   "display_name": "League of Conservation Voters",
+   "reports": 2,
+   "latest_report_amount": 280000.0,
+   "latest_report": "c4e548c4-7036-4263-8061-bb32644123cf",
+   "pac_ids": [
+    "C00252940"
+   ],
+   "pac_names": [
+    "LEAGUE OF CONSERVATION VOTERS ACTION FUND"
+   ]
+  },
+  {
+   "client": "NATIONAL PARKS CONSERVATION ASSOCIATION",
+   "display_name": "National Parks Conservation Association",
+   "reports": 2,
+   "latest_report_amount": 139430.0,
+   "latest_report": "f2bbcab6-0396-4c8f-b874-9c6b49b78d71",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "ALASKA WILDERNESS LEAGUE ACTION",
+   "display_name": "Alaska Wilderness League Action",
+   "reports": 1,
+   "latest_report_amount": 10000.0,
+   "latest_report": "aa588362-e77b-48f3-b91d-892749aa4131",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "THE CONSERVATION ALLIANCE",
+   "display_name": "The Conservation Alliance",
+   "reports": 4,
+   "latest_report_amount": 6600.0,
+   "latest_report": "5607d38b-3ffb-40f5-a88f-0c8db02fd68e",
+   "pac_ids": [],
+   "pac_names": []
+  }
+ ],
+ "groups_shown": [
+  {
+   "client": "LEAGUE OF CONSERVATION VOTERS",
+   "display_name": "League of Conservation Voters",
+   "reports": 2,
+   "latest_report_amount": 280000.0,
+   "latest_report": "c4e548c4-7036-4263-8061-bb32644123cf",
+   "pac_ids": [
+    "C00252940"
+   ],
+   "pac_names": [
+    "LEAGUE OF CONSERVATION VOTERS ACTION FUND"
+   ]
+  }
+ ],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "d6451806-0fdd-4702-841c-f4f731c54af1",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T17:33:22-04:00",
+   "amount": 76000.0,
+   "registrant": "NATIONAL MINING ASSOCIATION",
+   "client": "NATIONAL MINING ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/d6451806-0fdd-4702-841c-f4f731c54af1/print/"
+  },
+  {
+   "filing_uuid": "88ca9cb6-f6d6-440b-bc25-da1db5732aa1",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T17:39:07-04:00",
+   "amount": 760000.0,
+   "registrant": "NATIONAL MINING ASSOCIATION",
+   "client": "NATIONAL MINING ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/88ca9cb6-f6d6-440b-bc25-da1db5732aa1/print/"
+  },
+  {
+   "filing_uuid": "14201da8-e3a4-47db-8b83-17425b48a2fb",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T17:32:46-04:00",
+   "amount": 216687.0,
+   "registrant": "NATIONAL PARKS CONSERVATION ASSOCIATION",
+   "client": "NATIONAL PARKS CONSERVATION ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/14201da8-e3a4-47db-8b83-17425b48a2fb/print/"
+  },
+  {
+   "filing_uuid": "a2404ca2-816e-41c6-b6ca-db2b298c170c",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T18:17:38-04:00",
+   "amount": 190000.0,
+   "registrant": "LEAGUE OF CONSERVATION VOTERS",
+   "client": "LEAGUE OF CONSERVATION VOTERS",
+   "url": "https://lda.gov/filings/public/filing/a2404ca2-816e-41c6-b6ca-db2b298c170c/print/"
+  },
+  {
+   "filing_uuid": "aa588362-e77b-48f3-b91d-892749aa4131",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-11-12T14:45:59-05:00",
+   "amount": 10000.0,
+   "registrant": "ALASKA WILDERNESS LEAGUE ACTION",
+   "client": "ALASKA WILDERNESS LEAGUE ACTION",
+   "url": "https://lda.gov/filings/public/filing/aa588362-e77b-48f3-b91d-892749aa4131/print/"
+  },
+  {
+   "filing_uuid": "f2bbcab6-0396-4c8f-b874-9c6b49b78d71",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T15:15:30-05:00",
+   "amount": 139430.0,
+   "registrant": "NATIONAL PARKS CONSERVATION ASSOCIATION",
+   "client": "NATIONAL PARKS CONSERVATION ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/f2bbcab6-0396-4c8f-b874-9c6b49b78d71/print/"
+  },
+  {
+   "filing_uuid": "41eaf687-362d-45e4-8bc6-4e073403766f",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T16:17:12-05:00",
+   "amount": 640000.0,
+   "registrant": "NATIONAL MINING ASSOCIATION",
+   "client": "NATIONAL MINING ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/41eaf687-362d-45e4-8bc6-4e073403766f/print/"
+  },
+  {
+   "filing_uuid": "c4e548c4-7036-4263-8061-bb32644123cf",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T18:35:41-05:00",
+   "amount": 280000.0,
+   "registrant": "LEAGUE OF CONSERVATION VOTERS",
+   "client": "LEAGUE OF CONSERVATION VOTERS",
+   "url": "https://lda.gov/filings/public/filing/c4e548c4-7036-4263-8061-bb32644123cf/print/"
+  },
+  {
+   "filing_uuid": "627bac4e-5315-40c0-95af-7eaa207257d8",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T16:47:06-04:00",
+   "amount": 7000.0,
+   "registrant": "HIGH STREET STRATEGIES LLC",
+   "client": "THE CONSERVATION ALLIANCE",
+   "url": "https://lda.gov/filings/public/filing/627bac4e-5315-40c0-95af-7eaa207257d8/print/"
+  },
+  {
+   "filing_uuid": "e89cba55-7da3-4e52-9217-b89693fed007",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-19T14:13:43-05:00",
+   "amount": 7000.0,
+   "registrant": "HIGH STREET STRATEGIES LLC",
+   "client": "THE CONSERVATION ALLIANCE",
+   "url": "https://lda.gov/filings/public/filing/e89cba55-7da3-4e52-9217-b89693fed007/print/"
+  },
+  {
+   "filing_uuid": "b8cfb4a1-454a-4fbd-99fb-b4b36d00a12a",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T16:48:30-04:00",
+   "amount": 8000.0,
+   "registrant": "HIGH STREET STRATEGIES LLC",
+   "client": "THE CONSERVATION ALLIANCE",
+   "url": "https://lda.gov/filings/public/filing/b8cfb4a1-454a-4fbd-99fb-b4b36d00a12a/print/"
+  },
+  {
+   "filing_uuid": "5607d38b-3ffb-40f5-a88f-0c8db02fd68e",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T18:21:22-04:00",
+   "amount": 6600.0,
+   "registrant": "HIGH STREET STRATEGIES LLC",
+   "client": "THE CONSERVATION ALLIANCE",
+   "url": "https://lda.gov/filings/public/filing/5607d38b-3ffb-40f5-a88f-0c8db02fd68e/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}

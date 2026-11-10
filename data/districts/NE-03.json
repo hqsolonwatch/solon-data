@@ -1,0 +1,506 @@
+{
+ "code": "NE-03",
+ "state": "NE",
+ "number": 3,
+ "geoid": "3103",
+ "congress": 119,
+ "member": {
+  "bioguide": "S001172",
+  "name": "Adrian Smith",
+  "short_name": "Adrian Smith",
+  "party": "Republican"
+ },
+ "polsby_popper": 0.3142,
+ "square_miles": 70046.9,
+ "svg": {
+  "box": [
+   480,
+   360
+  ],
+  "shape": "14,214 14,77 301,77 304,81 326,93 330,92 335,86 343,87 363,86 372,92 380,93 380,96 383,95 389,97 389,100 395,100 394,104 399,111 410,113 409,121 413,128 412,134 416,138 418,146 424,148 422,152 427,160 425,164 426,166 424,167 425,178 428,180 430,177 430,182 434,184 433,187 413,187 413,184 408,181 407,163 402,163 402,139 335,139 336,178 342,178 342,187 348,187 349,202 360,203 360,235 383,235 383,247 406,247 406,229 439,229 436,233 443,242 442,247 448,246 446,249 450,260 448,262 457,267 457,271 462,275 461,281 466,284 117,283 117,214",
+  "islands_bridged": false,
+  "counties": [
+   {
+    "fips": "31091",
+    "county": "Hooker",
+    "share_of_county_area": 1.0,
+    "poly": "147,136 147,166 183,166 183,136"
+   },
+   {
+    "fips": "31007",
+    "county": "Banner",
+    "share_of_county_area": 1.0,
+    "poly": "11,163 11,190 52,190 52,163"
+   },
+   {
+    "fips": "31123",
+    "county": "Morrill",
+    "share_of_county_area": 1.0,
+    "poly": "47,142 46,187 90,187 88,142"
+   },
+   {
+    "fips": "31069",
+    "county": "Garden",
+    "share_of_county_area": 1.0,
+    "poly": "82,142 86,202 120,202 120,190 124,190 124,160 120,160 120,142"
+   },
+   {
+    "fips": "31139",
+    "county": "Pierce",
+    "share_of_county_area": 1.0,
+    "poly": "332,112 332,142 363,142 363,112"
+   },
+   {
+    "fips": "31103",
+    "county": "Keya Paha",
+    "share_of_county_area": 1.0,
+    "poly": "210,89 220,94 248,99 265,92 265,74 210,74"
+   },
+   {
+    "fips": "31115",
+    "county": "Loup",
+    "share_of_county_area": 1.0,
+    "poly": "237,137 237,166 267,166 267,136"
+   },
+   {
+    "fips": "31175",
+    "county": "Valley",
+    "share_of_county_area": 1.0,
+    "poly": "261,190 291,190 291,160 261,160"
+   },
+   {
+    "fips": "31009",
+    "county": "Blaine",
+    "share_of_county_area": 1.0,
+    "poly": "207,138 207,167 243,166 243,137"
+   },
+   {
+    "fips": "31077",
+    "county": "Greeley",
+    "share_of_county_area": 1.0,
+    "poly": "285,160 285,190 315,190 315,160"
+   },
+   {
+    "fips": "31045",
+    "county": "Dawes",
+    "share_of_county_area": 1.0,
+    "poly": "39,73 41,118 83,118 82,74"
+   },
+   {
+    "fips": "31061",
+    "county": "Franklin",
+    "share_of_county_area": 1.0,
+    "poly": "263,256 263,286 292,286 292,256"
+   },
+   {
+    "fips": "31047",
+    "county": "Dawson",
+    "share_of_county_area": 1.0,
+    "poly": "209,208 209,238 239,238 257,241 256,208"
+   },
+   {
+    "fips": "31145",
+    "county": "Red Willow",
+    "share_of_county_area": 1.0,
+    "poly": "181,256 181,286 217,286 216,256"
+   },
+   {
+    "fips": "31121",
+    "county": "Merrick",
+    "share_of_county_area": 1.0,
+    "poly": "314,172 309,172 309,231 328,212 335,209 342,200 351,194 351,184 339,184 339,190 315,193"
+   },
+   {
+    "fips": "31059",
+    "county": "Fillmore",
+    "share_of_county_area": 1.0,
+    "poly": "333,232 333,262 363,262 363,232"
+   },
+   {
+    "fips": "31133",
+    "county": "Pawnee",
+    "share_of_county_area": 1.0,
+    "poly": "403,262 403,287 433,287 433,263"
+   },
+   {
+    "fips": "31181",
+    "county": "Webster",
+    "share_of_county_area": 1.0,
+    "poly": "286,256 286,286 316,286 316,256"
+   },
+   {
+    "fips": "31163",
+    "county": "Sherman",
+    "share_of_county_area": 1.0,
+    "poly": "261,214 291,214 291,184 262,184"
+   },
+   {
+    "fips": "31127",
+    "county": "Nemaha",
+    "share_of_county_area": 1.0,
+    "poly": "424,244 424,268 457,269 456,261 453,260 449,250 452,249 448,238 444,245"
+   },
+   {
+    "fips": "31093",
+    "county": "Howard",
+    "share_of_county_area": 1.0,
+    "poly": "285,184 285,214 315,214 315,184"
+   },
+   {
+    "fips": "31083",
+    "county": "Harlan",
+    "share_of_county_area": 1.0,
+    "poly": "240,256 240,286 269,286 269,256"
+   },
+   {
+    "fips": "31051",
+    "county": "Dixon",
+    "share_of_county_area": 1.0,
+    "poly": "375,89 375,130 396,130 396,112 404,112 397,103 398,98 392,97 391,95 383,91"
+   },
+   {
+    "fips": "31085",
+    "county": "Hayes",
+    "share_of_county_area": 1.0,
+    "poly": "151,232 151,262 186,262 186,232"
+   },
+   {
+    "fips": "31179",
+    "county": "Wayne",
+    "share_of_county_area": 1.0,
+    "poly": "357,142 391,142 391,124 381,124 381,118 357,118"
+   },
+   {
+    "fips": "31019",
+    "county": "Buffalo",
+    "share_of_county_area": 1.0,
+    "poly": "250,208 251,240 280,242 292,238 293,208"
+   },
+   {
+    "fips": "31041",
+    "county": "Custer",
+    "share_of_county_area": 1.0,
+    "poly": "207,161 208,214 267,214 267,160"
+   },
+   {
+    "fips": "31107",
+    "county": "Knox",
+    "share_of_county_area": 1.0,
+    "poly": "308,80 308,118 357,118 356,83 343,84 334,82 327,90 321,85"
+   },
+   {
+    "fips": "31011",
+    "county": "Boone",
+    "share_of_county_area": 1.0,
+    "poly": "309,148 309,184 323,184 326,182 339,181 338,148"
+   },
+   {
+    "fips": "31063",
+    "county": "Frontier",
+    "share_of_county_area": 1.0,
+    "poly": "180,232 180,262 222,262 222,256 227,256 227,232"
+   },
+   {
+    "fips": "31117",
+    "county": "McPherson",
+    "share_of_county_area": 1.0,
+    "poly": "148,190 190,190 190,161 148,160"
+   },
+   {
+    "fips": "31157",
+    "county": "Scotts Bluff",
+    "share_of_county_area": 1.0,
+    "poly": "11,142 11,169 52,169 53,142"
+   },
+   {
+    "fips": "31073",
+    "county": "Gosper",
+    "share_of_county_area": 1.0,
+    "poly": "216,250 216,262 245,262 245,233 221,232 221,250"
+   },
+   {
+    "fips": "31033",
+    "county": "Cheyenne",
+    "share_of_county_area": 1.0,
+    "poly": "46,217 91,217 92,184 90,184 90,181 46,181"
+   },
+   {
+    "fips": "31015",
+    "county": "Boyd",
+    "share_of_county_area": 1.0,
+    "poly": "259,95 276,87 279,90 290,93 314,96 314,83 306,79 303,74 259,74"
+   },
+   {
+    "fips": "31129",
+    "county": "Nuckolls",
+    "share_of_county_area": 1.0,
+    "poly": "310,286 339,286 339,256 310,256"
+   },
+   {
+    "fips": "31165",
+    "county": "Sioux",
+    "share_of_county_area": 1.0,
+    "poly": "11,74 11,148 51,148 51,136 48,136 45,73"
+   },
+   {
+    "fips": "31027",
+    "county": "Cedar",
+    "share_of_county_area": 1.0,
+    "poly": "351,84 350,118 357,118 357,124 381,124 381,90 373,89 370,88 370,85 363,83"
+   },
+   {
+    "fips": "31017",
+    "county": "Brown",
+    "share_of_county_area": 1.0,
+    "poly": "210,82 212,143 244,143 243,93 222,88"
+   },
+   {
+    "fips": "31105",
+    "county": "Kimball",
+    "share_of_county_area": 1.0,
+    "poly": "11,184 11,217 52,217 52,184"
+   },
+   {
+    "fips": "31111",
+    "county": "Lincoln",
+    "share_of_county_area": 1.0,
+    "poly": "155,184 156,238 215,238 214,184"
+   },
+   {
+    "fips": "31099",
+    "county": "Kearney",
+    "share_of_county_area": 1.0,
+    "poly": "263,235 263,262 292,262 292,232 280,236"
+   },
+   {
+    "fips": "31143",
+    "county": "Polk",
+    "share_of_county_area": 0.656,
+    "poly": "333,201 333,214 363,214 363,183 343,191"
+   },
+   {
+    "fips": "31065",
+    "county": "Furnas",
+    "share_of_county_area": 1.0,
+    "poly": "210,256 211,286 246,286 246,256"
+   },
+   {
+    "fips": "31149",
+    "county": "Rock",
+    "share_of_county_area": 1.0,
+    "poly": "237,91 238,143 266,142 265,86 247,93"
+   },
+   {
+    "fips": "31169",
+    "county": "Thayer",
+    "share_of_county_area": 1.0,
+    "poly": "333,286 362,286 363,256 333,256"
+   },
+   {
+    "fips": "31097",
+    "county": "Johnson",
+    "share_of_county_area": 1.0,
+    "poly": "403,244 403,268 430,268 430,244"
+   },
+   {
+    "fips": "31151",
+    "county": "Saline",
+    "share_of_county_area": 1.0,
+    "poly": "357,232 357,262 386,262 386,232"
+   },
+   {
+    "fips": "31147",
+    "county": "Richardson",
+    "share_of_county_area": 1.0,
+    "poly": "427,263 427,287 479,287 464,279 465,274 460,270 460,265 454,263"
+   },
+   {
+    "fips": "31101",
+    "county": "Keith",
+    "share_of_county_area": 1.0,
+    "poly": "114,184 114,217 162,217 161,184"
+   },
+   {
+    "fips": "31003",
+    "county": "Antelope",
+    "share_of_county_area": 1.0,
+    "poly": "308,112 309,154 338,154 338,112"
+   },
+   {
+    "fips": "31095",
+    "county": "Jefferson",
+    "share_of_county_area": 1.0,
+    "poly": "356,286 386,286 386,256 357,256"
+   },
+   {
+    "fips": "31087",
+    "county": "Hitchcock",
+    "share_of_county_area": 1.0,
+    "poly": "152,256 152,286 187,286 187,256"
+   },
+   {
+    "fips": "31161",
+    "county": "Sheridan",
+    "share_of_county_area": 1.0,
+    "poly": "76,74 79,142 81,142 81,148 123,148 123,136 121,136 121,112 120,112 119,74"
+   },
+   {
+    "fips": "31013",
+    "county": "Box Butte",
+    "share_of_county_area": 1.0,
+    "poly": "42,112 42,142 45,142 45,148 87,148 87,136 85,136 84,112"
+   },
+   {
+    "fips": "31135",
+    "county": "Perkins",
+    "share_of_county_area": 1.0,
+    "poly": "114,211 114,238 162,238 162,211"
+   },
+   {
+    "fips": "31089",
+    "county": "Holt",
+    "share_of_county_area": 1.0,
+    "poly": "259,88 260,142 314,142 314,90 291,87 282,85 278,80"
+   },
+   {
+    "fips": "31113",
+    "county": "Logan",
+    "share_of_county_area": 1.0,
+    "poly": "184,161 184,190 214,190 214,161"
+   },
+   {
+    "fips": "31067",
+    "county": "Gage",
+    "share_of_county_area": 1.0,
+    "poly": "380,244 380,286 409,287 409,244"
+   },
+   {
+    "fips": "31125",
+    "county": "Nance",
+    "share_of_county_area": 1.0,
+    "poly": "309,179 310,200 345,196 345,175"
+   },
+   {
+    "fips": "31035",
+    "county": "Clay",
+    "share_of_county_area": 1.0,
+    "poly": "310,232 310,262 339,262 339,232"
+   },
+   {
+    "fips": "31081",
+    "county": "Hamilton",
+    "share_of_county_area": 1.0,
+    "poly": "309,238 339,238 339,196 310,221"
+   },
+   {
+    "fips": "31049",
+    "county": "Deuel",
+    "share_of_county_area": 1.0,
+    "poly": "85,217 121,217 120,196 86,196"
+   },
+   {
+    "fips": "31079",
+    "county": "Hall",
+    "share_of_county_area": 1.0,
+    "poly": "287,208 287,238 315,238 315,208"
+   },
+   {
+    "fips": "31029",
+    "county": "Chase",
+    "share_of_county_area": 1.0,
+    "poly": "114,232 114,262 157,262 157,232"
+   },
+   {
+    "fips": "31131",
+    "county": "Otoe",
+    "share_of_county_area": 1.0,
+    "poly": "403,226 403,250 460,250 460,247 446,244 446,241 440,233 444,226"
+   },
+   {
+    "fips": "31177",
+    "county": "Washington",
+    "share_of_county_area": 1.0,
+    "poly": "404,164 405,182 410,186 410,190 436,190 438,181 433,180 435,168 428,175 427,164"
+   },
+   {
+    "fips": "31173",
+    "county": "Thurston",
+    "share_of_county_area": 1.0,
+    "poly": "385,142 399,142 399,147 416,148 420,138 415,133 417,130 414,123 392,123 385,125"
+   },
+   {
+    "fips": "31031",
+    "county": "Cherry",
+    "share_of_county_area": 1.0,
+    "poly": "113,74 115,142 218,143 216,74"
+   },
+   {
+    "fips": "31185",
+    "county": "York",
+    "share_of_county_area": 1.0,
+    "poly": "333,208 333,238 363,238 363,208"
+   },
+   {
+    "fips": "31021",
+    "county": "Burt",
+    "share_of_county_area": 1.0,
+    "poly": "399,141 399,166 404,166 404,170 425,170 431,167 428,163 430,159 425,152 428,145 423,144 422,141 411,139 411,141"
+   },
+   {
+    "fips": "31137",
+    "county": "Phelps",
+    "share_of_county_area": 1.0,
+    "poly": "239,233 239,262 269,262 269,235"
+   },
+   {
+    "fips": "31057",
+    "county": "Dundy",
+    "share_of_county_area": 1.0,
+    "poly": "114,256 114,286 158,286 158,256"
+   },
+   {
+    "fips": "31001",
+    "county": "Adams",
+    "share_of_county_area": 1.0,
+    "poly": "286,233 286,262 316,262 316,232"
+   },
+   {
+    "fips": "31043",
+    "county": "Dakota",
+    "share_of_county_area": 1.0,
+    "poly": "390,129 417,130 412,121 413,110 390,106"
+   },
+   {
+    "fips": "31071",
+    "county": "Garfield",
+    "share_of_county_area": 1.0,
+    "poly": "261,136 261,166 291,166 291,136"
+   },
+   {
+    "fips": "31183",
+    "county": "Wheeler",
+    "share_of_county_area": 1.0,
+    "poly": "285,136 285,166 315,166 315,136"
+   },
+   {
+    "fips": "31075",
+    "county": "Grant",
+    "share_of_county_area": 1.0,
+    "poly": "114,166 153,166 153,136 117,136 117,142 114,142"
+   },
+   {
+    "fips": "31171",
+    "county": "Thomas",
+    "share_of_county_area": 1.0,
+    "poly": "177,136 177,166 213,167 213,137"
+   },
+   {
+    "fips": "31005",
+    "county": "Arthur",
+    "share_of_county_area": 1.0,
+    "poly": "118,160 118,190 154,190 154,160"
+   }
+  ]
+ },
+ "source": "U.S. Census Bureau cartographic boundary file cb_2025_us_cd119_500k and cb_2025_us_county_500k"
+}

@@ -1,0 +1,203 @@
+{
+ "bill": "hjres72-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "report_count": 10,
+ "clients": [
+  {
+   "client": "CONSUMER TECHNOLOGY ASSOCIATION",
+   "display_name": "Consumer Technology Association",
+   "reports": 7,
+   "latest_report_amount": 810000.0,
+   "latest_report": "87c748c2-e5c6-4bd1-8710-8c814049d4ce",
+   "pac_ids": [
+    "C00375048"
+   ],
+   "pac_names": [
+    "CONSUMER TECHNOLOGY ASSOCIATION PAC"
+   ]
+  },
+  {
+   "client": "SIEMENS ENERGY, INC",
+   "display_name": "Siemens Energy",
+   "reports": 1,
+   "latest_report_amount": 290000.0,
+   "latest_report": "4a019491-45ef-4061-9232-a60c409705a0",
+   "pac_ids": [
+    "C00848820"
+   ],
+   "pac_names": [
+    "SIEMENS ENERGY, INC. PAC"
+   ]
+  },
+  {
+   "client": "BALL CORPORATION",
+   "display_name": "Ball",
+   "reports": 1,
+   "latest_report_amount": 240000.0,
+   "latest_report": "ee145903-10fd-4bd8-b47b-6f6a0b358f0e",
+   "pac_ids": [
+    "C00039461"
+   ],
+   "pac_names": [
+    "BALL CORPORATION POLITICAL ACTION COMMITTEE"
+   ]
+  },
+  {
+   "client": "LG ELECTRONICS USA, INC.",
+   "display_name": "Lg Electronics USA",
+   "reports": 1,
+   "latest_report_amount": 30000.0,
+   "latest_report": "61a99a7f-ae74-40ab-a840-bbd807b2b1e3",
+   "pac_ids": [],
+   "pac_names": []
+  }
+ ],
+ "groups_shown": [
+  {
+   "client": "CONSUMER TECHNOLOGY ASSOCIATION",
+   "display_name": "Consumer Technology Association",
+   "reports": 7,
+   "latest_report_amount": 810000.0,
+   "latest_report": "87c748c2-e5c6-4bd1-8710-8c814049d4ce",
+   "pac_ids": [
+    "C00375048"
+   ],
+   "pac_names": [
+    "CONSUMER TECHNOLOGY ASSOCIATION PAC"
+   ]
+  },
+  {
+   "client": "SIEMENS ENERGY, INC",
+   "display_name": "Siemens Energy",
+   "reports": 1,
+   "latest_report_amount": 290000.0,
+   "latest_report": "4a019491-45ef-4061-9232-a60c409705a0",
+   "pac_ids": [
+    "C00848820"
+   ],
+   "pac_names": [
+    "SIEMENS ENERGY, INC. PAC"
+   ]
+  },
+  {
+   "client": "BALL CORPORATION",
+   "display_name": "Ball",
+   "reports": 1,
+   "latest_report_amount": 240000.0,
+   "latest_report": "ee145903-10fd-4bd8-b47b-6f6a0b358f0e",
+   "pac_ids": [
+    "C00039461"
+   ],
+   "pac_names": [
+    "BALL CORPORATION POLITICAL ACTION COMMITTEE"
+   ]
+  }
+ ],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "6f7103a0-d224-4fc6-b2c6-2f95983665a8",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-21T17:43:26-04:00",
+   "amount": 730000.0,
+   "registrant": "CONSUMER TECHNOLOGY ASSOCIATION",
+   "client": "CONSUMER TECHNOLOGY ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/6f7103a0-d224-4fc6-b2c6-2f95983665a8/print/"
+  },
+  {
+   "filing_uuid": "bce58ee5-305f-4261-8d10-e1ad464f4cf5",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T16:18:15-04:00",
+   "amount": 1450000.0,
+   "registrant": "CONSUMER TECHNOLOGY ASSOCIATION",
+   "client": "CONSUMER TECHNOLOGY ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/bce58ee5-305f-4261-8d10-e1ad464f4cf5/print/"
+  },
+  {
+   "filing_uuid": "5ba6dccb-6748-44a7-bb32-633f93b8b1ca",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T20:50:14-04:00",
+   "amount": 800000.0,
+   "registrant": "CONSUMER TECHNOLOGY ASSOCIATION",
+   "client": "CONSUMER TECHNOLOGY ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/5ba6dccb-6748-44a7-bb32-633f93b8b1ca/print/"
+  },
+  {
+   "filing_uuid": "57d5295e-2cb4-4ea9-9236-f06298d81dd4",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T14:45:18-05:00",
+   "amount": 1080000.0,
+   "registrant": "CONSUMER TECHNOLOGY ASSOCIATION",
+   "client": "CONSUMER TECHNOLOGY ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/57d5295e-2cb4-4ea9-9236-f06298d81dd4/print/"
+  },
+  {
+   "filing_uuid": "ee145903-10fd-4bd8-b47b-6f6a0b358f0e",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-17T20:12:00-04:00",
+   "amount": 240000.0,
+   "registrant": "BALL CORPORATION",
+   "client": "BALL CORPORATION",
+   "url": "https://lda.gov/filings/public/filing/ee145903-10fd-4bd8-b47b-6f6a0b358f0e/print/"
+  },
+  {
+   "filing_uuid": "61a99a7f-ae74-40ab-a840-bbd807b2b1e3",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-19T11:42:07-04:00",
+   "amount": 30000.0,
+   "registrant": "LAW OFFICES OF KEVIN G. CURTIN",
+   "client": "LG ELECTRONICS USA, INC.",
+   "url": "https://lda.gov/filings/public/filing/61a99a7f-ae74-40ab-a840-bbd807b2b1e3/print/"
+  },
+  {
+   "filing_uuid": "4a019491-45ef-4061-9232-a60c409705a0",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T11:38:21-04:00",
+   "amount": 290000.0,
+   "registrant": "SIEMENS ENERGY, INC",
+   "client": "SIEMENS ENERGY, INC",
+   "url": "https://lda.gov/filings/public/filing/4a019491-45ef-4061-9232-a60c409705a0/print/"
+  },
+  {
+   "filing_uuid": "5333f553-e8b7-4f8a-a747-a2106dc42e2a",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T17:20:03-04:00",
+   "amount": 850000.0,
+   "registrant": "CONSUMER TECHNOLOGY ASSOCIATION",
+   "client": "CONSUMER TECHNOLOGY ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/5333f553-e8b7-4f8a-a747-a2106dc42e2a/print/"
+  },
+  {
+   "filing_uuid": "7a4905c3-c68b-4a28-9a9b-c43a7d5f873d",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T11:06:34-04:00",
+   "amount": 1370000.0,
+   "registrant": "CONSUMER TECHNOLOGY ASSOCIATION",
+   "client": "CONSUMER TECHNOLOGY ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/7a4905c3-c68b-4a28-9a9b-c43a7d5f873d/print/"
+  },
+  {
+   "filing_uuid": "87c748c2-e5c6-4bd1-8710-8c814049d4ce",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T11:11:54-04:00",
+   "amount": 810000.0,
+   "registrant": "CONSUMER TECHNOLOGY ASSOCIATION",
+   "client": "CONSUMER TECHNOLOGY ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/87c748c2-e5c6-4bd1-8710-8c814049d4ce/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}

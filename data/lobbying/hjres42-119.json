@@ -1,0 +1,54 @@
+{
+ "bill": "hjres42-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "report_count": 3,
+ "clients": [
+  {
+   "client": "LG ELECTRONICS USA, INC.",
+   "display_name": "Lg Electronics USA",
+   "reports": 3,
+   "latest_report_amount": 30000.0,
+   "latest_report": "5fe979bd-21b2-4def-a849-89b1cfc3a444",
+   "pac_ids": [],
+   "pac_names": []
+  }
+ ],
+ "groups_shown": [],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "4ef0ff27-1371-492a-828d-fdd0baa4a79f",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-22T16:40:36-04:00",
+   "amount": 30000.0,
+   "registrant": "LAW OFFICES OF KEVIN G. CURTIN",
+   "client": "LG ELECTRONICS USA, INC.",
+   "url": "https://lda.gov/filings/public/filing/4ef0ff27-1371-492a-828d-fdd0baa4a79f/print/"
+  },
+  {
+   "filing_uuid": "136b4649-9931-421a-b70c-08b34ca5e52a",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T10:32:53-04:00",
+   "amount": 30000.0,
+   "registrant": "LAW OFFICES OF KEVIN G. CURTIN",
+   "client": "LG ELECTRONICS USA, INC.",
+   "url": "https://lda.gov/filings/public/filing/136b4649-9931-421a-b70c-08b34ca5e52a/print/"
+  },
+  {
+   "filing_uuid": "5fe979bd-21b2-4def-a849-89b1cfc3a444",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T16:37:19-04:00",
+   "amount": 30000.0,
+   "registrant": "LAW OFFICES OF KEVIN G. CURTIN",
+   "client": "LG ELECTRONICS USA, INC.",
+   "url": "https://lda.gov/filings/public/filing/5fe979bd-21b2-4def-a849-89b1cfc3a444/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}

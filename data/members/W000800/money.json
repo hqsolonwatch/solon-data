@@ -1,0 +1,190 @@
+{
+ "bioguide": "W000800",
+ "name": "Peter Welch",
+ "cycle": 2026,
+ "candidate_id": "S2VT00235",
+ "summary": {
+  "receipts": 248839.28,
+  "individual_contributions": 78873.53,
+  "pac_contributions": 45000.0,
+  "party_contributions": 0.0,
+  "candidate_contributions": 0.0,
+  "candidate_loans": 0.0,
+  "transfers_from_authorized": 0.0,
+  "cash_on_hand": 1605729.82,
+  "coverage_end": "09/30/2026"
+ },
+ "pac_contributions": [
+  {
+   "committee_id": "C00007922",
+   "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+   "connected_org": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00383950",
+   "name": "NATIONAL ELEVATOR CONSTRUCTORS PAC/ INTN'L  UNION OF ELEVATOR CONSTRUCTORS (NEC PAC)",
+   "connected_org": "INT'L UNION OF ELEVATOR CONSTRUCTORS",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00415372",
+   "name": "NATIONAL ASSOCIATION OF ENROLLED AGENTS POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL ASSOCIATION OF ENROLLED AGENTS",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00066472",
+   "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION POLITICAL ACTION COMMITTEE (INSURING AMERICA PAC)",
+   "connected_org": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00262295",
+   "name": "CTIA - THE WIRELESS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "CTIA - THE WIRELESS ASSOCIATION",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00029447",
+   "name": "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC",
+   "connected_org": "INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00312777",
+   "name": "COZEN O'CONNOR POLITICAL ACTION COMMITTEE",
+   "connected_org": "COZEN O'CONNOR",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00466813",
+   "name": "HUMANE WORLD ACTION FUND POLITICAL ACTION COMMITTEE",
+   "connected_org": "HUMANE WORLD ACTION FUND",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00299701",
+   "name": "MCDERMOTT PAC",
+   "connected_org": "NONE",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00343137",
+   "name": "POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS--PAC OF AAOS",
+   "connected_org": "AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00035204",
+   "name": "ENERGY MARKETERS OF AMERICA SMALL BUSINESS COMMITTEE PAC (EMA SBC PAC)",
+   "connected_org": "ENERGY MARKETERS OF AMERICA SMALL BUSINESS COMMITTEE PAC (EMA SBC PAC)",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00161570",
+   "name": "AMERICAN PUBLIC POWER ASSOCIATION, PUBLIC OWNERSHIP OF ELECTRIC RESOURCES PAC",
+   "connected_org": "AMERICAN PUBLIC POWER ASSOCIATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00032979",
+   "name": "D.R.I.V.E. - DEM, REP, IND VOTER ED (THE PAC OF THE INT'L BRHD OF TEAMSTERS)",
+   "connected_org": "INTERNATIONAL BROTHERHOOD OF TEAMSTERS",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00522094",
+   "name": "PSYCHOLOGY PAC OF AMERICAN PSYCHOLOGICAL ASSOCIATION SERVICES INC.",
+   "connected_org": "AMERICAN PSYCHOLOGICAL ASSOCIATION SERVICES INC. (APASI)",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00000885",
+   "name": "INTERNATIONAL UNION OF PAINTERS AND ALLIED TRADES POLITICAL ACTION TOGETHER POLITICAL COMMITTEE",
+   "connected_org": "INTERNATIONAL UNION OF PAINTERS AND ALLIED TRADES",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00508770",
+   "name": "NATIONAL GROCERS ASSOCIATION GROCERS POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL GROCERS ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00112763",
+   "name": "RETAIL INDUSTRY LEADERS ASSOCIATION POLITICAL ACTION COMMITTEE AKA RETAIL LEADERS PAC",
+   "connected_org": "RETAIL INDUSTRY LEADERS ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00141242",
+   "name": "AGRI-MARK INC POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 500.0
+  },
+  {
+   "committee_id": "C00147173",
+   "name": "WINE AND SPIRITS WHOLESALERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "WINE & SPIRITS WHOLESALERS OF AMERICA",
+   "total": 0.0
+  },
+  {
+   "committee_id": "C00369751",
+   "name": "DELL TECHNOLOGIES, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 0.0
+  },
+  {
+   "committee_id": "C00279216",
+   "name": "IHEARTMEDIA, INC. PAC",
+   "connected_org": "IHEARTMEDIA, INC.",
+   "total": 0.0
+  },
+  {
+   "committee_id": "C00692384",
+   "name": "LIVERAMP INC.'S COMMITTEE PROMOTING ETHICAL DATA USAGE (RAMPAC)",
+   "connected_org": "LIVERAMP, INC.",
+   "total": -1500.0
+  }
+ ],
+ "pac_by_type": [
+  {
+   "type": "Trade association PACs",
+   "total": 16000.0
+  },
+  {
+   "type": "Labor union PACs",
+   "total": 15000.0
+  },
+  {
+   "type": "Membership group PACs",
+   "total": 10000.0
+  },
+  {
+   "type": "Other PACs",
+   "total": 2500.0
+  },
+  {
+   "type": "Corporate PACs",
+   "total": 1000.0
+  },
+  {
+   "type": "Cooperative PACs",
+   "total": 500.0
+  }
+ ],
+ "outside_spending": {
+  "support_total": 0,
+  "oppose_total": 0,
+  "spenders": [],
+  "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
+ },
+ "detail": null,
+ "detail_fetched_ts": 0,
+ "sources": {
+  "summary": "FEC candidate summary file (weball)",
+  "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
+  "detail": "FEC API, principal campaign committee"
+ }
+}

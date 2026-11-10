@@ -1,0 +1,193 @@
+{
+ "bill": "hjres210-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "report_count": 8,
+ "clients": [
+  {
+   "client": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "display_name": "Chamber of Commerce of the U.s.a.",
+   "reports": 1,
+   "latest_report_amount": 16480000.0,
+   "latest_report": "3754d07c-7ecc-4531-85c0-e4c3de7642a6",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "AMERICAN PETROLEUM INSTITUTE",
+   "display_name": "American Petroleum Institute",
+   "reports": 1,
+   "latest_report_amount": 2180000.0,
+   "latest_report": "35c1e8ac-d665-4da5-a200-7f3f47f206e1",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "PHILLIPS 66",
+   "display_name": "Phillips 66",
+   "reports": 1,
+   "latest_report_amount": 1280000.0,
+   "latest_report": "a1803eba-c8f5-4cb8-b438-129bfa1302ab",
+   "pac_ids": [
+    "C00513549"
+   ],
+   "pac_names": [
+    "PHILLIPS 66 PAC"
+   ]
+  },
+  {
+   "client": "LEAGUE OF CONSERVATION VOTERS",
+   "display_name": "League of Conservation Voters",
+   "reports": 1,
+   "latest_report_amount": 220000.0,
+   "latest_report": "032856e5-dcc2-401a-919a-e071465ddd47",
+   "pac_ids": [
+    "C00252940"
+   ],
+   "pac_names": [
+    "LEAGUE OF CONSERVATION VOTERS ACTION FUND"
+   ]
+  },
+  {
+   "client": "EARTHJUSTICE ACTION",
+   "display_name": "Earthjustice Action",
+   "reports": 1,
+   "latest_report_amount": 142000.0,
+   "latest_report": "6b2a8238-a12d-4cce-bc5f-27d434297b98",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "OCEAN CONSERVANCY",
+   "display_name": "Ocean Conservancy",
+   "reports": 1,
+   "latest_report_amount": 130000.0,
+   "latest_report": "a0f0f335-54e7-41dc-85b2-090332cc3f20",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "STAX ENGINEERING",
+   "display_name": "Stax Engineering",
+   "reports": 2,
+   "latest_report_amount": 40000.0,
+   "latest_report": "a59c10fd-df59-40d4-a8dd-9d0d8027df19",
+   "pac_ids": [],
+   "pac_names": []
+  }
+ ],
+ "groups_shown": [
+  {
+   "client": "PHILLIPS 66",
+   "display_name": "Phillips 66",
+   "reports": 1,
+   "latest_report_amount": 1280000.0,
+   "latest_report": "a1803eba-c8f5-4cb8-b438-129bfa1302ab",
+   "pac_ids": [
+    "C00513549"
+   ],
+   "pac_names": [
+    "PHILLIPS 66 PAC"
+   ]
+  },
+  {
+   "client": "LEAGUE OF CONSERVATION VOTERS",
+   "display_name": "League of Conservation Voters",
+   "reports": 1,
+   "latest_report_amount": 220000.0,
+   "latest_report": "032856e5-dcc2-401a-919a-e071465ddd47",
+   "pac_ids": [
+    "C00252940"
+   ],
+   "pac_names": [
+    "LEAGUE OF CONSERVATION VOTERS ACTION FUND"
+   ]
+  }
+ ],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "5d48dbce-173f-40ed-8bd8-b916eab4f17e",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-08-26T17:09:26-04:00",
+   "amount": null,
+   "registrant": "BOUNDARY STONE PARTNERS",
+   "client": "STAX ENGINEERING",
+   "url": "https://lda.gov/filings/public/filing/5d48dbce-173f-40ed-8bd8-b916eab4f17e/print/"
+  },
+  {
+   "filing_uuid": "a0f0f335-54e7-41dc-85b2-090332cc3f20",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T16:03:05-04:00",
+   "amount": 130000.0,
+   "registrant": "OCEAN CONSERVANCY",
+   "client": "OCEAN CONSERVANCY",
+   "url": "https://lda.gov/filings/public/filing/a0f0f335-54e7-41dc-85b2-090332cc3f20/print/"
+  },
+  {
+   "filing_uuid": "032856e5-dcc2-401a-919a-e071465ddd47",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T20:16:38-04:00",
+   "amount": 220000.0,
+   "registrant": "LEAGUE OF CONSERVATION VOTERS",
+   "client": "LEAGUE OF CONSERVATION VOTERS",
+   "url": "https://lda.gov/filings/public/filing/032856e5-dcc2-401a-919a-e071465ddd47/print/"
+  },
+  {
+   "filing_uuid": "a1803eba-c8f5-4cb8-b438-129bfa1302ab",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T10:26:06-04:00",
+   "amount": 1280000.0,
+   "registrant": "PHILLIPS 66",
+   "client": "PHILLIPS 66",
+   "url": "https://lda.gov/filings/public/filing/a1803eba-c8f5-4cb8-b438-129bfa1302ab/print/"
+  },
+  {
+   "filing_uuid": "3754d07c-7ecc-4531-85c0-e4c3de7642a6",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T11:56:11-04:00",
+   "amount": 16480000.0,
+   "registrant": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "client": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "url": "https://lda.gov/filings/public/filing/3754d07c-7ecc-4531-85c0-e4c3de7642a6/print/"
+  },
+  {
+   "filing_uuid": "35c1e8ac-d665-4da5-a200-7f3f47f206e1",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T13:18:49-04:00",
+   "amount": 2180000.0,
+   "registrant": "AMERICAN PETROLEUM INSTITUTE",
+   "client": "AMERICAN PETROLEUM INSTITUTE",
+   "url": "https://lda.gov/filings/public/filing/35c1e8ac-d665-4da5-a200-7f3f47f206e1/print/"
+  },
+  {
+   "filing_uuid": "6b2a8238-a12d-4cce-bc5f-27d434297b98",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T14:20:31-04:00",
+   "amount": 142000.0,
+   "registrant": "EARTHJUSTICE ACTION",
+   "client": "EARTHJUSTICE ACTION",
+   "url": "https://lda.gov/filings/public/filing/6b2a8238-a12d-4cce-bc5f-27d434297b98/print/"
+  },
+  {
+   "filing_uuid": "a59c10fd-df59-40d4-a8dd-9d0d8027df19",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T19:41:56-04:00",
+   "amount": 40000.0,
+   "registrant": "BOUNDARY STONE PARTNERS",
+   "client": "STAX ENGINEERING",
+   "url": "https://lda.gov/filings/public/filing/a59c10fd-df59-40d4-a8dd-9d0d8027df19/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}

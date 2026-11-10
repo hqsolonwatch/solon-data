@@ -1,0 +1,109 @@
+{
+ "bill": "hjres131-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "report_count": 4,
+ "clients": [
+  {
+   "client": "AMERICAN PETROLEUM INSTITUTE",
+   "display_name": "American Petroleum Institute",
+   "reports": 1,
+   "latest_report_amount": 1920000.0,
+   "latest_report": "34b08450-8630-4593-8d17-813bbf884146",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NFIB (NATIONAL FEDERATION OF INDEPENDENT BUSINESS)",
+   "display_name": "Nfib (national Federation of Independent Business)",
+   "reports": 1,
+   "latest_report_amount": 1190000.0,
+   "latest_report": "fb0ca918-84ae-4899-8486-b1527779c11d",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "LEAGUE OF CONSERVATION VOTERS",
+   "display_name": "League of Conservation Voters",
+   "reports": 1,
+   "latest_report_amount": 280000.0,
+   "latest_report": "c4e548c4-7036-4263-8061-bb32644123cf",
+   "pac_ids": [
+    "C00252940"
+   ],
+   "pac_names": [
+    "LEAGUE OF CONSERVATION VOTERS ACTION FUND"
+   ]
+  },
+  {
+   "client": "ALASKA WILDERNESS LEAGUE ACTION",
+   "display_name": "Alaska Wilderness League Action",
+   "reports": 1,
+   "latest_report_amount": 10000.0,
+   "latest_report": "aa588362-e77b-48f3-b91d-892749aa4131",
+   "pac_ids": [],
+   "pac_names": []
+  }
+ ],
+ "groups_shown": [
+  {
+   "client": "LEAGUE OF CONSERVATION VOTERS",
+   "display_name": "League of Conservation Voters",
+   "reports": 1,
+   "latest_report_amount": 280000.0,
+   "latest_report": "c4e548c4-7036-4263-8061-bb32644123cf",
+   "pac_ids": [
+    "C00252940"
+   ],
+   "pac_names": [
+    "LEAGUE OF CONSERVATION VOTERS ACTION FUND"
+   ]
+  }
+ ],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "aa588362-e77b-48f3-b91d-892749aa4131",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-11-12T14:45:59-05:00",
+   "amount": 10000.0,
+   "registrant": "ALASKA WILDERNESS LEAGUE ACTION",
+   "client": "ALASKA WILDERNESS LEAGUE ACTION",
+   "url": "https://lda.gov/filings/public/filing/aa588362-e77b-48f3-b91d-892749aa4131/print/"
+  },
+  {
+   "filing_uuid": "34b08450-8630-4593-8d17-813bbf884146",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T13:01:30-05:00",
+   "amount": 1920000.0,
+   "registrant": "AMERICAN PETROLEUM INSTITUTE",
+   "client": "AMERICAN PETROLEUM INSTITUTE",
+   "url": "https://lda.gov/filings/public/filing/34b08450-8630-4593-8d17-813bbf884146/print/"
+  },
+  {
+   "filing_uuid": "fb0ca918-84ae-4899-8486-b1527779c11d",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T15:46:10-05:00",
+   "amount": 1190000.0,
+   "registrant": "NFIB (NATIONAL FEDERATION OF INDEPENDENT BUSINESS)",
+   "client": "NFIB (NATIONAL FEDERATION OF INDEPENDENT BUSINESS)",
+   "url": "https://lda.gov/filings/public/filing/fb0ca918-84ae-4899-8486-b1527779c11d/print/"
+  },
+  {
+   "filing_uuid": "c4e548c4-7036-4263-8061-bb32644123cf",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T18:35:41-05:00",
+   "amount": 280000.0,
+   "registrant": "LEAGUE OF CONSERVATION VOTERS",
+   "client": "LEAGUE OF CONSERVATION VOTERS",
+   "url": "https://lda.gov/filings/public/filing/c4e548c4-7036-4263-8061-bb32644123cf/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}

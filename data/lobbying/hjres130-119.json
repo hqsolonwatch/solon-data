@@ -1,0 +1,90 @@
+{
+ "bill": "hjres130-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "report_count": 3,
+ "clients": [
+  {
+   "client": "NFIB (NATIONAL FEDERATION OF INDEPENDENT BUSINESS)",
+   "display_name": "Nfib (national Federation of Independent Business)",
+   "reports": 1,
+   "latest_report_amount": 1190000.0,
+   "latest_report": "fb0ca918-84ae-4899-8486-b1527779c11d",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NATIONAL MINING ASSOCIATION",
+   "display_name": "National Mining Association",
+   "reports": 1,
+   "latest_report_amount": 640000.0,
+   "latest_report": "41eaf687-362d-45e4-8bc6-4e073403766f",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "LEAGUE OF CONSERVATION VOTERS",
+   "display_name": "League of Conservation Voters",
+   "reports": 1,
+   "latest_report_amount": 280000.0,
+   "latest_report": "c4e548c4-7036-4263-8061-bb32644123cf",
+   "pac_ids": [
+    "C00252940"
+   ],
+   "pac_names": [
+    "LEAGUE OF CONSERVATION VOTERS ACTION FUND"
+   ]
+  }
+ ],
+ "groups_shown": [
+  {
+   "client": "LEAGUE OF CONSERVATION VOTERS",
+   "display_name": "League of Conservation Voters",
+   "reports": 1,
+   "latest_report_amount": 280000.0,
+   "latest_report": "c4e548c4-7036-4263-8061-bb32644123cf",
+   "pac_ids": [
+    "C00252940"
+   ],
+   "pac_names": [
+    "LEAGUE OF CONSERVATION VOTERS ACTION FUND"
+   ]
+  }
+ ],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "fb0ca918-84ae-4899-8486-b1527779c11d",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T15:46:10-05:00",
+   "amount": 1190000.0,
+   "registrant": "NFIB (NATIONAL FEDERATION OF INDEPENDENT BUSINESS)",
+   "client": "NFIB (NATIONAL FEDERATION OF INDEPENDENT BUSINESS)",
+   "url": "https://lda.gov/filings/public/filing/fb0ca918-84ae-4899-8486-b1527779c11d/print/"
+  },
+  {
+   "filing_uuid": "41eaf687-362d-45e4-8bc6-4e073403766f",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T16:17:12-05:00",
+   "amount": 640000.0,
+   "registrant": "NATIONAL MINING ASSOCIATION",
+   "client": "NATIONAL MINING ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/41eaf687-362d-45e4-8bc6-4e073403766f/print/"
+  },
+  {
+   "filing_uuid": "c4e548c4-7036-4263-8061-bb32644123cf",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T18:35:41-05:00",
+   "amount": 280000.0,
+   "registrant": "LEAGUE OF CONSERVATION VOTERS",
+   "client": "LEAGUE OF CONSERVATION VOTERS",
+   "url": "https://lda.gov/filings/public/filing/c4e548c4-7036-4263-8061-bb32644123cf/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}

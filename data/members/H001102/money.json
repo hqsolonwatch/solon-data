@@ -1,0 +1,108 @@
+{
+ "bioguide": "H001102",
+ "name": "Mark Harris",
+ "cycle": 2026,
+ "candidate_id": "H6NC09200",
+ "summary": {
+  "receipts": 1238724.33,
+  "individual_contributions": 897255.5,
+  "pac_contributions": 250500.01,
+  "party_contributions": 750.0,
+  "candidate_contributions": 0.0,
+  "candidate_loans": 0.0,
+  "transfers_from_authorized": 86091.66,
+  "cash_on_hand": 411263.59,
+  "coverage_end": "10/14/2026"
+ },
+ "pac_contributions": [
+  {
+   "committee_id": "C00883413",
+   "name": "AMERICA'S MOUNTAIN PAC",
+   "connected_org": null,
+   "total": 8500.0
+  },
+  {
+   "committee_id": "C00081414",
+   "name": "AMERICAN SUGAR CANE LEAGUE OF USA, INC PAC",
+   "connected_org": "AMERICAN SUGAR CANE LEAGUE OF USA, INC",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00085316",
+   "name": "THE CIGNA GROUP EMPLOYEE POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE CIGNA GROUP",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00255752",
+   "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
+   "connected_org": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00502807",
+   "name": "UNITED STATES PEANUT POLITICAL ACTION COMMITTEE (US PEANUT PAC)",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00475673",
+   "name": "NATIONAL SORGHUM PRODUCERS POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL SORGHUM PRODUCERS",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00014019",
+   "name": "COMMITTEE ORGANIZED FOR THE TRADING OF COTTON PAC OF THE AMERICAN COTTON SHIPPERS ASSOCIAT",
+   "connected_org": "AMERICAN COTTON SHIPPERS ASSN",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00480863",
+   "name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. POLITICAL ACTION COMMITTEE (NSSF PAC)",
+   "connected_org": "NATIONAL SHOOTING SPORTS FOUNDATION, INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00383521",
+   "name": "INTERNATIONAL FOODSERVICE DISTRIBUTORS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "INTERNATIONAL FOODSERVICE DISTRIBUTORS ASSOCIATION",
+   "total": 1000.0
+  }
+ ],
+ "pac_by_type": [
+  {
+   "type": "Leadership PACs (run by other politicians)",
+   "total": 8500.0
+  },
+  {
+   "type": "Trade association PACs",
+   "total": 4500.0
+  },
+  {
+   "type": "Membership group PACs",
+   "total": 4000.0
+  },
+  {
+   "type": "Corporate PACs",
+   "total": 2500.0
+  },
+  {
+   "type": "Other PACs",
+   "total": 1000.0
+  }
+ ],
+ "outside_spending": {
+  "support_total": 0,
+  "oppose_total": 0,
+  "spenders": [],
+  "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
+ },
+ "detail": null,
+ "detail_fetched_ts": 0,
+ "sources": {
+  "summary": "FEC candidate summary file (weball)",
+  "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
+  "detail": "FEC API, principal campaign committee"
+ }
+}

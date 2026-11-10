@@ -1,0 +1,483 @@
+{
+ "bioguide": "C001131",
+ "name": "Greg Casar",
+ "cycle": 2026,
+ "candidate_id": "H2TX35144",
+ "summary": {
+  "receipts": 1382791.38,
+  "individual_contributions": 1028401.32,
+  "pac_contributions": 304220.0,
+  "party_contributions": 0.0,
+  "candidate_contributions": 0.0,
+  "candidate_loans": 0.0,
+  "transfers_from_authorized": 40050.0,
+  "cash_on_hand": 544085.42,
+  "coverage_end": "10/14/2026"
+ },
+ "pac_contributions": [
+  {
+   "committee_id": "C00344325",
+   "name": "POLITICAL ACTION COMMITTEE OF THE INTERNATIONAL ALLIANCE OF THEATRICAL STAGE EMPLOYEES",
+   "connected_org": "INTERNATIONAL ALLIANCE OF THEATRICAL STAGE EMPLOYEES",
+   "total": 12500.0
+  },
+  {
+   "committee_id": "C00342907",
+   "name": "MIDWEST REGION LABORERS' POLITICAL LEAGUE",
+   "connected_org": "LABORERS' INTERNATIONAL UNION, MIDWEST REGION",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00003251",
+   "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+   "connected_org": "NATIONAL EDUCATION ASSOCIATION",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00007542",
+   "name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+   "connected_org": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00011114",
+   "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+   "connected_org": "AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES, AFL-CIO",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00461418",
+   "name": "NATIONAL UNION OF HEALTHCARE WORKERS FEDERAL COMMITTEE ON POLITICAL EDUCATION",
+   "connected_org": "NATIONAL UNION OF HEALTHCARE WORKERS",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00004036",
+   "name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+   "connected_org": "SERVICE EMPLOYEES INTERNATIONAL UNION",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00028860",
+   "name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+   "connected_org": null,
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00002469",
+   "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+   "connected_org": "INTERNATIONAL ASSOCIATION OF MACHINISTS AND AEROSPACE WORKERS",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00002840",
+   "name": "UAW - V - CAP (UAW VOLUNTARY COMMUNITY ACTION PROGRAM) 'INT'L UNION UNITED AUTOMOBILE AEROSPACE & AGRICULTURAL IMPLEMENT WORKERS OF AMERICA UAW",
+   "connected_org": "INT'L UNION UNITED AUTOMOBILE AEROSPACE & AGRICULTURAL IMPLEMENT WORKERS OF AMERICA UAW",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00383950",
+   "name": "NATIONAL ELEVATOR CONSTRUCTORS PAC/ INTN'L  UNION OF ELEVATOR CONSTRUCTORS (NEC PAC)",
+   "connected_org": "INT'L UNION OF ELEVATOR CONSTRUCTORS",
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00035451",
+   "name": "AIR LINE PILOTS ASSOCIATION PAC",
+   "connected_org": "AIR LINE PILOTS ASSOCIATION",
+   "total": 6000.0
+  },
+  {
+   "committee_id": "C00004861",
+   "name": "UNITE HERE TIP CAMPAIGN COMMITTEE",
+   "connected_org": "UNITE HERE",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00001016",
+   "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+   "connected_org": "UNITED BROTHERHOOD OF CARPENTERS AND JOINERS OF AMERICA",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00032995",
+   "name": "AMALGAMATED TRANSIT UNION - COPE",
+   "connected_org": "AMALGAMATED TRANSIT UNION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00238725",
+   "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+   "connected_org": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00008268",
+   "name": "TRANSPORT WORKERS UNION OF AMERICA POLITICAL CONTRIBUTIONS COMMITTEE",
+   "connected_org": "TRANSPORT WORKERS UNION OF AMERICA",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00009936",
+   "name": "AMERICAN FEDERATION OF GOVT. EMPL. POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN FEDERATION OF GOV'T EMPLOYEES",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00764233",
+   "name": "DEFEND THE VOTE",
+   "connected_org": "DEFEND THE VOTE LEADERSHIP FUND",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00806893",
+   "name": "JANE FONDA CLIMATE PAC",
+   "connected_org": "KEEP THE 49TH CLIMATE ACTION FUND",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00027342",
+   "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+   "connected_org": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00024521",
+   "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+   "connected_org": "AMERICAN ASSOCIATION FOR JUSTICE (AAJ)",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00002089",
+   "name": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+   "connected_org": "COMMUNICATIONS WORKERS OF AMERICA",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00002766",
+   "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00760827",
+   "name": "DEMAND JUSTICE PAC",
+   "connected_org": "NONE",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00032979",
+   "name": "D.R.I.V.E. - DEM, REP, IND VOTER ED (THE PAC OF THE INT'L BRHD OF TEAMSTERS)",
+   "connected_org": "INTERNATIONAL BROTHERHOOD OF TEAMSTERS",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00741371",
+   "name": "ROOTED IN COMMUNITY LEADERSHIP PAC",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00029504",
+   "name": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC)/INTERNATIONAL UNION OF OPERATING ENGINEERS",
+   "connected_org": "INTERNATIONAL UNION OF OPERATING ENGINEERS LOCAL 965 PEF",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00027359",
+   "name": "INT'L ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCING IRON WORKERS (IPAL)",
+   "connected_org": "INT'L ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCING IRON WORKERS",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00072025",
+   "name": "NATIONAL RURAL LETTER CARRIERS' ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL RURAL LETTER CARRIERS' ASSOCIATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00341396",
+   "name": "MOVEON.ORG POLITICAL ACTION",
+   "connected_org": "NONE",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00012476",
+   "name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA)",
+   "connected_org": "PLUMBERS & STEAMFITTERS LOCAL 22 PAC INC",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00786822",
+   "name": "MAXWELL ALEJANDRO FROST FOR CONGRESS",
+   "connected_org": "BLUE TO THE FUTURE",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00005157",
+   "name": "INTERNATIONAL BROTHERHOOD OF BOILERMAKERS CAMPAIGN ASSISTANCE FUND",
+   "connected_org": "INTERNATIONAL BROTHERHOOD OF BOILERMAKERS, IRON SHIP BUILDERS, BLACKSMITH, FORGERS & HELPE",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00686832",
+   "name": "WAY TO LEAD PAC",
+   "connected_org": null,
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00823773",
+   "name": "JUSTICE LEAGUE PAC",
+   "connected_org": null,
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00252940",
+   "name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+   "connected_org": "LEAGUE OF CONSERVATION VOTERS, INC",
+   "total": 3050.0
+  },
+  {
+   "committee_id": "C00107128",
+   "name": "NATIONAL TREASURY EMPLOYEES UNION POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00573261",
+   "name": "END CITIZENS UNITED",
+   "connected_org": "LET AMERICA VOTE PAC",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00007880",
+   "name": "AMERICA'S CREDIT UNIONS PAC",
+   "connected_org": "AMERICA'S CREDIT UNIONS",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00630665",
+   "name": "JUSTICE DEMOCRATS PAC",
+   "connected_org": "NONE",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00091561",
+   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
+   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00024968",
+   "name": "AMERICAN OPTOMETRIC ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN OPTOMETRIC ASSOCIATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00581785",
+   "name": "SUSTAINABLE ENERGY AND ENVIRONMENT COALITION PAC (SEEC PAC)",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00099234",
+   "name": "BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN PAC FUND",
+   "connected_org": "INTERNATIONAL BROTHERHOOD OF TEAMSTERS - DRIVE",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00441949",
+   "name": "JSTREETPAC",
+   "connected_org": "J STREET",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00573253",
+   "name": "BEND THE ARC JEWISH ACTION INC. PAC",
+   "connected_org": "BEND THE ARC JEWISH ACTION, INC.",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00403881",
+   "name": "AMERICAN COLLEGE OF PHYSICIAN SERVICES INC PAC; AKA ACP SERVICES PAC",
+   "connected_org": "AMERICAN COLLEGE OF PHYSICIAN SERVICES, INC",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00286807",
+   "name": "PROFESSIONAL AVIATION SAFETY SPECIALISTS PAC",
+   "connected_org": "PROFESSIONAL AVIATION SAFETY SPECIALISTS",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00424382",
+   "name": "HUSCH BLACKWELL POLITICAL ACTION COMMITTEE",
+   "connected_org": "NONE",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00894881",
+   "name": "DEMOCRATS WIN FUND",
+   "connected_org": "DEMOCRATS WIN FUND ACTION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00100404",
+   "name": "UNITED POSTMASTERS AND MANAGERS OF AMERICA POLITICAL FUND",
+   "connected_org": "NATIONAL ASSOCIATION OF POSTMASTERS OF THE UNITED STATES",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00010322",
+   "name": "AMERICAN POSTAL WORKERS UNION COMMITTEE ON POLITICAL ACTION",
+   "connected_org": "AMERICAN POSTAL WORKERS UNION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00446237",
+   "name": "NATIONAL NURSES UNITED PAC - A FUND FOR A HEALTHY AMERICA",
+   "connected_org": "NATIONAL NURSES UNITED",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00411611",
+   "name": "SECURE PAC",
+   "connected_org": "THOMPSON",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00393728",
+   "name": "TEXAS ASSOCIATION FOR HOME CARE & HOSPICE, INC. TEXAS HOME CARE & HOSPICE PAC- FEDERAL",
+   "connected_org": "TEXAS ASSOCIATION FOR HOME CARE & HOSPICE, INC. TEXAS HOME CARE & HOSPICE PAC- FEDERAL",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00022343",
+   "name": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
+   "connected_org": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00029447",
+   "name": "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC",
+   "connected_org": "INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00013342",
+   "name": "UNITED MINE WORKERS OF AMERICA - COAL MINERS POLITICAL ACTION COMMITTEE",
+   "connected_org": "UNITED MINE WORKERS OF AMERICA - COAL MINERS POLITICAL ACTION COMMITTEE",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00664318",
+   "name": "DEMOCRACY SUMMER LEADERSHIP PAC",
+   "connected_org": "RASKIN",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00830182",
+   "name": "YINZER PAC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00913012",
+   "name": "DEMOCRATIC ACTION NETWORK",
+   "connected_org": "NONE",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00106146",
+   "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+   "connected_org": "AMERICAN HOSPITAL ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00003160",
+   "name": "NORTH AMERICA'S BUILDING TRADES UNIONS POLITICAL EDUCATIONAL FUND",
+   "connected_org": "NORTH AMERICA'S BUILDING TRADES UNIONS POLITICAL EDUCATIONAL FUND",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00151019",
+   "name": "NATIONAL FARMERS UNION PAC",
+   "connected_org": "NATIONAL FARMERS UNION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00657452",
+   "name": "DEMOCRATIC CONSERVATION ALLIANCE PAC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00104901",
+   "name": "AKIN GUMP STRAUSS HAUER & FELD LLP CIVIC ACTION COMMITTEE (AKA AKIN GUMP PAC)",
+   "connected_org": "NONE",
+   "total": 750.0
+  },
+  {
+   "committee_id": "C00199711",
+   "name": "HEALTH CARE SERVICE CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
+   "connected_org": "HEALTH CARE SERVICE CORPORATION",
+   "total": -1000.0
+  }
+ ],
+ "pac_by_type": [
+  {
+   "type": "Labor union PACs",
+   "total": 202000.0
+  },
+  {
+   "type": "Other PACs",
+   "total": 41250.0
+  },
+  {
+   "type": "Membership group PACs",
+   "total": 17550.0
+  },
+  {
+   "type": "Trade association PACs",
+   "total": 12500.0
+  },
+  {
+   "type": "Leadership PACs (run by other politicians)",
+   "total": 10500.0
+  },
+  {
+   "type": "Other candidates’ campaigns",
+   "total": 4000.0
+  },
+  {
+   "type": "Corporate PACs",
+   "total": -1000.0
+  }
+ ],
+ "outside_spending": {
+  "support_total": 37.0,
+  "oppose_total": 0.0,
+  "spenders": [
+   {
+    "committee_id": "C00776419",
+    "name": "THE PEOPLE UNITED PAC",
+    "support": 37.0,
+    "oppose": 0.0
+   }
+  ],
+  "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
+ },
+ "detail": null,
+ "detail_fetched_ts": 0,
+ "sources": {
+  "summary": "FEC candidate summary file (weball)",
+  "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
+  "detail": "FEC API, principal campaign committee"
+ }
+}

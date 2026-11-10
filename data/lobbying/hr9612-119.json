@@ -1,0 +1,340 @@
+{
+ "bill": "hr9612-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "report_count": 14,
+ "clients": [
+  {
+   "client": "CONSTELLATION ENERGY GENERATION, LLC",
+   "display_name": "Constellation Energy Generation",
+   "reports": 1,
+   "latest_report_amount": 2420000.0,
+   "latest_report": "780908cd-77ab-4680-ab28-b5d1516ce815",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "AMERICANS FOR PROSPERITY",
+   "display_name": "Americans for Prosperity",
+   "reports": 1,
+   "latest_report_amount": 660000.0,
+   "latest_report": "43ec0d1a-11ba-40cf-b00f-51ecec0c68a2",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NUCLEAR ENERGY INSTITUTE, INC",
+   "display_name": "Nuclear Energy Institute",
+   "reports": 1,
+   "latest_report_amount": 600000.0,
+   "latest_report": "70166a9f-457b-4517-a9c0-86cdb1bbed4b",
+   "pac_ids": [
+    "C00239848"
+   ],
+   "pac_names": [
+    "NUCLEAR ENERGY INSTITUTE FEDERAL POLITICAL ACTION COMMITTEE"
+   ]
+  },
+  {
+   "client": "ENTERGY SERVICES LLC",
+   "display_name": "Entergy Services",
+   "reports": 2,
+   "latest_report_amount": 570000.0,
+   "latest_report": "06dffd02-156c-4644-ab94-d663f3f728de",
+   "pac_ids": [
+    "C00363879"
+   ],
+   "pac_names": [
+    "ENTERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (ENPAC)"
+   ]
+  },
+  {
+   "client": "PINNACLE WEST CAPITAL CORPORATION",
+   "display_name": "Pinnacle West Capital",
+   "reports": 2,
+   "latest_report_amount": 340000.0,
+   "latest_report": "998c5432-fc40-44cc-baec-09c5008dbe8d",
+   "pac_ids": [
+    "C00015933"
+   ],
+   "pac_names": [
+    "PINNACLE WEST CAPITAL CORPORATION PAC"
+   ]
+  },
+  {
+   "client": "XCEL ENERGY INC",
+   "display_name": "Xcel Energy",
+   "reports": 1,
+   "latest_report_amount": 300000.0,
+   "latest_report": "7b489763-2ce9-46e3-bf28-d56bdbd8bc42",
+   "pac_ids": [
+    "C00107771"
+   ],
+   "pac_names": [
+    "XCEL ENERGY EMPLOYEE POLITICAL ACTION COMMITTEE (XPAC)"
+   ]
+  },
+  {
+   "client": "BWX TECHNOLOGIES INC",
+   "display_name": "Bwx Technologies",
+   "reports": 1,
+   "latest_report_amount": 230000.0,
+   "latest_report": "95fce933-5638-49d7-8daa-16db97b33206",
+   "pac_ids": [
+    "C00365502"
+   ],
+   "pac_names": [
+    "BWX TECHNOLOGIES, INC POLITICAL ACTION COMMITTEE"
+   ]
+  },
+  {
+   "client": "ORANO USA LLC (FORMERLY KNOWN AS AREVA NUCLEAR MATERIALS LLC)",
+   "display_name": "Orano USA Llc (formerly Known As Areva Nuclear Materials Llc)",
+   "reports": 2,
+   "latest_report_amount": 120000.0,
+   "latest_report": "170cac30-3b5d-4d31-8e4a-0fec5fb145f3",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "URENCO USA INC.",
+   "display_name": "Urenco USA",
+   "reports": 1,
+   "latest_report_amount": 110000.0,
+   "latest_report": "1b54423c-f8f6-4e44-9e58-c6e9a03115ee",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "FRAMATOME, INC. (FORMELY KNOWN AS AREVA, INC.)",
+   "display_name": "Framatome, Inc. (formely Known As Areva, Inc.)",
+   "reports": 1,
+   "latest_report_amount": 85000.0,
+   "latest_report": "de596632-c73e-4196-8a96-1d2c7c492f7e",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "THE MECHANICAL CONTRACTORS ASSOCIATION OF AMERICA)",
+   "display_name": "The Mechanical Contractors Association of America)",
+   "reports": 1,
+   "latest_report_amount": 40000.0,
+   "latest_report": "52d0e90e-782b-4056-bbb1-11e6f96f30d4",
+   "pac_ids": [],
+   "pac_names": []
+  }
+ ],
+ "groups_shown": [
+  {
+   "client": "NUCLEAR ENERGY INSTITUTE, INC",
+   "display_name": "Nuclear Energy Institute",
+   "reports": 1,
+   "latest_report_amount": 600000.0,
+   "latest_report": "70166a9f-457b-4517-a9c0-86cdb1bbed4b",
+   "pac_ids": [
+    "C00239848"
+   ],
+   "pac_names": [
+    "NUCLEAR ENERGY INSTITUTE FEDERAL POLITICAL ACTION COMMITTEE"
+   ]
+  },
+  {
+   "client": "ENTERGY SERVICES LLC",
+   "display_name": "Entergy Services",
+   "reports": 2,
+   "latest_report_amount": 570000.0,
+   "latest_report": "06dffd02-156c-4644-ab94-d663f3f728de",
+   "pac_ids": [
+    "C00363879"
+   ],
+   "pac_names": [
+    "ENTERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (ENPAC)"
+   ]
+  },
+  {
+   "client": "PINNACLE WEST CAPITAL CORPORATION",
+   "display_name": "Pinnacle West Capital",
+   "reports": 2,
+   "latest_report_amount": 340000.0,
+   "latest_report": "998c5432-fc40-44cc-baec-09c5008dbe8d",
+   "pac_ids": [
+    "C00015933"
+   ],
+   "pac_names": [
+    "PINNACLE WEST CAPITAL CORPORATION PAC"
+   ]
+  },
+  {
+   "client": "XCEL ENERGY INC",
+   "display_name": "Xcel Energy",
+   "reports": 1,
+   "latest_report_amount": 300000.0,
+   "latest_report": "7b489763-2ce9-46e3-bf28-d56bdbd8bc42",
+   "pac_ids": [
+    "C00107771"
+   ],
+   "pac_names": [
+    "XCEL ENERGY EMPLOYEE POLITICAL ACTION COMMITTEE (XPAC)"
+   ]
+  },
+  {
+   "client": "BWX TECHNOLOGIES INC",
+   "display_name": "Bwx Technologies",
+   "reports": 1,
+   "latest_report_amount": 230000.0,
+   "latest_report": "95fce933-5638-49d7-8daa-16db97b33206",
+   "pac_ids": [
+    "C00365502"
+   ],
+   "pac_names": [
+    "BWX TECHNOLOGIES, INC POLITICAL ACTION COMMITTEE"
+   ]
+  }
+ ],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "43ec0d1a-11ba-40cf-b00f-51ecec0c68a2",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-16T13:26:45-04:00",
+   "amount": 660000.0,
+   "registrant": "AMERICANS FOR PROSPERITY",
+   "client": "AMERICANS FOR PROSPERITY",
+   "url": "https://lda.gov/filings/public/filing/43ec0d1a-11ba-40cf-b00f-51ecec0c68a2/print/"
+  },
+  {
+   "filing_uuid": "9e54622d-2898-4c31-9e90-65bcf5369f38",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T14:01:00-04:00",
+   "amount": 130000.0,
+   "registrant": "ORANO USA LLC (FORMERLY KNOWN AS AREVA NUCLEAR MATERIALS LLC)",
+   "client": "ORANO USA LLC (FORMERLY KNOWN AS AREVA NUCLEAR MATERIALS LLC)",
+   "url": "https://lda.gov/filings/public/filing/9e54622d-2898-4c31-9e90-65bcf5369f38/print/"
+  },
+  {
+   "filing_uuid": "ce320739-8624-4a5d-821d-2b710249ad96",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T14:19:56-04:00",
+   "amount": 610000.0,
+   "registrant": "ENTERGY SERVICES, LLC",
+   "client": "ENTERGY SERVICES LLC",
+   "url": "https://lda.gov/filings/public/filing/ce320739-8624-4a5d-821d-2b710249ad96/print/"
+  },
+  {
+   "filing_uuid": "95fce933-5638-49d7-8daa-16db97b33206",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-14T12:14:16-04:00",
+   "amount": 230000.0,
+   "registrant": "BWX TECHNOLOGIES, INC.",
+   "client": "BWX TECHNOLOGIES INC",
+   "url": "https://lda.gov/filings/public/filing/95fce933-5638-49d7-8daa-16db97b33206/print/"
+  },
+  {
+   "filing_uuid": "52d0e90e-782b-4056-bbb1-11e6f96f30d4",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T12:35:05-04:00",
+   "amount": 40000.0,
+   "registrant": "LONGBOW PUBLIC POLICY GROUP, LLC",
+   "client": "THE MECHANICAL CONTRACTORS ASSOCIATION OF AMERICA)",
+   "url": "https://lda.gov/filings/public/filing/52d0e90e-782b-4056-bbb1-11e6f96f30d4/print/"
+  },
+  {
+   "filing_uuid": "06dffd02-156c-4644-ab94-d663f3f728de",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T09:27:22-04:00",
+   "amount": 570000.0,
+   "registrant": "ENTERGY SERVICES, LLC",
+   "client": "ENTERGY SERVICES LLC",
+   "url": "https://lda.gov/filings/public/filing/06dffd02-156c-4644-ab94-d663f3f728de/print/"
+  },
+  {
+   "filing_uuid": "998c5432-fc40-44cc-baec-09c5008dbe8d",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T10:22:39-04:00",
+   "amount": 340000.0,
+   "registrant": "PINNACLE WEST CAPITAL CORPORATION",
+   "client": "PINNACLE WEST CAPITAL CORPORATION",
+   "url": "https://lda.gov/filings/public/filing/998c5432-fc40-44cc-baec-09c5008dbe8d/print/"
+  },
+  {
+   "filing_uuid": "170cac30-3b5d-4d31-8e4a-0fec5fb145f3",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T17:21:40-04:00",
+   "amount": 120000.0,
+   "registrant": "ORANO USA LLC (FORMERLY KNOWN AS AREVA NUCLEAR MATERIALS LLC)",
+   "client": "ORANO USA LLC (FORMERLY KNOWN AS AREVA NUCLEAR MATERIALS LLC)",
+   "url": "https://lda.gov/filings/public/filing/170cac30-3b5d-4d31-8e4a-0fec5fb145f3/print/"
+  },
+  {
+   "filing_uuid": "780908cd-77ab-4680-ab28-b5d1516ce815",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T18:03:49-04:00",
+   "amount": 2420000.0,
+   "registrant": "CONSTELLATION ENERGY GENERATION, LLC",
+   "client": "CONSTELLATION ENERGY GENERATION, LLC",
+   "url": "https://lda.gov/filings/public/filing/780908cd-77ab-4680-ab28-b5d1516ce815/print/"
+  },
+  {
+   "filing_uuid": "30707fd0-19c9-4363-be1f-1efc46c827a7",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T20:01:59-04:00",
+   "amount": 270000.0,
+   "registrant": "PINNACLE WEST CAPITAL CORPORATION",
+   "client": "PINNACLE WEST CAPITAL CORPORATION",
+   "url": "https://lda.gov/filings/public/filing/30707fd0-19c9-4363-be1f-1efc46c827a7/print/"
+  },
+  {
+   "filing_uuid": "7b489763-2ce9-46e3-bf28-d56bdbd8bc42",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T14:33:33-04:00",
+   "amount": 300000.0,
+   "registrant": "XCEL ENERGY, INC",
+   "client": "XCEL ENERGY INC",
+   "url": "https://lda.gov/filings/public/filing/7b489763-2ce9-46e3-bf28-d56bdbd8bc42/print/"
+  },
+  {
+   "filing_uuid": "70166a9f-457b-4517-a9c0-86cdb1bbed4b",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T17:40:06-04:00",
+   "amount": 600000.0,
+   "registrant": "NUCLEAR ENERGY INSTITUTE, INC.",
+   "client": "NUCLEAR ENERGY INSTITUTE, INC",
+   "url": "https://lda.gov/filings/public/filing/70166a9f-457b-4517-a9c0-86cdb1bbed4b/print/"
+  },
+  {
+   "filing_uuid": "de596632-c73e-4196-8a96-1d2c7c492f7e",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-16T08:29:49-04:00",
+   "amount": 85000.0,
+   "registrant": "FRAMATOME, INC. (FORMELY KNOWN AS AREVA, INC.)",
+   "client": "FRAMATOME, INC. (FORMELY KNOWN AS AREVA, INC.)",
+   "url": "https://lda.gov/filings/public/filing/de596632-c73e-4196-8a96-1d2c7c492f7e/print/"
+  },
+  {
+   "filing_uuid": "1b54423c-f8f6-4e44-9e58-c6e9a03115ee",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T08:37:14-04:00",
+   "amount": 110000.0,
+   "registrant": "URENCO USA INC.",
+   "client": "URENCO USA INC.",
+   "url": "https://lda.gov/filings/public/filing/1b54423c-f8f6-4e44-9e58-c6e9a03115ee/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}

@@ -1,0 +1,149 @@
+{
+ "bioguide": "N000147",
+ "name": "Eleanor Holmes Norton",
+ "cycle": 2026,
+ "candidate_id": "H0DC00058",
+ "summary": {
+  "receipts": 53774.8,
+  "individual_contributions": 1774.8,
+  "pac_contributions": 12000.0,
+  "party_contributions": 0.0,
+  "candidate_contributions": 0.0,
+  "candidate_loans": 40000.0,
+  "transfers_from_authorized": 0.0,
+  "cash_on_hand": 0.0,
+  "coverage_end": "01/25/2026"
+ },
+ "pac_contributions": [
+  {
+   "committee_id": "C00032995",
+   "name": "AMALGAMATED TRANSIT UNION - COPE",
+   "connected_org": "AMALGAMATED TRANSIT UNION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00002881",
+   "name": "TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC.",
+   "connected_org": "AMERICAN TRUCKING ASSOCIATIONS INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00335091",
+   "name": "TRANSPORTATION INTERMEDIARIES ASSOCIATION'S TIAPAC",
+   "connected_org": "TRANSPORTATION INTERMEDIARIES ASSOCIATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00008268",
+   "name": "TRANSPORT WORKERS UNION OF AMERICA POLITICAL CONTRIBUTIONS COMMITTEE",
+   "connected_org": "TRANSPORT WORKERS UNION OF AMERICA",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00101766",
+   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
+   "connected_org": "UNITED AIRLINES, INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00030718",
+   "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL ASSOCIATION OF REALTORS",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00186288",
+   "name": "VERIZON COMMUNICATIONS, INC. POLITICAL ACTION COMMITTEE (VERIZON PAC)",
+   "connected_org": null,
+   "total": 1000.0
+  }
+ ],
+ "pac_by_type": [
+  {
+   "type": "Trade association PACs",
+   "total": 5000.0
+  },
+  {
+   "type": "Labor union PACs",
+   "total": 4000.0
+  },
+  {
+   "type": "Corporate PACs",
+   "total": 2000.0
+  },
+  {
+   "type": "Membership group PACs",
+   "total": 1000.0
+  }
+ ],
+ "outside_spending": {
+  "support_total": 0,
+  "oppose_total": 0,
+  "spenders": [],
+  "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
+ },
+ "detail": {
+  "committee_id": "C00244335",
+  "committee_name": "CITIZENS FOR ELEANOR HOLMES NORTON",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-01-25T00:00:00",
+  "receipts": 53774.8,
+  "amounts": {
+   "individuals_200_or_less": 774.8,
+   "individuals_over_200": 1000.0,
+   "pacs_and_parties": 12000.0,
+   "candidate_own": 40000.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    2
+   ],
+   [
+    "Individuals giving more than $200",
+    2
+   ],
+   [
+    "PACs and party committees",
+    22
+   ],
+   [
+    "Candidate’s own money",
+    74
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1000.0,
+   "home_state": "DC",
+   "home_state_total": 0.0,
+   "home_state_share": 0,
+   "top": [
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 1000.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "TGV ROCKETS",
+     "total": 1000.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794319828.5573218,
+ "sources": {
+  "summary": "FEC candidate summary file (weball)",
+  "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
+  "detail": "FEC API, principal campaign committee"
+ }
+}

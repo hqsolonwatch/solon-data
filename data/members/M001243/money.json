@@ -1,0 +1,1270 @@
+{
+ "bioguide": "M001243",
+ "name": "David McCormick",
+ "cycle": 2026,
+ "candidate_id": "S2PA00661",
+ "summary": {
+  "receipts": 6695301.67,
+  "individual_contributions": 3607263.67,
+  "pac_contributions": 779750.0,
+  "party_contributions": 0.0,
+  "candidate_contributions": 0.0,
+  "candidate_loans": 0.0,
+  "transfers_from_authorized": 2065136.12,
+  "cash_on_hand": 1898382.49,
+  "coverage_end": "09/30/2026"
+ },
+ "pac_contributions": [
+  {
+   "committee_id": "C00336743",
+   "name": "ASIAN AMERICAN HOTEL OWNERS ASSOCIATION PAC (AAHOA PAC)",
+   "connected_org": "ASIAN AMERICAN HOTEL OWNERS ASSOCIATION",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00432252",
+   "name": "REGIONS FINANCIAL CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "REGIONS FINANCIAL CORPORATION",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00228106",
+   "name": "PPL CORPORATION PEOPLE FOR GOOD GOVERNMENT",
+   "connected_org": "LG&E - KU POLITICAL ACTION COMMITTEE",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00354548",
+   "name": "AMERICAN WATER WORKS COMPANY, INC. EMPLOYEE FEDERAL PAC",
+   "connected_org": null,
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00284885",
+   "name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE HOME DEPOT INC.",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00479899",
+   "name": "WOOLPERT, INC. PAC",
+   "connected_org": "WOOLPERT, INC.",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00029447",
+   "name": "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC",
+   "connected_org": "INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00051979",
+   "name": "NISOURCE INC. PAC",
+   "connected_org": "NISOURCE INC.",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00141218",
+   "name": "EXELON CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "EXELON CORPORATION",
+   "total": 9500.0
+  },
+  {
+   "committee_id": "C00501106",
+   "name": "ALCOA CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 9000.0
+  },
+  {
+   "committee_id": "C00306894",
+   "name": "MANAGED FUNDS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "MANAGED FUNDS ASSOCIATION",
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00497917",
+   "name": "DEPOSITORY TRUST AND CLEARING CORPORATION PAC - DTCC PAC; THE",
+   "connected_org": "THE DEPOSITORY TRUST AND CLEARING CORPORATION",
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00105981",
+   "name": "INVESTMENT COMPANY INSTITUTE POLITICAL ACTION COMMITTEE (ICI PAC)",
+   "connected_org": "INVESTMENT COMPANY INSTITUTE",
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00363879",
+   "name": "ENTERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (ENPAC)",
+   "connected_org": "ENTERGY CORPORATION",
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00489302",
+   "name": "SUNRUN INC POLITICAL ACTION COMMITTEE (SUNRUN PAC)",
+   "connected_org": "SUNRUN INC.",
+   "total": 7000.0
+  },
+  {
+   "committee_id": "C00226548",
+   "name": "VISTRA EMPLOYEE POLITICAL ACTION COMMITTEE OF VISTRA CORP.",
+   "connected_org": "VISTRA CORP.",
+   "total": 7000.0
+  },
+  {
+   "committee_id": "C00906669",
+   "name": "NESTPOINT PAC",
+   "connected_org": "NESTPOINT",
+   "total": 7000.0
+  },
+  {
+   "committee_id": "C00488882",
+   "name": "U.S. BANCORP FEDERAL POLITICAL ACTION COMMITTEE",
+   "connected_org": "U.S. BANCORP",
+   "total": 6500.0
+  },
+  {
+   "committee_id": "C00390583",
+   "name": "BHFS-E, PC PAC (BROWNSTEIN HYATT FARBER SCHRECK POLITICAL ACTION COMMITTEE)",
+   "connected_org": "BHFS-E, PC",
+   "total": 6500.0
+  },
+  {
+   "committee_id": "C00147066",
+   "name": "AMERICAN COUNCIL OF LIFE INSURERS POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN COUNCIL OF LIFE INSURERS",
+   "total": 6500.0
+  },
+  {
+   "committee_id": "C00307249",
+   "name": "CITIZENS FINANCIAL GROUP, INC. POLITICAL ACTION COMMITTEE (CITIZENS PAC)",
+   "connected_org": "CITIZENS FINANCIAL GROUP, INC.",
+   "total": 6000.0
+  },
+  {
+   "committee_id": "C00874982",
+   "name": "FRANKLIN TEMPLETON INC. POLITICAL ACTION COMMITTEE (FRANKLIN TEMPLETON PAC",
+   "connected_org": "FRANKLIN TEMPLETON INC.",
+   "total": 6000.0
+  },
+  {
+   "committee_id": "C00408138",
+   "name": "BENTLEY SYSTEMS, INCORPORATED FEDERAL PAC",
+   "connected_org": "BENTLEY SYSTEMS, INCORPORATED",
+   "total": 6000.0
+  },
+  {
+   "committee_id": "C00239780",
+   "name": "PHILIPS NORTH AMERICA LLC POLITICAL ACTION COMMITTEE",
+   "connected_org": "PHILIPS NORTH AMERICA LLC",
+   "total": 5500.0
+  },
+  {
+   "committee_id": "C00033779",
+   "name": "THE REAL ESTATE ROUNDTABLE POLITICAL ACTION COMMITTEE (REALPAC)",
+   "connected_org": "THE REAL ESTATE ROUNDTABLE",
+   "total": 5500.0
+  },
+  {
+   "committee_id": "C00374066",
+   "name": "SMITH & NEPHEW, INC. PAC (S+N PAC)",
+   "connected_org": "NONE",
+   "total": 5500.0
+  },
+  {
+   "committee_id": "C00400929",
+   "name": "CENCORA, INC. PAC",
+   "connected_org": "CENCORA, INC.",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00793711",
+   "name": "CONSTELLATION ENERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (CEPAC)",
+   "connected_org": "CONSTELLATION ENERGY CORPORATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00121368",
+   "name": "EXXON MOBIL CORPORATION POLITICAL ACTION COMMITTEE (EXXONMOBIL PAC)",
+   "connected_org": "EXXON MOBIL CORPORATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00660902",
+   "name": "CNX RESOURCES CORPORATION POLITICAL ACTION COMMITTEE (CNX PAC)",
+   "connected_org": "CNX RESOURCES",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00312785",
+   "name": "SWISHER INTERNATIONAL INC PAC FUND",
+   "connected_org": "SWISHER INTERNATIONAL INC",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00030676",
+   "name": "UNITED STATES STEEL CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "UNITED STATES STEEL CORPORATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00107235",
+   "name": "PRICEWATERHOUSECOOPERS POLITICAL ACTION COMMITTEE I",
+   "connected_org": "NONE",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00496307",
+   "name": "MARATHON PETROLEUM CORPORATION EMPLOYEES POLITICAL ACTION COMMITTEE (MPAC)",
+   "connected_org": "MARATHON PETROLEUM CORPORATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00483677",
+   "name": "AMERICAN PETROLEUM INSTITUTE POLITICAL ACTION COMMITTEE (API PAC)",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00400333",
+   "name": "INTERDIGITAL, INC., PAC",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00097865",
+   "name": "NATSO INC. NATSO PAC",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00327072",
+   "name": "SANTANDER HOLDINGS USA INC. PAC (SANTANDER US PAC)",
+   "connected_org": "SANTANDER HOLDINGS USA INC.",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00337626",
+   "name": "MORGAN STANLEY POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00033704",
+   "name": "FMC CORPORATION GOOD GOVERNMENT PROGRAM",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00085316",
+   "name": "THE CIGNA GROUP EMPLOYEE POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE CIGNA GROUP",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00003855",
+   "name": "NATIONAL CONFECTIONERS ASSOCIATION OF THE UNITED STATES, INC. POLITICAL ACTION COMMITTEE (CANDY PAC)",
+   "connected_org": "NATIONAL CONFECTIONERS ASSOCIATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00479998",
+   "name": "TENASKA INC EMPLOYEES POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00570945",
+   "name": "E-PAC",
+   "connected_org": "STEFANIK",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00164145",
+   "name": "UNITED SERVICES AUTOMOBILE ASSOCIATION EMPLOYEE PAC - USAA EMPLOYEE PAC",
+   "connected_org": "UNITED SERVICES AUTOMOBILE ASSOCIATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00008474",
+   "name": "CITIGROUP INC. PAC - FEDERAL (CITI PAC - FEDERAL)",
+   "connected_org": "CITIGROUP INC.",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00266585",
+   "name": "GREENBERG TRAURIG, P.A. PAC",
+   "connected_org": "GREENBERG TRAURIG P.A.",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00170258",
+   "name": "NATIONAL ASSOCIATION OF MUTUAL INSURANCE COMPANIES PAC",
+   "connected_org": "NATIONAL ASSOCIATION OF MUTUAL INSURANCE COMPANIES",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00302844",
+   "name": "HIGHMARK PAC OF HIGHMARK INC.",
+   "connected_org": "HIGHMARK INC.",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00410407",
+   "name": "EDJ HOLDING COMPANY, INC. POLITICAL ACTION COMMITTEE (EDWARD JONES PAC)",
+   "connected_org": "EDJ HOLDING COMPANY, INC.",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00312777",
+   "name": "COZEN O'CONNOR POLITICAL ACTION COMMITTEE",
+   "connected_org": "COZEN O'CONNOR",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00780304",
+   "name": "ROBINHOOD MARKETS, INC. PAC",
+   "connected_org": "ROBINHOOD MARKETS, INC",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00783167",
+   "name": "WORKING FOR OHIO",
+   "connected_org": "VANCE",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00252338",
+   "name": "AMERICAN CHEMISTRY COUNCIL PAC",
+   "connected_org": "AMERICAN CHEMISTRY COUNCIL",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00107680",
+   "name": "WATSON LAND CO. POLITICAL ACTION COMMITTEE",
+   "connected_org": "WATSON LAND COMPANY",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00511444",
+   "name": "THE HARTFORD INSURANCE GROUP, INC. FEDERAL PAC (AKA HARTFORD ADVOCATES FEDERAL FUND)",
+   "connected_org": "THE HARTFORD INSURANCE GROUP, INC.",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00635615",
+   "name": "CAITHNESS SERVICES PAC",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00274431",
+   "name": "UNITEDHEALTH GROUP INCORPORATED PAC (UNITEDHEALTH GROUP PAC)",
+   "connected_org": "UNITEDHEALTH GROUP INCORPORATED",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00439521",
+   "name": "AMERICAN SECURITY PAC",
+   "connected_org": "MIKE ROGERS VICTORY",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00883116",
+   "name": "STRIPE INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00200865",
+   "name": "ROAD TO FREEDOM CAMPAIGN COMMITTEE",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00680504",
+   "name": "BROADCOM INC. POLITICAL ACTION COMMITTEE (BROADCOM PAC)",
+   "connected_org": "BROADCOM INC.",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00073155",
+   "name": "KEYCORP ADVOCATES FUND",
+   "connected_org": "KEYCORP",
+   "total": 4500.0
+  },
+  {
+   "committee_id": "C00219642",
+   "name": "ENTERPRISE HOLDINGS, INC. / ENTERPRISE MOBILITY POLITICAL ACTION COMMITTEE",
+   "connected_org": "ENTERPRISE HOLDINGS, INC.",
+   "total": 4500.0
+  },
+  {
+   "committee_id": "C00477653",
+   "name": "COX ENTERPRISES PAC (COXPAC) INC.",
+   "connected_org": null,
+   "total": 4500.0
+  },
+  {
+   "committee_id": "C00127779",
+   "name": "PRUDENTIAL FINANCIAL INC. FEDERAL POLITICAL ACTION COMMITTEE (AKA - PRUDENTIAL FEDERAL PAC)",
+   "connected_org": "PRUDENTIAL FINANCIAL, INC.",
+   "total": 4500.0
+  },
+  {
+   "committee_id": "C00245548",
+   "name": "NATIONAL MARINE MANUFACTURERS ASSOCIATION AND MARINE RETAILERS ASSOCIATION BOAT PAC",
+   "connected_org": "NATIONAL MARINE MANUFACTURERS ASSOCIATION",
+   "total": 4500.0
+  },
+  {
+   "committee_id": "C00153577",
+   "name": "ERIE INDEMNITY COMPANY PAC - FEDERAL",
+   "connected_org": null,
+   "total": 4500.0
+  },
+  {
+   "committee_id": "C00448852",
+   "name": "BARCLAYS GROUP US INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "BARCLAYS GROUP US, INC.",
+   "total": 4500.0
+  },
+  {
+   "committee_id": "C00236414",
+   "name": "TRANSAMERICA CORPORATION PAC",
+   "connected_org": "TRANSAMERICA",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00695254",
+   "name": "BALLARD SPAHR LLP PAC",
+   "connected_org": null,
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00345793",
+   "name": "RELX INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "RELX INC.",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00450056",
+   "name": "INDEPENDENCE BLUE CROSS LLC PAC",
+   "connected_org": "AMERIHEALTH, INC.",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00340455",
+   "name": "ESSENTIAL UTILITIES, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "ESSENTIAL UTILITIES, INC.",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00652842",
+   "name": "ADVANSIX INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "ADVANSIX INC.",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00859017",
+   "name": "SCITECH PAC",
+   "connected_org": "NONE",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00250753",
+   "name": "AUTO CARE ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "AUTO CARE ASSOCIATION",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00431312",
+   "name": "SECURITIES INDUSTRY AND FINANCIAL MARKETS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "SECURITIES INDUSTRY AND FINANCIAL MARKETS ASSOCIATION",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00103903",
+   "name": "HDR, INC. EMPLOYEE OWNERS PAC",
+   "connected_org": "HDR, INC.",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00300178",
+   "name": "WELLS FARGO AND COMPANY EMPLOYEES GOOD GOVERNMENT FEDERAL FUND II",
+   "connected_org": "WELLS FARGO AND COMPANY",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00304477",
+   "name": "OSHKOSH CORPORATION EMPLOYEES PAC (OCEPAC)",
+   "connected_org": "OSHKOSH CORPORATION",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00254953",
+   "name": "JACKSON HOLDINGS LLC AND JACKSON NATIONAL LIFE INSURANCE COMPANY SEPARATE SEGREGATED FUND (JACKSON N",
+   "connected_org": null,
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00424838",
+   "name": "NOVO NORDISK INC. PAC (NOVO NORDISK PAC)",
+   "connected_org": null,
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00700468",
+   "name": "ASCENSUS, LLC POLITICAL ACTION COMMITTEE (ASCENSUS PAC)",
+   "connected_org": "ASCENSUS, LLC",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00040394",
+   "name": "THE WILLIAMS COMPANIES, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE WILLIAMS COMPANIES, INC.",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00035204",
+   "name": "ENERGY MARKETERS OF AMERICA SMALL BUSINESS COMMITTEE PAC (EMA SBC PAC)",
+   "connected_org": "ENERGY MARKETERS OF AMERICA SMALL BUSINESS COMMITTEE PAC (EMA SBC PAC)",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00633354",
+   "name": "STRUCTURED FINANCE COALITION, INC. POLITICAL ACTION COMMITTEE (STRUCTURED FINANCE PAC)",
+   "connected_org": "STRUCTURED FINANCE COALITION, INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00029348",
+   "name": "AMERICAN FOREST & PAPER ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00064774",
+   "name": "NEXTERA ENERGY, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "NEXTERA ENERGY, INC",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00032979",
+   "name": "D.R.I.V.E. - DEM, REP, IND VOTER ED (THE PAC OF THE INT'L BRHD OF TEAMSTERS)",
+   "connected_org": "INTERNATIONAL BROTHERHOOD OF TEAMSTERS",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00040535",
+   "name": "AMERICAN EXPRESS COMPANY POLITICAL ACTION COMMITTEE (AXPPAC)",
+   "connected_org": "AMERICAN EXPRESS COMPANY",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00165589",
+   "name": "HUNTINGTON BANCSHARES INC. POLITICAL ACTION COMMITTEE  (HBI-PAC)",
+   "connected_org": "HUNTINGTON BANCSHARES INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00350744",
+   "name": "THE GOLDMAN SACHS GROUP, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE GOLDMAN SACHS GROUP INC",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00000059",
+   "name": "HALLMARK CARDS, INC. PAC (HALLPAC)",
+   "connected_org": "HALLMARK CARDS, INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00410266",
+   "name": "THE VANGUARD GROUP COMMITTEE FOR RESPONSIBLE GOVERNMENT",
+   "connected_org": "THE VANGUARD GROUP",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00247569",
+   "name": "HEALTHCARE DISTRIBUTION ALLIANCE POLITICAL ACTION COMMITTEE",
+   "connected_org": "HEALTHCARE DISTRIBUTION ALLIANCE",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00366559",
+   "name": "NRG ENERGY INC POLITICAL ACTION COMMITTEE",
+   "connected_org": "NRG ENERGY, INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00406215",
+   "name": "NATIONWIDE MUTUAL INSURANCE COMPANY FINANCIAL & INVESTMENTS POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONWIDE",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00346361",
+   "name": "WESTINGHOUSE ELECTRIC COMPANY LLC PAC",
+   "connected_org": "WESTINGHOUSE ELECTRIC COMPANY LLC",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00161901",
+   "name": "EQUITABLE HOLDINGS, INC. POLITICAL ACTION COMMITTEE (EQUITABLE PAC)",
+   "connected_org": "EQUITABLE HOLDINGS, INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00083535",
+   "name": "DUKE ENERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (DUKEPAC)",
+   "connected_org": "DUKE ENERGY CORPORATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00104901",
+   "name": "AKIN GUMP STRAUSS HAUER & FELD LLP CIVIC ACTION COMMITTEE (AKA AKIN GUMP PAC)",
+   "connected_org": "NONE",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00194746",
+   "name": "BLUEPAC - BLUE CROSS BLUE SHIELD ASSOCIATION PAC",
+   "connected_org": "BLUE CROSS BLUE SHIELD ASSOCIATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00825653",
+   "name": "TOTAL HEALTH AND WELLNESS PAC BY NEUROFLOW, INC.",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00906776",
+   "name": "SOLAR FOR AMERICAN ENERGY DOMINACE PAC",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00235036",
+   "name": "ZURICH HOLDING COMPANY OF AMERICA, INC. COMMITTEE FOR GOOD GOVERNMENT (Z-PAC, ZURICH PAC)",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00276592",
+   "name": "INTERNATIONAL BANK OF COMMERCE COMMITTEE FOR IMPROVEMENT AND BETTERMENT OF THE COUNTRY",
+   "connected_org": "INTERNATIONAL BANK OF COMMERCE",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00431361",
+   "name": "TEACHERS INSURANCE ANNUITY ASSOCIATION OF AMERICA PAC (TIAA PAC)",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00501429",
+   "name": "TD BANK US HOLDING COMPANY POLITICAL ACTION COMMITTEE (TD BANK PAC)",
+   "connected_org": "TD BANK US HOLDING COMPANY",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00128918",
+   "name": "PRINCIPAL LIFE INSURANCE COMPANY POLITICAL ACTION COMMITTEE",
+   "connected_org": "PRINCIPAL LIFE INSURANCE COMPANY",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00104299",
+   "name": "JPMORGAN CHASE & CO. FEDERAL POLITICAL ACTION COMMITTEE",
+   "connected_org": "JPMORGAN CHASE & CO.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00158881",
+   "name": "NEW YORK LIFE INSURANCE COMPANY POLITICAL ACTION COMMITTEE",
+   "connected_org": "NEW YORK LIFE INSURANCE COMPANY",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00570226",
+   "name": "SEAL PAC SUPPORTING ELECTING AMERICAN LEADERS PAC",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00177436",
+   "name": "UNUM GROUP POLITICAL ACTION COMMITTEE (UNUMPAC)",
+   "connected_org": "UNUM GROUP",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00393173",
+   "name": "FIFTH THIRD BANCORP COMERICA INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00106740",
+   "name": "AMERICA'S HEALTH INSURANCE PLANS, INC. PAC (AHIP PAC)",
+   "connected_org": "AMERICA'S HEALTH INSURANCE PLANS, INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00367375",
+   "name": "SAP AMERICA INC PAC",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00332833",
+   "name": "CARDINAL HEALTH INC. PAC",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00686055",
+   "name": "JACKSON HOLDINGS LLC AND JACKSON NATIONAL LIFE INSURANCE COMPANY FEDERAL SSF (JACKSON NATIONAL FEDER",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00043463",
+   "name": "MANUFACTURED HOUSING INSTITUTE PAC",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00409714",
+   "name": "FINANCIAL SERVICES INSTITUTE PAC",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00589119",
+   "name": "SYNCHRONY FINANCIAL EMPLOYEES POLITICAL ACTION COMMITTEE (SYNCPAC)",
+   "connected_org": "SYNCHRONY FINANCIAL",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00116996",
+   "name": "LENNOX EMPLOYEE ADVOCACY PROGRAM LENNOX INTERNATIONAL INC",
+   "connected_org": "NONE",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00404194",
+   "name": "GENWORTH FINANCIAL, INC. POLITICAL ACTION COMMITTEE (GENWORTH PAC)",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00342766",
+   "name": "HF SINCLAIR CORPORATION POLITICAL ACTION COMMITTEE (DINO PAC)",
+   "connected_org": "HF SINCLAIR  CORPORATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00010983",
+   "name": "JOHNSON & JOHNSON POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00110577",
+   "name": "LINCOLN NATIONAL CORPORATION POLITICAL ACTION COMMITTEE (AKA LINCOLN FINANCIAL FEDERAL POLITICAL ACTION COMMITTEE, FEDERAL LFGPAC)",
+   "connected_org": "LINCOLN NATIONAL CORPORATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00034272",
+   "name": "NATIONAL CHICKEN COUNCIL POLITICAL ACTION COMMITTEE (FKA) NATIONAL BROILER COUNCIL PAC",
+   "connected_org": "NATIONAL CHICKEN COUNCIL",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00068528",
+   "name": "PACIFIC LIFE INSURANCE COMPANY POLITICAL ACTION COMMITTEE",
+   "connected_org": "PACIFIC LIFE INSURANCE COMPANY",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00225342",
+   "name": "MCGUIREWOODS FEDERAL PAC",
+   "connected_org": "NONE",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00114025",
+   "name": "NATIONAL READY MIXED CONCRETE ASSN. PAC (CONCRETEPAC)",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00918235",
+   "name": "CHIME FINANCIAL, INC. PAC (CHIME PAC)",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00611871",
+   "name": "BMO FINANCIAL CORP GOOD GOVERNANCE FUND: FEDERAL (BMO PAC)",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00002972",
+   "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
+   "connected_org": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION (NRECA)",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00507392",
+   "name": "ENCORE CAPITAL GROUP, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00217638",
+   "name": "INTERNATIONAL COUNCIL OF SHOPPING CENTERS INC POLITICAL ACTION COMMITTEE (ICSC PAC)",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00034827",
+   "name": "EATON CORPORATION PUBLIC POLICY ASSOCIATION",
+   "connected_org": "EATON CORPORATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00411900",
+   "name": "EDWARDS LIFESCIENCES POLITICAL ACTION COMMITTEE (A.K.A. EDWARDS PAC)",
+   "connected_org": "EDWARDS LIFESCIENCES",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00815704",
+   "name": "CITADEL SECURITIES POLITICAL ACTION COMMITTEE (CITADEL SECURITIES PAC)",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00817395",
+   "name": "FIFTH THIRD BANCORP FEDERAL POLITICAL ACTION COMMITTEE",
+   "connected_org": "FIFTH THIRD BANCORP POLITICAL ACTION COMMITTEE",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00494534",
+   "name": "THE BANK OF NEW YORK MELLON CORPORATION FEDERAL PAC (BNY FEDPAC)",
+   "connected_org": "THE BANK OF THE NEW YORK MELLON CORPORATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00027359",
+   "name": "INT'L ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCING IRON WORKERS (IPAL)",
+   "connected_org": "INT'L ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCING IRON WORKERS",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00074096",
+   "name": "DOW INC. PAC (DOWPAC)",
+   "connected_org": "DOW INC.",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00241380",
+   "name": "ARENTFOX SCHIFF CIVIC PARTICIPATION FUND (AFSPAC)",
+   "connected_org": "NONE",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00374447",
+   "name": "AECOM PAC",
+   "connected_org": "AECOM",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00163832",
+   "name": "CSX CORPORATION GOOD GOVERNMENT FUND",
+   "connected_org": "CSX CORPORATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00014555",
+   "name": "FOOD MARKETPLACE INC. POLITICAL ACTION COMMITTEE FMI FOODPAC",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00585885",
+   "name": "COVESTROPAC A POLITICAL ACTION COMMITTEE OF COVESTRO LLC",
+   "connected_org": "COVESTRO LLC",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00389288",
+   "name": "EXPAND ENERGY CORP. EMPLOYEE PAC",
+   "connected_org": "EXPAND ENERGY CORPORATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00238725",
+   "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+   "connected_org": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00161414",
+   "name": "PROTECTIVE LIFE CORPORATION FEDERAL POLITICAL ACTION COMMITTEE ('PROTECTIVEPAC')",
+   "connected_org": "PROTECTIVE LIFE CORPORATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00100321",
+   "name": "L3HARRIS TECHNOLOGIES, INC. PAC",
+   "connected_org": "L3HARRIS TECHNOLOGIES, INC.",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00148510",
+   "name": "WAWA, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "WAWA INC",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00072751",
+   "name": "STATE STREET BANK AND TRUST COMPANY VOLUNTARY POLITICAL ACTION COMMITTEE",
+   "connected_org": "STATE STREET BANK AND TRUST COMPANY",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00414474",
+   "name": "AMERIPRISE FINANCIAL INC. POLITICAL ACTION COMMITTEE (AMERIPRISEPAC)",
+   "connected_org": "AMERIPRISE FINANCIAL INC.",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00839340",
+   "name": "HUMANETICS CORPORATION PAC",
+   "connected_org": "HUMANETICS CORPORATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00679860",
+   "name": "ANIMAL WELLNESS ACTION PAC",
+   "connected_org": "NONE",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00882068",
+   "name": "HIMS & HERS HEALTH, INC, PAC",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00278895",
+   "name": "NELSON MULLINS RILEY & SCARBOROUGH, LLP FEDERAL POLITICAL COMMITTEE",
+   "connected_org": "NONE",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00386029",
+   "name": "HNTB HOLDINGS LTD. PAC",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00544817",
+   "name": "STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY FEDERAL POLITICAL ACTION COMMITTEE (STATE FARM FEDERAL PAC)",
+   "connected_org": "STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00551812",
+   "name": "BREAD FINANCIAL HOLDINGS, INC. PAC (AKA BREAD FINANCIAL PAC)",
+   "connected_org": "BREAD FINANCIAL HOLDINGS, INC.",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00379628",
+   "name": "NUCOR CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NUCOR CORPORATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00174227",
+   "name": "BAKER & HOSTETLER POLITICAL ACTION COMMITTEE",
+   "connected_org": "NONE",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00579540",
+   "name": "ALLY FINANCIAL INC. ADVOCACY POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00039503",
+   "name": "SHELL USA, INC. EMPLOYEE POLITICAL AWARENESS COMMITTEE",
+   "connected_org": "SHELL",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00845404",
+   "name": "WK KELLOGG CO PAC",
+   "connected_org": "WK KELLOGG CO",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00123612",
+   "name": "TEXTRON INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "BEECHCRAFT INC. POLITICAL ACTION COMMITTEE (BEECHCRAFT PAC)",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00523936",
+   "name": "IRON MOUNTAIN INCORPORATED EMPLOYEES PAC (IMPAC)",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00329185",
+   "name": "QUEST DIAGNOSTICS INCORPORATED POLITICAL ACTION COMMITTEE",
+   "connected_org": "QUEST DIAGNOSTICS INCORPORATED",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00256453",
+   "name": "REINSURANCE ASSOCIATION OF AMERICA POLITICAL ACTION COMMITTEE INC (REPAC)",
+   "connected_org": "REINSURANCE ASSOCIATION OF AMERICA",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00874297",
+   "name": "CLEANCAPITAL HOLDINGS LLC PAC",
+   "connected_org": null,
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00109306",
+   "name": "NATIONAL ASSOCIATION OF WHOLESALER-DISTRIBUTORS POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL ASSOCIATION OF WHOLESALER-DISTRIBUTORS",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00251876",
+   "name": "AMGEN INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMGEN INC.",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00140061",
+   "name": "NATIONAL EMERGENCY MEDICINE POLITICAL ACTION COMMITTEE / AMERICAN COLLEGE OF EMERGENCY PHYSICIANS",
+   "connected_org": "AMERICAN COLLEGE OF EMERGENCY PHYSICIANS",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00515148",
+   "name": "NORTHERN TRUST CORPORATION FEDERAL POLITICAL ACTION COMMITTEE (NORTHERN TRUST FEDERAL PAC)",
+   "connected_org": "NORTHERN TRUST CORPORATION",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00368993",
+   "name": "WINNING STRATEGIES WASHINGTON PAC",
+   "connected_org": "NONE",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00113159",
+   "name": "EASTMANPAC-POLITICAL ACTION COMMITTEE OF EASTMAN CHEMICAL COMPANY",
+   "connected_org": "EASTMAN CHEMICAL COMPANY",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00193177",
+   "name": "BANK POLICY INSTITUTE PAC",
+   "connected_org": "BANK POLICY INSTITUTE",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00035535",
+   "name": "CONSUMER BANKERS ASSOCIATION PAC",
+   "connected_org": "CONSUMER BANKERS ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00252684",
+   "name": "CAMBIA HEALTH SOLUTIONS INC. PAC",
+   "connected_org": "CAMBIA HEALTH SOLUTIONS INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00287003",
+   "name": "WSP USA INC. PAC",
+   "connected_org": "WSP USA INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00137265",
+   "name": "JOHN HANCOCK LIFE INSURANCE COMPANY (USA) FEDERAL POLITICAL ACTION COMMITTEE",
+   "connected_org": "JOHN HANCOCK LIFE INSURANCE COMPANY (USA)",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00804096",
+   "name": "AMHP HOLDINGS CORP. POLITICAL ACTION COMMITTEE (AMERIHEALTH CARITAS PAC)",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00717686",
+   "name": "FINANCIAL SERVICES FORUM POLITICAL ACTION COMMITTEE",
+   "connected_org": "FINANCIAL SERVICES FORUM",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00397851",
+   "name": "CENTENE CORPORATION POLITICAL ACTION COMMITTEE (CENTENE PAC)",
+   "connected_org": "CENTENE CORPORATION POLITICAL ACTION COMMITTEE (CENTENE PAC)",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00689380",
+   "name": "ARCOSA, INC. EMPLOYEE POLITICAL ACTION COMMITTEE",
+   "connected_org": "ARCOSA, INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00415026",
+   "name": "AMERICAN FUELS AND PETROCHEMICAL MANUFACTURERS ASSOCIATION POLITICAL ACTION COMMITTEE (AFPMPAC)",
+   "connected_org": "AMERICAN FUELS AND PETROCHEMICAL MANUFACTURERS ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00541078",
+   "name": "EXCELSIOR PAC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00161141",
+   "name": "GUIDEWELL MUTUAL HOLDING CORPORATION POLITICAL ACTION COMMITTEE (GUIDEWELL PAC)",
+   "connected_org": "GUIDEWELL MUTUAL HOLDING CORPORATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00447565",
+   "name": "FINSECA PAC",
+   "connected_org": "FINSECA",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00034488",
+   "name": "ANHEUSER-BUSCH COMPANIES LLC POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00344770",
+   "name": "COMPTEL PAC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00944983",
+   "name": "HUNT TO CONSERVE PAC",
+   "connected_org": "HUNT TO CONSERVE, INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00441808",
+   "name": "AMERICAN KENNEL CLUB",
+   "connected_org": "AMERICAN KENNEL CLUB INC POLITICAL ACTION COMMITTEE",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00410324",
+   "name": "UPBOUND GROUP, INC. GOOD GOVERNMENT POLITICAL ACTION COMMITTEE",
+   "connected_org": "UPBOUND GROUP, INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00083758",
+   "name": "NATIONAL FUEL GAS COMPANY FEDERAL POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL FUEL GAS COMPANY",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00009985",
+   "name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
+   "connected_org": "NATIONAL ASSOCIATION OF BROADCASTERS",
+   "total": 375.0
+  },
+  {
+   "committee_id": "C00740704",
+   "name": "CARRIER GLOBAL CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 0.0
+  },
+  {
+   "committee_id": "C00546234",
+   "name": "LEIDOS INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "LEIDOS, INC.",
+   "total": 0.0
+  },
+  {
+   "committee_id": "C00382150",
+   "name": "THE GEO GROUP, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE GEO GROUP, INC.",
+   "total": -625.0
+  },
+  {
+   "committee_id": "C00647354",
+   "name": "TEAM AMERICA - BRINGING AMERICA TOGETHER PAC",
+   "connected_org": "TEAM FITZ",
+   "total": -5000.0
+  }
+ ],
+ "pac_by_type": [
+  {
+   "type": "Corporate PACs",
+   "total": 513875.0
+  },
+  {
+   "type": "Trade association PACs",
+   "total": 99375.0
+  },
+  {
+   "type": "Other PACs",
+   "total": 38500.0
+  },
+  {
+   "type": "Labor union PACs",
+   "total": 17000.0
+  },
+  {
+   "type": "Leadership PACs (run by other politicians)",
+   "total": 16000.0
+  },
+  {
+   "type": "Membership group PACs",
+   "total": 13500.0
+  }
+ ],
+ "outside_spending": {
+  "support_total": 0,
+  "oppose_total": 0,
+  "spenders": [],
+  "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
+ },
+ "detail": null,
+ "detail_fetched_ts": 0,
+ "sources": {
+  "summary": "FEC candidate summary file (weball)",
+  "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
+  "detail": "FEC API, principal campaign committee"
+ }
+}

@@ -1,0 +1,349 @@
+{
+ "bioguide": "D000032",
+ "name": "Byron Donalds",
+ "cycle": 2026,
+ "candidate_id": "H2FL14186",
+ "summary": {
+  "receipts": 738092.0,
+  "individual_contributions": 533501.8,
+  "pac_contributions": 56800.0,
+  "party_contributions": 0.0,
+  "candidate_contributions": 0.0,
+  "candidate_loans": 0.0,
+  "transfers_from_authorized": 78531.76,
+  "cash_on_hand": 237583.34,
+  "coverage_end": "09/30/2026"
+ },
+ "pac_contributions": [
+  {
+   "committee_id": "C00690735",
+   "name": "CGCN PAC",
+   "connected_org": "NONE",
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00687558",
+   "name": "RISING PHOENIX HOLDINGS CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "RISING PHOENIX HOLDINGS CORPORATION POLITICAL ACTION COMMITTEE",
+   "total": 7000.0
+  },
+  {
+   "committee_id": "C00197749",
+   "name": "TWDC ENTERPRISES 18 CORP. EMPLOYEES PAC AKA 'THE WALT DISNEY COMPANY EMPLOYEES PAC' OR 'DISNEY PAC'",
+   "connected_org": "TWDC ENTERPRISES 18 CORP.",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00211318",
+   "name": "DELOITTE POLITICAL ACTION COMMITTEE",
+   "connected_org": "NONE",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00544817",
+   "name": "STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY FEDERAL POLITICAL ACTION COMMITTEE (STATE FARM FEDERAL PAC)",
+   "connected_org": "STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00064774",
+   "name": "NEXTERA ENERGY, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "NEXTERA ENERGY, INC",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00345132",
+   "name": "REPUBLICAN JEWISH COALITION POLITICAL ACTION COMMITTEE (RJC-PAC)",
+   "connected_org": "REPUBLICAN JEWISH COALITION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00455766",
+   "name": "THE MOSAIC COMPANY POLITICAL ACTION COMMITTEE (MOSAICPAC)",
+   "connected_org": "THE MOSAIC COMPANY",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00428623",
+   "name": "GOOGLE LLC NETPAC",
+   "connected_org": "GOOGLE LLC",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00010868",
+   "name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
+   "connected_org": "AMERICAN COUNCIL OF ENGINEERING COMPANIES",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00440453",
+   "name": "GAINWELL HOLDING CORP. POLITICAL ACTION COMMITTEE (GAINWELL PAC)",
+   "connected_org": "GAINWELL HOLDING CORP.",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00197228",
+   "name": "ELEVANCE HEALTH, INC. POLITICAL ACTION COMMITTEE (ELEVANCE HEALTH PAC)",
+   "connected_org": "ELEVANCE HEALTH, INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00589663",
+   "name": "SYSCO CORPORATION GOOD GOVERNMENT COMMITTEE",
+   "connected_org": "SYSCO CORPORATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00030718",
+   "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL ASSOCIATION OF REALTORS",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00542365",
+   "name": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC)",
+   "connected_org": "TOYOTA MOTOR NORTH AMERICA, INC",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00002972",
+   "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
+   "connected_org": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION (NRECA)",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00847178",
+   "name": "CIGAR RIGHTS OF AMERICA POLITICAL ACTION COMMITTEE (PURO PAC)",
+   "connected_org": "CIGAR RIGHTS OF AMERICA",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00582304",
+   "name": "FRIENDS OF NEAL DUNN",
+   "connected_org": "DUNN VICTORY FUND",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00336743",
+   "name": "ASIAN AMERICAN HOTEL OWNERS ASSOCIATION PAC (AAHOA PAC)",
+   "connected_org": "ASIAN AMERICAN HOTEL OWNERS ASSOCIATION",
+   "total": 0.0
+  },
+  {
+   "committee_id": "C00329425",
+   "name": "BURGER KING FRANCHISEE PAC",
+   "connected_org": "BURGER KING",
+   "total": -2000.0
+  },
+  {
+   "committee_id": "C00040998",
+   "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION",
+   "total": -2500.0
+  }
+ ],
+ "pac_by_type": [
+  {
+   "type": "Corporate PACs",
+   "total": 42000.0
+  },
+  {
+   "type": "Other PACs",
+   "total": 12500.0
+  },
+  {
+   "type": "Membership group PACs",
+   "total": 7000.0
+  },
+  {
+   "type": "Trade association PACs",
+   "total": 3500.0
+  },
+  {
+   "type": "Other candidates’ campaigns",
+   "total": 1000.0
+  }
+ ],
+ "outside_spending": {
+  "support_total": 56532.0,
+  "oppose_total": 0.0,
+  "spenders": [
+   {
+    "committee_id": "C00888867",
+    "name": "LATINOS FOR CONSERVATIVE VALUES",
+    "support": 56350.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00552851",
+    "name": "FREEDOM CAUCUS FUND",
+    "support": 182.0,
+    "oppose": 0.0
+   }
+  ],
+  "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
+ },
+ "detail": {
+  "committee_id": "C00733329",
+  "committee_name": "BYRON DONALDS FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 738092.0,
+  "amounts": {
+   "individuals_200_or_less": 323562.47,
+   "individuals_over_200": 209939.33,
+   "pacs_and_parties": 56800.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 78531.76,
+   "other_receipts": 8846.32
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    55
+   ],
+   [
+    "Individuals giving more than $200",
+    35
+   ],
+   [
+    "PACs and party committees",
+    10
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 350239.33,
+   "home_state": "FL",
+   "home_state_total": 158368.35,
+   "home_state_share": 45,
+   "top": [
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 158368.35,
+     "count": 774
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 43937.23,
+     "count": 507
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 26701.98,
+     "count": 535
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 9173.36,
+     "count": 163
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 7964.96,
+     "count": 231
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 7295.17,
+     "count": 125
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 6832.15,
+     "count": 111
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 6793.66,
+     "count": 104
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 6015.18,
+     "count": 48
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 5887.63,
+     "count": 103
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "INDELIBLE",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ANDREESSEN HOROWITZ",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "DEASON CAPITAL SERVICES",
+     "total": 6600.0,
+     "count": 2
+    },
+    {
+     "employer": "CLOTINE CAPITAL",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "ANDREESEN HOROWITZ",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "PRESIDENT",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "CORRENTE CO INC",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "INDELIBLE SOLUTIONS",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "PALANTIR TECHNOLOGIES",
+     "total": 3300.0,
+     "count": 1
+    },
+    {
+     "employer": "MICRO STAMPING CORP",
+     "total": 3300.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794319828.5573218,
+ "sources": {
+  "summary": "FEC candidate summary file (weball)",
+  "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
+  "detail": "FEC API, principal campaign committee"
+ }
+}

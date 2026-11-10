@@ -1,0 +1,65 @@
+{
+ "bioguide": "J000310",
+ "name": "Julie Johnson",
+ "cycle": 2026,
+ "candidate_id": "H4TX32089",
+ "summary": null,
+ "pac_contributions": [],
+ "pac_by_type": [],
+ "outside_spending": {
+  "support_total": 1019978.0,
+  "oppose_total": 165855.0,
+  "spenders": [
+   {
+    "committee_id": "C00550970",
+    "name": "EQUALITY PAC",
+    "support": 568785.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00744185",
+    "name": "NUESTRO PAC",
+    "support": 220000.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00751503",
+    "name": "NEW LEADERSHIP PAC",
+    "support": 0.0,
+    "oppose": 165855.0
+   },
+   {
+    "committee_id": "C00949248",
+    "name": "PRO-CHOICE MAJORITY ACTION",
+    "support": 100000.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00938589",
+    "name": "DON'T MESS WITH TX PAC",
+    "support": 65635.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00030718",
+    "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+    "support": 65503.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00235853",
+    "name": "HUMAN RIGHTS CAMPAIGN PAC",
+    "support": 55.0,
+    "oppose": 0.0
+   }
+  ],
+  "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
+ },
+ "detail": null,
+ "detail_fetched_ts": 0,
+ "sources": {
+  "summary": "FEC candidate summary file (weball)",
+  "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
+  "detail": "FEC API, principal campaign committee"
+ }
+}

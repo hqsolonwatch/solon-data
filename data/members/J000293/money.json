@@ -1,0 +1,177 @@
+{
+ "bioguide": "J000293",
+ "name": "Ron Johnson",
+ "cycle": 2026,
+ "candidate_id": "S0WI00197",
+ "summary": {
+  "receipts": 1227611.02,
+  "individual_contributions": 1115447.34,
+  "pac_contributions": 40000.0,
+  "party_contributions": 0.0,
+  "candidate_contributions": 0.0,
+  "candidate_loans": 0.0,
+  "transfers_from_authorized": 0.0,
+  "cash_on_hand": 1067075.58,
+  "coverage_end": "09/30/2026"
+ },
+ "pac_contributions": [
+  {
+   "committee_id": "C00772434",
+   "name": "PAC FOR AMERICA",
+   "connected_org": "PAC FOR AMERICA 2",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00331686",
+   "name": "FASPAC FAREWAY STORES INC PAC",
+   "connected_org": "NONE",
+   "total": 6500.0
+  },
+  {
+   "committee_id": "C00426874",
+   "name": "FEDERATION OF EXCHANGE ACCOMODATORS 1031 PAC",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00623512",
+   "name": "IN THE ARENA PAC",
+   "connected_org": "TEAM HILL",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00109017",
+   "name": "AT&T INC. EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE (AT&T EMPLOYEE FEDERAL PAC)",
+   "connected_org": "AT&T INC.",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00244863",
+   "name": "NATIONAL ROOFING CONTRACTORS ASSOCIATION ROOF PAC",
+   "connected_org": "NATIONAL ROOFING AND CONTRACTORS ASSOCIATION",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00105338",
+   "name": "FOLEY & LARDNER POLITICAL FUND, INC.",
+   "connected_org": "NONE",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00342246",
+   "name": "S. C. JOHNSON & SON, INC POLITICAL ACTION COMMITTEE",
+   "connected_org": "S.C. JOHNSON & SON, INC.",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00021295",
+   "name": "BRACEPAC",
+   "connected_org": "NONE",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00099945",
+   "name": "WEC ENERGY GROUP POLITICAL ACTION COMMITTEE",
+   "connected_org": "WEC ENERGY GROUP, INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00479998",
+   "name": "TENASKA INC EMPLOYEES POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00109306",
+   "name": "NATIONAL ASSOCIATION OF WHOLESALER-DISTRIBUTORS POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL ASSOCIATION OF WHOLESALER-DISTRIBUTORS",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00489302",
+   "name": "SUNRUN INC POLITICAL ACTION COMMITTEE (SUNRUN PAC)",
+   "connected_org": "SUNRUN INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00217638",
+   "name": "INTERNATIONAL COUNCIL OF SHOPPING CENTERS INC POLITICAL ACTION COMMITTEE (ICSC PAC)",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00558411",
+   "name": "U.S. VENTURE INC. PAC",
+   "connected_org": "US VENTURE INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00440453",
+   "name": "GAINWELL HOLDING CORP. POLITICAL ACTION COMMITTEE (GAINWELL PAC)",
+   "connected_org": "GAINWELL HOLDING CORP.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00106146",
+   "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+   "connected_org": "AMERICAN HOSPITAL ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00494559",
+   "name": "CONSERVATIVES ORGANIZED TO ADVANCE TOMORROW'S SOLUTIONS (COATS PAC)",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00493312",
+   "name": "S CORPORATION ASSOCIATION PAC (S-CORP PAC)",
+   "connected_org": "S CORPORATION ASSOCIATION",
+   "total": 0.0
+  }
+ ],
+ "pac_by_type": [
+  {
+   "type": "Corporate PACs",
+   "total": 20000.0
+  },
+  {
+   "type": "Other PACs",
+   "total": 17000.0
+  },
+  {
+   "type": "Trade association PACs",
+   "total": 11500.0
+  },
+  {
+   "type": "Leadership PACs (run by other politicians)",
+   "total": 5000.0
+  }
+ ],
+ "outside_spending": {
+  "support_total": 72238.0,
+  "oppose_total": 0.0,
+  "spenders": [
+   {
+    "committee_id": "C00448696",
+    "name": "SENATE CONSERVATIVES FUND",
+    "support": 49356.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00524181",
+    "name": "SENATE CONSERVATIVES ACTION",
+    "support": 22882.0,
+    "oppose": 0.0
+   }
+  ],
+  "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
+ },
+ "detail": null,
+ "detail_fetched_ts": 0,
+ "sources": {
+  "summary": "FEC candidate summary file (weball)",
+  "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
+  "detail": "FEC API, principal campaign committee"
+ }
+}

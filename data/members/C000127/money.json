@@ -1,0 +1,136 @@
+{
+ "bioguide": "C000127",
+ "name": "Maria Cantwell",
+ "cycle": 2026,
+ "candidate_id": "S8WA00194",
+ "summary": {
+  "receipts": 985139.34,
+  "individual_contributions": 982337.57,
+  "pac_contributions": 0.0,
+  "party_contributions": 0.0,
+  "candidate_contributions": 0.0,
+  "candidate_loans": 0.0,
+  "transfers_from_authorized": 0.0,
+  "cash_on_hand": 231954.7,
+  "coverage_end": "09/30/2026"
+ },
+ "pac_contributions": [
+  {
+   "committee_id": "C00083535",
+   "name": "DUKE ENERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (DUKEPAC)",
+   "connected_org": "DUKE ENERGY CORPORATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00009985",
+   "name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
+   "connected_org": "NATIONAL ASSOCIATION OF BROADCASTERS",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00207308",
+   "name": "AG PROCESSING INC POLITICAL ACTION COMMITTEE, AGPAC",
+   "connected_org": "AG PROCESSING INC POLITICAL ACTION COMMITTEE, AGPAC",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00005660",
+   "name": "AMERICAN ASSOCIATION OF ORAL & MAXILLOFACIAL SURGEONS POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN ASSOCIATION OF ORAL & MAXILLOFACIAL SURGEONS",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00255752",
+   "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
+   "connected_org": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS",
+   "total": 0.0
+  },
+  {
+   "committee_id": "C00364471",
+   "name": "INGRAM BARGE COMPANY POLITICAL ACTION COMMITTEE",
+   "connected_org": "INGRAM BARGE COMPANY",
+   "total": 0.0
+  },
+  {
+   "committee_id": "C00400705",
+   "name": "PUBLIX SUPER MARKETS, INC. ASSOCIATES POLITICAL ACTION COMMITTEE",
+   "connected_org": "PUBLIX SUPER MARKETS, INC.",
+   "total": 0.0
+  },
+  {
+   "committee_id": "C00635615",
+   "name": "CAITHNESS SERVICES PAC",
+   "connected_org": null,
+   "total": 0.0
+  },
+  {
+   "committee_id": "C00401083",
+   "name": "SQUIRE PATTON BOGGS POLITICAL ACTION COMMITTEE (SQUIRE PATTON BOGGS PAC)",
+   "connected_org": "SQUIRE SANDERS (US) LLP POLITICAL ACTION COMMITTEE (SQUIRE SANDERS PAC)",
+   "total": 0.0
+  },
+  {
+   "committee_id": "C00708636",
+   "name": "HOULAPAC",
+   "connected_org": "HOULAHAN",
+   "total": -1000.0
+  },
+  {
+   "committee_id": "C00128975",
+   "name": "CMHA BLOCK & PAVER PAC CONCRETE MASONRY AND HARDSCAPES VALLEY DRIVE",
+   "connected_org": null,
+   "total": -2000.0
+  },
+  {
+   "committee_id": "C00023580",
+   "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+   "connected_org": "BRANCH 193 NATIONAL ASSOCIATION OF LETTER CARRIERS POLITICAL ACTION COMMITTEE",
+   "total": -5000.0
+  },
+  {
+   "committee_id": "C00002766",
+   "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+   "connected_org": null,
+   "total": -10000.0
+  }
+ ],
+ "pac_by_type": [
+  {
+   "type": "Corporate PACs",
+   "total": 2500.0
+  },
+  {
+   "type": "Cooperative PACs",
+   "total": 1000.0
+  },
+  {
+   "type": "Other PACs",
+   "total": 1000.0
+  },
+  {
+   "type": "Trade association PACs",
+   "total": 0.0
+  },
+  {
+   "type": "Leadership PACs (run by other politicians)",
+   "total": -1000.0
+  },
+  {
+   "type": "Labor union PACs",
+   "total": -15000.0
+  }
+ ],
+ "outside_spending": {
+  "support_total": 0,
+  "oppose_total": 0,
+  "spenders": [],
+  "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
+ },
+ "detail": null,
+ "detail_fetched_ts": 0,
+ "sources": {
+  "summary": "FEC candidate summary file (weball)",
+  "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
+  "detail": "FEC API, principal campaign committee"
+ }
+}

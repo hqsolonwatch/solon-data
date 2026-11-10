@@ -1,0 +1,93 @@
+{
+ "bill": "hjres61-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "report_count": 6,
+ "clients": [
+  {
+   "client": "U.S. TIRE MANUFACTURERS ASSOCIATION",
+   "display_name": "U.s. Tire Manufacturers Association",
+   "reports": 4,
+   "latest_report_amount": 120000.0,
+   "latest_report": "969411d1-467b-47a5-a518-0cc0b6845ed6",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "CONTINENTAL AUTOMOTIVE SYSTEMS, INC.",
+   "display_name": "Continental Automotive Systems",
+   "reports": 2,
+   "latest_report_amount": 50000.0,
+   "latest_report": "87e9e7af-9123-4112-b32f-7f8d1534ac76",
+   "pac_ids": [],
+   "pac_names": []
+  }
+ ],
+ "groups_shown": [],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "dd600df6-8586-45af-aafa-a8ecff3c9d4d",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-21T12:55:15-04:00",
+   "amount": 150000.0,
+   "registrant": "U.S. TIRE MANUFACTURERS ASSOCIATION",
+   "client": "U.S. TIRE MANUFACTURERS ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/dd600df6-8586-45af-aafa-a8ecff3c9d4d/print/"
+  },
+  {
+   "filing_uuid": "d09de5c8-95c4-41c7-bf6c-ad0da478dd19",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T20:17:56-04:00",
+   "amount": 50000.0,
+   "registrant": "CONTINENTAL TIRE THE AMERICAS, LLC",
+   "client": "CONTINENTAL AUTOMOTIVE SYSTEMS, INC.",
+   "url": "https://lda.gov/filings/public/filing/d09de5c8-95c4-41c7-bf6c-ad0da478dd19/print/"
+  },
+  {
+   "filing_uuid": "77dc08e1-406a-4411-95b6-efc37e0c8147",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-08-06T09:35:10-04:00",
+   "amount": 160000.0,
+   "registrant": "U.S. TIRE MANUFACTURERS ASSOCIATION",
+   "client": "U.S. TIRE MANUFACTURERS ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/77dc08e1-406a-4411-95b6-efc37e0c8147/print/"
+  },
+  {
+   "filing_uuid": "63d4a89e-bc35-47c9-a40d-77bfd40d3e59",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-16T14:04:55-04:00",
+   "amount": 140000.0,
+   "registrant": "U.S. TIRE MANUFACTURERS ASSOCIATION",
+   "client": "U.S. TIRE MANUFACTURERS ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/63d4a89e-bc35-47c9-a40d-77bfd40d3e59/print/"
+  },
+  {
+   "filing_uuid": "87e9e7af-9123-4112-b32f-7f8d1534ac76",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T18:49:53-04:00",
+   "amount": 50000.0,
+   "registrant": "CONTINENTAL TIRE THE AMERICAS, LLC",
+   "client": "CONTINENTAL AUTOMOTIVE SYSTEMS, INC.",
+   "url": "https://lda.gov/filings/public/filing/87e9e7af-9123-4112-b32f-7f8d1534ac76/print/"
+  },
+  {
+   "filing_uuid": "969411d1-467b-47a5-a518-0cc0b6845ed6",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T13:05:28-05:00",
+   "amount": 120000.0,
+   "registrant": "U.S. TIRE MANUFACTURERS ASSOCIATION",
+   "client": "U.S. TIRE MANUFACTURERS ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/969411d1-467b-47a5-a518-0cc0b6845ed6/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}

@@ -1,0 +1,662 @@
+{
+ "bioguide": "C001129",
+ "name": "Mike Collins",
+ "cycle": 2026,
+ "candidate_id": "H4GA10071",
+ "summary": {
+  "receipts": 9720156.01,
+  "individual_contributions": 6166913.52,
+  "pac_contributions": 672205.22,
+  "party_contributions": 0.0,
+  "candidate_contributions": 65000.0,
+  "candidate_loans": 0.0,
+  "transfers_from_authorized": 2774229.41,
+  "cash_on_hand": 1100945.18,
+  "coverage_end": "10/14/2026"
+ },
+ "pac_contributions": [
+  {
+   "committee_id": "C00007880",
+   "name": "AMERICA'S CREDIT UNIONS PAC",
+   "connected_org": "AMERICA'S CREDIT UNIONS",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00411116",
+   "name": "SPACE EXPLORATION TECHNOLOGIES CORP. PAC",
+   "connected_org": "SPACE EXPLORATION TECHNOLOGIES CORP.",
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00114025",
+   "name": "NATIONAL READY MIXED CONCRETE ASSN. PAC (CONCRETEPAC)",
+   "connected_org": null,
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00347989",
+   "name": "COCA-COLA BOTTLING COMPANY UNITED, INC. COMMITTEE FOR GOOD GOVERNMENT",
+   "connected_org": null,
+   "total": 6500.0
+  },
+  {
+   "committee_id": "C00027532",
+   "name": "AMERICAN MARITIME OFFICERS VOLUNTARY POLITICAL ACTION FUND",
+   "connected_org": "AMERICAN MARITIME OFFICERS",
+   "total": 5500.0
+  },
+  {
+   "committee_id": "C00479899",
+   "name": "WOOLPERT, INC. PAC",
+   "connected_org": "WOOLPERT, INC.",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00635367",
+   "name": "TENACIOUS PAC",
+   "connected_org": "CLAUDIA TENNEY FOR CONGRESS VICTORY FUND",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00078451",
+   "name": "GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GENERAL DYNAMICS EMPLOYEE PAC)",
+   "connected_org": "GENERAL DYNAMICS CORPORATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00267849",
+   "name": "ALLIED PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00238725",
+   "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+   "connected_org": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00802595",
+   "name": "OVERHAUL PAC",
+   "connected_org": "COLLINS",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00521914",
+   "name": "PRIMERICA INC POLITICAL ACTION COMMITTEE (PRIMERICA PAC)",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00797670",
+   "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00245548",
+   "name": "NATIONAL MARINE MANUFACTURERS ASSOCIATION AND MARINE RETAILERS ASSOCIATION BOAT PAC",
+   "connected_org": "NATIONAL MARINE MANUFACTURERS ASSOCIATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00877365",
+   "name": "AMERICA'S BOLD ERA PAC",
+   "connected_org": "HAMADEH",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00012468",
+   "name": "THE COCA-COLA COMPANY NONPARTISAN COMMITTEE FOR GOOD GOVERNMENT",
+   "connected_org": "THE COCA-COLA COMPANY",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00104802",
+   "name": "DELTA AIR LINES PAC",
+   "connected_org": "DELTA AIRLINES",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00284885",
+   "name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE HOME DEPOT INC.",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00822833",
+   "name": "DEFENDING THE AMERICAN DREAM PAC",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00240911",
+   "name": "JM FAMILY ENTERPRISES, INC PAC",
+   "connected_org": "JM FAMILY ENTERPRISES, INC.",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00488262",
+   "name": "NETJETS ASSOCIATION OF SHARED AIRCRAFT PILOTS PAC; NJASAP PAC",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00010868",
+   "name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
+   "connected_org": "AMERICAN COUNCIL OF ENGINEERING COMPANIES",
+   "total": 4500.0
+  },
+  {
+   "committee_id": "C00034272",
+   "name": "NATIONAL CHICKEN COUNCIL POLITICAL ACTION COMMITTEE (FKA) NATIONAL BROILER COUNCIL PAC",
+   "connected_org": "NATIONAL CHICKEN COUNCIL",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00477653",
+   "name": "COX ENTERPRISES PAC (COXPAC) INC.",
+   "connected_org": null,
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00872481",
+   "name": "PEACH STATE PAC",
+   "connected_org": null,
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00819854",
+   "name": "EL SUENO AMERICANO",
+   "connected_org": null,
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00389429",
+   "name": "CALPORTLAND COMPANY POLITICAL ACTION COMMITTEE (CALPORTLANDPAC)",
+   "connected_org": "CALPORTLAND COMPANY",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00847897",
+   "name": "GOD, FAMILY, & COUNTRY PAC",
+   "connected_org": "FAITH, HONOR, & COURAGE",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00364471",
+   "name": "INGRAM BARGE COMPANY POLITICAL ACTION COMMITTEE",
+   "connected_org": "INGRAM BARGE COMPANY",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00236778",
+   "name": "OWNER-OPERATOR INDEPENDENT DRIVERS ASSN INC POLITICAL ACTION COMMITTEE (AKA OOIDA-PAC)",
+   "connected_org": "OWNER OPERATOR INDEPENDENT DRIVERS ASSOCIATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00499400",
+   "name": "TRALAPAC (TRUCK RENTING AND LEASING ASSOCIATION PAC)",
+   "connected_org": "TRUCK RENTING AND LEASING ASSOCIATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00119776",
+   "name": "GEORGIA POWER COMPANY FEDERAL PAC",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00145037",
+   "name": "SOUTHERN COMPANY GAS EMPLOYEES PAC",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00002972",
+   "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
+   "connected_org": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION (NRECA)",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00002881",
+   "name": "TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC.",
+   "connected_org": "AMERICAN TRUCKING ASSOCIATIONS INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00077321",
+   "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00360669",
+   "name": "SOUTHWEST AIRLINES PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE (SWAPA PAC)",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00131185",
+   "name": "AIRCRAFT OWNERS AND PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "AIRCRAFT OWNERS & PILOTS ASSOCIATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00801696",
+   "name": "GEORGIA FARM BUREAU FEDERATION, INC. FEDERAL IMPACT FUND",
+   "connected_org": "GEORGIA FARM BUREAU FEDERATION, INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00034678",
+   "name": "AMERICAN WATERWAYS OPERATORS-PAC",
+   "connected_org": "THE AMERICAN WATERWAYS OPERATORS",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00235739",
+   "name": "BNSF RAILWAY COMPANY RAILPAC (BNSF RAILPAC)",
+   "connected_org": "BNSF RAILWAY COMPANY",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00420398",
+   "name": "BOEHRINGER INGELHEIM USA CORPORATION POLITICAL ACTION COMMITTEE (BOEHRINGER PAC)",
+   "connected_org": "BOEHRINGER INGELHEIM USA CORPORATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00749481",
+   "name": "RAPTOR PAC",
+   "connected_org": "PFLUGER VICTORY FUND",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00142711",
+   "name": "THE BOEING COMPANY PAC",
+   "connected_org": "THE BOEING COMPANY",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00068692",
+   "name": "FEDEX CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "FEDEX CORPORATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00010421",
+   "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+   "connected_org": null,
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00004879",
+   "name": "AMERICAN BUS ASSOCIATION POLITICAL ACTION COMMITTEE - BUSPAC",
+   "connected_org": null,
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00028787",
+   "name": "NATIONAL CATTLEMEN'S BEEF ASSOCIATION POLITICAL ACTION COMMITTEE (NCBA-PAC)",
+   "connected_org": "NATIONAL CATTLEMEN'S BEEF ASSOCIATION",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00401083",
+   "name": "SQUIRE PATTON BOGGS POLITICAL ACTION COMMITTEE (SQUIRE PATTON BOGGS PAC)",
+   "connected_org": "SQUIRE SANDERS (US) LLP POLITICAL ACTION COMMITTEE (SQUIRE SANDERS PAC)",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00092841",
+   "name": "GEORGIA BANKERS ASSOCIATION PAC",
+   "connected_org": "AMERICAN BANKERS ASSOCIATION BANKPAC",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00249532",
+   "name": "AMERICAN SPORTFISHING ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN SPORTFISHING ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00064766",
+   "name": "UNITED PARCEL SERVICE, INC. PAC (UPSPAC)",
+   "connected_org": "UNITED PARCEL SERVICE, INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00163832",
+   "name": "CSX CORPORATION GOOD GOVERNMENT FUND",
+   "connected_org": "CSX CORPORATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00774281",
+   "name": "DALE STRONG FOR CONGRESS",
+   "connected_org": "STRONG VICTORY FUND",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00014878",
+   "name": "GENERAL AVIATION MANUFACTURERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "GENERAL AVIATION MANUFACTURERS ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00823575",
+   "name": "HERMEUS CORPORATION PAC",
+   "connected_org": "HERMEUS CORPORATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00024349",
+   "name": "ALASKA AIR GROUP INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "ALASKA AIR GROUP INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00811034",
+   "name": "ROCKET LAB CORPORATION POLITICAL ACTION COMMITTEE (ROCKET LAB PAC)",
+   "connected_org": "ROCKET LAB CORPORATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00303024",
+   "name": "LOCKHEED MARTIN CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
+   "connected_org": "LOCKHEED MARTIN CORPORATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00425686",
+   "name": "AMERICAN CONCRETE PIPE ASSOCIATION PAC",
+   "connected_org": "AMERICAN CONCRETE PIPE ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00415026",
+   "name": "AMERICAN FUELS AND PETROCHEMICAL MANUFACTURERS ASSOCIATION POLITICAL ACTION COMMITTEE (AFPMPAC)",
+   "connected_org": "AMERICAN FUELS AND PETROCHEMICAL MANUFACTURERS ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00089458",
+   "name": "NATIONAL STONE, SAND & GRAVEL ASSOCIATION ROCKPAC",
+   "connected_org": "NATIONAL STONE, SAND AND GRAVEL ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00109819",
+   "name": "COALPAC, A POLITICAL ACTION COMMITTEE OF THE NATIONAL MINING ASSOCIATION",
+   "connected_org": "MINEPAC, A POLITICAL ACTION COMMITTEE OF THE NATIONAL MINING ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00341602",
+   "name": "SOUTHWEST AIRLINES CO. POLITICAL ACTION COMMITTEE (SWAPAC)",
+   "connected_org": "SOUTHWEST AIRLINES CO",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00374447",
+   "name": "AECOM PAC",
+   "connected_org": "AECOM",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00082040",
+   "name": "CHAMBER OF COMMERCE OF THE UNITED STATES OF AMERICA PAC (US CHAMBER PAC)",
+   "connected_org": "CHAMBER OF COMMERCE OF THE UNITED STATES OF AMERICA",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00481309",
+   "name": "NETJETS INC. PAC",
+   "connected_org": "BNSF RAILWAY COMPANY RAILPAC (BNSF RAILPAC)",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00030718",
+   "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL ASSOCIATION OF REALTORS",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00116020",
+   "name": "VULCAN MATERIALS COMPANY POLITICAL ACTION COMMITTEE",
+   "connected_org": "VULCAN MATERIALS COMPANY",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00114694",
+   "name": "AIRLINES FOR AMERICA (A4A) POLITICAL ACTION COMMITTEE",
+   "connected_org": "AIRLINES FOR AMERICA (A4A)",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00200865",
+   "name": "ROAD TO FREEDOM CAMPAIGN COMMITTEE",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00252338",
+   "name": "AMERICAN CHEMISTRY COUNCIL PAC",
+   "connected_org": "AMERICAN CHEMISTRY COUNCIL",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00496307",
+   "name": "MARATHON PETROLEUM CORPORATION EMPLOYEES POLITICAL ACTION COMMITTEE (MPAC)",
+   "connected_org": "MARATHON PETROLEUM CORPORATION",
+   "total": -5000.0
+  }
+ ],
+ "pac_by_type": [
+  {
+   "type": "Corporate PACs",
+   "total": 75500.0
+  },
+  {
+   "type": "Trade association PACs",
+   "total": 62000.0
+  },
+  {
+   "type": "Leadership PACs (run by other politicians)",
+   "total": 25000.0
+  },
+  {
+   "type": "Labor union PACs",
+   "total": 23000.0
+  },
+  {
+   "type": "Membership group PACs",
+   "total": 13500.0
+  },
+  {
+   "type": "Other PACs",
+   "total": 8500.0
+  },
+  {
+   "type": "Other candidates’ campaigns",
+   "total": 1000.0
+  }
+ ],
+ "outside_spending": {
+  "support_total": 0,
+  "oppose_total": 0,
+  "spenders": [],
+  "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
+ },
+ "detail": {
+  "committee_id": "C00544684",
+  "committee_name": "MIKE COLLINS FOR SENATE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 9720156.01,
+  "amounts": {
+   "individuals_200_or_less": 2315378.21,
+   "individuals_over_200": 3851535.31,
+   "pacs_and_parties": 672205.22,
+   "candidate_own": 65000.0,
+   "transfers_from_authorized": 2774229.41,
+   "other_receipts": 17256.05
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    33
+   ],
+   [
+    "Individuals giving more than $200",
+    56
+   ],
+   [
+    "PACs and party committees",
+    10
+   ],
+   [
+    "Candidate’s own money",
+    1
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 3711031.97,
+   "home_state": "GA",
+   "home_state_total": 2409840.12,
+   "home_state_share": 65,
+   "top": [
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 2409840.12,
+     "count": 3816
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 229620.54,
+     "count": 3697
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 180356.28,
+     "count": 4772
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 139703.2,
+     "count": 3034
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 58534.23,
+     "count": 809
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 48071.35,
+     "count": 745
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 44488.28,
+     "count": 961
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 43807.91,
+     "count": 633
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 40638.16,
+     "count": 1020
+    },
+    {
+     "state": "SC",
+     "state_full": "South Carolina",
+     "total": 38121.54,
+     "count": 846
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "CBP ENVIRONMENTAL",
+     "total": 42000.0,
+     "count": 12
+    },
+    {
+     "employer": "CEO",
+     "total": 24743.65,
+     "count": 11
+    },
+    {
+     "employer": "ARYLESSENCE",
+     "total": 24500.0,
+     "count": 7
+    },
+    {
+     "employer": "FARMERS AND MERCHANTS BANK",
+     "total": 21000.0,
+     "count": 9
+    },
+    {
+     "employer": "BRENT SCARBROUGH  COMPANY",
+     "total": 21000.0,
+     "count": 8
+    },
+    {
+     "employer": "POETTKER CONSTRUCTION",
+     "total": 21000.0,
+     "count": 9
+    },
+    {
+     "employer": "OWNER",
+     "total": 18273.75,
+     "count": 12
+    },
+    {
+     "employer": "BLACKSTONE",
+     "total": 17500.0,
+     "count": 5
+    },
+    {
+     "employer": "FOUTS BROS INC",
+     "total": 17500.0,
+     "count": 5
+    },
+    {
+     "employer": "PRESIDENT",
+     "total": 16000.0,
+     "count": 7
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794319828.5573218,
+ "sources": {
+  "summary": "FEC candidate summary file (weball)",
+  "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
+  "detail": "FEC API, principal campaign committee"
+ }
+}

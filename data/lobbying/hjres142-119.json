@@ -1,0 +1,253 @@
+{
+ "bill": "hjres142-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "report_count": 14,
+ "clients": [
+  {
+   "client": "NATIONAL EDUCATION ASSOCIATION",
+   "display_name": "National Education Association",
+   "reports": 1,
+   "latest_report_amount": 670000.0,
+   "latest_report": "7b89baca-d87a-4d89-9114-a147544d1867",
+   "pac_ids": [
+    "C00003251"
+   ],
+   "pac_names": [
+    "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION"
+   ]
+  },
+  {
+   "client": "NATIONAL ASSOCIATION OF WHOLESALER-DISTRIBUTORS",
+   "display_name": "National Association of Wholesaler-distributors",
+   "reports": 3,
+   "latest_report_amount": 563000.0,
+   "latest_report": "4bcc7cd8-f649-4434-ab7b-c6414244f1c1",
+   "pac_ids": [
+    "C00109306"
+   ],
+   "pac_names": [
+    "NATIONAL ASSOCIATION OF WHOLESALER-DISTRIBUTORS POLITICAL ACTION COMMITTEE"
+   ]
+  },
+  {
+   "client": "AMERICAN FEDERATION OF TEACHERS",
+   "display_name": "American Federation of Teachers",
+   "reports": 2,
+   "latest_report_amount": 410000.0,
+   "latest_report": "2671c81b-6bd7-45be-ab6b-0e91e943e629",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "FEDERAL CITY COUNCIL",
+   "display_name": "Federal City Council",
+   "reports": 1,
+   "latest_report_amount": 50000.0,
+   "latest_report": "cc1b5615-a197-4b08-9f6b-ba3c83cc342d",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "COUNCIL OF THE DISTRICT OF COLUMBIA",
+   "display_name": "Council of the District of Columbia",
+   "reports": 5,
+   "latest_report_amount": 50000.0,
+   "latest_report": "ba63070b-f3e7-4f7b-86a6-223346280c9a",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "SMALL BUSINESS & ENTREPRENEURSHIP COUNCIL (SBE COUNCIL)",
+   "display_name": "Small Business & Entrepreneurship Council (sbe Council)",
+   "reports": 1,
+   "latest_report_amount": 35000.0,
+   "latest_report": "72728b6d-a836-461b-b4ce-bdc30ce23cd2",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "CENTER FOR LAW AND SOCIAL POLICY (CLASP)",
+   "display_name": "Center for Law and Social Policy (clasp)",
+   "reports": 1,
+   "latest_report_amount": 6000.0,
+   "latest_report": "feadebbc-91a5-432b-afbf-87cfa947abab",
+   "pac_ids": [],
+   "pac_names": []
+  }
+ ],
+ "groups_shown": [
+  {
+   "client": "NATIONAL EDUCATION ASSOCIATION",
+   "display_name": "National Education Association",
+   "reports": 1,
+   "latest_report_amount": 670000.0,
+   "latest_report": "7b89baca-d87a-4d89-9114-a147544d1867",
+   "pac_ids": [
+    "C00003251"
+   ],
+   "pac_names": [
+    "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION"
+   ]
+  },
+  {
+   "client": "NATIONAL ASSOCIATION OF WHOLESALER-DISTRIBUTORS",
+   "display_name": "National Association of Wholesaler-distributors",
+   "reports": 3,
+   "latest_report_amount": 563000.0,
+   "latest_report": "4bcc7cd8-f649-4434-ab7b-c6414244f1c1",
+   "pac_ids": [
+    "C00109306"
+   ],
+   "pac_names": [
+    "NATIONAL ASSOCIATION OF WHOLESALER-DISTRIBUTORS POLITICAL ACTION COMMITTEE"
+   ]
+  }
+ ],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "feadebbc-91a5-432b-afbf-87cfa947abab",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-17T16:31:47-04:00",
+   "amount": 6000.0,
+   "registrant": "CENTER FOR LAW AND SOCIAL POLICY (CLASP)",
+   "client": "CENTER FOR LAW AND SOCIAL POLICY (CLASP)",
+   "url": "https://lda.gov/filings/public/filing/feadebbc-91a5-432b-afbf-87cfa947abab/print/"
+  },
+  {
+   "filing_uuid": "72728b6d-a836-461b-b4ce-bdc30ce23cd2",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-19T14:05:39-04:00",
+   "amount": 35000.0,
+   "registrant": "SMALL BUSINESS & ENTREPRENEURSHIP COUNCIL (SBE COUNCIL)",
+   "client": "SMALL BUSINESS & ENTREPRENEURSHIP COUNCIL (SBE COUNCIL)",
+   "url": "https://lda.gov/filings/public/filing/72728b6d-a836-461b-b4ce-bdc30ce23cd2/print/"
+  },
+  {
+   "filing_uuid": "cc1b5615-a197-4b08-9f6b-ba3c83cc342d",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T11:51:11-04:00",
+   "amount": 50000.0,
+   "registrant": "FIERCE GOVERNMENT RELATIONS",
+   "client": "FEDERAL CITY COUNCIL",
+   "url": "https://lda.gov/filings/public/filing/cc1b5615-a197-4b08-9f6b-ba3c83cc342d/print/"
+  },
+  {
+   "filing_uuid": "b04b4e81-3506-4739-b014-13fb4ddeb421",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T13:41:50-04:00",
+   "amount": 640000.0,
+   "registrant": "NATIONAL ASSOCIATION OF WHOLESALER-DISTRIBUTORS",
+   "client": "NATIONAL ASSOCIATION OF WHOLESALER-DISTRIBUTORS",
+   "url": "https://lda.gov/filings/public/filing/b04b4e81-3506-4739-b014-13fb4ddeb421/print/"
+  },
+  {
+   "filing_uuid": "a77cd267-5028-4b74-aeb5-b18e9139475d",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T17:00:30-04:00",
+   "amount": 490000.0,
+   "registrant": "AMERICAN FEDERATION OF TEACHERS",
+   "client": "AMERICAN FEDERATION OF TEACHERS",
+   "url": "https://lda.gov/filings/public/filing/a77cd267-5028-4b74-aeb5-b18e9139475d/print/"
+  },
+  {
+   "filing_uuid": "941da514-9d4f-4b97-bb01-22c885ed4adc",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T21:12:06-04:00",
+   "amount": 30000.0,
+   "registrant": "CAPITOL COUNSEL LLC",
+   "client": "COUNCIL OF THE DISTRICT OF COLUMBIA",
+   "url": "https://lda.gov/filings/public/filing/941da514-9d4f-4b97-bb01-22c885ed4adc/print/"
+  },
+  {
+   "filing_uuid": "7b89baca-d87a-4d89-9114-a147544d1867",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-24T20:14:54-04:00",
+   "amount": 670000.0,
+   "registrant": "NATIONAL EDUCATION ASSOCIATION",
+   "client": "NATIONAL EDUCATION ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/7b89baca-d87a-4d89-9114-a147544d1867/print/"
+  },
+  {
+   "filing_uuid": "225e7de6-4ba4-44b8-a78f-862480d8f203",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-15T11:08:55-04:00",
+   "amount": 490000.0,
+   "registrant": "NATIONAL ASSOCIATION OF WHOLESALER-DISTRIBUTORS",
+   "client": "NATIONAL ASSOCIATION OF WHOLESALER-DISTRIBUTORS",
+   "url": "https://lda.gov/filings/public/filing/225e7de6-4ba4-44b8-a78f-862480d8f203/print/"
+  },
+  {
+   "filing_uuid": "0c7c78bc-9f92-4cdb-894c-7e140c747056",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T15:31:43-04:00",
+   "amount": 30000.0,
+   "registrant": "CAPITOL COUNSEL LLC",
+   "client": "COUNCIL OF THE DISTRICT OF COLUMBIA",
+   "url": "https://lda.gov/filings/public/filing/0c7c78bc-9f92-4cdb-894c-7e140c747056/print/"
+  },
+  {
+   "filing_uuid": "2671c81b-6bd7-45be-ab6b-0e91e943e629",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T15:35:47-04:00",
+   "amount": 410000.0,
+   "registrant": "AMERICAN FEDERATION OF TEACHERS",
+   "client": "AMERICAN FEDERATION OF TEACHERS",
+   "url": "https://lda.gov/filings/public/filing/2671c81b-6bd7-45be-ab6b-0e91e943e629/print/"
+  },
+  {
+   "filing_uuid": "4bcc7cd8-f649-4434-ab7b-c6414244f1c1",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-13T15:20:44-04:00",
+   "amount": 563000.0,
+   "registrant": "NATIONAL ASSOCIATION OF WHOLESALER-DISTRIBUTORS",
+   "client": "NATIONAL ASSOCIATION OF WHOLESALER-DISTRIBUTORS",
+   "url": "https://lda.gov/filings/public/filing/4bcc7cd8-f649-4434-ab7b-c6414244f1c1/print/"
+  },
+  {
+   "filing_uuid": "8fc354d3-d363-45d8-9d98-1fe86d2dd714",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-10-20T12:04:03-04:00",
+   "amount": 50000.0,
+   "registrant": "CAPITOL COUNSEL LLC",
+   "client": "COUNCIL OF THE DISTRICT OF COLUMBIA",
+   "url": "https://lda.gov/filings/public/filing/8fc354d3-d363-45d8-9d98-1fe86d2dd714/print/"
+  },
+  {
+   "filing_uuid": "0c319e98-3061-427f-a7a6-551a27813772",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-10-20T12:08:54-04:00",
+   "amount": 50000.0,
+   "registrant": "CAPITOL COUNSEL LLC",
+   "client": "COUNCIL OF THE DISTRICT OF COLUMBIA",
+   "url": "https://lda.gov/filings/public/filing/0c319e98-3061-427f-a7a6-551a27813772/print/"
+  },
+  {
+   "filing_uuid": "ba63070b-f3e7-4f7b-86a6-223346280c9a",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T15:20:30-04:00",
+   "amount": 50000.0,
+   "registrant": "CAPITOL COUNSEL LLC",
+   "client": "COUNCIL OF THE DISTRICT OF COLUMBIA",
+   "url": "https://lda.gov/filings/public/filing/ba63070b-f3e7-4f7b-86a6-223346280c9a/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}

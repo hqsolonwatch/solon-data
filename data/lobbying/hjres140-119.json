@@ -1,0 +1,274 @@
+{
+ "bill": "hjres140-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "report_count": 16,
+ "clients": [
+  {
+   "client": "NFIB (NATIONAL FEDERATION OF INDEPENDENT BUSINESS)",
+   "display_name": "Nfib (national Federation of Independent Business)",
+   "reports": 1,
+   "latest_report_amount": 1280000.0,
+   "latest_report": "51a00dfa-7b7d-4ae9-b96d-e32af6bcdbc1",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NATURE CONSERVANCY",
+   "display_name": "Nature Conservancy",
+   "reports": 2,
+   "latest_report_amount": 900000.0,
+   "latest_report": "47b73a3f-9001-4510-9b60-9571e3396108",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS, INC.",
+   "display_name": "Citizens for Responsible Energy Solutions",
+   "reports": 2,
+   "latest_report_amount": 260000.0,
+   "latest_report": "40b55a70-a1e0-48f8-b668-dea92a39ec72",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "LEAGUE OF CONSERVATION VOTERS",
+   "display_name": "League of Conservation Voters",
+   "reports": 2,
+   "latest_report_amount": 230000.0,
+   "latest_report": "969ab3f3-e91d-4aa6-ad79-fa233d7a0bef",
+   "pac_ids": [
+    "C00252940"
+   ],
+   "pac_names": [
+    "LEAGUE OF CONSERVATION VOTERS ACTION FUND"
+   ]
+  },
+  {
+   "client": "TROUT UNLIMITED",
+   "display_name": "Trout Unlimited",
+   "reports": 1,
+   "latest_report_amount": 120000.0,
+   "latest_report": "b8b5620a-2f45-4a66-ba10-b5e7709185ad",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NATIONAL PARKS CONSERVATION ASSOCIATION",
+   "display_name": "National Parks Conservation Association",
+   "reports": 3,
+   "latest_report_amount": 113139.0,
+   "latest_report": "8e6f7313-e49b-46ad-8f7d-072462c777f2",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "COALITION TO PROTECT AMERICAS NATIONAL PARKS",
+   "display_name": "Coalition to Protect Americas National Parks",
+   "reports": 2,
+   "latest_report_amount": 20000.0,
+   "latest_report": "9bbc0a66-1bab-47e3-a1b9-fae5eb38e088",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "THE CONSERVATION ALLIANCE",
+   "display_name": "The Conservation Alliance",
+   "reports": 2,
+   "latest_report_amount": 6600.0,
+   "latest_report": "5607d38b-3ffb-40f5-a88f-0c8db02fd68e",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "PACIFIC LEGAL FOUNDATION",
+   "display_name": "Pacific Legal Foundation",
+   "reports": 1,
+   "latest_report_amount": null,
+   "latest_report": "cefc3078-8303-4040-a0da-453d1b550fe5",
+   "pac_ids": [],
+   "pac_names": []
+  }
+ ],
+ "groups_shown": [
+  {
+   "client": "LEAGUE OF CONSERVATION VOTERS",
+   "display_name": "League of Conservation Voters",
+   "reports": 2,
+   "latest_report_amount": 230000.0,
+   "latest_report": "969ab3f3-e91d-4aa6-ad79-fa233d7a0bef",
+   "pac_ids": [
+    "C00252940"
+   ],
+   "pac_names": [
+    "LEAGUE OF CONSERVATION VOTERS ACTION FUND"
+   ]
+  }
+ ],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "ffa1f18b-cee4-4be2-88cd-0f85970d1bbd",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-17T17:24:40-04:00",
+   "amount": 20000.0,
+   "registrant": "PORT SIDE STRATEGIES, LLC",
+   "client": "COALITION TO PROTECT AMERICAS NATIONAL PARKS",
+   "url": "https://lda.gov/filings/public/filing/ffa1f18b-cee4-4be2-88cd-0f85970d1bbd/print/"
+  },
+  {
+   "filing_uuid": "b8b5620a-2f45-4a66-ba10-b5e7709185ad",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-19T18:36:48-04:00",
+   "amount": 120000.0,
+   "registrant": "TROUT UNLIMITED",
+   "client": "TROUT UNLIMITED",
+   "url": "https://lda.gov/filings/public/filing/b8b5620a-2f45-4a66-ba10-b5e7709185ad/print/"
+  },
+  {
+   "filing_uuid": "cab21e6f-18ac-42e9-be4a-ff4d41448dc2",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T10:55:21-04:00",
+   "amount": 280000.0,
+   "registrant": "CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS, INC.",
+   "client": "CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS, INC.",
+   "url": "https://lda.gov/filings/public/filing/cab21e6f-18ac-42e9-be4a-ff4d41448dc2/print/"
+  },
+  {
+   "filing_uuid": "cefc3078-8303-4040-a0da-453d1b550fe5",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T15:40:45-04:00",
+   "amount": null,
+   "registrant": "PACIFIC LEGAL FOUNDATION",
+   "client": "PACIFIC LEGAL FOUNDATION",
+   "url": "https://lda.gov/filings/public/filing/cefc3078-8303-4040-a0da-453d1b550fe5/print/"
+  },
+  {
+   "filing_uuid": "51a00dfa-7b7d-4ae9-b96d-e32af6bcdbc1",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T15:53:24-04:00",
+   "amount": 1280000.0,
+   "registrant": "NFIB (NATIONAL FEDERATION OF INDEPENDENT BUSINESS)",
+   "client": "NFIB (NATIONAL FEDERATION OF INDEPENDENT BUSINESS)",
+   "url": "https://lda.gov/filings/public/filing/51a00dfa-7b7d-4ae9-b96d-e32af6bcdbc1/print/"
+  },
+  {
+   "filing_uuid": "2514c981-4e00-45ad-ac69-ae74e165e10f",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T16:39:24-04:00",
+   "amount": 112647.0,
+   "registrant": "NATIONAL PARKS CONSERVATION ASSOCIATION",
+   "client": "NATIONAL PARKS CONSERVATION ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/2514c981-4e00-45ad-ac69-ae74e165e10f/print/"
+  },
+  {
+   "filing_uuid": "b8cfb4a1-454a-4fbd-99fb-b4b36d00a12a",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T16:48:30-04:00",
+   "amount": 8000.0,
+   "registrant": "HIGH STREET STRATEGIES LLC",
+   "client": "THE CONSERVATION ALLIANCE",
+   "url": "https://lda.gov/filings/public/filing/b8cfb4a1-454a-4fbd-99fb-b4b36d00a12a/print/"
+  },
+  {
+   "filing_uuid": "b3e709ea-e3ef-4c52-a246-d65c3460af38",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T17:19:44-04:00",
+   "amount": 200000.0,
+   "registrant": "LEAGUE OF CONSERVATION VOTERS",
+   "client": "LEAGUE OF CONSERVATION VOTERS",
+   "url": "https://lda.gov/filings/public/filing/b3e709ea-e3ef-4c52-a246-d65c3460af38/print/"
+  },
+  {
+   "filing_uuid": "43e01b0a-8e36-4fac-9850-5b9b038c6472",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T21:53:45-04:00",
+   "amount": 640000.0,
+   "registrant": "THE NATURE CONSERVANCY",
+   "client": "NATURE CONSERVANCY",
+   "url": "https://lda.gov/filings/public/filing/43e01b0a-8e36-4fac-9850-5b9b038c6472/print/"
+  },
+  {
+   "filing_uuid": "9bbc0a66-1bab-47e3-a1b9-fae5eb38e088",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T10:34:42-04:00",
+   "amount": 20000.0,
+   "registrant": "PORT SIDE STRATEGIES, LLC",
+   "client": "COALITION TO PROTECT AMERICAS NATIONAL PARKS",
+   "url": "https://lda.gov/filings/public/filing/9bbc0a66-1bab-47e3-a1b9-fae5eb38e088/print/"
+  },
+  {
+   "filing_uuid": "5607d38b-3ffb-40f5-a88f-0c8db02fd68e",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T18:21:22-04:00",
+   "amount": 6600.0,
+   "registrant": "HIGH STREET STRATEGIES LLC",
+   "client": "THE CONSERVATION ALLIANCE",
+   "url": "https://lda.gov/filings/public/filing/5607d38b-3ffb-40f5-a88f-0c8db02fd68e/print/"
+  },
+  {
+   "filing_uuid": "40b55a70-a1e0-48f8-b668-dea92a39ec72",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T11:40:51-04:00",
+   "amount": 260000.0,
+   "registrant": "CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS, INC.",
+   "client": "CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS, INC.",
+   "url": "https://lda.gov/filings/public/filing/40b55a70-a1e0-48f8-b668-dea92a39ec72/print/"
+  },
+  {
+   "filing_uuid": "47b73a3f-9001-4510-9b60-9571e3396108",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T14:34:02-04:00",
+   "amount": 900000.0,
+   "registrant": "THE NATURE CONSERVANCY",
+   "client": "NATURE CONSERVANCY",
+   "url": "https://lda.gov/filings/public/filing/47b73a3f-9001-4510-9b60-9571e3396108/print/"
+  },
+  {
+   "filing_uuid": "f836a99a-32f5-4255-80cb-948ee16e0443",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T15:15:15-04:00",
+   "amount": 150724.0,
+   "registrant": "NATIONAL PARKS CONSERVATION ASSOCIATION",
+   "client": "NATIONAL PARKS CONSERVATION ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/f836a99a-32f5-4255-80cb-948ee16e0443/print/"
+  },
+  {
+   "filing_uuid": "969ab3f3-e91d-4aa6-ad79-fa233d7a0bef",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T17:08:31-04:00",
+   "amount": 230000.0,
+   "registrant": "LEAGUE OF CONSERVATION VOTERS",
+   "client": "LEAGUE OF CONSERVATION VOTERS",
+   "url": "https://lda.gov/filings/public/filing/969ab3f3-e91d-4aa6-ad79-fa233d7a0bef/print/"
+  },
+  {
+   "filing_uuid": "8e6f7313-e49b-46ad-8f7d-072462c777f2",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-08-04T08:08:08-04:00",
+   "amount": 113139.0,
+   "registrant": "NATIONAL PARKS CONSERVATION ASSOCIATION",
+   "client": "NATIONAL PARKS CONSERVATION ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/8e6f7313-e49b-46ad-8f7d-072462c777f2/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}

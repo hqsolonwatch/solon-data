@@ -1,0 +1,162 @@
+{
+ "bioguide": "B001302",
+ "name": "Andy Biggs",
+ "cycle": 2026,
+ "candidate_id": "H6AZ05083",
+ "summary": {
+  "receipts": 28245.83,
+  "individual_contributions": 18325.78,
+  "pac_contributions": 7000.0,
+  "party_contributions": 0.0,
+  "candidate_contributions": 0.0,
+  "candidate_loans": 0.0,
+  "transfers_from_authorized": 1435.05,
+  "cash_on_hand": 23077.76,
+  "coverage_end": "09/30/2026"
+ },
+ "pac_contributions": [
+  {
+   "committee_id": "C00552851",
+   "name": "FREEDOM CAUCUS FUND",
+   "connected_org": "NONE",
+   "total": 5100.0
+  },
+  {
+   "committee_id": "C00416594",
+   "name": "JIM JORDAN FOR CONGRESS",
+   "connected_org": "BUCKEYE VICTORY FUND",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00335257",
+   "name": "HEALTH & FITNESS ASSOCIATION PAC (FITPAC)",
+   "connected_org": "HEALTH & FITNESS ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00614552",
+   "name": "150PAC.ORG",
+   "connected_org": "NONE",
+   "total": 1000.0
+  }
+ ],
+ "pac_by_type": [
+  {
+   "type": "Other PACs",
+   "total": 6100.0
+  },
+  {
+   "type": "Other candidates’ campaigns",
+   "total": 2000.0
+  },
+  {
+   "type": "Trade association PACs",
+   "total": 1000.0
+  }
+ ],
+ "outside_spending": {
+  "support_total": 178.0,
+  "oppose_total": 0.0,
+  "spenders": [
+   {
+    "committee_id": "C00552851",
+    "name": "FREEDOM CAUCUS FUND",
+    "support": 178.0,
+    "oppose": 0.0
+   }
+  ],
+  "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
+ },
+ "detail": {
+  "committee_id": "C00610451",
+  "committee_name": "BIGGS FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 28245.83,
+  "amounts": {
+   "individuals_200_or_less": 9957.78,
+   "individuals_over_200": 8368.0,
+   "pacs_and_parties": 7000.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 1435.05,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    39
+   ],
+   [
+    "Individuals giving more than $200",
+    33
+   ],
+   [
+    "PACs and party committees",
+    28
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 8368.0,
+   "home_state": "AZ",
+   "home_state_total": 1068.0,
+   "home_state_share": 13,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 3900.0,
+     "count": 3
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 3300.0,
+     "count": 1
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 1068.0,
+     "count": 3
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 100.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "HESS",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "REMAX FOOTHILLS",
+     "total": 500.0,
+     "count": 1
+    },
+    {
+     "employer": "CNS PANTEX",
+     "total": 100.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794319828.5573218,
+ "sources": {
+  "summary": "FEC candidate summary file (weball)",
+  "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
+  "detail": "FEC API, principal campaign committee"
+ }
+}

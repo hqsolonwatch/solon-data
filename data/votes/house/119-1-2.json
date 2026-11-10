@@ -1,0 +1,2628 @@
+{
+ "chamber": "house",
+ "congress": 119,
+ "session": 1,
+ "number": 2,
+ "id": "house-119-1-2",
+ "date": "2025-01-03",
+ "question": "Election of the Speaker",
+ "vote_type": "YEA-AND-NAY",
+ "result": "Johnson (LA)",
+ "description": "",
+ "bill": null,
+ "kind": "other",
+ "totals": {
+  "yea": null,
+  "nay": null,
+  "present": null,
+  "not_voting": null
+ },
+ "by_party": {},
+ "positions": [
+  {
+   "id": "A000370",
+   "party": "D",
+   "state": "NC",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "A000055",
+   "party": "R",
+   "state": "AL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "A000371",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "A000379",
+   "party": "R",
+   "state": "MO",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "A000372",
+   "party": "R",
+   "state": "GA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "A000380",
+   "party": "D",
+   "state": "RI",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "A000369",
+   "party": "R",
+   "state": "NV",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "A000381",
+   "party": "D",
+   "state": "AZ",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "A000375",
+   "party": "R",
+   "state": "TX",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "A000148",
+   "party": "D",
+   "state": "MA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "B001291",
+   "party": "R",
+   "state": "TX",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "B001298",
+   "party": "R",
+   "state": "NE",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "B001307",
+   "party": "R",
+   "state": "IN",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "B001306",
+   "party": "R",
+   "state": "OH",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "B001318",
+   "party": "D",
+   "state": "VT",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "B001282",
+   "party": "R",
+   "state": "KY",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "B001300",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "B001321",
+   "party": "R",
+   "state": "MI",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "B001322",
+   "party": "R",
+   "state": "WA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "B001314",
+   "party": "R",
+   "state": "FL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "B001281",
+   "party": "D",
+   "state": "OH",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "B001323",
+   "party": "R",
+   "state": "AK",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "B001324",
+   "party": "D",
+   "state": "MO",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "B000668",
+   "party": "R",
+   "state": "OR",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "B001287",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "B001301",
+   "party": "R",
+   "state": "MI",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "B001292",
+   "party": "D",
+   "state": "VA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "B000740",
+   "party": "R",
+   "state": "OK",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "B001302",
+   "party": "R",
+   "state": "AZ",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "B001325",
+   "party": "R",
+   "state": "SC",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "B001257",
+   "party": "R",
+   "state": "FL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "B000490",
+   "party": "D",
+   "state": "GA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "B000825",
+   "party": "R",
+   "state": "CO",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "B001278",
+   "party": "D",
+   "state": "OR",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "B001295",
+   "party": "R",
+   "state": "IL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "B001296",
+   "party": "D",
+   "state": "PA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "B001317",
+   "party": "R",
+   "state": "OK",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "B001327",
+   "party": "R",
+   "state": "PA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "B001313",
+   "party": "D",
+   "state": "OH",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "B001285",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "B001260",
+   "party": "R",
+   "state": "FL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "B001315",
+   "party": "D",
+   "state": "IL",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "B001309",
+   "party": "R",
+   "state": "TN",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "B001316",
+   "party": "R",
+   "state": "MO",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "B001326",
+   "party": "D",
+   "state": "OR",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "C000059",
+   "party": "R",
+   "state": "CA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "C001039",
+   "party": "R",
+   "state": "FL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "C001112",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "C001126",
+   "party": "R",
+   "state": "OH",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "C001072",
+   "party": "D",
+   "state": "IN",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "C001103",
+   "party": "R",
+   "state": "GA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "C001125",
+   "party": "D",
+   "state": "LA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "C001051",
+   "party": "R",
+   "state": "TX",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "C001131",
+   "party": "D",
+   "state": "TX",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "C001055",
+   "party": "D",
+   "state": "HI",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "C001117",
+   "party": "D",
+   "state": "IL",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "C001066",
+   "party": "D",
+   "state": "FL",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "C001091",
+   "party": "D",
+   "state": "TX",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "C001127",
+   "party": "D",
+   "state": "FL",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "C001080",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "C001133",
+   "party": "R",
+   "state": "AZ",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "C001123",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "C001101",
+   "party": "D",
+   "state": "MA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "C001067",
+   "party": "D",
+   "state": "NY",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "C001061",
+   "party": "D",
+   "state": "MO",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "C001118",
+   "party": "R",
+   "state": "VA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "C001115",
+   "party": "R",
+   "state": "TX",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "C000537",
+   "party": "D",
+   "state": "SC",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "C001116",
+   "party": "R",
+   "state": "GA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "C001068",
+   "party": "D",
+   "state": "TN",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "C001053",
+   "party": "R",
+   "state": "OK",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "C001129",
+   "party": "R",
+   "state": "GA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "C001108",
+   "party": "R",
+   "state": "KY",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "C001136",
+   "party": "D",
+   "state": "NJ",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "C001078",
+   "party": "D",
+   "state": "VA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "C001110",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "C001059",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "C001069",
+   "party": "D",
+   "state": "CT",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "C001119",
+   "party": "D",
+   "state": "MN",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "C001132",
+   "party": "R",
+   "state": "AZ",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "C001137",
+   "party": "R",
+   "state": "CO",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "C001087",
+   "party": "R",
+   "state": "AR",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "C001120",
+   "party": "R",
+   "state": "TX",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "C001130",
+   "party": "D",
+   "state": "TX",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "C001121",
+   "party": "D",
+   "state": "CO",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "C001063",
+   "party": "D",
+   "state": "TX",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "D000629",
+   "party": "D",
+   "state": "KS",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "D000626",
+   "party": "R",
+   "state": "OH",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "D000096",
+   "party": "D",
+   "state": "IL",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "D000230",
+   "party": "D",
+   "state": "NC",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "D000594",
+   "party": "R",
+   "state": "TX",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "D000631",
+   "party": "D",
+   "state": "PA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "D000197",
+   "party": "D",
+   "state": "CO",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "D000216",
+   "party": "D",
+   "state": "CT",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "D000617",
+   "party": "D",
+   "state": "WA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "D000530",
+   "party": "D",
+   "state": "PA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "D000623",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "D000616",
+   "party": "R",
+   "state": "TN",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "D000635",
+   "party": "D",
+   "state": "OR",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "D000600",
+   "party": "R",
+   "state": "FL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "D000624",
+   "party": "D",
+   "state": "MI",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "D000399",
+   "party": "D",
+   "state": "TX",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "D000032",
+   "party": "R",
+   "state": "FL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "D000634",
+   "party": "R",
+   "state": "MT",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "D000628",
+   "party": "R",
+   "state": "FL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "E000246",
+   "party": "R",
+   "state": "NC",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "E000301",
+   "party": "D",
+   "state": "MD",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "E000071",
+   "party": "R",
+   "state": "TX",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "E000294",
+   "party": "R",
+   "state": "MN",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "E000299",
+   "party": "D",
+   "state": "TX",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "E000297",
+   "party": "D",
+   "state": "NY",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "E000298",
+   "party": "R",
+   "state": "KS",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "E000300",
+   "party": "R",
+   "state": "CO",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "E000296",
+   "party": "D",
+   "state": "PA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "E000235",
+   "party": "R",
+   "state": "MS",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "F000246",
+   "party": "R",
+   "state": "TX",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "F000482",
+   "party": "R",
+   "state": "ND",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "F000446",
+   "party": "R",
+   "state": "IA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "F000110",
+   "party": "D",
+   "state": "LA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "F000481",
+   "party": "D",
+   "state": "AL",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "F000475",
+   "party": "R",
+   "state": "MN",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "F000470",
+   "party": "R",
+   "state": "MN",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "F000471",
+   "party": "R",
+   "state": "WI",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "F000466",
+   "party": "R",
+   "state": "PA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "F000459",
+   "party": "R",
+   "state": "TN",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "F000468",
+   "party": "D",
+   "state": "TX",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "F000474",
+   "party": "R",
+   "state": "NE",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "F000480",
+   "party": "R",
+   "state": "CA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "F000454",
+   "party": "D",
+   "state": "IL",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "F000477",
+   "party": "D",
+   "state": "NC",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "F000450",
+   "party": "R",
+   "state": "NC",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "F000462",
+   "party": "D",
+   "state": "FL",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "F000472",
+   "party": "R",
+   "state": "FL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "F000483",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "F000476",
+   "party": "D",
+   "state": "FL",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "F000478",
+   "party": "R",
+   "state": "SC",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "F000469",
+   "party": "R",
+   "state": "ID",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "G000559",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "G000597",
+   "party": "R",
+   "state": "NY",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "G000598",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "G000586",
+   "party": "D",
+   "state": "IL",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "G000587",
+   "party": "D",
+   "state": "TX",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "G000603",
+   "party": "R",
+   "state": "TX",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "G000602",
+   "party": "D",
+   "state": "NY",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "G000593",
+   "party": "R",
+   "state": "FL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "G000592",
+   "party": "D",
+   "state": "ME",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "G000599",
+   "party": "D",
+   "state": "NY",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "G000601",
+   "party": "R",
+   "state": "TX",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "G000585",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "G000594",
+   "party": "R",
+   "state": "TX",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "G000581",
+   "party": "D",
+   "state": "TX",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "G000589",
+   "party": "R",
+   "state": "TX",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "G000604",
+   "party": "D",
+   "state": "NH",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "G000565",
+   "party": "R",
+   "state": "AZ",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "G000583",
+   "party": "D",
+   "state": "NJ",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "G000546",
+   "party": "R",
+   "state": "MO",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "G000605",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "G000590",
+   "party": "R",
+   "state": "TN",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "G000553",
+   "party": "D",
+   "state": "TX",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "G000596",
+   "party": "R",
+   "state": "GA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "G000568",
+   "party": "R",
+   "state": "VA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "G000551",
+   "party": "D",
+   "state": "AZ",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "G000576",
+   "party": "R",
+   "state": "WI",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "G000591",
+   "party": "R",
+   "state": "MS",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "G000558",
+   "party": "R",
+   "state": "KY",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "H001096",
+   "party": "R",
+   "state": "WY",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "H001098",
+   "party": "R",
+   "state": "AZ",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "H001090",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "H001099",
+   "party": "R",
+   "state": "FL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "H001101",
+   "party": "R",
+   "state": "NC",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "H001052",
+   "party": "R",
+   "state": "MD",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "H001102",
+   "party": "R",
+   "state": "NC",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "H001086",
+   "party": "R",
+   "state": "TN",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "H001081",
+   "party": "D",
+   "state": "CT",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "H001082",
+   "party": "R",
+   "state": "OK",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "H001077",
+   "party": "R",
+   "state": "LA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "H001072",
+   "party": "R",
+   "state": "AR",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "H001047",
+   "party": "D",
+   "state": "CT",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "H001091",
+   "party": "R",
+   "state": "IA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "H001066",
+   "party": "D",
+   "state": "NV",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "H001093",
+   "party": "R",
+   "state": "IN",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "H001085",
+   "party": "D",
+   "state": "PA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "H000874",
+   "party": "D",
+   "state": "MD",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "H001094",
+   "party": "D",
+   "state": "OR",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "H001067",
+   "party": "R",
+   "state": "NC",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "H001068",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "H001058",
+   "party": "R",
+   "state": "MI",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "H001095",
+   "party": "R",
+   "state": "TX",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "H001100",
+   "party": "R",
+   "state": "CO",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "I000056",
+   "party": "R",
+   "state": "CA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "I000058",
+   "party": "D",
+   "state": "MD",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "J000311",
+   "party": "R",
+   "state": "GA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "J000309",
+   "party": "D",
+   "state": "IL",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "J000304",
+   "party": "R",
+   "state": "TX",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "J000305",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "J000307",
+   "party": "R",
+   "state": "MI",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "J000298",
+   "party": "D",
+   "state": "WA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "J000294",
+   "party": "D",
+   "state": "NY",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "J000288",
+   "party": "D",
+   "state": "GA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "J000299",
+   "party": "R",
+   "state": "LA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "J000301",
+   "party": "R",
+   "state": "SD",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "J000310",
+   "party": "D",
+   "state": "TX",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "J000289",
+   "party": "R",
+   "state": "OH",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "J000295",
+   "party": "R",
+   "state": "OH",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "J000302",
+   "party": "R",
+   "state": "PA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "K000400",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "K000009",
+   "party": "D",
+   "state": "OH",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "K000398",
+   "party": "R",
+   "state": "NJ",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "K000375",
+   "party": "D",
+   "state": "MA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "K000385",
+   "party": "D",
+   "state": "IL",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "K000388",
+   "party": "R",
+   "state": "MS",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "K000376",
+   "party": "R",
+   "state": "PA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "K000402",
+   "party": "D",
+   "state": "NY",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "K000403",
+   "party": "R",
+   "state": "UT",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "K000389",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "K000399",
+   "party": "R",
+   "state": "VA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "K000401",
+   "party": "R",
+   "state": "CA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "K000397",
+   "party": "R",
+   "state": "CA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "K000405",
+   "party": "R",
+   "state": "NC",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "K000391",
+   "party": "D",
+   "state": "IL",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "K000392",
+   "party": "R",
+   "state": "TN",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "L000585",
+   "party": "R",
+   "state": "IL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "L000598",
+   "party": "R",
+   "state": "NY",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "L000578",
+   "party": "R",
+   "state": "CA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "L000601",
+   "party": "D",
+   "state": "OH",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "L000600",
+   "party": "R",
+   "state": "NY",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "L000560",
+   "party": "D",
+   "state": "WA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "L000557",
+   "party": "D",
+   "state": "CT",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "L000606",
+   "party": "D",
+   "state": "NY",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "L000566",
+   "party": "R",
+   "state": "OH",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "L000599",
+   "party": "R",
+   "state": "NY",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "L000597",
+   "party": "R",
+   "state": "FL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "L000590",
+   "party": "D",
+   "state": "NV",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "L000602",
+   "party": "D",
+   "state": "PA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "L000273",
+   "party": "D",
+   "state": "NM",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "L000595",
+   "party": "R",
+   "state": "LA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "L000593",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "L000607",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "L000582",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "L000397",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "L000583",
+   "party": "R",
+   "state": "GA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "L000491",
+   "party": "R",
+   "state": "OK",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "L000596",
+   "party": "R",
+   "state": "FL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "L000603",
+   "party": "R",
+   "state": "TX",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "L000562",
+   "party": "D",
+   "state": "MA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "M000194",
+   "party": "R",
+   "state": "SC",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "M001230",
+   "party": "R",
+   "state": "PA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "M001223",
+   "party": "D",
+   "state": "RI",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "M000317",
+   "party": "R",
+   "state": "NY",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "M001228",
+   "party": "R",
+   "state": "UT",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "M000871",
+   "party": "R",
+   "state": "KS",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "M001231",
+   "party": "D",
+   "state": "NY",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "M001184",
+   "party": "R",
+   "state": "KY",
+   "vote": "Emmer"
+  },
+  {
+   "id": "M001199",
+   "party": "R",
+   "state": "FL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "M001163",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "M001208",
+   "party": "D",
+   "state": "GA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "M001238",
+   "party": "D",
+   "state": "DE",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "M001157",
+   "party": "R",
+   "state": "TX",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "M001136",
+   "party": "R",
+   "state": "MI",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "M001232",
+   "party": "D",
+   "state": "MD",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "M001227",
+   "party": "D",
+   "state": "VA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "M001177",
+   "party": "R",
+   "state": "CA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "M001143",
+   "party": "D",
+   "state": "MN",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "M001218",
+   "party": "R",
+   "state": "GA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "M001237",
+   "party": "D",
+   "state": "MI",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "M001240",
+   "party": "R",
+   "state": "NC",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "M001220",
+   "party": "D",
+   "state": "KY",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "M000312",
+   "party": "D",
+   "state": "MA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "M001239",
+   "party": "R",
+   "state": "VA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "M001229",
+   "party": "D",
+   "state": "NJ",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "M001137",
+   "party": "D",
+   "state": "NY",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "M001226",
+   "party": "D",
+   "state": "NJ",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "M001188",
+   "party": "D",
+   "state": "NY",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "M001233",
+   "party": "R",
+   "state": "IN",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "M001204",
+   "party": "R",
+   "state": "PA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "M000687",
+   "party": "D",
+   "state": "MD",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "M001211",
+   "party": "R",
+   "state": "IL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "M001222",
+   "party": "R",
+   "state": "OH",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "M001205",
+   "party": "R",
+   "state": "WV",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "M001215",
+   "party": "R",
+   "state": "IA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "M001216",
+   "party": "R",
+   "state": "FL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "M001241",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "M001194",
+   "party": "R",
+   "state": "MI",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "M001212",
+   "party": "R",
+   "state": "AL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "M001236",
+   "party": "R",
+   "state": "NC",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "M001213",
+   "party": "R",
+   "state": "UT",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "M001160",
+   "party": "D",
+   "state": "WI",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "M001235",
+   "party": "R",
+   "state": "WV",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "M001224",
+   "party": "R",
+   "state": "TX",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "M001206",
+   "party": "D",
+   "state": "NY",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "M001234",
+   "party": "D",
+   "state": "MN",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "M001217",
+   "party": "D",
+   "state": "FL",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "M001196",
+   "party": "D",
+   "state": "MA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "M001214",
+   "party": "D",
+   "state": "IN",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "M001225",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "M001210",
+   "party": "R",
+   "state": "NC",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "N000002",
+   "party": "D",
+   "state": "NY",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "N000015",
+   "party": "D",
+   "state": "MA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "N000191",
+   "party": "D",
+   "state": "CO",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "N000026",
+   "party": "R",
+   "state": "TX",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "N000189",
+   "party": "R",
+   "state": "WA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "N000188",
+   "party": "D",
+   "state": "NJ",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "N000190",
+   "party": "R",
+   "state": "SC",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "N000193",
+   "party": "R",
+   "state": "IA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "O000019",
+   "party": "R",
+   "state": "CA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "O000172",
+   "party": "D",
+   "state": "NY",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "O000175",
+   "party": "R",
+   "state": "TN",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "O000176",
+   "party": "D",
+   "state": "MD",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "O000173",
+   "party": "D",
+   "state": "MN",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "O000177",
+   "party": "R",
+   "state": "MO",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "O000086",
+   "party": "R",
+   "state": "UT",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "P000034",
+   "party": "D",
+   "state": "NJ",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "P000609",
+   "party": "R",
+   "state": "AL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "P000613",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "P000614",
+   "party": "D",
+   "state": "NH",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "P000197",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "G000600",
+   "party": "D",
+   "state": "WA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "P000605",
+   "party": "R",
+   "state": "PA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "P000608",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "P000620",
+   "party": "D",
+   "state": "CO",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "P000048",
+   "party": "R",
+   "state": "TX",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "P000597",
+   "party": "D",
+   "state": "ME",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "P000607",
+   "party": "D",
+   "state": "WI",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "P000621",
+   "party": "D",
+   "state": "NJ",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "P000617",
+   "party": "D",
+   "state": "MA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "Q000023",
+   "party": "D",
+   "state": "IL",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "R000617",
+   "party": "D",
+   "state": "IL",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "R000621",
+   "party": "D",
+   "state": "WA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "R000606",
+   "party": "D",
+   "state": "MD",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "R000610",
+   "party": "R",
+   "state": "PA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "R000622",
+   "party": "D",
+   "state": "NY",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "R000620",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "R000575",
+   "party": "R",
+   "state": "AL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "R000395",
+   "party": "R",
+   "state": "KY",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "R000612",
+   "party": "R",
+   "state": "TN",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "R000305",
+   "party": "D",
+   "state": "NC",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "R000603",
+   "party": "R",
+   "state": "NC",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "R000614",
+   "party": "R",
+   "state": "TX",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "R000599",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "R000619",
+   "party": "R",
+   "state": "OH",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "R000609",
+   "party": "R",
+   "state": "FL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "R000579",
+   "party": "D",
+   "state": "NY",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "S000168",
+   "party": "R",
+   "state": "FL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "S001226",
+   "party": "D",
+   "state": "OR",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "S001156",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "S001176",
+   "party": "R",
+   "state": "LA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "S001205",
+   "party": "D",
+   "state": "PA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "S001145",
+   "party": "D",
+   "state": "IL",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "S001228",
+   "party": "R",
+   "state": "KS",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "S001190",
+   "party": "D",
+   "state": "IL",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "S001221",
+   "party": "D",
+   "state": "MI",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "S001216",
+   "party": "D",
+   "state": "WA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "S001183",
+   "party": "R",
+   "state": "AZ",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "S000185",
+   "party": "D",
+   "state": "VA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "S001189",
+   "party": "R",
+   "state": "GA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "S001157",
+   "party": "D",
+   "state": "GA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "S001224",
+   "party": "R",
+   "state": "TX",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "S000250",
+   "party": "R",
+   "state": "TX",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "S001185",
+   "party": "D",
+   "state": "AL",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "S000344",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "S001207",
+   "party": "D",
+   "state": "NJ",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "S001229",
+   "party": "R",
+   "state": "IN",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "S001231",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "S001148",
+   "party": "R",
+   "state": "ID",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "S001195",
+   "party": "R",
+   "state": "MO",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "S001172",
+   "party": "R",
+   "state": "NE",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "S000522",
+   "party": "R",
+   "state": "NJ",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "S000510",
+   "party": "D",
+   "state": "WA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "S001199",
+   "party": "R",
+   "state": "PA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "S001225",
+   "party": "D",
+   "state": "IL",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "S001200",
+   "party": "D",
+   "state": "FL",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "S000929",
+   "party": "R",
+   "state": "IN",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "S001218",
+   "party": "D",
+   "state": "NM",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "S001211",
+   "party": "D",
+   "state": "AZ",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "S001212",
+   "party": "R",
+   "state": "MN",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "S001196",
+   "party": "R",
+   "state": "NY",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "S001213",
+   "party": "R",
+   "state": "WI",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "S001214",
+   "party": "R",
+   "state": "FL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "S001215",
+   "party": "D",
+   "state": "MI",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "S001159",
+   "party": "D",
+   "state": "WA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "S001220",
+   "party": "R",
+   "state": "AL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "S001188",
+   "party": "R",
+   "state": "IN",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "S001230",
+   "party": "D",
+   "state": "VA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "S001201",
+   "party": "D",
+   "state": "NY",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "S001193",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "S001223",
+   "party": "D",
+   "state": "OH",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "T000472",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "T000490",
+   "party": "R",
+   "state": "OH",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "T000478",
+   "party": "R",
+   "state": "NY",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "T000488",
+   "party": "D",
+   "state": "MI",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "T000460",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "T000193",
+   "party": "D",
+   "state": "MS",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "T000467",
+   "party": "R",
+   "state": "PA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "T000165",
+   "party": "R",
+   "state": "WI",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "T000480",
+   "party": "R",
+   "state": "SC",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "T000468",
+   "party": "D",
+   "state": "NV",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "T000481",
+   "party": "D",
+   "state": "MI",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "T000487",
+   "party": "D",
+   "state": "HI",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "T000469",
+   "party": "D",
+   "state": "NY",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "T000474",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "T000486",
+   "party": "D",
+   "state": "NY",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "T000482",
+   "party": "D",
+   "state": "MA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "T000491",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "T000463",
+   "party": "R",
+   "state": "OH",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "T000489",
+   "party": "D",
+   "state": "TX",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "U000040",
+   "party": "D",
+   "state": "IL",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "V000129",
+   "party": "R",
+   "state": "CA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "V000133",
+   "party": "R",
+   "state": "NJ",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "V000134",
+   "party": "R",
+   "state": "TX",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "V000135",
+   "party": "R",
+   "state": "WI",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "V000130",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "V000136",
+   "party": "D",
+   "state": "NM",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "V000131",
+   "party": "D",
+   "state": "TX",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "V000081",
+   "party": "D",
+   "state": "NY",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "V000138",
+   "party": "D",
+   "state": "VA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "W000812",
+   "party": "R",
+   "state": "MO",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "W000798",
+   "party": "R",
+   "state": "MI",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "W000823",
+   "party": "R",
+   "state": "FL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "W000797",
+   "party": "D",
+   "state": "FL",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "W000187",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "W000822",
+   "party": "D",
+   "state": "NJ",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "W000814",
+   "party": "R",
+   "state": "TX",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "W000806",
+   "party": "R",
+   "state": "FL",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "W000821",
+   "party": "R",
+   "state": "AR",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "W000830",
+   "party": "D",
+   "state": "CA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "W000829",
+   "party": "R",
+   "state": "WI",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "W000788",
+   "party": "D",
+   "state": "GA",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "W000816",
+   "party": "R",
+   "state": "TX",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "W000808",
+   "party": "D",
+   "state": "FL",
+   "vote": "Jeffries"
+  },
+  {
+   "id": "W000795",
+   "party": "R",
+   "state": "SC",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "W000804",
+   "party": "R",
+   "state": "VA",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "W000809",
+   "party": "R",
+   "state": "AR",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "Y000067",
+   "party": "R",
+   "state": "IN",
+   "vote": "Johnson (LA)"
+  },
+  {
+   "id": "Z000018",
+   "party": "R",
+   "state": "MT",
+   "vote": "Johnson (LA)"
+  }
+ ],
+ "source_url": "https://clerk.house.gov/evs/2025/roll002.xml"
+}

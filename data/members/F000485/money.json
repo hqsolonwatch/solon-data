@@ -1,0 +1,767 @@
+{
+ "bioguide": "F000485",
+ "name": "Clay Fuller",
+ "cycle": 2026,
+ "candidate_id": "H0GA14030",
+ "summary": {
+  "receipts": 2160464.05,
+  "individual_contributions": 1274355.87,
+  "pac_contributions": 375080.74,
+  "party_contributions": 0.0,
+  "candidate_contributions": 0.0,
+  "candidate_loans": 450000.0,
+  "transfers_from_authorized": 61027.44,
+  "cash_on_hand": 204313.96,
+  "coverage_end": "10/14/2026"
+ },
+ "pac_contributions": [
+  {
+   "committee_id": "C00797670",
+   "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 15000.0
+  },
+  {
+   "committee_id": "C00040998",
+   "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION",
+   "total": 15000.0
+  },
+  {
+   "committee_id": "C00030718",
+   "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL ASSOCIATION OF REALTORS",
+   "total": 13000.0
+  },
+  {
+   "committee_id": "C00563726",
+   "name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+   "connected_org": "SMITH VICTORY",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00639229",
+   "name": "AMERICAN REVIVAL PAC",
+   "connected_org": null,
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00592089",
+   "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+   "connected_org": "EMMER VICTORY COMMITTEE",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00570226",
+   "name": "SEAL PAC SUPPORTING ELECTING AMERICAN LEADERS PAC",
+   "connected_org": null,
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00236489",
+   "name": "KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
+   "connected_org": "KOCH, INC.",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00693796",
+   "name": "BUCKEYE LIBERTY POLITICAL ACTION COMMITTEE",
+   "connected_org": "BUCKEYE VICTORY FUND",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00749481",
+   "name": "RAPTOR PAC",
+   "connected_org": "PFLUGER VICTORY FUND",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00546234",
+   "name": "LEIDOS INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "LEIDOS, INC.",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00493221",
+   "name": "THE GUARDIAN FUND",
+   "connected_org": "JACK BEGMAN",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00007880",
+   "name": "AMERICA'S CREDIT UNIONS PAC",
+   "connected_org": "AMERICA'S CREDIT UNIONS",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00623512",
+   "name": "IN THE ARENA PAC",
+   "connected_org": "TEAM HILL",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00039461",
+   "name": "BALL CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "BALL CORPORATION",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00819425",
+   "name": "OLD BREED PAC",
+   "connected_org": "MCCORMICK",
+   "total": 7599.0
+  },
+  {
+   "committee_id": "C00411116",
+   "name": "SPACE EXPLORATION TECHNOLOGIES CORP. PAC",
+   "connected_org": "SPACE EXPLORATION TECHNOLOGIES CORP.",
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00064766",
+   "name": "UNITED PARCEL SERVICE, INC. PAC (UPSPAC)",
+   "connected_org": "UNITED PARCEL SERVICE, INC.",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00467431",
+   "name": "THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE",
+   "connected_org": "SCALISE LEADERSHIP FUND",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00692715",
+   "name": "HELP ELECT REPUBLICANS NOW",
+   "connected_org": "HERN VICTORY FUND",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00404392",
+   "name": "CONSERVATIVE OPPORTUNITY LEADERSHIP AND ENTERPRISE PAC",
+   "connected_org": "COLE COMBINED COMMITTEE",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00022343",
+   "name": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
+   "connected_org": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC.",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00284885",
+   "name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE HOME DEPOT INC.",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00010421",
+   "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00104802",
+   "name": "DELTA AIR LINES PAC",
+   "connected_org": "DELTA AIRLINES",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00145037",
+   "name": "SOUTHERN COMPANY GAS EMPLOYEES PAC",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00689208",
+   "name": "RVFPAC",
+   "connected_org": null,
+   "total": 4500.0
+  },
+  {
+   "committee_id": "C00432260",
+   "name": "CLUB FOR GROWTH PAC",
+   "connected_org": "CLUB FOR GROWTH",
+   "total": 4295.0
+  },
+  {
+   "committee_id": "C00416594",
+   "name": "JIM JORDAN FOR CONGRESS",
+   "connected_org": "BUCKEYE VICTORY FUND",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00545749",
+   "name": "EMMER FOR CONGRESS",
+   "connected_org": "EMMER VICTORY COMMITTEE",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00482737",
+   "name": "AUSTIN SCOTT FOR CONGRESS INC",
+   "connected_org": "AUSTIN SCOTT VICTORY FUND",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00822767",
+   "name": "RUDY FOR INDIANA",
+   "connected_org": "RUDY VICTORY FUND",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00608695",
+   "name": "MIKE JOHNSON FOR LOUISIANA",
+   "connected_org": "JOHNSON LEADERSHIP FUND",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00010868",
+   "name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
+   "connected_org": "AMERICAN COUNCIL OF ENGINEERING COMPANIES",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00692087",
+   "name": "VICTORY AND NATION PAC",
+   "connected_org": "TAYLOR CRENSHAW COMMITTEE",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00897355",
+   "name": "NATERA, INC. PAC (NATERA PAC)",
+   "connected_org": "NATERA, INC.",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00386755",
+   "name": "PROJECTHEALTHSOLUTIONS PAC - PHSPAC",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00540146",
+   "name": "FIRST IN FREEDOM PAC",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00786202",
+   "name": "CROSSPARTISAN PAC II",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00767640",
+   "name": "RANGER PAC",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00635201",
+   "name": "RWA FUND, INC.",
+   "connected_org": "RICHARD  W  ALLEN",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00142711",
+   "name": "THE BOEING COMPANY PAC",
+   "connected_org": "THE BOEING COMPANY",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00113811",
+   "name": "NATIONAL ELECTRICAL CONTRACTORS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL ELECTRICAL CONTRACTORS ASSOCIATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00122101",
+   "name": "SAFARI CLUB INTERNATIONAL PAC (SCI-PAC)",
+   "connected_org": "SAFARI CLUB INTERNATIONAL",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00649525",
+   "name": "RESTORING OUR NATION PAC",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00481176",
+   "name": "CONCERNED AMERICANS FOR FREEDOM & OPPORTUNITY PAC (CAFO PAC)",
+   "connected_org": "SMITH",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00631051",
+   "name": "ABRAHAM LINCOLN PAC",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00477653",
+   "name": "COX ENTERPRISES PAC (COXPAC) INC.",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00078451",
+   "name": "GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GENERAL DYNAMICS EMPLOYEE PAC)",
+   "connected_org": "GENERAL DYNAMICS CORPORATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00653220",
+   "name": "CAROL FOR CONGRESS",
+   "connected_org": "MILLER VICTORY FUND",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00053553",
+   "name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00034157",
+   "name": "AFLAC POLITICAL ACTION COMMITTEE (AFLAC PAC)",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00483487",
+   "name": "BRINGING REPUBLICAN EXCELLENCE TO TOWN PAC",
+   "connected_org": "GUTHRIE",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00394957",
+   "name": "SCALISE FOR CONGRESS",
+   "connected_org": "SCALISE LEADERSHIP FUND",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00881268",
+   "name": "GUARDING OUR LASTING DEMOCRACY (GOLD) PAC",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00877506",
+   "name": "SPACE COAST LEADERSHIP PAC",
+   "connected_org": "HARIDOPOLOS VICTORY FUND",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00326439",
+   "name": "HOUSE CONSERVATIVES FUND",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00783423",
+   "name": "CACI INTERNATIONAL INC POLITICAL ACTION COMMITTEE (CACI PAC)",
+   "connected_org": "CACI INTERNATIONAL INC",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00932871",
+   "name": "HONEYWELL AEROSPACE US LLC PUBLIC AFFAIRS COUNCIL (HONA PAC)",
+   "connected_org": null,
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00034272",
+   "name": "NATIONAL CHICKEN COUNCIL POLITICAL ACTION COMMITTEE (FKA) NATIONAL BROILER COUNCIL PAC",
+   "connected_org": "NATIONAL CHICKEN COUNCIL",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00089458",
+   "name": "NATIONAL STONE, SAND & GRAVEL ASSOCIATION ROCKPAC",
+   "connected_org": "NATIONAL STONE, SAND AND GRAVEL ASSOCIATION",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00934968",
+   "name": "FRIENDS OF TREY KELLY",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00930404",
+   "name": "AMERICA FIRST PAC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00703173",
+   "name": "UPSTATE SC PAC",
+   "connected_org": "TEAM TIMMONS",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00311142",
+   "name": "TROUTMAN PEPPER LOCKE LLP POLITICAL ACTION COMMITTEE, INC.",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00009282",
+   "name": "NORFOLK SOUTHERN CORPORATION GOOD GOVERNMENT FUND",
+   "connected_org": "NORFOLK SOUTHERN CORPORATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00501643",
+   "name": "DAVID ROUZER FOR CONGRESS",
+   "connected_org": "ROUZER CONGRESSIONAL TRUST",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00521914",
+   "name": "PRIMERICA INC POLITICAL ACTION COMMITTEE (PRIMERICA PAC)",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00197228",
+   "name": "ELEVANCE HEALTH, INC. POLITICAL ACTION COMMITTEE (ELEVANCE HEALTH PAC)",
+   "connected_org": "ELEVANCE HEALTH, INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00097568",
+   "name": "EMPLOYEES OF RTX CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "RTX CORPORATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00303024",
+   "name": "LOCKHEED MARTIN CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
+   "connected_org": "LOCKHEED MARTIN CORPORATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00394650",
+   "name": "JBS USA FOOD COMPANY PAC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00432526",
+   "name": "TURKISH COALITON USA PAC (TC-USA PAC)",
+   "connected_org": "NONE",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00823351",
+   "name": "REPUBLICANS UNITED TO DEFEND YOU PAC",
+   "connected_org": "YAKYM",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00432252",
+   "name": "REGIONS FINANCIAL CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "REGIONS FINANCIAL CORPORATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00119776",
+   "name": "GEORGIA POWER COMPANY FEDERAL PAC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00035006",
+   "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
+   "connected_org": "CHEVRON CORPORATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00699157",
+   "name": "CLEAR CHANNEL OUTDOOR, LLC. PAC",
+   "connected_org": "CLEAR CHANNEL OUTDOOR, LLC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00035204",
+   "name": "ENERGY MARKETERS OF AMERICA SMALL BUSINESS COMMITTEE PAC (EMA SBC PAC)",
+   "connected_org": "ENERGY MARKETERS OF AMERICA SMALL BUSINESS COMMITTEE PAC (EMA SBC PAC)",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00225342",
+   "name": "MCGUIREWOODS FEDERAL PAC",
+   "connected_org": "NONE",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00241380",
+   "name": "ARENTFOX SCHIFF CIVIC PARTICIPATION FUND (AFSPAC)",
+   "connected_org": "NONE",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00922062",
+   "name": "CHRIS GOBER FOR TEXAS",
+   "connected_org": "GOBER BOLD FRONTIERS FUND",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00661272",
+   "name": "WITH HONOR PAC",
+   "connected_org": null,
+   "total": 0.0
+  }
+ ],
+ "pac_by_type": [
+  {
+   "type": "Leadership PACs (run by other politicians)",
+   "total": 103099.0
+  },
+  {
+   "type": "Corporate PACs",
+   "total": 84500.0
+  },
+  {
+   "type": "Trade association PACs",
+   "total": 45500.0
+  },
+  {
+   "type": "Other PACs",
+   "total": 40500.0
+  },
+  {
+   "type": "Membership group PACs",
+   "total": 36795.0
+  },
+  {
+   "type": "Other candidates’ campaigns",
+   "total": 27000.0
+  }
+ ],
+ "outside_spending": {
+  "support_total": 2755868.0,
+  "oppose_total": 26500.0,
+  "spenders": [
+   {
+    "committee_id": "C00835967",
+    "name": "CONSERVATIVES FOR AMERICAN EXCELLENCE INC.",
+    "support": 997890.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00916692",
+    "name": "AMERICAN MISSION",
+    "support": 686579.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00487470",
+    "name": "CLUB FOR GROWTH ACTION",
+    "support": 518654.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00836221",
+    "name": "DEFEND AMERICAN JOBS",
+    "support": 455142.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00899419",
+    "name": "PATRIOTIC FUND, INC.",
+    "support": 54546.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00736140",
+    "name": "HOLD THE LINE PAC",
+    "support": 0.0,
+    "oppose": 26500.0
+   },
+   {
+    "committee_id": "C00935536",
+    "name": "NORTH GEORGIANS FOR OUR CONSERVATIVE FUTURE PAC",
+    "support": 23500.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00892471",
+    "name": "MAGA INC.",
+    "support": 17900.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00432260",
+    "name": "CLUB FOR GROWTH PAC",
+    "support": 1657.0,
+    "oppose": 0.0
+   }
+  ],
+  "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
+ },
+ "detail": {
+  "committee_id": "C00931709",
+  "committee_name": "CLAY FULLER FOR CONGRESS, INC.",
+  "coverage_start": "2025-10-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2160464.05,
+  "amounts": {
+   "individuals_200_or_less": 202131.23,
+   "individuals_over_200": 1072224.64,
+   "pacs_and_parties": 375080.74,
+   "candidate_own": 450000.0,
+   "transfers_from_authorized": 61027.44,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    10
+   ],
+   [
+    "Individuals giving more than $200",
+    51
+   ],
+   [
+    "PACs and party committees",
+    18
+   ],
+   [
+    "Candidate’s own money",
+    21
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 911312.03,
+   "home_state": "GA",
+   "home_state_total": 381502.53,
+   "home_state_share": 42,
+   "top": [
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 381502.53,
+     "count": 353
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 75691.15,
+     "count": 261
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 74229.41,
+     "count": 217
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 70064.23,
+     "count": 77
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 68212.35,
+     "count": 98
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 42741.02,
+     "count": 45
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 23518.87,
+     "count": 54
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 23500.0,
+     "count": 16
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 16143.55,
+     "count": 10
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 13969.71,
+     "count": 9
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ROSEWOOD CORPORATION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "EPM",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "OLD COURT GROUP",
+     "total": 7000.0,
+     "count": 7
+    },
+    {
+     "employer": "RNDC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "FEDERAL GOVERNMENT",
+     "total": 6870.71,
+     "count": 2
+    },
+    {
+     "employer": "EVANS GRADING COMPANY",
+     "total": 4500.0,
+     "count": 2
+    },
+    {
+     "employer": "KIRKLAND & ELLIS LLP",
+     "total": 4000.0,
+     "count": 3
+    },
+    {
+     "employer": "COBB V REALTY",
+     "total": 3643.56,
+     "count": 3
+    },
+    {
+     "employer": "TIP TOP",
+     "total": 3643.56,
+     "count": 3
+    },
+    {
+     "employer": "SEMG",
+     "total": 3643.56,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794319828.5573218,
+ "sources": {
+  "summary": "FEC candidate summary file (weball)",
+  "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
+  "detail": "FEC API, principal campaign committee"
+ }
+}

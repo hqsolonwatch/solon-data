@@ -1,0 +1,306 @@
+{
+ "bioguide": "D000563",
+ "name": "Richard J. Durbin",
+ "cycle": 2026,
+ "candidate_id": "S6IL00151",
+ "summary": {
+  "receipts": 84084.45,
+  "individual_contributions": 32050.68,
+  "pac_contributions": 7000.0,
+  "party_contributions": 0.0,
+  "candidate_contributions": 0.0,
+  "candidate_loans": 0.0,
+  "transfers_from_authorized": 35242.92,
+  "cash_on_hand": 840651.61,
+  "coverage_end": "09/30/2026"
+ },
+ "pac_contributions": [
+  {
+   "committee_id": "C00003251",
+   "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+   "connected_org": "NATIONAL EDUCATION ASSOCIATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00030718",
+   "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL ASSOCIATION OF REALTORS",
+   "total": 1200.0
+  },
+  {
+   "committee_id": "C00340943",
+   "name": "DAVITA INC. POLITICAL ACTION COMMITTEE (DAPAC)",
+   "connected_org": "DAVITA INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00830208",
+   "name": "GE HEALTHCARE TECHNOLOGIES INC. PAC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00331686",
+   "name": "FASPAC FAREWAY STORES INC PAC",
+   "connected_org": "NONE",
+   "total": 0.0
+  },
+  {
+   "committee_id": "C00377952",
+   "name": "CUMMINS INC. POLITICAL ACTION COMMITTEE (CIPAC)",
+   "connected_org": "CUMMINS INC.",
+   "total": -1000.0
+  },
+  {
+   "committee_id": "C00311308",
+   "name": "THE TIMKEN COMPANY GOOD GOVERNMENT FUND",
+   "connected_org": "THE TIMKEN COMPANY",
+   "total": -1000.0
+  },
+  {
+   "committee_id": "C00428623",
+   "name": "GOOGLE LLC NETPAC",
+   "connected_org": "GOOGLE LLC",
+   "total": -1000.0
+  },
+  {
+   "committee_id": "C00255877",
+   "name": "THE OPTIONS CLEARING CORPORATION PAC",
+   "connected_org": "THE OPTIONS CLEARING CORPORATION",
+   "total": -2000.0
+  },
+  {
+   "committee_id": "C00040329",
+   "name": "NATIONAL RETAIL FEDERATION RETAILPAC",
+   "connected_org": null,
+   "total": -2500.0
+  },
+  {
+   "committee_id": "C00462630",
+   "name": "COVINGTON AND BURLING LLP PAC",
+   "connected_org": null,
+   "total": -2500.0
+  },
+  {
+   "committee_id": "C00243659",
+   "name": "HY-VEE INC EMPLOYEES' POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": -5000.0
+  },
+  {
+   "committee_id": "C00338020",
+   "name": "ARGENTUM'S SILVER PAC",
+   "connected_org": "ARGENTUM",
+   "total": -5000.0
+  },
+  {
+   "committee_id": "C00762427",
+   "name": "APPLIED RESEARCH ASSOCIATES, INC. POLITICAL ACTION COMMITTEE (ARAPAC)",
+   "connected_org": null,
+   "total": -5000.0
+  },
+  {
+   "committee_id": "C00686832",
+   "name": "WAY TO LEAD PAC",
+   "connected_org": null,
+   "total": -5000.0
+  },
+  {
+   "committee_id": "C00451153",
+   "name": "GRIDIRON-PAC",
+   "connected_org": "NONE",
+   "total": -5000.0
+  }
+ ],
+ "pac_by_type": [
+  {
+   "type": "Labor union PACs",
+   "total": 2000.0
+  },
+  {
+   "type": "Membership group PACs",
+   "total": 1200.0
+  },
+  {
+   "type": "Trade association PACs",
+   "total": -7500.0
+  },
+  {
+   "type": "Other PACs",
+   "total": -12500.0
+  },
+  {
+   "type": "Corporate PACs",
+   "total": -13000.0
+  }
+ ],
+ "outside_spending": {
+  "support_total": 0,
+  "oppose_total": 0,
+  "spenders": [],
+  "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
+ },
+ "detail": {
+  "committee_id": "C00148999",
+  "committee_name": "FRIENDS OF DICK DURBIN COMMITTEE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 84084.45,
+  "amounts": {
+   "individuals_200_or_less": 10678.87,
+   "individuals_over_200": 21371.81,
+   "pacs_and_parties": 7000.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 35242.92,
+   "other_receipts": 7246.76
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    27
+   ],
+   [
+    "Individuals giving more than $200",
+    55
+   ],
+   [
+    "PACs and party committees",
+    18
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 25521.81,
+   "home_state": "IL",
+   "home_state_total": 16536.81,
+   "home_state_share": 65,
+   "top": [
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 16536.81,
+     "count": 708
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 3000.0,
+     "count": 2
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 1000.0,
+     "count": 1
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 935.0,
+     "count": 37
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 690.0,
+     "count": 25
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 555.0,
+     "count": 13
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 540.0,
+     "count": 5
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 445.0,
+     "count": 8
+    },
+    {
+     "state": "MO",
+     "state_full": "Missouri",
+     "total": 395.0,
+     "count": 9
+    },
+    {
+     "state": "OR",
+     "state_full": "Oregon",
+     "total": 302.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "W2E GROUP",
+     "total": 2000.0,
+     "count": 1
+    },
+    {
+     "employer": "CORNERSTONE GOVERNMENT AFFAIRS",
+     "total": 1000.0,
+     "count": 1
+    },
+    {
+     "employer": "SMITH DAWSON & ANDREWS",
+     "total": 1000.0,
+     "count": 1
+    },
+    {
+     "employer": "NORTHWESTERN UNIVERSITY",
+     "total": 325.0,
+     "count": 3
+    },
+    {
+     "employer": "UCHICAGO ARGONNE LLC",
+     "total": 250.0,
+     "count": 1
+    },
+    {
+     "employer": "REGO CONSULTING",
+     "total": 225.0,
+     "count": 9
+    },
+    {
+     "employer": "DEVELOPMENT SERVICES CORP",
+     "total": 200.0,
+     "count": 2
+    },
+    {
+     "employer": "KYIV MOHYLA FOUNDATION",
+     "total": 200.0,
+     "count": 2
+    },
+    {
+     "employer": "SANDBOX INDUSTRIES LLC",
+     "total": 200.0,
+     "count": 4
+    },
+    {
+     "employer": "PURDUE UNIVERSITY",
+     "total": 150.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794319828.5573218,
+ "sources": {
+  "summary": "FEC candidate summary file (weball)",
+  "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
+  "detail": "FEC API, principal campaign committee"
+ }
+}

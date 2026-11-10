@@ -1,0 +1,124 @@
+{
+ "bioguide": "K000404",
+ "name": "Kimberlyn King-Hinds",
+ "cycle": 2026,
+ "candidate_id": "H4MP01022",
+ "summary": {
+  "receipts": 103385.97,
+  "individual_contributions": 36455.4,
+  "pac_contributions": 55254.75,
+  "party_contributions": 0.0,
+  "candidate_contributions": 0.0,
+  "candidate_loans": 0.0,
+  "transfers_from_authorized": 11591.74,
+  "cash_on_hand": 16214.04,
+  "coverage_end": "10/14/2026"
+ },
+ "pac_contributions": [
+  {
+   "committee_id": "C00877365",
+   "name": "AMERICA'S BOLD ERA PAC",
+   "connected_org": "HAMADEH",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00267849",
+   "name": "ALLIED PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00592089",
+   "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+   "connected_org": "EMMER VICTORY COMMITTEE",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00416594",
+   "name": "JIM JORDAN FOR CONGRESS",
+   "connected_org": "BUCKEYE VICTORY FUND",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00775999",
+   "name": "DEPENDABLE CONSERVATIVE LEADERSHIP PAC",
+   "connected_org": "MAX MILLER VICTORY",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00577288",
+   "name": "OLD NORTH LEADERSHIP PAC",
+   "connected_org": "ROUZER",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00877506",
+   "name": "SPACE COAST LEADERSHIP PAC",
+   "connected_org": "HARIDOPOLOS VICTORY FUND",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00366070",
+   "name": "FAA MANAGERS ASSOCIATION INC. PAC",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00030718",
+   "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL ASSOCIATION OF REALTORS",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00765644",
+   "name": "BIG IDEAS CREATE EXCELLENCE PAC",
+   "connected_org": "BICE VICTORY COMMITTEE",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00147173",
+   "name": "WINE AND SPIRITS WHOLESALERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "WINE & SPIRITS WHOLESALERS OF AMERICA",
+   "total": 0.0
+  }
+ ],
+ "pac_by_type": [
+  {
+   "type": "Leadership PACs (run by other politicians)",
+   "total": 15000.0
+  },
+  {
+   "type": "Labor union PACs",
+   "total": 5000.0
+  },
+  {
+   "type": "Other PACs",
+   "total": 4000.0
+  },
+  {
+   "type": "Other candidates’ campaigns",
+   "total": 4000.0
+  },
+  {
+   "type": "Membership group PACs",
+   "total": 2000.0
+  },
+  {
+   "type": "Trade association PACs",
+   "total": 0.0
+  }
+ ],
+ "outside_spending": {
+  "support_total": 0,
+  "oppose_total": 0,
+  "spenders": [],
+  "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
+ },
+ "detail": null,
+ "detail_fetched_ts": 0,
+ "sources": {
+  "summary": "FEC candidate summary file (weball)",
+  "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
+  "detail": "FEC API, principal campaign committee"
+ }
+}

@@ -1,0 +1,347 @@
+{
+ "bill": "hjres35-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "report_count": 23,
+ "clients": [
+  {
+   "client": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "display_name": "Chamber of Commerce of the U.s.a.",
+   "reports": 5,
+   "latest_report_amount": 16480000.0,
+   "latest_report": "3754d07c-7ecc-4531-85c0-e4c3de7642a6",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "AMERICAN MEDICAL ASSOCIATION",
+   "display_name": "American Medical Association",
+   "reports": 1,
+   "latest_report_amount": 8000000.0,
+   "latest_report": "0fcc85c0-4c5c-450c-9709-988b02544a2b",
+   "pac_ids": [
+    "C00000422",
+    "C00003194"
+   ],
+   "pac_names": [
+    "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+    "CALIFORNIA MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE - FEDERAL"
+   ]
+  },
+  {
+   "client": "AMERICAN PETROLEUM INSTITUTE",
+   "display_name": "American Petroleum Institute",
+   "reports": 1,
+   "latest_report_amount": 1920000.0,
+   "latest_report": "94aa0f30-7984-4a4e-bb3c-9f50b25355b3",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "MARATHON PETROLEUM COMPANY LP",
+   "display_name": "Marathon Petroleum Company",
+   "reports": 1,
+   "latest_report_amount": 1140000.0,
+   "latest_report": "5e659982-c6d4-4bf1-9a61-a4a5907bb957",
+   "pac_ids": [
+    "C00496307"
+   ],
+   "pac_names": [
+    "MARATHON PETROLEUM CORPORATION EMPLOYEES POLITICAL ACTION COMMITTEE (MPAC)"
+   ]
+  },
+  {
+   "client": "INDEPENDENT PETROLEUM ASSOCIATION OF AMERICA",
+   "display_name": "Independent Petroleum Association of America",
+   "reports": 7,
+   "latest_report_amount": 120000.0,
+   "latest_report": "9538998d-4272-4f08-915b-6845aaadec04",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "EARTHJUSTICE ACTION",
+   "display_name": "Earthjustice Action",
+   "reports": 1,
+   "latest_report_amount": 92635.0,
+   "latest_report": "31b6b11c-b148-4958-bcf8-64a207a8dd42",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "SOUTHERN ENVIRONMENTAL LAW CENTER",
+   "display_name": "Southern Environmental Law Center",
+   "reports": 7,
+   "latest_report_amount": 90000.0,
+   "latest_report": "9974d2a8-2d38-4c3a-b27f-4e06171ce2e7",
+   "pac_ids": [],
+   "pac_names": []
+  }
+ ],
+ "groups_shown": [
+  {
+   "client": "AMERICAN MEDICAL ASSOCIATION",
+   "display_name": "American Medical Association",
+   "reports": 1,
+   "latest_report_amount": 8000000.0,
+   "latest_report": "0fcc85c0-4c5c-450c-9709-988b02544a2b",
+   "pac_ids": [
+    "C00000422",
+    "C00003194"
+   ],
+   "pac_names": [
+    "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+    "CALIFORNIA MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE - FEDERAL"
+   ]
+  },
+  {
+   "client": "MARATHON PETROLEUM COMPANY LP",
+   "display_name": "Marathon Petroleum Company",
+   "reports": 1,
+   "latest_report_amount": 1140000.0,
+   "latest_report": "5e659982-c6d4-4bf1-9a61-a4a5907bb957",
+   "pac_ids": [
+    "C00496307"
+   ],
+   "pac_names": [
+    "MARATHON PETROLEUM CORPORATION EMPLOYEES POLITICAL ACTION COMMITTEE (MPAC)"
+   ]
+  }
+ ],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "0fcc85c0-4c5c-450c-9709-988b02544a2b",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-21T10:14:05-04:00",
+   "amount": 8000000.0,
+   "registrant": "AMERICAN MEDICAL ASSOCIATION",
+   "client": "AMERICAN MEDICAL ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/0fcc85c0-4c5c-450c-9709-988b02544a2b/print/"
+  },
+  {
+   "filing_uuid": "cd77f510-f0d8-416b-a11c-b304e8653c7d",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-21T12:42:26-04:00",
+   "amount": 19340000.0,
+   "registrant": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "client": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "url": "https://lda.gov/filings/public/filing/cd77f510-f0d8-416b-a11c-b304e8653c7d/print/"
+  },
+  {
+   "filing_uuid": "94aa0f30-7984-4a4e-bb3c-9f50b25355b3",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-21T14:36:13-04:00",
+   "amount": 1920000.0,
+   "registrant": "AMERICAN PETROLEUM INSTITUTE",
+   "client": "AMERICAN PETROLEUM INSTITUTE",
+   "url": "https://lda.gov/filings/public/filing/94aa0f30-7984-4a4e-bb3c-9f50b25355b3/print/"
+  },
+  {
+   "filing_uuid": "5e4083b2-a998-45cb-aa44-6dd80f30e3da",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-21T16:27:46-04:00",
+   "amount": 330000.0,
+   "registrant": "SOUTHERN ENVIRONMENTAL LAW CENTER",
+   "client": "SOUTHERN ENVIRONMENTAL LAW CENTER",
+   "url": "https://lda.gov/filings/public/filing/5e4083b2-a998-45cb-aa44-6dd80f30e3da/print/"
+  },
+  {
+   "filing_uuid": "fd9b1116-d9ef-44a1-b842-890df421284c",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-21T17:40:26-04:00",
+   "amount": 170000.0,
+   "registrant": "INDEPENDENT PETROLEUM ASSOCIATION OF AMERICA",
+   "client": "INDEPENDENT PETROLEUM ASSOCIATION OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/fd9b1116-d9ef-44a1-b842-890df421284c/print/"
+  },
+  {
+   "filing_uuid": "31b6b11c-b148-4958-bcf8-64a207a8dd42",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-21T18:46:49-04:00",
+   "amount": 92635.0,
+   "registrant": "EARTHJUSTICE ACTION",
+   "client": "EARTHJUSTICE ACTION",
+   "url": "https://lda.gov/filings/public/filing/31b6b11c-b148-4958-bcf8-64a207a8dd42/print/"
+  },
+  {
+   "filing_uuid": "5e659982-c6d4-4bf1-9a61-a4a5907bb957",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-21T18:53:53-04:00",
+   "amount": 1140000.0,
+   "registrant": "MARATHON PETROLEUM COMPANY LP",
+   "client": "MARATHON PETROLEUM COMPANY LP",
+   "url": "https://lda.gov/filings/public/filing/5e659982-c6d4-4bf1-9a61-a4a5907bb957/print/"
+  },
+  {
+   "filing_uuid": "8f672edb-eb0a-419d-b42c-c5ce03f44ad5",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T13:43:45-04:00",
+   "amount": 140000.0,
+   "registrant": "INDEPENDENT PETROLEUM ASSOCIATION OF AMERICA",
+   "client": "INDEPENDENT PETROLEUM ASSOCIATION OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/8f672edb-eb0a-419d-b42c-c5ce03f44ad5/print/"
+  },
+  {
+   "filing_uuid": "57d0633d-b7c3-4abf-882a-00f4e77aa91a",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T14:07:22-04:00",
+   "amount": 160000.0,
+   "registrant": "SOUTHERN ENVIRONMENTAL LAW CENTER",
+   "client": "SOUTHERN ENVIRONMENTAL LAW CENTER",
+   "url": "https://lda.gov/filings/public/filing/57d0633d-b7c3-4abf-882a-00f4e77aa91a/print/"
+  },
+  {
+   "filing_uuid": "9540c35a-5726-45ad-aa09-89283b86b0c0",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T16:26:04-04:00",
+   "amount": 19340000.0,
+   "registrant": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "client": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "url": "https://lda.gov/filings/public/filing/9540c35a-5726-45ad-aa09-89283b86b0c0/print/"
+  },
+  {
+   "filing_uuid": "872ed5c8-a7b0-4153-9150-95438809163b",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-17T15:38:28-04:00",
+   "amount": 100000.0,
+   "registrant": "SOUTHERN ENVIRONMENTAL LAW CENTER",
+   "client": "SOUTHERN ENVIRONMENTAL LAW CENTER",
+   "url": "https://lda.gov/filings/public/filing/872ed5c8-a7b0-4153-9150-95438809163b/print/"
+  },
+  {
+   "filing_uuid": "d6e5cc70-7ee3-40e7-bd01-a9c80c075f8b",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T12:24:26-04:00",
+   "amount": 120000.0,
+   "registrant": "INDEPENDENT PETROLEUM ASSOCIATION OF AMERICA",
+   "client": "INDEPENDENT PETROLEUM ASSOCIATION OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/d6e5cc70-7ee3-40e7-bd01-a9c80c075f8b/print/"
+  },
+  {
+   "filing_uuid": "4c04ee95-5e4b-43e5-9a78-41a2504de0f6",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T18:13:17-04:00",
+   "amount": 13650000.0,
+   "registrant": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "client": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "url": "https://lda.gov/filings/public/filing/4c04ee95-5e4b-43e5-9a78-41a2504de0f6/print/"
+  },
+  {
+   "filing_uuid": "750b7d00-4c55-4cee-bb29-8f0828b97cac",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T11:42:24-05:00",
+   "amount": 250000.0,
+   "registrant": "INDEPENDENT PETROLEUM ASSOCIATION OF AMERICA",
+   "client": "INDEPENDENT PETROLEUM ASSOCIATION OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/750b7d00-4c55-4cee-bb29-8f0828b97cac/print/"
+  },
+  {
+   "filing_uuid": "5ad5001c-1141-4258-bc54-ed066cbfe210",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T14:30:51-05:00",
+   "amount": 110000.0,
+   "registrant": "SOUTHERN ENVIRONMENTAL LAW CENTER",
+   "client": "SOUTHERN ENVIRONMENTAL LAW CENTER",
+   "url": "https://lda.gov/filings/public/filing/5ad5001c-1141-4258-bc54-ed066cbfe210/print/"
+  },
+  {
+   "filing_uuid": "96338377-b266-4f3c-9cc7-bb1e0b8f4024",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T14:34:52-05:00",
+   "amount": 17960000.0,
+   "registrant": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "client": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "url": "https://lda.gov/filings/public/filing/96338377-b266-4f3c-9cc7-bb1e0b8f4024/print/"
+  },
+  {
+   "filing_uuid": "f4a3cf33-8f3f-4a0a-a748-7602a226e7a3",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T15:51:44-04:00",
+   "amount": 280000.0,
+   "registrant": "SOUTHERN ENVIRONMENTAL LAW CENTER",
+   "client": "SOUTHERN ENVIRONMENTAL LAW CENTER",
+   "url": "https://lda.gov/filings/public/filing/f4a3cf33-8f3f-4a0a-a748-7602a226e7a3/print/"
+  },
+  {
+   "filing_uuid": "f41bfa49-7c27-4777-9550-1b2880ed1b69",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T16:44:06-04:00",
+   "amount": 180000.0,
+   "registrant": "INDEPENDENT PETROLEUM ASSOCIATION OF AMERICA",
+   "client": "INDEPENDENT PETROLEUM ASSOCIATION OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/f41bfa49-7c27-4777-9550-1b2880ed1b69/print/"
+  },
+  {
+   "filing_uuid": "e5b71907-84d6-4963-a20e-2fdedb9f3635",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-18T13:26:22-04:00",
+   "amount": 250000.0,
+   "registrant": "INDEPENDENT PETROLEUM ASSOCIATION OF AMERICA",
+   "client": "INDEPENDENT PETROLEUM ASSOCIATION OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/e5b71907-84d6-4963-a20e-2fdedb9f3635/print/"
+  },
+  {
+   "filing_uuid": "c9334756-7442-4a3c-8207-45651ff6d15a",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T10:20:47-04:00",
+   "amount": 90000.0,
+   "registrant": "SOUTHERN ENVIRONMENTAL LAW CENTER",
+   "client": "SOUTHERN ENVIRONMENTAL LAW CENTER",
+   "url": "https://lda.gov/filings/public/filing/c9334756-7442-4a3c-8207-45651ff6d15a/print/"
+  },
+  {
+   "filing_uuid": "9974d2a8-2d38-4c3a-b27f-4e06171ce2e7",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T14:04:11-04:00",
+   "amount": 90000.0,
+   "registrant": "SOUTHERN ENVIRONMENTAL LAW CENTER",
+   "client": "SOUTHERN ENVIRONMENTAL LAW CENTER",
+   "url": "https://lda.gov/filings/public/filing/9974d2a8-2d38-4c3a-b27f-4e06171ce2e7/print/"
+  },
+  {
+   "filing_uuid": "3754d07c-7ecc-4531-85c0-e4c3de7642a6",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T11:56:11-04:00",
+   "amount": 16480000.0,
+   "registrant": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "client": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "url": "https://lda.gov/filings/public/filing/3754d07c-7ecc-4531-85c0-e4c3de7642a6/print/"
+  },
+  {
+   "filing_uuid": "9538998d-4272-4f08-915b-6845aaadec04",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T12:29:52-04:00",
+   "amount": 120000.0,
+   "registrant": "INDEPENDENT PETROLEUM ASSOCIATION OF AMERICA",
+   "client": "INDEPENDENT PETROLEUM ASSOCIATION OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/9538998d-4272-4f08-915b-6845aaadec04/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}

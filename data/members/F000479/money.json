@@ -1,0 +1,175 @@
+{
+ "bioguide": "F000479",
+ "name": "John Fetterman",
+ "cycle": 2026,
+ "candidate_id": "S6PA00274",
+ "summary": {
+  "receipts": 2960756.56,
+  "individual_contributions": 2279149.25,
+  "pac_contributions": 40500.0,
+  "party_contributions": 0.0,
+  "candidate_contributions": 0.0,
+  "candidate_loans": 0.0,
+  "transfers_from_authorized": 536019.89,
+  "cash_on_hand": 2254397.6,
+  "coverage_end": "09/30/2026"
+ },
+ "pac_contributions": [
+  {
+   "committee_id": "C00200139",
+   "name": "THE HERSHEY COMPANY POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE HERSHEY COMPANY",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00032979",
+   "name": "D.R.I.V.E. - DEM, REP, IND VOTER ED (THE PAC OF THE INT'L BRHD OF TEAMSTERS)",
+   "connected_org": "INTERNATIONAL BROTHERHOOD OF TEAMSTERS",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00629709",
+   "name": "NO LABELS PAC",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00262295",
+   "name": "CTIA - THE WIRELESS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "CTIA - THE WIRELESS ASSOCIATION",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00127811",
+   "name": "U.S. ISRAEL PAC  (USI PAC)",
+   "connected_org": "NONE",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00000059",
+   "name": "HALLMARK CARDS, INC. PAC (HALLPAC)",
+   "connected_org": "HALLMARK CARDS, INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00232843",
+   "name": "INFIN, A FINANCIAL SERVICES ALLIANCE, INC. PAC ('INFIN PAC')",
+   "connected_org": "INFIN, A FINANCIAL SERVICES ALLIANCE, INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00241380",
+   "name": "ARENTFOX SCHIFF CIVIC PARTICIPATION FUND (AFSPAC)",
+   "connected_org": "NONE",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00040741",
+   "name": "UTILITY WORKERS UNION OF AMERICA COPE",
+   "connected_org": "UTILITY WORKERS UNION OF AMERICA (THE UNION)",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00114025",
+   "name": "NATIONAL READY MIXED CONCRETE ASSN. PAC (CONCRETEPAC)",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00364133",
+   "name": "DUANE MORRIS GOVERNMENT COMMITTEE",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00024521",
+   "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+   "connected_org": "AMERICAN ASSOCIATION FOR JUSTICE (AAJ)",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00391979",
+   "name": "HERZOG PAC",
+   "connected_org": "HERZOG",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00287714",
+   "name": "CARNIVAL/PRINCESS HOLLAND AMERICA LINE INC. PAC (HALPAC)",
+   "connected_org": "HOLLAND AMERICA LINE INC.",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00166074",
+   "name": "AMERICAN SUPPLY ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00488080",
+   "name": "NATIONAL STRIPPER WELL ASSOCIATION PAC (NSWA PAC)",
+   "connected_org": "NATIONAL STRIPPER WELL ASSOCIATION",
+   "total": 500.0
+  },
+  {
+   "committee_id": "C00009985",
+   "name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
+   "connected_org": "NATIONAL ASSOCIATION OF BROADCASTERS",
+   "total": 375.0
+  },
+  {
+   "committee_id": "C00392290",
+   "name": "POPULUS FINANCIAL GROUP, INC. PAC",
+   "connected_org": "POPULUS FINANCIAL GROUP, INC.",
+   "total": 0.0
+  },
+  {
+   "committee_id": "C00483677",
+   "name": "AMERICAN PETROLEUM INSTITUTE POLITICAL ACTION COMMITTEE (API PAC)",
+   "connected_org": null,
+   "total": 0.0
+  }
+ ],
+ "pac_by_type": [
+  {
+   "type": "Corporate PACs",
+   "total": 14000.0
+  },
+  {
+   "type": "Trade association PACs",
+   "total": 10875.0
+  },
+  {
+   "type": "Labor union PACs",
+   "total": 7500.0
+  },
+  {
+   "type": "Membership group PACs",
+   "total": 7500.0
+  },
+  {
+   "type": "Other PACs",
+   "total": 5500.0
+  }
+ ],
+ "outside_spending": {
+  "support_total": 0.0,
+  "oppose_total": 7351.0,
+  "spenders": [
+   {
+    "committee_id": "C00448696",
+    "name": "SENATE CONSERVATIVES FUND",
+    "support": 0.0,
+    "oppose": 7351.0
+   }
+  ],
+  "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
+ },
+ "detail": null,
+ "detail_fetched_ts": 0,
+ "sources": {
+  "summary": "FEC candidate summary file (weball)",
+  "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
+  "detail": "FEC API, principal campaign committee"
+ }
+}

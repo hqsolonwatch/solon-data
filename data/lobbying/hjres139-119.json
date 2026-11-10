@@ -1,0 +1,71 @@
+{
+ "bill": "hjres139-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "report_count": 2,
+ "clients": [
+  {
+   "client": "AMERICAN FEDERATION OF TEACHERS",
+   "display_name": "American Federation of Teachers",
+   "reports": 1,
+   "latest_report_amount": 490000.0,
+   "latest_report": "a77cd267-5028-4b74-aeb5-b18e9139475d",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "SOCIAL SECURITY WORKS",
+   "display_name": "Social Security Works",
+   "reports": 1,
+   "latest_report_amount": 20000.0,
+   "latest_report": "e085d177-09ab-4a85-b56f-da59ca90f004",
+   "pac_ids": [
+    "C00637504"
+   ],
+   "pac_names": [
+    "SOCIAL SECURITY WORKS PAC"
+   ]
+  }
+ ],
+ "groups_shown": [
+  {
+   "client": "SOCIAL SECURITY WORKS",
+   "display_name": "Social Security Works",
+   "reports": 1,
+   "latest_report_amount": 20000.0,
+   "latest_report": "e085d177-09ab-4a85-b56f-da59ca90f004",
+   "pac_ids": [
+    "C00637504"
+   ],
+   "pac_names": [
+    "SOCIAL SECURITY WORKS PAC"
+   ]
+  }
+ ],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "e085d177-09ab-4a85-b56f-da59ca90f004",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-17T17:19:39-04:00",
+   "amount": 20000.0,
+   "registrant": "PORT SIDE STRATEGIES, LLC",
+   "client": "SOCIAL SECURITY WORKS",
+   "url": "https://lda.gov/filings/public/filing/e085d177-09ab-4a85-b56f-da59ca90f004/print/"
+  },
+  {
+   "filing_uuid": "a77cd267-5028-4b74-aeb5-b18e9139475d",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T17:00:30-04:00",
+   "amount": 490000.0,
+   "registrant": "AMERICAN FEDERATION OF TEACHERS",
+   "client": "AMERICAN FEDERATION OF TEACHERS",
+   "url": "https://lda.gov/filings/public/filing/a77cd267-5028-4b74-aeb5-b18e9139475d/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}

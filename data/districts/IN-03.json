@@ -1,0 +1,104 @@
+{
+ "code": "IN-03",
+ "state": "IN",
+ "number": 3,
+ "geoid": "1803",
+ "congress": 119,
+ "member": {
+  "bioguide": "S001188",
+  "name": "Marlin A. Stutzman",
+  "short_name": "Marlin Stutzman",
+  "party": "Republican"
+ },
+ "polsby_popper": 0.5299,
+ "square_miles": 4445.6,
+ "svg": {
+  "box": [
+   480,
+   360
+  ],
+  "shape": "164,131 165,130 165,129 166,129 166,128 165,81 183,81 183,72 182,14 237,14 289,14 315,14 316,234 315,292 315,313 315,340 310,340 309,340 303,340 302,341 300,341 299,342 292,341 292,342 291,342 291,343 292,344 292,346 287,346 286,346 287,343 285,343 285,341 282,340 282,342 268,342 268,341 267,342 267,340 251,340 250,299 233,299 216,299 215,242 185,242 184,170 178,170 178,134 166,134 166,132 165,132 165,131",
+  "islands_bridged": false,
+  "counties": [
+   {
+    "fips": "18113",
+    "county": "Noble",
+    "share_of_county_area": 1.0,
+    "poly": "180,60 180,113 198,113 198,119 258,119 257,59"
+   },
+   {
+    "fips": "18003",
+    "county": "Allen",
+    "share_of_county_area": 1.0,
+    "poly": "229,131 229,191 318,190 318,112 234,113 234,131"
+   },
+   {
+    "fips": "18009",
+    "county": "Blackford",
+    "share_of_county_area": 1.0,
+    "poly": "212,257 213,302 255,302 256,257"
+   },
+   {
+    "fips": "18075",
+    "county": "Jay",
+    "share_of_county_area": 1.0,
+    "poly": "247,296 248,317 318,316 319,256 250,257 250,296"
+   },
+   {
+    "fips": "18179",
+    "county": "Wells",
+    "share_of_county_area": 1.0,
+    "poly": "212,240 212,263 277,263 276,185 229,185 230,239"
+   },
+   {
+    "fips": "18087",
+    "county": "LaGrange",
+    "share_of_county_area": 1.0,
+    "poly": "179,11 180,66 258,65 257,11"
+   },
+   {
+    "fips": "18085",
+    "county": "Kosciusko",
+    "share_of_county_area": 0.192,
+    "poly": "114,132 114,156 123,156 123,165 181,164 181,137 186,137 186,78 117,78 118,132"
+   },
+   {
+    "fips": "18033",
+    "county": "DeKalb",
+    "share_of_county_area": 1.0,
+    "poly": "252,59 252,119 318,118 318,58"
+   },
+   {
+    "fips": "18151",
+    "county": "Steuben",
+    "share_of_county_area": 1.0,
+    "poly": "251,11 252,65 318,64 318,11"
+   },
+   {
+    "fips": "18183",
+    "county": "Whitley",
+    "share_of_county_area": 1.0,
+    "poly": "175,131 175,173 236,173 235,137 239,137 240,113 204,113 204,107 180,107 180,131"
+   },
+   {
+    "fips": "18135",
+    "county": "Randolph",
+    "share_of_county_area": 0.449,
+    "poly": "248,311 249,379 317,379 318,310"
+   },
+   {
+    "fips": "18001",
+    "county": "Adams",
+    "share_of_county_area": 1.0,
+    "poly": "270,185 271,263 319,262 318,184"
+   },
+   {
+    "fips": "18069",
+    "county": "Huntington",
+    "share_of_county_area": 1.0,
+    "poly": "181,167 182,245 236,245 235,167"
+   }
+  ]
+ },
+ "source": "U.S. Census Bureau cartographic boundary file cb_2025_us_cd119_500k and cb_2025_us_county_500k"
+}

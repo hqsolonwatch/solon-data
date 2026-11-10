@@ -1,0 +1,207 @@
+{
+ "bioguide": "R000600",
+ "name": "Aumua Amata Coleman Radewagen",
+ "cycle": 2026,
+ "candidate_id": "H4AS00036",
+ "summary": {
+  "receipts": 60716.44,
+  "individual_contributions": 27400.0,
+  "pac_contributions": 32000.0,
+  "party_contributions": 0.0,
+  "candidate_contributions": 0.0,
+  "candidate_loans": 0.0,
+  "transfers_from_authorized": 1316.44,
+  "cash_on_hand": 4346.03,
+  "coverage_end": "10/14/2026"
+ },
+ "pac_contributions": [
+  {
+   "committee_id": "C00592089",
+   "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+   "connected_org": "EMMER VICTORY COMMITTEE",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00467431",
+   "name": "THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE",
+   "connected_org": "SCALISE LEADERSHIP FUND",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00607721",
+   "name": "LAND OF OPPORTUNITY PAC",
+   "connected_org": "WESTERMAN VICTORY FUND",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00469023",
+   "name": "MAGGIE'S LIST",
+   "connected_org": null,
+   "total": 3100.0
+  },
+  {
+   "committee_id": "C00570226",
+   "name": "SEAL PAC SUPPORTING ELECTING AMERICAN LEADERS PAC",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00416594",
+   "name": "JIM JORDAN FOR CONGRESS",
+   "connected_org": "BUCKEYE VICTORY FUND",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00394957",
+   "name": "SCALISE FOR CONGRESS",
+   "connected_org": "SCALISE LEADERSHIP FUND",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00761528",
+   "name": "OREGON FRONTIER PAC",
+   "connected_org": "BENTZ",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00749481",
+   "name": "RAPTOR PAC",
+   "connected_org": "PFLUGER VICTORY FUND",
+   "total": 1000.0
+  }
+ ],
+ "pac_by_type": [
+  {
+   "type": "Leadership PACs (run by other politicians)",
+   "total": 17000.0
+  },
+  {
+   "type": "Other PACs",
+   "total": 5600.0
+  },
+  {
+   "type": "Other candidates’ campaigns",
+   "total": 4000.0
+  }
+ ],
+ "outside_spending": {
+  "support_total": 0,
+  "oppose_total": 0,
+  "spenders": [],
+  "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
+ },
+ "detail": {
+  "committee_id": "C00393041",
+  "committee_name": "FRIENDS OF AMATA",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 60716.44,
+  "amounts": {
+   "individuals_200_or_less": 100.0,
+   "individuals_over_200": 27300.0,
+   "pacs_and_parties": 32000.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 1316.44,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    0
+   ],
+   [
+    "Individuals giving more than $200",
+    46
+   ],
+   [
+    "PACs and party committees",
+    54
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 24300.0,
+   "home_state": "AS",
+   "home_state_total": 0.0,
+   "home_state_share": 0,
+   "top": [
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 11000.0,
+     "count": 4
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 3300.0,
+     "count": 1
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 3000.0,
+     "count": 1
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 3000.0,
+     "count": 1
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 2000.0,
+     "count": 1
+    },
+    {
+     "state": "HI",
+     "state_full": "Hawaii",
+     "total": 2000.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "AMERICAN TUNA ASSOCIATION",
+     "total": 5000.0,
+     "count": 2
+    },
+    {
+     "employer": "STEAMSHIP TRADE ASSOCIATION",
+     "total": 5000.0,
+     "count": 1
+    },
+    {
+     "employer": "WILLIAM LFPLC",
+     "total": 3300.0,
+     "count": 1
+    },
+    {
+     "employer": "7 BROTHERS",
+     "total": 2000.0,
+     "count": 1
+    },
+    {
+     "employer": "GA PORTS AUTHORITY",
+     "total": 2000.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794319828.5573218,
+ "sources": {
+  "summary": "FEC candidate summary file (weball)",
+  "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
+  "detail": "FEC API, principal campaign committee"
+ }
+}

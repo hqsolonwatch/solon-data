@@ -1,0 +1,451 @@
+{
+ "bioguide": "M001212",
+ "name": "Barry Moore",
+ "cycle": 2026,
+ "candidate_id": "H8AL02171",
+ "summary": {
+  "receipts": 3789913.61,
+  "individual_contributions": 2607502.03,
+  "pac_contributions": 904597.83,
+  "party_contributions": 0.0,
+  "candidate_contributions": 0.0,
+  "candidate_loans": 50000.0,
+  "transfers_from_authorized": 221043.41,
+  "cash_on_hand": 282034.75,
+  "coverage_end": "10/14/2026"
+ },
+ "pac_contributions": [
+  {
+   "committee_id": "C00300426",
+   "name": "SOUTHEAST COTTON COMMITTEE (SECC) SOUTHERN COTTONGROWERS INC/SE COTTON GINNERS ASSN",
+   "connected_org": "SOUTHERN COTTON GROWERS, INC.",
+   "total": 12500.0
+  },
+  {
+   "committee_id": "C00240911",
+   "name": "JM FAMILY ENTERPRISES, INC PAC",
+   "connected_org": "JM FAMILY ENTERPRISES, INC.",
+   "total": 12500.0
+  },
+  {
+   "committee_id": "C00193631",
+   "name": "THE FARM CREDIT COUNCIL POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE FARM CREDIT COUNCIL",
+   "total": 10500.0
+  },
+  {
+   "committee_id": "C00226472",
+   "name": "ARPAC",
+   "connected_org": "NONE",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00432252",
+   "name": "REGIONS FINANCIAL CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "REGIONS FINANCIAL CORPORATION",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00007880",
+   "name": "AMERICA'S CREDIT UNIONS PAC",
+   "connected_org": "AMERICA'S CREDIT UNIONS",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00457242",
+   "name": "BLUE CROSS BLUE SHIELD OF ALABAMA PAC",
+   "connected_org": "BLUE CROSS BLUE SHIELD OF ALABAMA",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00272724",
+   "name": "MAYNARD NEXSEN PAC",
+   "connected_org": null,
+   "total": 8000.0
+  },
+  {
+   "committee_id": "C00004275",
+   "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+   "connected_org": "AMERICAN BANKERS ASSOCIATION (ABA)",
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00116020",
+   "name": "VULCAN MATERIALS COMPANY POLITICAL ACTION COMMITTEE",
+   "connected_org": "VULCAN MATERIALS COMPANY",
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00570226",
+   "name": "SEAL PAC SUPPORTING ELECTING AMERICAN LEADERS PAC",
+   "connected_org": null,
+   "total": 6000.0
+  },
+  {
+   "committee_id": "C00552851",
+   "name": "FREEDOM CAUCUS FUND",
+   "connected_org": "NONE",
+   "total": 5020.0
+  },
+  {
+   "committee_id": "C00214148",
+   "name": "AMERICAN PEANUT SHELLERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN PEANUT SHELLERS ASSOCIATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00374298",
+   "name": "NATIONAL PEANUT BUYING POINTS ASSOCIATION PEANUT BUYING POINT PAC",
+   "connected_org": "NATIONAL PEANUT BUYING POINTS ASSOCIATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00023028",
+   "name": "NATIONAL COTTON COUNCIL OF AMERICA COMMITTEE FOR THE ADVANCEMENT OF COTTON",
+   "connected_org": "NATIONAL COTTON COUNCIL OF AMERICA",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00516864",
+   "name": "AUSTAL USA LLC FEDERAL POLITICAL ACTION COMMITTIEE",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00503094",
+   "name": "FREEDOM FIRST PAC",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00160630",
+   "name": "DRUMMOND COMPANY, INC. POLITICAL ACTION COMMITTEE (DPAC)",
+   "connected_org": "DRUMMOND COMPANY, INC.",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00110338",
+   "name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN CRYSTAL SUGAR COMPAY",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00592089",
+   "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+   "connected_org": "EMMER VICTORY COMMITTEE",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00211037",
+   "name": "ALABAMA PEANUT PRODUCERS ASSOCIATION, PEANUTPAC OF ALABAMA",
+   "connected_org": "ALABAMA PEANUT PRODUCERS ASSOCIATION, PEANUTPAC OF ALABAMA",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00563726",
+   "name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+   "connected_org": "SMITH VICTORY",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00032698",
+   "name": "INDEPENDENT COMMUNITY BANKERS OF AMERICA POLITICAL ACTION COMMITTEE (ICBA PAC)",
+   "connected_org": "INDEPENDENT COMMUNITY BANKERS OF AMERICA",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00542365",
+   "name": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC)",
+   "connected_org": "TOYOTA MOTOR NORTH AMERICA, INC",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00450866",
+   "name": "CONCORDIA POLITICAL ACTION COMMITTEE, INC.",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00126763",
+   "name": "NATIONAL ASSOCIATION OF CONVENIENCE STORES POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL ASSOCIATION OF CONVENIENCE STORES",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00502807",
+   "name": "UNITED STATES PEANUT POLITICAL ACTION COMMITTEE (US PEANUT PAC)",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00188011",
+   "name": "NATIONAL TANK TRUCK CARRIERS INC POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL TANK TRUCK CARRIERS, INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00255752",
+   "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
+   "connected_org": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00010421",
+   "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00308478",
+   "name": "USA RICE FEDERATION PAC",
+   "connected_org": "USA RICE FEDERATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00035006",
+   "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
+   "connected_org": "CHEVRON CORPORATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00607721",
+   "name": "LAND OF OPPORTUNITY PAC",
+   "connected_org": "WESTERMAN VICTORY FUND",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00812974",
+   "name": "JOSH BRECHEEN FOR CONGRESS",
+   "connected_org": "BRECHEEN",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00342766",
+   "name": "HF SINCLAIR CORPORATION POLITICAL ACTION COMMITTEE (DINO PAC)",
+   "connected_org": "HF SINCLAIR  CORPORATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00250753",
+   "name": "AUTO CARE ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "AUTO CARE ASSOCIATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00211318",
+   "name": "DELOITTE POLITICAL ACTION COMMITTEE",
+   "connected_org": "NONE",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00383521",
+   "name": "INTERNATIONAL FOODSERVICE DISTRIBUTORS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "INTERNATIONAL FOODSERVICE DISTRIBUTORS ASSOCIATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00089458",
+   "name": "NATIONAL STONE, SAND & GRAVEL ASSOCIATION ROCKPAC",
+   "connected_org": "NATIONAL STONE, SAND AND GRAVEL ASSOCIATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00001198",
+   "name": "AMERICAN HOTEL AND LODGING ASSOCIATION POLITICAL ACTION COMMITTEE ('HOTELPAC')",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00513861",
+   "name": "SSAB AMERICAS PAC SSAB ENTERPRISES LLC",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00416594",
+   "name": "JIM JORDAN FOR CONGRESS",
+   "connected_org": "BUCKEYE VICTORY FUND",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00030718",
+   "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL ASSOCIATION OF REALTORS",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00588657",
+   "name": "TEXANS FOR JODEY ARRINGTON",
+   "connected_org": "ARRINGTON VICTORY COMMITTEE",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00502229",
+   "name": "WEBER FOR CONGRESS",
+   "connected_org": "WEBER VICTORY FUND",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00163832",
+   "name": "CSX CORPORATION GOOD GOVERNMENT FUND",
+   "connected_org": "CSX CORPORATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00024521",
+   "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+   "connected_org": "AMERICAN ASSOCIATION FOR JUSTICE (AAJ)",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00267849",
+   "name": "ALLIED PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00034405",
+   "name": "INTERNATIONAL PAPER POLITICAL ACTION COMMITTEE (IP-PAC)",
+   "connected_org": "INTERNATIONAL PAPER",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00421230",
+   "name": "AIRBUS AMERICAS, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "AIRBUS AMERICAS, INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00376343",
+   "name": "NATIONAL CORN GROWERS ASSOCIATION PAC (CORNPAC)",
+   "connected_org": "NATIONAL CORN GROWERS ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00384883",
+   "name": "UNIVERSITY OF SOUTH ALABAMA FEDERAL PAC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00034272",
+   "name": "NATIONAL CHICKEN COUNCIL POLITICAL ACTION COMMITTEE (FKA) NATIONAL BROILER COUNCIL PAC",
+   "connected_org": "NATIONAL CHICKEN COUNCIL",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00480863",
+   "name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. POLITICAL ACTION COMMITTEE (NSSF PAC)",
+   "connected_org": "NATIONAL SHOOTING SPORTS FOUNDATION, INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00508770",
+   "name": "NATIONAL GROCERS ASSOCIATION GROCERS POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL GROCERS ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00408468",
+   "name": "AMERICAN SOYBEAN ASSOCIATION PAC (SOYPAC)",
+   "connected_org": "NONE",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00252338",
+   "name": "AMERICAN CHEMISTRY COUNCIL PAC",
+   "connected_org": "AMERICAN CHEMISTRY COUNCIL",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00030809",
+   "name": "NATIONAL COMMUNITY PHARMACISTS ASSOCIATION - PAC",
+   "connected_org": "NATIONAL COMMUNITY PHARMACISTS ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00257956",
+   "name": "THE GOOD FUND",
+   "connected_org": "NONE",
+   "total": 500.0
+  },
+  {
+   "committee_id": "C00479246",
+   "name": "BLACKROCK FUNDS SERVICES GROUP LLC POLITICAL ACTION COMMITTEE (BLACKROCK PAC)",
+   "connected_org": "BLACKROCK FUNDS SERVICES GROUP LLC",
+   "total": -2500.0
+  }
+ ],
+ "pac_by_type": [
+  {
+   "type": "Trade association PACs",
+   "total": 90500.0
+  },
+  {
+   "type": "Corporate PACs",
+   "total": 74000.0
+  },
+  {
+   "type": "Other PACs",
+   "total": 25020.0
+  },
+  {
+   "type": "Membership group PACs",
+   "total": 20000.0
+  },
+  {
+   "type": "Leadership PACs (run by other politicians)",
+   "total": 12500.0
+  },
+  {
+   "type": "Other candidates’ campaigns",
+   "total": 8500.0
+  },
+  {
+   "type": "Cooperative PACs",
+   "total": 5000.0
+  },
+  {
+   "type": "Labor union PACs",
+   "total": 1000.0
+  }
+ ],
+ "outside_spending": {
+  "support_total": 90857.0,
+  "oppose_total": 0.0,
+  "spenders": [
+   {
+    "committee_id": "C00448696",
+    "name": "SENATE CONSERVATIVES FUND",
+    "support": 75673.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00833566",
+    "name": "CONSTITUTIONAL CONSERVATIVES FUND",
+    "support": 15000.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00552851",
+    "name": "FREEDOM CAUCUS FUND",
+    "support": 184.0,
+    "oppose": 0.0
+   }
+  ],
+  "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
+ },
+ "detail": null,
+ "detail_fetched_ts": 0,
+ "sources": {
+  "summary": "FEC candidate summary file (weball)",
+  "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
+  "detail": "FEC API, principal campaign committee"
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "code": "IN-05",
+ "state": "IN",
+ "number": 5,
+ "geoid": "1805",
+ "congress": 119,
+ "member": {
+  "bioguide": "S000929",
+  "name": "Victoria Spartz",
+  "short_name": "Victoria Spartz",
+  "party": "Republican"
+ },
+ "polsby_popper": 0.5597,
+ "square_miles": 2209.3,
+ "svg": {
+  "box": [
+   480,
+   360
+  ],
+  "shape": "38,89 38,56 84,56 216,54 216,15 218,15 226,15 247,15 252,15 253,15 255,15 260,14 294,14 361,14 361,54 362,139 395,140 401,139 401,140 440,139 441,192 442,277 383,277 316,277 316,337 282,337 236,338 217,338 217,345 203,345 197,345 191,345 190,346 179,346 164,345 138,346 122,346 118,345 85,346 84,246 84,214 84,198 84,155 84,128 86,128 86,122 75,122 74,122 74,120 73,120 74,120 74,119 74,118 74,115 38,115",
+  "islands_bridged": false,
+  "counties": [
+   {
+    "fips": "18053",
+    "county": "Grant",
+    "share_of_county_area": 1.0,
+    "poly": "213,12 214,143 365,142 363,11"
+   },
+   {
+    "fips": "18159",
+    "county": "Tipton",
+    "share_of_county_area": 1.0,
+    "poly": "81,125 81,217 220,215 220,124"
+   },
+   {
+    "fips": "18095",
+    "county": "Madison",
+    "share_of_county_area": 1.0,
+    "poly": "214,137 214,341 319,340 318,136"
+   },
+   {
+    "fips": "18057",
+    "county": "Hamilton",
+    "share_of_county_area": 1.0,
+    "poly": "81,211 82,349 220,348 220,209"
+   },
+   {
+    "fips": "18035",
+    "county": "Delaware",
+    "share_of_county_area": 1.0,
+    "poly": "312,136 313,280 445,280 443,136"
+   },
+   {
+    "fips": "18067",
+    "county": "Howard",
+    "share_of_county_area": 0.961,
+    "poly": "35,118 58,118 58,138 68,138 68,145 87,145 87,131 220,130 219,51 35,53"
+   }
+  ]
+ },
+ "source": "U.S. Census Bureau cartographic boundary file cb_2025_us_cd119_500k and cb_2025_us_county_500k"
+}

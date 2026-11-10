@@ -1,0 +1,28 @@
+{
+ "id": "hr7613-119",
+ "label": "H.R. 7613",
+ "congress": 119,
+ "type": "hr",
+ "number": 7613,
+ "title": "ALERT Act",
+ "short_title": "Airspace Location and Enhanced Risk Transparency Act of 2026",
+ "introduced": "2026-02-20",
+ "sponsor": {
+  "name": "Rep. Graves, Sam [R-MO-6]",
+  "bioguide": "G000546",
+  "party": "R",
+  "state": "MO"
+ },
+ "policy_area": "Transportation and Public Works",
+ "latest_action": {
+  "actionDate": "2026-04-15",
+  "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+ },
+ "became_law": false,
+ "summary": "Airspace Location and Enhanced Risk Transparency Act of 2026 or the ALERT Act This bill addresses aviation safety by increasing requirements for aircraft tracking and communication using Automatic Dependent Surveillance-Broadcast (ADS-B) technology and expanding oversight. As background, ADS-B for broadcasting (Out) and receiving (In) transmits information (e.g., location and weather) among aircraft and air traffic control (ATC). The bill requires the Department of Defense (DOD) and the Department of Transportation (DOT) to enter into an agreement regarding the use of collision prevention technologies on DOD aircraft. The agreement must require the use of ADS-B Out as the default practice for DOD helicopters operating in the national airspace, unless such use would affect operational security. For DOD helicopters that are carrying out special missions in the Washington, DC, metropolitan area and are exempt from ADS-B Out transmission requirements, DOD must coordinate with DOT to conduct a safety risk assessment and implement appropriate mitigations. By December 31, 2031, DOD aircraft (other than certain special mission aircraft) must be equipped with and operating integrated ADS-B In technology. With respect to civil aircraft, by December 31, 2031, the Federal Aviation Administration (FAA) must generally require aircraft that are currently required to be equipped with ADS-B Out to also be equipped with ADS-B In. Additionally, among other requirements, the FAA must establish time-on-position limits for supervisory ATC personnel; establish a process to timely notify parties involved in certain near-miss incidents; and evaluate and revise, as necessary, helicopter routes around Ronald Reagan Washington National Airport.",
+ "summary_short": "Airspace Location and Enhanced Risk Transparency Act of 2026 or the ALERT Act This bill addresses aviation safety by increasing requirements for aircraft tracking and communication using Automatic Dependent Surveillance-Broadcast (ADS-B) technology and expanding oversight.",
+ "summary_version": "Reported to House",
+ "summary_source": "Congressional Research Service, via Congress.gov",
+ "congress_url": "https://www.congress.gov/bill/119th-congress/house-bill/7613",
+ "fetched": "2026-11-10"
+}

@@ -1,0 +1,224 @@
+{
+ "code": "TX-19",
+ "state": "TX",
+ "number": 19,
+ "geoid": "4819",
+ "congress": 119,
+ "member": {
+  "bioguide": "A000375",
+  "name": "Jodey C. Arrington",
+  "short_name": "Jodey Arrington",
+  "party": "Republican"
+ },
+ "polsby_popper": 0.5326,
+ "square_miles": 30260.3,
+ "svg": {
+  "box": [
+   480,
+   360
+  ],
+  "shape": "26,345 26,227 28,110 29,14 98,14 137,14 192,14 192,68 237,68 236,112 237,182 285,182 345,182 400,182 453,182 454,237 439,237 439,292 407,292 407,293 406,294 406,295 405,296 404,297 404,298 404,297 403,297 403,298 402,298 402,299 401,299 401,305 400,305 398,305 397,305 383,302 383,346 329,346 311,346 280,345 256,345 169,345 54,345",
+  "islands_bridged": false,
+  "counties": [
+   {
+    "fips": "48115",
+    "county": "Dawson",
+    "share_of_county_area": 1.0,
+    "poly": "112,234 113,294 172,294 172,233"
+   },
+   {
+    "fips": "48033",
+    "county": "Borden",
+    "share_of_county_area": 1.0,
+    "poly": "166,233 166,294 226,294 226,233"
+   },
+   {
+    "fips": "48169",
+    "county": "Garza",
+    "share_of_county_area": 1.0,
+    "poly": "180,179 180,240 240,238 240,179"
+   },
+   {
+    "fips": "48417",
+    "county": "Shackelford",
+    "share_of_county_area": 1.0,
+    "poly": "382,234 382,295 442,295 442,234"
+   },
+   {
+    "fips": "48079",
+    "county": "Cochran",
+    "share_of_county_area": 1.0,
+    "poly": "24,186 78,186 76,126 25,126"
+   },
+   {
+    "fips": "48153",
+    "county": "Floyd",
+    "share_of_county_area": 1.0,
+    "poly": "179,65 179,131 240,131 240,65"
+   },
+   {
+    "fips": "48433",
+    "county": "Stonewall",
+    "share_of_county_area": 1.0,
+    "poly": "288,239 349,240 349,179 288,179"
+   },
+   {
+    "fips": "48445",
+    "county": "Terry",
+    "share_of_county_area": 1.0,
+    "poly": "72,240 132,240 132,180 72,180"
+   },
+   {
+    "fips": "48017",
+    "county": "Bailey",
+    "share_of_county_area": 1.0,
+    "poly": "25,132 76,132 76,65 25,65"
+   },
+   {
+    "fips": "48069",
+    "county": "Castro",
+    "share_of_county_area": 1.0,
+    "poly": "79,11 79,71 140,71 140,11"
+   },
+   {
+    "fips": "48227",
+    "county": "Howard",
+    "share_of_county_area": 1.0,
+    "poly": "166,348 225,348 226,288 166,288"
+   },
+   {
+    "fips": "48447",
+    "county": "Throckmorton",
+    "share_of_county_area": 1.0,
+    "poly": "397,179 397,240 457,240 456,179"
+   },
+   {
+    "fips": "48279",
+    "county": "Lamb",
+    "share_of_county_area": 1.0,
+    "poly": "70,65 70,132 131,132 130,65"
+   },
+   {
+    "fips": "48107",
+    "county": "Crosby",
+    "share_of_county_area": 1.0,
+    "poly": "179,125 180,185 240,185 240,125"
+   },
+   {
+    "fips": "48501",
+    "county": "Yoakum",
+    "share_of_county_area": 1.0,
+    "poly": "23,240 78,240 78,180 24,180"
+   },
+   {
+    "fips": "48415",
+    "county": "Scurry",
+    "share_of_county_area": 1.0,
+    "poly": "220,293 279,294 280,233 220,233"
+   },
+   {
+    "fips": "48003",
+    "county": "Andrews",
+    "share_of_county_area": 1.0,
+    "poly": "23,288 23,348 118,348 118,288"
+   },
+   {
+    "fips": "48353",
+    "county": "Nolan",
+    "share_of_county_area": 1.0,
+    "poly": "273,348 332,349 333,288 273,288"
+   },
+   {
+    "fips": "48303",
+    "county": "Lubbock",
+    "share_of_county_area": 1.0,
+    "poly": "125,126 126,186 186,185 185,125"
+   },
+   {
+    "fips": "48151",
+    "county": "Fisher",
+    "share_of_county_area": 1.0,
+    "poly": "273,294 332,294 333,234 274,233"
+   },
+   {
+    "fips": "48165",
+    "county": "Gaines",
+    "share_of_county_area": 1.0,
+    "poly": "23,234 23,294 119,294 118,234"
+   },
+   {
+    "fips": "48437",
+    "county": "Swisher",
+    "share_of_county_area": 1.0,
+    "poly": "134,11 134,71 195,71 195,11"
+   },
+   {
+    "fips": "48263",
+    "county": "Kent",
+    "share_of_county_area": 1.0,
+    "poly": "234,179 234,238 294,239 294,179"
+   },
+   {
+    "fips": "48219",
+    "county": "Hockley",
+    "share_of_county_area": 1.0,
+    "poly": "70,126 72,186 132,186 131,126"
+   },
+   {
+    "fips": "48059",
+    "county": "Callahan",
+    "share_of_county_area": 0.082,
+    "poly": "380,349 439,349 440,289 380,289"
+   },
+   {
+    "fips": "48189",
+    "county": "Hale",
+    "share_of_county_area": 1.0,
+    "poly": "124,65 125,132 185,131 185,65"
+   },
+   {
+    "fips": "48335",
+    "county": "Mitchell",
+    "share_of_county_area": 1.0,
+    "poly": "219,348 279,348 279,288 220,287"
+   },
+   {
+    "fips": "48253",
+    "county": "Jones",
+    "share_of_county_area": 1.0,
+    "poly": "326,294 388,295 388,234 327,234"
+   },
+   {
+    "fips": "48207",
+    "county": "Haskell",
+    "share_of_county_area": 1.0,
+    "poly": "343,179 343,240 403,240 403,179"
+   },
+   {
+    "fips": "48441",
+    "county": "Taylor",
+    "share_of_county_area": 1.0,
+    "poly": "326,349 386,349 386,288 327,288"
+   },
+   {
+    "fips": "48305",
+    "county": "Lynn",
+    "share_of_county_area": 1.0,
+    "poly": "126,240 186,239 186,179 126,180"
+   },
+   {
+    "fips": "48317",
+    "county": "Martin",
+    "share_of_county_area": 1.0,
+    "poly": "112,348 172,348 172,288 112,288"
+   },
+   {
+    "fips": "48369",
+    "county": "Parmer",
+    "share_of_county_area": 1.0,
+    "poly": "25,71 85,71 85,11 26,11"
+   }
+  ]
+ },
+ "source": "U.S. Census Bureau cartographic boundary file cb_2025_us_cd119_500k and cb_2025_us_county_500k"
+}

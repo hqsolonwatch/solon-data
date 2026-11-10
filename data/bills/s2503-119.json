@@ -1,0 +1,29 @@
+{
+ "id": "s2503-119",
+ "label": "S. 2503",
+ "congress": 119,
+ "type": "s",
+ "number": 2503,
+ "title": "ROTOR Act",
+ "short_title": "ROTOR Act",
+ "introduced": "2025-07-29",
+ "sponsor": {
+  "name": "Sen. Cruz, Ted [R-TX]",
+  "bioguide": "C001098",
+  "party": "R",
+  "state": "TX"
+ },
+ "policy_area": "Transportation and Public Works",
+ "latest_action": {
+  "actionDate": "2026-02-24",
+  "actionTime": "14:05:16",
+  "text": "On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 264 - 133 (Roll no. 72)."
+ },
+ "became_law": false,
+ "summary": "Rotorcraft Operations Transparency and Oversight Reform Act or the ROTOR Act This bill addresses aviation safety by increasing requirements for aircraft tracking and communication using Automatic Dependent Surveillance-Broadcast (ADS-B) technology and expanding oversight. As background, ADS-B for broadcasting (Out) and receiving (In) transmits information (e.g., location and weather information) between aircraft and air traffic control. Under the bill, aircraft must generally operate with ADS-B In equipment to provide the aircraft with location information of other aircraft and traffic advisories. Current law does not require this equipment. Current Federal Aviation Administration (FAA) regulations allow aircraft performing a sensitive government mission to be excepted from requirements for using ADS-B Out equipment. This bill limits which flights may be considered sensitive government missions (e.g., not training flights) and requires additional reporting and notifications for the exception. The Government Accountability Office must review the use of the ADS-B Out exception and the Office of the Inspector General (OIG) of the Department of Transportation must annually audit FAA oversight of operations that use the exception. Further, the bill repeals a 2025 law that exempts certain military helicopters from the ADS-B Out requirements for the Washington, DC, metropolitan area. The bill also requires the OIG of the Army to audit the Army’s coordination with the FAA, the FAA to establish an office to coordinate airspace usage of military aircraft and review the safety of flight operations and routes around airports, and the FAA to enter into memoranda of understanding with military agencies for safety information sharing.",
+ "summary_short": "Rotorcraft Operations Transparency and Oversight Reform Act or the ROTOR Act This bill addresses aviation safety by increasing requirements for aircraft tracking and communication using Automatic Dependent Surveillance-Broadcast (ADS-B) technology and expanding oversight.",
+ "summary_version": "Passed Senate",
+ "summary_source": "Congressional Research Service, via Congress.gov",
+ "congress_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2503",
+ "fetched": "2026-11-10"
+}

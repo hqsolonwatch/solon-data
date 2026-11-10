@@ -1,0 +1,146 @@
+{
+ "code": "MI-02",
+ "state": "MI",
+ "number": 2,
+ "geoid": "2602",
+ "congress": 119,
+ "member": {
+  "bioguide": "M001194",
+  "name": "John R. Moolenaar",
+  "short_name": "John Moolenaar",
+  "party": "Republican"
+ },
+ "polsby_popper": 0.4194,
+ "square_miles": 9919.8,
+ "svg": {
+  "box": [
+   480,
+   360
+  ],
+  "shape": "104,152 105,147 115,132 116,123 113,101 107,91 107,87 108,84 114,79 117,76 124,63 126,57 135,41 137,29 137,20 139,14 194,15 193,29 242,29 242,70 376,70 376,124 353,123 353,139 339,139 339,180 353,180 353,236 299,235 299,291 286,291 286,318 283,318 283,320 279,320 279,332 272,332 272,346 218,346 218,277 231,277 231,236 218,236 218,234 219,233 217,231 216,232 216,234 214,233 214,236 176,235 176,222 149,222 149,217 147,217 144,215 144,214 142,214 142,211 139,212 137,213 137,212 134,215 133,214 132,215 128,214 126,215 117,195 112,175 105,160",
+  "islands_bridged": false,
+  "counties": [
+   {
+    "fips": "26123",
+    "county": "Newaygo",
+    "share_of_county_area": 1.0,
+    "poly": "158,122 158,211 219,211 219,122"
+   },
+   {
+    "fips": "26035",
+    "county": "Clare",
+    "share_of_county_area": 1.0,
+    "poly": "267,128 329,128 329,68 268,67"
+   },
+   {
+    "fips": "26057",
+    "county": "Gratiot",
+    "share_of_county_area": 1.0,
+    "poly": "295,177 296,238 356,239 356,177"
+   },
+   {
+    "fips": "26081",
+    "county": "Kent",
+    "share_of_county_area": 0.541,
+    "poly": "187,205 188,294 248,294 248,205"
+   },
+   {
+    "fips": "26045",
+    "county": "Eaton",
+    "share_of_county_area": 0.161,
+    "poly": "269,287 269,349 329,349 329,288"
+   },
+   {
+    "fips": "26067",
+    "county": "Ionia",
+    "share_of_county_area": 1.0,
+    "poly": "242,232 242,294 302,294 302,232"
+   },
+   {
+    "fips": "26117",
+    "county": "Montcalm",
+    "share_of_county_area": 1.0,
+    "poly": "213,177 213,211 242,211 242,238 302,238 301,177"
+   },
+   {
+    "fips": "26139",
+    "county": "Ottawa",
+    "share_of_county_area": 0.062,
+    "poly": "131,232 137,257 139,294 194,294 193,219 173,219 173,232"
+   },
+   {
+    "fips": "26111",
+    "county": "Midland",
+    "share_of_county_area": 0.342,
+    "poly": "323,122 323,183 356,183 356,181 379,181 379,120"
+   },
+   {
+    "fips": "26085",
+    "county": "Lake",
+    "share_of_county_area": 1.0,
+    "poly": "158,67 158,128 219,128 219,67"
+   },
+   {
+    "fips": "26015",
+    "county": "Barry",
+    "share_of_county_area": 1.0,
+    "poly": "215,288 215,349 275,349 275,287"
+   },
+   {
+    "fips": "26073",
+    "county": "Isabella",
+    "share_of_county_area": 1.0,
+    "poly": "267,122 268,183 329,183 329,122"
+   },
+   {
+    "fips": "26101",
+    "county": "Manistee",
+    "share_of_county_area": 1.0,
+    "poly": "116,71 189,73 190,12 136,11 132,40"
+   },
+   {
+    "fips": "26051",
+    "county": "Gladwin",
+    "share_of_county_area": 1.0,
+    "poly": "323,68 323,128 379,126 379,67"
+   },
+   {
+    "fips": "26165",
+    "county": "Wexford",
+    "share_of_county_area": 0.78,
+    "poly": "184,12 183,73 245,73 245,12"
+   },
+   {
+    "fips": "26133",
+    "county": "Osceola",
+    "share_of_county_area": 1.0,
+    "poly": "213,67 213,128 273,128 274,67"
+   },
+   {
+    "fips": "26105",
+    "county": "Mason",
+    "share_of_county_area": 1.0,
+    "poly": "103,89 110,101 114,128 164,128 164,67 119,65 114,75 106,82"
+   },
+   {
+    "fips": "26107",
+    "county": "Mecosta",
+    "share_of_county_area": 1.0,
+    "poly": "213,122 213,183 274,183 273,122"
+   },
+   {
+    "fips": "26121",
+    "county": "Muskegon",
+    "share_of_county_area": 0.715,
+    "poly": "109,177 118,205 133,238 179,238 179,225 193,225 193,205 164,205 164,177"
+   },
+   {
+    "fips": "26127",
+    "county": "Oceana",
+    "share_of_county_area": 1.0,
+    "poly": "101,154 111,182 164,183 164,122 114,122 111,133 102,146"
+   }
+  ]
+ },
+ "source": "U.S. Census Bureau cartographic boundary file cb_2025_us_cd119_500k and cb_2025_us_county_500k"
+}

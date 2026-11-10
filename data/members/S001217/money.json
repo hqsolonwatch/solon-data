@@ -1,0 +1,505 @@
+{
+ "bioguide": "S001217",
+ "name": "Rick Scott",
+ "cycle": 2026,
+ "candidate_id": "S8FL00273",
+ "summary": {
+  "receipts": 1816461.9,
+  "individual_contributions": 423105.6,
+  "pac_contributions": 108687.18,
+  "party_contributions": 0.0,
+  "candidate_contributions": 786474.84,
+  "candidate_loans": 0.0,
+  "transfers_from_authorized": 454796.75,
+  "cash_on_hand": 647090.18,
+  "coverage_end": "09/30/2026"
+ },
+ "pac_contributions": [
+  {
+   "committee_id": "C00478099",
+   "name": "ATLAS AIR WORLDWIDE HOLDINGS, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 7000.0
+  },
+  {
+   "committee_id": "C00287714",
+   "name": "CARNIVAL/PRINCESS HOLLAND AMERICA LINE INC. PAC (HALPAC)",
+   "connected_org": "HOLLAND AMERICA LINE INC.",
+   "total": 6000.0
+  },
+  {
+   "committee_id": "C00625921",
+   "name": "AAR CORP. PAC",
+   "connected_org": "AAR CORP.",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00402669",
+   "name": "SERCO INC. POLITICAL ACTION COMMITTEE (SERCO PAC)",
+   "connected_org": "SERCO INC.",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00161141",
+   "name": "GUIDEWELL MUTUAL HOLDING CORPORATION POLITICAL ACTION COMMITTEE (GUIDEWELL PAC)",
+   "connected_org": "GUIDEWELL MUTUAL HOLDING CORPORATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00440453",
+   "name": "GAINWELL HOLDING CORP. POLITICAL ACTION COMMITTEE (GAINWELL PAC)",
+   "connected_org": "GAINWELL HOLDING CORP.",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00834747",
+   "name": "HIGGINBOTHAM INSURANCE AGENCY, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00338020",
+   "name": "ARGENTUM'S SILVER PAC",
+   "connected_org": "ARGENTUM",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00623512",
+   "name": "IN THE ARENA PAC",
+   "connected_org": "TEAM HILL",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00432393",
+   "name": "CRUISE LINES INTERNATIONAL ASSOCIATION PAC (CLIA PAC)",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00082792",
+   "name": "ELI LILLY AND COMPANY POLITICAL ACTION COMMITTEE",
+   "connected_org": "ELI LILLY AND COMPANY",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00455766",
+   "name": "THE MOSAIC COMPANY POLITICAL ACTION COMMITTEE (MOSAICPAC)",
+   "connected_org": "THE MOSAIC COMPANY",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00245548",
+   "name": "NATIONAL MARINE MANUFACTURERS ASSOCIATION AND MARINE RETAILERS ASSOCIATION BOAT PAC",
+   "connected_org": "NATIONAL MARINE MANUFACTURERS ASSOCIATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00570226",
+   "name": "SEAL PAC SUPPORTING ELECTING AMERICAN LEADERS PAC",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00300418",
+   "name": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION VOLUNTARY POLITICAL ACTION COMMITTEE",
+   "connected_org": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00660894",
+   "name": "GARMIN INTERNATIONAL INC POLITICAL ACTION COMMITTEE",
+   "connected_org": "GARMIN INTERNATIONAL",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00421230",
+   "name": "AIRBUS AMERICAS, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "AIRBUS AMERICAS, INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00034488",
+   "name": "ANHEUSER-BUSCH COMPANIES LLC POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00010983",
+   "name": "JOHNSON & JOHNSON POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00409516",
+   "name": "DIRECT SUPPLY, INC. PARTNERS PAC (DSI PARTNERS PAC)",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00550988",
+   "name": "THE ADT SECURITY CORPORATION POLITICAL ACTION COMMITTEE (ADT PAC)",
+   "connected_org": "THE ADT SECURITY CORPORATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00459008",
+   "name": "BROOKDALE SENIOR LIVING PAC",
+   "connected_org": "BROOKDALE SENIOR LIVING INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00892927",
+   "name": "SAALEX CORP POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00498105",
+   "name": "PRIME THERAPEUTICS LLC EMPLOYEE PAC (PRIMEPAC)",
+   "connected_org": "NONE",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00496836",
+   "name": "OLD DOMINION FREIGHT LINE INC. POLITICAL ACTION COMMITTEE (OLD DOMINION PAC)",
+   "connected_org": "OLD DOMINION FREIGHT LINE, INC",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00097568",
+   "name": "EMPLOYEES OF RTX CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "RTX CORPORATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00544817",
+   "name": "STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY FEDERAL POLITICAL ACTION COMMITTEE (STATE FARM FEDERAL PAC)",
+   "connected_org": "STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00266585",
+   "name": "GREENBERG TRAURIG, P.A. PAC",
+   "connected_org": "GREENBERG TRAURIG P.A.",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00880351",
+   "name": "NORWEGIAN CRUISE CO. INC. POLITICAL ACTION COMMITTEE  (NCLH CRUISE FORWARD PAC)",
+   "connected_org": null,
+   "total": 1250.0
+  },
+  {
+   "committee_id": "C00388819",
+   "name": "PHARMACEUTICAL CARE MANAGEMENT ASSOCIATION POLITICAL ACTION COMMITTEE (PCMA PAC)",
+   "connected_org": "PHARMACEUTICAL CARE MANAGEMENT ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00303024",
+   "name": "LOCKHEED MARTIN CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
+   "connected_org": "LOCKHEED MARTIN CORPORATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00350884",
+   "name": "RESOLUTE FOREST PRODUCTS INC. POLITICAL ACTION COMMITTEE AKA DOMTAR PAC",
+   "connected_org": "RESOLUTE FOREST PRODUCTS INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00216127",
+   "name": "DENTONS US LLP PAC",
+   "connected_org": null,
+   "total": 500.0
+  },
+  {
+   "committee_id": "C00105338",
+   "name": "FOLEY & LARDNER POLITICAL FUND, INC.",
+   "connected_org": "NONE",
+   "total": 0.0
+  },
+  {
+   "committee_id": "C00824896",
+   "name": "BLOCKCHAIN ASSOCIATION POLITICAL ACTION COMMITTEE (BA PAC)",
+   "connected_org": null,
+   "total": 0.0
+  },
+  {
+   "committee_id": "C00246736",
+   "name": "SEABOARD CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 0.0
+  },
+  {
+   "committee_id": "C00350744",
+   "name": "THE GOLDMAN SACHS GROUP, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE GOLDMAN SACHS GROUP INC",
+   "total": 0.0
+  },
+  {
+   "committee_id": "C00103937",
+   "name": "EAGLE FORUM PAC",
+   "connected_org": "EAGLE FORUM",
+   "total": -500.0
+  },
+  {
+   "committee_id": "C00357863",
+   "name": "BOSTON SCIENTIFIC CORPORATION POLITICAL ACTION COMMITTEE (BSC PAC)",
+   "connected_org": "BOSTON SCIENTIFIC CORPORATION",
+   "total": -1000.0
+  },
+  {
+   "committee_id": "C00525071",
+   "name": "COMMERCIAL METALS COMPANY PAC (CMC PAC)",
+   "connected_org": "COMMERCIAL METALS COMPANY",
+   "total": -1000.0
+  },
+  {
+   "committee_id": "C00161422",
+   "name": "TECO ENERGY INC EMPLOYEES' PAC",
+   "connected_org": "TECO ENERGY, INC.",
+   "total": -1500.0
+  },
+  {
+   "committee_id": "C00400705",
+   "name": "PUBLIX SUPER MARKETS, INC. ASSOCIATES POLITICAL ACTION COMMITTEE",
+   "connected_org": "PUBLIX SUPER MARKETS, INC.",
+   "total": -2000.0
+  },
+  {
+   "committee_id": "C00035006",
+   "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
+   "connected_org": "CHEVRON CORPORATION",
+   "total": -2500.0
+  },
+  {
+   "committee_id": "C00167759",
+   "name": "SKYDANCE CORPORATION POLITICAL ACTION COMMITTEE (SKYCORP PAC)",
+   "connected_org": "SKYDANCE CORPORATION",
+   "total": -2500.0
+  },
+  {
+   "committee_id": "C00083535",
+   "name": "DUKE ENERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (DUKEPAC)",
+   "connected_org": "DUKE ENERGY CORPORATION",
+   "total": -4500.0
+  },
+  {
+   "committee_id": "C00040998",
+   "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION",
+   "total": -5000.0
+  },
+  {
+   "committee_id": "C00391979",
+   "name": "HERZOG PAC",
+   "connected_org": "HERZOG",
+   "total": -5000.0
+  }
+ ],
+ "pac_by_type": [
+  {
+   "type": "Corporate PACs",
+   "total": 60250.0
+  },
+  {
+   "type": "Trade association PACs",
+   "total": 8500.0
+  },
+  {
+   "type": "Leadership PACs (run by other politicians)",
+   "total": 5000.0
+  },
+  {
+   "type": "Other PACs",
+   "total": 3000.0
+  },
+  {
+   "type": "Membership group PACs",
+   "total": -500.0
+  }
+ ],
+ "outside_spending": {
+  "support_total": 83746.0,
+  "oppose_total": 0.0,
+  "spenders": [
+   {
+    "committee_id": "C00448696",
+    "name": "SENATE CONSERVATIVES FUND",
+    "support": 60864.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00524181",
+    "name": "SENATE CONSERVATIVES ACTION",
+    "support": 22882.0,
+    "oppose": 0.0
+   }
+  ],
+  "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
+ },
+ "detail": {
+  "committee_id": "C00676965",
+  "committee_name": "RICK SCOTT FOR FLORIDA",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 1816461.9,
+  "amounts": {
+   "individuals_200_or_less": 184394.53,
+   "individuals_over_200": 238711.07,
+   "pacs_and_parties": 108687.18,
+   "candidate_own": 786474.84,
+   "transfers_from_authorized": 454796.75,
+   "other_receipts": 12287.55
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    14
+   ],
+   [
+    "Individuals giving more than $200",
+    18
+   ],
+   [
+    "PACs and party committees",
+    8
+   ],
+   [
+    "Candidate’s own money",
+    60
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 891299.85,
+   "home_state": "FL",
+   "home_state_total": 540899.0,
+   "home_state_share": 61,
+   "top": [
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 540899.0,
+     "count": 1448
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 45538.6,
+     "count": 347
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 32856.17,
+     "count": 400
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 31549.0,
+     "count": 109
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 29677.77,
+     "count": 90
+    },
+    {
+     "state": "MO",
+     "state_full": "Missouri",
+     "total": 16749.25,
+     "count": 83
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 15542.1,
+     "count": 143
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 14376.37,
+     "count": 167
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 14201.2,
+     "count": 169
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 13622.93,
+     "count": 12
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "REDWOOD RESEARCH",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "INDECK ENERGY SERVICES",
+     "total": 7000.0,
+     "count": 5
+    },
+    {
+     "employer": "PROMETHEUS MANAGEMENT/SOUTHEAST QSR",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "LIAM DONOVAN",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "TECHCONGRESS",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "WEATHERTECH",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "HOLLAND & KNIGHT LLP",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "ADVOCATE HEALTH ADVISORS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "FOREFRONT DERMATOLOGY",
+     "total": 7000.0,
+     "count": 4
+    },
+    {
+     "employer": "BARTLETT AND CO.",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794319828.5573218,
+ "sources": {
+  "summary": "FEC candidate summary file (weball)",
+  "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
+  "detail": "FEC API, principal campaign committee"
+ }
+}

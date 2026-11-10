@@ -1,0 +1,229 @@
+{
+ "bill": "hjres75-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "report_count": 16,
+ "clients": [
+  {
+   "client": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "display_name": "Chamber of Commerce of the U.s.a.",
+   "reports": 4,
+   "latest_report_amount": 17960000.0,
+   "latest_report": "96338377-b266-4f3c-9cc7-bb1e0b8f4024",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "LEAGUE OF CONSERVATION VOTERS",
+   "display_name": "League of Conservation Voters",
+   "reports": 2,
+   "latest_report_amount": 290000.0,
+   "latest_report": "251e7717-27fe-4415-8fad-6d4983405789",
+   "pac_ids": [
+    "C00252940"
+   ],
+   "pac_names": [
+    "LEAGUE OF CONSERVATION VOTERS ACTION FUND"
+   ]
+  },
+  {
+   "client": "FOOD MARKETPLACE INC",
+   "display_name": "Food Marketplace",
+   "reports": 7,
+   "latest_report_amount": 150000.0,
+   "latest_report": "d25bd8bb-6d28-4276-a788-4f439608c188",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "LG ELECTRONICS USA, INC.",
+   "display_name": "Lg Electronics USA",
+   "reports": 3,
+   "latest_report_amount": 30000.0,
+   "latest_report": "5fe979bd-21b2-4def-a849-89b1cfc3a444",
+   "pac_ids": [],
+   "pac_names": []
+  }
+ ],
+ "groups_shown": [
+  {
+   "client": "LEAGUE OF CONSERVATION VOTERS",
+   "display_name": "League of Conservation Voters",
+   "reports": 2,
+   "latest_report_amount": 290000.0,
+   "latest_report": "251e7717-27fe-4415-8fad-6d4983405789",
+   "pac_ids": [
+    "C00252940"
+   ],
+   "pac_names": [
+    "LEAGUE OF CONSERVATION VOTERS ACTION FUND"
+   ]
+  }
+ ],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "a37d54d8-550a-42f9-af35-de2deace3510",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-18T17:19:34-04:00",
+   "amount": 170000.0,
+   "registrant": "LEAGUE OF CONSERVATION VOTERS",
+   "client": "LEAGUE OF CONSERVATION VOTERS",
+   "url": "https://lda.gov/filings/public/filing/a37d54d8-550a-42f9-af35-de2deace3510/print/"
+  },
+  {
+   "filing_uuid": "cd77f510-f0d8-416b-a11c-b304e8653c7d",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-21T12:42:26-04:00",
+   "amount": 19340000.0,
+   "registrant": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "client": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "url": "https://lda.gov/filings/public/filing/cd77f510-f0d8-416b-a11c-b304e8653c7d/print/"
+  },
+  {
+   "filing_uuid": "1e81f26f-b844-4b36-8b60-04699ed37451",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-21T17:18:52-04:00",
+   "amount": 420000.0,
+   "registrant": "FOOD MARKETPLACE INC.",
+   "client": "FOOD MARKETPLACE INC",
+   "url": "https://lda.gov/filings/public/filing/1e81f26f-b844-4b36-8b60-04699ed37451/print/"
+  },
+  {
+   "filing_uuid": "4ef0ff27-1371-492a-828d-fdd0baa4a79f",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-22T16:40:36-04:00",
+   "amount": 30000.0,
+   "registrant": "LAW OFFICES OF KEVIN G. CURTIN",
+   "client": "LG ELECTRONICS USA, INC.",
+   "url": "https://lda.gov/filings/public/filing/4ef0ff27-1371-492a-828d-fdd0baa4a79f/print/"
+  },
+  {
+   "filing_uuid": "136b4649-9931-421a-b70c-08b34ca5e52a",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T10:32:53-04:00",
+   "amount": 30000.0,
+   "registrant": "LAW OFFICES OF KEVIN G. CURTIN",
+   "client": "LG ELECTRONICS USA, INC.",
+   "url": "https://lda.gov/filings/public/filing/136b4649-9931-421a-b70c-08b34ca5e52a/print/"
+  },
+  {
+   "filing_uuid": "251e7717-27fe-4415-8fad-6d4983405789",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T12:27:48-04:00",
+   "amount": 290000.0,
+   "registrant": "LEAGUE OF CONSERVATION VOTERS",
+   "client": "LEAGUE OF CONSERVATION VOTERS",
+   "url": "https://lda.gov/filings/public/filing/251e7717-27fe-4415-8fad-6d4983405789/print/"
+  },
+  {
+   "filing_uuid": "18138d98-3320-4c2f-a406-f5436aa925cf",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T16:14:14-04:00",
+   "amount": 310000.0,
+   "registrant": "FOOD MARKETPLACE INC.",
+   "client": "FOOD MARKETPLACE INC",
+   "url": "https://lda.gov/filings/public/filing/18138d98-3320-4c2f-a406-f5436aa925cf/print/"
+  },
+  {
+   "filing_uuid": "9540c35a-5726-45ad-aa09-89283b86b0c0",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T16:26:04-04:00",
+   "amount": 19340000.0,
+   "registrant": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "client": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "url": "https://lda.gov/filings/public/filing/9540c35a-5726-45ad-aa09-89283b86b0c0/print/"
+  },
+  {
+   "filing_uuid": "ba330322-5da9-447a-a061-c242e1278450",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T14:19:39-04:00",
+   "amount": 230000.0,
+   "registrant": "FOOD MARKETPLACE INC.",
+   "client": "FOOD MARKETPLACE INC",
+   "url": "https://lda.gov/filings/public/filing/ba330322-5da9-447a-a061-c242e1278450/print/"
+  },
+  {
+   "filing_uuid": "5fe979bd-21b2-4def-a849-89b1cfc3a444",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T16:37:19-04:00",
+   "amount": 30000.0,
+   "registrant": "LAW OFFICES OF KEVIN G. CURTIN",
+   "client": "LG ELECTRONICS USA, INC.",
+   "url": "https://lda.gov/filings/public/filing/5fe979bd-21b2-4def-a849-89b1cfc3a444/print/"
+  },
+  {
+   "filing_uuid": "4c04ee95-5e4b-43e5-9a78-41a2504de0f6",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T18:13:17-04:00",
+   "amount": 13650000.0,
+   "registrant": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "client": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "url": "https://lda.gov/filings/public/filing/4c04ee95-5e4b-43e5-9a78-41a2504de0f6/print/"
+  },
+  {
+   "filing_uuid": "96338377-b266-4f3c-9cc7-bb1e0b8f4024",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T14:34:52-05:00",
+   "amount": 17960000.0,
+   "registrant": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "client": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "url": "https://lda.gov/filings/public/filing/96338377-b266-4f3c-9cc7-bb1e0b8f4024/print/"
+  },
+  {
+   "filing_uuid": "65ff2212-9a9a-44bf-b6cd-f74fc1bbe0af",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T15:16:02-05:00",
+   "amount": 800000.0,
+   "registrant": "FOOD MARKETPLACE INC.",
+   "client": "FOOD MARKETPLACE INC",
+   "url": "https://lda.gov/filings/public/filing/65ff2212-9a9a-44bf-b6cd-f74fc1bbe0af/print/"
+  },
+  {
+   "filing_uuid": "1a032ae7-975d-4340-b279-ee86aeac62b0",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T15:19:15-04:00",
+   "amount": 670000.0,
+   "registrant": "FOOD MARKETPLACE INC.",
+   "client": "FOOD MARKETPLACE INC",
+   "url": "https://lda.gov/filings/public/filing/1a032ae7-975d-4340-b279-ee86aeac62b0/print/"
+  },
+  {
+   "filing_uuid": "9cd1e3f3-c815-40c0-9fca-2828503fc9f1",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T15:06:34-04:00",
+   "amount": 584000.0,
+   "registrant": "FOOD MARKETPLACE INC.",
+   "client": "FOOD MARKETPLACE INC",
+   "url": "https://lda.gov/filings/public/filing/9cd1e3f3-c815-40c0-9fca-2828503fc9f1/print/"
+  },
+  {
+   "filing_uuid": "d25bd8bb-6d28-4276-a788-4f439608c188",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T19:41:47-04:00",
+   "amount": 150000.0,
+   "registrant": "FOOD MARKETPLACE INC.",
+   "client": "FOOD MARKETPLACE INC",
+   "url": "https://lda.gov/filings/public/filing/d25bd8bb-6d28-4276-a788-4f439608c188/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}

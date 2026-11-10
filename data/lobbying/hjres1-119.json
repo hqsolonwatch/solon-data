@@ -1,0 +1,52 @@
+{
+ "bill": "hjres1-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "report_count": 1,
+ "clients": [
+  {
+   "client": "LEAGUE OF CONSERVATION VOTERS",
+   "display_name": "League of Conservation Voters",
+   "reports": 1,
+   "latest_report_amount": 220000.0,
+   "latest_report": "032856e5-dcc2-401a-919a-e071465ddd47",
+   "pac_ids": [
+    "C00252940"
+   ],
+   "pac_names": [
+    "LEAGUE OF CONSERVATION VOTERS ACTION FUND"
+   ]
+  }
+ ],
+ "groups_shown": [
+  {
+   "client": "LEAGUE OF CONSERVATION VOTERS",
+   "display_name": "League of Conservation Voters",
+   "reports": 1,
+   "latest_report_amount": 220000.0,
+   "latest_report": "032856e5-dcc2-401a-919a-e071465ddd47",
+   "pac_ids": [
+    "C00252940"
+   ],
+   "pac_names": [
+    "LEAGUE OF CONSERVATION VOTERS ACTION FUND"
+   ]
+  }
+ ],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "032856e5-dcc2-401a-919a-e071465ddd47",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T20:16:38-04:00",
+   "amount": 220000.0,
+   "registrant": "LEAGUE OF CONSERVATION VOTERS",
+   "client": "LEAGUE OF CONSERVATION VOTERS",
+   "url": "https://lda.gov/filings/public/filing/032856e5-dcc2-401a-919a-e071465ddd47/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}

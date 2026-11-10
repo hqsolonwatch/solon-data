@@ -1,0 +1,54 @@
+{
+ "bill": "hjres78-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "report_count": 3,
+ "clients": [
+  {
+   "client": "ASSOCIATION OF CALIFORNIA WATER AGENCIES",
+   "display_name": "Association of California Water Agencies",
+   "reports": 3,
+   "latest_report_amount": 115000.0,
+   "latest_report": "e78acf85-b8a0-482e-aa71-97ebf24b664a",
+   "pac_ids": [],
+   "pac_names": []
+  }
+ ],
+ "groups_shown": [],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "8a7b11da-5263-4a4c-a13d-538934a7492a",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-08-28T12:00:05-04:00",
+   "amount": 115000.0,
+   "registrant": "ASSOCIATION OF CALIFORNIA WATER AGENCIES",
+   "client": "ASSOCIATION OF CALIFORNIA WATER AGENCIES",
+   "url": "https://lda.gov/filings/public/filing/8a7b11da-5263-4a4c-a13d-538934a7492a/print/"
+  },
+  {
+   "filing_uuid": "0f383271-d76e-46ee-b1dd-69ae3137f333",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-11-06T14:08:21-05:00",
+   "amount": 115000.0,
+   "registrant": "ASSOCIATION OF CALIFORNIA WATER AGENCIES",
+   "client": "ASSOCIATION OF CALIFORNIA WATER AGENCIES",
+   "url": "https://lda.gov/filings/public/filing/0f383271-d76e-46ee-b1dd-69ae3137f333/print/"
+  },
+  {
+   "filing_uuid": "e78acf85-b8a0-482e-aa71-97ebf24b664a",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-23T11:42:28-05:00",
+   "amount": 115000.0,
+   "registrant": "ASSOCIATION OF CALIFORNIA WATER AGENCIES",
+   "client": "ASSOCIATION OF CALIFORNIA WATER AGENCIES",
+   "url": "https://lda.gov/filings/public/filing/e78acf85-b8a0-482e-aa71-97ebf24b664a/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}
