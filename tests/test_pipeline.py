@@ -199,6 +199,18 @@ def cfg(tmp_path):
     return c
 
 
+BILL_LIST = {"bills": [
+    {"congress": 119, "type": "HR", "number": "2347", "title": "Example Senate Floor Act",
+     "latestAction": {"actionDate": "2026-11-06", "text": "Cloture motion on the motion to proceed to the measure presented in Senate."}},
+    {"congress": 119, "type": "S", "number": "100", "title": "Already Done Act",
+     "latestAction": {"actionDate": "2026-11-06", "text": "Passed Senate without amendment by Unanimous Consent."}},
+    {"congress": 119, "type": "HR", "number": "55", "title": "Committee Act",
+     "latestAction": {"actionDate": "2026-11-06", "text": "Referred to the House Committee on Agriculture."}},
+    {"congress": 119, "type": "SRES", "number": "9", "title": "A resolution",
+     "latestAction": {"actionDate": "2026-11-06", "text": "Considered by Senate."}}],
+    "pagination": {"count": 4}}
+
+
 def rules_all(tmp_path):
     house = {313: (FIX / "house_roll313.xml").read_bytes(), 314: (FIX / "house_roll314.xml").read_bytes()}
 
@@ -218,6 +230,7 @@ def rules_all(tmp_path):
         (r"/bill/119/s/4668\?", B4668["bill"]),
         (r"/bill/119/s/2403/summaries", B2403["summaries"]), (r"/bill/119/s/2403/titles", B2403["titles"]),
         (r"/bill/119/s/2403\?", B2403["bill"]),
+        (r"/v3/bill/119\?", json.dumps(BILL_LIST)),
         (r"/bill/119/", lambda u: json.dumps({"bill": {"title": "Other bill"}, "summaries": [], "titles": []})),
     ] + lda_rules() + fec_api_rules()
     return rules
@@ -317,3 +330,56 @@ def test_districts_real(cfg, tmp_path):
     _, dis = landing.build(cfg, http, mem)
     assert dis[0]["name"] == "Louisiana District 1" and dis[0]["whole"] == {"d": 24, "r": 74}
     assert len(dis[1]["areas"]) == 6 and dis[1]["sample"] is False
+
+
+def test_senate_and_schedule(cfg):
+    from datetime import date
+    idx = [
+        {"id": "senate-119-2-257", "chamber": "senate", "congress": 119, "session": 2, "number": 257, "date": "2026-11-09",
+         "question": "On Cloture on the Motion to Proceed", "kind": "cloture",
+         "result": "Cloture on the Motion to Proceed Agreed to (73-25, 3/5 majority required)",
+         "bill": {"type": "hr", "number": 2347, "label": "H.R. 2347", "id": "hr2347-119"},
+         "totals": {"yea": 73, "nay": 25, "present": 0, "not_voting": 2}},
+        {"id": "senate-119-2-240", "chamber": "senate", "congress": 119, "session": 2, "number": 240, "date": "2026-11-02",
+         "question": "On the Cloture Motion", "kind": "cloture", "result": "Cloture Motion Agreed to",
+         "bill": {"type": "s", "number": 7, "label": "S. 7", "id": "s7-119"}, "totals": {"yea": 70, "nay": 28}},
+        {"id": "senate-119-2-245", "chamber": "senate", "congress": 119, "session": 2, "number": 245, "date": "2026-11-04",
+         "question": "On Passage of the Bill", "kind": "passage", "result": "Bill Passed",
+         "bill": {"type": "s", "number": 7, "label": "S. 7", "id": "s7-119"}, "totals": {"yea": 71, "nay": 27}},
+        {"id": "house-119-2-316", "chamber": "house", "congress": 119, "session": 2, "number": 316, "date": "2026-11-09",
+         "question": "On Motion to Suspend the Rules and Pass, as Amended", "kind": "passage", "result": "Passed",
+         "bill": {"type": "hr", "number": 9612, "label": "H.R. 9612", "id": "hr9612-119"}, "totals": {"yea": 394, "nay": 3}},
+        {"id": "house-119-1-10", "chamber": "house", "congress": 119, "session": 1, "number": 10, "date": "2025-01-09",
+         "question": "On Passage", "kind": "passage", "result": "Passed", "bill": None, "totals": {"yea": 1, "nay": 0}},
+    ]
+    s = upcoming.senate_from_votes(idx, 119, today=date(2026, 11, 10))
+    assert [i["bill"]["label"] for i in s] == ["H.R. 2347"]  # S. 7 already had its final vote
+    assert s[0]["description"].startswith("The Senate voted 73 to 25 on November 9 to end debate on the motion to proceed")
+    http = FakeHttp([(r"/v3/bill/119\?", json.dumps(BILL_LIST))])
+    api = upcoming.senate_from_congress(http, "k", 119, today=date(2026, 11, 10))
+    assert [i["bill"]["label"] for i in api] == ["H.R. 2347"]
+    assert "sort=updateDate desc" in http.calls[0]
+    merged = upcoming.merge_senate(s, api)
+    assert len(merged) == 1 and merged[0]["basis"] == "senate roll call 257"
+    assert landing.election_day(2026) == date(2026, 11, 3) and landing.election_day(2028) == date(2028, 11, 7)
+    out = Path(cfg["output_dir"])
+    core.write_json(out / "votes" / "index.json", {"count": len(idx), "votes": idx})
+    core.write_json(out / "upcoming.json", {"updated": "2026-11-10", "senate": merged, "house": [
+        {"bill": {"type": "hr", "number": 9612, "label": "H.R. 9612", "id": "hr9612-119"},
+         "description": "American Enrichment Deployment Act, as amended", "week_of": "2026-11-09"},
+        {"bill": {"type": "hr", "number": 3978, "label": "H.R. 3978", "id": "hr3978-119"},
+         "description": "Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act, as amended", "week_of": "2026-11-09"},
+        {"bill": {"type": "hres", "number": 1650, "label": "H.Res. 1650", "id": "hres1650-119"},
+         "description": "Providing for consideration of the bill (H.R. 1013)", "week_of": "2026-11-09"},
+        {"bill": {"type": "hr", "number": 1, "label": "H.R. 1", "id": "hr1-119"}, "description": "Old Week Act", "week_of": "2026-11-02"}]})
+    r = landing.rollcalls(cfg, today=date(2026, 11, 10))
+    assert r["months"][0] == ["Jan 2025", 1, 0] and r["months"][-1] == ["Nov 2026", 1, 3] and len(r["months"]) == 23
+    assert r["meta"]["election"] == {"date": "November 3, 2026", "month": "Nov 2026", "total": 2}
+    sch = landing.schedule(cfg)
+    assert sch["house"]["week"] == "November 9" and sch["house"]["listed"] == 2
+    assert sch["house"]["rows"] == [
+        {"bill": "H.R. 9612", "title": "American Enrichment Deployment Act", "status": "Passed 394 to 3", "roll": 316},
+        {"bill": "H.R. 3978", "title": "Nuclear REFUEL Act", "status": "Scheduled", "roll": None}]
+    assert sch["house"]["source"].endswith("roll call 316")
+    assert sch["senate"][0]["bill"] == "H.R. 2347" and sch["senate"][0]["status"] == "Expected"
+    assert landing.schedule_bills(cfg) == [(119, "hr", 2347)]

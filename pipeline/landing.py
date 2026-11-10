@@ -5,8 +5,9 @@ exists, a ready-to-use site/index.html with those lists filled in.
 """
 import json
 import logging
+import calendar
 import re
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 
 from shapely.geometry import Polygon
@@ -123,12 +124,15 @@ def money_block(cfg, money):
     if mode == "employers":
         top = [[e["employer"].title(), round(e["total"])] for e in d["donor_employers"]["top"][:5]]
         top_src = "FEC, itemized donations from individuals (over $200), by the donor's employer"
+        heading = "Top donor employers"
     elif mode == "states":
         top = [[s["state_full"] or s["state"], round(s["total"])] for s in d["donor_states"]["top"][:5]]
         share = d["donor_states"].get("home_state_share")
+        heading = "Where donors live"
         top_src = ("FEC, itemized donations from individuals (over $200), by the donor's state" +
                    (f". {share}% came from the member's home state" if share is not None else ""))
     elif mode == "outside":
+        heading = "Outside spending"
         o = money.get("outside_spending") or {}
         top = []
         for r in o.get("spenders", []):
@@ -141,6 +145,7 @@ def money_block(cfg, money):
                    f'and {money_text(o.get("oppose_total", 0))} opposing this candidate. This money is not given to '
                    f'the campaign and is not part of the total above')
     else:
+        heading = "PAC money by type"
         top = [[t["type"], round(t["total"])] for t in (money.get("pac_by_type") or [])[:5]]
         top_src = (f'FEC, contributions from committees to this candidate, {cfg["election_cycle"] - 1} to '
                    f'{cfg["election_cycle"]}, as reported by the committees that gave. Each committee’s type comes '
@@ -148,7 +153,7 @@ def money_block(cfg, money):
     if not top:
         return None, False
     return {"cycle": f'{cfg["election_cycle"]} cycle', "total": money_text(d["receipts"]),
-            "types": d["types"], "typesSource": types_src, "sectors": top, "sectorsSource": top_src}, True
+            "types": d["types"], "typesSource": types_src, "sectors": top, "sectorsHeading": heading, "sectorsSource": top_src}, True
 
 
 def member_entry(cfg, m):
@@ -173,7 +178,8 @@ def member_entry(cfg, m):
         e["money"] = mb or {"cycle": f'{cfg["election_cycle"]} cycle', "total": "[Total]",
                             "types": [["Individuals giving $200 or less", 0], ["Individuals giving more than $200", 0],
                                       ["PACs and party committees", 0], ["Candidate’s own money", 0]],
-                            "typesSource": "[Source]", "sectors": [["[Item]", 0]], "sectorsSource": "[Source]"}
+                            "typesSource": "[Source]", "sectors": [["[Item]", 0]], "sectorsHeading": "PAC money by type",
+                            "sectorsSource": "[Source]"}
         complete &= ok
     e["sample"] = not complete
     return e
@@ -250,6 +256,96 @@ def pick_districts(cfg):
     return out
 
 
+def election_day(year):
+    """Federal general election: the Tuesday after the first Monday in November."""
+    d = date(year, 11, 1)
+    first_monday = d + timedelta(days=(0 - d.weekday()) % 7)
+    return first_monday + timedelta(days=1)
+
+
+def rollcalls(cfg, today=None):
+    """Recorded votes per month in the current Congress, for the page's bar chart."""
+    today = today or date.today()
+    index = (read_json(Path(cfg["output_dir"]) / "votes" / "index.json") or {}).get("votes", [])
+    start_year = 1789 + 2 * (cfg["congress"] - 1)
+    votes = [v for v in index if v.get("congress") == cfg["congress"] and v.get("date")]
+    if not votes:
+        return None
+    counts = {}
+    for v in votes:
+        k = (v["date"][:7], v["chamber"])
+        counts[k] = counts.get(k, 0) + 1
+    last = max(v["date"] for v in votes)
+    months, y, m = [], start_year, 1
+    while f"{y}-{m:02d}" <= last[:7]:
+        k = f"{y}-{m:02d}"
+        months.append([f"{calendar.month_abbr[m]} {y}", counts.get((k, "house"), 0), counts.get((k, "senate"), 0)])
+        y, m = (y + 1, 1) if m == 12 else (y, m + 1)
+    first = min(v["date"] for v in votes)
+    meta = {"start": long_date(first), "through": long_date(last), "total": len(votes), "election": None}
+    ed = election_day(start_year + 1)
+    if first <= ed.isoformat() <= last:
+        meta["election"] = {"date": long_date(ed.isoformat()), "month": f"{calendar.month_abbr[ed.month]} {ed.year}",
+                            "total": sum(1 for v in votes if v["date"] <= ed.isoformat())}
+    return {"months": months, "meta": meta,
+            "source": "House Clerk and Senate roll-call records"}
+
+
+def _short_title(text):
+    t = re.sub(r",?\s+as amended\.?$", "", text.strip(), flags=re.I)
+    t = re.sub(r"\s*\([^)]{12,}\)", "", t)  # drop spelled-out acronyms
+    return t.strip()
+
+
+def _bill_title(cfg, bid):
+    b = read_json(Path(cfg["output_dir"]) / "bills" / f"{bid}.json") or {}
+    return b.get("short_title") or b.get("title")
+
+
+def schedule(cfg, shown=4):
+    """This week's House floor schedule with results so far, and bills expected on the Senate floor."""
+    up = read_json(Path(cfg["output_dir"]) / "upcoming.json") or {}
+    index = (read_json(Path(cfg["output_dir"]) / "votes" / "index.json") or {}).get("votes", [])
+    out = {"updated": up.get("updated"), "house": None, "senate": []}
+    house = [i for i in up.get("house", []) if i["bill"]["type"] in ("hr", "s", "hjres", "sjres")]
+    if house:
+        week = max(i.get("week_of", "") for i in house)
+        items = [i for i in house if i.get("week_of") == week]
+        since = (date.fromisoformat(week) - timedelta(days=1)).isoformat()
+        rows = []
+        for i in items:
+            votes = sorted((v for v in index if v["chamber"] == "house" and (v.get("bill") or {}).get("id") == i["bill"]["id"]
+                            and v["date"] >= since and v.get("kind") == "passage"), key=lambda v: (v["date"], v["number"]))
+            status, roll = "Scheduled", None
+            if votes:
+                v = votes[-1]
+                passed = bool(re.search(r"pass|agreed", v.get("result") or "", re.I))
+                status = f'{"Passed" if passed else "Failed"} {v["totals"]["yea"]} to {v["totals"]["nay"]}'
+                roll = v["number"]
+            rows.append({"bill": i["bill"]["label"], "title": _short_title(i["description"]), "status": status, "roll": roll})
+        done, waiting = [r for r in rows if r["roll"]], [r for r in rows if not r["roll"]]
+        pick = done[:shown // 2]
+        pick += waiting[:shown - len(pick)]
+        pick += [r for r in done if r not in pick][:shown - len(pick)]
+        rolls = sorted(r["roll"] for r in pick if r["roll"])
+        src = "docs.house.gov floor schedule"
+        if rolls:
+            src += "; results from House Clerk roll call" + ("s " if len(rolls) > 1 else " ") + \
+                   ", ".join(str(r) for r in rolls[:-1]) + (" and " if len(rolls) > 1 else "") + str(rolls[-1])
+        d = date.fromisoformat(week)
+        out["house"] = {"week": f"{d.strftime('%B')} {d.day}", "rows": pick, "listed": len(items), "source": src}
+    for i in up.get("senate", [])[:3]:
+        title = _bill_title(cfg, i["bill"]["id"])
+        out["senate"].append({"bill": i["bill"]["label"], "title": title or "",
+                              "note": i["description"], "status": "Expected"})
+    return out
+
+
+def schedule_bills(cfg):
+    up = read_json(Path(cfg["output_dir"]) / "upcoming.json") or {}
+    return [(cfg["congress"], i["bill"]["type"], i["bill"]["number"]) for i in up.get("senate", [])[:3]]
+
+
 def js_list(name, items):
     return f"var {name} = " + json.dumps(items, ensure_ascii=False, indent=2) + ";"
 
@@ -257,31 +353,21 @@ def js_list(name, items):
 def build(cfg, http, members):
     mem = [member_entry(cfg, m) for m in pick_members(cfg, members)]
     dis = [x for x in (district_entry(cfg, http, c) for c in pick_districts(cfg)) if x]
+    roll, sched = rollcalls(cfg), schedule(cfg)
     site = Path(cfg.get("site_dir") or ROOT / "site")
     site.mkdir(parents=True, exist_ok=True)
-    tpl = ROOT / "site" / "index.template.html"
-    js = js_list("MEMBERS", mem) + "\n\n" + js_list("DISTRICTS", dis) + "\n"
+    js = "\n\n".join([js_list("MEMBERS", mem), js_list("DISTRICTS", dis), js_list("ROLLCALLS", roll),
+                       js_list("SCHEDULE", sched)]) + "\n"
     (site / "landing-data.js").write_text(js, encoding="utf-8")
+    tpl = ROOT / "site" / "index.template.html"
     if tpl.exists():
         h = tpl.read_text(encoding="utf-8")
-        s1 = h.index("var MEMBERS = ["); e1 = h.index("\n];", s1) + 3
-        h = h[:s1] + js_list("MEMBERS", mem) + h[e1:]
-        s2 = h.index("var DISTRICTS = ["); e2 = h.index("\n];", s2) + 3
-        h = h[:s2] + js_list("DISTRICTS", dis) + h[e2:]
-        # The second money list is no longer industry totals, so update its heading and source line.
-        mode = cfg["landing"].get("money_breakdown", "pac_types")
-        heading, where = {
-            "employers": ("Top donor employers", ", including where donors work, from the itemized donation "
-                                                 "records campaigns file with the FEC."),
-            "states": ("Where donors live", ", including where donors live, from the itemized donation records "
-                                            "campaigns file with the FEC."),
-            "outside": ("Outside spending", ". Outside spending comes from the independent expenditure reports "
-                                            "that super PACs and other groups file with the FEC."),
-        }.get(mode, ("PAC money by type", ". PAC money comes from the contribution reports PACs file with the "
-                                          "FEC, and each PAC’s type comes from its FEC registration."))
-        h = h.replace("'<p class=\"subhead\">Top industries</p>'", "'<p class=\"subhead\">" + heading + "</p>'")
-        h = re.sub(r", and industry totals from <a href=\"https://www\.opensecrets\.org/\">OpenSecrets</a>, which sorts FEC "
-                   r"donor records by industry\.", where, h)
-        (site / "index.html").write_text(h, encoding="utf-8")
-    log.info("Landing page data: %d members, %d districts", len(mem), len(dis))
+        a, b = "/* PAGE DATA START */", "/* PAGE DATA END */"
+        if a in h and b in h:
+            h = h[:h.index(a) + len(a)] + "\n" + js + h[h.index(b):]
+            (site / "index.html").write_text(h, encoding="utf-8")
+        else:
+            log.warning("Landing page template has no PAGE DATA markers; index.html not written")
+    log.info("Landing page data: %d members, %d districts, schedule: %s House, %d Senate", len(mem), len(dis),
+             len((sched.get("house") or {}).get("rows", [])), len(sched["senate"]))
     return mem, dis

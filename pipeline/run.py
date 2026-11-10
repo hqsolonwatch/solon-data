@@ -58,6 +58,8 @@ def daily(cfg, http, status):
         row = landing.latest_bill_vote(cfg, m["bioguide"])
         if row:
             first.append((cfg["congress"], row["bill"]["type"], row["bill"]["number"]))
+    # Then the bills in the page's floor schedule lists, so their titles are ready.
+    first += landing.schedule_bills(cfg)
     step("bills", lambda: bills.update(cfg, http, passage | set(coming), first=first), status)
     step("lobbying", lambda: lobbying.update(cfg, http, passage, cmte, first=first), status)
     if not (Path(cfg["output_dir"]) / "districts" / "index.json").exists():

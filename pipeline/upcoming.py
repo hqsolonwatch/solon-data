@@ -1,22 +1,39 @@
 """Bills scheduled for floor action this week and next.
 
 House: the Majority Leader's weekly floor schedule, published as XML at docs.house.gov.
-Senate: the Senate floor schedule page on senate.gov. The Senate posts its plans as text,
-so bill numbers are picked out of the wording. Treat Senate items as "expected," not certain.
+Senate: the Senate does not publish a list of bills for the coming week. Its floor schedule page
+(senate.gov) usually gives only the time the Senate convenes. So Senate items come from three
+official, nonpartisan records, and are labeled "expected," not "scheduled":
+  1. Senate roll calls already saved by this pipeline: a bill on which the Senate voted to end
+     debate (cloture) in the last two weeks, with no final vote on it since.
+  2. Congress.gov bill actions: a bill whose latest action in the last 10 days is a cloture motion
+     filed, a motion to proceed, or the Senate taking up or considering the bill.
+  3. Any bill numbers on the senate.gov floor schedule page, when it lists them.
 """
 import logging
 import re
+import os
 import time
+from pathlib import Path
 import xml.etree.ElementTree as ET
 from datetime import date, timedelta
 
-from .core import _BILL_RE, BILL_TYPES, bill_id, bill_label, find_bills, out_path, write_json
+from .core import _BILL_RE, BILL_TYPES, Budget, bill_id, bill_label, find_bills, out_path, read_json, write_json
 
 log = logging.getLogger("solon")
 
 HOUSE_XML = "https://docs.house.gov/floor/Download.aspx?file=/billsthisweek/{d}/{d}.xml"
 SENATE_PAGE = "https://www.senate.gov/legislative/schedule/floor_schedule.htm"
+CONGRESS_API = "https://api.congress.gov/v3/bill"
+# Congress.gov action wording that means a bill is on, or about to reach, the Senate floor.
+SENATE_PENDING = re.compile(
+    r"cloture motion .*presented in senate|cloture .*filed in senate|motion to proceed .*(?:made|presented|agreed to) in senate|"
+    r"measure laid before senate|considered by senate|cloture .*invoked in senate", re.I)
+SENATE_DONE = re.compile(r"passed senate|failed of passage in senate|cloture .*not invoked|returned to the calendar", re.I)
 SENATE_HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; SolonWatch-data-pipeline/1.0; +https://solonwatch.com)"}
+
+
+BILL_LABEL_TYPES = {"hr", "s", "hjres", "sjres"}
 
 
 def house_weeks(today=None):
@@ -63,6 +80,77 @@ def senate_items(html_text, congress):
     return items
 
 
+def _item(congress, btype, num, description, basis):
+    return {"bill": {"type": btype, "number": num, "label": bill_label(btype, num), "id": bill_id(congress, btype, num)},
+            "description": description[:400], "category": "expected", "basis": basis}
+
+
+def long_day(iso):
+    d = date.fromisoformat(iso)
+    return f"{d.strftime('%B')} {d.day}"
+
+
+def senate_from_votes(index, congress, today=None, days=14):
+    """Bills the Senate voted to end debate on recently, with no final vote on the bill since."""
+    today = today or date.today()
+    start = (today - timedelta(days=days)).isoformat()
+    sen = sorted((v for v in index if v["chamber"] == "senate" and v.get("bill")), key=lambda v: (v["date"], v["number"]))
+    last = {}
+    for v in sen:
+        last[v["bill"]["id"]] = v
+    out = []
+    for bid, v in last.items():
+        if v["date"] < start or v.get("kind") != "cloture" or not re.search(r"agreed|invoked", v.get("result") or "", re.I):
+            continue
+        b, t = v["bill"], v["totals"]
+        what = "the motion to proceed to the bill" if "proceed" in (v.get("question") or "").lower() else "the bill"
+        out.append(_item(congress, b["type"], b["number"],
+                         f"The Senate voted {t['yea']} to {t['nay']} on {long_day(v['date'])} to end debate on {what}. "
+                         f"More votes on it are expected.", f"senate roll call {v['number']}"))
+    return out
+
+
+def senate_from_congress(http, key, congress, today=None, days=10, pages=4):
+    """Bills whose latest Congress.gov action shows them headed to or on the Senate floor."""
+    today = today or date.today()
+    start = today - timedelta(days=days)
+    params = {"format": "json", "api_key": key, "limit": 250, "sort": "updateDate desc",
+              "fromDateTime": start.strftime("%Y-%m-%dT00:00:00Z"), "toDateTime": today.strftime("%Y-%m-%dT23:59:59Z")}
+    url, out, seen = f"{CONGRESS_API}/{congress}", [], set()
+    for _ in range(pages):
+        data = http.json(url, params=params, allow_404=True) or {}
+        for b in data.get("bills", []):
+            act = b.get("latestAction") or {}
+            text, when = act.get("text") or "", act.get("actionDate") or ""
+            btype = (b.get("type") or "").lower()
+            if btype not in BILL_LABEL_TYPES or when < start.isoformat():
+                continue
+            if not SENATE_PENDING.search(text) or SENATE_DONE.search(text):
+                continue
+            num = int(b["number"])
+            if (btype, num) in seen:
+                continue
+            seen.add((btype, num))
+            title = " ".join((b.get("title") or "").split())
+            out.append(_item(congress, btype, num, f"{title}. Latest action, {long_day(when)}: {text}", "congress.gov action"))
+        nxt = (data.get("pagination") or {}).get("next")
+        if not nxt:
+            break
+        url, params = nxt, {"api_key": key, "format": "json"}
+    return out
+
+
+def merge_senate(*lists):
+    seen, out = set(), []
+    for lst in lists:
+        for it in lst:
+            if it["bill"]["id"] in seen:
+                continue
+            seen.add(it["bill"]["id"])
+            out.append(it)
+    return out
+
+
 def update(cfg, http):
     congress = cfg["congress"]
     house, used = [], None
@@ -79,18 +167,32 @@ def update(cfg, http):
             it["week_of"] = d.isoformat()
         house.extend(items)
         used = used or ds
-    senate = []
+    index = (read_json(Path(cfg["output_dir"]) / "votes" / "index.json") or {}).get("votes", [])
+    from_votes = senate_from_votes(index, congress)
+    from_api, from_page = [], []
+    key = os.environ.get("API_DATA_GOV_KEY")
+    if key:
+        try:
+            from_api = senate_from_congress(http, key, congress)
+        except Budget:
+            log.warning("Upcoming: Congress.gov request budget used up")
+        except Exception as e:
+            log.warning("Senate actions from Congress.gov not read: %s", e)
     try:
         r = http.get(SENATE_PAGE, headers=SENATE_HEADERS, allow_404=True)
         if r is not None:
-            senate = senate_items(r.text, congress)
+            from_page = senate_items(r.text, congress)
     except Exception as e:
         log.warning("Senate floor schedule not read: %s", e)
+    senate = merge_senate(from_votes, from_api, from_page)
+    log.info("Upcoming Senate: %d from roll calls, %d from Congress.gov, %d from senate.gov",
+             len(from_votes), len(from_api), len(from_page))
     out = {
         "updated": time.strftime("%Y-%m-%d"),
         "house": house, "senate": senate,
         "sources": {"house": "House Majority Leader floor schedule, docs.house.gov",
-                    "senate": "Senate floor schedule, senate.gov (bill numbers read from the posted text)"},
+                    "senate": "Expected, not scheduled: Senate roll calls (senate.gov), bill actions (Congress.gov) "
+                              "and the senate.gov floor schedule"},
     }
     write_json(out_path(cfg, "upcoming.json"), out)
     log.info("Upcoming: %d House items, %d Senate items", len(house), len(senate))

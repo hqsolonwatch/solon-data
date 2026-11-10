@@ -9,7 +9,7 @@ Everything here is written by the pipeline. Don't edit these files by hand; chan
 | `votes/house/{congress}-{session}-{number}.json`, `votes/senate/...` | One vote, including how every member voted. |
 | `members/{bioguide}/votes.json` | One member's votes, newest first, plus `latest_passage_vote`. |
 | `bills/{type}{number}-{congress}.json` | Title, short title, sponsor, latest action, whether it became law, the full CRS summary, a one-sentence summary, and a Congress.gov link. |
-| `upcoming.json` | Bills on the House floor schedule for this week and next, and bills named on the Senate floor schedule. |
+| `upcoming.json` | Bills on the House floor schedule for this week and next, and bills expected on the Senate floor (the Senate posts no weekly list, so these come from recent cloture votes and Congress.gov bill actions). |
 | `members/{bioguide}/money.json` | Campaign money: `summary` (FEC totals), `pac_contributions` (every committee that gave, with totals), and `detail` (small vs. large donor split, where donors live, where donors work, principal committee). |
 | `rankings.json` | Top fundraisers by chamber and party. |
 | `races.json` | Every candidate who filed FEC reports this cycle, grouped by race (for example `GA-SEN`, `TX-33`), with receipts and cash on hand. |

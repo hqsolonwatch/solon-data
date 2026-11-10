@@ -9,7 +9,7 @@ This program collects the public records Solon Watch needs and saves them as fil
 | Every senator and House member, with phone numbers, offices and contact forms | congress-legislators project (built from official House, Senate and Bioguide records) | Daily |
 | Every roll-call vote and how each member voted | House Clerk (clerk.house.gov) and Senate (senate.gov) | Daily |
 | Bill titles and plain-English summaries | Congress.gov (summaries by the Congressional Research Service) | Daily |
-| Bills coming up for a vote | House floor schedule (docs.house.gov) and Senate floor schedule (senate.gov) | Daily |
+| Bills coming up for a vote | House floor schedule (docs.house.gov). Senate: bills expected on the floor, from recent Senate roll calls, Congress.gov bill actions and the senate.gov floor schedule | Daily |
 | Campaign money: totals, small vs. large donors, PAC money, where donors live, where they work | Federal Election Commission | Daily (each member refreshed weekly) |
 | Every candidate running for Congress this cycle | Federal Election Commission | Daily |
 | Groups that lobbied on each bill, and what their PACs gave each member | Lobbying Disclosure Act reports (lda.gov) and FEC | Daily (each bill refreshed weekly) |
