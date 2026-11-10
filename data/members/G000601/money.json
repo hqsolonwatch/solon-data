@@ -1365,8 +1365,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00855528",
+  "committee_name": "CRAIG GOLDMAN FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1932744.66,
+  "amounts": {
+   "individuals_200_or_less": 8941.11,
+   "individuals_over_200": 420821.83,
+   "pacs_and_parties": 726850.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 776120.5,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    1
+   ],
+   [
+    "Individuals giving more than $200",
+    36
+   ],
+   [
+    "PACs and party committees",
+    63
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1173621.23,
+   "home_state": "TX",
+   "home_state_total": 992445.22,
+   "home_state_share": 85,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 992445.22,
+     "count": 646
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 29260.73,
+     "count": 36
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 29000.0,
+     "count": 11
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 27997.0,
+     "count": 14
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 14761.15,
+     "count": 21
+    },
+    {
+     "state": "AR",
+     "state_full": "Arkansas",
+     "total": 13500.0,
+     "count": 6
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 9750.0,
+     "count": 8
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 9050.0,
+     "count": 11
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 6500.0,
+     "count": 3
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 5021.15,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "LMBILP",
+     "total": 19000.0,
+     "count": 5
+    },
+    {
+     "employer": "HILLWOOD",
+     "total": 15781.88,
+     "count": 7
+    },
+    {
+     "employer": "UINTA WAX",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "KELLY HART",
+     "total": 12000.0,
+     "count": 5
+    },
+    {
+     "employer": "DEASON CAPITAL SERVICES",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "GAMTEX INDUSTIES",
+     "total": 10000.0,
+     "count": 6
+    },
+    {
+     "employer": "DOUBLE EAGLE ENERGY",
+     "total": 9500.0,
+     "count": 3
+    },
+    {
+     "employer": "RUSSO MCGARTY & ASSOCIATES INC.",
+     "total": 7083.65,
+     "count": 4
+    },
+    {
+     "employer": "SCOTT CARTER",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "COTTONWOOD FINANCIAL",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

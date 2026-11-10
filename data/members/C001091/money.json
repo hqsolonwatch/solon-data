@@ -342,8 +342,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00497933",
+  "committee_name": "CASTRO FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 592415.74,
+  "amounts": {
+   "individuals_200_or_less": 47070.84,
+   "individuals_over_200": 377341.9,
+   "pacs_and_parties": 168000.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    8
+   ],
+   [
+    "Individuals giving more than $200",
+    64
+   ],
+   [
+    "PACs and party committees",
+    28
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 336676.2,
+   "home_state": "TX",
+   "home_state_total": 269827.2,
+   "home_state_share": 80,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 269827.2,
+     "count": 559
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 16199.0,
+     "count": 53
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 12200.0,
+     "count": 15
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 10000.0,
+     "count": 14
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 9500.0,
+     "count": 6
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 5500.0,
+     "count": 10
+    },
+    {
+     "state": "PR",
+     "state_full": "Puerto Rico",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 3000.0,
+     "count": 3
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 2500.0,
+     "count": 1
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 2500.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "HARTMAN FOUNDATION",
+     "total": 9300.0,
+     "count": 6
+    },
+    {
+     "employer": "THE HERRERA LAW FIRM",
+     "total": 8500.0,
+     "count": 6
+    },
+    {
+     "employer": "SILBEY STRATEGIES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "OCANAS GROUP",
+     "total": 7000.0,
+     "count": 8
+    },
+    {
+     "employer": "SERNA AND SERNA",
+     "total": 6111.2,
+     "count": 6
+    },
+    {
+     "employer": "ORTIZ MCKNIGHT PLLC",
+     "total": 5500.0,
+     "count": 3
+    },
+    {
+     "employer": "JOE A GAMEZ",
+     "total": 5000.0,
+     "count": 2
+    },
+    {
+     "employer": "THEGROUP",
+     "total": 5000.0,
+     "count": 4
+    },
+    {
+     "employer": "ARIZONA BEVERAGES",
+     "total": 4500.0,
+     "count": 2
+    },
+    {
+     "employer": "ESCAMILLA & PONECK LLP",
+     "total": 4100.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -2505,8 +2505,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00653220",
+  "committee_name": "CAROL FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2036642.7,
+  "amounts": {
+   "individuals_200_or_less": 3265.83,
+   "individuals_over_200": 544953.29,
+   "pacs_and_parties": 1454138.58,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 11985.47,
+   "other_receipts": 19950.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    0
+   ],
+   [
+    "Individuals giving more than $200",
+    27
+   ],
+   [
+    "PACs and party committees",
+    73
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 505203.29,
+   "home_state": "WV",
+   "home_state_total": 173100.0,
+   "home_state_share": 34,
+   "top": [
+    {
+     "state": "WV",
+     "state_full": "West Virginia",
+     "total": 173100.0,
+     "count": 138
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 73544.29,
+     "count": 86
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 39250.0,
+     "count": 53
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 34343.0,
+     "count": 18
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 27800.0,
+     "count": 14
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 22000.0,
+     "count": 13
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 21500.0,
+     "count": 7
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 17375.0,
+     "count": 19
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 16000.0,
+     "count": 11
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 14500.0,
+     "count": 11
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "FORM ENERGY",
+     "total": 11300.0,
+     "count": 11
+    },
+    {
+     "employer": "KEYROCK ENERGY",
+     "total": 8000.0,
+     "count": 3
+    },
+    {
+     "employer": "COLE AUTOMOTIVE GROUP",
+     "total": 7500.0,
+     "count": 3
+    },
+    {
+     "employer": "PAYROLL & INSURANCE GROUP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "LONG HAUL LEASING",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SERVICE PUMP AND SUPPLY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "DUKE ENERGY",
+     "total": 7000.0,
+     "count": 4
+    },
+    {
+     "employer": "ERGON INC.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "CLEAR PATH",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "HALL STRATEGIES LLC",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

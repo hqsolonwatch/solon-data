@@ -2271,8 +2271,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00532465",
+  "committee_name": "ROUNDS FOR SENATE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 3810748.34,
+  "amounts": {
+   "individuals_200_or_less": 49573.74,
+   "individuals_over_200": 1535973.85,
+   "pacs_and_parties": 1696600.01,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 435471.17,
+   "other_receipts": 93129.57
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    1
+   ],
+   [
+    "Individuals giving more than $200",
+    47
+   ],
+   [
+    "PACs and party committees",
+    52
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1504028.69,
+   "home_state": "SD",
+   "home_state_total": 152766.56,
+   "home_state_share": 10,
+   "top": [
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 363075.33,
+     "count": 238
+    },
+    {
+     "state": "SD",
+     "state_full": "South Dakota",
+     "total": 152766.56,
+     "count": 139
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 147572.92,
+     "count": 94
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 118700.0,
+     "count": 55
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 115464.59,
+     "count": 115
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 82549.02,
+     "count": 174
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 76277.91,
+     "count": 63
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 58070.13,
+     "count": 45
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 49060.0,
+     "count": 26
+    },
+    {
+     "state": "NV",
+     "state_full": "Nevada",
+     "total": 39792.0,
+     "count": 16
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ANTHROPIC",
+     "total": 47600.0,
+     "count": 15
+    },
+    {
+     "employer": "GOOGLE",
+     "total": 42200.0,
+     "count": 17
+    },
+    {
+     "employer": "MARQUIS MANAGEMENT, INC.",
+     "total": 30000.0,
+     "count": 12
+    },
+    {
+     "employer": "ARES MANAGEMENT",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
+     "employer": "BURWELL ENTERPRISE",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
+     "employer": "LEIDOS",
+     "total": 20715.34,
+     "count": 35
+    },
+    {
+     "employer": "SANFORD HEALTH",
+     "total": 19000.0,
+     "count": 8
+    },
+    {
+     "employer": "BLACKSTONE",
+     "total": 14400.0,
+     "count": 8
+    },
+    {
+     "employer": "BUSINESS OWNER",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "PARADIGM",
+     "total": 14000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

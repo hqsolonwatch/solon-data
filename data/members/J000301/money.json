@@ -1004,8 +1004,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00628917",
+  "committee_name": "FRIENDS OF DUSTY JOHNSON",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1706922.17,
+  "amounts": {
+   "individuals_200_or_less": 7197.57,
+   "individuals_over_200": 805622.71,
+   "pacs_and_parties": 322400.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 305272.0,
+   "other_receipts": 266271.91
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    1
+   ],
+   [
+    "Individuals giving more than $200",
+    71
+   ],
+   [
+    "PACs and party committees",
+    28
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1109894.71,
+   "home_state": "SD",
+   "home_state_total": 820987.0,
+   "home_state_share": 74,
+   "top": [
+    {
+     "state": "SD",
+     "state_full": "South Dakota",
+     "total": 820987.0,
+     "count": 455
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 72485.71,
+     "count": 30
+    },
+    {
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 28750.0,
+     "count": 17
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 26400.0,
+     "count": 10
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 22500.0,
+     "count": 11
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 22150.0,
+     "count": 9
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 21005.0,
+     "count": 11
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 12800.0,
+     "count": 15
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 12550.0,
+     "count": 6
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 9250.0,
+     "count": 12
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "SANFORD HEALTH",
+     "total": 18200.0,
+     "count": 8
+    },
+    {
+     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "REEDE CONSTRUCTION",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "AVERA",
+     "total": 10000.0,
+     "count": 4
+    },
+    {
+     "employer": "VANTAGE POINT",
+     "total": 9500.0,
+     "count": 4
+    },
+    {
+     "employer": "COINBASE",
+     "total": 9100.0,
+     "count": 3
+    },
+    {
+     "employer": "AVERA HEALTH",
+     "total": 9000.0,
+     "count": 5
+    },
+    {
+     "employer": "MUTH ELECTRIC",
+     "total": 8000.0,
+     "count": 3
+    },
+    {
+     "employer": "FIRST DAKOTA NATIONAL BANK",
+     "total": 7800.0,
+     "count": 3
+    },
+    {
+     "employer": "STATE OF SOUTH DAKOTA",
+     "total": 7500.0,
+     "count": 8
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -212,8 +212,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00831487",
+  "committee_name": "AMIGOS DE PABLO JOSE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 968392.5,
+  "amounts": {
+   "individuals_200_or_less": 174967.97,
+   "individuals_over_200": 707318.0,
+   "pacs_and_parties": 84150.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    18
+   ],
+   [
+    "Individuals giving more than $200",
+    73
+   ],
+   [
+    "PACs and party committees",
+    9
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 707318.0,
+   "home_state": "PR",
+   "home_state_total": 609534.0,
+   "home_state_share": 86,
+   "top": [
+    {
+     "state": "PR",
+     "state_full": "Puerto Rico",
+     "total": 609534.0,
+     "count": 722
+    },
+    {
+     "state": "OT",
+     "state_full": "Other",
+     "total": 33804.0,
+     "count": 78
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 25500.0,
+     "count": 23
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 8000.0,
+     "count": 3
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 7610.0,
+     "count": 18
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 5250.0,
+     "count": 3
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 4820.0,
+     "count": 12
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "state": "NV",
+     "state_full": "Nevada",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 1800.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "PEDRO ORTIZ ALVAREZ LLC",
+     "total": 13500.0,
+     "count": 6
+    },
+    {
+     "employer": "APMPR",
+     "total": 8500.0,
+     "count": 5
+    },
+    {
+     "employer": "WP",
+     "total": 8000.0,
+     "count": 3
+    },
+    {
+     "employer": "HELAPAN INC.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MISTER PRICE INC.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "INKIT",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ECIJA PUERTO RICO",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PRIME POLICY GROUP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "LOPEZ LUNA INSURANCE",
+     "total": 6600.0,
+     "count": 2
+    },
+    {
+     "employer": "SANTANA & GARCIA LLC",
+     "total": 6100.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

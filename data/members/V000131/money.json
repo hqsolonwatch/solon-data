@@ -1432,8 +1432,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00506832",
+  "committee_name": "MARC VEASEY CONGRESSIONAL CAMPAIGN COMMITTEE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 776460.39,
+  "amounts": {
+   "individuals_200_or_less": 9531.63,
+   "individuals_over_200": 218523.81,
+   "pacs_and_parties": 542100.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    1
+   ],
+   [
+    "Individuals giving more than $200",
+    28
+   ],
+   [
+    "PACs and party committees",
+    71
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 218523.81,
+   "home_state": "TX",
+   "home_state_total": 154863.81,
+   "home_state_share": 71,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 154863.81,
+     "count": 110
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 25860.0,
+     "count": 27
+    },
+    {
+     "state": "NV",
+     "state_full": "Nevada",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 7300.0,
+     "count": 3
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 5500.0,
+     "count": 7
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 3000.0,
+     "count": 2
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 2500.0,
+     "count": 1
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 2000.0,
+     "count": 4
+    },
+    {
+     "state": "WI",
+     "state_full": "Wisconsin",
+     "total": 1000.0,
+     "count": 1
+    },
+    {
+     "state": "OK",
+     "state_full": "Oklahoma",
+     "total": 1000.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "SOUTHWEST AIRLINES",
+     "total": 25750.0,
+     "count": 24
+    },
+    {
+     "employer": "WITHERITE LAW GROUP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "DYNAMIC MEDICAL SERVICES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BIOWOUNDSOLUTIONS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "THEGROUP",
+     "total": 6500.0,
+     "count": 3
+    },
+    {
+     "employer": "SOUTHWEST AIRLINES CO.",
+     "total": 5000.0,
+     "count": 3
+    },
+    {
+     "employer": "SECO VENTURES",
+     "total": 5000.0,
+     "count": 2
+    },
+    {
+     "employer": "OGILVY",
+     "total": 3500.0,
+     "count": 2
+    },
+    {
+     "employer": "RS",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "ARNOLD VENTURES",
+     "total": 3500.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

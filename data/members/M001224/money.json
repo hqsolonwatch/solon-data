@@ -1749,8 +1749,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00796086",
+  "committee_name": "NATHANIEL MORAN FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2380646.71,
+  "amounts": {
+   "individuals_200_or_less": 437177.64,
+   "individuals_over_200": 630494.94,
+   "pacs_and_parties": 1010150.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 288117.37,
+   "other_receipts": 12125.13
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    21
+   ],
+   [
+    "Individuals giving more than $200",
+    30
+   ],
+   [
+    "PACs and party committees",
+    49
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 772124.72,
+   "home_state": "TX",
+   "home_state_total": 491855.67,
+   "home_state_share": 64,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 491855.67,
+     "count": 637
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 51957.47,
+     "count": 340
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 45880.69,
+     "count": 189
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 38055.28,
+     "count": 119
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 24659.46,
+     "count": 420
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 15114.08,
+     "count": 86
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 14430.6,
+     "count": 53
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 10312.15,
+     "count": 78
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 6460.6,
+     "count": 75
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 5718.18,
+     "count": 178
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "CHARTER BROKERAGE LLC",
+     "total": 20500.0,
+     "count": 11
+    },
+    {
+     "employer": "LANIER LAW FIRM",
+     "total": 16000.0,
+     "count": 6
+    },
+    {
+     "employer": "ARNOLD VENTURES",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "ANTHROPIC",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "CHARTER BROKERAGE",
+     "total": 9375.0,
+     "count": 7
+    },
+    {
+     "employer": "MEHLMAN CONSULTING",
+     "total": 9000.0,
+     "count": 8
+    },
+    {
+     "employer": "OGR",
+     "total": 8500.0,
+     "count": 12
+    },
+    {
+     "employer": "OFFENHAUSER & CO",
+     "total": 7100.0,
+     "count": 3
+    },
+    {
+     "employer": "THE JOHNSON FIRM",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "NULLFRAME, INC",
+     "total": 7000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

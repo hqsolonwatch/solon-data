@@ -1783,8 +1783,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00806174",
+  "committee_name": "MARIE FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 9472266.66,
+  "amounts": {
+   "individuals_200_or_less": 988249.07,
+   "individuals_over_200": 3377431.09,
+   "pacs_and_parties": 1110188.73,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 3895972.63,
+   "other_receipts": 18926.29
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    18
+   ],
+   [
+    "Individuals giving more than $200",
+    62
+   ],
+   [
+    "PACs and party committees",
+    20
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 5340320.75,
+   "home_state": "WA",
+   "home_state_total": 1897347.7,
+   "home_state_share": 36,
+   "top": [
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 1897347.7,
+     "count": 7031
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 1048377.42,
+     "count": 624
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 632859.68,
+     "count": 762
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 329841.26,
+     "count": 384
+    },
+    {
+     "state": "OR",
+     "state_full": "Oregon",
+     "total": 209768.28,
+     "count": 571
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 164442.26,
+     "count": 83
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 121296.22,
+     "count": 147
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 120890.0,
+     "count": 107
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 118220.3,
+     "count": 89
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 94317.15,
+     "count": 112
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "JANE STREET CAPITAL",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
+     "employer": "INSIGHT PARTNERS",
+     "total": 21000.0,
+     "count": 7
+    },
+    {
+     "employer": "LAUDER PARTNERS LLC",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "D4 INVESTMENTS LLC",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "NIERENBERG INVESTMENT MANAGEMENT COMPA",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "BESSEMER VENTURE PARTNERS",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "SSW PARTNERS",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "CENTERVIEW PARTNERS",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "employer": "D.E. SHAW & CO, LP",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "EVERCORE PARTNERS LLC",
+     "total": 14000.0,
+     "count": 5
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

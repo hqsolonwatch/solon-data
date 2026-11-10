@@ -1859,8 +1859,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00441014",
+  "committee_name": "ROB WITTMAN FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 5432689.32,
+  "amounts": {
+   "individuals_200_or_less": 82980.81,
+   "individuals_over_200": 1869396.09,
+   "pacs_and_parties": 1510456.2,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 1851147.08,
+   "other_receipts": 117531.54
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    2
+   ],
+   [
+    "Individuals giving more than $200",
+    54
+   ],
+   [
+    "PACs and party committees",
+    44
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 2949049.84,
+   "home_state": "VA",
+   "home_state_total": 1432227.42,
+   "home_state_share": 49,
+   "top": [
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 1432227.42,
+     "count": 1457
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 327612.08,
+     "count": 216
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 277869.45,
+     "count": 148
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 202311.19,
+     "count": 113
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 90670.16,
+     "count": 101
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 77821.23,
+     "count": 43
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 59592.29,
+     "count": 50
+    },
+    {
+     "state": "NV",
+     "state_full": "Nevada",
+     "total": 40709.4,
+     "count": 21
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 35957.14,
+     "count": 20
+    },
+    {
+     "state": "AL",
+     "state_full": "Alabama",
+     "total": 35226.41,
+     "count": 17
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "LOCKHEED MARTIN",
+     "total": 40505.0,
+     "count": 42
+    },
+    {
+     "employer": "HEPBURN AND SONS LLC",
+     "total": 17500.0,
+     "count": 5
+    },
+    {
+     "employer": "JAMES RIVER AIR CONDITIONING CO.",
+     "total": 17500.0,
+     "count": 5
+    },
+    {
+     "employer": "BWXT",
+     "total": 17355.01,
+     "count": 17
+    },
+    {
+     "employer": "KEARNEY  CO",
+     "total": 17000.0,
+     "count": 8
+    },
+    {
+     "employer": "ENTREPRENEUR",
+     "total": 15981.84,
+     "count": 6
+    },
+    {
+     "employer": "TORRIDON LAW",
+     "total": 14000.0,
+     "count": 8
+    },
+    {
+     "employer": "KEARNEY COMPANY",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "CHARLES  POTOMAC CAPITAL LLC",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "THE PETERSON COMPANIES",
+     "total": 14000.0,
+     "count": 5
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

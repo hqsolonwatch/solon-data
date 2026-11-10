@@ -167,8 +167,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00791293",
+  "committee_name": "SELF FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 887245.18,
+  "amounts": {
+   "individuals_200_or_less": 174293.41,
+   "individuals_over_200": 475348.33,
+   "pacs_and_parties": 230923.45,
+   "candidate_own": 2229.82,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    20
+   ],
+   [
+    "Individuals giving more than $200",
+    54
+   ],
+   [
+    "PACs and party committees",
+    26
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 439777.46,
+   "home_state": "TX",
+   "home_state_total": 319345.99,
+   "home_state_share": 73,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 319345.99,
+     "count": 1081
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 26098.05,
+     "count": 36
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 19063.96,
+     "count": 133
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 13739.41,
+     "count": 51
+    },
+    {
+     "state": "WI",
+     "state_full": "Wisconsin",
+     "total": 11377.0,
+     "count": 25
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 10179.1,
+     "count": 12
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 9036.0,
+     "count": 9
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 8611.58,
+     "count": 43
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 8244.79,
+     "count": 348
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 3000.0,
+     "count": 5
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ARADI PROPERIES",
+     "total": 7600.0,
+     "count": 4
+    },
+    {
+     "employer": "SOUTHWEST AIRLINES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BEAL BANK",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "THE O'REILLY GROUP",
+     "total": 6800.0,
+     "count": 4
+    },
+    {
+     "employer": "SPACEX",
+     "total": 6600.0,
+     "count": 3
+    },
+    {
+     "employer": "STRIKE PHOTONICS",
+     "total": 6000.0,
+     "count": 3
+    },
+    {
+     "employer": "MENDENHALL PARTNERS LTD",
+     "total": 5500.0,
+     "count": 4
+    },
+    {
+     "employer": "COLLINS-HILTON FURNITURE CO",
+     "total": 5500.0,
+     "count": 2
+    },
+    {
+     "employer": "METHODIST MEDICAL GROUP",
+     "total": 5000.0,
+     "count": 3
+    },
+    {
+     "employer": "HANCE SCARBOROUGH",
+     "total": 4000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

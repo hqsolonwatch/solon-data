@@ -101,8 +101,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00710103",
+  "committee_name": "NANCY MACE FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 452863.38,
+  "amounts": {
+   "individuals_200_or_less": 117564.36,
+   "individuals_over_200": 53668.75,
+   "pacs_and_parties": 11500.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 268446.67,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    64
+   ],
+   [
+    "Individuals giving more than $200",
+    30
+   ],
+   [
+    "PACs and party committees",
+    6
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 224054.58,
+   "home_state": "SC",
+   "home_state_total": 22790.61,
+   "home_state_share": 10,
+   "top": [
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 39576.99,
+     "count": 923
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 32760.01,
+     "count": 730
+    },
+    {
+     "state": "SC",
+     "state_full": "South Carolina",
+     "total": 22790.61,
+     "count": 351
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 16034.22,
+     "count": 403
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 11055.62,
+     "count": 141
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 8272.34,
+     "count": 150
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 8210.47,
+     "count": 150
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 5559.04,
+     "count": 250
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 5535.39,
+     "count": 138
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 5446.72,
+     "count": 214
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "CONTRAVEST",
+     "total": 5205.08,
+     "count": 2
+    },
+    {
+     "employer": "DANIELS MANUFACTURING CORPORATION",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "PHARMASPHERE INC",
+     "total": 3325.0,
+     "count": 8
+    },
+    {
+     "employer": "B3 CONSTRUCTION",
+     "total": 3300.0,
+     "count": 1
+    },
+    {
+     "employer": "MAYO CLINIC",
+     "total": 3082.04,
+     "count": 3
+    },
+    {
+     "employer": "CHARLES A KLEIN",
+     "total": 2224.61,
+     "count": 12
+    },
+    {
+     "employer": "KROGER",
+     "total": 1500.0,
+     "count": 1
+    },
+    {
+     "employer": "PETERSON MFG.",
+     "total": 1202.38,
+     "count": 7
+    },
+    {
+     "employer": "NEXT GEN COMPOUNDING",
+     "total": 1041.02,
+     "count": 1
+    },
+    {
+     "employer": "SUNBELT BUSINESS BROKERS",
+     "total": 1036.92,
+     "count": 13
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

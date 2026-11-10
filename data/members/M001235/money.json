@@ -1041,8 +1041,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00828947",
+  "committee_name": "MOORE FOR WEST VIRGINIA, INC.",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1617727.47,
+  "amounts": {
+   "individuals_200_or_less": 231788.43,
+   "individuals_over_200": 323073.08,
+   "pacs_and_parties": 677650.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 384958.48,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    19
+   ],
+   [
+    "Individuals giving more than $200",
+    26
+   ],
+   [
+    "PACs and party committees",
+    55
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 652244.62,
+   "home_state": "WV",
+   "home_state_total": 286551.84,
+   "home_state_share": 44,
+   "top": [
+    {
+     "state": "WV",
+     "state_full": "West Virginia",
+     "total": 286551.84,
+     "count": 197
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 66808.08,
+     "count": 245
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 53767.1,
+     "count": 98
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 46308.0,
+     "count": 47
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 45834.03,
+     "count": 179
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 18750.1,
+     "count": 280
+    },
+    {
+     "state": "KY",
+     "state_full": "Kentucky",
+     "total": 15750.0,
+     "count": 8
+    },
+    {
+     "state": "MS",
+     "state_full": "Mississippi",
+     "total": 14350.0,
+     "count": 6
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 12287.45,
+     "count": 284
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 11680.0,
+     "count": 9
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "COMMUNICARE",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "WVU MEDICINE",
+     "total": 14000.0,
+     "count": 12
+    },
+    {
+     "employer": "ERGON",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ACNR",
+     "total": 13250.0,
+     "count": 13
+    },
+    {
+     "employer": "CMI2",
+     "total": 9000.0,
+     "count": 3
+    },
+    {
+     "employer": "EDWARD C. LEVY",
+     "total": 8260.0,
+     "count": 5
+    },
+    {
+     "employer": "CLEVELAND-CLIFFS",
+     "total": 7500.0,
+     "count": 8
+    },
+    {
+     "employer": "IRON SENERGY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "INKIT",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "WVU HEALTH SYSTEM",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

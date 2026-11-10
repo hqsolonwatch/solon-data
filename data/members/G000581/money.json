@@ -2575,8 +2575,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00592659",
+  "committee_name": "VICENTE GONZALEZ FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 5211344.04,
+  "amounts": {
+   "individuals_200_or_less": 283122.06,
+   "individuals_over_200": 2483012.3,
+   "pacs_and_parties": 1748899.58,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 691896.23,
+   "other_receipts": 1716.97
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    6
+   ],
+   [
+    "Individuals giving more than $200",
+    55
+   ],
+   [
+    "PACs and party committees",
+    39
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 2243086.4,
+   "home_state": "TX",
+   "home_state_total": 544026.04,
+   "home_state_share": 24,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 608195.0,
+     "count": 306
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 544026.04,
+     "count": 427
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 313629.66,
+     "count": 212
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 171394.49,
+     "count": 143
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 66999.16,
+     "count": 29
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 66423.09,
+     "count": 46
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 47127.27,
+     "count": 78
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 46049.47,
+     "count": 56
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 43784.09,
+     "count": 28
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 43529.99,
+     "count": 27
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "NO EMPLOYER",
+     "total": 46237.5,
+     "count": 16
+    },
+    {
+     "employer": "KKR",
+     "total": 19833.66,
+     "count": 10
+    },
+    {
+     "employer": "SI, LLC",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "INSIGHT PARTNERS",
+     "total": 10500.0,
+     "count": 4
+    },
+    {
+     "employer": "JORGE SAENZ MDPA",
+     "total": 10000.0,
+     "count": 6
+    },
+    {
+     "employer": "AUSTIN VENTURES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "THE RIVERSIDE COMPANY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "GIVE FORWARD FOUNDATION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "THE CAPITOL CORP",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "DEER MANAGEMENT CO LLC",
+     "total": 7000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

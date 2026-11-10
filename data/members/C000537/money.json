@@ -1312,8 +1312,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00255562",
+  "committee_name": "FRIENDS OF JIM CLYBURN",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1687457.55,
+  "amounts": {
+   "individuals_200_or_less": 193391.77,
+   "individuals_over_200": 480363.65,
+   "pacs_and_parties": 960990.83,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 23611.33,
+   "other_receipts": 27766.95
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    12
+   ],
+   [
+    "Individuals giving more than $200",
+    29
+   ],
+   [
+    "PACs and party committees",
+    59
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 306750.47,
+   "home_state": "SC",
+   "home_state_total": 101299.0,
+   "home_state_share": 33,
+   "top": [
+    {
+     "state": "SC",
+     "state_full": "South Carolina",
+     "total": 101299.0,
+     "count": 359
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 61685.0,
+     "count": 91
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 30235.0,
+     "count": 101
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 16008.0,
+     "count": 33
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 13641.35,
+     "count": 43
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 12687.66,
+     "count": 126
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 8073.0,
+     "count": 8
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 7306.5,
+     "count": 47
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 4815.0,
+     "count": 46
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 4791.33,
+     "count": 62
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "MICROSOFT",
+     "total": 9035.0,
+     "count": 5
+    },
+    {
+     "employer": "PSP PARTNERS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SEIU",
+     "total": 5000.0,
+     "count": 1
+    },
+    {
+     "employer": "HOLLIDAY ASSOCIATES, LLC",
+     "total": 4225.0,
+     "count": 11
+    },
+    {
+     "employer": "K&R FARM",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "BB&T",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "SSP SOLUTIONS LLC",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "MOTA DESIGN",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "HPI",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "NORTHLANE CAPITAL PARTNERS LLC",
+     "total": 3500.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -1427,8 +1427,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00741090",
+  "committee_name": "DIANA FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1536325.23,
+  "amounts": {
+   "individuals_200_or_less": 117255.12,
+   "individuals_over_200": 452111.99,
+   "pacs_and_parties": 837750.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 35508.49,
+   "other_receipts": 75240.79
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    8
+   ],
+   [
+    "Individuals giving more than $200",
+    32
+   ],
+   [
+    "PACs and party committees",
+    60
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 478667.29,
+   "home_state": "TN",
+   "home_state_total": 132057.15,
+   "home_state_share": 28,
+   "top": [
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 132057.15,
+     "count": 306
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 57314.62,
+     "count": 110
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 28650.0,
+     "count": 27
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 28456.3,
+     "count": 37
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 24600.0,
+     "count": 33
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 23825.0,
+     "count": 32
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 22840.0,
+     "count": 44
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 16893.56,
+     "count": 9
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 16204.0,
+     "count": 79
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 14129.0,
+     "count": 6
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "SENIOR CARE PHARMACY COALITION",
+     "total": 7500.0,
+     "count": 6
+    },
+    {
+     "employer": "EMPOWER PHARMACY",
+     "total": 7500.0,
+     "count": 2
+    },
+    {
+     "employer": "ATTORNEY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BEAMAN AUTOMOTIVE",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "SEI CONSTRUCTION",
+     "total": 7000.0,
+     "count": 4
+    },
+    {
+     "employer": "DUCHOSSOIS CAPITAL MANAGEMENT",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PAYROLL & INSURANCE GROUP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "REVELATION PHARMA",
+     "total": 6500.0,
+     "count": 5
+    },
+    {
+     "employer": "UROLOGY ASSOCIATES",
+     "total": 6246.09,
+     "count": 3
+    },
+    {
+     "employer": "MEHLMAN CONSULTING",
+     "total": 5000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -1,0 +1,231 @@
+{
+ "bill": "hr2347-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "fetched_ts": 1794349344,
+ "report_count": 12,
+ "clients": [
+  {
+   "client": "DUKE ENERGY CORPORATION",
+   "display_name": "Duke Energy",
+   "reports": 1,
+   "latest_report_amount": 2190000.0,
+   "latest_report": "2e19e49c-48f0-4e0e-82dd-cc037f7eb19c",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00083535"
+   ],
+   "pac_names": [
+    "DUKE ENERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (DUKEPAC)"
+   ]
+  },
+  {
+   "client": "CORPORATE ENERGY BUYERS ASSOCIATION",
+   "display_name": "Corporate Energy Buyers Association",
+   "reports": 1,
+   "latest_report_amount": 140000.0,
+   "latest_report": "716ffb11-ec23-4e69-82ab-779643deb86a",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00917567"
+   ],
+   "pac_names": [
+    "CORPORATE ENERGY BUYERS ASSOCIATION PAC (CEBA PAC)"
+   ]
+  },
+  {
+   "client": "AMERICAN ASSOCIATION OF SETTLEMENT CONSULTANTS",
+   "display_name": "American Association of Settlement Consultants",
+   "reports": 7,
+   "latest_report_amount": 40000.0,
+   "latest_report": "0ee9f792-4267-419a-8bad-5f0b519d3591",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NATIONAL STRUCTURED SETTLEMENTS TRADE ASSOCIATION",
+   "display_name": "National Structured Settlements Trade Association",
+   "reports": 3,
+   "latest_report_amount": 7000.0,
+   "latest_report": "c4d69de9-118a-4ed0-9316-12a3cb18ef98",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00219444"
+   ],
+   "pac_names": [
+    "NATIONAL STRUCTURED SETTLEMENTS TRADE ASSOCIATION PAC"
+   ]
+  }
+ ],
+ "groups_shown": [
+  {
+   "client": "DUKE ENERGY CORPORATION",
+   "display_name": "Duke Energy",
+   "reports": 1,
+   "latest_report_amount": 2190000.0,
+   "latest_report": "2e19e49c-48f0-4e0e-82dd-cc037f7eb19c",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00083535"
+   ],
+   "pac_names": [
+    "DUKE ENERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (DUKEPAC)"
+   ]
+  },
+  {
+   "client": "CORPORATE ENERGY BUYERS ASSOCIATION",
+   "display_name": "Corporate Energy Buyers Association",
+   "reports": 1,
+   "latest_report_amount": 140000.0,
+   "latest_report": "716ffb11-ec23-4e69-82ab-779643deb86a",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00917567"
+   ],
+   "pac_names": [
+    "CORPORATE ENERGY BUYERS ASSOCIATION PAC (CEBA PAC)"
+   ]
+  },
+  {
+   "client": "NATIONAL STRUCTURED SETTLEMENTS TRADE ASSOCIATION",
+   "display_name": "National Structured Settlements Trade Association",
+   "reports": 3,
+   "latest_report_amount": 7000.0,
+   "latest_report": "c4d69de9-118a-4ed0-9316-12a3cb18ef98",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00219444"
+   ],
+   "pac_names": [
+    "NATIONAL STRUCTURED SETTLEMENTS TRADE ASSOCIATION PAC"
+   ]
+  }
+ ],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "f8b6d2c5-0c81-4020-8820-babdbac597fc",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T12:44:32-04:00",
+   "amount": 50000.0,
+   "registrant": "CAPITOL COUNSEL LLC",
+   "client": "AMERICAN ASSOCIATION OF SETTLEMENT CONSULTANTS",
+   "url": "https://lda.gov/filings/public/filing/f8b6d2c5-0c81-4020-8820-babdbac597fc/print/"
+  },
+  {
+   "filing_uuid": "c50d3c95-834e-4633-869b-ea9139cb66f0",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-15T16:15:22-04:00",
+   "amount": 50000.0,
+   "registrant": "CAPITOL COUNSEL LLC",
+   "client": "AMERICAN ASSOCIATION OF SETTLEMENT CONSULTANTS",
+   "url": "https://lda.gov/filings/public/filing/c50d3c95-834e-4633-869b-ea9139cb66f0/print/"
+  },
+  {
+   "filing_uuid": "78fc72eb-021f-4537-8377-f95a254bdb35",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-18T17:08:21-05:00",
+   "amount": 50000.0,
+   "registrant": "CAPITOL COUNSEL LLC",
+   "client": "AMERICAN ASSOCIATION OF SETTLEMENT CONSULTANTS",
+   "url": "https://lda.gov/filings/public/filing/78fc72eb-021f-4537-8377-f95a254bdb35/print/"
+  },
+  {
+   "filing_uuid": "658cd36b-c168-4759-aad0-e85d66db96e0",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-17T17:21:59-04:00",
+   "amount": 50000.0,
+   "registrant": "CAPITOL COUNSEL LLC",
+   "client": "AMERICAN ASSOCIATION OF SETTLEMENT CONSULTANTS",
+   "url": "https://lda.gov/filings/public/filing/658cd36b-c168-4759-aad0-e85d66db96e0/print/"
+  },
+  {
+   "filing_uuid": "ac0cb583-0b3f-4dee-ad25-b9165c1ca095",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-18T12:38:31-04:00",
+   "amount": 40000.0,
+   "registrant": "CAPITOL COUNSEL LLC",
+   "client": "AMERICAN ASSOCIATION OF SETTLEMENT CONSULTANTS",
+   "url": "https://lda.gov/filings/public/filing/ac0cb583-0b3f-4dee-ad25-b9165c1ca095/print/"
+  },
+  {
+   "filing_uuid": "902a5ba6-a7dd-451a-9d65-0863e1dcb0e6",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T13:56:33-04:00",
+   "amount": 40000.0,
+   "registrant": "CAPITOL COUNSEL LLC",
+   "client": "AMERICAN ASSOCIATION OF SETTLEMENT CONSULTANTS",
+   "url": "https://lda.gov/filings/public/filing/902a5ba6-a7dd-451a-9d65-0863e1dcb0e6/print/"
+  },
+  {
+   "filing_uuid": "0ee9f792-4267-419a-8bad-5f0b519d3591",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T14:24:46-04:00",
+   "amount": 40000.0,
+   "registrant": "CAPITOL COUNSEL LLC",
+   "client": "AMERICAN ASSOCIATION OF SETTLEMENT CONSULTANTS",
+   "url": "https://lda.gov/filings/public/filing/0ee9f792-4267-419a-8bad-5f0b519d3591/print/"
+  },
+  {
+   "filing_uuid": "2e19e49c-48f0-4e0e-82dd-cc037f7eb19c",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T20:55:46-04:00",
+   "amount": 2190000.0,
+   "registrant": "DUKE ENERGY CORPORATION",
+   "client": "DUKE ENERGY CORPORATION",
+   "url": "https://lda.gov/filings/public/filing/2e19e49c-48f0-4e0e-82dd-cc037f7eb19c/print/"
+  },
+  {
+   "filing_uuid": "716ffb11-ec23-4e69-82ab-779643deb86a",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T09:47:05-04:00",
+   "amount": 140000.0,
+   "registrant": "CORPORATE ENERGY BUYERS ASSOCIATION",
+   "client": "CORPORATE ENERGY BUYERS ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/716ffb11-ec23-4e69-82ab-779643deb86a/print/"
+  },
+  {
+   "filing_uuid": "e89bf277-8014-40dc-82d3-b265be10f539",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-05-04T14:48:00-04:00",
+   "amount": 7000.0,
+   "registrant": "BOOK HILL PARTNERS",
+   "client": "NATIONAL STRUCTURED SETTLEMENTS TRADE ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/e89bf277-8014-40dc-82d3-b265be10f539/print/"
+  },
+  {
+   "filing_uuid": "6dc96b07-cf07-454c-aeaa-79741e88d2e2",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-27T16:37:13-04:00",
+   "amount": 7000.0,
+   "registrant": "BOOK HILL PARTNERS",
+   "client": "NATIONAL STRUCTURED SETTLEMENTS TRADE ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/6dc96b07-cf07-454c-aeaa-79741e88d2e2/print/"
+  },
+  {
+   "filing_uuid": "c4d69de9-118a-4ed0-9316-12a3cb18ef98",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-11-03T12:11:36-05:00",
+   "amount": 7000.0,
+   "registrant": "BOOK HILL PARTNERS",
+   "client": "NATIONAL STRUCTURED SETTLEMENTS TRADE ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/c4d69de9-118a-4ed0-9316-12a3cb18ef98/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}

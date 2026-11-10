@@ -514,8 +514,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00540302",
+  "committee_name": "TIM SCOTT FOR AMERICA",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 6683594.81,
+  "amounts": {
+   "individuals_200_or_less": 2098034.15,
+   "individuals_over_200": 3595947.24,
+   "pacs_and_parties": 241800.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 524254.82,
+   "other_receipts": 223533.21
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    35
+   ],
+   [
+    "Individuals giving more than $200",
+    61
+   ],
+   [
+    "PACs and party committees",
+    4
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 3341442.88,
+   "home_state": "SC",
+   "home_state_total": 216584.56,
+   "home_state_share": 6,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 384413.15,
+     "count": 19534
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 340381.21,
+     "count": 17885
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 322590.43,
+     "count": 13368
+    },
+    {
+     "state": "SC",
+     "state_full": "South Carolina",
+     "total": 216584.56,
+     "count": 6812
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 179632.29,
+     "count": 5067
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 123582.04,
+     "count": 6237
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 114624.74,
+     "count": 5131
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 110799.28,
+     "count": 5561
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 93334.02,
+     "count": 3380
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 91143.79,
+     "count": 5488
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "BLACKSTONE",
+     "total": 40400.0,
+     "count": 16
+    },
+    {
+     "employer": "WELLS FARGO",
+     "total": 35871.25,
+     "count": 28
+    },
+    {
+     "employer": "COINBASE",
+     "total": 19000.0,
+     "count": 7
+    },
+    {
+     "employer": "SKYBRIDGE CAPITAL",
+     "total": 10300.0,
+     "count": 3
+    },
+    {
+     "employer": "PEACHTREE PROVIDENCE PARTNERS",
+     "total": 8500.0,
+     "count": 3
+    },
+    {
+     "employer": "SOROBAN CAPITAL PARTNERS LP",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "MELALEUCA INC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "TALLY CAPITAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "WEATHERTECH",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PAYROLL & INSURANCE GROUP",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

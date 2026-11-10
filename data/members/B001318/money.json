@@ -681,8 +681,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00797175",
+  "committee_name": "BECCA BALINT FOR VERMONT",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1178502.59,
+  "amounts": {
+   "individuals_200_or_less": 230858.17,
+   "individuals_over_200": 599507.58,
+   "pacs_and_parties": 343529.17,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 3792.99
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    20
+   ],
+   [
+    "Individuals giving more than $200",
+    51
+   ],
+   [
+    "PACs and party committees",
+    29
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 465946.93,
+   "home_state": "VT",
+   "home_state_total": 283861.2,
+   "home_state_share": 61,
+   "top": [
+    {
+     "state": "VT",
+     "state_full": "Vermont",
+     "total": 283861.2,
+     "count": 3149
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 30228.79,
+     "count": 177
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 27750.0,
+     "count": 36
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 20477.0,
+     "count": 68
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 17522.0,
+     "count": 108
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 15407.15,
+     "count": 19
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 9005.0,
+     "count": 63
+    },
+    {
+     "state": "KY",
+     "state_full": "Kentucky",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 6035.0,
+     "count": 4
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 5775.0,
+     "count": 28
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "MBB CAPITAL",
+     "total": 5035.0,
+     "count": 3
+    },
+    {
+     "employer": "PUTNEY STUDENT TRAVEL",
+     "total": 5000.0,
+     "count": 3
+    },
+    {
+     "employer": "BRATTLEBORO RETREAT",
+     "total": 3679.0,
+     "count": 21
+    },
+    {
+     "employer": "FACEBOOK",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "STACKLOK, INC.",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "MONUMENT ADVOCACY",
+     "total": 3300.0,
+     "count": 1
+    },
+    {
+     "employer": "TREMONT STRATEGIES GROUP, LLC",
+     "total": 3300.0,
+     "count": 1
+    },
+    {
+     "employer": "ALSOP LOUIE PARTNERS",
+     "total": 3300.0,
+     "count": 1
+    },
+    {
+     "employer": "NVG, LLC",
+     "total": 3071.43,
+     "count": 6
+    },
+    {
+     "employer": "ONLOGIC",
+     "total": 3000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

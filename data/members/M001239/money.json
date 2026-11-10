@@ -485,8 +485,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00856831",
+  "committee_name": "MCGUIRE FOR VIRGINIA",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2378396.09,
+  "amounts": {
+   "individuals_200_or_less": 552188.17,
+   "individuals_over_200": 972435.1,
+   "pacs_and_parties": 573847.61,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 277925.21,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    26
+   ],
+   [
+    "Individuals giving more than $200",
+    46
+   ],
+   [
+    "PACs and party committees",
+    28
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 975496.45,
+   "home_state": "VA",
+   "home_state_total": 434601.32,
+   "home_state_share": 45,
+   "top": [
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 434601.32,
+     "count": 939
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 148689.45,
+     "count": 412
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 89869.54,
+     "count": 251
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 88546.31,
+     "count": 496
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 49272.0,
+     "count": 76
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 21451.95,
+     "count": 19
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 14312.93,
+     "count": 87
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 13386.88,
+     "count": 34
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 11981.19,
+     "count": 49
+    },
+    {
+     "state": "SC",
+     "state_full": "South Carolina",
+     "total": 10978.0,
+     "count": 29
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "DOUGLAS ALLRED COMPANY",
+     "total": 50000.0,
+     "count": 4
+    },
+    {
+     "employer": "RELIABLE",
+     "total": 31600.0,
+     "count": 9
+    },
+    {
+     "employer": "CHI AVIATION",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "CUMBERLAND DEVELOPMENT",
+     "total": 10500.0,
+     "count": 4
+    },
+    {
+     "employer": "KINSALE INSURANCE",
+     "total": 10300.0,
+     "count": 4
+    },
+    {
+     "employer": "CBR",
+     "total": 10000.0,
+     "count": 6
+    },
+    {
+     "employer": "TIGER LILY CAPITAL LLC",
+     "total": 8000.0,
+     "count": 3
+    },
+    {
+     "employer": "SHOULDER MANAGEMENT CO",
+     "total": 7850.0,
+     "count": 9
+    },
+    {
+     "employer": "SOUTHERN AIR",
+     "total": 7708.96,
+     "count": 4
+    },
+    {
+     "employer": "O MANAGEMENT, INC",
+     "total": 7000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

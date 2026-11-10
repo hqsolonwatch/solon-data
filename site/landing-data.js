@@ -89,6 +89,7 @@ var MEMBERS = [
           105000
         ]
       ],
+      "sectorsHeading": "PAC money by type",
       "sectorsSource": "FEC, contributions from committees to this candidate, 2025 to 2026, as reported by the committees that gave. Each committee’s type comes from its FEC registration"
     }
   },
@@ -182,6 +183,7 @@ var MEMBERS = [
           189216
         ]
       ],
+      "sectorsHeading": "PAC money by type",
       "sectorsSource": "FEC, contributions from committees to this candidate, 2025 to 2026, as reported by the committees that gave. Each committee’s type comes from its FEC registration"
     }
   },
@@ -447,3 +449,177 @@ var DISTRICTS = [
     "resultsSource": "Massachusetts Secretary of the Commonwealth (electionstats.state.ma.us), certified 2024 results by city and town, added up by county. Percentages are of votes cast for candidates, including write-ins"
   }
 ];
+
+var ROLLCALLS = {
+  "months": [
+    [
+      "Jan 2025",
+      27,
+      28
+    ],
+    [
+      "Feb 2025",
+      26,
+      70
+    ],
+    [
+      "Mar 2025",
+      32,
+      58
+    ],
+    [
+      "Apr 2025",
+      27,
+      71
+    ],
+    [
+      "May 2025",
+      33,
+      54
+    ],
+    [
+      "Jun 2025",
+      40,
+      72
+    ],
+    [
+      "Jul 2025",
+      33,
+      114
+    ],
+    [
+      "Aug 2025",
+      0,
+      32
+    ],
+    [
+      "Sep 2025",
+      64,
+      36
+    ],
+    [
+      "Oct 2025",
+      0,
+      66
+    ],
+    [
+      "Nov 2025",
+      23,
+      22
+    ],
+    [
+      "Dec 2025",
+      57,
+      36
+    ],
+    [
+      "Jan 2026",
+      48,
+      20
+    ],
+    [
+      "Feb 2026",
+      30,
+      23
+    ],
+    [
+      "Mar 2026",
+      30,
+      31
+    ],
+    [
+      "Apr 2026",
+      47,
+      39
+    ],
+    [
+      "May 2026",
+      36,
+      17
+    ],
+    [
+      "Jun 2026",
+      42,
+      62
+    ],
+    [
+      "Jul 2026",
+      50,
+      25
+    ],
+    [
+      "Aug 2026",
+      2,
+      14
+    ],
+    [
+      "Sep 2026",
+      29,
+      25
+    ],
+    [
+      "Oct 2026",
+      0,
+      0
+    ],
+    [
+      "Nov 2026",
+      2,
+      1
+    ]
+  ],
+  "meta": {
+    "start": "January 3, 2025",
+    "through": "November 9, 2026",
+    "total": 1594,
+    "election": {
+      "date": "November 3, 2026",
+      "month": "Nov 2026",
+      "total": 1591
+    }
+  },
+  "source": "House Clerk and Senate roll-call records"
+};
+
+var SCHEDULE = {
+  "updated": "2026-11-10",
+  "house": {
+    "week": "November 9",
+    "rows": [
+      {
+        "bill": "H.R. 3978",
+        "title": "Nuclear REFUEL Act",
+        "status": "Passed 397 to 2",
+        "roll": 315
+      },
+      {
+        "bill": "H.R. 9612",
+        "title": "American Enrichment Deployment Act",
+        "status": "Passed 394 to 3",
+        "roll": 316
+      },
+      {
+        "bill": "H.R. 5549",
+        "title": "Efficient Nuclear Licensing Hearings Act",
+        "status": "Scheduled",
+        "roll": null
+      },
+      {
+        "bill": "H.R. 9084",
+        "title": "Department of Energy Nuclear Transparency Act",
+        "status": "Scheduled",
+        "roll": null
+      }
+    ],
+    "listed": 15,
+    "source": "docs.house.gov floor schedule; results from House Clerk roll calls 315 and 316"
+  },
+  "senate": [
+    {
+      "bill": "H.R. 2347",
+      "title": "Survivor Justice Tax Prevention Act",
+      "note": "The Senate voted 73 to 25 on November 9 to end debate on the motion to proceed to the bill. More votes on it are expected.",
+      "status": "Expected"
+    }
+  ]
+};

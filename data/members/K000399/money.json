@@ -2461,8 +2461,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00776120",
+  "committee_name": "KIGGANS FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 7589812.06,
+  "amounts": {
+   "individuals_200_or_less": 981615.15,
+   "individuals_over_200": 3109084.82,
+   "pacs_and_parties": 1557335.68,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 1929169.29,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    17
+   ],
+   [
+    "Individuals giving more than $200",
+    55
+   ],
+   [
+    "PACs and party committees",
+    28
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 4243282.33,
+   "home_state": "VA",
+   "home_state_total": 1522655.37,
+   "home_state_share": 36,
+   "top": [
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 1522655.37,
+     "count": 5084
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 522903.02,
+     "count": 3022
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 493191.32,
+     "count": 3671
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 240802.18,
+     "count": 2836
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 240581.72,
+     "count": 615
+    },
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 114959.45,
+     "count": 286
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 91849.26,
+     "count": 1001
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 70305.19,
+     "count": 928
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 68799.08,
+     "count": 166
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 56246.97,
+     "count": 526
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "CHESAPEAKE MANAGEMENT GROUP",
+     "total": 17000.0,
+     "count": 6
+    },
+    {
+     "employer": "COLONNA'S SHIPYARD INC.",
+     "total": 16500.0,
+     "count": 7
+    },
+    {
+     "employer": "ENTREPRENEUR",
+     "total": 16262.94,
+     "count": 18
+    },
+    {
+     "employer": "JANE STREET",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "GENWORTH FINANCIAL INC",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ADLER THERAPY GROUP",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "STARKEY HEARING TECHNOLOGIES",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "STEEL AMERICA",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "RIPLEY HEATWOLE",
+     "total": 14000.0,
+     "count": 9
+    },
+    {
+     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
+     "total": 14000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

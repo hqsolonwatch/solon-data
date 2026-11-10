@@ -987,8 +987,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00662601",
+  "committee_name": "LANCE GOODEN FOR CONGRESS COMMITTEE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1526518.36,
+  "amounts": {
+   "individuals_200_or_less": 6192.09,
+   "individuals_over_200": 431700.0,
+   "pacs_and_parties": 629776.05,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 409644.8,
+   "other_receipts": 49205.42
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    1
+   ],
+   [
+    "Individuals giving more than $200",
+    40
+   ],
+   [
+    "PACs and party committees",
+    59
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 754735.0,
+   "home_state": "TX",
+   "home_state_total": 511935.0,
+   "home_state_share": 68,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 511935.0,
+     "count": 191
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 66800.0,
+     "count": 23
+    },
+    {
+     "state": "OT",
+     "state_full": "Other",
+     "total": 29900.0,
+     "count": 9
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 25500.0,
+     "count": 11
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 20750.0,
+     "count": 19
+    },
+    {
+     "state": "NV",
+     "state_full": "Nevada",
+     "total": 17300.0,
+     "count": 5
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 17200.0,
+     "count": 12
+    },
+    {
+     "state": "PR",
+     "state_full": "Puerto Rico",
+     "total": 10000.0,
+     "count": 4
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 9800.0,
+     "count": 6
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 7500.0,
+     "count": 10
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "OWNER",
+     "total": 13300.0,
+     "count": 5
+    },
+    {
+     "employer": "LEGACY MEDICAL",
+     "total": 13200.0,
+     "count": 4
+    },
+    {
+     "employer": "LILLY ENTERPRISES",
+     "total": 13000.0,
+     "count": 4
+    },
+    {
+     "employer": "UP MANAGEMENT",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "GILCHRIST AUTOMOTIVE",
+     "total": 9700.0,
+     "count": 4
+    },
+    {
+     "employer": "CEO",
+     "total": 7500.0,
+     "count": 3
+    },
+    {
+     "employer": "CADWALADER",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "CENTURION AMERICAN",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "IRON HORSE UNLIMITED",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SMALL VENTURES USA",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -1400,8 +1400,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00829812",
+  "committee_name": "MCCLELLAN FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1546997.29,
+  "amounts": {
+   "individuals_200_or_less": 112565.3,
+   "individuals_over_200": 617052.45,
+   "pacs_and_parties": 814958.36,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 49.65
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    7
+   ],
+   [
+    "Individuals giving more than $200",
+    40
+   ],
+   [
+    "PACs and party committees",
+    53
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 442785.58,
+   "home_state": "VA",
+   "home_state_total": 345470.83,
+   "home_state_share": 78,
+   "top": [
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 345470.83,
+     "count": 744
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 41637.75,
+     "count": 72
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 13300.0,
+     "count": 20
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 10045.0,
+     "count": 16
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 5500.0,
+     "count": 7
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 4800.0,
+     "count": 14
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 3478.0,
+     "count": 41
+    },
+    {
+     "state": "PR",
+     "state_full": "Puerto Rico",
+     "total": 3000.0,
+     "count": 1
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 3000.0,
+     "count": 4
+    },
+    {
+     "state": "AR",
+     "state_full": "Arkansas",
+     "total": 2500.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "DOMINION ENERGY",
+     "total": 11750.0,
+     "count": 11
+    },
+    {
+     "employer": "WEISSBERG CORP.",
+     "total": 8100.0,
+     "count": 4
+    },
+    {
+     "employer": "L M SANDLER AND SONS, INC.",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "T-MOBILE",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "THEGROUP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "LITTLE DIFFICULT RUN",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "FRIED COMPANIES, INC.",
+     "total": 6600.0,
+     "count": 2
+    },
+    {
+     "employer": "PLANET SUBARU",
+     "total": 6600.0,
+     "count": 2
+    },
+    {
+     "employer": "SALT POINT STRATEGIES",
+     "total": 5800.0,
+     "count": 3
+    },
+    {
+     "employer": "THORN RUN PARTNERS",
+     "total": 5000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

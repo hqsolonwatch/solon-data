@@ -680,8 +680,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00368522",
+  "committee_name": "JOE WILSON FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1017185.81,
+  "amounts": {
+   "individuals_200_or_less": 17269.02,
+   "individuals_over_200": 411562.27,
+   "pacs_and_parties": 359500.0,
+   "candidate_own": 200000.0,
+   "transfers_from_authorized": 24130.08,
+   "other_receipts": 2.44
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    2
+   ],
+   [
+    "Individuals giving more than $200",
+    42
+   ],
+   [
+    "PACs and party committees",
+    36
+   ],
+   [
+    "Candidate’s own money",
+    20
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 381303.59,
+   "home_state": "SC",
+   "home_state_total": 180079.78,
+   "home_state_share": 47,
+   "top": [
+    {
+     "state": "SC",
+     "state_full": "South Carolina",
+     "total": 180079.78,
+     "count": 133
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 47550.0,
+     "count": 38
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 33250.0,
+     "count": 17
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 31250.0,
+     "count": 19
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 28250.0,
+     "count": 26
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 13270.0,
+     "count": 20
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 9893.56,
+     "count": 8
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 9500.0,
+     "count": 5
+    },
+    {
+     "state": "ME",
+     "state_full": "Maine",
+     "total": 5000.0,
+     "count": 2
+    },
+    {
+     "state": "IN",
+     "state_full": "Indiana",
+     "total": 4000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "CHAIRMAN",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SOUTHEASTERN FREIGHT LINES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "THE CAPITAL CORPORATION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BURR FORMAN",
+     "total": 6600.0,
+     "count": 2
+    },
+    {
+     "employer": "JIM HUDSON AUTOMOTIVE GROUP",
+     "total": 6500.0,
+     "count": 4
+    },
+    {
+     "employer": "BRADLEY PLUMBING HEATING",
+     "total": 5205.08,
+     "count": 3
+    },
+    {
+     "employer": "INDEPENDENCE FRONT FOR FREEDOM & PEACE",
+     "total": 5000.0,
+     "count": 2
+    },
+    {
+     "employer": "DODGELAND OF COLUMBIA",
+     "total": 5000.0,
+     "count": 2
+    },
+    {
+     "employer": "STERN GROUP",
+     "total": 4500.0,
+     "count": 4
+    },
+    {
+     "employer": "GEISSELE AUTOMATICS",
+     "total": 3643.56,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

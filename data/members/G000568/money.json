@@ -2035,8 +2035,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00477240",
+  "committee_name": "MORGAN GRIFFITH FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2173784.73,
+  "amounts": {
+   "individuals_200_or_less": 70166.93,
+   "individuals_over_200": 653712.71,
+   "pacs_and_parties": 1377738.55,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 42750.0,
+   "other_receipts": 25936.54
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    3
+   ],
+   [
+    "Individuals giving more than $200",
+    31
+   ],
+   [
+    "PACs and party committees",
+    66
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 550185.55,
+   "home_state": "VA",
+   "home_state_total": 231252.55,
+   "home_state_share": 42,
+   "top": [
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 231252.55,
+     "count": 243
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 52750.0,
+     "count": 55
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 43000.0,
+     "count": 14
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 37750.0,
+     "count": 23
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 36558.0,
+     "count": 30
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 21750.0,
+     "count": 12
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 17500.0,
+     "count": 11
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 8250.0,
+     "count": 5
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 8000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "TL MANAGEMENT",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
+     "employer": "ANDREESSEN HOROWITZ",
+     "total": 15000.0,
+     "count": 6
+    },
+    {
+     "employer": "BGR GROUP",
+     "total": 11450.0,
+     "count": 16
+    },
+    {
+     "employer": "CONSULTANT",
+     "total": 8000.0,
+     "count": 3
+    },
+    {
+     "employer": "ALSTON BIRD LLP",
+     "total": 7000.0,
+     "count": 8
+    },
+    {
+     "employer": "ADVANCED FUSION SYSTEMS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "CLEARPATH",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "THE STANTON PARK GROUP",
+     "total": 7000.0,
+     "count": 4
+    },
+    {
+     "employer": "MED. FACILITIES OF AMERICA PAC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PARAMONT MFG LLC",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

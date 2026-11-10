@@ -531,8 +531,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00464073",
+  "committee_name": "FRIENDS OF SCOTT DESJARLAIS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 667181.2,
+  "amounts": {
+   "individuals_200_or_less": 1890.07,
+   "individuals_over_200": 285485.0,
+   "pacs_and_parties": 378750.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    0
+   ],
+   [
+    "Individuals giving more than $200",
+    43
+   ],
+   [
+    "PACs and party committees",
+    57
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 224335.0,
+   "home_state": "TN",
+   "home_state_total": 67510.0,
+   "home_state_share": 30,
+   "top": [
+    {
+     "state": "AL",
+     "state_full": "Alabama",
+     "total": 71000.0,
+     "count": 37
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 67510.0,
+     "count": 51
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 27500.0,
+     "count": 17
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 14500.0,
+     "count": 5
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 11000.0,
+     "count": 8
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 9000.0,
+     "count": 3
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 6500.0,
+     "count": 8
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 6000.0,
+     "count": 3
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 4000.0,
+     "count": 5
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 3500.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "COLSA CORPORATION",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "AMERICAN DEV. CORP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MBLA INTERNATIONAL LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "KALSHI",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SMITH THORNTON ADVISORS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "HAURY & SMITH CONTRACTORS",
+     "total": 6600.0,
+     "count": 2
+    },
+    {
+     "employer": "SENIOR EXECUTIVE",
+     "total": 6000.0,
+     "count": 2
+    },
+    {
+     "employer": "HOLLY STRATEGIES INCORPORATED",
+     "total": 5500.0,
+     "count": 4
+    },
+    {
+     "employer": "UNITED LAUNCH ALLIANCE",
+     "total": 5500.0,
+     "count": 7
+    },
+    {
+     "employer": "WALKER DIE CASTING, INC.",
+     "total": 5000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

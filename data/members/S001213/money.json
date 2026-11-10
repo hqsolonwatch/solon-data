@@ -2349,8 +2349,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00677286",
+  "committee_name": "STEIL FOR WISCONSIN, INC.",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 6393553.46,
+  "amounts": {
+   "individuals_200_or_less": 333587.28,
+   "individuals_over_200": 1459203.79,
+   "pacs_and_parties": 1934675.16,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 2422758.15,
+   "other_receipts": 3970.1
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    9
+   ],
+   [
+    "Individuals giving more than $200",
+    39
+   ],
+   [
+    "PACs and party committees",
+    52
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 3768064.21,
+   "home_state": "WI",
+   "home_state_total": 1296330.14,
+   "home_state_share": 34,
+   "top": [
+    {
+     "state": "WI",
+     "state_full": "Wisconsin",
+     "total": 1296330.14,
+     "count": 1952
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 494020.37,
+     "count": 572
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 348542.8,
+     "count": 436
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 311715.66,
+     "count": 382
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 252258.01,
+     "count": 136
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 198531.75,
+     "count": 139
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 78364.65,
+     "count": 119
+    },
+    {
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 76864.64,
+     "count": 64
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 68035.88,
+     "count": 56
+    },
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 57954.75,
+     "count": 38
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "KLONDIKE CHEESE",
+     "total": 42000.0,
+     "count": 12
+    },
+    {
+     "employer": "COINBASE",
+     "total": 31500.0,
+     "count": 10
+    },
+    {
+     "employer": "CAPITAL GROUP",
+     "total": 25205.08,
+     "count": 10
+    },
+    {
+     "employer": "KKR",
+     "total": 21000.0,
+     "count": 7
+    },
+    {
+     "employer": "NASDAQ",
+     "total": 20287.11,
+     "count": 9
+    },
+    {
+     "employer": "ANDREESSEN HOROWITZ",
+     "total": 16000.0,
+     "count": 6
+    },
+    {
+     "employer": "BLACKROCK",
+     "total": 15893.56,
+     "count": 8
+    },
+    {
+     "employer": "PARADIGM",
+     "total": 14666.66,
+     "count": 6
+    },
+    {
+     "employer": "FOUNDERS FUND",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ULINE",
+     "total": 14000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

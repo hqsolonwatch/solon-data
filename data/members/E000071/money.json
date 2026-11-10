@@ -1413,8 +1413,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00770438",
+  "committee_name": "JAKE ELLZEY FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 5518242.29,
+  "amounts": {
+   "individuals_200_or_less": 472761.98,
+   "individuals_over_200": 1369093.29,
+   "pacs_and_parties": 984184.86,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 2624961.27,
+   "other_receipts": 63015.52
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    17
+   ],
+   [
+    "Individuals giving more than $200",
+    48
+   ],
+   [
+    "PACs and party committees",
+    35
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 2981085.38,
+   "home_state": "TX",
+   "home_state_total": 717468.05,
+   "home_state_share": 24,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 717468.05,
+     "count": 14510
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 323849.37,
+     "count": 11477
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 289555.67,
+     "count": 10547
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 127765.75,
+     "count": 2702
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 102319.67,
+     "count": 3997
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 77487.57,
+     "count": 3784
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 73454.72,
+     "count": 3569
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 70969.76,
+     "count": 2776
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 66100.33,
+     "count": 2790
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 64423.12,
+     "count": 912
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ALLEN CONTROL SYSTEMS",
+     "total": 33300.0,
+     "count": 9
+    },
+    {
+     "employer": "BLUE WATER AUTONOMY",
+     "total": 14400.0,
+     "count": 9
+    },
+    {
+     "employer": "SARONIC TECHNOLOGIES",
+     "total": 11500.0,
+     "count": 4
+    },
+    {
+     "employer": "CORNERSTONE GOVERNMENT AFFAIRS",
+     "total": 11500.0,
+     "count": 15
+    },
+    {
+     "employer": "AXADVOCACY",
+     "total": 7500.0,
+     "count": 3
+    },
+    {
+     "employer": "BGR GROUP",
+     "total": 7500.0,
+     "count": 7
+    },
+    {
+     "employer": "MASTER SPAS",
+     "total": 7125.0,
+     "count": 16
+    },
+    {
+     "employer": "GRAND AVENUE PHARMACY",
+     "total": 7000.0,
+     "count": 1
+    },
+    {
+     "employer": "WATSON TECHNOLOGY VENTURES LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "HUNT CONSOLIDATED, INC.",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

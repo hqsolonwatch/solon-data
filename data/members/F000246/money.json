@@ -789,8 +789,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00750307",
+  "committee_name": "FALLON FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1024466.07,
+  "amounts": {
+   "individuals_200_or_less": 3438.45,
+   "individuals_over_200": 312621.68,
+   "pacs_and_parties": 433880.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 274184.27,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    0
+   ],
+   [
+    "Individuals giving more than $200",
+    42
+   ],
+   [
+    "PACs and party committees",
+    58
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 464756.06,
+   "home_state": "TX",
+   "home_state_total": 315356.3,
+   "home_state_share": 68,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 315356.3,
+     "count": 181
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 38020.51,
+     "count": 29
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 33110.76,
+     "count": 13
+    },
+    {
+     "state": "IN",
+     "state_full": "Indiana",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 10500.0,
+     "count": 6
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 8588.19,
+     "count": 5
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 8030.76,
+     "count": 4
+    },
+    {
+     "state": "AR",
+     "state_full": "Arkansas",
+     "total": 7750.0,
+     "count": 5
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 7359.78,
+     "count": 11
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 6750.0,
+     "count": 5
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "FA PEINADO, LLC",
+     "total": 12000.0,
+     "count": 4
+    },
+    {
+     "employer": "ANTHROPIC",
+     "total": 10000.0,
+     "count": 2
+    },
+    {
+     "employer": "CHANDLER CABINETS, INC.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "HUNT COMPANIES, INC.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "DOUGLASS DISTRIBUTING",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "AES RESTAURANT GROUP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "INNOFLIGHT",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ADVANCED FIXTURES INC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "COMMERCE LUIGI CLUB",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BEAL BANK",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -1317,8 +1317,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00661561",
+  "committee_name": "BEN CLINE FOR CONGRESS, INC.",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1908289.13,
+  "amounts": {
+   "individuals_200_or_less": 81034.2,
+   "individuals_over_200": 903386.16,
+   "pacs_and_parties": 780866.73,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 138718.44,
+   "other_receipts": 0.01
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    5
+   ],
+   [
+    "Individuals giving more than $200",
+    51
+   ],
+   [
+    "PACs and party committees",
+    44
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 800679.37,
+   "home_state": "VA",
+   "home_state_total": 612365.75,
+   "home_state_share": 76,
+   "top": [
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 612365.75,
+     "count": 513
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 31240.7,
+     "count": 18
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 24139.36,
+     "count": 38
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 21977.54,
+     "count": 9
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 21487.5,
+     "count": 11
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 20500.0,
+     "count": 25
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 17000.0,
+     "count": 7
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 12487.5,
+     "count": 19
+    },
+    {
+     "state": "AR",
+     "state_full": "Arkansas",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ALTRIA",
+     "total": 8000.0,
+     "count": 5
+    },
+    {
+     "employer": "GLOBAL TECHNICAL SYSTEMS",
+     "total": 8000.0,
+     "count": 4
+    },
+    {
+     "employer": "KALSHI",
+     "total": 7115.7,
+     "count": 3
+    },
+    {
+     "employer": "SHOCKEY MANAGEMENT COMPANY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "CHARTWELL STRATEGIES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "VALLEY PROTEINS INC.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MCKEE FOODS CORP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MCGUIRE WOODS LLP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "A MORTON THOMAS & ASSOCIATES",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "ELLIOTT INVESTMENT MANAGEMENT",
+     "total": 7000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

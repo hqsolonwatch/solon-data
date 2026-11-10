@@ -2537,8 +2537,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00459099",
+  "committee_name": "DELBENE FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 4281272.38,
+  "amounts": {
+   "individuals_200_or_less": 935289.6,
+   "individuals_over_200": 1253926.32,
+   "pacs_and_parties": 1775493.3499999999,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 299188.0,
+   "other_receipts": 383.66
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    23
+   ],
+   [
+    "Individuals giving more than $200",
+    32
+   ],
+   [
+    "PACs and party committees",
+    45
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1295408.82,
+   "home_state": "WA",
+   "home_state_total": 967175.32,
+   "home_state_share": 75,
+   "top": [
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 967175.32,
+     "count": 4378
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 66139.0,
+     "count": 696
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 41700.0,
+     "count": 59
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 38405.5,
+     "count": 114
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 26971.0,
+     "count": 147
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 26642.0,
+     "count": 43
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 18296.0,
+     "count": 92
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 16982.0,
+     "count": 44
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 13663.0,
+     "count": 183
+    },
+    {
+     "state": "OR",
+     "state_full": "Oregon",
+     "total": 9171.0,
+     "count": 72
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "MICROSOFT",
+     "total": 25450.0,
+     "count": 51
+    },
+    {
+     "employer": "AMAZON",
+     "total": 23750.0,
+     "count": 14
+    },
+    {
+     "employer": "D4 INVESTMENTS",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "employer": "APOLLO",
+     "total": 11000.0,
+     "count": 4
+    },
+    {
+     "employer": "PERKINS COIE LLP",
+     "total": 10500.0,
+     "count": 6
+    },
+    {
+     "employer": "ARNOLD VENTURES",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "BURKE MUSEUM",
+     "total": 8000.0,
+     "count": 4
+    },
+    {
+     "employer": "TRANCEKA CAPITAL LLC",
+     "total": 7000.0,
+     "count": 4
+    },
+    {
+     "employer": "T-MOBILE",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "BALLMER GROUP",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -1035,8 +1035,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00371203",
+  "committee_name": "JOHN CARTER FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1522249.68,
+  "amounts": {
+   "individuals_200_or_less": 3315.57,
+   "individuals_over_200": 424525.42,
+   "pacs_and_parties": 564611.1,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 529797.59,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    0
+   ],
+   [
+    "Individuals giving more than $200",
+    43
+   ],
+   [
+    "PACs and party committees",
+    57
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 941867.65,
+   "home_state": "TX",
+   "home_state_total": 356959.61,
+   "home_state_share": 38,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 356959.61,
+     "count": 183
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 131305.08,
+     "count": 76
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 87505.08,
+     "count": 46
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 72094.52,
+     "count": 30
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 64450.0,
+     "count": 35
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 59100.0,
+     "count": 46
+    },
+    {
+     "state": "AL",
+     "state_full": "Alabama",
+     "total": 31000.0,
+     "count": 9
+    },
+    {
+     "state": "NV",
+     "state_full": "Nevada",
+     "total": 25500.0,
+     "count": 8
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 20001.0,
+     "count": 8
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 15000.0,
+     "count": 5
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "FIREFLY AEROSPACE",
+     "total": 18000.0,
+     "count": 7
+    },
+    {
+     "employer": "TRIDENT RESEARCH",
+     "total": 16800.0,
+     "count": 10
+    },
+    {
+     "employer": "AEON",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "TRIDEUM",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "OMNI FEDERAL",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "SCIENTIFIC RESEARCH CORPORATION",
+     "total": 13500.0,
+     "count": 4
+    },
+    {
+     "employer": "GENERAL DYNAMICS",
+     "total": 13000.0,
+     "count": 8
+    },
+    {
+     "employer": "ALLEN CONTROL SYSTEMS",
+     "total": 12500.0,
+     "count": 5
+    },
+    {
+     "employer": "HYLIION",
+     "total": 11000.0,
+     "count": 4
+    },
+    {
+     "employer": "BRIAN GLACKIN  ASSOCIATES, LLC",
+     "total": 9500.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

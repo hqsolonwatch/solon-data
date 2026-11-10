@@ -1301,8 +1301,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00660795",
+  "committee_name": "DAN CRENSHAW FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 2837268.87,
+  "amounts": {
+   "individuals_200_or_less": 359751.37,
+   "individuals_over_200": 1098792.94,
+   "pacs_and_parties": 638410.1,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 616311.74,
+   "other_receipts": 14032.35
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    17
+   ],
+   [
+    "Individuals giving more than $200",
+    52
+   ],
+   [
+    "PACs and party committees",
+    31
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1793164.59,
+   "home_state": "TX",
+   "home_state_total": 867644.73,
+   "home_state_share": 48,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 867644.73,
+     "count": 2724
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 119295.83,
+     "count": 1662
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 112053.98,
+     "count": 1117
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 108880.06,
+     "count": 419
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 71787.33,
+     "count": 411
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 59436.67,
+     "count": 243
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 51299.49,
+     "count": 111
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 32490.1,
+     "count": 73
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 29551.02,
+     "count": 349
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 27542.37,
+     "count": 176
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "COMPASS OPERATING",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
+     "employer": "FREEMAN MATHIS & GARY, LLP",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ARENA ENERGY",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "LANIER LAW FIRM",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ARSENAL CAPITAL PARTNERS",
+     "total": 14000.0,
+     "count": 8
+    },
+    {
+     "employer": "KINDER FOUNDATION",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ARNOLD VENTURES",
+     "total": 7250.0,
+     "count": 3
+    },
+    {
+     "employer": "WILLIAMS BROS CONSTRUCTION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MCCORD DEVELOPMENT",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "CHARLES  POTOMAC CAPITAL, LLC",
+     "total": 7000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

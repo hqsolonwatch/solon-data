@@ -897,8 +897,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00857359",
+  "committee_name": "BRANDON GILL FOR TEXAS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 7939470.36,
+  "amounts": {
+   "individuals_200_or_less": 4087616.42,
+   "individuals_over_200": 2862875.59,
+   "pacs_and_parties": 491203.06,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 401248.92,
+   "other_receipts": 15612.72
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    55
+   ],
+   [
+    "Individuals giving more than $200",
+    38
+   ],
+   [
+    "PACs and party committees",
+    7
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1966324.93,
+   "home_state": "TX",
+   "home_state_total": 948677.48,
+   "home_state_share": 48,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 948677.48,
+     "count": 10856
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 174927.29,
+     "count": 5956
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 147084.97,
+     "count": 5364
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 55086.44,
+     "count": 1720
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 44235.81,
+     "count": 1187
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 43464.29,
+     "count": 1618
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 40148.95,
+     "count": 2512
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 38973.52,
+     "count": 1424
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 34509.06,
+     "count": 1102
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 32347.92,
+     "count": 1600
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ENTREPRENEUR",
+     "total": 21216.11,
+     "count": 211
+    },
+    {
+     "employer": "CNA METALS",
+     "total": 20600.0,
+     "count": 6
+    },
+    {
+     "employer": "CREATIVE SOLUTIONS IN HEALTHCARE",
+     "total": 20000.0,
+     "count": 6
+    },
+    {
+     "employer": "VERITAS ENERGY",
+     "total": 19396.69,
+     "count": 6
+    },
+    {
+     "employer": "STANTON LLP",
+     "total": 17000.0,
+     "count": 4
+    },
+    {
+     "employer": "ITSAINT",
+     "total": 14231.4,
+     "count": 7
+    },
+    {
+     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
+     "total": 14000.0,
+     "count": 8
+    },
+    {
+     "employer": "JAIN & JAIN PC",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "LEGACY MEDICAL CONSULTANTS",
+     "total": 13399.17,
+     "count": 5
+    },
+    {
+     "employer": "GLAZERS BEER",
+     "total": 12000.0,
+     "count": 6
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

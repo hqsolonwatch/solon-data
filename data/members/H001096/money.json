@@ -472,8 +472,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00788943",
+  "committee_name": "HAGEMAN FOR WYOMING",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2810753.95,
+  "amounts": {
+   "individuals_200_or_less": 626186.39,
+   "individuals_over_200": 847575.32,
+   "pacs_and_parties": 721446.24,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 565559.36,
+   "other_receipts": 42515.38
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    28
+   ],
+   [
+    "Individuals giving more than $200",
+    39
+   ],
+   [
+    "PACs and party committees",
+    33
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1450961.95,
+   "home_state": "WY",
+   "home_state_total": 305225.39,
+   "home_state_share": 21,
+   "top": [
+    {
+     "state": "WY",
+     "state_full": "Wyoming",
+     "total": 305225.39,
+     "count": 499
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 192130.92,
+     "count": 2452
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 167652.97,
+     "count": 2016
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 120694.17,
+     "count": 1817
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 79119.15,
+     "count": 574
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 51781.65,
+     "count": 513
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 49347.36,
+     "count": 269
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 46638.1,
+     "count": 541
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 42720.74,
+     "count": 668
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 32582.04,
+     "count": 51
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ENTREPRENEUR",
+     "total": 19445.25,
+     "count": 20
+    },
+    {
+     "employer": "THE BERNHARDT GROUP",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "MERCHANT MCINTYRE ASSOCIATES",
+     "total": 7594.59,
+     "count": 8
+    },
+    {
+     "employer": "ACQUEST",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PAYROLL & INSURANCE GROUP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "CUMBERLAND DEVELOPMENT CO",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "SORING DVD",
+     "total": 7000.0,
+     "count": 4
+    },
+    {
+     "employer": "CHARLES SCHWAB CORPORATION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "STRATA PRODUCTION CO",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "TW LEWIS CO",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

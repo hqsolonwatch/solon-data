@@ -1549,8 +1549,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00371302",
+  "committee_name": "TEXANS FOR HENRY CUELLAR CONGRESSIONAL CAMPAIGN",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 3043039.01,
+  "amounts": {
+   "individuals_200_or_less": 68957.42,
+   "individuals_over_200": 1603509.97,
+   "pacs_and_parties": 927660.86,
+   "candidate_own": 317500.0,
+   "transfers_from_authorized": 112198.08,
+   "other_receipts": 141.44
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    2
+   ],
+   [
+    "Individuals giving more than $200",
+    55
+   ],
+   [
+    "PACs and party committees",
+    32
+   ],
+   [
+    "Candidate’s own money",
+    11
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1165831.04,
+   "home_state": "TX",
+   "home_state_total": 588416.61,
+   "home_state_share": 50,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 588416.61,
+     "count": 556
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 140673.5,
+     "count": 69
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 62458.98,
+     "count": 37
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 53402.68,
+     "count": 41
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 45821.44,
+     "count": 44
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 42155.53,
+     "count": 51
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 41548.08,
+     "count": 40
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 25726.2,
+     "count": 22
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 16730.0,
+     "count": 21
+    },
+    {
+     "state": "OK",
+     "state_full": "Oklahoma",
+     "total": 12453.85,
+     "count": 6
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "KISTLER INVESTMENT COMPANY",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "STARR-CAMARGO BRIDGE CO.",
+     "total": 10500.0,
+     "count": 5
+    },
+    {
+     "employer": "AKIN GUMP",
+     "total": 7300.0,
+     "count": 4
+    },
+    {
+     "employer": "HONOR NYC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "CLERMONT LLC",
+     "total": 7000.0,
+     "count": 4
+    },
+    {
+     "employer": "TACO PALENQUE",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "A.N.B. CATTLE CO., LTD.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PALO ALTO UNIFIED SCHOOL DISTRICT",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BOOZ ALLEN HAMILTON",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PG RENTAL & LEASING LLC",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

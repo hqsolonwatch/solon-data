@@ -382,8 +382,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00701003",
+  "committee_name": "HUNT FOR SENATE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 2154467.93,
+  "amounts": {
+   "individuals_200_or_less": 753055.02,
+   "individuals_over_200": 699624.24,
+   "pacs_and_parties": 166500.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 439168.28,
+   "other_receipts": 59736.93
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    47
+   ],
+   [
+    "Individuals giving more than $200",
+    43
+   ],
+   [
+    "PACs and party committees",
+    10
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1440141.43,
+   "home_state": "TX",
+   "home_state_total": 804170.28,
+   "home_state_share": 56,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 804170.28,
+     "count": 4829
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 141082.05,
+     "count": 3274
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 96790.91,
+     "count": 2325
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 35416.06,
+     "count": 684
+    },
+    {
+     "state": "MO",
+     "state_full": "Missouri",
+     "total": 27318.37,
+     "count": 501
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 22834.35,
+     "count": 803
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 21063.29,
+     "count": 643
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 20771.67,
+     "count": 709
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 19336.69,
+     "count": 723
+    },
+    {
+     "state": "OK",
+     "state_full": "Oklahoma",
+     "total": 18631.9,
+     "count": 174
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "PERMIAN RESOURCES",
+     "total": 44700.0,
+     "count": 22
+    },
+    {
+     "employer": "EMPOWER CLINIC SERVICES L.L.C.",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "TA",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "CORPAC GROUP",
+     "total": 10500.0,
+     "count": 6
+    },
+    {
+     "employer": "VACATIONS TO GO",
+     "total": 7800.0,
+     "count": 3
+    },
+    {
+     "employer": "AMERICAN GLOBAL STRATEGIES LLC",
+     "total": 7500.0,
+     "count": 3
+    },
+    {
+     "employer": "THRUSTMASTER OF TEXAS INC.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "TIAGO TITLE",
+     "total": 7000.0,
+     "count": 7
+    },
+    {
+     "employer": "JEFF LOVE",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "AMERICAN PRE-STRESS CONCRETE",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

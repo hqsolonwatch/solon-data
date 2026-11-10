@@ -746,8 +746,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00561597",
+  "committee_name": "GLENN GROTHMAN FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1209007.03,
+  "amounts": {
+   "individuals_200_or_less": 118911.66,
+   "individuals_over_200": 706876.19,
+   "pacs_and_parties": 382500.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    10
+   ],
+   [
+    "Individuals giving more than $200",
+    58
+   ],
+   [
+    "PACs and party committees",
+    32
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 552869.91,
+   "home_state": "WI",
+   "home_state_total": 462933.14,
+   "home_state_share": 84,
+   "top": [
+    {
+     "state": "WI",
+     "state_full": "Wisconsin",
+     "total": 462933.14,
+     "count": 835
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 29085.0,
+     "count": 20
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "state": "NV",
+     "state_full": "Nevada",
+     "total": 12443.72,
+     "count": 11
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 10250.0,
+     "count": 15
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 10100.0,
+     "count": 3
+    },
+    {
+     "state": "WY",
+     "state_full": "Wyoming",
+     "total": 4200.0,
+     "count": 2
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 3108.05,
+     "count": 7
+    },
+    {
+     "state": "DE",
+     "state_full": "Delaware",
+     "total": 2000.0,
+     "count": 4
+    },
+    {
+     "state": "IN",
+     "state_full": "Indiana",
+     "total": 1500.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "T WALL ENTERPIRSES",
+     "total": 11000.0,
+     "count": 4
+    },
+    {
+     "employer": "EPIC",
+     "total": 10200.0,
+     "count": 5
+    },
+    {
+     "employer": "EDWARD C LEVY CO",
+     "total": 10100.0,
+     "count": 3
+    },
+    {
+     "employer": "ULINE",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ULINE CORP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SARGENTO",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "COLUMBUS CHEMICAL INDUSTRIES INC",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "CONTINENTAL PROPERTIES COMPANY INC.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "OHARE WEALTH MANAGEMENT",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "HENDRICKS HOLDING",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

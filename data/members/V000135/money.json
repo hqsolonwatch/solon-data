@@ -1903,8 +1903,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00742007",
+  "committee_name": "VAN ORDEN FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 9101596.33,
+  "amounts": {
+   "individuals_200_or_less": 1982571.03,
+   "individuals_over_200": 3309888.11,
+   "pacs_and_parties": 1276841.95,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 2498172.73,
+   "other_receipts": 34122.51
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    30
+   ],
+   [
+    "Individuals giving more than $200",
+    50
+   ],
+   [
+    "PACs and party committees",
+    20
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 5434676.53,
+   "home_state": "WI",
+   "home_state_total": 988602.96,
+   "home_state_share": 18,
+   "top": [
+    {
+     "state": "WI",
+     "state_full": "Wisconsin",
+     "total": 988602.96,
+     "count": 5142
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 736918.46,
+     "count": 16341
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 715109.06,
+     "count": 13767
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 448092.21,
+     "count": 11985
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 246035.51,
+     "count": 4663
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 240555.59,
+     "count": 3281
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 146004.67,
+     "count": 6006
+    },
+    {
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 124366.26,
+     "count": 2423
+    },
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 120656.97,
+     "count": 1635
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 109843.37,
+     "count": 3046
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "FOUNDERS FUND",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "STARKEY HEARING TECHNOLOGIES",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "VALMORE GP",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "employer": "MARQUIS MANAGEMENT INC.",
+     "total": 12000.0,
+     "count": 4
+    },
+    {
+     "employer": "BRODIE GENERATIONAL CAPITAL PARTNERS",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "WIESER BROTHERS",
+     "total": 10000.0,
+     "count": 3
+    },
+    {
+     "employer": "NU CYBERTEK INC.",
+     "total": 9933.85,
+     "count": 86
+    },
+    {
+     "employer": "SPENCER ENTERPRISES",
+     "total": 8297.58,
+     "count": 4
+    },
+    {
+     "employer": "EDW. C. LEVY CO.",
+     "total": 7505.37,
+     "count": 33
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

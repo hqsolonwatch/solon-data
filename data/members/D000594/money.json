@@ -1611,8 +1611,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00765719",
+  "committee_name": "MONICA FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 6814266.73,
+  "amounts": {
+   "individuals_200_or_less": 1593288.57,
+   "individuals_over_200": 2548054.95,
+   "pacs_and_parties": 1149835.12,
+   "candidate_own": 84.0,
+   "transfers_from_authorized": 1511454.62,
+   "other_receipts": 4760.55
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    30
+   ],
+   [
+    "Individuals giving more than $200",
+    48
+   ],
+   [
+    "PACs and party committees",
+    22
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 3736369.86,
+   "home_state": "TX",
+   "home_state_total": 1502331.0,
+   "home_state_share": 40,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 1502331.0,
+     "count": 16467
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 436693.09,
+     "count": 8641
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 281824.88,
+     "count": 7350
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 150433.49,
+     "count": 1850
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 97862.04,
+     "count": 2565
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 70537.48,
+     "count": 2451
+    },
+    {
+     "state": "MO",
+     "state_full": "Missouri",
+     "total": 64692.48,
+     "count": 1652
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 64044.4,
+     "count": 773
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 63888.5,
+     "count": 3032
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 61843.69,
+     "count": 2451
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "LA LOMITA INC.",
+     "total": 28000.0,
+     "count": 8
+    },
+    {
+     "employer": "THE ONION HAUS",
+     "total": 16400.0,
+     "count": 12
+    },
+    {
+     "employer": "STARKEY HEARING TECHNOLOGIES",
+     "total": 12600.0,
+     "count": 4
+    },
+    {
+     "employer": "NEW YORK LIFE",
+     "total": 12000.0,
+     "count": 5
+    },
+    {
+     "employer": "ARNOLD VENTURES",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "RUSSELL PLANTATION",
+     "total": 10000.0,
+     "count": 4
+    },
+    {
+     "employer": "ENTREPRENEUR",
+     "total": 8637.01,
+     "count": 3
+    },
+    {
+     "employer": "SILVER EAGLE BEVERAGES",
+     "total": 8500.0,
+     "count": 3
+    },
+    {
+     "employer": "SILVER VENTURES",
+     "total": 8500.0,
+     "count": 4
+    },
+    {
+     "employer": "SRS FARMS",
+     "total": 7500.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

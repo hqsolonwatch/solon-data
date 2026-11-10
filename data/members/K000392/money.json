@@ -1628,8 +1628,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00614826",
+  "committee_name": "KUSTOFF FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2458196.73,
+  "amounts": {
+   "individuals_200_or_less": 7349.89,
+   "individuals_over_200": 1208529.76,
+   "pacs_and_parties": 1172850.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 7000.0,
+   "other_receipts": 58866.56
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    0
+   ],
+   [
+    "Individuals giving more than $200",
+    51
+   ],
+   [
+    "PACs and party committees",
+    49
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1055529.76,
+   "home_state": "TN",
+   "home_state_total": 774300.0,
+   "home_state_share": 73,
+   "top": [
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 774300.0,
+     "count": 538
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 54870.33,
+     "count": 30
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 40750.0,
+     "count": 41
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 35250.0,
+     "count": 25
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 30900.0,
+     "count": 21
+    },
+    {
+     "state": "MS",
+     "state_full": "Mississippi",
+     "total": 25500.0,
+     "count": 13
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 18499.0,
+     "count": 11
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 16000.0,
+     "count": 7
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 13384.0,
+     "count": 9
+    },
+    {
+     "state": "AL",
+     "state_full": "Alabama",
+     "total": 9334.0,
+     "count": 5
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "BLACKSTONE",
+     "total": 28000.0,
+     "count": 13
+    },
+    {
+     "employer": "APOLLO GLOBAL MANAGEMENT",
+     "total": 19500.0,
+     "count": 9
+    },
+    {
+     "employer": "ADVANCE FINANCIAL",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "employer": "BASKIN TRUCK PARTS, LLC",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "employer": "THE SWAG",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "employer": "APOLLO",
+     "total": 11000.0,
+     "count": 6
+    },
+    {
+     "employer": "TODD STRATEGY GROUP",
+     "total": 10750.0,
+     "count": 7
+    },
+    {
+     "employer": "FOGELMAN MANAGEMENT GROUP",
+     "total": 10000.0,
+     "count": 8
+    },
+    {
+     "employer": "LEWIS THOMASON",
+     "total": 9000.0,
+     "count": 5
+    },
+    {
+     "employer": "TOWER VENTURES",
+     "total": 8000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

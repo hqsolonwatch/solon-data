@@ -481,8 +481,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00605592",
+  "committee_name": "PRAMILA FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2920966.88,
+  "amounts": {
+   "individuals_200_or_less": 1144054.79,
+   "individuals_over_200": 1344859.75,
+   "pacs_and_parties": 362550.49,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 61450.0,
+   "other_receipts": 407.89
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    40
+   ],
+   [
+    "Individuals giving more than $200",
+    47
+   ],
+   [
+    "PACs and party committees",
+    13
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1210833.62,
+   "home_state": "WA",
+   "home_state_total": 823055.98,
+   "home_state_share": 68,
+   "top": [
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 823055.98,
+     "count": 5944
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 158327.25,
+     "count": 1308
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 37265.0,
+     "count": 219
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 34826.0,
+     "count": 225
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 18518.0,
+     "count": 47
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 17903.5,
+     "count": 81
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 14823.0,
+     "count": 68
+    },
+    {
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 9363.0,
+     "count": 51
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 8570.0,
+     "count": 87
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 7623.2,
+     "count": 208
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "THE COMMERCE COMPANY",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "IEH LABORATORIES",
+     "total": 7100.0,
+     "count": 3
+    },
+    {
+     "employer": "JREI",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SOROS FUND MANAGEMENT",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ALAN J PRESTON LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SECOND AVENUE PARTNERS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "LAW OFFICES OF JAMES DEGEL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "FSO",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SMVLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "VALVE CORPORATION",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

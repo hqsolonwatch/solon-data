@@ -413,8 +413,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00899831",
+  "committee_name": "CHRISTIAN D. MENEFEE FOR CONGRESS",
+  "coverage_start": "2025-03-05T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 3761777.28,
+  "amounts": {
+   "individuals_200_or_less": 714561.25,
+   "individuals_over_200": 2749391.74,
+   "pacs_and_parties": 292367.67,
+   "candidate_own": 100.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    19
+   ],
+   [
+    "Individuals giving more than $200",
+    73
+   ],
+   [
+    "PACs and party committees",
+    8
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 2686099.08,
+   "home_state": "TX",
+   "home_state_total": 2239678.32,
+   "home_state_share": 83,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 2239678.32,
+     "count": 2541
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 100298.06,
+     "count": 200
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 43225.0,
+     "count": 57
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 39522.0,
+     "count": 101
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 28008.5,
+     "count": 60
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 26416.0,
+     "count": 59
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 24666.26,
+     "count": 41
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 20300.0,
+     "count": 34
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 19725.0,
+     "count": 37
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 19375.0,
+     "count": 15
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "AZA",
+     "total": 50850.0,
+     "count": 38
+    },
+    {
+     "employer": "KIRKLAND & ELLIS LLP",
+     "total": 46360.0,
+     "count": 51
+    },
+    {
+     "employer": "NORTON ROSE FULBRIGHT US LLP",
+     "total": 42743.0,
+     "count": 48
+    },
+    {
+     "employer": "KIRKLAND & ELLIS",
+     "total": 36750.0,
+     "count": 20
+    },
+    {
+     "employer": "HARRIS COUNTY",
+     "total": 31125.0,
+     "count": 32
+    },
+    {
+     "employer": "NORTON ROSE FULBRIGHT",
+     "total": 24750.0,
+     "count": 31
+    },
+    {
+     "employer": "ARNOLD VENTURES",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
+     "employer": "MUKERJI LAW FIRM",
+     "total": 18850.0,
+     "count": 11
+    },
+    {
+     "employer": "MCMILLAN LAW FIRM",
+     "total": 17500.0,
+     "count": 6
+    },
+    {
+     "employer": "YETTER COLEMAN",
+     "total": 16500.0,
+     "count": 7
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

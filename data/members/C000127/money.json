@@ -126,8 +126,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00349506",
+  "committee_name": "FRIENDS OF MARIA",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 985139.34,
+  "amounts": {
+   "individuals_200_or_less": 465619.86,
+   "individuals_over_200": 516717.71,
+   "pacs_and_parties": 0.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 150.7
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    47
+   ],
+   [
+    "Individuals giving more than $200",
+    53
+   ],
+   [
+    "PACs and party committees",
+    0
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 376782.48,
+   "home_state": "WA",
+   "home_state_total": 251038.73,
+   "home_state_share": 67,
+   "top": [
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 251038.73,
+     "count": 2650
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 29310.25,
+     "count": 73
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 16500.0,
+     "count": 23
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 9485.5,
+     "count": 31
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 9180.0,
+     "count": 43
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 7435.0,
+     "count": 24
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 6850.0,
+     "count": 4
+    },
+    {
+     "state": "OR",
+     "state_full": "Oregon",
+     "total": 5260.0,
+     "count": 23
+    },
+    {
+     "state": "OK",
+     "state_full": "Oklahoma",
+     "total": 5250.0,
+     "count": 3
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 4500.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "SV ANGEL LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BROWNSTEIN HYATT FARBER SCHRECK LLP",
+     "total": 6000.0,
+     "count": 4
+    },
+    {
+     "employer": "UNESCO WASHINGTON",
+     "total": 4500.0,
+     "count": 4
+    },
+    {
+     "employer": "SIERRA NEVADA CORP.",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "INCITE.ORG",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "ARCH VENTURE PARTNERS",
+     "total": 3300.0,
+     "count": 1
+    },
+    {
+     "employer": "PISCES INC",
+     "total": 3300.0,
+     "count": 1
+    },
+    {
+     "employer": "CHARLIES PRODUCE",
+     "total": 2900.0,
+     "count": 1
+    },
+    {
+     "employer": "VALLEY VISTA COLLECTIVE LLC",
+     "total": 2500.0,
+     "count": 1
+    },
+    {
+     "employer": "HANFT FRIDE LAW FIRM",
+     "total": 2000.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

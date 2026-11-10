@@ -442,8 +442,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00652149",
+  "committee_name": "BURCHETT FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 3131314.7,
+  "amounts": {
+   "individuals_200_or_less": 1665265.46,
+   "individuals_over_200": 1162044.15,
+   "pacs_and_parties": 260270.92,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 19441.7,
+   "other_receipts": 14718.15
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    54
+   ],
+   [
+    "Individuals giving more than $200",
+    38
+   ],
+   [
+    "PACs and party committees",
+    8
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 892410.18,
+   "home_state": "TN",
+   "home_state_total": 595510.06,
+   "home_state_share": 67,
+   "top": [
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 595510.06,
+     "count": 1856
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 45362.04,
+     "count": 175
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 44054.03,
+     "count": 271
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 16238.82,
+     "count": 160
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 14735.61,
+     "count": 68
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 14604.5,
+     "count": 19
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 13829.98,
+     "count": 52
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 11169.72,
+     "count": 60
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 10836.48,
+     "count": 91
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 10068.65,
+     "count": 44
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "MPI BUSINESS",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "BEAMAN VENTURES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ELLIOTT INVESTMENT MANAGEMENT",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ADVANCED FINANCIAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MASSMUTUAL",
+     "total": 6000.0,
+     "count": 3
+    },
+    {
+     "employer": "LENOIR CITY UTILITIES BOARD",
+     "total": 5643.95,
+     "count": 4
+    },
+    {
+     "employer": "ECO COMPANIES",
+     "total": 5600.0,
+     "count": 2
+    },
+    {
+     "employer": "FIRST CENTURY BANK",
+     "total": 5500.0,
+     "count": 6
+    },
+    {
+     "employer": "FIRST SAVINGS MORTGAGE",
+     "total": 5000.0,
+     "count": 2
+    },
+    {
+     "employer": "KATOM",
+     "total": 5000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

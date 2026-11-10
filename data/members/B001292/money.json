@@ -1304,8 +1304,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00555888",
+  "committee_name": "FRIENDS OF DON BEYER",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2529480.41,
+  "amounts": {
+   "individuals_200_or_less": 120365.86,
+   "individuals_over_200": 1610627.85,
+   "pacs_and_parties": 791750.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 5080.16
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    5
+   ],
+   [
+    "Individuals giving more than $200",
+    64
+   ],
+   [
+    "PACs and party committees",
+    31
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1465500.42,
+   "home_state": "VA",
+   "home_state_total": 884625.08,
+   "home_state_share": 60,
+   "top": [
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 884625.08,
+     "count": 1597
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 197330.0,
+     "count": 171
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 92800.0,
+     "count": 34
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 54100.0,
+     "count": 37
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 43750.0,
+     "count": 20
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 35800.0,
+     "count": 15
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 34350.0,
+     "count": 48
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 16500.0,
+     "count": 5
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 14500.0,
+     "count": 5
+    },
+    {
+     "state": "NM",
+     "state_full": "New Mexico",
+     "total": 13800.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ANTHROPIC",
+     "total": 35000.0,
+     "count": 10
+    },
+    {
+     "employer": "SHEEHY AUTO STORES",
+     "total": 10500.0,
+     "count": 5
+    },
+    {
+     "employer": "WEINSTEIN PROPERTIES",
+     "total": 10000.0,
+     "count": 4
+    },
+    {
+     "employer": "MACHINE INTELLIGENCE RESEARCH INSTITUT",
+     "total": 8500.0,
+     "count": 3
+    },
+    {
+     "employer": "DAVIS POLK & WARDWELL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SRA",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "NEWS CORP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ARNOLD & PORTER",
+     "total": 7000.0,
+     "count": 6
+    },
+    {
+     "employer": "MCARTHURGLEN",
+     "total": 7000.0,
+     "count": 4
+    },
+    {
+     "employer": "IDEAL INNOVATIONS INC.",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

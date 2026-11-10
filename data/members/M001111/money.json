@@ -822,8 +822,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00257642",
+  "committee_name": "PEOPLE FOR PATTY MURRAY",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 3591671.12,
+  "amounts": {
+   "individuals_200_or_less": 1074504.8,
+   "individuals_over_200": 2093313.24,
+   "pacs_and_parties": 338200.01,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 62000.0,
+   "other_receipts": 11522.41
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    31
+   ],
+   [
+    "Individuals giving more than $200",
+    60
+   ],
+   [
+    "PACs and party committees",
+    9
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1649222.75,
+   "home_state": "WA",
+   "home_state_total": 1294117.0,
+   "home_state_share": 78,
+   "top": [
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 1294117.0,
+     "count": 11927
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 53067.43,
+     "count": 308
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 48385.0,
+     "count": 51
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 38557.0,
+     "count": 125
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 29471.5,
+     "count": 74
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 25427.5,
+     "count": 146
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 22175.0,
+     "count": 16
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 22152.0,
+     "count": 36
+    },
+    {
+     "state": "OR",
+     "state_full": "Oregon",
+     "total": 18119.0,
+     "count": 237
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 9286.0,
+     "count": 19
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "MOONLIGHT PROPERTIES",
+     "total": 15000.0,
+     "count": 5
+    },
+    {
+     "employer": "BGR GROUP",
+     "total": 15000.0,
+     "count": 11
+    },
+    {
+     "employer": "BATTELLE",
+     "total": 10250.0,
+     "count": 17
+    },
+    {
+     "employer": "BROWNSTEIN HYATT FARBER SCHRECK LLP",
+     "total": 8750.0,
+     "count": 18
+    },
+    {
+     "employer": "CORNERSTONE GOVERNMENT AFFAIRS",
+     "total": 7500.0,
+     "count": 7
+    },
+    {
+     "employer": "ICEBREAKER STRATEGIES LLC",
+     "total": 7500.0,
+     "count": 3
+    },
+    {
+     "employer": "POSEIDON AEROSPACE",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "CAPITOL PATH CONSULTING",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "UNIVERSITY OF WASHINGTON",
+     "total": 6660.0,
+     "count": 69
+    },
+    {
+     "employer": "PFAU COCHRAN VERTETIS AMALA",
+     "total": 6300.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

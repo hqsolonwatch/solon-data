@@ -1460,8 +1460,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00720011",
+  "committee_name": "SCOTT FITZGERALD FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1729316.51,
+  "amounts": {
+   "individuals_200_or_less": 57990.95,
+   "individuals_over_200": 552470.81,
+   "pacs_and_parties": 1072248.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 35637.28,
+   "other_receipts": 1028.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    3
+   ],
+   [
+    "Individuals giving more than $200",
+    33
+   ],
+   [
+    "PACs and party committees",
+    64
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 455603.51,
+   "home_state": "WI",
+   "home_state_total": 186645.39,
+   "home_state_share": 41,
+   "top": [
+    {
+     "state": "WI",
+     "state_full": "Wisconsin",
+     "total": 186645.39,
+     "count": 320
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 55733.06,
+     "count": 52
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 46933.06,
+     "count": 33
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 33266.53,
+     "count": 38
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 23500.0,
+     "count": 18
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 17771.15,
+     "count": 19
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 10000.0,
+     "count": 4
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 8266.53,
+     "count": 11
+    },
+    {
+     "state": "UT",
+     "state_full": "Utah",
+     "total": 7520.51,
+     "count": 8
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 7000.0,
+     "count": 8
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "BGR GROUP",
+     "total": 13000.0,
+     "count": 13
+    },
+    {
+     "employer": "MILWAUKEE TOOL",
+     "total": 9163.13,
+     "count": 10
+    },
+    {
+     "employer": "EPIC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ABC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "TOLL FOUNDATION",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "ELLIOTT INVESTMENT MANAGEMENT",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "CONTINENTAL PROPERTIES",
+     "total": 7000.0,
+     "count": 5
+    },
+    {
+     "employer": "AMERICAN BEVERAGE ASSOCIATION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BLACKSTONE",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "ULINE",
+     "total": 7000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

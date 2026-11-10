@@ -621,8 +621,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00730150",
+  "committee_name": "NEHLS FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 429606.26,
+  "amounts": {
+   "individuals_200_or_less": 1518.56,
+   "individuals_over_200": 157689.52,
+   "pacs_and_parties": 211650.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 18584.76,
+   "other_receipts": 1000.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    0
+   ],
+   [
+    "Individuals giving more than $200",
+    43
+   ],
+   [
+    "PACs and party committees",
+    57
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 175189.52,
+   "home_state": "TX",
+   "home_state_total": 88273.81,
+   "home_state_share": 50,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 88273.81,
+     "count": 67
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 27350.0,
+     "count": 33
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 13200.0,
+     "count": 6
+    },
+    {
+     "state": "PR",
+     "state_full": "Puerto Rico",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 5750.0,
+     "count": 10
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 4500.0,
+     "count": 8
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 4049.59,
+     "count": 3
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 3516.53,
+     "count": 4
+    },
+    {
+     "state": "WI",
+     "state_full": "Wisconsin",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 3000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "LEIDOS",
+     "total": 17100.0,
+     "count": 25
+    },
+    {
+     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
+     "total": 13200.0,
+     "count": 6
+    },
+    {
+     "employer": "TOLUNAY-WONG",
+     "total": 7000.0,
+     "count": 4
+    },
+    {
+     "employer": "SPARROW GROUP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ORC  THE BRAZOS",
+     "total": 6830.58,
+     "count": 3
+    },
+    {
+     "employer": "TRAVIS KISNER",
+     "total": 5165.29,
+     "count": 3
+    },
+    {
+     "employer": "ESSC",
+     "total": 5165.29,
+     "count": 3
+    },
+    {
+     "employer": "HIF GLOBAL",
+     "total": 4000.0,
+     "count": 2
+    },
+    {
+     "employer": "MADDOX INDUSTRIES",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "ALLEN BOONE HUMPHRIES ROBINSON LLP",
+     "total": 3500.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

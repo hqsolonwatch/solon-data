@@ -1297,8 +1297,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00904367",
+  "committee_name": "WALKINSHAW FOR CONGRESS",
+  "coverage_start": "2025-05-04T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 3270621.28,
+  "amounts": {
+   "individuals_200_or_less": 453650.95,
+   "individuals_over_200": 1636171.42,
+   "pacs_and_parties": 1150569.42,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 10000.0,
+   "other_receipts": 12487.71
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    14
+   ],
+   [
+    "Individuals giving more than $200",
+    50
+   ],
+   [
+    "PACs and party committees",
+    36
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1632408.42,
+   "home_state": "VA",
+   "home_state_total": 1267324.09,
+   "home_state_share": 78,
+   "top": [
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 1267324.09,
+     "count": 2543
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 112285.0,
+     "count": 94
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 100997.0,
+     "count": 114
+    },
+    {
+     "state": "UT",
+     "state_full": "Utah",
+     "total": 29750.0,
+     "count": 11
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 22200.0,
+     "count": 18
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 17107.0,
+     "count": 16
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 15525.0,
+     "count": 11
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 13250.0,
+     "count": 9
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 10345.0,
+     "count": 10
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 10250.0,
+     "count": 5
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "LEIDOS",
+     "total": 25050.0,
+     "count": 48
+    },
+    {
+     "employer": "FAIRFAX COUNTY",
+     "total": 23525.0,
+     "count": 28
+    },
+    {
+     "employer": "AMERICAN PROPERTIES OF MD LLC",
+     "total": 16500.0,
+     "count": 4
+    },
+    {
+     "employer": "SELF EMPLYED",
+     "total": 16500.0,
+     "count": 7
+    },
+    {
+     "employer": "TOTAL WINE & MORE",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "CONSULTANT",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "CROSS POTOMAC CONSULTING",
+     "total": 14000.0,
+     "count": 7
+    },
+    {
+     "employer": "XAVIENT INFORMATION SYSTEMS",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "employer": "SOS INTERNATIONAL LLC",
+     "total": 13500.0,
+     "count": 4
+    },
+    {
+     "employer": "GBA ASSOCIATES",
+     "total": 12000.0,
+     "count": 7
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

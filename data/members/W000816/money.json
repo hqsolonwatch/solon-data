@@ -910,8 +910,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00498121",
+  "committee_name": "ROGER WILLIAMS FOR U S CONGRESS COMMITTEE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1654633.09,
+  "amounts": {
+   "individuals_200_or_less": 1138.17,
+   "individuals_over_200": 86154.46,
+   "pacs_and_parties": 584778.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 959948.89,
+   "other_receipts": 22602.36
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    0
+   ],
+   [
+    "Individuals giving more than $200",
+    13
+   ],
+   [
+    "PACs and party committees",
+    87
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1049627.11,
+   "home_state": "TX",
+   "home_state_total": 1015774.58,
+   "home_state_share": 97,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 1015774.58,
+     "count": 552
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 15541.01,
+     "count": 8
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 9000.0,
+     "count": 9
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 3000.0,
+     "count": 2
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 1500.0,
+     "count": 1
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 1250.0,
+     "count": 3
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 1041.02,
+     "count": 1
+    },
+    {
+     "state": "HI",
+     "state_full": "Hawaii",
+     "total": 1000.0,
+     "count": 1
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 500.0,
+     "count": 1
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 500.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "DOUBLE EAGLE",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "FBT",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "PIERSON & PATTERSON",
+     "total": 13600.0,
+     "count": 6
+    },
+    {
+     "employer": "WW TICHENOR & COMPANY",
+     "total": 8600.0,
+     "count": 3
+    },
+    {
+     "employer": "FRANFUND",
+     "total": 7500.0,
+     "count": 4
+    },
+    {
+     "employer": "HANOVER CO.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "HUNT CONSOLIDATED",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "TEXAS JET",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "REYNOLDS ASPHALT & CONSTRUCTION CO",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "FOUR SEVENS OIL CO.",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

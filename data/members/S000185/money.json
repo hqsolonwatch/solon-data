@@ -650,8 +650,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00256925",
+  "committee_name": "SCOTT FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 882179.43,
+  "amounts": {
+   "individuals_200_or_less": 30915.38,
+   "individuals_over_200": 418383.14,
+   "pacs_and_parties": 432880.91,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    4
+   ],
+   [
+    "Individuals giving more than $200",
+    47
+   ],
+   [
+    "PACs and party committees",
+    49
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 353424.8,
+   "home_state": "VA",
+   "home_state_total": 275874.8,
+   "home_state_share": 78,
+   "top": [
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 275874.8,
+     "count": 342
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 17250.0,
+     "count": 14
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 15000.0,
+     "count": 5
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 10500.0,
+     "count": 7
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 7250.0,
+     "count": 12
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "state": "WY",
+     "state_full": "Wyoming",
+     "total": 5000.0,
+     "count": 1
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 4000.0,
+     "count": 2
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 2000.0,
+     "count": 2
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 2000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ARNOLD VENTURES",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "DOMINION ENERGY",
+     "total": 13250.0,
+     "count": 8
+    },
+    {
+     "employer": "ECPI UNIVERSITY",
+     "total": 8500.0,
+     "count": 3
+    },
+    {
+     "employer": "FEDERAL GOVT",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "CLA",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "COTULLA EDUCATION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "FRAIM & FIORELLA PC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PATIENTRIGHTSADVOCATE.ORG",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PATTEN, HATTEN, WORNOM AND DIAMONSTEIN",
+     "total": 6000.0,
+     "count": 2
+    },
+    {
+     "employer": "MILITARY PRODUCE GROUP",
+     "total": 6000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

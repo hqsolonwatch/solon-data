@@ -836,8 +836,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00422980",
+  "committee_name": "COHEN FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 785039.35,
+  "amounts": {
+   "individuals_200_or_less": 19535.23,
+   "individuals_over_200": 322266.54,
+   "pacs_and_parties": 321261.67,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 121975.91
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    3
+   ],
+   [
+    "Individuals giving more than $200",
+    49
+   ],
+   [
+    "PACs and party committees",
+    48
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 322066.54,
+   "home_state": "TN",
+   "home_state_total": 260316.54,
+   "home_state_share": 81,
+   "top": [
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 260316.54,
+     "count": 218
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 15350.0,
+     "count": 13
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 12650.0,
+     "count": 17
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 5250.0,
+     "count": 7
+    },
+    {
+     "state": "PR",
+     "state_full": "Puerto Rico",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "state": "MS",
+     "state_full": "Mississippi",
+     "total": 3000.0,
+     "count": 3
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 2250.0,
+     "count": 3
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 2000.0,
+     "count": 2
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 1000.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "WEST CLINIC",
+     "total": 17500.0,
+     "count": 5
+    },
+    {
+     "employer": "TOWER VENTURES",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "MARGARET WEST COMPREHENSIVE BREAST CEN",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "REID D. EVENSKY PC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "LAWLER WOOD LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "LEWIS THOMASON",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SOL GOLDMAN INVESTMENTS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "WEST CANCER CENTER AND RESEARCH INSTIT",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "GLOBAL CROP DIVERSITY TRUST",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "LIPMAN BROTHERS, INC.",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

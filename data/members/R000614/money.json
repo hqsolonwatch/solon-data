@@ -279,8 +279,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00662767",
+  "committee_name": "CHIP ROY FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 783176.64,
+  "amounts": {
+   "individuals_200_or_less": 221671.16,
+   "individuals_over_200": 262197.69,
+   "pacs_and_parties": 61000.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 233500.75,
+   "other_receipts": 290.97
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    41
+   ],
+   [
+    "Individuals giving more than $200",
+    48
+   ],
+   [
+    "PACs and party committees",
+    11
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 544821.3,
+   "home_state": "TX",
+   "home_state_total": 429696.89,
+   "home_state_share": 79,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 429696.89,
+     "count": 632
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 35680.62,
+     "count": 60
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 15900.0,
+     "count": 10
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 10958.36,
+     "count": 127
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 8755.68,
+     "count": 44
+    },
+    {
+     "state": "AL",
+     "state_full": "Alabama",
+     "total": 4268.61,
+     "count": 13
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 3500.0,
+     "count": 6
+    },
+    {
+     "state": "NH",
+     "state_full": "New Hampshire",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 3476.54,
+     "count": 19
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 3325.0,
+     "count": 20
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "SAULSBURY",
+     "total": 26800.0,
+     "count": 15
+    },
+    {
+     "employer": "SBG",
+     "total": 13200.0,
+     "count": 4
+    },
+    {
+     "employer": "SAULSBURY INDUSTRIES",
+     "total": 11600.0,
+     "count": 6
+    },
+    {
+     "employer": "SELF- EMPLOYED",
+     "total": 7250.0,
+     "count": 3
+    },
+    {
+     "employer": "WOODFOREST FINANCIAL GROUP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BLACK DIAMOND MANAGEMENT",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "Q2 BANKING",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ALLEGIANCE REFINING LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "HILLWOOD",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "REGULUS",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

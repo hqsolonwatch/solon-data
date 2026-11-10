@@ -88,8 +88,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00652743",
+  "committee_name": "JOHN ROSE FOR TENNESSEE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 77889.95,
+  "amounts": {
+   "individuals_200_or_less": 12820.69,
+   "individuals_over_200": 35069.26,
+   "pacs_and_parties": 18000.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 12000.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    20
+   ],
+   [
+    "Individuals giving more than $200",
+    53
+   ],
+   [
+    "PACs and party committees",
+    27
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 42069.26,
+   "home_state": "TN",
+   "home_state_total": 21276.33,
+   "home_state_share": 51,
+   "top": [
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 21276.33,
+     "count": 51
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 4868.25,
+     "count": 195
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 4289.68,
+     "count": 282
+    },
+    {
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 2500.0,
+     "count": 1
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 1576.52,
+     "count": 75
+    },
+    {
+     "state": "IN",
+     "state_full": "Indiana",
+     "total": 1100.0,
+     "count": 11
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 721.52,
+     "count": 42
+    },
+    {
+     "state": "OK",
+     "state_full": "Oklahoma",
+     "total": 676.65,
+     "count": 13
+    },
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 665.0,
+     "count": 4
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 622.5,
+     "count": 34
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ADVANCE FINANCIAL",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "R&S NORTHEAST",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "ADVANTAGE FINANCIAL",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "PATRIOT ANGELS",
+     "total": 3300.0,
+     "count": 1
+    },
+    {
+     "employer": "SAM NUTRITION",
+     "total": 2500.0,
+     "count": 1
+    },
+    {
+     "employer": "DTC COMMUNICATIONS",
+     "total": 1500.0,
+     "count": 1
+    },
+    {
+     "employer": "REMAX/CHOICE PROPERTIES",
+     "total": 939.4,
+     "count": 2
+    },
+    {
+     "employer": "SINGING WIND LLC",
+     "total": 380.0,
+     "count": 4
+    },
+    {
+     "employer": "STEPHEN PRICE",
+     "total": 286.33,
+     "count": 11
+    },
+    {
+     "employer": "PSI",
+     "total": 286.33,
+     "count": 11
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

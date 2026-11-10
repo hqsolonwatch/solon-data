@@ -915,8 +915,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00304709",
+  "committee_name": "ADAM SMITH FOR CONGRESS COMMITTEE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2202050.79,
+  "amounts": {
+   "individuals_200_or_less": 115560.24,
+   "individuals_over_200": 1378019.97,
+   "pacs_and_parties": 707165.44,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 655.14
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    5
+   ],
+   [
+    "Individuals giving more than $200",
+    63
+   ],
+   [
+    "PACs and party committees",
+    32
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1222913.09,
+   "home_state": "WA",
+   "home_state_total": 519289.67,
+   "home_state_share": 42,
+   "top": [
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 519289.67,
+     "count": 1186
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 192819.91,
+     "count": 95
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 87400.0,
+     "count": 77
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 58250.0,
+     "count": 35
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 55828.51,
+     "count": 33
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 50900.0,
+     "count": 51
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 48225.0,
+     "count": 41
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 33550.0,
+     "count": 22
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 27000.0,
+     "count": 16
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 25000.0,
+     "count": 19
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ANTHROPIC",
+     "total": 50000.0,
+     "count": 19
+    },
+    {
+     "employer": "PALANTIR TECHNOLOGIES",
+     "total": 38500.0,
+     "count": 14
+    },
+    {
+     "employer": "MICROSOFT",
+     "total": 36597.0,
+     "count": 29
+    },
+    {
+     "employer": "LOCKHEED MARTIN",
+     "total": 28500.0,
+     "count": 28
+    },
+    {
+     "employer": "KRATOS DEFENSE & SECURITY SOLUTIONS",
+     "total": 19500.0,
+     "count": 6
+    },
+    {
+     "employer": "L3 HARRIS TECHNOLOGIES",
+     "total": 19250.0,
+     "count": 11
+    },
+    {
+     "employer": "BLUE ORIGIN",
+     "total": 17500.0,
+     "count": 19
+    },
+    {
+     "employer": "BOEING",
+     "total": 15100.0,
+     "count": 24
+    },
+    {
+     "employer": "BAE SYSTEMS",
+     "total": 15000.0,
+     "count": 14
+    },
+    {
+     "employer": "ANDREESSEN HOROWITZ",
+     "total": 14000.0,
+     "count": 6
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

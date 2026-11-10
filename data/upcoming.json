@@ -178,9 +178,21 @@
    "week_of": "2026-11-09"
   }
  ],
- "senate": [],
+ "senate": [
+  {
+   "bill": {
+    "type": "hr",
+    "number": 2347,
+    "label": "H.R. 2347",
+    "id": "hr2347-119"
+   },
+   "description": "The Senate voted 73 to 25 on November 9 to end debate on the motion to proceed to the bill. More votes on it are expected.",
+   "category": "expected",
+   "basis": "senate roll call 257"
+  }
+ ],
  "sources": {
   "house": "House Majority Leader floor schedule, docs.house.gov",
-  "senate": "Senate floor schedule, senate.gov (bill numbers read from the posted text)"
+  "senate": "Expected, not scheduled: Senate roll calls (senate.gov), bill actions (Congress.gov) and the senate.gov floor schedule"
  }
 }

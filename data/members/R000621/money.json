@@ -711,8 +711,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00857094",
+  "committee_name": "EMILY RANDALL FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1422767.38,
+  "amounts": {
+   "individuals_200_or_less": 267142.37,
+   "individuals_over_200": 762198.01,
+   "pacs_and_parties": 385656.07,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 1594.29,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    19
+   ],
+   [
+    "Individuals giving more than $200",
+    54
+   ],
+   [
+    "PACs and party committees",
+    27
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 644831.92,
+   "home_state": "WA",
+   "home_state_total": 518349.8,
+   "home_state_share": 80,
+   "top": [
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 518349.8,
+     "count": 3262
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 30057.67,
+     "count": 51
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 22100.0,
+     "count": 21
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 20925.0,
+     "count": 16
+    },
+    {
+     "state": "OK",
+     "state_full": "Oklahoma",
+     "total": 11700.0,
+     "count": 6
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 6250.0,
+     "count": 8
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 5775.0,
+     "count": 25
+    },
+    {
+     "state": "AL",
+     "state_full": "Alabama",
+     "total": 5500.0,
+     "count": 3
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 4500.0,
+     "count": 2
+    },
+    {
+     "state": "ND",
+     "state_full": "North Dakota",
+     "total": 3500.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "MICROSOFT",
+     "total": 9100.0,
+     "count": 5
+    },
+    {
+     "employer": "KALSHI",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "AMAZON.COM INC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "CHARLIES PRODUCE",
+     "total": 5800.0,
+     "count": 5
+    },
+    {
+     "employer": "PROVIDENCE",
+     "total": 5750.0,
+     "count": 17
+    },
+    {
+     "employer": "AEGIS LAND TITLE GROUP",
+     "total": 4500.0,
+     "count": 2
+    },
+    {
+     "employer": "D&P CREATIVE STRATEGIES LLC",
+     "total": 4000.0,
+     "count": 5
+    },
+    {
+     "employer": "THE ROBINSON FOUNDATION",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "ZUMIEZ",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "STRATEGIC LINK CONSULTING LP",
+     "total": 3500.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

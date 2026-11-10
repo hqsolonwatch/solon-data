@@ -418,8 +418,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00725853",
+  "committee_name": "BURGESS 4 UTAH",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-06-30T00:00:00",
+  "receipts": 735673.75,
+  "amounts": {
+   "individuals_200_or_less": 208751.56,
+   "individuals_over_200": 303065.37,
+   "pacs_and_parties": 152500.0,
+   "candidate_own": 210.21,
+   "transfers_from_authorized": 69804.37,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    31
+   ],
+   [
+    "Individuals giving more than $200",
+    46
+   ],
+   [
+    "PACs and party committees",
+    23
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 367168.84,
+   "home_state": "UT",
+   "home_state_total": 120993.55,
+   "home_state_share": 33,
+   "top": [
+    {
+     "state": "UT",
+     "state_full": "Utah",
+     "total": 120993.55,
+     "count": 549
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 67055.57,
+     "count": 276
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 36663.07,
+     "count": 340
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 34128.0,
+     "count": 103
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 28188.0,
+     "count": 336
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 12460.5,
+     "count": 51
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 11801.1,
+     "count": 95
+    },
+    {
+     "state": "MO",
+     "state_full": "Missouri",
+     "total": 5280.0,
+     "count": 12
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 4644.5,
+     "count": 65
+    },
+    {
+     "state": "NV",
+     "state_full": "Nevada",
+     "total": 4245.0,
+     "count": 44
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "NEXTGEN MANAGEMENT LLC",
+     "total": 7000.0,
+     "count": 5
+    },
+    {
+     "employer": "CASTLE HARLAN INC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "COOL MASTER PRO LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "NEWSMAX MEDIA INC.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "HILLWOOD",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "MRU",
+     "total": 6510.0,
+     "count": 5
+    },
+    {
+     "employer": "EDWARD C. LEVY CO.",
+     "total": 5240.0,
+     "count": 6
+    },
+    {
+     "employer": "MOUNTAIN AMERICA CREDIT UNION",
+     "total": 4500.0,
+     "count": 2
+    },
+    {
+     "employer": "TEMPLETON  COMPANY",
+     "total": 4300.0,
+     "count": 2
+    },
+    {
+     "employer": "TOSH INC.",
+     "total": 3900.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

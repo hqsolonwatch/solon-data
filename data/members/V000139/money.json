@@ -1157,8 +1157,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00908202",
+  "committee_name": "MATT VAN EPPS FOR CONGRESS",
+  "coverage_start": "2025-04-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2646914.76,
+  "amounts": {
+   "individuals_200_or_less": 424788.6,
+   "individuals_over_200": 1431167.17,
+   "pacs_and_parties": 701105.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 85353.53,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    17
+   ],
+   [
+    "Individuals giving more than $200",
+    56
+   ],
+   [
+    "PACs and party committees",
+    27
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1319528.62,
+   "home_state": "TN",
+   "home_state_total": 1004803.91,
+   "home_state_share": 76,
+   "top": [
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 1004803.91,
+     "count": 803
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 51318.88,
+     "count": 248
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 41391.96,
+     "count": 177
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 39961.72,
+     "count": 211
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 29435.8,
+     "count": 193
+    },
+    {
+     "state": "IN",
+     "state_full": "Indiana",
+     "total": 12030.0,
+     "count": 32
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 11500.0,
+     "count": 13
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 11207.75,
+     "count": 75
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 11034.77,
+     "count": 39
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 10460.81,
+     "count": 73
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ADVANCE FINANCIAL",
+     "total": 28000.0,
+     "count": 8
+    },
+    {
+     "employer": "BRAY COMPANIES INC.",
+     "total": 23000.0,
+     "count": 12
+    },
+    {
+     "employer": "STATE OF TENNESSEE",
+     "total": 18153.81,
+     "count": 19
+    },
+    {
+     "employer": "BEAMAN VENTURES",
+     "total": 17500.0,
+     "count": 8
+    },
+    {
+     "employer": "LIPMAN BROTHERS",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "CRABBE HOMES",
+     "total": 14000.0,
+     "count": 5
+    },
+    {
+     "employer": "CHARLES SCHWAB CORP.",
+     "total": 14000.0,
+     "count": 9
+    },
+    {
+     "employer": "CURB RECORDS INC.",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "CORECIVIC INC.",
+     "total": 13500.0,
+     "count": 4
+    },
+    {
+     "employer": "RYE ENGINEERING PLC",
+     "total": 12000.0,
+     "count": 16
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

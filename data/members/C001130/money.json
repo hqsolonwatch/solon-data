@@ -499,8 +499,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00795450",
+  "committee_name": "JASMINE FOR US",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 8276007.9,
+  "amounts": {
+   "individuals_200_or_less": 5803023.71,
+   "individuals_over_200": 1871187.63,
+   "pacs_and_parties": 169050.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 378297.07,
+   "other_receipts": 32817.7
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    74
+   ],
+   [
+    "Individuals giving more than $200",
+    24
+   ],
+   [
+    "PACs and party committees",
+    2
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1875999.13,
+   "home_state": "TX",
+   "home_state_total": 384208.48,
+   "home_state_share": 20,
+   "top": [
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 462255.08,
+     "count": 4238
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 384208.48,
+     "count": 3719
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 135702.48,
+     "count": 1306
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 99080.5,
+     "count": 1048
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 78763.0,
+     "count": 518
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 54689.5,
+     "count": 640
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 50111.37,
+     "count": 723
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 49763.5,
+     "count": 510
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 40205.11,
+     "count": 787
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 38592.35,
+     "count": 484
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "WITHERSPOON LAW",
+     "total": 9000.0,
+     "count": 4
+    },
+    {
+     "employer": "LINKEDIN",
+     "total": 7600.0,
+     "count": 8
+    },
+    {
+     "employer": "PALS INC.",
+     "total": 7250.0,
+     "count": 6
+    },
+    {
+     "employer": "SFSU",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "DANIEL LAURENT FILMS INC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "Q PRIME",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ROMANUCCI & BLANDIN",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "THE NATURY CONSERVANCY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "EVERGREEN MONEY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "KELLEY LAW FIRM",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

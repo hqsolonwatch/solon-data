@@ -167,8 +167,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00482984",
+  "committee_name": "RON JOHNSON FOR SENATE, INC.",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 1227611.02,
+  "amounts": {
+   "individuals_200_or_less": 296257.28,
+   "individuals_over_200": 819190.06,
+   "pacs_and_parties": 40000.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 71013.54
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    26
+   ],
+   [
+    "Individuals giving more than $200",
+    71
+   ],
+   [
+    "PACs and party committees",
+    3
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 732605.48,
+   "home_state": "WI",
+   "home_state_total": 172274.0,
+   "home_state_share": 24,
+   "top": [
+    {
+     "state": "WI",
+     "state_full": "Wisconsin",
+     "total": 172274.0,
+     "count": 3462
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 102844.04,
+     "count": 1545
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 67872.1,
+     "count": 1398
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 64679.33,
+     "count": 1184
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 30004.71,
+     "count": 723
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 25110.49,
+     "count": 461
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 20955.47,
+     "count": 346
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 18763.57,
+     "count": 269
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 17899.73,
+     "count": 382
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 14857.96,
+     "count": 373
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "REDWOOD RESEARCH",
+     "total": 14000.0,
+     "count": 10
+    },
+    {
+     "employer": "ENTREPRENEUR",
+     "total": 7340.53,
+     "count": 41
+    },
+    {
+     "employer": "AUSTIN VENTURES",
+     "total": 7000.0,
+     "count": 5
+    },
+    {
+     "employer": "RIPPLE LABS INC",
+     "total": 7000.0,
+     "count": 5
+    },
+    {
+     "employer": "SAGESURE",
+     "total": 7000.0,
+     "count": 5
+    },
+    {
+     "employer": "NULLFRAME INC",
+     "total": 7000.0,
+     "count": 5
+    },
+    {
+     "employer": "MAISON",
+     "total": 7000.0,
+     "count": 5
+    },
+    {
+     "employer": "MACHINE INTELLIGENCE RESEARCH INSTITUT",
+     "total": 7000.0,
+     "count": 5
+    },
+    {
+     "employer": "SSM HEALTH",
+     "total": 4684.59,
+     "count": 15
+    },
+    {
+     "employer": "JL SOSA MD PA",
+     "total": 4500.0,
+     "count": 26
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

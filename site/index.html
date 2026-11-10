@@ -4,296 +4,281 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Solon Watch: Follow the Bills. Follow the Money.</title>
+<meta name="description" content="Solon Watch tracks how members of Congress vote, who funds their campaigns, and who lobbies on the bills they vote on.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=Libre+Franklin:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Overpass:wght@500;600;700;800&family=Public+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Overpass+Mono:wght@400;600&display=swap">
 <style>
-/* ---- Colors: one place to change them ---- */
+/* Layout: the original Solon page order, set along a dashed road line with green mile markers (one per section), ending at an exit sign for the waitlist. Daylight only, by choice. */
 :root{
-  --bg:#FFFFFF; --text:#333333; --head:#111111; --soft:#5F5F5F; --rule:#DDDDDD; --tint:#F4F4F2;
-  --btn:#111111; --btn-text:#FFFFFF; --focus:#B85C00;
-  --dem:#2C64A8; --rep:#BE3A2C; --dem-tint:#E9F0F8; --rep-tint:#F8EBE9;
-  --bar1:#2B2B2B; --bar2:#6B6B6B; --bar3:#A3A3A3; --bar4:#CFCFCF; --track:#EFEFEC;
-  --map-fill:#E7E7E3; --map-line:#111111; --solon:#111111; --crowd:#9A9A9A;
-  color-scheme: light;
-  box-sizing:border-box; padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+  --paper:#fbfbf8; --surface:#ffffff; --ink:#16181a; --body:#2e3236; --muted:#62676c; --line:#dcddd6; --dash:#c6c8c0;
+  --sign:#0b5a3e; --sign-deep:#08452f; --tint:#e9f0ec; --yellow:#f2c230;
+  --senate:#2a4f8f; --house:#6e4f33; --nay:#9a3324;
+  --dem:#2f5f9e; --rep:#b23a2a; --dem-tint:#e8eef6; --rep-tint:#f6e9e6;
+  --bar:#3d4246; --bar2:#8a8f93; --bar3:#c6c8c0; --track:#ecece6;
+  --display:"Overpass","Helvetica Neue",Arial,sans-serif;
+  --text:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"Overpass Mono",ui-monospace,Menlo,monospace;
+  color-scheme:light;
 }
-@media (prefers-color-scheme: dark){
-  :root:not([data-theme="light"]){
-    --bg:#161616; --text:#D6D6D6; --head:#F2F2F2; --soft:#A8A8A8; --rule:#333333; --tint:#202020;
-    --btn:#F2F2F2; --btn-text:#111111; --focus:#F0A050;
-    --dem:#7FA9DE; --rep:#E5897D; --dem-tint:#1C2633; --rep-tint:#331E1B;
-    --bar1:#EDEDED; --bar2:#B5B5B5; --bar3:#808080; --bar4:#555555; --track:#262626;
-    --map-fill:#2A2A2A; --map-line:#EDEDED; --solon:#F2F2F2; --crowd:#7A7A7A;
-    color-scheme: dark;
-  }
-}
-:root[data-theme="dark"]{
-  --bg:#161616; --text:#D6D6D6; --head:#F2F2F2; --soft:#A8A8A8; --rule:#333333; --tint:#202020;
-  --btn:#F2F2F2; --btn-text:#111111; --focus:#F0A050;
-  --dem:#7FA9DE; --rep:#E5897D; --dem-tint:#1C2633; --rep-tint:#331E1B;
-  --bar1:#EDEDED; --bar2:#B5B5B5; --bar3:#808080; --bar4:#555555; --track:#262626;
-  --map-fill:#2A2A2A; --map-line:#EDEDED; --solon:#F2F2F2; --crowd:#7A7A7A;
-  color-scheme: dark;
-}
+*{box-sizing:border-box}
+html{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+body{margin:0}
+img{max-width:100%}
+[hidden]{display:none!important}
+body{background:var(--paper);color:var(--body);font-family:var(--text);font-size:18px;line-height:1.6}
+.g{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+a{color:var(--sign-deep);text-underline-offset:3px}
+:focus-visible{outline:2px solid var(--sign);outline-offset:3px}
+h1,h2,h3{font-family:var(--display);color:var(--ink);text-wrap:balance;margin:0}
+p{margin:0 0 16px}
+.sr{position:absolute;left:-9999px}
+.mono{font-family:var(--mono)}
 
-/* ---- Base: one readable column ---- */
-html{scroll-padding-top:env(safe-area-inset-top,0px)}
-*,*::before,*::after{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--text);font-family:"Source Serif 4",Georgia,"Times New Roman",serif;font-size:20px;line-height:1.6;-webkit-font-smoothing:antialiased}
-.col{max-width:680px;margin:0 auto;padding:0 22px}
-.wide{max-width:1040px;margin:0 auto;padding:0 22px}
-h1,h2,h3{color:var(--head);font-weight:700;line-height:1.15;margin:0}
-h1{font-size:44px;letter-spacing:-0.01em;margin:0 0 22px}
-h2{font-size:30px;margin:72px 0 16px}
-p{margin:0 0 18px}
-a{color:var(--head)}
-:focus-visible{outline:3px solid var(--focus);outline-offset:2px}
-.sans{font-family:"Libre Franklin",-apple-system,"Helvetica Neue",Arial,sans-serif}
-.small{font-size:15px;line-height:1.45;color:var(--soft)}
-.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
-@media (min-width:720px){h1{font-size:58px}h2{font-size:34px}}
+/* Logo badge with eyes */
+.logo{display:inline-flex;align-items:center;background:var(--sign);color:#fff;border-radius:4px;border:1.5px solid #fff;box-shadow:0 0 0 1.5px var(--sign);padding:5px 11px 2px;font-family:var(--display);font-weight:800;font-size:19px;text-decoration:none;line-height:1.25;white-space:nowrap}
+.logo .lw{margin-left:.3em;font-weight:600}
+.eye{display:inline-block;width:.7em;height:.7em;border-radius:50%;position:relative;vertical-align:-.07em;margin:0 .035em;background:#fff}
+.eye .p{position:absolute;width:.3em;height:.3em;border-radius:50%;background:var(--ink);top:50%;left:50%;transform:translate(-50%,-50%);transition:transform .25s ease-out}
 
-/* ---- Top bar ---- */
-.top{display:flex;justify-content:space-between;align-items:center;padding-top:20px;padding-bottom:20px;border-bottom:1px solid var(--rule)}
-.word{font-weight:700;font-size:24px;color:var(--head);text-decoration:none}
-.top a.join{font-family:"Libre Franklin",-apple-system,Arial,sans-serif;font-size:15px;font-weight:600;padding:10px 0}
+.mh{background:var(--surface);border-bottom:1px solid var(--line)}
+.mh-in{max-width:1080px;margin:0 auto;display:flex;justify-content:space-between;align-items:center;gap:12px;padding-block:14px}
+.mh .jump{font-size:16px;font-weight:500;color:var(--ink)}
+.brand{display:flex;align-items:center;gap:14px}
+.motto{font-family:var(--display);font-weight:600;font-size:15px;color:var(--muted);padding-top:3px}
+@media (max-width:640px){.motto{display:none}}
+.wrap{max-width:1080px;margin:0 auto}
 
-/* ---- Hero ---- */
-.hero{padding-top:56px}
-.tag{font-family:"Libre Franklin",-apple-system,Arial,sans-serif;font-size:16px;font-weight:600;color:var(--soft);margin-bottom:14px}
+/* Hero */
+.hero{padding-block:56px 40px;max-width:820px}
+h1{font-size:clamp(38px,8vw,62px);line-height:1.03;letter-spacing:-.025em;font-weight:800;margin-bottom:20px}
+.hero p.lead{font-size:20px;max-width:56ch}
 
-/* ---- Sign-up ---- */
-.form{display:flex;flex-wrap:wrap;margin-top:8px}
-.form input{flex:1 1 240px;min-width:0;height:52px;padding:0 14px;font-size:17px;font-family:"Libre Franklin",-apple-system,Arial,sans-serif;border:1.5px solid var(--soft);border-radius:4px;background:var(--bg);color:var(--head);margin:0 10px 10px 0;-webkit-appearance:none}
-.form button{height:52px;padding:0 22px;font-size:16px;font-weight:600;font-family:"Libre Franklin",-apple-system,Arial,sans-serif;border:0;border-radius:4px;background:var(--btn);color:var(--btn-text);cursor:pointer;margin-bottom:10px}
-.err{display:none;font-family:"Libre Franklin",Arial,sans-serif;font-size:15px;color:var(--rep);margin:0 0 8px}
-.done{display:none;font-family:"Libre Franklin",Arial,sans-serif;font-size:17px;font-weight:500;padding:14px 16px;border-left:3px solid var(--head);background:var(--tint)}
-.joined .form,.joined .err,.joined .note{display:none!important}
-.joined .done{display:block}
+/* Waitlist */
+.wl{display:flex;flex-wrap:wrap;gap:10px;max-width:500px;margin-top:6px}
+.wl input{flex:1 1 220px;min-width:0;font:inherit;font-size:17px;padding:12px 13px;border:1px solid #b9bbb4;border-radius:3px;background:var(--surface);color:var(--ink)}
+.wl input:focus{border-color:var(--sign);outline:2px solid var(--tint)}
+.wl button{font:inherit;font-weight:600;font-size:17px;padding:12px 18px;border-radius:3px;border:0;background:var(--sign);color:#fff;cursor:pointer}
+.wl button:hover{background:var(--sign-deep)}
+.note{font-size:15px;color:var(--muted);margin-top:10px}
+.err{font-size:15px;color:var(--nay);margin:8px 0 0}
+.ok{font-weight:600;color:var(--sign);margin-top:10px}
 
-/* ---- Charts and figures ---- */
-figure{margin:28px 0 8px}
-figure svg{display:block;width:100%;height:auto}
-figcaption{font-family:"Libre Franklin",Arial,sans-serif;font-size:14px;color:var(--soft);margin-top:8px}
-.chart text{font-family:"Libre Franklin",Arial,sans-serif}
+/* Road and mile markers */
+.road{position:relative}
+.road::before{content:"";position:absolute;left:27px;top:8px;bottom:8px;border-left:3px dashed var(--dash)}
+.mile{display:grid;grid-template-columns:57px minmax(0,1fr);gap:26px;padding-bottom:64px;position:relative}
+.mm{align-self:start;background:var(--sign);color:#fff;border:2px solid #fff;box-shadow:0 0 0 2px var(--sign);border-radius:4px;text-align:center;font-family:var(--display);padding:7px 0 3px;position:relative}
+.mm span{display:block;font-size:11px;font-weight:600;letter-spacing:.08em}
+.mm b{display:block;font-size:30px;line-height:1.05;font-weight:800}
+.mm.x b{font-size:19px;padding:4px 0 3px}
+.mc{min-width:0}
+h2{font-size:clamp(26px,4vw,32px);font-weight:700;letter-spacing:-.01em;margin:4px 0 12px}
+.mc>p{max-width:62ch}
+@media (max-width:560px){.mile{grid-template-columns:44px minmax(0,1fr);gap:14px}.road::before{left:21px}.mm b{font-size:24px}.mm span{font-size:9px}.mm.x b{font-size:15px}}
 
-/* ---- Slideshow ---- */
-.show{margin-top:28px;border-top:3px solid var(--head)}
-.show-head{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--rule)}
-.ctrl{display:flex;align-items:center}
-.ctrl button{font-family:"Libre Franklin",Arial,sans-serif;font-size:15px;font-weight:600;min-width:44px;height:44px;padding:0 14px;border:1.5px solid var(--head);background:var(--bg);color:var(--head);border-radius:4px;cursor:pointer;margin-left:8px}
-.ctrl button:disabled{opacity:.35;cursor:default}
-.count{font-family:"Libre Franklin",Arial,sans-serif;font-size:15px;color:var(--soft)}
-.dots{display:flex;margin:4px 0}
-.dots button{width:44px;height:44px;border:0;background:none;padding:0;cursor:pointer;display:flex;align-items:center;justify-content:center}
-.dots span{display:block;width:10px;height:10px;border-radius:50%;background:var(--rule)}
-.dots button[aria-current="true"] span{background:var(--head)}
-.who{padding:26px 0 6px}
-.party{display:inline-block;font-family:"Libre Franklin",Arial,sans-serif;font-size:14px;font-weight:700;padding:3px 9px;border-radius:3px;margin-bottom:10px}
-.party.d{background:var(--dem-tint);color:var(--dem)}
-.party.r{background:var(--rep-tint);color:var(--rep)}
-.who h3{font-size:32px;margin-bottom:4px}
-.who .role{font-family:"Libre Franklin",Arial,sans-serif;font-size:16px;color:var(--soft);margin:0}
-.panels{display:grid;grid-template-columns:1fr;grid-gap:0 36px;margin-top:18px}
-@media (min-width:860px){.panels{grid-template-columns:repeat(3,minmax(0,1fr))}.panels.two{grid-template-columns:repeat(2,minmax(0,1fr))}}
-.panel{border-top:1px solid var(--rule);padding:16px 0 22px}
-.panel h4{font-family:"Libre Franklin",Arial,sans-serif;font-size:14px;font-weight:700;color:var(--head);margin:0 0 10px}
-.panel p{font-size:17px;line-height:1.5;margin:0 0 10px}
-.bill{font-family:"Libre Franklin",Arial,sans-serif;font-size:14px;color:var(--soft);margin:0 0 2px!important}
-.billname{font-weight:700;color:var(--head)}
-.cast{font-family:"Libre Franklin",Arial,sans-serif;font-size:22px;font-weight:700;color:var(--head);margin:6px 0 2px!important}
-.result{font-family:"Libre Franklin",Arial,sans-serif;font-size:15px!important;color:var(--soft)}
-.total{font-family:"Libre Franklin",Arial,sans-serif;font-size:22px;font-weight:700;color:var(--head);margin:0 0 10px!important}
-.bar{margin-bottom:9px;font-family:"Libre Franklin",Arial,sans-serif;font-size:14px}
-.bar .lbl{display:flex;justify-content:space-between;margin-bottom:3px}
-.bar .lbl span:first-child{margin-right:10px}
-.bar .lbl span:last-child{font-weight:700;color:var(--head)}
-.bar .track{height:8px;background:var(--track)}
-.bar .fill{height:8px}
-.src{font-family:"Libre Franklin",Arial,sans-serif;font-size:13px!important;color:var(--soft);margin-top:12px!important}
-.map svg{display:block;width:100%;max-width:340px;height:auto;margin-bottom:8px}
-.map text{font-family:"Libre Franklin",Arial,sans-serif;font-size:14px;font-weight:600;fill:var(--head)}
-.towns{font-family:"Libre Franklin",Arial,sans-serif;font-size:15px!important}
-.sample{font-family:"Libre Franklin",Arial,sans-serif;font-size:14px;color:var(--soft);border-top:1px solid var(--rule);padding-top:12px;margin-top:4px}
+/* Attention chart */
+.chart{margin:22px 0 0}
+.chart svg{display:block;width:100%;height:auto}
+.chart text{font-family:var(--text)}
+.cap{font-size:14px;color:var(--muted);margin-top:6px}
 
-/* ---- Steps ---- */
-ol.steps{padding-left:1.3em;margin:0}
-ol.steps li{margin-bottom:14px;padding-left:4px}
+/* Member picker */
+.members{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;max-width:560px;margin:18px 0 6px}
+.mb{font:inherit;text-align:left;display:flex;align-items:center;gap:10px;padding:10px 12px;background:var(--surface);border:1px solid #b9bbb4;border-radius:3px;color:var(--ink);cursor:pointer;min-width:0;line-height:1.25}
+.mb:hover{border-color:var(--sign)}
+.mb[aria-pressed="true"]{border-color:var(--sign);background:var(--tint);box-shadow:inset 0 0 0 1px var(--sign)}
+.mb .nm{font-weight:600;font-size:16px;min-width:0}
+.mb .nm small{display:block;font-weight:400;font-size:14px;color:var(--muted)}
+.shd{display:inline-grid;place-items:center;width:28px;height:28px;border-radius:50%;color:#fff;font-family:var(--display);font-weight:700;font-size:14px;line-height:1;padding-top:2px;flex:none}
+.shd.s{background:var(--senate)}.shd.h{background:var(--house)}
+@media (max-width:420px){.mb{padding:9px 8px;gap:8px}.mb .nm{font-size:15px}}
 
-/* ---- Final sign-up and footer ---- */
-.final{border-top:3px solid var(--head);margin-top:80px;padding-top:8px;padding-bottom:40px}
-.final h2{margin-top:28px}
-footer{border-top:1px solid var(--rule);padding:22px 0 40px;font-family:"Libre Franklin",Arial,sans-serif;font-size:14px;color:var(--soft)}
-footer .col{display:flex;flex-wrap:wrap;justify-content:space-between}
-footer span{margin:4px 0}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:4px;margin-top:14px}
+.card-head{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:10px 16px;padding:18px 20px;border-bottom:1px solid var(--line)}
+.who h3{font-size:26px;font-weight:800;letter-spacing:-.01em}
+.role{font-size:15px;color:var(--muted);margin:2px 0 0}
+.pill{display:inline-block;font-size:14px;font-weight:600;padding:2px 8px;border-radius:3px;margin-bottom:6px}
+.pill.d{background:var(--dem-tint);color:var(--dem)}.pill.r{background:var(--rep-tint);color:var(--rep)}
+.ctrl{display:flex;align-items:center;gap:8px}
+.count{font-family:var(--mono);font-size:14px;color:var(--muted);margin-right:4px}
+.ctrl button{font:inherit;font-size:15px;font-weight:600;min-height:40px;padding:0 14px;border:1px solid #b9bbb4;background:var(--surface);color:var(--ink);border-radius:3px;cursor:pointer}
+.ctrl button:hover:not(:disabled){border-color:var(--sign)}
+.ctrl button:disabled{opacity:.4;cursor:default}
+.panels{display:grid;grid-template-columns:1fr}
+@media (min-width:900px){.panels{grid-template-columns:repeat(3,minmax(0,1fr))}.panels.two{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.panel{padding:18px 20px 20px;border-top:1px solid var(--line);min-width:0}
+@media (min-width:900px){.panel{border-top:0}.panel+.panel{border-left:1px solid var(--line)}}
+.panels>.panel:first-child{border-top:0}
+.panel h4{font-family:var(--display);font-size:17px;font-weight:700;color:var(--ink);margin:0 0 10px}
+.panel p{font-size:16px;line-height:1.5;margin:0 0 10px}
+.billno{font-family:var(--mono);font-size:14px;color:var(--muted)}
+.billname{font-weight:600;color:var(--ink)}
+.cast{font-family:var(--display);font-size:26px;font-weight:800;margin:8px 0 0!important;line-height:1.1}
+.yea{color:var(--sign)}.nay{color:var(--nay)}.nv{color:var(--muted)}
+.result{font-size:15px!important;color:var(--muted)}
+.total{font-family:var(--display);font-size:26px;font-weight:800;color:var(--ink);margin:0 0 6px!important;line-height:1.1}
+.bars{font-size:15px}
+.bars .r{display:flex;justify-content:space-between;gap:10px;margin:10px 0 4px}
+.bars .r b{font-variant-numeric:tabular-nums;font-weight:600;color:var(--ink);white-space:nowrap}
+.bars .t{height:9px;background:var(--track)}
+.bars .f{height:100%;background:var(--bar);transition:width .3s ease}
+.subhead{font-family:var(--display);font-size:17px;font-weight:700;color:var(--ink);margin:22px 0 2px!important}
+.lede{font-size:15px!important;color:var(--muted)}
+.src{font-size:13px!important;line-height:1.45!important;color:var(--muted);margin-top:12px!important}
+.tblw{overflow-x:auto}
+.tbl{width:100%;border-collapse:collapse;font-size:15px;margin:2px 0 4px}
+.tbl th{text-align:left;font-weight:600;font-size:13px;color:var(--muted);padding:6px 10px 6px 0;border-bottom:1px solid var(--line)}
+.tbl td{padding:8px 10px 8px 0;border-bottom:1px solid var(--line);vertical-align:top}
+.tbl .n{text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+.tbl td.n{font-weight:600;color:var(--ink)}
+.tbl tr>*:last-child{padding-right:0}
+details.src{margin-top:12px}
+details.src summary{cursor:pointer;font-size:14px;color:var(--sign-deep);font-weight:500;list-style:none}
+details.src summary::-webkit-details-marker{display:none}
+details.src summary::before{content:"+ ";font-family:var(--mono)}
+details.src[open] summary::before{content:"\2212 "}
+details.src p{margin:8px 0 0!important}
+.sched{margin-top:30px;max-width:640px}
+.sched h3{font-size:19px;font-weight:700;margin:22px 0 2px}
+.sched .lede-s{font-size:16px;color:var(--muted);margin:0}
+.sched .cap{margin-top:6px}
+.sched ul{margin-top:8px!important}
+.sched ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line);font-size:16px}
+.sched li{display:grid;grid-template-columns:96px minmax(0,1fr) auto;gap:4px 14px;padding:9px 0;border-bottom:1px solid var(--line);align-items:baseline}
+.sched .st{font-size:14px;color:var(--muted);white-space:nowrap}.sched .st.done{color:var(--sign);font-weight:600}
+@media (max-width:520px){.sched li{grid-template-columns:minmax(0,1fr) auto}.sched li .billno{grid-column:1/-1}}
+.chart .legend{margin-top:4px}
 
-/* ---- Logo: the O's in "Solon" are eyes that look around ---- */
-.word{display:inline-flex;align-items:baseline;white-space:nowrap}
-.word .w2{margin-left:.28em}
-.eye{position:relative;display:inline-block;width:.5em;height:.5em;margin:0 .03em;border:.085em solid currentColor;border-radius:50%;box-sizing:border-box}
-.eye::after{content:"";position:absolute;width:.17em;height:.17em;left:50%;top:50%;margin:-.085em 0 0 -.085em;border-radius:50%;background:currentColor;animation:look 7s ease-in-out infinite}
-@keyframes look{
-  0%,12%{transform:translate(0,0)}
-  18%,32%{transform:translate(-.09em,0)}
-  38%,52%{transform:translate(.09em,-.04em)}
-  58%,70%{transform:translate(.09em,.05em)}
-  76%,88%{transform:translate(-.06em,-.06em)}
-  94%,100%{transform:translate(0,0)}
-}
-@media (prefers-reduced-motion: reduce){.eye::after{animation:none}}
-
-/* ---- v3 additions ---- */
-.tbl{width:100%;border-collapse:collapse;font-family:"Libre Franklin",Arial,sans-serif;font-size:14px;margin:4px 0 6px}
-.tbl th{text-align:left;font-weight:600;color:var(--soft);padding:6px 8px 6px 0;border-bottom:1px solid var(--rule)}
-.tbl td{padding:7px 8px 7px 0;border-bottom:1px solid var(--rule);vertical-align:top}
-.tbl td.n,.tbl th.n{text-align:right;padding-right:0;white-space:nowrap}
-.tbl td.n{font-weight:700;color:var(--head)}
-.subhead{font-family:"Libre Franklin",Arial,sans-serif;font-size:14px;font-weight:700;color:var(--head);margin:18px 0 8px!important}
-.lede{font-size:16px!important;color:var(--soft)}
-.toggles{display:flex;flex-wrap:wrap;margin:18px 0 8px}
-.toggles button{font-family:"Libre Franklin",Arial,sans-serif;font-size:15px;font-weight:600;min-height:44px;padding:8px 14px;border:1.5px solid var(--head);background:var(--bg);color:var(--head);border-radius:4px;cursor:pointer;margin:0 8px 8px 0}
-.toggles button[aria-pressed="true"]{background:var(--btn);color:var(--btn-text)}
-.dmap{display:grid;grid-template-columns:1fr;grid-gap:8px 40px;border-top:1px solid var(--rule);padding-top:18px}
-@media (min-width:860px){.dmap{grid-template-columns:minmax(0,1.3fr) minmax(0,1fr)}}
+/* Districts */
+.toggles{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 0}
+.toggles button{font:inherit;font-size:15px;font-weight:600;min-height:42px;padding:8px 14px;border:1px solid #b9bbb4;background:var(--surface);color:var(--ink);border-radius:3px;cursor:pointer}
+.toggles button:hover{border-color:var(--sign)}
+.toggles button[aria-pressed="true"]{border-color:var(--sign);background:var(--tint);box-shadow:inset 0 0 0 1px var(--sign)}
+.dmap{display:grid;grid-template-columns:1fr;gap:18px 32px;padding:20px}
+@media (min-width:900px){.dmap{grid-template-columns:minmax(0,1.25fr) minmax(0,1fr)}}
 .dmap svg{display:block;width:100%;height:auto}
-.dmap svg text{font-family:"Libre Franklin",Arial,sans-serif;font-size:14px;font-weight:600;fill:var(--head);paint-order:stroke;stroke:var(--bg);stroke-width:4px;stroke-linejoin:round}
-.dmap h3{font-size:26px;margin-bottom:4px}
-.dmap .meta{font-family:"Libre Franklin",Arial,sans-serif;font-size:15px;color:var(--soft);margin:0 0 14px}
-.score{font-family:"Libre Franklin",Arial,sans-serif;font-size:22px;font-weight:700;color:var(--head);margin:0 0 2px!important}
-.legend{display:flex;flex-wrap:wrap;align-items:center;font-family:"Libre Franklin",Arial,sans-serif;font-size:13px;color:var(--soft);margin:6px 0 0}
-.legend i{display:inline-block;width:28px;height:10px;margin:0 6px 0 0}
-.legend span{margin-right:16px;display:flex;align-items:center}
-.whole{font-family:"Libre Franklin",Arial,sans-serif;font-size:16px;margin:0 0 10px!important}
-.whole b{color:var(--head)}
+.dmap svg text{font-family:var(--text);font-size:14px;font-weight:600;fill:var(--ink);paint-order:stroke;stroke:var(--surface);stroke-width:4px;stroke-linejoin:round}
+.dmap h3{font-size:26px;font-weight:800}
+.meta{font-size:15px;color:var(--muted);margin:2px 0 14px!important}
+.scorebox{display:flex;align-items:center;gap:14px;margin-bottom:12px}
+.score{font-family:var(--display);font-size:34px;font-weight:800;color:var(--ink);line-height:1;padding:8px 12px 4px;border:2px solid var(--ink);border-radius:4px}
+.scorebox p{font-size:14px;color:var(--muted);margin:0;line-height:1.4}
+.whole{font-size:16px;margin:0 0 6px!important}
+.whole b{color:var(--ink)}
 .d-txt{color:var(--dem);font-weight:700}.r-txt{color:var(--rep);font-weight:700}
+.legend{display:flex;flex-wrap:wrap;gap:6px 16px;align-items:center;font-size:13px;color:var(--muted);margin-top:8px}
+.legend span{display:flex;align-items:center;gap:6px}
+.legend i{display:inline-block;width:26px;height:10px}
+
+/* Steps */
+ol.steps{list-style:none;margin:6px 0 0;padding:0;max-width:62ch;counter-reset:s}
+ol.steps li{counter-increment:s;display:grid;grid-template-columns:28px minmax(0,1fr);gap:10px;padding:12px 0;border-top:1px solid var(--line)}
+ol.steps li::before{content:counter(s);font-family:var(--mono);font-size:15px;color:var(--muted);padding-top:2px}
+
+/* Exit sign */
+.gs{width:max-content;max-width:100%;font-family:var(--display);color:#fff;margin:6px 0 18px}
+.gs-tab{margin:0 3px -2px auto;width:max-content;background:var(--sign);border:2px solid #fff;border-bottom:0;box-shadow:0 0 0 2px var(--sign);border-radius:6px 6px 0 0;font-weight:700;font-size:15px;letter-spacing:.03em;padding:5px 14px 3px;position:relative}
+.gs-body{background:var(--sign);border:2px solid #fff;box-shadow:0 0 0 2px var(--sign);border-radius:9px 0 9px 9px;padding:16px 20px 12px;display:flex;align-items:center;gap:22px}
+.gs-main{font-weight:800;font-size:clamp(24px,6vw,36px);line-height:1.05;letter-spacing:-.01em}
+.gs-sub{font-weight:600;font-size:16px;letter-spacing:.03em;margin-top:6px}
+.gs svg{flex:none;width:44px;height:44px}
+
+.mf{border-top:1px solid var(--line);margin-top:24px;background:var(--surface)}
+.mf-in{max-width:1080px;margin:0 auto;padding-block:22px;font-size:15px;color:var(--muted);display:flex;flex-wrap:wrap;gap:8px 20px;justify-content:space-between}
+@media (prefers-reduced-motion:reduce){.bars .f{transition:none}.eye .p{transition:none}}
 </style>
 </head>
 <body>
 
-<header class="col top">
-  <a class="word" href="#" aria-label="Solon Watch"><span aria-hidden="true">S<span class="eye"></span>l<span class="eye"></span>n</span><span class="w2" aria-hidden="true">Watch</span></a>
-  <a class="join" href="#join">Join the waitlist</a>
-</header>
 
-<main>
-<section class="col hero">
-  <p class="tag">Follow the Bills. Follow the Money.</p>
-  <h1>Elections end. Accountability shouldn’t.</h1>
-  <p>Most of us tune in to politics on Election Day, then tune out for two to four years. Solon Watch keeps track of what happens in between: every vote your representatives cast, who funds their campaigns, and who lives inside the lines of your district.</p>
-  <div class="signup">
-    <div class="form">
-      <label class="sr" for="email-top">Email address</label>
-      <input id="email-top" type="email" placeholder="you@example.com" autocomplete="email">
-      <button type="button">Get early access</button>
-    </div>
-    <p class="err" role="alert">That email address doesn’t look right. Check for a typo and try again.</p>
-    <p class="small note">Launching with the U.S. Senate and House. Bill alerts are free.</p>
-    <p class="done" role="status">You’re on the list. We’ll email you when Solon Watch opens.</p>
-  </div>
-</section>
+<header class="mh g"><div class="mh-in">
+  <div class="brand"><a class="logo" href="#top" aria-label="Solon Watch">S<span class="eye"><span class="p"></span></span>l<span class="eye"><span class="p"></span></span>n<span class="lw">Watch</span></a><span class="motto">Follow the Bills. Follow the Money.</span></div>
+  <a class="jump" href="#join">Join the waitlist</a>
+</div></header>
 
-<section class="col">
-  <h2>The years in between</h2>
-  <p>Bills get written and voted on, and campaigns keep raising money, long after Election Day. By the next election, most voters have lost track of what their representatives did. Solon Watch keeps that record in one place and tells you when they vote.</p>
-</section>
-<div class="wide">
-  <figure class="chart">
-    <svg viewBox="-50 0 1050 250" role="img" aria-label="Illustration with attention on the vertical axis and time on the horizontal axis. Public attention spikes at each election and drops in between, while Solon Watch stays at a steady level the whole time.">
-      <line x1="0" y1="18" x2="0" y2="200" stroke="var(--rule)" stroke-width="1.5"/>
-      <line x1="0" y1="200" x2="1000" y2="200" stroke="var(--rule)" stroke-width="1.5"/>
-      <text transform="translate(-20 110) rotate(-90)" font-size="14" fill="var(--soft)" text-anchor="middle">Attention</text>
-      <text x="1000" y="226" font-size="14" fill="var(--soft)" text-anchor="end">Time</text>
-      <path d="M0 188 L50 186 L72 160 L90 52 L108 160 L130 186 L470 188 L492 160 L510 52 L528 160 L550 186 L880 188 L902 160 L920 52 L938 160 L960 186 L1000 188" fill="none" stroke="var(--crowd)" stroke-width="2.5" stroke-linejoin="round"/>
-      <line x1="0" y1="100" x2="1000" y2="100" stroke="var(--solon)" stroke-width="3"/>
-      <g font-size="14" fill="var(--soft)" text-anchor="middle">
-        <text x="90" y="40">Election</text><text x="510" y="40">Election</text><text x="920" y="40">Election</text>
-      </g>
-      <text x="300" y="178" font-size="15" fill="var(--soft)" text-anchor="middle">Most people, between elections</text>
-      <text x="300" y="88" font-size="15" font-weight="700" fill="var(--head)" text-anchor="middle">Solon Watch</text>
-    </svg>
-    <figcaption>Illustration, not data.</figcaption>
-  </figure>
-</div>
+<main class="g" id="top"><div class="wrap">
+  <section class="hero">
+    <h1>Elections end. Accountability shouldn’t.</h1>
+    <p class="lead">Most people follow politics closely around Election Day and much less in the two to four years after it. Solon Watch keeps following for you. It records how your senators and House member vote and where their campaign money comes from, and it shows you who lives inside your district’s lines.</p>
+    <form class="wl" data-signup><label class="sr" for="email-top">Email address</label><input id="email-top" type="email" placeholder="you@example.com" autocomplete="email"><button type="submit">Get early access</button></form>
+    <p class="err" hidden>That email address doesn’t look right. Check for a typo and try again.</p>
+    <p class="ok" hidden>You’re on the list. We’ll email you when Solon Watch opens.</p>
+    <p class="note">Launching with the U.S. Senate and House. Bill alerts are free.</p>
+  </section>
 
-<section class="col">
-  <h2>Votes and money</h2>
-  <p>Four members of Congress, two from each party, the way they’ll appear in Solon Watch. Each one shows their most recent vote on a bill, and the groups that lobbied on that bill and gave to their campaign. The two senators are the top fundraisers in their parties, so their slides also break down where all of their money came from.</p>
-  <p>Solon Watch also shows bills that are coming up for a vote, so you can see what’s next before it happens. When you want your representatives to know where you stand, on a vote they just cast or one that’s coming, you can send them a message from the app in a few taps.</p>
-</section>
-<div class="wide">
-  <div class="show" id="show">
-    <div class="show-head">
-      <span class="count" id="count" aria-live="polite">1 of 4</span>
-      <div class="dots" id="dots"></div>
-      <div class="ctrl">
-        <button type="button" id="prev" aria-label="Previous member">Previous</button>
-        <button type="button" id="next" aria-label="Next member">Next</button>
+  <div class="road">
+    <section class="mile"><div class="mm" aria-hidden="true"><span>MILE</span><b>1</b></div><div class="mc">
+      <h2>The years in between</h2>
+      <p id="rollintro">Congress votes most weeks, in election years and in between. Solon Watch keeps every recorded vote, with a plain-English summary of the bill, and tells you when your representatives are about to vote again.</p>
+      <figure class="chart" style="margin-inline:0">
+        <div id="rollchart"></div>
+        <div class="legend"><span><i style="background:var(--house)"></i>House</span><span><i style="background:var(--senate)"></i>Senate</span></div>
+        <figcaption class="cap" id="rollcap"></figcaption>
+      </figure>
+    </div></section>
+
+    <section class="mile"><div class="mm" aria-hidden="true"><span>MILE</span><b>2</b></div><div class="mc">
+      <h2>Votes and money</h2>
+      <p>Here are four members of Congress, two from each party, as they’ll appear in Solon Watch. Each shows the member’s most recent vote on a bill, the groups that lobbied on that bill, and what those groups’ PACs gave the member. The two senators raised the most money in their parties this cycle, so their pages also show where all of it came from.</p>
+      <div class="members" id="members" role="group" aria-label="Choose a member of Congress"></div>
+      <div class="card" id="show">
+        <div class="card-head">
+          <div class="who" id="who"></div>
+          <div class="ctrl"><span class="count" id="count" aria-live="polite">1 of 4</span><button type="button" id="prev">Previous</button><button type="button" id="next">Next</button></div>
+        </div>
+        <div id="slide"></div>
       </div>
-    </div>
-    <div id="slide"></div>
+      <div class="sched" id="sched" hidden>
+        <p class="lede-s">Solon Watch lists bills before they reach the floor. When you want to weigh in, you can message your representatives from the app in a few taps.</p>
+        <div id="sched-house"></div>
+        <div id="sched-senate"></div>
+      </div>
+    </div></section>
+
+    <section class="mile"><div class="mm" aria-hidden="true"><span>MILE</span><b>3</b></div><div class="mc">
+      <h2>Districts</h2>
+      <p>Some districts are drawn in shapes that stretch across a state to pick up some neighborhoods and leave out others. One common way to measure that is the Polsby-Popper score, which compares a district’s area to the length of its border. A perfect circle scores 1. The lower the score, the more stretched and irregular the shape.</p>
+      <p>District lines also decide who shares your representative. Everyone inside the lines votes in the same House race, so their priorities shape who wins and what that member works on. When a district stretches across very different places, one member answers to all of them. Solon Watch shows you which communities are in your district with you.</p>
+      <p>Below are two of the least compact districts, one held by each party. Tap “See how each area voted” to compare each part of the district with the whole.</p>
+      <div class="toggles" id="dpick" role="group" aria-label="Choose a district"></div>
+      <div class="card" id="district"></div>
+    </div></section>
+
+    <section class="mile"><div class="mm" aria-hidden="true"><span>MILE</span><b>4</b></div><div class="mc">
+      <h2>How it works</h2>
+      <ol class="steps">
+        <li><span>Enter your address. Solon Watch finds your two senators, your House member and your district.</span></li>
+        <li><span>Follow them. Each vote they cast shows up with a plain-English summary of the bill, next to where their campaign money came from.</span></li>
+        <li><span>Get a free alert when a bill you care about is scheduled for a vote, and see how your representatives voted once it’s over.</span></li>
+        <li><span>Send your senators and House member a message about a bill, before or after the vote.</span></li>
+      </ol>
+    </div></section>
+
+    <section class="mile"><div class="mm" aria-hidden="true"><span>MILE</span><b>5</b></div><div class="mc">
+      <h2>Where the numbers come from</h2>
+      <p>Votes come from the official roll-call records on <a href="https://www.senate.gov/legislative/votes_new.htm">senate.gov</a> and <a href="https://clerk.house.gov/Votes">house.gov</a>. Campaign totals come from the <a href="https://www.fec.gov/data/">Federal Election Commission</a>. PAC money comes from the contribution reports PACs file with the FEC, and each PAC’s type comes from its FEC registration. Lobbying comes from the federal <a href="https://lda.gov/">lobbying disclosure database</a>, where lobbyists list the bills they worked on. Area-by-area election results are certified results from each state’s election office. Some come straight from the state, and some come through <a href="https://openelections.net/">OpenElections</a>, a free public project that collects official results from state and local election offices.</p>
+      <p>Every number in Solon Watch shows the public record it came from. Solon Watch doesn’t endorse candidates or parties.</p>
+    </div></section>
+
+    <section class="mile" style="padding-bottom:40px" id="join"><div class="mm x" aria-hidden="true"><span>EXIT</span><b>120</b></div><div class="mc">
+      <h2>Don’t wait four years to find out.</h2>
+      <div class="gs" role="img" aria-label="Freeway sign: Exit 120, 120th Congress, January 2027">
+        <div class="gs-tab">EXIT 120</div>
+        <div class="gs-body"><div><div class="gs-main">120th Congress</div><div class="gs-sub">JANUARY 2027</div></div>
+        <svg viewBox="0 0 44 44" aria-hidden="true"><path d="M10 34 L32 12 M15 10 H34 V29" stroke="#fff" stroke-width="5.5" fill="none"/></svg></div>
+      </div>
+      <p>Join the waitlist and we’ll email you when Solon Watch opens.</p>
+      <form class="wl" data-signup><label class="sr" for="email-bottom">Email address</label><input id="email-bottom" type="email" placeholder="you@example.com" autocomplete="email"><button type="submit">Join the waitlist</button></form>
+      <p class="err" hidden>That email address doesn’t look right. Check for a typo and try again.</p>
+      <p class="ok" hidden>You’re on the list. We’ll email you when Solon Watch opens.</p>
+    </div></section>
   </div>
-</div>
+</div></main>
 
-<section class="col">
-  <h2>Districts</h2>
-  <p>Some districts are drawn in shapes that stretch across a state to pick up some neighborhoods and leave out others. One common way to measure that is the Polsby-Popper score, which compares a district’s area to the length of its border. A perfect circle scores 1. The lower the score, the more stretched and irregular the shape.</p>
-  <p>It also matters who else lives in your district. Those neighbors share your representative and vote in the same House race, so their priorities help decide who wins and which issues get attention. District lines decide which communities are counted together. When a district stretches across very different places, one representative has to answer to all of them, and some voices can carry more weight than others. Solon Watch shows you who shares your district, so you can see whose votes count alongside yours.</p>
-  <p>Below are two of the least compact districts, one held by each party. Use the button to see how each part of the district voted, compared with the district as a whole.</p>
-</section>
-<div class="wide">
-  <div class="toggles" id="dpick" role="group" aria-label="Choose a district"></div>
-  <div id="district"></div>
-</div>
-
-<section class="col">
-  <h2>How it works</h2>
-  <ol class="steps">
-    <li>Enter your address. Solon Watch finds your two senators, your House member, and your district.</li>
-    <li>Follow them. Each vote they cast shows up with a plain-English summary of the bill, next to where their campaign money came from.</li>
-    <li>See which bills are coming up for a vote, and get a free alert when one you care about is scheduled. Afterward, see how your representatives voted.</li>
-    <li>Tell them what you think. Solon Watch makes it easy to contact your senators and House member about a bill, before or after the vote.</li>
-  </ol>
-
-  <h2>Where the numbers come from</h2>
-  <p>Votes come from the official roll-call records on <a href="https://www.senate.gov/legislative/votes_new.htm">senate.gov</a> and <a href="https://clerk.house.gov/Votes">house.gov</a>. Campaign totals come from the <a href="https://www.fec.gov/data/">Federal Election Commission</a>. PAC money comes from the contribution reports PACs file with the FEC, and each PAC’s type comes from its FEC registration. Lobbying comes from the federal <a href="https://lda.gov/">lobbying disclosure database</a>, where lobbyists list the bills they worked on. Area-by-area election results are certified results from each state’s election office. Some come straight from the state, and some come through <a href="https://openelections.net/">OpenElections</a>, a free public project that collects official results from state and local election offices.</p>
-  <p>Every number in Solon Watch shows the public record it came from. Solon Watch doesn’t endorse candidates or parties.</p>
-</section>
-
-<section class="col final" id="join">
-  <h2>Don’t wait four years to find out.</h2>
-  <p>Join the waitlist and we’ll email you when Solon Watch opens.</p>
-  <div class="signup">
-    <div class="form">
-      <label class="sr" for="email-bottom">Email address</label>
-      <input id="email-bottom" type="email" placeholder="you@example.com" autocomplete="email">
-      <button type="button">Join the waitlist</button>
-    </div>
-    <p class="err" role="alert">That email address doesn’t look right. Check for a typo and try again.</p>
-    <p class="done" role="status">You’re on the list. We’ll email you when Solon Watch opens.</p>
-  </div>
-</section>
-</main>
-
-<footer>
-  <div class="col">
-    <span>Solon Watch. Follow the Bills. Follow the Money.</span>
-    <span>[Contact email] · [Privacy policy]</span>
-  </div>
-</footer>
+<footer class="mf g"><div class="mf-in"><span>Solon Watch. Follow the Bills. Follow the Money.</span><span>Contact: <a href="mailto:hq@solonwatch.com">hq@solonwatch.com</a></span></div></footer>
 
 <script>
-/* =====================================================================
-   PAGE DATA
-   Every example on this page comes from the two lists below: MEMBERS
-   (the slideshow) and DISTRICTS (the maps). Replace the values with real
-   records and set sample to false on each item you fill in. Leave the
-   layout code further down alone.
-   ===================================================================== */
-
-/* MEMBERS: exactly four, in this order: Democratic senator, Republican
-   senator, Democratic representative, Republican representative.
-   The two senators must be the top fundraiser in their party for the
-   current cycle. Only senators get a "money" block. */
+/* PAGE DATA START */
 var MEMBERS = [
   {
     "sample": false,
@@ -385,6 +370,7 @@ var MEMBERS = [
           105000
         ]
       ],
+      "sectorsHeading": "PAC money by type",
       "sectorsSource": "FEC, contributions from committees to this candidate, 2025 to 2026, as reported by the committees that gave. Each committee’s type comes from its FEC registration"
     }
   },
@@ -478,6 +464,7 @@ var MEMBERS = [
           189216
         ]
       ],
+      "sectorsHeading": "PAC money by type",
       "sectorsSource": "FEC, contributions from committees to this candidate, 2025 to 2026, as reported by the committees that gave. Each committee’s type comes from its FEC registration"
     }
   },
@@ -577,12 +564,6 @@ var MEMBERS = [
   }
 ];
 
-/* DISTRICTS: exactly two. The least compact district held by a
-   Republican, then the least compact held by a Democrat.
-   Shapes are SVG coordinates inside a 480 x 360 box (x right, y down).
-   "areas" are the parts of the district (counties, towns or precincts)
-   with their results; each area's shape is clipped to the district
-   outline, so it may run past the border. d and r are vote percentages. */
 var DISTRICTS = [
   {
     "sample": false,
@@ -750,176 +731,377 @@ var DISTRICTS = [
   }
 ];
 
+var ROLLCALLS = {
+  "months": [
+    [
+      "Jan 2025",
+      27,
+      28
+    ],
+    [
+      "Feb 2025",
+      26,
+      70
+    ],
+    [
+      "Mar 2025",
+      32,
+      58
+    ],
+    [
+      "Apr 2025",
+      27,
+      71
+    ],
+    [
+      "May 2025",
+      33,
+      54
+    ],
+    [
+      "Jun 2025",
+      40,
+      72
+    ],
+    [
+      "Jul 2025",
+      33,
+      114
+    ],
+    [
+      "Aug 2025",
+      0,
+      32
+    ],
+    [
+      "Sep 2025",
+      64,
+      36
+    ],
+    [
+      "Oct 2025",
+      0,
+      66
+    ],
+    [
+      "Nov 2025",
+      23,
+      22
+    ],
+    [
+      "Dec 2025",
+      57,
+      36
+    ],
+    [
+      "Jan 2026",
+      48,
+      20
+    ],
+    [
+      "Feb 2026",
+      30,
+      23
+    ],
+    [
+      "Mar 2026",
+      30,
+      31
+    ],
+    [
+      "Apr 2026",
+      47,
+      39
+    ],
+    [
+      "May 2026",
+      36,
+      17
+    ],
+    [
+      "Jun 2026",
+      42,
+      62
+    ],
+    [
+      "Jul 2026",
+      50,
+      25
+    ],
+    [
+      "Aug 2026",
+      2,
+      14
+    ],
+    [
+      "Sep 2026",
+      29,
+      25
+    ],
+    [
+      "Oct 2026",
+      0,
+      0
+    ],
+    [
+      "Nov 2026",
+      2,
+      1
+    ]
+  ],
+  "meta": {
+    "start": "January 3, 2025",
+    "through": "November 9, 2026",
+    "total": 1594,
+    "election": {
+      "date": "November 3, 2026",
+      "month": "Nov 2026",
+      "total": 1591
+    }
+  },
+  "source": "House Clerk and Senate roll-call records"
+};
+
+var SCHEDULE = {
+  "updated": "2026-11-10",
+  "house": {
+    "week": "November 9",
+    "rows": [
+      {
+        "bill": "H.R. 3978",
+        "title": "Nuclear REFUEL Act",
+        "status": "Passed 397 to 2",
+        "roll": 315
+      },
+      {
+        "bill": "H.R. 9612",
+        "title": "American Enrichment Deployment Act",
+        "status": "Passed 394 to 3",
+        "roll": 316
+      },
+      {
+        "bill": "H.R. 5549",
+        "title": "Efficient Nuclear Licensing Hearings Act",
+        "status": "Scheduled",
+        "roll": null
+      },
+      {
+        "bill": "H.R. 9084",
+        "title": "Department of Energy Nuclear Transparency Act",
+        "status": "Scheduled",
+        "roll": null
+      }
+    ],
+    "listed": 15,
+    "source": "docs.house.gov floor schedule; results from House Clerk roll calls 315 and 316"
+  },
+  "senate": [
+    {
+      "bill": "H.R. 2347",
+      "title": "Survivor Justice Tax Prevention Act",
+      "note": "The Senate voted 73 to 25 on November 9 to end debate on the motion to proceed to the bill. More votes on it are expected.",
+      "status": "Expected"
+    }
+  ]
+};
+/* PAGE DATA END */
+
 (function () {
   function esc(s) { return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;"); }
   function money(n) {
     if (n >= 1000000) return "$" + (n / 1000000).toFixed(1) + " million";
     return "$" + String(Math.round(n)).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
   }
-  var SAMPLE_NOTE = '<p class="sample">Placeholder data. Names, bills and numbers will be replaced with official records before launch.</p>';
 
-  /* ---- Sign-up forms ---- */
-  var boxes = document.querySelectorAll(".signup");
-  var re = /^\S+@\S+\.\S+$/;
-  function joinAll() { for (var i = 0; i < boxes.length; i++) boxes[i].className += " joined"; }
-  for (var i = 0; i < boxes.length; i++) {
-    (function (box) {
-      var input = box.querySelector("input"), btn = box.querySelector("button"), err = box.querySelector(".err");
-      function submit() {
-        if (!re.test(input.value.replace(/^\s+|\s+$/g, ""))) { err.style.display = "block"; input.focus(); return; }
-        err.style.display = "none"; joinAll();
+  function SRC(t) { return '<details class="src"><summary>Sources</summary><p class="src">' + esc(t) + '</p></details>'; }
+
+  /* Roll-call chart */
+  (function () {
+    var box = document.getElementById("rollchart");
+    if (!ROLLCALLS || !ROLLCALLS.months.length) { box.parentNode.hidden = true; return; }
+    var M = ROLLCALLS.months, meta = ROLLCALLS.meta, w = 1000, ht = 230, top = 16, base = 196, g = "", peak = 0, tick;
+    M.forEach(function (m) { peak = Math.max(peak, m[1] + m[2]); });
+    var max = Math.max(40, Math.ceil(peak / 40) * 40);
+    for (tick = 0; tick <= max; tick += 40) { var y = base - tick / max * (base - top);
+      g += '<line x1="34" x2="' + w + '" y1="' + y + '" y2="' + y + '" stroke="var(--line)"/><text x="26" y="' + (y + 5) + '" text-anchor="end" font-size="14" fill="var(--muted)">' + tick + '</text>'; }
+    var step = (w - 40) / M.length, bwid = Math.max(2, step - 8), hi = M[0];
+    M.forEach(function (m, i) {
+      var x = 40 + i * step, hh = m[1] / max * (base - top), sh = m[2] / max * (base - top), last = i === M.length - 1;
+      if (m[1] + m[2] > hi[1] + hi[2]) hi = m;
+      var tip = '<title>' + m[0] + ': House ' + m[1] + ', Senate ' + m[2] + '</title>';
+      g += '<rect x="' + x + '" y="' + (base - hh) + '" width="' + bwid + '" height="' + hh + '" fill="var(--house)">' + tip + '</rect>';
+      g += '<rect x="' + x + '" y="' + (base - hh - sh) + '" width="' + bwid + '" height="' + sh + '" fill="var(--senate)">' + tip + '</rect>';
+      if (m[0].slice(0, 3) === "Jan" || last) g += '<text x="' + (last ? x + bwid : x + bwid / 2) + '" y="' + (base + 22) + '" text-anchor="' + (last ? "end" : "middle") + '" font-size="14" fill="var(--muted)">' + m[0] + '</text>';
+      if (meta.election && m[0] === meta.election.month) {
+        var cx = x + bwid / 2, right = i > M.length / 2;
+        g += '<line x1="' + cx + '" x2="' + cx + '" y1="' + (top + 4) + '" y2="' + (base - 8) + '" stroke="var(--ink)" stroke-dasharray="3 3"/><text x="' + (right ? cx - 6 : cx + 6) + '" y="' + (top + 14) + '" text-anchor="' + (right ? "end" : "start") + '" font-size="14" font-weight="600" fill="var(--ink)">Election Day</text>';
       }
-      btn.addEventListener("click", submit);
-      input.addEventListener("keydown", function (e) { if (e.key === "Enter" || e.keyCode === 13) submit(); });
-      input.addEventListener("input", function () { err.style.display = "none"; });
-    })(boxes[i]);
-  }
+    });
+    g += '<line x1="34" x2="' + w + '" y1="' + base + '" y2="' + base + '" stroke="var(--ink)"/>';
+    function n(x) { return String(x).replace(/\B(?=(\d{3})+(?!\d))/g, ","); }
+    box.innerHTML = '<svg viewBox="0 0 ' + w + ' ' + ht + '" role="img" aria-label="Bar chart of House and Senate roll-call votes per month, ' + esc(M[0][0]) + ' to ' + esc(M[M.length - 1][0]) + '. The busiest month was ' + esc(hi[0]) + ', with ' + (hi[1] + hi[2]) + ' votes.">' + g + '</svg>';
+    var intro = meta.election
+      ? "From " + meta.start + " to Election Day on " + meta.election.date + ", the House and Senate held " + n(meta.election.total) + " recorded votes."
+      : "Since " + meta.start + ", the House and Senate have held " + n(meta.total) + " recorded votes.";
+    document.getElementById("rollintro").textContent = intro + " Solon Watch keeps every one of them, with a plain-English summary of the bill, and tells you when your representatives are about to vote again.";
+    document.getElementById("rollcap").textContent = "Roll-call votes per month, " + meta.start + " through " + meta.through + ". Source: " + ROLLCALLS.source + ".";
+  })();
 
-  /* ---- Slideshow ---- */
-  var shades = ["var(--bar1)", "var(--bar2)", "var(--bar3)", "var(--bar4)"];
-  var slide = document.getElementById("slide"), count = document.getElementById("count"),
-      prev = document.getElementById("prev"), next = document.getElementById("next"), dots = document.getElementById("dots");
+  /* Floor schedule */
+  (function () {
+    var S = SCHEDULE, box = document.getElementById("sched"), any = false;
+    if (!S) return;
+    function rows(list, note) {
+      return '<ul>' + list.map(function (r) {
+        return '<li><span class="billno">' + esc(r.bill) + '</span><span>' + esc(r.title || "") + (note && r.note ? '<small class="cap" style="display:block">' + esc(r.note) + '</small>' : '') +
+          '</span><span class="st' + (/^Passed|^Failed/.test(r.status) ? " done" : "") + '">' + esc(r.status) + '</span></li>';
+      }).join("") + '</ul>';
+    }
+    if (S.house && S.house.rows.length) {
+      any = true;
+      document.getElementById("sched-house").innerHTML = '<h3>On the House schedule, week of ' + esc(S.house.week) + '</h3>' + rows(S.house.rows) +
+        '<p class="cap">' + S.house.rows.length + ' of the ' + S.house.listed + ' bills the House majority leader’s office listed for the week. Source: ' + esc(S.house.source) + '.</p>';
+    }
+    if (S.senate && S.senate.length) {
+      any = true;
+      document.getElementById("sched-senate").innerHTML = '<h3>Expected on the Senate floor</h3>' + rows(S.senate, true) +
+        '<p class="cap">The Senate doesn’t post a weekly list of bills, so these are expected, not scheduled. Source: Senate roll calls and Congress.gov bill actions.</p>';
+    }
+    box.hidden = !any;
+  })();
+
+  /* Sign-up forms */
+  var forms = document.querySelectorAll("[data-signup]"), re = /^\S+@\S+\.\S+$/;
+  forms.forEach(function (f) {
+    var input = f.querySelector("input"), err = f.nextElementSibling, ok = err.nextElementSibling;
+    f.addEventListener("submit", function (e) {
+      e.preventDefault();
+      if (!re.test(input.value.trim())) { err.hidden = false; input.focus(); return; }
+      forms.forEach(function (g) { g.hidden = true; g.nextElementSibling.hidden = true; g.nextElementSibling.nextElementSibling.hidden = false; });
+    });
+    input.addEventListener("input", function () { err.hidden = true; });
+  });
+
+  /* Members */
+  var shades = ["var(--bar)", "var(--yellow)", "var(--bar2)", "var(--bar3)"];
+  var slide = document.getElementById("slide"), who = document.getElementById("who"), count = document.getElementById("count"),
+      prev = document.getElementById("prev"), next = document.getElementById("next"), picker = document.getElementById("members");
   var at = 0;
-
   function bars(list, pct) {
-    var max = 0, h = "", i;
+    var max = 0, h = '<div class="bars">', i;
     for (i = 0; i < list.length; i++) if (list[i][1] > max) max = list[i][1];
     for (i = 0; i < list.length; i++) {
       var v = list[i][1], w = pct ? v : (max ? Math.round(v / max * 100) : 0);
-      h += '<div class="bar"><div class="lbl"><span>' + esc(list[i][0]) + '</span><span>' + (pct ? v + "%" : money(v)) + '</span></div>';
-      h += '<div class="track"><div class="fill" style="width:' + w + '%;background:' + (pct ? shades[i % 4] : "var(--bar1)") + '"></div></div></div>';
+      h += '<div class="r"><span>' + esc(list[i][0]) + '</span><b>' + (pct ? v + "%" : money(v)) + '</b></div>';
+      h += '<div class="t"><div class="f" style="width:' + w + '%;background:' + (pct ? shades[i % 4] : "var(--bar)") + '"></div></div>';
     }
-    return h;
+    return h + '</div>';
   }
-
   function render() {
     var m = MEMBERS[at], d = m.party === "Democrat", h = "";
     var last = m.name.replace(/^(Sen\.|Rep\.)\s*/, "");
-    h += '<div class="who"><span class="party ' + (d ? "d" : "r") + '">' + esc(m.party) + '</span>';
-    h += '<h3>' + esc(m.name) + '</h3><p class="role">' + esc(m.role) + '</p></div>';
+    who.innerHTML = '<span class="pill ' + (d ? "d" : "r") + '">' + esc(m.party) + '</span><h3>' + esc(m.name) + '</h3><p class="role">' + esc(m.role) + '</p>';
     h += '<div class="panels' + (m.money ? "" : " two") + '">';
-
     h += '<div class="panel"><h4>Most recent vote on a bill</h4>';
-    h += '<p class="bill">' + esc(m.vote.bill) + ', ' + esc(m.vote.date) + '</p>';
+    h += '<p class="billno">' + esc(m.vote.bill) + ' · ' + esc(m.vote.date) + '</p>';
     h += '<p><span class="billname">' + esc(m.vote.title) + '.</span> ' + esc(m.vote.summary) + '</p>';
-    h += '<p class="cast">' + esc(m.vote.cast) + '</p><p class="result">The bill ' + esc(m.vote.result.charAt(0).toLowerCase() + m.vote.result.slice(1)) + '</p>';
-    h += '<p class="src">Source: ' + esc(m.vote.source) + '</p></div>';
+    var cls = m.vote.cast === "Yea" ? "yea" : m.vote.cast === "Nay" ? "nay" : "nv";
+    h += '<p class="cast ' + cls + '">' + esc(m.vote.cast) + '</p><p class="result">The bill ' + esc(m.vote.result.charAt(0).toLowerCase() + m.vote.result.slice(1)) + '</p>';
+    h += SRC(m.vote.source) + '</div>';
 
     h += '<div class="panel"><h4>Groups that lobbied on this bill</h4>';
-    var hasLob = false;
-    for (var q = 0; q < m.lobbying.groups.length; q++) if (m.lobbying.groups[q][2] != null) hasLob = true;
-    if (hasLob) h += '<p class="lede">What each group spent on lobbying in its latest quarterly report naming this bill, across all issues, and what its PAC gave ' + esc(last) + ', ' + esc(m.lobbying.cycle) + '.</p>';
-    else h += '<p class="lede">And what each group’s PAC gave ' + esc(last) + ', ' + esc(m.lobbying.cycle) + '.</p>';
-    h += '<table class="tbl"><thead><tr><th scope="col">Group</th>' + (hasLob ? '<th scope="col" class="n" style="padding-right:14px">Lobbying</th>' : '') + '<th scope="col" class="n">PAC gave</th></tr></thead><tbody>';
-    for (var g = 0; g < m.lobbying.groups.length; g++) {
-      var G = m.lobbying.groups[g];
-      h += '<tr><td>' + esc(G[0]) + '</td>' + (hasLob ? '<td class="n" style="padding-right:14px">' + (G[2] != null ? money(G[2]) : 'Not reported') + '</td>' : '') + '<td class="n">' + money(G[1]) + '</td></tr>';
-    }
-    h += '</tbody></table><p class="src">Source: ' + esc(m.lobbying.source) + '</p></div>';
+    h += '<p class="lede">What each group spent on lobbying in its latest quarterly report naming this bill, across all issues, and what its PAC gave ' + esc(last) + ', ' + esc(m.lobbying.cycle) + '.</p>';
+    h += '<div class="tblw"><table class="tbl"><thead><tr><th scope="col">Group</th><th scope="col" class="n">Lobbying</th><th scope="col" class="n">PAC gave</th></tr></thead><tbody>';
+    m.lobbying.groups.forEach(function (G) {
+      h += '<tr><td>' + esc(G[0]) + '</td><td class="n">' + (G[2] != null ? money(G[2]) : "Not reported") + '</td><td class="n">' + money(G[1]) + '</td></tr>';
+    });
+    h += '</tbody></table></div>' + SRC(m.lobbying.source) + '</div>';
 
     if (m.money) {
       h += '<div class="panel"><h4>All campaign money, ' + esc(m.money.cycle) + '</h4>';
       h += '<p class="total">' + esc(m.money.total) + ' raised</p>';
-      h += bars(m.money.types, true);
-      h += '<p class="src">Source: ' + esc(m.money.typesSource) + '</p>';
-      h += '<p class="subhead">PAC money by type</p>' + bars(m.money.sectors, false);
-      h += '<p class="src">Source: ' + esc(m.money.sectorsSource) + '</p></div>';
+      h += bars(m.money.types, true) + SRC(m.money.typesSource);
+      h += '<p class="subhead">' + esc(m.money.sectorsHeading || "PAC money by type") + '</p>' + bars(m.money.sectors, false);
+      h += SRC(m.money.sectorsSource) + '</div>';
     }
-    h += '</div>';
-    if (m.sample) h += SAMPLE_NOTE;
-
-    slide.innerHTML = h;
+    slide.innerHTML = h + '</div>';
     count.textContent = (at + 1) + " of " + MEMBERS.length;
-    prev.disabled = at === 0;
-    next.disabled = at === MEMBERS.length - 1;
-    var ds = dots.querySelectorAll("button");
-    for (var j = 0; j < ds.length; j++) ds[j].setAttribute("aria-current", j === at ? "true" : "false");
+    prev.disabled = at === 0; next.disabled = at === MEMBERS.length - 1;
+    [].forEach.call(picker.children, function (b, j) { b.setAttribute("aria-pressed", j === at ? "true" : "false"); });
   }
-
-  for (var k = 0; k < MEMBERS.length; k++) {
-    (function (n) {
-      var b = document.createElement("button");
-      b.type = "button";
-      b.setAttribute("aria-label", "Show " + MEMBERS[n].party + " " + MEMBERS[n].chamber + " example");
-      b.innerHTML = "<span></span>";
-      b.addEventListener("click", function () { at = n; render(); });
-      dots.appendChild(b);
-    })(k);
-  }
+  MEMBERS.forEach(function (m, n) {
+    var b = document.createElement("button"), s = m.chamber === "senate";
+    b.type = "button"; b.className = "mb"; b.id = "member-" + n;
+    b.innerHTML = '<span class="shd ' + (s ? "s" : "h") + '">' + (s ? "S" : "H") + '</span><span class="nm">' + esc(m.name) +
+      '<small>' + (s ? "Senate" : "House") + ', ' + esc(m.party) + '</small></span>';
+    b.addEventListener("click", function () { at = n; render(); });
+    picker.appendChild(b);
+  });
   prev.addEventListener("click", function () { if (at > 0) { at--; render(); } });
   next.addEventListener("click", function () { if (at < MEMBERS.length - 1) { at++; render(); } });
   var sx = null;
   slide.addEventListener("touchstart", function (e) { sx = e.touches[0].clientX; }, { passive: true });
   slide.addEventListener("touchend", function (e) {
-    if (sx === null) return;
-    var dx = e.changedTouches[0].clientX - sx; sx = null;
+    if (sx === null) return; var dx = e.changedTouches[0].clientX - sx; sx = null;
     if (dx < -50 && at < MEMBERS.length - 1) { at++; render(); }
     if (dx > 50 && at > 0) { at--; render(); }
   });
   render();
 
-  /* ---- District maps ---- */
-  var dpick = document.getElementById("dpick"), dbox = document.getElementById("district");
-  var di = 0, byArea = false;
-
+  /* Districts */
+  var dpick = document.getElementById("dpick"), dbox = document.getElementById("district"), di = 0, byArea = false;
   function shade(a) {
     var m = a.d - a.r, op = Math.min(0.9, 0.2 + Math.abs(m) / 40);
     return 'fill="' + (m >= 0 ? "var(--dem)" : "var(--rep)") + '" fill-opacity="' + op.toFixed(2) + '"';
   }
-  function lead(o) {
-    var m = o.d - o.r;
-    return m >= 0 ? '<span class="d-txt">D+' + m + '</span>' : '<span class="r-txt">R+' + (-m) + '</span>';
-  }
-
+  function lead(o) { var m = o.d - o.r; return m >= 0 ? '<span class="d-txt">D+' + m + '</span>' : '<span class="r-txt">R+' + (-m) + '</span>'; }
   function renderDistrict() {
-    var D = DISTRICTS[di], cid = "clip" + di, h = "";
-    h += '<div class="dmap"><div>';
+    var D = DISTRICTS[di], cid = "clip" + di, h = '<div class="dmap"><div>';
     h += '<svg viewBox="0 0 480 360" role="img" aria-label="Map of ' + esc(D.name) + (byArea ? ", shaded by how each area voted" : "") + '.">';
     h += '<defs><clipPath id="' + cid + '"><polygon points="' + D.shape + '"/></clipPath></defs>';
     if (byArea) {
       h += '<g clip-path="url(#' + cid + ')">';
-      for (var i = 0; i < D.areas.length; i++) h += '<polygon points="' + D.areas[i].poly + '" ' + shade(D.areas[i]) + ' stroke="var(--bg)" stroke-width="2"/>';
+      D.areas.forEach(function (a) { h += '<polygon points="' + a.poly + '" ' + shade(a) + ' stroke="var(--surface)" stroke-width="2"/>'; });
       h += '</g>';
-    } else {
-      h += '<polygon points="' + D.shape + '" ' + shade(D.whole) + '/>';
-    }
-    h += '<polygon points="' + D.shape + '" fill="none" stroke="var(--map-line)" stroke-width="2.5" stroke-linejoin="round"/>';
-    if (byArea) for (var j = 0; j < D.areas.length; j++) h += '<text x="' + D.areas[j].lx + '" y="' + D.areas[j].ly + '" text-anchor="middle">' + esc(D.areas[j].name) + '</text>';
-    h += '</svg>';
-    h += '<div class="legend"><span><i style="background:var(--dem);opacity:.8"></i>Democrat ahead</span><span><i style="background:var(--rep);opacity:.8"></i>Republican ahead</span><span>Darker means a wider margin</span></div>';
-    h += '</div><div>';
-    h += '<span class="party ' + (D.party === "Democrat" ? "d" : "r") + '">' + esc(D.label) + '</span>';
+    } else h += '<polygon points="' + D.shape + '" ' + shade(D.whole) + '/>';
+    h += '<polygon points="' + D.shape + '" fill="none" stroke="var(--ink)" stroke-width="2.5" stroke-linejoin="round"/>';
+    if (byArea) D.areas.forEach(function (a) { h += '<text x="' + a.lx + '" y="' + a.ly + '" text-anchor="middle">' + esc(a.name) + '</text>'; });
+    h += '</svg><div class="legend"><span><i style="background:var(--dem);opacity:.8"></i>Democrat ahead</span><span><i style="background:var(--rep);opacity:.8"></i>Republican ahead</span><span>Darker means a wider margin</span></div></div><div>';
+    h += '<span class="pill ' + (D.party === "Democrat" ? "d" : "r") + '">' + esc(D.label) + '</span>';
     h += '<h3>' + esc(D.name) + '</h3><p class="meta">Represented by ' + esc(D.member) + '</p>';
-    h += '<p class="score">' + esc(D.score) + '</p><p class="small">Polsby-Popper score. 1 is a perfect circle.</p>';
+    h += '<div class="scorebox"><span class="score">' + esc(D.score) + '</span><p>Polsby-Popper score.<br>1 is a perfect circle.</p></div>';
     h += '<p class="whole">' + esc(D.race) + ', whole district: <b>D ' + D.whole.d + '%, R ' + D.whole.r + '%</b> (' + lead(D.whole) + ')</p>';
     h += '<div class="toggles"><button type="button" id="areaBtn" aria-pressed="' + byArea + '">' + (byArea ? "Show the whole district" : "See how each area voted") + '</button></div>';
     if (byArea) {
-      h += '<table class="tbl"><thead><tr><th scope="col">Area</th><th scope="col" class="n">D</th><th scope="col" class="n">R</th><th scope="col" class="n">Margin</th></tr></thead><tbody>';
-      for (var k = 0; k < D.areas.length; k++) {
-        var a = D.areas[k];
-        h += '<tr><td>' + esc(a.name) + '</td><td class="n">' + a.d + '%</td><td class="n">' + a.r + '%</td><td class="n">' + lead(a) + '</td></tr>';
-      }
-      h += '</tbody></table>';
+      h += '<div class="tblw" style="margin-top:12px"><table class="tbl"><thead><tr><th scope="col">Area</th><th scope="col" class="n">D</th><th scope="col" class="n">R</th><th scope="col" class="n">Margin</th></tr></thead><tbody>';
+      D.areas.forEach(function (a) { h += '<tr><td>' + esc(a.name) + '</td><td class="n">' + a.d + '%</td><td class="n">' + a.r + '%</td><td class="n">' + lead(a) + '</td></tr>'; });
+      h += '</tbody></table></div>';
     }
-    h += '<p class="src">Sources: ' + esc(D.scoreSource) + '. Results: ' + esc(D.resultsSource) + '.</p>';
-    h += '</div></div>';
-    if (D.sample) h += '<p class="sample">Placeholder district. The shape, areas and results will be replaced with official maps and certified results before launch.</p>';
+    h += SRC(D.scoreSource + '. Results: ' + D.resultsSource + '.') + '</div></div>';
     dbox.innerHTML = h;
     document.getElementById("areaBtn").addEventListener("click", function () { byArea = !byArea; renderDistrict(); document.getElementById("areaBtn").focus(); });
-    var bs = dpick.querySelectorAll("button");
-    for (var b = 0; b < bs.length; b++) bs[b].setAttribute("aria-pressed", b === di ? "true" : "false");
+    [].forEach.call(dpick.children, function (b, j) { b.setAttribute("aria-pressed", j === di ? "true" : "false"); });
   }
-
-  for (var n = 0; n < DISTRICTS.length; n++) {
-    (function (x) {
-      var b = document.createElement("button");
-      b.type = "button";
-      b.textContent = DISTRICTS[x].party === "Democrat" ? "Democratic-held" : "Republican-held";
-      b.addEventListener("click", function () { di = x; byArea = false; renderDistrict(); });
-      dpick.appendChild(b);
-    })(n);
-  }
+  DISTRICTS.forEach(function (D, x) {
+    var b = document.createElement("button");
+    b.type = "button"; b.textContent = (D.party === "Democrat" ? "Democratic-held" : "Republican-held") + ": " + D.name;
+    b.addEventListener("click", function () { di = x; byArea = false; renderDistrict(); });
+    dpick.appendChild(b);
+  });
   renderDistrict();
+
+  /* Logo eyes look toward the pointer, then wander */
+  var pupils = [].slice.call(document.querySelectorAll(".eye .p"));
+  if (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  var lastMove = 0;
+  function lookAt(x, y) { pupils.forEach(function (p) {
+    var e = p.parentNode.getBoundingClientRect(), dx = x - (e.left + e.width / 2), dy = y - (e.top + e.height / 2), d = Math.hypot(dx, dy) || 1, m = e.width * 0.2, k = Math.min(1, d / 200);
+    p.style.transform = "translate(calc(-50% + " + (dx / d * m * k) + "px), calc(-50% + " + (dy / d * m * k) + "px))"; }); }
+  window.addEventListener("pointermove", function (ev) { lastMove = Date.now(); lookAt(ev.clientX, ev.clientY); }, { passive: true });
+  document.addEventListener("focusin", function (ev) { if (ev.target.tagName === "INPUT") { var r = ev.target.getBoundingClientRect(); lastMove = Date.now() + 4000; lookAt(r.left + r.width / 2, r.top + r.height / 2); } });
+  var spots = [[-1, 0], [0, 0], [1, -.2], [0, 0], [.3, .7], [0, 0]], i = 0;
+  setInterval(function () { if (Date.now() - lastMove < 3000) return; var s = spots[i++ % spots.length];
+    pupils.forEach(function (p) { var w = p.parentNode.getBoundingClientRect().width * 0.2; p.style.transform = "translate(calc(-50% + " + (s[0] * w) + "px), calc(-50% + " + (s[1] * w) + "px))"; }); }, 2200);
 })();
 </script>
 </body>

@@ -996,8 +996,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00436386",
+  "committee_name": "FRIENDS OF JOHN BARRASSO",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 1844877.79,
+  "amounts": {
+   "individuals_200_or_less": 43589.01,
+   "individuals_over_200": 474976.06,
+   "pacs_and_parties": 427749.33,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 437409.79,
+   "other_receipts": 461153.6
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    5
+   ],
+   [
+    "Individuals giving more than $200",
+    50
+   ],
+   [
+    "PACs and party committees",
+    45
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 858793.06,
+   "home_state": "WY",
+   "home_state_total": 91875.97,
+   "home_state_share": 11,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 144596.31,
+     "count": 84
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 133392.31,
+     "count": 121
+    },
+    {
+     "state": "WY",
+     "state_full": "Wyoming",
+     "total": 91875.97,
+     "count": 305
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 65786.28,
+     "count": 49
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 53860.25,
+     "count": 36
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 48721.51,
+     "count": 146
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 34309.97,
+     "count": 48
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 23179.96,
+     "count": 23
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 22958.52,
+     "count": 56
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 22491.0,
+     "count": 35
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "APOLLO",
+     "total": 35000.0,
+     "count": 12
+    },
+    {
+     "employer": "BLACKSTONE",
+     "total": 33205.08,
+     "count": 11
+    },
+    {
+     "employer": "THE SINCLAIR COMPANIES",
+     "total": 19000.0,
+     "count": 7
+    },
+    {
+     "employer": "APOLLO GLOBAL MANAGEMENT",
+     "total": 15143.56,
+     "count": 6
+    },
+    {
+     "employer": "FIRST UROLOGY",
+     "total": 15000.0,
+     "count": 5
+    },
+    {
+     "employer": "ARNOLD VENTURES",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ALLIANTGROUP",
+     "total": 13000.0,
+     "count": 5
+    },
+    {
+     "employer": "ALLIANTGROUP, LP",
+     "total": 12000.0,
+     "count": 4
+    },
+    {
+     "employer": "NYCBS",
+     "total": 11250.0,
+     "count": 14
+    },
+    {
+     "employer": "BROWNSTEIN HYATT FARBER SCHRECK",
+     "total": 9000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

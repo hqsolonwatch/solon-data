@@ -2899,8 +2899,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00369033",
+  "committee_name": "TEXANS FOR SENATOR JOHN CORNYN INC.",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 8608609.91,
+  "amounts": {
+   "individuals_200_or_less": 223713.07,
+   "individuals_over_200": 3532479.37,
+   "pacs_and_parties": 1541731.99,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 2795036.91,
+   "other_receipts": 367053.57
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    4
+   ],
+   [
+    "Individuals giving more than $200",
+    67
+   ],
+   [
+    "PACs and party committees",
+    29
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 8992636.05,
+   "home_state": "TX",
+   "home_state_total": 5491395.62,
+   "home_state_share": 61,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 5491395.62,
+     "count": 6888
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 595451.14,
+     "count": 513
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 570823.58,
+     "count": 353
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 431628.59,
+     "count": 432
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 299949.1,
+     "count": 328
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 184489.16,
+     "count": 109
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 141058.99,
+     "count": 123
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 108403.71,
+     "count": 90
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 101286.51,
+     "count": 72
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 86481.75,
+     "count": 183
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "CHARTER BROKERAGE LLC",
+     "total": 57750.0,
+     "count": 33
+    },
+    {
+     "employer": "AT&T",
+     "total": 52315.26,
+     "count": 39
+    },
+    {
+     "employer": "BLACKSTONE",
+     "total": 38600.0,
+     "count": 15
+    },
+    {
+     "employer": "APOLLO",
+     "total": 28069.73,
+     "count": 15
+    },
+    {
+     "employer": "FIDELITY INVESTMENTS",
+     "total": 25100.0,
+     "count": 18
+    },
+    {
+     "employer": "ARCHROCK",
+     "total": 23500.0,
+     "count": 4
+    },
+    {
+     "employer": "IBC BANK",
+     "total": 22500.0,
+     "count": 24
+    },
+    {
+     "employer": "APOLLO GLOBAL MANAGEMENT",
+     "total": 20500.0,
+     "count": 9
+    },
+    {
+     "employer": "CAPITOL COUNSEL",
+     "total": 19415.42,
+     "count": 17
+    },
+    {
+     "employer": "NEUBERGER BERMAN",
+     "total": 16800.0,
+     "count": 5
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

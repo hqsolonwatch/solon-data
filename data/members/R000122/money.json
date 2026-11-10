@@ -1709,8 +1709,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00238907",
+  "committee_name": "THE REED COMMITTEE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 3727368.44,
+  "amounts": {
+   "individuals_200_or_less": 35722.51,
+   "individuals_over_200": 2240527.55,
+   "pacs_and_parties": 1326950.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 39562.81,
+   "other_receipts": 83623.44
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    1
+   ],
+   [
+    "Individuals giving more than $200",
+    62
+   ],
+   [
+    "PACs and party committees",
+    37
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 2134957.36,
+   "home_state": "RI",
+   "home_state_total": 575605.8,
+   "home_state_share": 27,
+   "top": [
+    {
+     "state": "RI",
+     "state_full": "Rhode Island",
+     "total": 575605.8,
+     "count": 920
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 275200.0,
+     "count": 141
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 203705.0,
+     "count": 155
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 203600.0,
+     "count": 101
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 113040.0,
+     "count": 42
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 108401.0,
+     "count": 95
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 95900.0,
+     "count": 76
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 93540.81,
+     "count": 103
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 76850.0,
+     "count": 31
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 65014.75,
+     "count": 36
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "EO SOLUTIONS",
+     "total": 28000.0,
+     "count": 8
+    },
+    {
+     "employer": "ANTHROPIC",
+     "total": 26500.0,
+     "count": 8
+    },
+    {
+     "employer": "OCEAN STATE INNOVATIONS",
+     "total": 23500.0,
+     "count": 12
+    },
+    {
+     "employer": "BLACKSTONE",
+     "total": 20500.0,
+     "count": 7
+    },
+    {
+     "employer": "ANTHROPIC PBC",
+     "total": 20500.0,
+     "count": 6
+    },
+    {
+     "employer": "BROWNSTEIN HYATT FARBER SCHRECK",
+     "total": 17750.0,
+     "count": 15
+    },
+    {
+     "employer": "CLIFFORD LAW OFFICES",
+     "total": 17500.0,
+     "count": 5
+    },
+    {
+     "employer": "PICERNE REAL ESTATE GROUP",
+     "total": 11500.0,
+     "count": 10
+    },
+    {
+     "employer": "CVS HEALTH",
+     "total": 10500.0,
+     "count": 8
+    },
+    {
+     "employer": "COONEY AND CONWAY",
+     "total": 10500.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

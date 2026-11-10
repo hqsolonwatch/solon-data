@@ -1855,8 +1855,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00856955",
+  "committee_name": "VINDMAN FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 16339249.68,
+  "amounts": {
+   "individuals_200_or_less": 8496622.02,
+   "individuals_over_200": 6470981.43,
+   "pacs_and_parties": 1004880.25,
+   "candidate_own": 715.67,
+   "transfers_from_authorized": 225445.27,
+   "other_receipts": 118171.2
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    53
+   ],
+   [
+    "Individuals giving more than $200",
+    41
+   ],
+   [
+    "PACs and party committees",
+    6
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 4933523.32,
+   "home_state": "VA",
+   "home_state_total": 828680.87,
+   "home_state_share": 17,
+   "top": [
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 828680.87,
+     "count": 5943
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 801537.97,
+     "count": 8255
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 535922.87,
+     "count": 3256
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 398387.39,
+     "count": 2029
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 231419.89,
+     "count": 2177
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 217551.25,
+     "count": 1458
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 183617.22,
+     "count": 1994
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 163450.27,
+     "count": 557
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 146089.38,
+     "count": 1512
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 137995.4,
+     "count": 836
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "COVINGTON & BURLING LLP",
+     "total": 12000.0,
+     "count": 8
+    },
+    {
+     "employer": "BGR GROUP",
+     "total": 10500.0,
+     "count": 13
+    },
+    {
+     "employer": "CAPITAL",
+     "total": 10300.0,
+     "count": 6
+    },
+    {
+     "employer": "BEASLEY ASSOCIATES",
+     "total": 9350.0,
+     "count": 17
+    },
+    {
+     "employer": "ARNOLD & PORTER",
+     "total": 8825.0,
+     "count": 20
+    },
+    {
+     "employer": "ANDURIL INDUSTRIES",
+     "total": 8000.0,
+     "count": 3
+    },
+    {
+     "employer": "MORIARTY UNDERHILL LLC",
+     "total": 8000.0,
+     "count": 5
+    },
+    {
+     "employer": "ERNIE'S RECYCLING INC",
+     "total": 7500.0,
+     "count": 3
+    },
+    {
+     "employer": "SIDLEY AUSTIN LLP",
+     "total": 7500.0,
+     "count": 3
+    },
+    {
+     "employer": "VARIOUS",
+     "total": 7475.0,
+     "count": 12
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

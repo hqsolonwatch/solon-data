@@ -659,8 +659,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00326801",
+  "committee_name": "TAMMY BALDWIN FOR SENATE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 3479827.95,
+  "amounts": {
+   "individuals_200_or_less": 1507579.54,
+   "individuals_over_200": 1546461.8,
+   "pacs_and_parties": 230658.4,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 25351.35,
+   "other_receipts": 3255.03
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    46
+   ],
+   [
+    "Individuals giving more than $200",
+    47
+   ],
+   [
+    "PACs and party committees",
+    7
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1213884.09,
+   "home_state": "WI",
+   "home_state_total": 734916.58,
+   "home_state_share": 61,
+   "top": [
+    {
+     "state": "WI",
+     "state_full": "Wisconsin",
+     "total": 734916.58,
+     "count": 9521
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 90788.0,
+     "count": 1657
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 51923.83,
+     "count": 548
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 43739.5,
+     "count": 370
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 39376.5,
+     "count": 143
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 21226.83,
+     "count": 357
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 19780.5,
+     "count": 350
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 18402.68,
+     "count": 295
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 18290.25,
+     "count": 243
+    },
+    {
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 16503.5,
+     "count": 336
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "MARQUIS MANAGEMENT INC",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "EPIC",
+     "total": 8794.0,
+     "count": 30
+    },
+    {
+     "employer": "UNIVERSITY OF WISCONSIN",
+     "total": 6820.0,
+     "count": 43
+    },
+    {
+     "employer": "OSHKOSH CORPORATION",
+     "total": 6500.0,
+     "count": 10
+    },
+    {
+     "employer": "ULTRATEC INC",
+     "total": 6000.0,
+     "count": 3
+    },
+    {
+     "employer": "APPLE FARM MANAGEMENT INC",
+     "total": 5609.3,
+     "count": 39
+    },
+    {
+     "employer": "URBAN LAND INTERESTS",
+     "total": 4500.0,
+     "count": 3
+    },
+    {
+     "employer": "DB3",
+     "total": 4000.0,
+     "count": 4
+    },
+    {
+     "employer": "ARNOLD VENTURES",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "BELL AMBULANCE INC.",
+     "total": 3500.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -3153,8 +3153,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00539825",
+  "committee_name": "CAPITO FOR WEST VIRGINIA",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 5449866.0,
+  "amounts": {
+   "individuals_200_or_less": 141989.0,
+   "individuals_over_200": 2745824.71,
+   "pacs_and_parties": 2109987.02,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 451989.03,
+   "other_receipts": 76.24
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    3
+   ],
+   [
+    "Individuals giving more than $200",
+    55
+   ],
+   [
+    "PACs and party committees",
+    42
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 2662672.12,
+   "home_state": "WV",
+   "home_state_total": 642571.02,
+   "home_state_share": 24,
+   "top": [
+    {
+     "state": "WV",
+     "state_full": "West Virginia",
+     "total": 642571.02,
+     "count": 468
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 246922.11,
+     "count": 230
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 227294.52,
+     "count": 165
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 208217.43,
+     "count": 309
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 175751.63,
+     "count": 200
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 132737.5,
+     "count": 65
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 131450.02,
+     "count": 250
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 84178.86,
+     "count": 71
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 84129.33,
+     "count": 86
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 81488.1,
+     "count": 72
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ANTHROPIC",
+     "total": 47000.0,
+     "count": 20
+    },
+    {
+     "employer": "ANTERO RESOURCES",
+     "total": 26500.0,
+     "count": 11
+    },
+    {
+     "employer": "BLACKSTONE",
+     "total": 25700.0,
+     "count": 10
+    },
+    {
+     "employer": "JANE STREET CAPITAL",
+     "total": 21000.0,
+     "count": 7
+    },
+    {
+     "employer": "CHARTER COMMUNICATIONS",
+     "total": 20500.0,
+     "count": 13
+    },
+    {
+     "employer": "LEIDOS",
+     "total": 17850.0,
+     "count": 26
+    },
+    {
+     "employer": "WCAS",
+     "total": 16776.37,
+     "count": 9
+    },
+    {
+     "employer": "GENERAL MOTORS",
+     "total": 15500.0,
+     "count": 10
+    },
+    {
+     "employer": "ECHOSTAR",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "NECESSITY VENTURES",
+     "total": 14000.0,
+     "count": 10
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -434,8 +434,122 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00286500",
+  "committee_name": "DOGGETT FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 471289.18,
+  "amounts": {
+   "individuals_200_or_less": 13128.34,
+   "individuals_over_200": 63345.0,
+   "pacs_and_parties": 150228.75,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 244587.09
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    6
+   ],
+   [
+    "Individuals giving more than $200",
+    28
+   ],
+   [
+    "PACs and party committees",
+    66
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 24820.0,
+   "home_state": "TX",
+   "home_state_total": 19575.0,
+   "home_state_share": 79,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 19575.0,
+     "count": 24
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 4250.0,
+     "count": 3
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 995.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "MCELROY SULLIVAN MILLER & WEBER LLP",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "MASON CONSULTING LLC",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "HEARD & SMITH L.L.P.",
+     "total": 3300.0,
+     "count": 1
+    },
+    {
+     "employer": "JACKSON WALKER LLP",
+     "total": 2500.0,
+     "count": 1
+    },
+    {
+     "employer": "RELIANCE AIRCRAFT",
+     "total": 1000.0,
+     "count": 1
+    },
+    {
+     "employer": "CAS CONSULTING & SERVICES",
+     "total": 500.0,
+     "count": 1
+    },
+    {
+     "employer": "APPLE",
+     "total": 500.0,
+     "count": 2
+    },
+    {
+     "employer": "CAPITOL TAX PARTNERS",
+     "total": 500.0,
+     "count": 1
+    },
+    {
+     "employer": "CAPITOL COUNSEL",
+     "total": 500.0,
+     "count": 1
+    },
+    {
+     "employer": "CAPITALEDGE STRATEGIES LLC",
+     "total": 250.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

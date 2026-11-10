@@ -511,8 +511,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00495358",
+  "committee_name": "KAINE FOR VIRGINIA",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 903435.97,
+  "amounts": {
+   "individuals_200_or_less": 103338.1,
+   "individuals_over_200": 350253.59,
+   "pacs_and_parties": 151504.02,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 197421.68,
+   "other_receipts": 97340.87
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    17
+   ],
+   [
+    "Individuals giving more than $200",
+    58
+   ],
+   [
+    "PACs and party committees",
+    25
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 400306.59,
+   "home_state": "VA",
+   "home_state_total": 167120.09,
+   "home_state_share": 42,
+   "top": [
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 167120.09,
+     "count": 2233
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 59545.5,
+     "count": 100
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 39903.5,
+     "count": 313
+    },
+    {
+     "state": "WY",
+     "state_full": "Wyoming",
+     "total": 25525.0,
+     "count": 38
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 24842.0,
+     "count": 111
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 17585.0,
+     "count": 137
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 13900.0,
+     "count": 17
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 10937.5,
+     "count": 26
+    },
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 8250.0,
+     "count": 3
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 3900.0,
+     "count": 74
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "WCAS",
+     "total": 33500.0,
+     "count": 16
+    },
+    {
+     "employer": "WELSH CARSON ANDERSON & STOWE",
+     "total": 7500.0,
+     "count": 4
+    },
+    {
+     "employer": "GOLDEN GATE CAPITAL LP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "COLONNA'S SHIPYARD INC.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "TTR SOTHEBY'S REALTY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "1ST FINANCIAL BANK USA",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "WCAS MGMT",
+     "total": 6000.0,
+     "count": 2
+    },
+    {
+     "employer": "COLUMBUS ROSE LTD",
+     "total": 5000.0,
+     "count": 2
+    },
+    {
+     "employer": "CELERO STRATEGIES LLC",
+     "total": 5000.0,
+     "count": 30
+    },
+    {
+     "employer": "GRANDIN TRIAL WORKS",
+     "total": 5000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

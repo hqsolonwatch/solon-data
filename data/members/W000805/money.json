@@ -3319,8 +3319,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00438713",
+  "committee_name": "FRIENDS OF MARK WARNER",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 20222105.45,
+  "amounts": {
+   "individuals_200_or_less": 3275373.24,
+   "individuals_over_200": 7137010.97,
+   "pacs_and_parties": 2480990.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 6434255.4,
+   "other_receipts": 812527.29
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    26
+   ],
+   [
+    "Individuals giving more than $200",
+    55
+   ],
+   [
+    "PACs and party committees",
+    19
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 12714684.55,
+   "home_state": "VA",
+   "home_state_total": 4493627.45,
+   "home_state_share": 35,
+   "top": [
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 4493627.45,
+     "count": 34398
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 1608655.87,
+     "count": 1368
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 1212513.22,
+     "count": 1718
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 966136.31,
+     "count": 1160
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 739512.56,
+     "count": 1140
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 511066.07,
+     "count": 822
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 485532.76,
+     "count": 772
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 399161.63,
+     "count": 663
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 317609.32,
+     "count": 341
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 310163.0,
+     "count": 356
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "CORNING, INC.",
+     "total": 69000.0,
+     "count": 32
+    },
+    {
+     "employer": "AT&T",
+     "total": 68450.0,
+     "count": 57
+    },
+    {
+     "employer": "APOLLO GLOBAL MANAGEMENT",
+     "total": 52000.0,
+     "count": 19
+    },
+    {
+     "employer": "GOLDMAN SACHS",
+     "total": 50600.0,
+     "count": 18
+    },
+    {
+     "employer": "CISCO SYSTEMS",
+     "total": 48750.0,
+     "count": 17
+    },
+    {
+     "employer": "UNITED AIRLINES",
+     "total": 44025.0,
+     "count": 47
+    },
+    {
+     "employer": "HAVELI INVESTMENTS",
+     "total": 42500.0,
+     "count": 21
+    },
+    {
+     "employer": "BLACKSTONE, INC.",
+     "total": 38300.0,
+     "count": 11
+    },
+    {
+     "employer": "GOOGLE, INC.",
+     "total": 37600.0,
+     "count": 14
+    },
+    {
+     "employer": "VISA, INC.",
+     "total": 37500.0,
+     "count": 22
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

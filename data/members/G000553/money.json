@@ -215,8 +215,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00578567",
+  "committee_name": "KEEP AL GREEN IN CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 1730400.93,
+  "amounts": {
+   "individuals_200_or_less": 316584.45,
+   "individuals_over_200": 917997.03,
+   "pacs_and_parties": 84000.0,
+   "candidate_own": 400000.0,
+   "transfers_from_authorized": 3136.76,
+   "other_receipts": 1039.46
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    19
+   ],
+   [
+    "Individuals giving more than $200",
+    53
+   ],
+   [
+    "PACs and party committees",
+    5
+   ],
+   [
+    "Candidate’s own money",
+    23
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 951752.3,
+   "home_state": "TX",
+   "home_state_total": 755177.3,
+   "home_state_share": 79,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 755177.3,
+     "count": 646
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 54285.0,
+     "count": 117
+    },
+    {
+     "state": "OK",
+     "state_full": "Oklahoma",
+     "total": 19500.0,
+     "count": 13
+    },
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 13310.0,
+     "count": 18
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 12800.0,
+     "count": 12
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 11970.0,
+     "count": 33
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 11230.0,
+     "count": 20
+    },
+    {
+     "state": "IN",
+     "state_full": "Indiana",
+     "total": 9650.0,
+     "count": 8
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 9125.0,
+     "count": 14
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 8375.0,
+     "count": 12
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "RICELAND HEALTHCARE",
+     "total": 25000.0,
+     "count": 13
+    },
+    {
+     "employer": "NAIMEH SALEM & ASSOCIATES",
+     "total": 16000.0,
+     "count": 10
+    },
+    {
+     "employer": "PYRAMIDS PHARMACY",
+     "total": 16000.0,
+     "count": 10
+    },
+    {
+     "employer": "FAROUK SYSTEMS",
+     "total": 12500.0,
+     "count": 7
+    },
+    {
+     "employer": "CHINA STAR RESTAURANT GROUP, LLC",
+     "total": 10500.0,
+     "count": 5
+    },
+    {
+     "employer": "ROCKY LAI & ASSOCIATES LTD.",
+     "total": 10500.0,
+     "count": 10
+    },
+    {
+     "employer": "HOUSTON RHEUMATOLOGY CENTER",
+     "total": 10500.0,
+     "count": 5
+    },
+    {
+     "employer": "CHARITYSTACK",
+     "total": 10500.0,
+     "count": 5
+    },
+    {
+     "employer": "MEI INC.",
+     "total": 10500.0,
+     "count": 5
+    },
+    {
+     "employer": "FOCUS MERCHANT SERVICES",
+     "total": 9500.0,
+     "count": 5
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

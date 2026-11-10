@@ -1042,8 +1042,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00559393",
+  "committee_name": "DAN NEWHOUSE FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 724105.67,
+  "amounts": {
+   "individuals_200_or_less": 10390.99,
+   "individuals_over_200": 234841.05,
+   "pacs_and_parties": 380954.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 6318.71,
+   "other_receipts": 91600.92
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    2
+   ],
+   [
+    "Individuals giving more than $200",
+    37
+   ],
+   [
+    "PACs and party committees",
+    61
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 238841.05,
+   "home_state": "WA",
+   "home_state_total": 95650.03,
+   "home_state_share": 40,
+   "top": [
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 95650.03,
+     "count": 149
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 28250.0,
+     "count": 21
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 25750.0,
+     "count": 25
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 15650.0,
+     "count": 26
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 15250.0,
+     "count": 10
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 8500.0,
+     "count": 3
+    },
+    {
+     "state": "AR",
+     "state_full": "Arkansas",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 5000.0,
+     "count": 2
+    },
+    {
+     "state": "OK",
+     "state_full": "Oklahoma",
+     "total": 4500.0,
+     "count": 3
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 4000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "CLEAN PATH ACTION FUND FOR CONSERVATIV",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MONUMENT ADVOCACY",
+     "total": 5541.02,
+     "count": 4
+    },
+    {
+     "employer": "THE BERNHARDT GROUP",
+     "total": 5500.0,
+     "count": 3
+    },
+    {
+     "employer": "N/A TRIBE",
+     "total": 4500.0,
+     "count": 3
+    },
+    {
+     "employer": "HORRIGAN FARMS, INC",
+     "total": 3660.0,
+     "count": 15
+    },
+    {
+     "employer": "ARNOLD VENTURES",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "CONSULTANT",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "STRATA PRODUCTION COMPANY",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "ICEBREAKER",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "CTC GLOBAL",
+     "total": 3500.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

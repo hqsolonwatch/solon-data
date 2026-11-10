@@ -1250,8 +1250,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00875518",
+  "committee_name": "TONY WIED FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1354324.32,
+  "amounts": {
+   "individuals_200_or_less": 119624.03,
+   "individuals_over_200": 469223.29,
+   "pacs_and_parties": 719500.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 44957.96,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    9
+   ],
+   [
+    "Individuals giving more than $200",
+    36
+   ],
+   [
+    "PACs and party committees",
+    55
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 379982.71,
+   "home_state": "WI",
+   "home_state_total": 257467.41,
+   "home_state_share": 68,
+   "top": [
+    {
+     "state": "WI",
+     "state_full": "Wisconsin",
+     "total": 257467.41,
+     "count": 314
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 18464.11,
+     "count": 79
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 14390.84,
+     "count": 65
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 14252.9,
+     "count": 186
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 13396.75,
+     "count": 15
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 10826.79,
+     "count": 154
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 9061.53,
+     "count": 10
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 6752.33,
+     "count": 68
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 6178.5,
+     "count": 16
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 5205.62,
+     "count": 24
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "ENTREPRENEUR",
+     "total": 9250.0,
+     "count": 5
+    },
+    {
+     "employer": "BGR GROUP",
+     "total": 8750.0,
+     "count": 15
+    },
+    {
+     "employer": "PLEXUS",
+     "total": 7104.1,
+     "count": 10
+    },
+    {
+     "employer": "HJ MARTIN & SON",
+     "total": 7000.0,
+     "count": 4
+    },
+    {
+     "employer": "CASH DEPOT",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "SPACEX",
+     "total": 6600.0,
+     "count": 3
+    },
+    {
+     "employer": "UFA INC",
+     "total": 5000.0,
+     "count": 3
+    },
+    {
+     "employer": "GREEN BAY PACKING INC",
+     "total": 5000.0,
+     "count": 3
+    },
+    {
+     "employer": "195 INVESTMENTS",
+     "total": 5000.0,
+     "count": 3
+    },
+    {
+     "employer": "QPS EMPLOYMENT GROUP",
+     "total": 5000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

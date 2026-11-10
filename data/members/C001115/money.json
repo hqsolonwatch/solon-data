@@ -609,8 +609,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00655332",
+  "committee_name": "CLOUD FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1219653.23,
+  "amounts": {
+   "individuals_200_or_less": 352119.86,
+   "individuals_over_200": 557751.43,
+   "pacs_and_parties": 260000.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 37918.93,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    30
+   ],
+   [
+    "Individuals giving more than $200",
+    48
+   ],
+   [
+    "PACs and party committees",
+    22
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 525357.88,
+   "home_state": "TX",
+   "home_state_total": 436415.22,
+   "home_state_share": 83,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 436415.22,
+     "count": 1383
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 18214.48,
+     "count": 94
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 13032.3,
+     "count": 409
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 10250.0,
+     "count": 14
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 9490.95,
+     "count": 184
+    },
+    {
+     "state": "OT",
+     "state_full": "Other",
+     "total": 7100.0,
+     "count": 7
+    },
+    {
+     "state": "WY",
+     "state_full": "Wyoming",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "state": "OK",
+     "state_full": "Oklahoma",
+     "total": 2974.81,
+     "count": 22
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 2056.73,
+     "count": 94
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 2017.03,
+     "count": 45
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "VICTORIA COLLEGE",
+     "total": 17976.42,
+     "count": 26
+    },
+    {
+     "employer": "MAGIC INDUSTRIES INC",
+     "total": 13200.0,
+     "count": 7
+    },
+    {
+     "employer": "MERCER CONSTRUCTION COMPANY",
+     "total": 13000.0,
+     "count": 6
+    },
+    {
+     "employer": "HHA HOSPITAL MEDICINE",
+     "total": 12000.0,
+     "count": 4
+    },
+    {
+     "employer": "BRAVO ORDNANCE",
+     "total": 8500.0,
+     "count": 3
+    },
+    {
+     "employer": "RAMIREZ ARCHITECTS",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "PORT LAVACA FORD",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "CL THOMAS INC.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "CITIZENS MEDICAL CENTER",
+     "total": 6800.0,
+     "count": 4
+    },
+    {
+     "employer": "TEXAS A&M-CORPUS CHRISTI FOUNDATION",
+     "total": 5000.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

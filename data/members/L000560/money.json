@@ -1943,8 +1943,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00345546",
+  "committee_name": "CITIZENS TO ELECT RICK LARSEN",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 2625476.25,
+  "amounts": {
+   "individuals_200_or_less": 137499.17,
+   "individuals_over_200": 908387.7,
+   "pacs_and_parties": 1536825.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 240.71
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    5
+   ],
+   [
+    "Individuals giving more than $200",
+    35
+   ],
+   [
+    "PACs and party committees",
+    60
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 720088.57,
+   "home_state": "WA",
+   "home_state_total": 474885.07,
+   "home_state_share": 66,
+   "top": [
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 474885.07,
+     "count": 1219
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 52595.0,
+     "count": 47
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 51453.0,
+     "count": 73
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 32400.0,
+     "count": 14
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 24517.75,
+     "count": 32
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 15975.0,
+     "count": 12
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 15150.0,
+     "count": 23
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 6250.0,
+     "count": 5
+    },
+    {
+     "state": "AL",
+     "state_full": "Alabama",
+     "total": 5000.0,
+     "count": 2
+    },
+    {
+     "state": "AK",
+     "state_full": "Alaska",
+     "total": 4000.0,
+     "count": 8
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "MICROSOFT",
+     "total": 9176.0,
+     "count": 10
+    },
+    {
+     "employer": "ACCELERATE STRATEGIES",
+     "total": 8500.0,
+     "count": 4
+    },
+    {
+     "employer": "SALTCHUK",
+     "total": 7000.0,
+     "count": 7
+    },
+    {
+     "employer": "CEDAR GROVE",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ARNOLD VENTURES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SSC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SEAN N. PARKER FOUNDATION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "CTC GLOBAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "AMAZON.COM, INC.",
+     "total": 6550.0,
+     "count": 9
+    },
+    {
+     "employer": "PENN AVENUE PARTNERS",
+     "total": 6500.0,
+     "count": 9
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

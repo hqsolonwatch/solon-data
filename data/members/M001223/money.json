@@ -1064,8 +1064,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00802504",
+  "committee_name": "MAGAZINER FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1612494.98,
+  "amounts": {
+   "individuals_200_or_less": 62759.26,
+   "individuals_over_200": 834883.42,
+   "pacs_and_parties": 619000.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 20120.76,
+   "other_receipts": 71120.23
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    4
+   ],
+   [
+    "Individuals giving more than $200",
+    55
+   ],
+   [
+    "PACs and party committees",
+    41
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 749176.42,
+   "home_state": "RI",
+   "home_state_total": 524270.0,
+   "home_state_share": 70,
+   "top": [
+    {
+     "state": "RI",
+     "state_full": "Rhode Island",
+     "total": 524270.0,
+     "count": 953
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 59800.0,
+     "count": 51
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 51635.0,
+     "count": 66
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 26675.0,
+     "count": 32
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 15500.0,
+     "count": 10
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 8750.0,
+     "count": 7
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 7250.0,
+     "count": 12
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 6971.42,
+     "count": 2
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 6500.0,
+     "count": 5
+    },
+    {
+     "state": "AL",
+     "state_full": "Alabama",
+     "total": 5500.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "CAPITOL CITY GROUP",
+     "total": 10500.0,
+     "count": 11
+    },
+    {
+     "employer": "ALVAREZ AND MARSAL",
+     "total": 9000.0,
+     "count": 7
+    },
+    {
+     "employer": "ANDURIL INDUSTRIES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "EVERWATCH",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "METROPOLITAN WEALTH MANAGEMENT",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BLUEWATER WIRELESS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "J. GOODISON COMPANY, INC.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MASS GENERAL HOSPITAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ARC ADVISORY SERVICES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PLANT CITY",
+     "total": 7000.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

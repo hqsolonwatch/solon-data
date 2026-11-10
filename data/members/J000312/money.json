@@ -156,8 +156,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00839100",
+  "committee_name": "JIM JUSTICE FOR U.S. SENATE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 87370.2,
+  "amounts": {
+   "individuals_200_or_less": 3159.21,
+   "individuals_over_200": 43262.54,
+   "pacs_and_parties": 38750.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 0.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    4
+   ],
+   [
+    "Individuals giving more than $200",
+    51
+   ],
+   [
+    "PACs and party committees",
+    45
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 41587.79,
+   "home_state": "WV",
+   "home_state_total": 707.5,
+   "home_state_share": 2,
+   "top": [
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 14030.0,
+     "count": 15
+    },
+    {
+     "state": "MS",
+     "state_full": "Mississippi",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 4451.5,
+     "count": 30
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 3649.0,
+     "count": 15
+    },
+    {
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 2500.0,
+     "count": 1
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 1533.5,
+     "count": 34
+    },
+    {
+     "state": "KY",
+     "state_full": "Kentucky",
+     "total": 1000.0,
+     "count": 1
+    },
+    {
+     "state": "WV",
+     "state_full": "West Virginia",
+     "total": 707.5,
+     "count": 43
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 500.0,
+     "count": 1
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 297.0,
+     "count": 5
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
+     "total": 14000.0,
+     "count": 12
+    },
+    {
+     "employer": "ERGON INC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "JACKSON FAMILY WINES",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "CARESOURCE",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "AKIN GUMP STRAUSS HAUER  FELD",
+     "total": 1000.0,
+     "count": 1
+    },
+    {
+     "employer": "ROWLAND LAND COMPANY",
+     "total": 1000.0,
+     "count": 1
+    },
+    {
+     "employer": "GRAIL",
+     "total": 500.0,
+     "count": 1
+    },
+    {
+     "employer": "WEST VIRGINIA COAL ASSOCIATION",
+     "total": 450.0,
+     "count": 18
+    },
+    {
+     "employer": "CONSULTWEBS",
+     "total": 291.0,
+     "count": 4
+    },
+    {
+     "employer": "DEPARTMENT OF DEFENSE",
+     "total": 200.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

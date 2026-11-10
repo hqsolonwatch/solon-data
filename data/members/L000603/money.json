@@ -394,8 +394,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00781112",
+  "committee_name": "TEXANS FOR MORGAN LUTTRELL",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 333240.51,
+  "amounts": {
+   "individuals_200_or_less": 88099.11,
+   "individuals_over_200": 151719.09,
+   "pacs_and_parties": 85600.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 210.74,
+   "other_receipts": 7611.57
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    27
+   ],
+   [
+    "Individuals giving more than $200",
+    47
+   ],
+   [
+    "PACs and party committees",
+    26
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 153661.09,
+   "home_state": "TX",
+   "home_state_total": 77472.64,
+   "home_state_share": 50,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 77472.64,
+     "count": 584
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 13029.19,
+     "count": 105
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 9317.95,
+     "count": 152
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 7396.83,
+     "count": 139
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 7150.0,
+     "count": 8
+    },
+    {
+     "state": "UT",
+     "state_full": "Utah",
+     "total": 5575.0,
+     "count": 5
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 4176.0,
+     "count": 13
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 3270.51,
+     "count": 6
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 2935.0,
+     "count": 39
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 2425.99,
+     "count": 160
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "LAW OFFICES OF ROBERT A KASPRZAK",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "ANDURIL INDUSTRIES INC.",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "AQUIA GROUP",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "TXAT",
+     "total": 3435.35,
+     "count": 1
+    },
+    {
+     "employer": "DIANA FOOD GROUP INC.",
+     "total": 2247.5,
+     "count": 2
+    },
+    {
+     "employer": "GULF COAST SPECIAL ASSETS",
+     "total": 2105.0,
+     "count": 14
+    },
+    {
+     "employer": "PRIVE PORTER",
+     "total": 2000.0,
+     "count": 1
+    },
+    {
+     "employer": "MOMENTOUS",
+     "total": 2000.0,
+     "count": 1
+    },
+    {
+     "employer": "THE CONAFAY GROUP",
+     "total": 1520.51,
+     "count": 3
+    },
+    {
+     "employer": "STRATEGIC PUBLIC AFFAIRS",
+     "total": 1500.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

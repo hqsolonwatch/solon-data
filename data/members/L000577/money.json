@@ -525,8 +525,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00473827",
+  "committee_name": "FRIENDS OF MIKE LEE INC",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 2530363.19,
+  "amounts": {
+   "individuals_200_or_less": 870010.39,
+   "individuals_over_200": 1235738.77,
+   "pacs_and_parties": 264974.61,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 73631.04,
+   "other_receipts": 35740.17
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    37
+   ],
+   [
+    "Individuals giving more than $200",
+    52
+   ],
+   [
+    "PACs and party committees",
+    11
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 1193699.58,
+   "home_state": "UT",
+   "home_state_total": 131550.73,
+   "home_state_share": 11,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 204915.79,
+     "count": 3251
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 152805.09,
+     "count": 3456
+    },
+    {
+     "state": "UT",
+     "state_full": "Utah",
+     "total": 131550.73,
+     "count": 3654
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 110161.34,
+     "count": 1051
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 85714.62,
+     "count": 2380
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 40710.89,
+     "count": 820
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 37127.21,
+     "count": 1093
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 28125.24,
+     "count": 492
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 27792.3,
+     "count": 649
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 25192.14,
+     "count": 738
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "QUANTUM CAPITAL GROUP",
+     "total": 21000.0,
+     "count": 9
+    },
+    {
+     "employer": "PATTERN",
+     "total": 19000.0,
+     "count": 10
+    },
+    {
+     "employer": "SASCO",
+     "total": 18230.0,
+     "count": 18
+    },
+    {
+     "employer": "CEO",
+     "total": 17500.0,
+     "count": 7
+    },
+    {
+     "employer": "ARNOLD VENTURES",
+     "total": 14000.0,
+     "count": 5
+    },
+    {
+     "employer": "NU CYBERTEK, INC.",
+     "total": 11170.51,
+     "count": 98
+    },
+    {
+     "employer": "REVENUE ENHANCEMENT GROUP",
+     "total": 10535.0,
+     "count": 5
+    },
+    {
+     "employer": "CFO",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "GOLUB CAPITAL",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "CHAIRMAN, CEO & CO-FOUNDER",
+     "total": 10500.0,
+     "count": 3
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

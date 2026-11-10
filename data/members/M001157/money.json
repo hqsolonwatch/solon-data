@@ -252,8 +252,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00392688",
+  "committee_name": "MCCAUL FOR CONGRESS, INC",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-07-30T00:00:00",
+  "receipts": 276975.57,
+  "amounts": {
+   "individuals_200_or_less": 11744.18,
+   "individuals_over_200": 32103.49,
+   "pacs_and_parties": 67300.0,
+   "candidate_own": 25800.0,
+   "transfers_from_authorized": 126499.53,
+   "other_receipts": 8000.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    9
+   ],
+   [
+    "Individuals giving more than $200",
+    23
+   ],
+   [
+    "PACs and party committees",
+    49
+   ],
+   [
+    "Candidate’s own money",
+    19
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 153203.49,
+   "home_state": "TX",
+   "home_state_total": 140932.94,
+   "home_state_share": 92,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 140932.94,
+     "count": 117
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 4393.72,
+     "count": 23
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 2739.9,
+     "count": 54
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 1140.0,
+     "count": 24
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 1104.1,
+     "count": 3
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 710.0,
+     "count": 3
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 472.5,
+     "count": 19
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 300.12,
+     "count": 27
+    },
+    {
+     "state": "WY",
+     "state_full": "Wyoming",
+     "total": 297.0,
+     "count": 6
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 230.43,
+     "count": 9
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "BEAL BANK",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MISCHER INVESTMENTS LP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ILAN INVESTMENTS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "HERITAGE TITLE COMPANY OF AUSTIN INC.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "C.C. CARLTON INDUSTRIES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ASTIN EXECUTIVE SERVICES",
+     "total": 5000.0,
+     "count": 2
+    },
+    {
+     "employer": "TRAMMELL CROW RESIDENTIAL",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "LEVCOR",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "JOHN L WORTHAM & SON - RETIRED",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "BESSEMER VENTURE PARTNERS",
+     "total": 3500.0,
+     "count": 1
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -34,8 +34,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00411330",
+  "committee_name": "FRIENDS OF BERNIE SANDERS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 26476152.82,
+  "amounts": {
+   "individuals_200_or_less": 17676279.44,
+   "individuals_over_200": 7406098.62,
+   "pacs_and_parties": 27.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 0.0,
+   "other_receipts": 1294206.32
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    70
+   ],
+   [
+    "Individuals giving more than $200",
+    30
+   ],
+   [
+    "PACs and party committees",
+    0
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 6505715.83,
+   "home_state": "VT",
+   "home_state_total": 200507.69,
+   "home_state_share": 3,
+   "top": [
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 1497285.08,
+     "count": 26271
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 524162.77,
+     "count": 10068
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 466284.06,
+     "count": 7356
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 398510.23,
+     "count": 7887
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 230820.55,
+     "count": 3642
+    },
+    {
+     "state": "OR",
+     "state_full": "Oregon",
+     "total": 214768.95,
+     "count": 4297
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 203156.07,
+     "count": 3809
+    },
+    {
+     "state": "VT",
+     "state_full": "Vermont",
+     "total": 200507.69,
+     "count": 4286
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 193572.71,
+     "count": 4126
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 183625.1,
+     "count": 3384
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "GOOGLE",
+     "total": 18227.25,
+     "count": 240
+    },
+    {
+     "employer": "AMAZON",
+     "total": 9779.8,
+     "count": 123
+    },
+    {
+     "employer": "MICROSOFT",
+     "total": 8920.0,
+     "count": 97
+    },
+    {
+     "employer": "KAISER PERMANENTE",
+     "total": 8724.0,
+     "count": 122
+    },
+    {
+     "employer": "USERNODE LABS AG",
+     "total": 7500.0,
+     "count": 3
+    },
+    {
+     "employer": "META",
+     "total": 7349.0,
+     "count": 61
+    },
+    {
+     "employer": "DARTMOUTH HITCHCOCK",
+     "total": 7160.0,
+     "count": 24
+    },
+    {
+     "employer": "NVIDIA CORPORATION",
+     "total": 7000.0,
+     "count": 6
+    },
+    {
+     "employer": "KNOX EQUITY LLC",
+     "total": 7000.0,
+     "count": 8
+    },
+    {
+     "employer": "NVIDIA",
+     "total": 6164.0,
+     "count": 24
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

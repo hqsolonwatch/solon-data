@@ -1472,8 +1472,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00786657",
+  "committee_name": "FRY FOR CONGRESS",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1985244.19,
+  "amounts": {
+   "individuals_200_or_less": 95837.9,
+   "individuals_over_200": 762957.78,
+   "pacs_and_parties": 857413.82,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 258941.62,
+   "other_receipts": 10040.38
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    6
+   ],
+   [
+    "Individuals giving more than $200",
+    44
+   ],
+   [
+    "PACs and party committees",
+    50
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 918796.9,
+   "home_state": "SC",
+   "home_state_total": 590524.18,
+   "home_state_share": 64,
+   "top": [
+    {
+     "state": "SC",
+     "state_full": "South Carolina",
+     "total": 590524.18,
+     "count": 388
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 62265.61,
+     "count": 99
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 51398.05,
+     "count": 64
+    },
+    {
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 42311.52,
+     "count": 21
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 35605.76,
+     "count": 46
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 25504.68,
+     "count": 62
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 22850.72,
+     "count": 26
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 17760.25,
+     "count": 15
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 10565.36,
+     "count": 14
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 8011.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "SOUTHERN CROWN PARTNERS",
+     "total": 36643.57,
+     "count": 19
+    },
+    {
+     "employer": "SILVER COMPANIES",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "THORN RUN PARTNERS",
+     "total": 11325.0,
+     "count": 8
+    },
+    {
+     "employer": "MCLEOD HEALTH",
+     "total": 8270.51,
+     "count": 6
+    },
+    {
+     "employer": "LAW OFFICE OF GEM MCDOWELL PA",
+     "total": 8000.0,
+     "count": 3
+    },
+    {
+     "employer": "CAROLINA BLOCK",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "DEBORAH B. SILVER ENTERTAINMENT",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "CHARLES INGRAM LUMBER",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SOUTH CAROLINA OFFICE OF APPELLATE DEF",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MARLBORO ELECTRIC COOPERATIVE.",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

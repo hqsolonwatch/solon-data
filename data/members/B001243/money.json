@@ -350,8 +350,164 @@
   "spenders": [],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00376939",
+  "committee_name": "MARSHA FOR SENATE",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-09-30T00:00:00",
+  "receipts": 3215323.74,
+  "amounts": {
+   "individuals_200_or_less": 64768.47,
+   "individuals_over_200": 189930.93,
+   "pacs_and_parties": 132500.0,
+   "candidate_own": 0.0,
+   "transfers_from_authorized": 2097849.94,
+   "other_receipts": 193157.64
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    17
+   ],
+   [
+    "Individuals giving more than $200",
+    49
+   ],
+   [
+    "PACs and party committees",
+    34
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 5403669.25,
+   "home_state": "TN",
+   "home_state_total": 542032.4,
+   "home_state_share": 10,
+   "top": [
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 599450.19,
+     "count": 33359
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 542032.4,
+     "count": 15267
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 537559.2,
+     "count": 26760
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 526276.12,
+     "count": 26816
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 185661.5,
+     "count": 8065
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 173640.27,
+     "count": 10618
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 168659.99,
+     "count": 10704
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 153970.38,
+     "count": 8774
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 139717.25,
+     "count": 6466
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 139695.76,
+     "count": 7420
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "BLUFF POINT ASSOC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "1ST FINANCIAL BANK USA",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "HAMILTON POINT INVESTMENTS LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BROYDRICK AND ASSOCIATES",
+     "total": 7000.0,
+     "count": 10
+    },
+    {
+     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "PRESCOTT INVESTORS INC.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SANDERSON FARMS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "FOUNDERS FUND",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SOUTHWESTERN COMPANY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "CASTLE HARLAN INC",
+     "total": 7000.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

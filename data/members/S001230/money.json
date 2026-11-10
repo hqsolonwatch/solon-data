@@ -813,8 +813,164 @@
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
- "detail": null,
- "detail_fetched_ts": 0,
+ "detail": {
+  "committee_id": "C00856963",
+  "committee_name": "SUHAS FOR VIRGINIA",
+  "coverage_start": "2025-01-01T00:00:00",
+  "coverage_end": "2026-10-14T00:00:00",
+  "receipts": 1707804.06,
+  "amounts": {
+   "individuals_200_or_less": 123103.1,
+   "individuals_over_200": 1067063.66,
+   "pacs_and_parties": 447486.0,
+   "candidate_own": 2170.56,
+   "transfers_from_authorized": 53913.32,
+   "other_receipts": 9550.0
+  },
+  "types": [
+   [
+    "Individuals giving $200 or less",
+    8
+   ],
+   [
+    "Individuals giving more than $200",
+    65
+   ],
+   [
+    "PACs and party committees",
+    27
+   ],
+   [
+    "Candidate’s own money",
+    0
+   ]
+  ],
+  "donor_states": {
+   "itemized_total": 751262.27,
+   "home_state": "VA",
+   "home_state_total": 442721.22,
+   "home_state_share": 59,
+   "top": [
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 442721.22,
+     "count": 856
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 70469.72,
+     "count": 62
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 44283.33,
+     "count": 36
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 39852.0,
+     "count": 38
+    },
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 30650.0,
+     "count": 23
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 29685.0,
+     "count": 35
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 22050.0,
+     "count": 24
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 13050.0,
+     "count": 11
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 12750.0,
+     "count": 7
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 8500.0,
+     "count": 4
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), by the donor's state."
+  },
+  "donor_employers": {
+   "top": [
+    {
+     "employer": "AERONAUTICAL SYSTEMS INC.",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ST SHARED SERVICES LLC",
+     "total": 9854.18,
+     "count": 3
+    },
+    {
+     "employer": "GOOGLE",
+     "total": 7500.0,
+     "count": 3
+    },
+    {
+     "employer": "ACP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SUBRAMANYAM AND SUBRAMANYAM MDS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "GENWORTH FINANCIAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "GURPREET SINGH",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "STAR PIPE PRODUCTS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "WHITE STAR MANAGEMENT",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ELECTRA.AERO",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
+   "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
+  }
+ },
+ "detail_fetched_ts": 1794347613.1635404,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
