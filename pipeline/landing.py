@@ -11,7 +11,7 @@ from pathlib import Path
 
 from shapely.geometry import Polygon
 
-from . import results
+from . import bills, results
 from .core import LAWMAKING_TYPES, ROOT, read_json
 from .districts import place_labels
 
@@ -70,6 +70,7 @@ def vote_block(cfg, row):
                      ("-".join(row["vote_id"].split("-")[1:]) + ".json"))
     b = read_json(Path(cfg["output_dir"]) / "bills" / f'{row["bill"]["id"]}.json') or {}
     t = vote["totals"]
+    short = bills.short_summary(b)
     passed = bool(re.search(r"pass|agreed", vote["result"] or "", re.I))
     if vote["chamber"] == "senate":
         src = f'senate.gov, roll call vote {vote["number"]}, {ordinal(vote["congress"])} Congress, session {vote["session"]}'
@@ -78,12 +79,12 @@ def vote_block(cfg, row):
     return {
         "bill": row["bill"]["label"],
         "title": b.get("short_title") or b.get("title") or "[Bill title]",
-        "summary": b.get("summary_short") or "[One plain-English sentence on what the bill does.]",
+        "summary": short or "[One plain-English sentence on what the bill does.]",
         "cast": row["vote"],
         "result": f'{"Passed" if passed else "Failed"} {t["yea"]} to {t["nay"]}',
         "date": long_date(vote["date"]),
         "source": src,
-    }, bool(b.get("summary_short"))
+    }, bool(short)
 
 
 def lobbying_block(cfg, bill_id, money):
@@ -196,6 +197,7 @@ def district_entry(cfg, http, code):
         return None
     idx = {r["code"]: r for r in (read_json(Path(cfg["output_dir"]) / "districts" / "index.json") or {}).get("districts", [])}
     r = idx.get(code, {})
+    idx_count = sum(1 for x in idx.values() if x.get("rank_least_compact"))
     party = (d["member"] or {}).get("party", "")
     res = results.district_results(http, cfg, code, d["svg"]["counties"])
     svg_by_fips = {c["fips"]: c for c in d["svg"]["counties"]}
@@ -211,9 +213,11 @@ def district_entry(cfg, http, code):
         place_labels(areas, Polygon(ring).buffer(0))
     rank_txt = ""
     if r.get("rank_least_compact"):
-        rank_txt = (f". It ranks {r['rank_least_compact']} of the districts in states with more than one seat "
-                    f"(1 is the least compact), and {r.get('rank_least_compact_in_party')} among districts held by a "
-                    f"{party}")
+        n = idx_count
+        def place(k):
+            return "the least compact" if k == 1 else f"the {ordinal(k)} least compact"
+        rank_txt = (f". It is {place(r['rank_least_compact'])} of the {n} districts in states with more than one "
+                    f"seat, and {place(r.get('rank_least_compact_in_party') or 0)} held by a {party}")
     st, num = code.split("-")
     return {
         "sample": not bool(res and areas),

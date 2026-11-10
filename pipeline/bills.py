@@ -24,12 +24,32 @@ def strip_html(s):
     return re.sub(r"\s+", " ", html.unescape(s)).strip()
 
 
+BOILERPLATE = re.compile(r"^The following analysis is based on draft bill text.*?as introduced\.\s*", re.I | re.S)
+OPENING = re.compile(r"\bThis (bill|act|joint resolution|concurrent resolution|resolution|measure) ", re.I)
+
+
 def first_sentence(text, limit=320):
+    """One plain sentence from a CRS summary: skips the draft-text notice and the repeated bill title."""
+    text = BOILERPLATE.sub("", text or "").strip()
+    m = OPENING.search(text[:400])
+    if m:
+        text = text[m.end():]
+        text = text[:1].upper() + text[1:]
     m = re.search(r"^(.{40,}?[.;])(\s|$)", text)
     s = m.group(1) if m else text
+    if s.endswith(";"):
+        s = s[:-1] + "."
     if len(s) > limit:
         s = s[:limit].rsplit(" ", 1)[0] + "…"
     return s
+
+
+def short_summary(b):
+    """The one-sentence summary to show for a saved bill file (hand-written override first)."""
+    o = overrides().get(b.get("id"))
+    if o:
+        return o
+    return first_sentence(b["summary"]) if b.get("summary") else None
 
 
 def overrides():
@@ -94,8 +114,14 @@ def update(cfg, http, wanted, refresh_days=3, first=()):
     for congress, btype, number in first + [b for b in sorted(set(wanted)) if b not in first]:
         path = out_path(cfg, "bills", f"{bill_id(congress, btype, number)}.json")
         old = read_json(path)
-        if old and (today - Path(path).stat().st_mtime) < refresh_days * 86400:
-            continue
+        if old:
+            # Bills still moving are refreshed every few days; settled ones about once a month.
+            last = ((old.get("latest_action") or {}).get("actionDate") or "")
+            recent = last >= time.strftime("%Y-%m-%d", time.gmtime(today - 45 * 86400))
+            active = (not old.get("summary")) or (recent and not old.get("became_law"))
+            # Age comes from the date saved in the file. File times are reset on every GitHub checkout.
+            if old.get("fetched", "") > time.strftime("%Y-%m-%d", time.gmtime(today - (refresh_days if active else 30) * 86400)):
+                continue
         try:
             b = fetch_bill(http, key, congress, btype, number)
         except Budget:

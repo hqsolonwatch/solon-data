@@ -215,6 +215,12 @@ def update(cfg, http, members, local=None):
     local = local or {}
     weball = load_weball(http, cfg, local.get("weball"))
     cmte = load_committees(http, cfg, local.get("cm")) if (local.get("cm") or not local) else {}
+    if cmte:
+        write_json(out_path(cfg, "pacs.json"), {
+            "source": "FEC committee file (cm)", "note": "PACs and the organizations they are connected to.",
+            "pacs": [{"id": k, "name": c["CMTE_NM"], "connected_org": c["CONNECTED_ORG_NM"] or None,
+                      "org_type": c["ORG_TP"] or None, "type": c["CMTE_TP"], "designation": c["CMTE_DSGN"]}
+                     for k, c in sorted(cmte.items()) if c.get("CMTE_TP") in ("Q", "N", "O", "V", "W")]})
     cand_of = {m["bioguide"]: pick_candidate_id(m, weball) for m in members}
     pacs, outside = load_pac_contributions(http, cfg, [c for c in cand_of.values() if c], local.get("pas2"))
 
