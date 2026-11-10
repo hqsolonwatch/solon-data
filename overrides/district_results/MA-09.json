@@ -1,0 +1,85 @@
+{
+ "election": "20241105",
+ "level": "county",
+ "whole": {
+  "d": 56,
+  "r": 43,
+  "votes": {
+   "D": 251931,
+   "R": 193822,
+   "O": 642
+  }
+ },
+ "areas": [
+  {
+   "name": "Barnstable County",
+   "fips": "25001",
+   "d": 61,
+   "r": 39,
+   "votes": {
+    "D": 88440,
+    "R": 56911,
+    "O": 98
+   }
+  },
+  {
+   "name": "Plymouth County (part)",
+   "fips": "25023",
+   "d": 52,
+   "r": 48,
+   "votes": {
+    "D": 103347,
+    "R": 94303,
+    "O": 259
+   }
+  },
+  {
+   "name": "Bristol County (part)",
+   "fips": "25005",
+   "d": 55,
+   "r": 45,
+   "votes": {
+    "D": 43242,
+    "R": 35573,
+    "O": 269
+   }
+  },
+  {
+   "name": "Dukes County",
+   "fips": "25007",
+   "d": 76,
+   "r": 24,
+   "votes": {
+    "D": 9047,
+    "R": 2795,
+    "O": 8
+   }
+  },
+  {
+   "name": "Nantucket County",
+   "fips": "25019",
+   "d": 68,
+   "r": 32,
+   "votes": {
+    "D": 4698,
+    "R": 2181,
+    "O": 5
+   }
+  },
+  {
+   "name": "Norfolk County (part)",
+   "fips": "25021",
+   "d": 60,
+   "r": 39,
+   "votes": {
+    "D": 3157,
+    "R": 2059,
+    "O": 3
+   }
+  }
+ ],
+ "source": "Massachusetts Secretary of the Commonwealth (electionstats.state.ma.us), certified 2024 results by city and town, added up by county. Percentages are of votes cast for candidates, including write-ins",
+ "source_files": [
+  "https://electionstats.state.ma.us/elections/view/165316/"
+ ]
+}

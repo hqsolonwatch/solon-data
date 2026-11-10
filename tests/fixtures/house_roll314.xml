@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rollcall-vote>
+<vote-metadata>
+<majority>R</majority>
+<congress>119</congress>
+<session>2nd</session>
+<chamber>U.S. House of Representatives</chamber>
+<rollcall-num>314</rollcall-num>
+<legis-num>S 2403</legis-num>
+<vote-question>On Motion to Suspend the Rules and Pass</vote-question>
+<vote-type>2/3 YEA-AND-NAY</vote-type>
+<vote-result>Passed</vote-result>
+<action-date>16-Sep-2026</action-date>
+<action-time time-etz="19:05">7:05 PM</action-time>
+<vote-desc>Retire through Ownership Act</vote-desc>
+<vote-totals>
+<totals-by-party-header><party-header>Party</party-header><yea-header>Yeas</yea-header><nay-header>Nays</nay-header><present-header>Answered “Present”</present-header><not-voting-header>Not Voting</not-voting-header></totals-by-party-header>
+<totals-by-party><party>Republican</party><yea-total>191</yea-total><nay-total>14</nay-total><present-total>0</present-total><not-voting-total>13</not-voting-total></totals-by-party>
+<totals-by-party><party>Democratic</party><yea-total>209</yea-total><nay-total>0</nay-total><present-total>0</present-total><not-voting-total>5</not-voting-total></totals-by-party>
+<totals-by-party><party>Independent</party><yea-total>1</yea-total><nay-total>0</nay-total><present-total>0</present-total><not-voting-total>0</not-voting-total></totals-by-party>
+<totals-by-vote><total-stub>Totals</total-stub><yea-total>401</yea-total><nay-total>14</nay-total><present-total>0</present-total><not-voting-total>18</not-voting-total></totals-by-vote>
+</vote-totals>
+</vote-metadata>
+<vote-data>
+<recorded-vote><legislator name-id="C001101" sort-field="Clark (MA)" unaccented-name="Clark (MA)" party="D" state="MA" role="legislator">Clark (MA)</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="E000294" sort-field="Emmer" unaccented-name="Emmer" party="R" state="MN" role="legislator">Emmer</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="R000614" sort-field="Roy" unaccented-name="Roy" party="R" state="TX" role="legislator">Roy</legislator><vote>Nay</vote></recorded-vote>
+<recorded-vote><legislator name-id="S001176" sort-field="Scalise" unaccented-name="Scalise" party="R" state="LA" role="legislator">Scalise</legislator><vote>Yea</vote></recorded-vote>
+<recorded-vote><legislator name-id="K000375" sort-field="Keating" unaccented-name="Keating" party="D" state="MA" role="legislator">Keating</legislator><vote>Yea</vote></recorded-vote>
+</vote-data>
+</rollcall-vote>

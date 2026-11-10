@@ -1,0 +1,12 @@
+# Lobbying client name -> FEC PAC committee IDs, for groups the automatic name match misses
+# or gets wrong. Use [] or none for a group with no federal PAC. Checked by hand on fec.gov.
+"AMAZON.COM SERVICES LLC": [C00360354]
+"NATIONAL ASSOCIATION OF BROADCASTERS": [C00009985]
+"CHARTER COMMUNICATIONS INC": [C00426775]
+"Entertainment Software Association": [C00439216]
+"AMERICAN FEDERATION OF STATE COUNTY AND MUNICIPAL EMPLOYEES": [C00011114]
+"American Federation of State, County and Municipal Employees": [C00011114]
+"AFL-CIO": [C00003806]
+"AMERICAN BENEFITS COUNCIL": [C00153171]
+"PRINCIPAL FINANCIAL GROUP": [C00128918]
+"JPMorgan Chase Holdings LLC": [C00104299, C00128512]

@@ -1,0 +1,49 @@
+# Solon Watch data pipeline settings.
+# Change values here instead of editing the code.
+
+congress: 119            # Congress in session now. Change to 120 on January 3, 2027.
+election_cycle: 2026     # FEC two-year period (2025-2026). Change to 2028 in January 2027.
+house_years: [2025, 2026]  # Calendar years of House roll calls to keep.
+
+# Where finished files are written. GitHub Pages publishes this folder.
+output_dir: data
+
+# --- Campaign money (FEC) ---
+fec:
+  # The FEC allows about 1,000 requests an hour per key. Each run stops
+  # before this many requests so it never hits the limit.
+  max_api_requests_per_run: 850
+  # Re-download a member's money data when it is older than this many days.
+  refresh_days: 7
+  # How many top donor states and employers to keep per member.
+  top_n: 10
+
+# --- Lobbying (lda.gov) ---
+lobbying:
+  # Most lobbying groups to show for each bill.
+  groups_per_bill: 5
+  # Count lobbying reports from these filing years.
+  filing_years: [2025, 2026]
+
+# --- Districts (U.S. Census Bureau) ---
+districts:
+  # Census cartographic boundary files (1:500,000).
+  boundary_year: 2025
+  district_file: "https://www2.census.gov/geo/tiger/GENZ{year}/shp/cb_{year}_us_cd{congress}_500k.zip"
+  county_file: "https://www2.census.gov/geo/tiger/GENZ{year}/shp/cb_{year}_us_county_500k.zip"
+  # Election used for area-by-area results.
+  results_election_date: "20241105"
+
+# --- Landing page examples (Solon Watch pre-launch page) ---
+landing:
+  # House members to feature, by Bioguide ID. Clark (D-MA) and Emmer (R-MN).
+  house_members: [C001101, E000294]
+  # Districts to feature. "auto" picks the least compact district held by
+  # each party. Or list districts, for example ["LA-01", "MA-09"].
+  districts: ["LA-01", "MA-09"]
+  # What fills the second money list on senator slides:
+  #   pac_types  PAC money by type: corporate, trade association, labor, and so on
+  #   outside    the biggest outside spenders (super PACs) supporting or opposing the senator
+  #   states     where individual donors live
+  #   employers  where individual donors work
+  money_breakdown: pac_types

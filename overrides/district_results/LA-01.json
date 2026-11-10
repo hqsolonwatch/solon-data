@@ -1,0 +1,129 @@
+{
+ "election": "20241105",
+ "level": "county",
+ "whole": {
+  "d": 24,
+  "r": 74,
+  "votes": {
+   "D": 85911,
+   "R": 265028,
+   "O": 6781
+  }
+ },
+ "areas": [
+  {
+   "name": "St. Tammany",
+   "fips": "22103",
+   "d": 22,
+   "r": 76,
+   "votes": {
+    "D": 30210,
+    "R": 102285,
+    "O": 2368
+   }
+  },
+  {
+   "name": "Jefferson (part)",
+   "fips": "22051",
+   "d": 24,
+   "r": 74,
+   "votes": {
+    "D": 24669,
+    "R": 74856,
+    "O": 2109
+   }
+  },
+  {
+   "name": "Orleans (part)",
+   "fips": "22071",
+   "d": 51,
+   "r": 47,
+   "votes": {
+    "D": 15211,
+    "R": 14142,
+    "O": 617
+   }
+  },
+  {
+   "name": "Tangipahoa (part)",
+   "fips": "22105",
+   "d": 20,
+   "r": 78,
+   "votes": {
+    "D": 4912,
+    "R": 19393,
+    "O": 436
+   }
+  },
+  {
+   "name": "Lafourche (part)",
+   "fips": "22057",
+   "d": 9,
+   "r": 90,
+   "votes": {
+    "D": 1682,
+    "R": 16913,
+    "O": 279
+   }
+  },
+  {
+   "name": "Ascension (part)",
+   "fips": "22005",
+   "d": 13,
+   "r": 86,
+   "votes": {
+    "D": 1640,
+    "R": 11214,
+    "O": 240
+   }
+  },
+  {
+   "name": "St. Charles (part)",
+   "fips": "22089",
+   "d": 22,
+   "r": 76,
+   "votes": {
+    "D": 2209,
+    "R": 7510,
+    "O": 201
+   }
+  },
+  {
+   "name": "Plaquemines",
+   "fips": "22075",
+   "d": 24,
+   "r": 74,
+   "votes": {
+    "D": 2347,
+    "R": 7049,
+    "O": 189
+   }
+  },
+  {
+   "name": "St. Bernard (part)",
+   "fips": "22087",
+   "d": 28,
+   "r": 70,
+   "votes": {
+    "D": 2386,
+    "R": 6002,
+    "O": 226
+   }
+  },
+  {
+   "name": "Livingston (part)",
+   "fips": "22063",
+   "d": 10,
+   "r": 88,
+   "votes": {
+    "D": 645,
+    "R": 5664,
+    "O": 116
+   }
+  }
+ ],
+ "source": "Louisiana Secretary of State, official 2024 results by precinct, including early and provisional votes, as compiled by OpenElections (openelections-data-la) and added up by parish. The totals match the official district result. Percentages are of all votes cast; Republican includes all three Republican candidates",
+ "source_files": [
+  "https://raw.githubusercontent.com/openelections/openelections-data-la/master/2024/20241105__la__general__precinct.csv"
+ ]
+}

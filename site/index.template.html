@@ -1,0 +1,600 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Solon Watch: Follow the Bills. Follow the Money.</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=Libre+Franklin:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+/* ---- Colors: one place to change them ---- */
+:root{
+  --bg:#FFFFFF; --text:#333333; --head:#111111; --soft:#5F5F5F; --rule:#DDDDDD; --tint:#F4F4F2;
+  --btn:#111111; --btn-text:#FFFFFF; --focus:#B85C00;
+  --dem:#2C64A8; --rep:#BE3A2C; --dem-tint:#E9F0F8; --rep-tint:#F8EBE9;
+  --bar1:#2B2B2B; --bar2:#6B6B6B; --bar3:#A3A3A3; --bar4:#CFCFCF; --track:#EFEFEC;
+  --map-fill:#E7E7E3; --map-line:#111111; --solon:#111111; --crowd:#9A9A9A;
+  color-scheme: light;
+  box-sizing:border-box; padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#161616; --text:#D6D6D6; --head:#F2F2F2; --soft:#A8A8A8; --rule:#333333; --tint:#202020;
+    --btn:#F2F2F2; --btn-text:#111111; --focus:#F0A050;
+    --dem:#7FA9DE; --rep:#E5897D; --dem-tint:#1C2633; --rep-tint:#331E1B;
+    --bar1:#EDEDED; --bar2:#B5B5B5; --bar3:#808080; --bar4:#555555; --track:#262626;
+    --map-fill:#2A2A2A; --map-line:#EDEDED; --solon:#F2F2F2; --crowd:#7A7A7A;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#161616; --text:#D6D6D6; --head:#F2F2F2; --soft:#A8A8A8; --rule:#333333; --tint:#202020;
+  --btn:#F2F2F2; --btn-text:#111111; --focus:#F0A050;
+  --dem:#7FA9DE; --rep:#E5897D; --dem-tint:#1C2633; --rep-tint:#331E1B;
+  --bar1:#EDEDED; --bar2:#B5B5B5; --bar3:#808080; --bar4:#555555; --track:#262626;
+  --map-fill:#2A2A2A; --map-line:#EDEDED; --solon:#F2F2F2; --crowd:#7A7A7A;
+  color-scheme: dark;
+}
+
+/* ---- Base: one readable column ---- */
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font-family:"Source Serif 4",Georgia,"Times New Roman",serif;font-size:20px;line-height:1.6;-webkit-font-smoothing:antialiased}
+.col{max-width:680px;margin:0 auto;padding:0 22px}
+.wide{max-width:1040px;margin:0 auto;padding:0 22px}
+h1,h2,h3{color:var(--head);font-weight:700;line-height:1.15;margin:0}
+h1{font-size:44px;letter-spacing:-0.01em;margin:0 0 22px}
+h2{font-size:30px;margin:72px 0 16px}
+p{margin:0 0 18px}
+a{color:var(--head)}
+:focus-visible{outline:3px solid var(--focus);outline-offset:2px}
+.sans{font-family:"Libre Franklin",-apple-system,"Helvetica Neue",Arial,sans-serif}
+.small{font-size:15px;line-height:1.45;color:var(--soft)}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+@media (min-width:720px){h1{font-size:58px}h2{font-size:34px}}
+
+/* ---- Top bar ---- */
+.top{display:flex;justify-content:space-between;align-items:center;padding-top:20px;padding-bottom:20px;border-bottom:1px solid var(--rule)}
+.word{font-weight:700;font-size:24px;color:var(--head);text-decoration:none}
+.top a.join{font-family:"Libre Franklin",-apple-system,Arial,sans-serif;font-size:15px;font-weight:600;padding:10px 0}
+
+/* ---- Hero ---- */
+.hero{padding-top:56px}
+.tag{font-family:"Libre Franklin",-apple-system,Arial,sans-serif;font-size:16px;font-weight:600;color:var(--soft);margin-bottom:14px}
+
+/* ---- Sign-up ---- */
+.form{display:flex;flex-wrap:wrap;margin-top:8px}
+.form input{flex:1 1 240px;min-width:0;height:52px;padding:0 14px;font-size:17px;font-family:"Libre Franklin",-apple-system,Arial,sans-serif;border:1.5px solid var(--soft);border-radius:4px;background:var(--bg);color:var(--head);margin:0 10px 10px 0;-webkit-appearance:none}
+.form button{height:52px;padding:0 22px;font-size:16px;font-weight:600;font-family:"Libre Franklin",-apple-system,Arial,sans-serif;border:0;border-radius:4px;background:var(--btn);color:var(--btn-text);cursor:pointer;margin-bottom:10px}
+.err{display:none;font-family:"Libre Franklin",Arial,sans-serif;font-size:15px;color:var(--rep);margin:0 0 8px}
+.done{display:none;font-family:"Libre Franklin",Arial,sans-serif;font-size:17px;font-weight:500;padding:14px 16px;border-left:3px solid var(--head);background:var(--tint)}
+.joined .form,.joined .err,.joined .note{display:none!important}
+.joined .done{display:block}
+
+/* ---- Charts and figures ---- */
+figure{margin:28px 0 8px}
+figure svg{display:block;width:100%;height:auto}
+figcaption{font-family:"Libre Franklin",Arial,sans-serif;font-size:14px;color:var(--soft);margin-top:8px}
+.chart text{font-family:"Libre Franklin",Arial,sans-serif}
+
+/* ---- Slideshow ---- */
+.show{margin-top:28px;border-top:3px solid var(--head)}
+.show-head{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--rule)}
+.ctrl{display:flex;align-items:center}
+.ctrl button{font-family:"Libre Franklin",Arial,sans-serif;font-size:15px;font-weight:600;min-width:44px;height:44px;padding:0 14px;border:1.5px solid var(--head);background:var(--bg);color:var(--head);border-radius:4px;cursor:pointer;margin-left:8px}
+.ctrl button:disabled{opacity:.35;cursor:default}
+.count{font-family:"Libre Franklin",Arial,sans-serif;font-size:15px;color:var(--soft)}
+.dots{display:flex;margin:4px 0}
+.dots button{width:44px;height:44px;border:0;background:none;padding:0;cursor:pointer;display:flex;align-items:center;justify-content:center}
+.dots span{display:block;width:10px;height:10px;border-radius:50%;background:var(--rule)}
+.dots button[aria-current="true"] span{background:var(--head)}
+.who{padding:26px 0 6px}
+.party{display:inline-block;font-family:"Libre Franklin",Arial,sans-serif;font-size:14px;font-weight:700;padding:3px 9px;border-radius:3px;margin-bottom:10px}
+.party.d{background:var(--dem-tint);color:var(--dem)}
+.party.r{background:var(--rep-tint);color:var(--rep)}
+.who h3{font-size:32px;margin-bottom:4px}
+.who .role{font-family:"Libre Franklin",Arial,sans-serif;font-size:16px;color:var(--soft);margin:0}
+.panels{display:grid;grid-template-columns:1fr;grid-gap:0 36px;margin-top:18px}
+@media (min-width:860px){.panels{grid-template-columns:repeat(3,minmax(0,1fr))}.panels.two{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.panel{border-top:1px solid var(--rule);padding:16px 0 22px}
+.panel h4{font-family:"Libre Franklin",Arial,sans-serif;font-size:14px;font-weight:700;color:var(--head);margin:0 0 10px}
+.panel p{font-size:17px;line-height:1.5;margin:0 0 10px}
+.bill{font-family:"Libre Franklin",Arial,sans-serif;font-size:14px;color:var(--soft);margin:0 0 2px!important}
+.billname{font-weight:700;color:var(--head)}
+.cast{font-family:"Libre Franklin",Arial,sans-serif;font-size:22px;font-weight:700;color:var(--head);margin:6px 0 2px!important}
+.result{font-family:"Libre Franklin",Arial,sans-serif;font-size:15px!important;color:var(--soft)}
+.total{font-family:"Libre Franklin",Arial,sans-serif;font-size:22px;font-weight:700;color:var(--head);margin:0 0 10px!important}
+.bar{margin-bottom:9px;font-family:"Libre Franklin",Arial,sans-serif;font-size:14px}
+.bar .lbl{display:flex;justify-content:space-between;margin-bottom:3px}
+.bar .lbl span:first-child{margin-right:10px}
+.bar .lbl span:last-child{font-weight:700;color:var(--head)}
+.bar .track{height:8px;background:var(--track)}
+.bar .fill{height:8px}
+.src{font-family:"Libre Franklin",Arial,sans-serif;font-size:13px!important;color:var(--soft);margin-top:12px!important}
+.map svg{display:block;width:100%;max-width:340px;height:auto;margin-bottom:8px}
+.map text{font-family:"Libre Franklin",Arial,sans-serif;font-size:14px;font-weight:600;fill:var(--head)}
+.towns{font-family:"Libre Franklin",Arial,sans-serif;font-size:15px!important}
+.sample{font-family:"Libre Franklin",Arial,sans-serif;font-size:14px;color:var(--soft);border-top:1px solid var(--rule);padding-top:12px;margin-top:4px}
+
+/* ---- Steps ---- */
+ol.steps{padding-left:1.3em;margin:0}
+ol.steps li{margin-bottom:14px;padding-left:4px}
+
+/* ---- Final sign-up and footer ---- */
+.final{border-top:3px solid var(--head);margin-top:80px;padding-top:8px;padding-bottom:40px}
+.final h2{margin-top:28px}
+footer{border-top:1px solid var(--rule);padding:22px 0 40px;font-family:"Libre Franklin",Arial,sans-serif;font-size:14px;color:var(--soft)}
+footer .col{display:flex;flex-wrap:wrap;justify-content:space-between}
+footer span{margin:4px 0}
+
+/* ---- Logo: the O's in "Solon" are eyes that look around ---- */
+.word{display:inline-flex;align-items:baseline;white-space:nowrap}
+.word .w2{margin-left:.28em}
+.eye{position:relative;display:inline-block;width:.5em;height:.5em;margin:0 .03em;border:.085em solid currentColor;border-radius:50%;box-sizing:border-box}
+.eye::after{content:"";position:absolute;width:.17em;height:.17em;left:50%;top:50%;margin:-.085em 0 0 -.085em;border-radius:50%;background:currentColor;animation:look 7s ease-in-out infinite}
+@keyframes look{
+  0%,12%{transform:translate(0,0)}
+  18%,32%{transform:translate(-.09em,0)}
+  38%,52%{transform:translate(.09em,-.04em)}
+  58%,70%{transform:translate(.09em,.05em)}
+  76%,88%{transform:translate(-.06em,-.06em)}
+  94%,100%{transform:translate(0,0)}
+}
+@media (prefers-reduced-motion: reduce){.eye::after{animation:none}}
+
+/* ---- v3 additions ---- */
+.tbl{width:100%;border-collapse:collapse;font-family:"Libre Franklin",Arial,sans-serif;font-size:14px;margin:4px 0 6px}
+.tbl th{text-align:left;font-weight:600;color:var(--soft);padding:6px 8px 6px 0;border-bottom:1px solid var(--rule)}
+.tbl td{padding:7px 8px 7px 0;border-bottom:1px solid var(--rule);vertical-align:top}
+.tbl td.n,.tbl th.n{text-align:right;padding-right:0;white-space:nowrap}
+.tbl td.n{font-weight:700;color:var(--head)}
+.subhead{font-family:"Libre Franklin",Arial,sans-serif;font-size:14px;font-weight:700;color:var(--head);margin:18px 0 8px!important}
+.lede{font-size:16px!important;color:var(--soft)}
+.toggles{display:flex;flex-wrap:wrap;margin:18px 0 8px}
+.toggles button{font-family:"Libre Franklin",Arial,sans-serif;font-size:15px;font-weight:600;min-height:44px;padding:8px 14px;border:1.5px solid var(--head);background:var(--bg);color:var(--head);border-radius:4px;cursor:pointer;margin:0 8px 8px 0}
+.toggles button[aria-pressed="true"]{background:var(--btn);color:var(--btn-text)}
+.dmap{display:grid;grid-template-columns:1fr;grid-gap:8px 40px;border-top:1px solid var(--rule);padding-top:18px}
+@media (min-width:860px){.dmap{grid-template-columns:minmax(0,1.3fr) minmax(0,1fr)}}
+.dmap svg{display:block;width:100%;height:auto}
+.dmap svg text{font-family:"Libre Franklin",Arial,sans-serif;font-size:14px;font-weight:600;fill:var(--head);paint-order:stroke;stroke:var(--bg);stroke-width:4px;stroke-linejoin:round}
+.dmap h3{font-size:26px;margin-bottom:4px}
+.dmap .meta{font-family:"Libre Franklin",Arial,sans-serif;font-size:15px;color:var(--soft);margin:0 0 14px}
+.score{font-family:"Libre Franklin",Arial,sans-serif;font-size:22px;font-weight:700;color:var(--head);margin:0 0 2px!important}
+.legend{display:flex;flex-wrap:wrap;align-items:center;font-family:"Libre Franklin",Arial,sans-serif;font-size:13px;color:var(--soft);margin:6px 0 0}
+.legend i{display:inline-block;width:28px;height:10px;margin:0 6px 0 0}
+.legend span{margin-right:16px;display:flex;align-items:center}
+.whole{font-family:"Libre Franklin",Arial,sans-serif;font-size:16px;margin:0 0 10px!important}
+.whole b{color:var(--head)}
+.d-txt{color:var(--dem);font-weight:700}.r-txt{color:var(--rep);font-weight:700}
+</style>
+</head>
+<body>
+
+<header class="col top">
+  <a class="word" href="#" aria-label="Solon Watch"><span aria-hidden="true">S<span class="eye"></span>l<span class="eye"></span>n</span><span class="w2" aria-hidden="true">Watch</span></a>
+  <a class="join" href="#join">Join the waitlist</a>
+</header>
+
+<main>
+<section class="col hero">
+  <p class="tag">Follow the Bills. Follow the Money.</p>
+  <h1>Elections end. Accountability shouldn’t.</h1>
+  <p>Most of us tune in to politics on Election Day, then tune out for two to four years. Solon Watch keeps track of what happens in between: every vote your representatives cast, who funds their campaigns, and who lives inside the lines of your district.</p>
+  <div class="signup">
+    <div class="form">
+      <label class="sr" for="email-top">Email address</label>
+      <input id="email-top" type="email" placeholder="you@example.com" autocomplete="email">
+      <button type="button">Get early access</button>
+    </div>
+    <p class="err" role="alert">That email address doesn’t look right. Check for a typo and try again.</p>
+    <p class="small note">Launching with the U.S. Senate and House. Bill alerts are free.</p>
+    <p class="done" role="status">You’re on the list. We’ll email you when Solon Watch opens.</p>
+  </div>
+</section>
+
+<section class="col">
+  <h2>The years in between</h2>
+  <p>Bills get written and voted on, and campaigns keep raising money, long after Election Day. By the next election, most voters have lost track of what their representatives did. Solon Watch keeps that record in one place and tells you when they vote.</p>
+</section>
+<div class="wide">
+  <figure class="chart">
+    <svg viewBox="-50 0 1050 250" role="img" aria-label="Illustration with attention on the vertical axis and time on the horizontal axis. Public attention spikes at each election and drops in between, while Solon Watch stays at a steady level the whole time.">
+      <line x1="0" y1="18" x2="0" y2="200" stroke="var(--rule)" stroke-width="1.5"/>
+      <line x1="0" y1="200" x2="1000" y2="200" stroke="var(--rule)" stroke-width="1.5"/>
+      <text transform="translate(-20 110) rotate(-90)" font-size="14" fill="var(--soft)" text-anchor="middle">Attention</text>
+      <text x="1000" y="226" font-size="14" fill="var(--soft)" text-anchor="end">Time</text>
+      <path d="M0 188 L50 186 L72 160 L90 52 L108 160 L130 186 L470 188 L492 160 L510 52 L528 160 L550 186 L880 188 L902 160 L920 52 L938 160 L960 186 L1000 188" fill="none" stroke="var(--crowd)" stroke-width="2.5" stroke-linejoin="round"/>
+      <line x1="0" y1="100" x2="1000" y2="100" stroke="var(--solon)" stroke-width="3"/>
+      <g font-size="14" fill="var(--soft)" text-anchor="middle">
+        <text x="90" y="40">Election</text><text x="510" y="40">Election</text><text x="920" y="40">Election</text>
+      </g>
+      <text x="300" y="178" font-size="15" fill="var(--soft)" text-anchor="middle">Most people, between elections</text>
+      <text x="300" y="88" font-size="15" font-weight="700" fill="var(--head)" text-anchor="middle">Solon Watch</text>
+    </svg>
+    <figcaption>Illustration, not data.</figcaption>
+  </figure>
+</div>
+
+<section class="col">
+  <h2>Votes and money</h2>
+  <p>Four members of Congress, two from each party, the way they’ll appear in Solon Watch. Each one shows their most recent vote on a bill, and the groups that lobbied on that bill and gave to their campaign. The two senators are the top fundraisers in their parties, so their slides also break down where all of their money came from.</p>
+  <p>Solon Watch also shows bills that are coming up for a vote, so you can see what’s next before it happens. When you want your representatives to know where you stand, on a vote they just cast or one that’s coming, you can send them a message from the app in a few taps.</p>
+</section>
+<div class="wide">
+  <div class="show" id="show">
+    <div class="show-head">
+      <span class="count" id="count" aria-live="polite">1 of 4</span>
+      <div class="dots" id="dots"></div>
+      <div class="ctrl">
+        <button type="button" id="prev" aria-label="Previous member">Previous</button>
+        <button type="button" id="next" aria-label="Next member">Next</button>
+      </div>
+    </div>
+    <div id="slide"></div>
+  </div>
+</div>
+
+<section class="col">
+  <h2>Districts</h2>
+  <p>Some districts are drawn in shapes that stretch across a state to pick up some neighborhoods and leave out others. One common way to measure that is the Polsby-Popper score, which compares a district’s area to the length of its border. A perfect circle scores 1. The lower the score, the more stretched and irregular the shape.</p>
+  <p>It also matters who else lives in your district. Those neighbors share your representative and vote in the same House race, so their priorities help decide who wins and which issues get attention. District lines decide which communities are counted together. When a district stretches across very different places, one representative has to answer to all of them, and some voices can carry more weight than others. Solon Watch shows you who shares your district, so you can see whose votes count alongside yours.</p>
+  <p>Below are two of the least compact districts, one held by each party. Use the button to see how each part of the district voted, compared with the district as a whole.</p>
+</section>
+<div class="wide">
+  <div class="toggles" id="dpick" role="group" aria-label="Choose a district"></div>
+  <div id="district"></div>
+</div>
+
+<section class="col">
+  <h2>How it works</h2>
+  <ol class="steps">
+    <li>Enter your address. Solon Watch finds your two senators, your House member, and your district.</li>
+    <li>Follow them. Each vote they cast shows up with a plain-English summary of the bill, next to where their campaign money came from.</li>
+    <li>See which bills are coming up for a vote, and get a free alert when one you care about is scheduled. Afterward, see how your representatives voted.</li>
+    <li>Tell them what you think. Solon Watch makes it easy to contact your senators and House member about a bill, before or after the vote.</li>
+  </ol>
+
+  <h2>Where the numbers come from</h2>
+  <p>Votes come from the official roll-call records on <a href="https://www.senate.gov/legislative/votes_new.htm">senate.gov</a> and <a href="https://clerk.house.gov/Votes">house.gov</a>. Campaign totals come from the <a href="https://www.fec.gov/data/">Federal Election Commission</a>, and industry totals from <a href="https://www.opensecrets.org/">OpenSecrets</a>, which sorts FEC donor records by industry. Lobbying comes from the federal <a href="https://lda.gov/">lobbying disclosure database</a>, where lobbyists list the bills they worked on. Area-by-area election results are certified results from each state’s election office. Some come straight from the state, and some come through <a href="https://openelections.net/">OpenElections</a>, a free public project that collects official results from state and local election offices.</p>
+  <p>Every number in Solon Watch shows the public record it came from. Solon Watch doesn’t endorse candidates or parties.</p>
+</section>
+
+<section class="col final" id="join">
+  <h2>Don’t wait four years to find out.</h2>
+  <p>Join the waitlist and we’ll email you when Solon Watch opens.</p>
+  <div class="signup">
+    <div class="form">
+      <label class="sr" for="email-bottom">Email address</label>
+      <input id="email-bottom" type="email" placeholder="you@example.com" autocomplete="email">
+      <button type="button">Join the waitlist</button>
+    </div>
+    <p class="err" role="alert">That email address doesn’t look right. Check for a typo and try again.</p>
+    <p class="done" role="status">You’re on the list. We’ll email you when Solon Watch opens.</p>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="col">
+    <span>Solon Watch. Follow the Bills. Follow the Money.</span>
+    <span>[Contact email] · [Privacy policy]</span>
+  </div>
+</footer>
+
+<script>
+/* =====================================================================
+   PAGE DATA
+   Every example on this page comes from the two lists below: MEMBERS
+   (the slideshow) and DISTRICTS (the maps). Replace the values with real
+   records and set sample to false on each item you fill in. Leave the
+   layout code further down alone.
+   ===================================================================== */
+
+/* MEMBERS: exactly four, in this order: Democratic senator, Republican
+   senator, Democratic representative, Republican representative.
+   The two senators must be the top fundraiser in their party for the
+   current cycle. Only senators get a "money" block. */
+var MEMBERS = [
+  {
+    sample: true,
+    party: "Democrat", chamber: "senate",
+    name: "Sen. Jon Ossoff", role: "U.S. Senator, Georgia",
+    vote: {
+      bill: "S. 4668", title: "Protect College Sports Act of 2026",
+      summary: "Sets rules for name, image and likeness (NIL) deals for college athletes, caps sports agent fees at 5 percent, and gives schools and conferences a limited antitrust exemption to sell some media rights together.",
+      cast: "Yea", result: "Passed 77 to 22", date: "September 28, 2026",
+      source: "senate.gov, roll call vote 250, 119th Congress, session 2"
+    },
+    lobbying: {
+      cycle: "2026 cycle",
+      groups: [["Amazon", 0, 4490000], ["National Association of Broadcasters", 5500, 2700000], ["Charter Communications", 0, 2230000], ["Entertainment Software Association", 0, 1370000], ["AFSCME", 10000, 570000]],
+      source: "Lobbying reports naming S. 4668 filed under the Lobbying Disclosure Act (lda.gov). Shown: the five groups with a federal PAC that reported the most lobbying spending, among the filings reviewed. Lobbying amounts are each group’s total for July to September 2026, across all issues. Donations: FEC file of contributions from committees to candidates, 2025 to 2026, from Amazon PAC (C00360354), NAB PAC (C00009985), Charter Communications PAC (C00426775), ESA PAC (C00439216) and AFSCME PEOPLE (C00011114)"
+    },
+    money: {
+      cycle: "2026 cycle", total: "$115.9 million",
+      types: [["Individuals giving $200 or less", 54], ["Individuals giving more than $200", 45], ["PACs and party committees", 1], ["Candidate’s own money", 0]],
+      typesSource: "FEC, Jon Ossoff for Senate (committee C00718866), Jan. 1, 2025 to Oct. 14, 2026. Shares are of money given directly by individuals, PACs, party committees and the candidate. Transfers from joint fundraising committees ($11.6 million) and other receipts are counted in the total but not in the shares",
+      sectors: [["[Sector 1]", 0], ["[Sector 2]", 0], ["[Sector 3]", 0], ["[Sector 4]", 0], ["[Sector 5]", 0]],
+      sectorsSource: "OpenSecrets sector totals, built from FEC records"
+    }
+  },
+  {
+    sample: true,
+    party: "Republican", chamber: "senate",
+    name: "Sen. Susan Collins", role: "U.S. Senator, Maine",
+    vote: {
+      bill: "S. 4668", title: "Protect College Sports Act of 2026",
+      summary: "Sets rules for name, image and likeness (NIL) deals for college athletes, caps sports agent fees at 5 percent, and gives schools and conferences a limited antitrust exemption to sell some media rights together.",
+      cast: "Yea", result: "Passed 77 to 22", date: "September 28, 2026",
+      source: "senate.gov, roll call vote 250, 119th Congress, session 2"
+    },
+    lobbying: {
+      cycle: "2026 cycle",
+      groups: [["Amazon", 7500, 4490000], ["National Association of Broadcasters", 12000, 2700000], ["Charter Communications", 0, 2230000], ["Entertainment Software Association", 0, 1370000], ["AFSCME", 0, 570000]],
+      source: "Lobbying reports naming S. 4668 filed under the Lobbying Disclosure Act (lda.gov). Shown: the five groups with a federal PAC that reported the most lobbying spending, among the filings reviewed. Lobbying amounts are each group’s total for July to September 2026, across all issues. Donations: FEC file of contributions from committees to candidates, 2025 to 2026, from Amazon PAC (C00360354), NAB PAC (C00009985), Charter Communications PAC (C00426775), ESA PAC (C00439216) and AFSCME PEOPLE (C00011114)"
+    },
+    money: {
+      cycle: "2026 cycle", total: "$22.5 million",
+      types: [["Individuals giving $200 or less", 15], ["Individuals giving more than $200", 75], ["PACs and party committees", 10], ["Candidate’s own money", 0]],
+      typesSource: "FEC, Collins for Senator (committee C00314575), Jan. 1, 2025 to Oct. 14, 2026. Shares are of money given directly by individuals, PACs, party committees and the candidate. Transfers from joint fundraising committees ($5.4 million) and other receipts are counted in the total but not in the shares",
+      sectors: [["[Sector 1]", 0], ["[Sector 2]", 0], ["[Sector 3]", 0], ["[Sector 4]", 0], ["[Sector 5]", 0]],
+      sectorsSource: "OpenSecrets sector totals, built from FEC records"
+    }
+  },
+  {
+    sample: false,
+    party: "Democrat", chamber: "house",
+    name: "Rep. Katherine Clark", role: "U.S. House, Massachusetts District 5",
+    vote: {
+      bill: "S. 2403", title: "Retire through Ownership Act",
+      summary: "Lets the manager of an employee stock ownership plan rely on an independent appraiser’s value for company stock that is not publicly traded, as long as the appraisal follows set IRS methods.",
+      cast: "Yea", result: "Passed 401 to 14", date: "September 16, 2026",
+      source: "clerk.house.gov, roll call 314, 2026"
+    },
+    lobbying: {
+      cycle: "2026 cycle",
+      groups: [["AFL-CIO", 0], ["American Benefits Council", 0], ["Principal Financial Group", 2500], ["JPMorgan Chase", 10000]],
+      source: "Lobbying reports naming S. 2403 filed under the Lobbying Disclosure Act (lda.gov), 2025 to 2026. Donations: FEC file of contributions from committees to candidates, 2025 to 2026, from AFL-CIO COPE Political Contributions Committee (C00003806), American Benefits Council PAC (C00153171), Principal Life Insurance Company PAC (C00128918) and JPMorgan Chase PACs (C00104299, C00128512)"
+    }
+  },
+  {
+    sample: false,
+    party: "Republican", chamber: "house",
+    name: "Rep. Tom Emmer", role: "U.S. House, Minnesota District 6",
+    vote: {
+      bill: "S. 2403", title: "Retire through Ownership Act",
+      summary: "Lets the manager of an employee stock ownership plan rely on an independent appraiser’s value for company stock that is not publicly traded, as long as the appraisal follows set IRS methods.",
+      cast: "Yea", result: "Passed 401 to 14", date: "September 16, 2026",
+      source: "clerk.house.gov, roll call 314, 2026"
+    },
+    lobbying: {
+      cycle: "2026 cycle",
+      groups: [["AFL-CIO", 0], ["American Benefits Council", 0], ["Principal Financial Group", 6000], ["JPMorgan Chase", 10000]],
+      source: "Lobbying reports naming S. 2403 filed under the Lobbying Disclosure Act (lda.gov), 2025 to 2026. Donations: FEC file of contributions from committees to candidates, 2025 to 2026, from AFL-CIO COPE Political Contributions Committee (C00003806), American Benefits Council PAC (C00153171), Principal Life Insurance Company PAC (C00128918) and JPMorgan Chase PACs (C00104299, C00128512)"
+    }
+  }
+];
+
+/* DISTRICTS: exactly two. The least compact district held by a
+   Republican, then the least compact held by a Democrat.
+   Shapes are SVG coordinates inside a 480 x 360 box (x right, y down).
+   "areas" are the parts of the district (counties, towns or precincts)
+   with their results; each area's shape is clipped to the district
+   outline, so it may run past the border. d and r are vote percentages. */
+var DISTRICTS = [
+  {
+    sample: false,
+    party: "Republican",
+    label: "One of the least compact Republican-held districts",
+    name: "Louisiana District 1", member: "Rep. Steve Scalise",
+    score: "0.04", scoreSource: "Polsby-Popper score of 0.036, calculated by Solon Watch from the U.S. Census Bureau’s 2025 cartographic boundary file for the 119th Congress (1:500,000), the lines in place now, using an equal-area projection for each district. Of all 429 districts with more than one seat in their state, this is the lowest score among those held by a Republican",
+    race: "2024 U.S. House race", whole: { d: 24, r: 74 },
+    shape: "85,94 119,94 106,80 125,58 161,57 167,42 195,53 193,14 259,23 310,111 263,138 260,157 296,171 317,132 335,137 322,147 336,167 359,153 333,177 349,191 332,186 323,211 311,197 315,215 289,212 298,224 285,216 285,230 305,259 365,269 376,295 391,293 372,334 355,317 328,346 348,296 331,310 259,273 299,266 260,244 235,249 217,283 226,297 194,315 182,280 169,289 172,264 108,199 137,202 158,183 197,204 207,176 221,190 233,166 249,170 253,137 222,141 214,163 192,142 177,158 157,141 208,103 178,91 91,119",
+    areas: [
+      { name: "St. Tammany", d: 22, r: 76, poly: "189,10 192,27 192,80 200,90 208,116 228,121 250,113 257,114 266,120 275,117 280,120 285,117 300,122 307,116 314,115 310,106 303,109 299,104 299,100 295,93 297,89 297,82 292,78 288,70 288,61 274,49 271,43 281,37 268,38 266,31 268,27 263,24 271,20 235,20", lx: 236, ly: 68 },
+      { name: "Jefferson (part)", d: 24, r: 74, poly: "186,151 188,165 193,174 203,181 193,206 206,209 206,222 203,224 204,226 197,230 204,234 210,247 225,250 227,254 226,265 220,268 233,271 236,278 232,280 230,278 212,310 229,299 229,297 244,288 245,284 263,271 260,267 244,277 245,276 240,270 241,266 236,261 243,252 240,249 239,229 241,223 225,190 228,188 226,180 232,176 236,165 223,150 221,158 215,160 220,114 209,108 189,114", lx: 188, ly: 127 },
+      { name: "Orleans (part)", d: 51, r: 47, poly: "208,156 211,167 224,164 225,162 232,169 238,171 239,168 250,176 253,167 248,159 236,155 238,151 244,154 250,150 252,152 259,152 260,146 265,141 270,141 276,146 283,144 281,137 287,135 289,128 300,117 285,111 280,113 276,110 267,113 260,108 249,107 227,115 214,112 211,151", lx: 210, ly: 154 },
+      { name: "Tangipahoa (part)", d: 20, r: 78, poly: "139,57 142,60 143,68 150,76 150,81 154,83 152,98 174,97 182,94 213,109 206,87 198,78 196,9 189,-5 185,-21 181,-24 181,-43 139,-42", lx: 191, ly: 85 },
+      { name: "Lafourche (part)", d: 9, r: 90, poly: "66,203 95,202 95,197 100,197 101,195 105,197 108,205 118,211 127,223 133,224 138,230 140,236 143,236 145,240 169,266 170,276 166,287 165,285 165,292 161,302 165,298 165,309 172,294 170,292 177,284 177,280 179,285 181,284 185,293 176,295 175,298 173,299 175,299 172,309 165,318 172,316 169,320 190,312 182,310 184,308 178,305 181,301 186,302 179,306 192,311 191,317 198,320 204,317 222,303 223,299 228,295 220,284 223,281 229,284 237,278 231,274 232,268 231,265 234,252 228,244 219,244 214,242 208,230 213,224 212,204 202,201 179,200 176,188 166,186 161,182 159,173 149,164 127,164 123,161 118,163 107,157 105,161 88,161 88,166 85,166 82,177", lx: 177, ly: 229 },
+      { name: "Ascension (part)", d: 13, r: 86, poly: "52,123 52,138 60,138 61,136 63,137 71,135 79,138 88,128 133,118 135,103 126,101 121,108 116,100 110,97 111,91 105,92 97,80 74,79 66,85 58,115 55,116 55,123", lx: 99, ly: 105 },
+      { name: "St. Charles (part)", d: 22, r: 76, poly: "142,156 145,156 145,169 154,177 155,184 163,191 171,193 175,206 199,207 211,179 198,170 193,160 192,137 196,112 180,116 160,138 145,141", lx: 157, ly: 186 },
+      { name: "Plaquemines", d: 24, r: 74, poly: "219,188 220,196 229,208 231,218 234,221 233,231 235,250 241,250 243,255 247,253 255,256 257,251 256,255 263,262 267,260 270,263 277,263 269,267 268,264 261,263 257,272 251,269 245,274 252,279 261,277 291,281 296,288 316,295 330,313 340,311 342,310 342,319 338,319 319,356 339,341 351,325 356,324 357,322 357,330 375,339 377,327 373,326 374,322 379,322 380,316 386,320 398,298 392,289 379,294 380,290 378,289 380,285 367,266 362,265 358,271 355,265 352,264 349,258 341,259 333,257 330,258 319,255 314,257 312,252 317,243 308,245 306,243 307,237 303,238 309,231 305,229 309,222 301,223 300,222 312,218 298,216 304,213 311,216 322,227 323,226 320,219 322,215 299,202 300,204 296,204 287,197 284,190 272,189 266,181 257,182 251,169 242,162 233,161 233,163 231,162 227,172 220,177 221,186", lx: 258, ly: 211 },
+      { name: "St. Bernard (part)", d: 28, r: 70, poly: "228,158 244,165 248,179 254,188 263,187 265,189 264,194 280,195 283,201 293,209 310,214 323,227 326,224 318,214 326,214 328,207 344,216 346,214 329,199 329,196 333,189 340,190 345,195 353,193 351,181 356,183 360,178 354,176 364,164 347,166 351,163 360,162 362,151 359,149 367,149 365,144 368,143 371,133 362,131 361,127 377,108 376,107 344,127 342,132 330,136 315,127 313,138 298,147 300,154 297,165 292,169 283,167 278,162 278,161 285,157 278,151 266,156 262,155 255,131 254,145 252,142 244,147 239,144 233,146", lx: 313, ly: 177 },
+      { name: "Livingston (part)", d: 10, r: 88, poly: "69,60 73,65 72,69 74,70 75,78 79,77 80,82 86,82 86,85 94,85 102,99 104,98 104,100 112,105 121,119 130,107 144,114 154,105 161,82 149,65 148,57 145,55 145,23 86,23 79,30 79,31 71,37 74,42 72,48 75,53 74,57", lx: 129, ly: 68 }
+    ],
+    resultsSource: "Louisiana Secretary of State, official 2024 results by precinct, including early and provisional votes, as compiled by OpenElections (openelections-data-la) and added up by parish. The totals match the official district result. Percentages are of all votes cast; Republican includes all three Republican candidates"
+  },
+  {
+    sample: false,
+    party: "Democrat",
+    label: "One of the least compact Democratic-held districts",
+    name: "Massachusetts District 9", member: "Rep. Bill Keating",
+    score: "0.05", scoreSource: "Polsby-Popper score of 0.046, calculated by Solon Watch from the U.S. Census Bureau’s 2025 cartographic boundary file for the 119th Congress (1:500,000), the lines in place now, using an equal-area projection for each district. It is the fourth-lowest of the 429 districts in states with more than one seat, and the second-lowest held by a Democrat",
+    race: "2024 U.S. House race", whole: { d: 56, r: 43 },
+    shape: "99,262 100,199 150,176 148,140 107,119 111,104 152,101 142,51 169,35 167,14 197,34 224,98 215,102 212,85 197,100 239,124 240,163 265,181 297,186 303,189 274,187 282,196 308,194 368,162 368,136 358,122 352,137 346,89 331,80 323,93 311,76 349,82 372,116 386,194 369,248 357,296 364,304 378,337 344,345 312,331 353,323 363,306 357,296 369,248 376,214 365,206 305,226 284,218 252,244 203,254 223,267 248,299 260,287 257,311 198,312 182,326 166,311 182,310 223,267 203,254 219,211 209,203 220,196 206,200 210,192 195,185 196,205 188,198 184,216 171,211 163,235 158,220 151,232 144,225 145,249 119,267",
+    areas: [
+      { name: "Barnstable County", d: 61, r: 39, poly: "195,255 212,261 218,253 253,248 261,241 266,231 279,229 286,222 291,225 299,223 304,234 312,223 323,217 365,210 371,215 366,227 366,236 361,245 364,252 372,251 375,245 376,229 382,225 388,204 390,183 386,149 380,127 369,101 357,84 342,74 323,69 312,71 304,79 321,98 327,96 331,93 334,86 342,92 346,105 349,157 354,157 357,130 358,129 360,130 356,135 363,138 364,161 360,165 338,174 315,179 306,187 299,182 273,179 257,173 239,155 230,166 211,175 214,181 209,192 212,195 200,207 208,207 206,212 210,221 207,227 210,236 206,245", lx: 249, ly: 205 },
+      { name: "Plymouth County (part)", d: 52, r: 48, poly: "104,67 112,114 125,126 129,144 113,159 119,166 115,176 144,172 148,183 152,182 162,223 175,225 181,219 180,218 186,221 190,213 190,209 196,210 193,215 198,218 224,182 222,178 235,172 243,162 242,155 246,146 241,129 244,122 228,111 221,115 216,106 222,102 234,104 217,82 216,78 219,71 200,44 201,32 192,26 185,11 174,21 174,22 169,19 181,14 164,8 158,-5 127,1 142,4 147,11 139,17 144,31 142,46", lx: 189, ly: 145 },
+      { name: "Bristol County (part)", d: 55, r: 45, poly: "42,137 43,144 41,150 42,153 39,156 45,174 62,183 78,208 91,212 90,227 92,233 95,267 110,263 114,265 117,287 120,287 123,264 124,263 136,262 135,259 140,270 144,253 150,252 146,241 147,241 148,235 158,236 153,224 156,224 162,245 166,237 176,240 170,219 169,220 158,173 153,174 149,163 128,166 129,164 124,159 138,146 132,121 119,110 111,63 39,101 32,101 32,139", lx: 101, ly: 202 },
+      { name: "Dukes County", d: 76, r: 24, poly: "182,332 191,320 198,316 229,314 258,315 265,311 264,280 251,287 251,294 250,291 240,286 236,265 228,270 226,261 207,271 204,277 196,280 193,289 180,306 173,304 165,305 162,312", lx: 222, ly: 294 },
+      { name: "Nantucket County", d: 68, r: 32, poly: "294,321 292,325 308,334 326,343 344,349 369,349 377,347 382,339 382,332 367,301 346,279 343,281 358,307 357,312 351,320 347,322 338,324 319,323 315,328 314,327 313,320 290,318", lx: 363, ly: 329 },
+      { name: "Norfolk County (part)", d: 60, r: 39, poly: "160,19 157,20 168,41 184,29 183,23 186,18 174,11 165,10 159,18", lx: 175, ly: 28 }
+    ],
+    resultsSource: "Massachusetts Secretary of the Commonwealth (electionstats.state.ma.us), certified 2024 results by city and town, added up by county. Percentages are of votes cast for candidates, including write-ins. Martha’s Vineyard and Nantucket are joined to the mainland outline by thin lines so the map can draw them"
+  }
+];
+
+(function () {
+  function esc(s) { return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;"); }
+  function money(n) {
+    if (n >= 1000000) return "$" + (n / 1000000).toFixed(1) + " million";
+    return "$" + String(Math.round(n)).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+  }
+  var SAMPLE_NOTE = '<p class="sample">Placeholder data. Names, bills and numbers will be replaced with official records before launch.</p>';
+
+  /* ---- Sign-up forms ---- */
+  var boxes = document.querySelectorAll(".signup");
+  var re = /^\S+@\S+\.\S+$/;
+  function joinAll() { for (var i = 0; i < boxes.length; i++) boxes[i].className += " joined"; }
+  for (var i = 0; i < boxes.length; i++) {
+    (function (box) {
+      var input = box.querySelector("input"), btn = box.querySelector("button"), err = box.querySelector(".err");
+      function submit() {
+        if (!re.test(input.value.replace(/^\s+|\s+$/g, ""))) { err.style.display = "block"; input.focus(); return; }
+        err.style.display = "none"; joinAll();
+      }
+      btn.addEventListener("click", submit);
+      input.addEventListener("keydown", function (e) { if (e.key === "Enter" || e.keyCode === 13) submit(); });
+      input.addEventListener("input", function () { err.style.display = "none"; });
+    })(boxes[i]);
+  }
+
+  /* ---- Slideshow ---- */
+  var shades = ["var(--bar1)", "var(--bar2)", "var(--bar3)", "var(--bar4)"];
+  var slide = document.getElementById("slide"), count = document.getElementById("count"),
+      prev = document.getElementById("prev"), next = document.getElementById("next"), dots = document.getElementById("dots");
+  var at = 0;
+
+  function bars(list, pct) {
+    var max = 0, h = "", i;
+    for (i = 0; i < list.length; i++) if (list[i][1] > max) max = list[i][1];
+    for (i = 0; i < list.length; i++) {
+      var v = list[i][1], w = pct ? v : (max ? Math.round(v / max * 100) : 0);
+      h += '<div class="bar"><div class="lbl"><span>' + esc(list[i][0]) + '</span><span>' + (pct ? v + "%" : money(v)) + '</span></div>';
+      h += '<div class="track"><div class="fill" style="width:' + w + '%;background:' + (pct ? shades[i % 4] : "var(--bar1)") + '"></div></div></div>';
+    }
+    return h;
+  }
+
+  function render() {
+    var m = MEMBERS[at], d = m.party === "Democrat", h = "";
+    var last = m.name.replace(/^(Sen\.|Rep\.)\s*/, "");
+    h += '<div class="who"><span class="party ' + (d ? "d" : "r") + '">' + esc(m.party) + '</span>';
+    h += '<h3>' + esc(m.name) + '</h3><p class="role">' + esc(m.role) + '</p></div>';
+    h += '<div class="panels' + (m.money ? "" : " two") + '">';
+
+    h += '<div class="panel"><h4>Most recent vote on a bill</h4>';
+    h += '<p class="bill">' + esc(m.vote.bill) + ', ' + esc(m.vote.date) + '</p>';
+    h += '<p><span class="billname">' + esc(m.vote.title) + '.</span> ' + esc(m.vote.summary) + '</p>';
+    h += '<p class="cast">' + esc(m.vote.cast) + '</p><p class="result">The bill ' + esc(m.vote.result.charAt(0).toLowerCase() + m.vote.result.slice(1)) + '</p>';
+    h += '<p class="src">Source: ' + esc(m.vote.source) + '</p></div>';
+
+    h += '<div class="panel"><h4>Groups that lobbied on this bill</h4>';
+    var hasLob = false;
+    for (var q = 0; q < m.lobbying.groups.length; q++) if (m.lobbying.groups[q][2] != null) hasLob = true;
+    if (hasLob) h += '<p class="lede">What each group spent on lobbying in its latest quarterly report naming this bill, across all issues, and what its PAC gave ' + esc(last) + ', ' + esc(m.lobbying.cycle) + '.</p>';
+    else h += '<p class="lede">And what each group’s PAC gave ' + esc(last) + ', ' + esc(m.lobbying.cycle) + '.</p>';
+    h += '<table class="tbl"><thead><tr><th scope="col">Group</th>' + (hasLob ? '<th scope="col" class="n" style="padding-right:14px">Lobbying</th>' : '') + '<th scope="col" class="n">PAC gave</th></tr></thead><tbody>';
+    for (var g = 0; g < m.lobbying.groups.length; g++) {
+      var G = m.lobbying.groups[g];
+      h += '<tr><td>' + esc(G[0]) + '</td>' + (hasLob ? '<td class="n" style="padding-right:14px">' + (G[2] != null ? money(G[2]) : 'Not reported') + '</td>' : '') + '<td class="n">' + money(G[1]) + '</td></tr>';
+    }
+    h += '</tbody></table><p class="src">Source: ' + esc(m.lobbying.source) + '</p></div>';
+
+    if (m.money) {
+      h += '<div class="panel"><h4>All campaign money, ' + esc(m.money.cycle) + '</h4>';
+      h += '<p class="total">' + esc(m.money.total) + ' raised</p>';
+      h += bars(m.money.types, true);
+      h += '<p class="src">Source: ' + esc(m.money.typesSource) + '</p>';
+      h += '<p class="subhead">Top industries</p>' + bars(m.money.sectors, false);
+      h += '<p class="src">Source: ' + esc(m.money.sectorsSource) + '</p></div>';
+    }
+    h += '</div>';
+    if (m.sample) h += SAMPLE_NOTE;
+
+    slide.innerHTML = h;
+    count.textContent = (at + 1) + " of " + MEMBERS.length;
+    prev.disabled = at === 0;
+    next.disabled = at === MEMBERS.length - 1;
+    var ds = dots.querySelectorAll("button");
+    for (var j = 0; j < ds.length; j++) ds[j].setAttribute("aria-current", j === at ? "true" : "false");
+  }
+
+  for (var k = 0; k < MEMBERS.length; k++) {
+    (function (n) {
+      var b = document.createElement("button");
+      b.type = "button";
+      b.setAttribute("aria-label", "Show " + MEMBERS[n].party + " " + MEMBERS[n].chamber + " example");
+      b.innerHTML = "<span></span>";
+      b.addEventListener("click", function () { at = n; render(); });
+      dots.appendChild(b);
+    })(k);
+  }
+  prev.addEventListener("click", function () { if (at > 0) { at--; render(); } });
+  next.addEventListener("click", function () { if (at < MEMBERS.length - 1) { at++; render(); } });
+  var sx = null;
+  slide.addEventListener("touchstart", function (e) { sx = e.touches[0].clientX; }, { passive: true });
+  slide.addEventListener("touchend", function (e) {
+    if (sx === null) return;
+    var dx = e.changedTouches[0].clientX - sx; sx = null;
+    if (dx < -50 && at < MEMBERS.length - 1) { at++; render(); }
+    if (dx > 50 && at > 0) { at--; render(); }
+  });
+  render();
+
+  /* ---- District maps ---- */
+  var dpick = document.getElementById("dpick"), dbox = document.getElementById("district");
+  var di = 0, byArea = false;
+
+  function shade(a) {
+    var m = a.d - a.r, op = Math.min(0.9, 0.2 + Math.abs(m) / 40);
+    return 'fill="' + (m >= 0 ? "var(--dem)" : "var(--rep)") + '" fill-opacity="' + op.toFixed(2) + '"';
+  }
+  function lead(o) {
+    var m = o.d - o.r;
+    return m >= 0 ? '<span class="d-txt">D+' + m + '</span>' : '<span class="r-txt">R+' + (-m) + '</span>';
+  }
+
+  function renderDistrict() {
+    var D = DISTRICTS[di], cid = "clip" + di, h = "";
+    h += '<div class="dmap"><div>';
+    h += '<svg viewBox="0 0 480 360" role="img" aria-label="Map of ' + esc(D.name) + (byArea ? ", shaded by how each area voted" : "") + '.">';
+    h += '<defs><clipPath id="' + cid + '"><polygon points="' + D.shape + '"/></clipPath></defs>';
+    if (byArea) {
+      h += '<g clip-path="url(#' + cid + ')">';
+      for (var i = 0; i < D.areas.length; i++) h += '<polygon points="' + D.areas[i].poly + '" ' + shade(D.areas[i]) + ' stroke="var(--bg)" stroke-width="2"/>';
+      h += '</g>';
+    } else {
+      h += '<polygon points="' + D.shape + '" ' + shade(D.whole) + '/>';
+    }
+    h += '<polygon points="' + D.shape + '" fill="none" stroke="var(--map-line)" stroke-width="2.5" stroke-linejoin="round"/>';
+    if (byArea) for (var j = 0; j < D.areas.length; j++) h += '<text x="' + D.areas[j].lx + '" y="' + D.areas[j].ly + '" text-anchor="middle">' + esc(D.areas[j].name) + '</text>';
+    h += '</svg>';
+    h += '<div class="legend"><span><i style="background:var(--dem);opacity:.8"></i>Democrat ahead</span><span><i style="background:var(--rep);opacity:.8"></i>Republican ahead</span><span>Darker means a wider margin</span></div>';
+    h += '</div><div>';
+    h += '<span class="party ' + (D.party === "Democrat" ? "d" : "r") + '">' + esc(D.label) + '</span>';
+    h += '<h3>' + esc(D.name) + '</h3><p class="meta">Represented by ' + esc(D.member) + '</p>';
+    h += '<p class="score">' + esc(D.score) + '</p><p class="small">Polsby-Popper score. 1 is a perfect circle.</p>';
+    h += '<p class="whole">' + esc(D.race) + ', whole district: <b>D ' + D.whole.d + '%, R ' + D.whole.r + '%</b> (' + lead(D.whole) + ')</p>';
+    h += '<div class="toggles"><button type="button" id="areaBtn" aria-pressed="' + byArea + '">' + (byArea ? "Show the whole district" : "See how each area voted") + '</button></div>';
+    if (byArea) {
+      h += '<table class="tbl"><thead><tr><th scope="col">Area</th><th scope="col" class="n">D</th><th scope="col" class="n">R</th><th scope="col" class="n">Margin</th></tr></thead><tbody>';
+      for (var k = 0; k < D.areas.length; k++) {
+        var a = D.areas[k];
+        h += '<tr><td>' + esc(a.name) + '</td><td class="n">' + a.d + '%</td><td class="n">' + a.r + '%</td><td class="n">' + lead(a) + '</td></tr>';
+      }
+      h += '</tbody></table>';
+    }
+    h += '<p class="src">Sources: ' + esc(D.scoreSource) + '. Results: ' + esc(D.resultsSource) + '.</p>';
+    h += '</div></div>';
+    if (D.sample) h += '<p class="sample">Placeholder district. The shape, areas and results will be replaced with official maps and certified results before launch.</p>';
+    dbox.innerHTML = h;
+    document.getElementById("areaBtn").addEventListener("click", function () { byArea = !byArea; renderDistrict(); document.getElementById("areaBtn").focus(); });
+    var bs = dpick.querySelectorAll("button");
+    for (var b = 0; b < bs.length; b++) bs[b].setAttribute("aria-pressed", b === di ? "true" : "false");
+  }
+
+  for (var n = 0; n < DISTRICTS.length; n++) {
+    (function (x) {
+      var b = document.createElement("button");
+      b.type = "button";
+      b.textContent = DISTRICTS[x].party === "Democrat" ? "Democratic-held" : "Republican-held";
+      b.addEventListener("click", function () { di = x; byArea = false; renderDistrict(); });
+      dpick.appendChild(b);
+    })(n);
+  }
+  renderDistrict();
+})();
+</script>
+</body>
+</html>

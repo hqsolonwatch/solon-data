@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<roll_call_vote>
+<congress>119</congress>
+<session>2</session>
+<congress_year>2026</congress_year>
+<vote_number>250</vote_number>
+<vote_date>September 28, 2026,  09:42 PM</vote_date>
+<modify_date>September 29, 2026,  10:00 AM</modify_date>
+<vote_question_text>On Passage of the Bill S. 4668, as Amended</vote_question_text>
+<vote_document_text>A bill to protect the name, image, and likeness rights of student athletes.</vote_document_text>
+<vote_result_text>Bill Passed (77-22)</vote_result_text>
+<question>On Passage of the Bill</question>
+<vote_title>S. 4668, as Amended</vote_title>
+<majority_requirement>1/2</majority_requirement>
+<vote_result>Bill Passed</vote_result>
+<document>
+<document_congress>119</document_congress>
+<document_type>S.</document_type>
+<document_number>4668</document_number>
+<document_name>S. 4668</document_name>
+<document_title>A bill to protect the name, image, and likeness rights of student athletes.</document_title>
+<document_short_title></document_short_title>
+</document>
+<count><yeas>77</yeas><nays>22</nays><present></present><absent>1</absent></count>
+<tie_breaker><by_whom></by_whom><tie_breaker_vote></tie_breaker_vote></tie_breaker>
+<members>
+<member><member_full>Collins (R-ME)</member_full><last_name>Collins</last_name><first_name>Susan</first_name><party>R</party><state>ME</state><vote_cast>Yea</vote_cast><lis_member_id>S252</lis_member_id></member>
+<member><member_full>Ossoff (D-GA)</member_full><last_name>Ossoff</last_name><first_name>Jon</first_name><party>D</party><state>GA</state><vote_cast>Yea</vote_cast><lis_member_id>S414</lis_member_id></member>
+<member><member_full>Paul (R-KY)</member_full><last_name>Paul</last_name><first_name>Rand</first_name><party>R</party><state>KY</state><vote_cast>Nay</vote_cast><lis_member_id>S348</lis_member_id></member>
+</members>
+</roll_call_vote>
