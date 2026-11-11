@@ -788,7 +788,7 @@
   },
   {
    "id": "C00012310",
-   "name": "BLACK & VEATCH POLITICAL ACTION COMMITTEE (BLACK & VEATCH PAC)",
+   "name": "BLACK & VEATCH CORPORATION POLITICAL ACTION COMMITTEE (BLACK & VEATCH PAC)",
    "connected_org": "BLACK & VEATCH CORPORATION",
    "org_type": "C",
    "type": "Q",
@@ -53005,7 +53005,7 @@
   {
    "id": "C00863647",
    "name": "NATIONAL COUNCIL OF AGRICULTURAL EMPLOYERS (AG EMPLOYER LABOR PAC)",
-   "connected_org": null,
+   "connected_org": "NATIONAL COUNCIL OF AGRICULTURAL EMPLOYERS",
    "org_type": "T",
    "type": "N",
    "designation": "U"
@@ -61485,7 +61485,7 @@
   {
    "id": "C00889881",
    "name": "LAUNCH AMERICA 1ST PAC",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "O",
    "designation": "B"
@@ -64653,7 +64653,7 @@
   {
    "id": "C00897900",
    "name": "ALPAC - AMERICAN LEBANESE PUBLIC AFFARIS COMMITTEE",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "U"
@@ -74637,7 +74637,7 @@
   {
    "id": "C00935767",
    "name": "1ST CONSERVATIVE FUND NC",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "O",
    "designation": "U"
@@ -75773,7 +75773,7 @@
   {
    "id": "C00939876",
    "name": "PUT ALASKA FIRST",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -78677,7 +78677,7 @@
   {
    "id": "C00948653",
    "name": "CORNERSTONE FOUNDERS PAC",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "O",
    "designation": "U"
@@ -80845,7 +80845,7 @@
   {
    "id": "C00954230",
    "name": "MIKE COLLINS VICTORY",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -81141,7 +81141,7 @@
   {
    "id": "C00955013",
    "name": "CHRIS GALLANT VICTORY FUND",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -84811,14 +84811,6 @@
    "designation": "U"
   },
   {
-   "id": "C00961953",
-   "name": "LAUREN BOEBERT LOVES TO EAT PUSSY",
-   "connected_org": "NONE",
-   "org_type": null,
-   "type": "O",
-   "designation": "U"
-  },
-  {
    "id": "C00961961",
    "name": "AMERICA TOGETHER PAC",
    "connected_org": "NONE",
@@ -86361,6 +86353,30 @@
    "org_type": null,
    "type": "N",
    "designation": "J"
+  },
+  {
+   "id": "C00964940",
+   "name": "SAPPER PAC",
+   "connected_org": "OJEDA",
+   "org_type": null,
+   "type": "N",
+   "designation": "D"
+  },
+  {
+   "id": "C00964965",
+   "name": "REPUBLIC OVERWATCH COMMITTEE",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "N",
+   "designation": "U"
+  },
+  {
+   "id": "C00964981",
+   "name": "RIGHT FOR LOUISIANA PAC",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "O",
+   "designation": "U"
   },
   {
    "id": "C99002396",

@@ -1361,6 +1361,16 @@
     "coverage_end": "02/17/2025"
    },
    {
+    "candidate_id": "H8AZ03183",
+    "name": "REDKEY, DAVID WAYNE MR.",
+    "party": "Democrat",
+    "status": "",
+    "bioguide": null,
+    "receipts": 0.0,
+    "cash_on_hand": 0.0,
+    "coverage_end": "10/14/2026"
+   },
+   {
     "candidate_id": "H2AZ07187",
     "name": "ZINK, JEFFREY NELSON MR",
     "party": "Republican",
@@ -2012,7 +2022,7 @@
     "candidate_id": "H6CA01269",
     "name": "MCGUIRE, MIKE",
     "party": "Democrat",
-    "status": "Challenger",
+    "status": "Incumbent",
     "bioguide": null,
     "receipts": 2266830.12,
     "cash_on_hand": 153646.5,
@@ -3028,7 +3038,7 @@
     "candidate_id": "H0CA15213",
     "name": "WAHAB, AISHA",
     "party": "Democrat",
-    "status": "Open seat",
+    "status": "Incumbent",
     "bioguide": "W000832",
     "receipts": 1214546.85,
     "cash_on_hand": 462322.33,
@@ -7547,18 +7557,6 @@
     "coverage_end": "04/03/2025"
    }
   ],
-  "DC-SEN": [
-   {
-    "candidate_id": "S6MD03441",
-    "name": "VAN HOLLEN, CHRIS",
-    "party": "Democrat",
-    "status": "Incumbent",
-    "bioguide": "V000128",
-    "receipts": 2503116.41,
-    "cash_on_hand": 3641970.0,
-    "coverage_end": "09/30/2026"
-   }
-  ],
   "DE-AL": [
    {
     "candidate_id": "H4DE00045",
@@ -8418,7 +8416,7 @@
     "candidate_id": "H6FL06258",
     "name": "FINE, RANDY",
     "party": "Republican",
-    "status": "Challenger",
+    "status": "Incumbent",
     "bioguide": "F000484",
     "receipts": 4645044.9,
     "cash_on_hand": 184588.47,
@@ -9487,6 +9485,16 @@
     "name": "PEOPLE, ROBERT",
     "party": "Democrat",
     "status": "Challenger",
+    "bioguide": null,
+    "receipts": 82518.46,
+    "cash_on_hand": 26624.85,
+    "coverage_end": "10/14/2026"
+   },
+   {
+    "candidate_id": "H8FL15305",
+    "name": "PEOPLE, ROBERT",
+    "party": "Democrat",
+    "status": "",
     "bioguide": null,
     "receipts": 82518.46,
     "cash_on_hand": 26624.85,
@@ -19244,6 +19252,16 @@
     "bioguide": null,
     "receipts": 26216747.35,
     "cash_on_hand": 1216060.59,
+    "coverage_end": "09/30/2026"
+   },
+   {
+    "candidate_id": "S6MD03441",
+    "name": "VAN HOLLEN, CHRIS",
+    "party": "Democrat",
+    "status": "Incumbent",
+    "bioguide": "V000128",
+    "receipts": 2503116.41,
+    "cash_on_hand": 3641970.0,
     "coverage_end": "09/30/2026"
    },
    {
@@ -36952,7 +36970,7 @@
     "candidate_id": "H6TX18232",
     "name": "MENEFEE, CHRISTIAN",
     "party": "Democrat",
-    "status": "Challenger",
+    "status": "Incumbent",
     "bioguide": "M001245",
     "receipts": 3761777.28,
     "cash_on_hand": 77685.42,
@@ -39118,7 +39136,7 @@
     "party": "Independent",
     "status": "Challenger",
     "bioguide": null,
-    "receipts": 18959.79,
+    "receipts": 27728.03,
     "cash_on_hand": 1435.7,
     "coverage_end": "10/14/2026"
    },
@@ -42332,9 +42350,9 @@
     "party": "Democrat",
     "status": "Challenger",
     "bioguide": null,
-    "receipts": 9799.62,
-    "cash_on_hand": 12577.58,
-    "coverage_end": "07/22/2026"
+    "receipts": 10190.62,
+    "cash_on_hand": 1844.39,
+    "coverage_end": "11/05/2026"
    },
    {
     "candidate_id": "H6WI01267",

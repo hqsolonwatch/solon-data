@@ -564,14 +564,14 @@ var ROLLCALLS = {
     ],
     [
       "Nov 2026",
-      2,
-      1
+      5,
+      2
     ]
   ],
   "meta": {
     "start": "January 3, 2025",
-    "through": "November 9, 2026",
-    "total": 1594,
+    "through": "November 10, 2026",
+    "total": 1598,
     "election": {
       "date": "November 3, 2026",
       "month": "Nov 2026",
@@ -582,7 +582,7 @@ var ROLLCALLS = {
 };
 
 var SCHEDULE = {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "house": {
     "week": "November 9",
     "rows": [
@@ -614,12 +614,5 @@ var SCHEDULE = {
     "listed": 15,
     "source": "docs.house.gov floor schedule; results from House Clerk roll calls 315 and 316"
   },
-  "senate": [
-    {
-      "bill": "H.R. 2347",
-      "title": "Survivor Justice Tax Prevention Act",
-      "note": "The Senate voted 73 to 25 on November 9 to end debate on the motion to proceed to the bill. More votes on it are expected.",
-      "status": "Expected"
-    }
-  ]
+  "senate": []
 };

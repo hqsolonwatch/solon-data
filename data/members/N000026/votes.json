@@ -23,6 +23,69 @@
  },
  "votes": [
   {
+   "vote_id": "house-119-2-319",
+   "date": "2026-11-10",
+   "vote": "Yea",
+   "kind": "resolution",
+   "question": "On Agreeing to the Resolution",
+   "result": "Passed",
+   "bill": {
+    "type": "hres",
+    "number": 1650,
+    "label": "H.Res. 1650",
+    "id": "hres1650-119"
+   },
+   "totals": {
+    "yea": 215,
+    "nay": 209,
+    "present": 0,
+    "not_voting": 9
+   },
+   "source_url": "https://clerk.house.gov/evs/2026/roll319.xml"
+  },
+  {
+   "vote_id": "house-119-2-318",
+   "date": "2026-11-10",
+   "vote": "Yea",
+   "kind": "procedural",
+   "question": "On Ordering the Previous Question",
+   "result": "Passed",
+   "bill": {
+    "type": "hres",
+    "number": 1650,
+    "label": "H.Res. 1650",
+    "id": "hres1650-119"
+   },
+   "totals": {
+    "yea": 213,
+    "nay": 207,
+    "present": 0,
+    "not_voting": 13
+   },
+   "source_url": "https://clerk.house.gov/evs/2026/roll318.xml"
+  },
+  {
+   "vote_id": "house-119-2-317",
+   "date": "2026-11-10",
+   "vote": "Yea",
+   "kind": "procedural",
+   "question": "On Motion to Refer",
+   "result": "Passed",
+   "bill": {
+    "type": "hres",
+    "number": 1655,
+    "label": "H.Res. 1655",
+    "id": "hres1655-119"
+   },
+   "totals": {
+    "yea": 211,
+    "nay": 204,
+    "present": 0,
+    "not_voting": 18
+   },
+   "source_url": "https://clerk.house.gov/evs/2026/roll317.xml"
+  },
+  {
    "vote_id": "house-119-2-316",
    "date": "2026-11-09",
    "vote": "Not Voting",

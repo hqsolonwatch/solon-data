@@ -23,6 +23,27 @@
  },
  "votes": [
   {
+   "vote_id": "senate-119-2-258",
+   "date": "2026-11-10",
+   "vote": "Not Voting",
+   "kind": "procedural",
+   "question": "On the Motion to Proceed",
+   "result": "Motion to Proceed Agreed to (62-21)",
+   "bill": {
+    "type": "hr",
+    "number": 2347,
+    "label": "H.R. 2347",
+    "id": "hr2347-119"
+   },
+   "totals": {
+    "yea": 62,
+    "nay": 21,
+    "present": 0,
+    "not_voting": 17
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00258.xml"
+  },
+  {
    "vote_id": "senate-119-2-257",
    "date": "2026-11-09",
    "vote": "Yea",

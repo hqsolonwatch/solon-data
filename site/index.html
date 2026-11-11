@@ -131,6 +131,9 @@ h2{font-size:clamp(26px,4vw,32px);font-weight:700;letter-spacing:-.01em;margin:4
 .tbl td{padding:8px 10px 8px 0;border-bottom:1px solid var(--line);vertical-align:top}
 .tbl .n{text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
 .tbl td.n{font-weight:600;color:var(--ink)}
+.tbl tr>:last-child{padding-right:0}
+.tbl .sm{display:none}
+@media (max-width:560px){.tbl{font-size:14px}.tbl .lg{display:none}.tbl .sm{display:inline}.tbl td:first-child{hyphens:auto;overflow-wrap:anywhere}.tbl th,.tbl td{padding-right:8px}.tbl tr>:last-child{padding-right:0}}
 .tbl tr>*:last-child{padding-right:0}
 details.src{margin-top:12px}
 details.src summary{cursor:pointer;font-size:14px;color:var(--sign-deep);font-weight:500;list-style:none}
@@ -200,7 +203,7 @@ ol.steps li::before{content:counter(s);font-family:var(--mono);font-size:15px;co
   <section class="hero">
     <h1>Elections end. Accountability shouldn’t.</h1>
     <p class="lead">Most people follow politics closely around Election Day and much less in the two to four years after it. Solon Watch keeps following for you. It records how your senators and House member vote and where their campaign money comes from, and it shows you who lives inside your district’s lines.</p>
-    <form class="wl" data-signup><label class="sr" for="email-top">Email address</label><input id="email-top" type="email" placeholder="you@example.com" autocomplete="email"><button type="submit">Get early access</button></form>
+    <form class="wl" data-signup name="waitlist" method="POST" data-netlify="true" netlify-honeypot="company"><input type="hidden" name="form-name" value="waitlist"><p class="sr"><label>Leave this empty <input name="company" tabindex="-1" autocomplete="off"></label></p><label class="sr" for="email-top">Email address</label><input id="email-top" name="email" type="email" placeholder="you@example.com" autocomplete="email"><button type="submit">Get early access</button></form>
     <p class="err" hidden>That email address doesn’t look right. Check for a typo and try again.</p>
     <p class="ok" hidden>You’re on the list. We’ll email you when Solon Watch opens.</p>
     <p class="note">Launching with the U.S. Senate and House. Bill alerts are free.</p>
@@ -219,7 +222,7 @@ ol.steps li::before{content:counter(s);font-family:var(--mono);font-size:15px;co
 
     <section class="mile"><div class="mm" aria-hidden="true"><span>MILE</span><b>2</b></div><div class="mc">
       <h2>Votes and money</h2>
-      <p>Here are four members of Congress, two from each party, as they’ll appear in Solon Watch. Each shows the member’s most recent vote on a bill, the groups that lobbied on that bill, and what those groups’ PACs gave the member. The two senators raised the most money in their parties this cycle, so their pages also show where all of it came from.</p>
+      <p>Here are four members of Congress, two from each party, as they’ll appear in Solon Watch. Each shows the member’s most recent vote to pass a bill, the groups that lobbied on that bill, and what those groups’ PACs gave the member. The two senators raised the most money in their parties this cycle, so their pages also show where all of it came from.</p>
       <div class="members" id="members" role="group" aria-label="Choose a member of Congress"></div>
       <div class="card" id="show">
         <div class="card-head">
@@ -268,7 +271,7 @@ ol.steps li::before{content:counter(s);font-family:var(--mono);font-size:15px;co
         <svg viewBox="0 0 44 44" aria-hidden="true"><path d="M10 34 L32 12 M15 10 H34 V29" stroke="#fff" stroke-width="5.5" fill="none"/></svg></div>
       </div>
       <p>Join the waitlist and we’ll email you when Solon Watch opens.</p>
-      <form class="wl" data-signup><label class="sr" for="email-bottom">Email address</label><input id="email-bottom" type="email" placeholder="you@example.com" autocomplete="email"><button type="submit">Join the waitlist</button></form>
+      <form class="wl" data-signup name="waitlist" method="POST" data-netlify="true" netlify-honeypot="company"><input type="hidden" name="form-name" value="waitlist"><p class="sr"><label>Leave this empty <input name="company" tabindex="-1" autocomplete="off"></label></p><label class="sr" for="email-bottom">Email address</label><input id="email-bottom" name="email" type="email" placeholder="you@example.com" autocomplete="email"><button type="submit">Join the waitlist</button></form>
       <p class="err" hidden>That email address doesn’t look right. Check for a typo and try again.</p>
       <p class="ok" hidden>You’re on the list. We’ll email you when Solon Watch opens.</p>
     </div></section>
@@ -845,14 +848,14 @@ var ROLLCALLS = {
     ],
     [
       "Nov 2026",
-      2,
-      1
+      5,
+      2
     ]
   ],
   "meta": {
     "start": "January 3, 2025",
-    "through": "November 9, 2026",
-    "total": 1594,
+    "through": "November 10, 2026",
+    "total": 1598,
     "election": {
       "date": "November 3, 2026",
       "month": "Nov 2026",
@@ -863,7 +866,7 @@ var ROLLCALLS = {
 };
 
 var SCHEDULE = {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "house": {
     "week": "November 9",
     "rows": [
@@ -895,14 +898,7 @@ var SCHEDULE = {
     "listed": 15,
     "source": "docs.house.gov floor schedule; results from House Clerk roll calls 315 and 316"
   },
-  "senate": [
-    {
-      "bill": "H.R. 2347",
-      "title": "Survivor Justice Tax Prevention Act",
-      "note": "The Senate voted 73 to 25 on November 9 to end debate on the motion to proceed to the bill. More votes on it are expected.",
-      "status": "Expected"
-    }
-  ]
+  "senate": []
 };
 /* PAGE DATA END */
 
@@ -911,6 +907,11 @@ var SCHEDULE = {
   function money(n) {
     if (n >= 1000000) return "$" + (n / 1000000).toFixed(1) + " million";
     return "$" + String(Math.round(n)).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+  }
+  /* Full amount on wide screens, short form ($4.5M, $600K) on phones */
+  function moneyFit(n) {
+    var s = n >= 1000000 ? "$" + (n / 1000000).toFixed(1) + "M" : n >= 10000 ? "$" + Math.round(n / 1000) + "K" : money(n);
+    return '<span class="lg">' + money(n) + '</span><span class="sm">' + s + '</span>';
   }
 
   function SRC(t) { return '<details class="src"><summary>Sources</summary><p class="src">' + esc(t) + '</p></details>'; }
@@ -973,11 +974,20 @@ var SCHEDULE = {
   /* Sign-up forms */
   var forms = document.querySelectorAll("[data-signup]"), re = /^\S+@\S+\.\S+$/;
   forms.forEach(function (f) {
-    var input = f.querySelector("input"), err = f.nextElementSibling, ok = err.nextElementSibling;
+    var input = f.querySelector('input[type="email"]'), btn = f.querySelector("button"), err = f.nextElementSibling, ok = err.nextElementSibling;
+    var badEmail = err.textContent, failed = "Something went wrong and your email wasn’t saved. Please try again, or email hq@solonwatch.com.";
     f.addEventListener("submit", function (e) {
       e.preventDefault();
-      if (!re.test(input.value.trim())) { err.hidden = false; input.focus(); return; }
-      forms.forEach(function (g) { g.hidden = true; g.nextElementSibling.hidden = true; g.nextElementSibling.nextElementSibling.hidden = false; });
+      if (!re.test(input.value.trim())) { err.textContent = badEmail; err.hidden = false; input.focus(); return; }
+      btn.disabled = true;
+      /* Saves the email with Netlify Forms (Netlify dashboard: Forms > waitlist) */
+      fetch("/", { method: "POST", headers: { "Content-Type": "application/x-www-form-urlencoded" },
+                   body: new URLSearchParams(new FormData(f)).toString() })
+        .then(function (r) {
+          if (!r.ok) throw new Error(r.status);
+          forms.forEach(function (g) { g.hidden = true; g.nextElementSibling.hidden = true; g.nextElementSibling.nextElementSibling.hidden = false; });
+        })
+        .catch(function () { err.textContent = failed; err.hidden = false; btn.disabled = false; });
     });
     input.addEventListener("input", function () { err.hidden = true; });
   });
@@ -1002,7 +1012,7 @@ var SCHEDULE = {
     var last = m.name.replace(/^(Sen\.|Rep\.)\s*/, "");
     who.innerHTML = '<span class="pill ' + (d ? "d" : "r") + '">' + esc(m.party) + '</span><h3>' + esc(m.name) + '</h3><p class="role">' + esc(m.role) + '</p>';
     h += '<div class="panels' + (m.money ? "" : " two") + '">';
-    h += '<div class="panel"><h4>Most recent vote on a bill</h4>';
+    h += '<div class="panel"><h4>Most recent vote to pass a bill</h4>';
     h += '<p class="billno">' + esc(m.vote.bill) + ' · ' + esc(m.vote.date) + '</p>';
     h += '<p><span class="billname">' + esc(m.vote.title) + '.</span> ' + esc(m.vote.summary) + '</p>';
     var cls = m.vote.cast === "Yea" ? "yea" : m.vote.cast === "Nay" ? "nay" : "nv";
@@ -1013,7 +1023,7 @@ var SCHEDULE = {
     h += '<p class="lede">What each group spent on lobbying in its latest quarterly report naming this bill, across all issues, and what its PAC gave ' + esc(last) + ', ' + esc(m.lobbying.cycle) + '.</p>';
     h += '<div class="tblw"><table class="tbl"><thead><tr><th scope="col">Group</th><th scope="col" class="n">Lobbying</th><th scope="col" class="n">PAC gave</th></tr></thead><tbody>';
     m.lobbying.groups.forEach(function (G) {
-      h += '<tr><td>' + esc(G[0]) + '</td><td class="n">' + (G[2] != null ? money(G[2]) : "Not reported") + '</td><td class="n">' + money(G[1]) + '</td></tr>';
+      h += '<tr><td>' + esc(G[0]) + '</td><td class="n">' + (G[2] != null ? moneyFit(G[2]) : "Not reported") + '</td><td class="n">' + moneyFit(G[1]) + '</td></tr>';
     });
     h += '</tbody></table></div>' + SRC(m.lobbying.source) + '</div>';
 
