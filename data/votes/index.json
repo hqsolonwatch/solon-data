@@ -1,6 +1,94 @@
 {
- "count": 1598,
+ "count": 1600,
  "votes": [
+  {
+   "id": "house-119-2-321",
+   "chamber": "house",
+   "congress": 119,
+   "session": 2,
+   "number": 321,
+   "date": "2026-11-11",
+   "question": "On Passage",
+   "kind": "passage",
+   "result": "Passed",
+   "bill": {
+    "type": "hr",
+    "number": 1013,
+    "label": "H.R. 1013",
+    "id": "hr1013-119"
+   },
+   "totals": {
+    "yea": 295,
+    "nay": 128,
+    "present": 0,
+    "not_voting": 10
+   },
+   "by_party": {
+    "Republican": {
+     "yea": 211,
+     "nay": 0,
+     "present": 0,
+     "not-voting": 7
+    },
+    "Democratic": {
+     "yea": 83,
+     "nay": 128,
+     "present": 0,
+     "not-voting": 3
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "present": 0,
+     "not-voting": 0
+    }
+   },
+   "source_url": "https://clerk.house.gov/evs/2026/roll321.xml"
+  },
+  {
+   "id": "house-119-2-320",
+   "chamber": "house",
+   "congress": 119,
+   "session": 2,
+   "number": 320,
+   "date": "2026-11-11",
+   "question": "On Motion to Discharge",
+   "kind": "procedural",
+   "result": "Passed",
+   "bill": {
+    "type": "hres",
+    "number": 1247,
+    "label": "H.Res. 1247",
+    "id": "hres1247-119"
+   },
+   "totals": {
+    "yea": 245,
+    "nay": 175,
+    "present": 0,
+    "not_voting": 13
+   },
+   "by_party": {
+    "Republican": {
+     "yea": 34,
+     "nay": 175,
+     "present": 0,
+     "not-voting": 9
+    },
+    "Democratic": {
+     "yea": 210,
+     "nay": 0,
+     "present": 0,
+     "not-voting": 4
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "present": 0,
+     "not-voting": 0
+    }
+   },
+   "source_url": "https://clerk.house.gov/evs/2026/roll320.xml"
+  },
   {
    "id": "senate-119-2-258",
    "chamber": "senate",

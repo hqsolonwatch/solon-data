@@ -1,0 +1,1995 @@
+{
+ "bill": "hr1013-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "fetched_ts": 1794485792,
+ "report_count": 154,
+ "clients": [
+  {
+   "client": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "display_name": "Chamber of Commerce of the U.s.a.",
+   "reports": 1,
+   "latest_report_amount": 19340000.0,
+   "latest_report": "9540c35a-5726-45ad-aa09-89283b86b0c0",
+   "latest_report_period": "2025 second_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "SECURITIES INDUSTRY AND FINANCIAL MARKETS ASSOCIATION",
+   "display_name": "Securities Industry and Financial Markets Association",
+   "reports": 5,
+   "latest_report_amount": 1910000.0,
+   "latest_report": "8f014c54-6909-4be7-a5a0-95cca38d9e80",
+   "latest_report_period": "2026 first_quarter",
+   "pac_ids": [
+    "C00431312"
+   ],
+   "pac_names": [
+    "SECURITIES INDUSTRY AND FINANCIAL MARKETS ASSOCIATION POLITICAL ACTION COMMITTEE"
+   ]
+  },
+  {
+   "client": "AMERICAN ASSOCIATION FOR JUSTICE",
+   "display_name": "American Association for Justice",
+   "reports": 6,
+   "latest_report_amount": 1580000.0,
+   "latest_report": "3d207ca1-0d36-4dea-a158-ec7ef9193754",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "AMERICAN COUNCIL OF LIFE INSURERS",
+   "display_name": "American Council of Life Insurers",
+   "reports": 8,
+   "latest_report_amount": 1002681.0,
+   "latest_report": "cf8e7370-fbf8-496c-b9c9-560a4b18fcb4",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00147066"
+   ],
+   "pac_names": [
+    "AMERICAN COUNCIL OF LIFE INSURERS POLITICAL ACTION COMMITTEE"
+   ]
+  },
+  {
+   "client": "INVESTMENT COMPANY INSTITUTE",
+   "display_name": "Investment Company Institute",
+   "reports": 6,
+   "latest_report_amount": 916510.0,
+   "latest_report": "d0f345f1-923d-425d-966c-23731bf39cca",
+   "latest_report_period": "2025 fourth_quarter",
+   "pac_ids": [
+    "C00105981"
+   ],
+   "pac_names": [
+    "INVESTMENT COMPANY INSTITUTE POLITICAL ACTION COMMITTEE (ICI PAC)"
+   ]
+  },
+  {
+   "client": "TIAA",
+   "display_name": "Tiaa",
+   "reports": 14,
+   "latest_report_amount": 580000.0,
+   "latest_report": "165b9cd6-d323-4059-b790-2ffdc4cf0913",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "CHARLES SCHWAB CORPORATION",
+   "display_name": "Charles Schwab",
+   "reports": 1,
+   "latest_report_amount": 530000.0,
+   "latest_report": "84fa9c43-c163-46da-9222-35060cf09aaf",
+   "latest_report_period": "2025 second_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "LPL FINANCIAL",
+   "display_name": "LPL Financial",
+   "reports": 9,
+   "latest_report_amount": 520000.0,
+   "latest_report": "8128904c-e48c-4329-b4e7-ed11e1d20bb5",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00486217"
+   ],
+   "pac_names": [
+    "LPL FINANCIAL LLC POLITICAL ACTION COMMITTEE (LPL PAC)"
+   ]
+  },
+  {
+   "client": "VANGUARD GROUP",
+   "display_name": "Vanguard Group",
+   "reports": 7,
+   "latest_report_amount": 510000.0,
+   "latest_report": "6d56c67a-92fa-4a51-8903-1db112f5da68",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00410266"
+   ],
+   "pac_names": [
+    "THE VANGUARD GROUP COMMITTEE FOR RESPONSIBLE GOVERNMENT"
+   ]
+  },
+  {
+   "client": "GUARDIAN LIFE INSURANCE COMPANY OF AMERICA",
+   "display_name": "Guardian Life Insurance Company of America",
+   "reports": 6,
+   "latest_report_amount": 510000.0,
+   "latest_report": "6e374eb2-7a54-4cff-99b4-714af27085be",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00173393"
+   ],
+   "pac_names": [
+    "THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA POLITICAL ACTION COMMITTEE - FEDERAL (GUARDIAN LIFE P"
+   ]
+  },
+  {
+   "client": "PACIFIC LIFE INSURANCE COMPANY",
+   "display_name": "Pacific Life Insurance Company",
+   "reports": 6,
+   "latest_report_amount": 480000.0,
+   "latest_report": "45711a37-345e-4580-812d-5e80c0e570a1",
+   "latest_report_period": "2026 second_quarter",
+   "pac_ids": [
+    "C00068528"
+   ],
+   "pac_names": [
+    "PACIFIC LIFE INSURANCE COMPANY POLITICAL ACTION COMMITTEE"
+   ]
+  },
+  {
+   "client": "PRINCIPAL FINANCIAL GROUP",
+   "display_name": "Principal Financial Group",
+   "reports": 7,
+   "latest_report_amount": 468000.0,
+   "latest_report": "9af3f2df-9f16-4ae1-9353-ddd9af8f343c",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00128918"
+   ],
+   "pac_names": [
+    "PRINCIPAL LIFE INSURANCE COMPANY POLITICAL ACTION COMMITTEE"
+   ]
+  },
+  {
+   "client": "METLIFE GROUP, INC.",
+   "display_name": "Metlife Group",
+   "reports": 1,
+   "latest_report_amount": 430000.0,
+   "latest_report": "5f5dee77-57c1-4b6f-9c2c-8b3312569f3e",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00040923",
+    "C00493551"
+   ],
+   "pac_names": [
+    "METLIFE INC. EMPLOYEES' POLITICAL PARTICIPATION FUND A",
+    "METLIFE INC. EMPLOYEES' POLITICAL PARTICIPATION FUND A - FEDERAL ONLY"
+   ]
+  },
+  {
+   "client": "AMERICAN SOCIETY OF PENSION PROFESSIONALS & ACTUARIES",
+   "display_name": "American Society of Pension Professionals & Actuaries",
+   "reports": 7,
+   "latest_report_amount": 428151.0,
+   "latest_report": "04f8c964-0e92-4805-9db8-77330bb9b486",
+   "latest_report_period": "2026 second_quarter",
+   "pac_ids": [
+    "C00515049"
+   ],
+   "pac_names": [
+    "AMERICAN SOCIETY OF PENSION PROFESSIONALS & ACTUARIES NTSA PAC"
+   ]
+  },
+  {
+   "client": "AMERIPRISE FINANCIAL, INC.",
+   "display_name": "Ameriprise Financial",
+   "reports": 7,
+   "latest_report_amount": 340000.0,
+   "latest_report": "9b22a19b-a62c-4dd8-81a8-2a17e12e9635",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00414474"
+   ],
+   "pac_names": [
+    "AMERIPRISE FINANCIAL INC. POLITICAL ACTION COMMITTEE (AMERIPRISEPAC)"
+   ]
+  },
+  {
+   "client": "INTERNATIONAL FRESH PRODUCE ASSOCIATION (FKA UNITED FRESH PRODUCE ASSOCIATION)",
+   "display_name": "International Fresh Produce Association",
+   "reports": 1,
+   "latest_report_amount": 299000.0,
+   "latest_report": "a7911d3b-b8d0-4b61-819c-26ce583d9ce3",
+   "latest_report_period": "2025 first_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "FRANKLIN TEMPLETON, INC. AND AFFILIATES (FORMERLY FRANKLIN RESOURCES, INC.)",
+   "display_name": "Franklin Templeton, Inc. and Affiliates",
+   "reports": 7,
+   "latest_report_amount": 280000.0,
+   "latest_report": "3609a576-92b5-441a-8206-86ade62f9891",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "AMERICAN BENEFITS COUNCIL",
+   "display_name": "American Benefits Council",
+   "reports": 5,
+   "latest_report_amount": 280000.0,
+   "latest_report": "780bdc87-422f-4966-a6ce-4a836bd25141",
+   "latest_report_period": "2026 first_quarter",
+   "pac_ids": [
+    "C00153171"
+   ],
+   "pac_names": [
+    "AMERICAN BENEFITS COUNCIL POLITICAL ACTION COMMITTEE"
+   ]
+  },
+  {
+   "client": "AMERICAN HEART ASSOCIATION",
+   "display_name": "American Heart Association",
+   "reports": 1,
+   "latest_report_amount": 230000.0,
+   "latest_report": "dfebe284-a100-4a29-ad8e-cf714cbadda5",
+   "latest_report_period": "2025 fourth_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NORTHERN TRUST CORPORATION",
+   "display_name": "Northern Trust",
+   "reports": 1,
+   "latest_report_amount": 170000.0,
+   "latest_report": "49e46921-af8d-4e7a-b375-0bf8bf030a70",
+   "latest_report_period": "2025 fourth_quarter",
+   "pac_ids": [
+    "C00515148"
+   ],
+   "pac_names": [
+    "NORTHERN TRUST CORPORATION FEDERAL POLITICAL ACTION COMMITTEE (NORTHERN TRUST FEDERAL PAC)"
+   ]
+  },
+  {
+   "client": "AMERICANS FOR FINANCIAL REFORM",
+   "display_name": "Americans for Financial Reform",
+   "reports": 1,
+   "latest_report_amount": 150000.0,
+   "latest_report": "3faf39b4-e569-4cab-9cab-d88082d3de2c",
+   "latest_report_period": "2025 second_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "CHURCH ALLIANCE",
+   "display_name": "Church Alliance",
+   "reports": 10,
+   "latest_report_amount": 130000.0,
+   "latest_report": "35aaf3fe-3793-4196-9dad-aaf273790e45",
+   "latest_report_period": "2025 fourth_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "AMERICAN RETIREMENT ASSOCIATION",
+   "display_name": "American Retirement Association",
+   "reports": 6,
+   "latest_report_amount": 60000.0,
+   "latest_report": "0e31351a-785b-4261-8f83-1811f675a887",
+   "latest_report_period": "2026 second_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NATIONAL COUNCIL ON TEACHER RETIREMENT 9370 STUDIO COURT ELK GROVE CA 95758",
+   "display_name": "National Council on Teacher Retirement 9370 Studio Court Elk Grove Ca 95758",
+   "reports": 5,
+   "latest_report_amount": 60000.0,
+   "latest_report": "bb57345a-30d4-4941-a94e-be8ce9ecdf91",
+   "latest_report_period": "2026 first_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "INSURED RETIREMENT INSTITUTE",
+   "display_name": "Insured Retirement Institute",
+   "reports": 1,
+   "latest_report_amount": 50000.0,
+   "latest_report": "00895dcb-f81b-4a90-94e4-62fd0768c763",
+   "latest_report_period": "2025 second_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "WILLIS NORTH AMERICA INC.",
+   "display_name": "Willis North America",
+   "reports": 6,
+   "latest_report_amount": 50000.0,
+   "latest_report": "aa6e8d3b-0083-433e-b273-fc754083982f",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00418731"
+   ],
+   "pac_names": [
+    "WILLIS NORTH AMERICA INC POLITICAL ACTION COMMITTEE"
+   ]
+  },
+  {
+   "client": "PRUDENTIAL FINANCIAL",
+   "display_name": "Prudential Financial",
+   "reports": 7,
+   "latest_report_amount": 40000.0,
+   "latest_report": "b8c41661-a0e9-492a-a6e2-7a539e6a996e",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00127779",
+    "C00493304"
+   ],
+   "pac_names": [
+    "PRUDENTIAL FINANCIAL INC. FEDERAL POLITICAL ACTION COMMITTEE (AKA - PRUDENTIAL FEDERAL PAC)",
+    "PRUDENTIAL FINANCIAL, INC. STATE & FEDERAL POLITICAL ACTION COMMITTEE (AKA PRUDENTIAL STATE & FEDERAL PAC)"
+   ]
+  },
+  {
+   "client": "T. ROWE PRICE GROUP, INC.",
+   "display_name": "T. Rowe Price Group",
+   "reports": 6,
+   "latest_report_amount": 30000.0,
+   "latest_report": "948b9a26-e3a5-41cc-ab3f-0bb6406b082f",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "INVESTMENT COMPANY INSTITUTE (ICI)",
+   "display_name": "Investment Company Institute (ici)",
+   "reports": 3,
+   "latest_report_amount": 20000.0,
+   "latest_report": "f6304d94-ce49-4bca-8c3d-765af3d405d8",
+   "latest_report_period": "2026 second_quarter",
+   "pac_ids": [
+    "C00105981"
+   ],
+   "pac_names": [
+    "INVESTMENT COMPANY INSTITUTE POLITICAL ACTION COMMITTEE (ICI PAC)"
+   ]
+  },
+  {
+   "client": "SYMETRA LIFE INSURANCE COMPANY",
+   "display_name": "Symetra Life Insurance Company",
+   "reports": 3,
+   "latest_report_amount": null,
+   "latest_report": "70cd9378-8739-4a13-8444-a1630164c68f",
+   "latest_report_period": "2026 second_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  }
+ ],
+ "groups_shown": [
+  {
+   "client": "SECURITIES INDUSTRY AND FINANCIAL MARKETS ASSOCIATION",
+   "display_name": "Securities Industry and Financial Markets Association",
+   "reports": 5,
+   "latest_report_amount": 1910000.0,
+   "latest_report": "8f014c54-6909-4be7-a5a0-95cca38d9e80",
+   "latest_report_period": "2026 first_quarter",
+   "pac_ids": [
+    "C00431312"
+   ],
+   "pac_names": [
+    "SECURITIES INDUSTRY AND FINANCIAL MARKETS ASSOCIATION POLITICAL ACTION COMMITTEE"
+   ]
+  },
+  {
+   "client": "AMERICAN COUNCIL OF LIFE INSURERS",
+   "display_name": "American Council of Life Insurers",
+   "reports": 8,
+   "latest_report_amount": 1002681.0,
+   "latest_report": "cf8e7370-fbf8-496c-b9c9-560a4b18fcb4",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00147066"
+   ],
+   "pac_names": [
+    "AMERICAN COUNCIL OF LIFE INSURERS POLITICAL ACTION COMMITTEE"
+   ]
+  },
+  {
+   "client": "INVESTMENT COMPANY INSTITUTE",
+   "display_name": "Investment Company Institute",
+   "reports": 6,
+   "latest_report_amount": 916510.0,
+   "latest_report": "d0f345f1-923d-425d-966c-23731bf39cca",
+   "latest_report_period": "2025 fourth_quarter",
+   "pac_ids": [
+    "C00105981"
+   ],
+   "pac_names": [
+    "INVESTMENT COMPANY INSTITUTE POLITICAL ACTION COMMITTEE (ICI PAC)"
+   ]
+  },
+  {
+   "client": "LPL FINANCIAL",
+   "display_name": "LPL Financial",
+   "reports": 9,
+   "latest_report_amount": 520000.0,
+   "latest_report": "8128904c-e48c-4329-b4e7-ed11e1d20bb5",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00486217"
+   ],
+   "pac_names": [
+    "LPL FINANCIAL LLC POLITICAL ACTION COMMITTEE (LPL PAC)"
+   ]
+  },
+  {
+   "client": "VANGUARD GROUP",
+   "display_name": "Vanguard Group",
+   "reports": 7,
+   "latest_report_amount": 510000.0,
+   "latest_report": "6d56c67a-92fa-4a51-8903-1db112f5da68",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00410266"
+   ],
+   "pac_names": [
+    "THE VANGUARD GROUP COMMITTEE FOR RESPONSIBLE GOVERNMENT"
+   ]
+  }
+ ],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "d0cacc60-719a-4fad-bdfc-15696e189a18",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-11T10:23:37-04:00",
+   "amount": 20000.0,
+   "registrant": "T. ROWE PRICE GROUP, INC.",
+   "client": "T. ROWE PRICE GROUP, INC.",
+   "url": "https://lda.gov/filings/public/filing/d0cacc60-719a-4fad-bdfc-15696e189a18/print/"
+  },
+  {
+   "filing_uuid": "e926b820-bcce-4d04-a7a6-c85e2ffd2b59",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-11T12:53:44-04:00",
+   "amount": 1890000.0,
+   "registrant": "SECURITIES INDUSTRY AND FINANCIAL MARKETS ASSOCIATION",
+   "client": "SECURITIES INDUSTRY AND FINANCIAL MARKETS ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/e926b820-bcce-4d04-a7a6-c85e2ffd2b59/print/"
+  },
+  {
+   "filing_uuid": "180bec71-e658-410d-82ce-3ef22df0d5db",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-16T11:24:01-04:00",
+   "amount": 367805.0,
+   "registrant": "AMERICAN SOCIETY OF PENSION PROFESSIONALS & ACTUARIES",
+   "client": "AMERICAN SOCIETY OF PENSION PROFESSIONALS & ACTUARIES",
+   "url": "https://lda.gov/filings/public/filing/180bec71-e658-410d-82ce-3ef22df0d5db/print/"
+  },
+  {
+   "filing_uuid": "e86f406d-b9a4-422b-946a-c8c08b9ab357",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-17T15:42:22-04:00",
+   "amount": 40000.0,
+   "registrant": "PORTERFIELD, FETTIG & SEARS, LLC",
+   "client": "PRUDENTIAL FINANCIAL",
+   "url": "https://lda.gov/filings/public/filing/e86f406d-b9a4-422b-946a-c8c08b9ab357/print/"
+  },
+  {
+   "filing_uuid": "8a0353de-7c5e-4af8-a109-d2220782f0e9",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-17T15:52:41-04:00",
+   "amount": 30000.0,
+   "registrant": "PORTERFIELD, FETTIG & SEARS, LLC",
+   "client": "TIAA",
+   "url": "https://lda.gov/filings/public/filing/8a0353de-7c5e-4af8-a109-d2220782f0e9/print/"
+  },
+  {
+   "filing_uuid": "684a5023-3219-4074-965a-e7d5330f939c",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-18T11:29:12-04:00",
+   "amount": 1270000.0,
+   "registrant": "INVESTMENT COMPANY INSTITUTE",
+   "client": "INVESTMENT COMPANY INSTITUTE",
+   "url": "https://lda.gov/filings/public/filing/684a5023-3219-4074-965a-e7d5330f939c/print/"
+  },
+  {
+   "filing_uuid": "cc47157b-3679-4d62-ba38-8cc523e82d40",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-19T21:29:38-04:00",
+   "amount": 60000.0,
+   "registrant": "CGCN GROUP, LLC",
+   "client": "AMERICAN RETIREMENT ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/cc47157b-3679-4d62-ba38-8cc523e82d40/print/"
+  },
+  {
+   "filing_uuid": "cc7a6263-7d32-4471-96d2-9b0115bed45a",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-20T22:02:38-04:00",
+   "amount": 30000.0,
+   "registrant": "CGCN GROUP, LLC",
+   "client": "INVESTMENT COMPANY INSTITUTE",
+   "url": "https://lda.gov/filings/public/filing/cc7a6263-7d32-4471-96d2-9b0115bed45a/print/"
+  },
+  {
+   "filing_uuid": "e0a5436c-2f9d-4d9b-8c34-127d1d2b7df7",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-21T09:50:35-04:00",
+   "amount": 610000.0,
+   "registrant": "VANGUARD GROUP",
+   "client": "VANGUARD GROUP",
+   "url": "https://lda.gov/filings/public/filing/e0a5436c-2f9d-4d9b-8c34-127d1d2b7df7/print/"
+  },
+  {
+   "filing_uuid": "5632def9-f5b6-4a0d-baa1-53b6a7f6215a",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-21T10:51:24-04:00",
+   "amount": 540000.0,
+   "registrant": "TIAA",
+   "client": "TIAA",
+   "url": "https://lda.gov/filings/public/filing/5632def9-f5b6-4a0d-baa1-53b6a7f6215a/print/"
+  },
+  {
+   "filing_uuid": "465131a1-278e-4ac8-8c4a-dd45a671402c",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-21T17:05:04-04:00",
+   "amount": 260000.0,
+   "registrant": "FRANKLIN TEMPLETON, INC. AND AFFILIATES (FORMERLY FRANKLIN RESOURCES, INC.)",
+   "client": "FRANKLIN TEMPLETON, INC. AND AFFILIATES (FORMERLY FRANKLIN RESOURCES, INC.)",
+   "url": "https://lda.gov/filings/public/filing/465131a1-278e-4ac8-8c4a-dd45a671402c/print/"
+  },
+  {
+   "filing_uuid": "1158f4ae-c8f3-4d75-8e3c-8e5cb786c6f1",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-21T17:37:00-04:00",
+   "amount": 450000.0,
+   "registrant": "AMERIPRISE FINANCIAL, INC.",
+   "client": "AMERIPRISE FINANCIAL, INC.",
+   "url": "https://lda.gov/filings/public/filing/1158f4ae-c8f3-4d75-8e3c-8e5cb786c6f1/print/"
+  },
+  {
+   "filing_uuid": "e001bad8-20e3-4d9f-92be-2873ea02356c",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-21T17:53:31-04:00",
+   "amount": 350000.0,
+   "registrant": "LPL FINANCIAL",
+   "client": "LPL FINANCIAL",
+   "url": "https://lda.gov/filings/public/filing/e001bad8-20e3-4d9f-92be-2873ea02356c/print/"
+  },
+  {
+   "filing_uuid": "a7911d3b-b8d0-4b61-819c-26ce583d9ce3",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-21T22:24:04-04:00",
+   "amount": 299000.0,
+   "registrant": "INTERNATIONAL FRESH PRODUCE ASSOCIATION (FKA UNITED FRESH PRODUCE ASSOCIATION)",
+   "client": "INTERNATIONAL FRESH PRODUCE ASSOCIATION (FKA UNITED FRESH PRODUCE ASSOCIATION)",
+   "url": "https://lda.gov/filings/public/filing/a7911d3b-b8d0-4b61-819c-26ce583d9ce3/print/"
+  },
+  {
+   "filing_uuid": "bf23d38a-7952-40d2-81b4-11cc47b34ad0",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-24T15:22:51-04:00",
+   "amount": 367805.0,
+   "registrant": "AMERICAN SOCIETY OF PENSION PROFESSIONALS & ACTUARIES",
+   "client": "AMERICAN SOCIETY OF PENSION PROFESSIONALS & ACTUARIES",
+   "url": "https://lda.gov/filings/public/filing/bf23d38a-7952-40d2-81b4-11cc47b34ad0/print/"
+  },
+  {
+   "filing_uuid": "bac04f9c-e8fb-4e3f-b597-7e9a44f62953",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-05-20T13:22:42-04:00",
+   "amount": 55000.0,
+   "registrant": "MR. PETER SNELL",
+   "client": "NATIONAL COUNCIL ON TEACHER RETIREMENT 9370 STUDIO COURT ELK GROVE CA 95758",
+   "url": "https://lda.gov/filings/public/filing/bac04f9c-e8fb-4e3f-b597-7e9a44f62953/print/"
+  },
+  {
+   "filing_uuid": "e431d34b-167a-4d8a-9326-ac402d7e31bf",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-17T09:12:49-04:00",
+   "amount": 60000.0,
+   "registrant": "T. ROWE PRICE GROUP, INC.",
+   "client": "T. ROWE PRICE GROUP, INC.",
+   "url": "https://lda.gov/filings/public/filing/e431d34b-167a-4d8a-9326-ac402d7e31bf/print/"
+  },
+  {
+   "filing_uuid": "a17a6626-c8c6-4c3a-a586-c6cd5fbc22e4",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-17T11:58:17-04:00",
+   "amount": 2060000.0,
+   "registrant": "SECURITIES INDUSTRY AND FINANCIAL MARKETS ASSOCIATION",
+   "client": "SECURITIES INDUSTRY AND FINANCIAL MARKETS ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/a17a6626-c8c6-4c3a-a586-c6cd5fbc22e4/print/"
+  },
+  {
+   "filing_uuid": "682d7f33-e30d-4d07-91f4-9101f32583eb",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-17T16:34:37-04:00",
+   "amount": 357661.0,
+   "registrant": "AMERICAN SOCIETY OF PENSION PROFESSIONALS & ACTUARIES",
+   "client": "AMERICAN SOCIETY OF PENSION PROFESSIONALS & ACTUARIES",
+   "url": "https://lda.gov/filings/public/filing/682d7f33-e30d-4d07-91f4-9101f32583eb/print/"
+  },
+  {
+   "filing_uuid": "00895dcb-f81b-4a90-94e4-62fd0768c763",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-17T17:53:30-04:00",
+   "amount": 50000.0,
+   "registrant": "FORBES-TATE",
+   "client": "INSURED RETIREMENT INSTITUTE",
+   "url": "https://lda.gov/filings/public/filing/00895dcb-f81b-4a90-94e4-62fd0768c763/print/"
+  },
+  {
+   "filing_uuid": "e18de758-0d89-4c22-ba54-6afcfe9b1867",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-18T09:15:53-04:00",
+   "amount": 550000.0,
+   "registrant": "VANGUARD GROUP",
+   "client": "VANGUARD GROUP",
+   "url": "https://lda.gov/filings/public/filing/e18de758-0d89-4c22-ba54-6afcfe9b1867/print/"
+  },
+  {
+   "filing_uuid": "5ab1d9b6-b2ea-49a8-a1f1-cd5b378e8704",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-18T14:34:56-04:00",
+   "amount": 1280000.0,
+   "registrant": "INVESTMENT COMPANY INSTITUTE",
+   "client": "INVESTMENT COMPANY INSTITUTE",
+   "url": "https://lda.gov/filings/public/filing/5ab1d9b6-b2ea-49a8-a1f1-cd5b378e8704/print/"
+  },
+  {
+   "filing_uuid": "b6ea8061-4275-40ed-a20d-0574d1499676",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-18T18:34:40-04:00",
+   "amount": 540000.0,
+   "registrant": "GUARDIAN LIFE INSURANCE COMPANY OF AMERICA",
+   "client": "GUARDIAN LIFE INSURANCE COMPANY OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/b6ea8061-4275-40ed-a20d-0574d1499676/print/"
+  },
+  {
+   "filing_uuid": "01f19857-27bf-4703-8e9b-cf72d6ebc83a",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-20T23:10:18-04:00",
+   "amount": 60000.0,
+   "registrant": "CGCN GROUP, LLC",
+   "client": "AMERICAN RETIREMENT ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/01f19857-27bf-4703-8e9b-cf72d6ebc83a/print/"
+  },
+  {
+   "filing_uuid": "1f76ae69-934e-4210-85e1-86725b2660d1",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T09:23:50-04:00",
+   "amount": 70000.0,
+   "registrant": "WILLIS NORTH AMERICA INC.",
+   "client": "WILLIS NORTH AMERICA INC.",
+   "url": "https://lda.gov/filings/public/filing/1f76ae69-934e-4210-85e1-86725b2660d1/print/"
+  },
+  {
+   "filing_uuid": "11b870ce-f081-44b4-82d3-2b58f12bdcfa",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T09:34:17-04:00",
+   "amount": 270000.0,
+   "registrant": "FRANKLIN TEMPLETON, INC. AND AFFILIATES (FORMERLY FRANKLIN RESOURCES, INC.)",
+   "client": "FRANKLIN TEMPLETON, INC. AND AFFILIATES (FORMERLY FRANKLIN RESOURCES, INC.)",
+   "url": "https://lda.gov/filings/public/filing/11b870ce-f081-44b4-82d3-2b58f12bdcfa/print/"
+  },
+  {
+   "filing_uuid": "8d8834e2-1dff-458a-8829-3d8d41f8cfe9",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T10:57:31-04:00",
+   "amount": 470000.0,
+   "registrant": "LPL FINANCIAL",
+   "client": "LPL FINANCIAL",
+   "url": "https://lda.gov/filings/public/filing/8d8834e2-1dff-458a-8829-3d8d41f8cfe9/print/"
+  },
+  {
+   "filing_uuid": "6c667061-bd50-4351-86d0-b21d259af292",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T12:44:01-04:00",
+   "amount": 230000.0,
+   "registrant": "AMERIPRISE FINANCIAL, INC.",
+   "client": "AMERIPRISE FINANCIAL, INC.",
+   "url": "https://lda.gov/filings/public/filing/6c667061-bd50-4351-86d0-b21d259af292/print/"
+  },
+  {
+   "filing_uuid": "8036520c-f2ad-4481-a4f4-ef60c56f8a53",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T13:53:21-04:00",
+   "amount": 570000.0,
+   "registrant": "TIAA",
+   "client": "TIAA",
+   "url": "https://lda.gov/filings/public/filing/8036520c-f2ad-4481-a4f4-ef60c56f8a53/print/"
+  },
+  {
+   "filing_uuid": "ea511d3e-8c73-41ae-8a9d-158c926f3799",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T13:58:42-04:00",
+   "amount": 1370000.0,
+   "registrant": "AMERICAN ASSOCIATION FOR JUSTICE",
+   "client": "AMERICAN ASSOCIATION FOR JUSTICE",
+   "url": "https://lda.gov/filings/public/filing/ea511d3e-8c73-41ae-8a9d-158c926f3799/print/"
+  },
+  {
+   "filing_uuid": "84fa9c43-c163-46da-9222-35060cf09aaf",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T14:02:08-04:00",
+   "amount": 530000.0,
+   "registrant": "THE CHARLES SCHWAB CORPORATION",
+   "client": "CHARLES SCHWAB CORPORATION",
+   "url": "https://lda.gov/filings/public/filing/84fa9c43-c163-46da-9222-35060cf09aaf/print/"
+  },
+  {
+   "filing_uuid": "a1b78cab-d9a7-494d-87e2-6aedf9ad58db",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T14:41:44-04:00",
+   "amount": 130000.0,
+   "registrant": "K&L GATES, LLP",
+   "client": "CHURCH ALLIANCE",
+   "url": "https://lda.gov/filings/public/filing/a1b78cab-d9a7-494d-87e2-6aedf9ad58db/print/"
+  },
+  {
+   "filing_uuid": "70290b7f-648f-4be9-92e1-d8b339c7985e",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T14:50:56-04:00",
+   "amount": 30000.0,
+   "registrant": "CGCN GROUP, LLC",
+   "client": "INVESTMENT COMPANY INSTITUTE",
+   "url": "https://lda.gov/filings/public/filing/70290b7f-648f-4be9-92e1-d8b339c7985e/print/"
+  },
+  {
+   "filing_uuid": "6df17c10-1889-4005-95e5-b63948786ea8",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T15:17:03-04:00",
+   "amount": 30000.0,
+   "registrant": "PORTERFIELD, FETTIG & SEARS, LLC",
+   "client": "TIAA",
+   "url": "https://lda.gov/filings/public/filing/6df17c10-1889-4005-95e5-b63948786ea8/print/"
+  },
+  {
+   "filing_uuid": "573d0658-37c3-4ea1-a987-738d642a2f5f",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T15:22:46-04:00",
+   "amount": 40000.0,
+   "registrant": "PORTERFIELD, FETTIG & SEARS, LLC",
+   "client": "PRUDENTIAL FINANCIAL",
+   "url": "https://lda.gov/filings/public/filing/573d0658-37c3-4ea1-a987-738d642a2f5f/print/"
+  },
+  {
+   "filing_uuid": "9540c35a-5726-45ad-aa09-89283b86b0c0",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T16:26:04-04:00",
+   "amount": 19340000.0,
+   "registrant": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "client": "CHAMBER OF COMMERCE OF THE U.S.A.",
+   "url": "https://lda.gov/filings/public/filing/9540c35a-5726-45ad-aa09-89283b86b0c0/print/"
+  },
+  {
+   "filing_uuid": "3faf39b4-e569-4cab-9cab-d88082d3de2c",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-22T13:54:16-04:00",
+   "amount": 150000.0,
+   "registrant": "AMERICANS FOR FINANCIAL REFORM",
+   "client": "AMERICANS FOR FINANCIAL REFORM",
+   "url": "https://lda.gov/filings/public/filing/3faf39b4-e569-4cab-9cab-d88082d3de2c/print/"
+  },
+  {
+   "filing_uuid": "ccc2f4aa-bcf1-4ec5-bedd-f297f5b5a7af",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-10-07T16:48:05-04:00",
+   "amount": 470000.0,
+   "registrant": "LPL FINANCIAL",
+   "client": "LPL FINANCIAL",
+   "url": "https://lda.gov/filings/public/filing/ccc2f4aa-bcf1-4ec5-bedd-f297f5b5a7af/print/"
+  },
+  {
+   "filing_uuid": "7db47e91-64c0-44e4-aec3-9f612b20b610",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-10T16:06:26-04:00",
+   "amount": 30000.0,
+   "registrant": "T. ROWE PRICE GROUP, INC.",
+   "client": "T. ROWE PRICE GROUP, INC.",
+   "url": "https://lda.gov/filings/public/filing/7db47e91-64c0-44e4-aec3-9f612b20b610/print/"
+  },
+  {
+   "filing_uuid": "95e631a0-f40a-4318-a81a-a6c0dbe784f1",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-14T13:20:45-04:00",
+   "amount": 389418.0,
+   "registrant": "AMERICAN SOCIETY OF PENSION PROFESSIONALS & ACTUARIES",
+   "client": "AMERICAN SOCIETY OF PENSION PROFESSIONALS & ACTUARIES",
+   "url": "https://lda.gov/filings/public/filing/95e631a0-f40a-4318-a81a-a6c0dbe784f1/print/"
+  },
+  {
+   "filing_uuid": "30d14850-edcd-4846-97ea-1390c1f247a6",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-15T10:02:15-04:00",
+   "amount": 1920000.0,
+   "registrant": "SECURITIES INDUSTRY AND FINANCIAL MARKETS ASSOCIATION",
+   "client": "SECURITIES INDUSTRY AND FINANCIAL MARKETS ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/30d14850-edcd-4846-97ea-1390c1f247a6/print/"
+  },
+  {
+   "filing_uuid": "afa38541-45bc-4d96-a209-3fd2c6ec28ac",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-17T15:05:17-04:00",
+   "amount": 1450000.0,
+   "registrant": "INVESTMENT COMPANY INSTITUTE",
+   "client": "INVESTMENT COMPANY INSTITUTE",
+   "url": "https://lda.gov/filings/public/filing/afa38541-45bc-4d96-a209-3fd2c6ec28ac/print/"
+  },
+  {
+   "filing_uuid": "dc23ed61-a152-44bd-9891-0b03ea88a70a",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-19T22:23:46-04:00",
+   "amount": 60000.0,
+   "registrant": "CGCN GROUP, LLC",
+   "client": "AMERICAN RETIREMENT ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/dc23ed61-a152-44bd-9891-0b03ea88a70a/print/"
+  },
+  {
+   "filing_uuid": "26887dbb-370e-4552-a62a-749df3f225bf",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T09:03:33-04:00",
+   "amount": 60000.0,
+   "registrant": "WILLIS NORTH AMERICA INC.",
+   "client": "WILLIS NORTH AMERICA INC.",
+   "url": "https://lda.gov/filings/public/filing/26887dbb-370e-4552-a62a-749df3f225bf/print/"
+  },
+  {
+   "filing_uuid": "05b36971-cbdc-439e-b143-9b8513b0f8df",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T11:32:53-04:00",
+   "amount": 540000.0,
+   "registrant": "GUARDIAN LIFE INSURANCE COMPANY OF AMERICA",
+   "client": "GUARDIAN LIFE INSURANCE COMPANY OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/05b36971-cbdc-439e-b143-9b8513b0f8df/print/"
+  },
+  {
+   "filing_uuid": "d62b1fc1-5f7c-4e22-b8ba-182c02e32a20",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T12:07:09-04:00",
+   "amount": 510000.0,
+   "registrant": "LPL FINANCIAL",
+   "client": "LPL FINANCIAL",
+   "url": "https://lda.gov/filings/public/filing/d62b1fc1-5f7c-4e22-b8ba-182c02e32a20/print/"
+  },
+  {
+   "filing_uuid": "87b32f90-875c-4307-9468-2d29f033c2a1",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T13:38:02-04:00",
+   "amount": 520000.0,
+   "registrant": "VANGUARD GROUP",
+   "client": "VANGUARD GROUP",
+   "url": "https://lda.gov/filings/public/filing/87b32f90-875c-4307-9468-2d29f033c2a1/print/"
+  },
+  {
+   "filing_uuid": "c331cf4f-c06e-441e-8c1e-0b115ea51ee7",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T13:45:19-04:00",
+   "amount": 1360000.0,
+   "registrant": "AMERICAN ASSOCIATION FOR JUSTICE",
+   "client": "AMERICAN ASSOCIATION FOR JUSTICE",
+   "url": "https://lda.gov/filings/public/filing/c331cf4f-c06e-441e-8c1e-0b115ea51ee7/print/"
+  },
+  {
+   "filing_uuid": "cd2726e9-19f0-4330-b130-9984cff6ef97",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T14:24:52-04:00",
+   "amount": 320000.0,
+   "registrant": "AMERIPRISE FINANCIAL, INC.",
+   "client": "AMERIPRISE FINANCIAL, INC.",
+   "url": "https://lda.gov/filings/public/filing/cd2726e9-19f0-4330-b130-9984cff6ef97/print/"
+  },
+  {
+   "filing_uuid": "0f9e7a03-98ca-4233-842f-703a91e61e64",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T16:26:51-04:00",
+   "amount": 40000.0,
+   "registrant": "PORTERFIELD, FETTIG & SEARS, LLC",
+   "client": "PRUDENTIAL FINANCIAL",
+   "url": "https://lda.gov/filings/public/filing/0f9e7a03-98ca-4233-842f-703a91e61e64/print/"
+  },
+  {
+   "filing_uuid": "21592e68-6b71-45fc-b707-2bf4327c0bb0",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T16:29:34-04:00",
+   "amount": 260000.0,
+   "registrant": "TIAA",
+   "client": "TIAA",
+   "url": "https://lda.gov/filings/public/filing/21592e68-6b71-45fc-b707-2bf4327c0bb0/print/"
+  },
+  {
+   "filing_uuid": "52f82976-9e63-4cde-aa55-5f4ed3187dd8",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T16:30:10-04:00",
+   "amount": 30000.0,
+   "registrant": "PORTERFIELD, FETTIG & SEARS, LLC",
+   "client": "TIAA",
+   "url": "https://lda.gov/filings/public/filing/52f82976-9e63-4cde-aa55-5f4ed3187dd8/print/"
+  },
+  {
+   "filing_uuid": "1ffda2b4-12b7-4fb4-93d5-d51c2b439c1d",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T17:03:03-04:00",
+   "amount": 130000.0,
+   "registrant": "K&L GATES, LLP",
+   "client": "CHURCH ALLIANCE",
+   "url": "https://lda.gov/filings/public/filing/1ffda2b4-12b7-4fb4-93d5-d51c2b439c1d/print/"
+  },
+  {
+   "filing_uuid": "09c6a318-f6ed-44e6-9474-5073f71ee2d9",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-23T09:25:45-04:00",
+   "amount": 130000.0,
+   "registrant": "K&L GATES, LLP",
+   "client": "CHURCH ALLIANCE",
+   "url": "https://lda.gov/filings/public/filing/09c6a318-f6ed-44e6-9474-5073f71ee2d9/print/"
+  },
+  {
+   "filing_uuid": "9af23832-f460-4953-a1be-48405c33980a",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-15T13:06:06-05:00",
+   "amount": 3160000.0,
+   "registrant": "SECURITIES INDUSTRY AND FINANCIAL MARKETS ASSOCIATION",
+   "client": "SECURITIES INDUSTRY AND FINANCIAL MARKETS ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/9af23832-f460-4953-a1be-48405c33980a/print/"
+  },
+  {
+   "filing_uuid": "f17c0c22-9852-4cb8-9283-6c4f8eb46234",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-16T11:54:17-05:00",
+   "amount": 10000.0,
+   "registrant": "SYMETRA LIFE INSURANCE COMPANY",
+   "client": "SYMETRA LIFE INSURANCE COMPANY",
+   "url": "https://lda.gov/filings/public/filing/f17c0c22-9852-4cb8-9283-6c4f8eb46234/print/"
+  },
+  {
+   "filing_uuid": "342c8174-9008-4f48-b40b-fdb5292f6548",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-16T15:43:53-05:00",
+   "amount": 122000.0,
+   "registrant": "T. ROWE PRICE GROUP, INC.",
+   "client": "T. ROWE PRICE GROUP, INC.",
+   "url": "https://lda.gov/filings/public/filing/342c8174-9008-4f48-b40b-fdb5292f6548/print/"
+  },
+  {
+   "filing_uuid": "1d025f03-b8e0-4f8e-8781-70e6f3c13116",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-17T14:40:51-05:00",
+   "amount": 20000.0,
+   "registrant": "ADVANCED POLICY CONSULTING, LLC",
+   "client": "INVESTMENT COMPANY INSTITUTE (ICI)",
+   "url": "https://lda.gov/filings/public/filing/1d025f03-b8e0-4f8e-8781-70e6f3c13116/print/"
+  },
+  {
+   "filing_uuid": "4700e962-91f8-4051-85dd-33b7eb7b9031",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-19T08:08:32-05:00",
+   "amount": 60000.0,
+   "registrant": "CGCN GROUP, LLC",
+   "client": "AMERICAN RETIREMENT ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/4700e962-91f8-4051-85dd-33b7eb7b9031/print/"
+  },
+  {
+   "filing_uuid": "35aaf3fe-3793-4196-9dad-aaf273790e45",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-19T15:07:56-05:00",
+   "amount": 130000.0,
+   "registrant": "K&L GATES, LLP",
+   "client": "CHURCH ALLIANCE",
+   "url": "https://lda.gov/filings/public/filing/35aaf3fe-3793-4196-9dad-aaf273790e45/print/"
+  },
+  {
+   "filing_uuid": "17d23b02-1e6c-4e15-87a5-ce40a59b3950",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T09:56:07-05:00",
+   "amount": 70000.0,
+   "registrant": "WILLIS NORTH AMERICA INC.",
+   "client": "WILLIS NORTH AMERICA INC.",
+   "url": "https://lda.gov/filings/public/filing/17d23b02-1e6c-4e15-87a5-ce40a59b3950/print/"
+  },
+  {
+   "filing_uuid": "d0e00b50-90c6-4249-a115-4f6271597204",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T10:25:33-05:00",
+   "amount": 401839.0,
+   "registrant": "AMERICAN SOCIETY OF PENSION PROFESSIONALS & ACTUARIES",
+   "client": "AMERICAN SOCIETY OF PENSION PROFESSIONALS & ACTUARIES",
+   "url": "https://lda.gov/filings/public/filing/d0e00b50-90c6-4249-a115-4f6271597204/print/"
+  },
+  {
+   "filing_uuid": "49e46921-af8d-4e7a-b375-0bf8bf030a70",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T11:23:36-05:00",
+   "amount": 170000.0,
+   "registrant": "NORTHERN TRUST CORPORATION",
+   "client": "NORTHERN TRUST CORPORATION",
+   "url": "https://lda.gov/filings/public/filing/49e46921-af8d-4e7a-b375-0bf8bf030a70/print/"
+  },
+  {
+   "filing_uuid": "d46996b7-c330-4ccc-b36f-05ab5ae3dcab",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T11:26:02-05:00",
+   "amount": 400000.0,
+   "registrant": "TIAA",
+   "client": "TIAA",
+   "url": "https://lda.gov/filings/public/filing/d46996b7-c330-4ccc-b36f-05ab5ae3dcab/print/"
+  },
+  {
+   "filing_uuid": "30d5029e-9413-413a-93f8-4db5252cf69d",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T12:32:54-05:00",
+   "amount": 1770000.0,
+   "registrant": "AMERICAN ASSOCIATION FOR JUSTICE",
+   "client": "AMERICAN ASSOCIATION FOR JUSTICE",
+   "url": "https://lda.gov/filings/public/filing/30d5029e-9413-413a-93f8-4db5252cf69d/print/"
+  },
+  {
+   "filing_uuid": "d9bb6ce2-79e9-489b-9652-83dc398a8b45",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T13:41:22-05:00",
+   "amount": 420000.0,
+   "registrant": "AMERIPRISE FINANCIAL, INC.",
+   "client": "AMERIPRISE FINANCIAL, INC.",
+   "url": "https://lda.gov/filings/public/filing/d9bb6ce2-79e9-489b-9652-83dc398a8b45/print/"
+  },
+  {
+   "filing_uuid": "96438cc7-e05a-42e9-8e9d-43001f3da275",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T15:14:04-05:00",
+   "amount": 40000.0,
+   "registrant": "PORTERFIELD, FETTIG & SEARS, LLC",
+   "client": "PRUDENTIAL FINANCIAL",
+   "url": "https://lda.gov/filings/public/filing/96438cc7-e05a-42e9-8e9d-43001f3da275/print/"
+  },
+  {
+   "filing_uuid": "f6a8843e-f28b-40f0-ac68-ad7b884466d8",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T15:20:30-05:00",
+   "amount": 30000.0,
+   "registrant": "PORTERFIELD, FETTIG & SEARS, LLC",
+   "client": "TIAA",
+   "url": "https://lda.gov/filings/public/filing/f6a8843e-f28b-40f0-ac68-ad7b884466d8/print/"
+  },
+  {
+   "filing_uuid": "2e5d1d37-8de6-49d6-8cb4-e2eb925066ab",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T16:01:14-05:00",
+   "amount": 320000.0,
+   "registrant": "FRANKLIN TEMPLETON, INC. AND AFFILIATES (FORMERLY FRANKLIN RESOURCES, INC.)",
+   "client": "FRANKLIN TEMPLETON, INC. AND AFFILIATES (FORMERLY FRANKLIN RESOURCES, INC.)",
+   "url": "https://lda.gov/filings/public/filing/2e5d1d37-8de6-49d6-8cb4-e2eb925066ab/print/"
+  },
+  {
+   "filing_uuid": "033fbeb0-f530-49a6-942d-cedbe6c4fe25",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T16:23:35-05:00",
+   "amount": 650000.0,
+   "registrant": "VANGUARD GROUP",
+   "client": "VANGUARD GROUP",
+   "url": "https://lda.gov/filings/public/filing/033fbeb0-f530-49a6-942d-cedbe6c4fe25/print/"
+  },
+  {
+   "filing_uuid": "df22fa79-3e44-4bf1-9e8b-764f8afc08e9",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T17:26:39-05:00",
+   "amount": 710000.0,
+   "registrant": "LPL FINANCIAL",
+   "client": "LPL FINANCIAL",
+   "url": "https://lda.gov/filings/public/filing/df22fa79-3e44-4bf1-9e8b-764f8afc08e9/print/"
+  },
+  {
+   "filing_uuid": "1dc29524-b8d6-468b-8bc5-bf9fa01ac636",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T17:52:56-05:00",
+   "amount": 560000.0,
+   "registrant": "GUARDIAN LIFE INSURANCE COMPANY OF AMERICA",
+   "client": "GUARDIAN LIFE INSURANCE COMPANY OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/1dc29524-b8d6-468b-8bc5-bf9fa01ac636/print/"
+  },
+  {
+   "filing_uuid": "dfebe284-a100-4a29-ad8e-cf714cbadda5",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-22T22:07:44-05:00",
+   "amount": 230000.0,
+   "registrant": "AMERICAN HEART ASSOCIATION",
+   "client": "AMERICAN HEART ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/dfebe284-a100-4a29-ad8e-cf714cbadda5/print/"
+  },
+  {
+   "filing_uuid": "832b1229-6dd8-4b6a-a4d5-014aff2acec8",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2026-03-17T10:19:45-04:00",
+   "amount": 470000.0,
+   "registrant": "LPL FINANCIAL",
+   "client": "LPL FINANCIAL",
+   "url": "https://lda.gov/filings/public/filing/832b1229-6dd8-4b6a-a4d5-014aff2acec8/print/"
+  },
+  {
+   "filing_uuid": "fab9c23d-37d3-4ae8-9065-6e9093163f26",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2026-06-22T14:45:48-04:00",
+   "amount": 60000.0,
+   "registrant": "MR. PETER SNELL",
+   "client": "NATIONAL COUNCIL ON TEACHER RETIREMENT 9370 STUDIO COURT ELK GROVE CA 95758",
+   "url": "https://lda.gov/filings/public/filing/fab9c23d-37d3-4ae8-9065-6e9093163f26/print/"
+  },
+  {
+   "filing_uuid": "d8580fe4-6a35-47c9-bb44-7a9df2c67816",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2026-06-22T14:53:21-04:00",
+   "amount": 60000.0,
+   "registrant": "MR. PETER SNELL",
+   "client": "NATIONAL COUNCIL ON TEACHER RETIREMENT 9370 STUDIO COURT ELK GROVE CA 95758",
+   "url": "https://lda.gov/filings/public/filing/d8580fe4-6a35-47c9-bb44-7a9df2c67816/print/"
+  },
+  {
+   "filing_uuid": "5a02596f-d2f1-45d1-9fd2-28fef4514860",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-06-22T15:02:05-04:00",
+   "amount": 60000.0,
+   "registrant": "MR. PETER SNELL",
+   "client": "NATIONAL COUNCIL ON TEACHER RETIREMENT 9370 STUDIO COURT ELK GROVE CA 95758",
+   "url": "https://lda.gov/filings/public/filing/5a02596f-d2f1-45d1-9fd2-28fef4514860/print/"
+  },
+  {
+   "filing_uuid": "7a333197-1190-4c08-ad10-7fe0f31f95fe",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2026-06-26T09:25:08-04:00",
+   "amount": 10000.0,
+   "registrant": "K&L GATES, LLP",
+   "client": "CHURCH ALLIANCE",
+   "url": "https://lda.gov/filings/public/filing/7a333197-1190-4c08-ad10-7fe0f31f95fe/print/"
+  },
+  {
+   "filing_uuid": "e7812861-4ad3-44ef-9793-7c8963bf055c",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2026-06-26T09:27:47-04:00",
+   "amount": 10000.0,
+   "registrant": "K&L GATES, LLP",
+   "client": "CHURCH ALLIANCE",
+   "url": "https://lda.gov/filings/public/filing/e7812861-4ad3-44ef-9793-7c8963bf055c/print/"
+  },
+  {
+   "filing_uuid": "57615f81-010e-4a24-9a64-e73b251e132f",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-06-26T09:29:45-04:00",
+   "amount": 10000.0,
+   "registrant": "K&L GATES, LLP",
+   "client": "CHURCH ALLIANCE",
+   "url": "https://lda.gov/filings/public/filing/57615f81-010e-4a24-9a64-e73b251e132f/print/"
+  },
+  {
+   "filing_uuid": "e1d0bbf8-1b11-4bb0-b653-ac2b5ce4ebb5",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-07-31T12:15:41-04:00",
+   "amount": 130000.0,
+   "registrant": "K&L GATES, LLP",
+   "client": "CHURCH ALLIANCE",
+   "url": "https://lda.gov/filings/public/filing/e1d0bbf8-1b11-4bb0-b653-ac2b5ce4ebb5/print/"
+  },
+  {
+   "filing_uuid": "cf6e699d-b021-4b66-a2e7-29d131a46fda",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2026-07-31T12:19:34-04:00",
+   "amount": 130000.0,
+   "registrant": "K&L GATES, LLP",
+   "client": "CHURCH ALLIANCE",
+   "url": "https://lda.gov/filings/public/filing/cf6e699d-b021-4b66-a2e7-29d131a46fda/print/"
+  },
+  {
+   "filing_uuid": "36a72e24-9858-4a8c-ac5c-2a5f3b6e8b30",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2026-07-31T12:26:23-04:00",
+   "amount": 130000.0,
+   "registrant": "K&L GATES, LLP",
+   "client": "CHURCH ALLIANCE",
+   "url": "https://lda.gov/filings/public/filing/36a72e24-9858-4a8c-ac5c-2a5f3b6e8b30/print/"
+  },
+  {
+   "filing_uuid": "b490957f-c9e9-4157-acbf-b707328e7ad4",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-21T16:36:19-04:00",
+   "amount": 1746717.0,
+   "registrant": "AMERICAN COUNCIL OF LIFE INSURERS",
+   "client": "AMERICAN COUNCIL OF LIFE INSURERS",
+   "url": "https://lda.gov/filings/public/filing/b490957f-c9e9-4157-acbf-b707328e7ad4/print/"
+  },
+  {
+   "filing_uuid": "6d95efd4-2966-4e69-828f-94e6f89bc539",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-21T18:43:54-04:00",
+   "amount": 420000.0,
+   "registrant": "PACIFIC LIFE INSURANCE COMPANY",
+   "client": "PACIFIC LIFE INSURANCE COMPANY",
+   "url": "https://lda.gov/filings/public/filing/6d95efd4-2966-4e69-828f-94e6f89bc539/print/"
+  },
+  {
+   "filing_uuid": "40e65d7b-ce88-422d-a150-377369c9d629",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T12:55:46-04:00",
+   "amount": 2238097.0,
+   "registrant": "AMERICAN COUNCIL OF LIFE INSURERS",
+   "client": "AMERICAN COUNCIL OF LIFE INSURERS",
+   "url": "https://lda.gov/filings/public/filing/40e65d7b-ce88-422d-a150-377369c9d629/print/"
+  },
+  {
+   "filing_uuid": "1ca699ec-988f-42e6-95a1-3e217a48061c",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T13:20:53-04:00",
+   "amount": 410000.0,
+   "registrant": "PACIFIC LIFE INSURANCE COMPANY",
+   "client": "PACIFIC LIFE INSURANCE COMPANY",
+   "url": "https://lda.gov/filings/public/filing/1ca699ec-988f-42e6-95a1-3e217a48061c/print/"
+  },
+  {
+   "filing_uuid": "6dcc9430-03ec-4ae3-bb2a-40644846b5a4",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T16:48:08-04:00",
+   "amount": 380000.0,
+   "registrant": "PACIFIC LIFE INSURANCE COMPANY",
+   "client": "PACIFIC LIFE INSURANCE COMPANY",
+   "url": "https://lda.gov/filings/public/filing/6dcc9430-03ec-4ae3-bb2a-40644846b5a4/print/"
+  },
+  {
+   "filing_uuid": "dd4838a7-6709-4f93-8907-abef65a1de4a",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T20:00:51-04:00",
+   "amount": 1419989.0,
+   "registrant": "AMERICAN COUNCIL OF LIFE INSURERS",
+   "client": "AMERICAN COUNCIL OF LIFE INSURERS",
+   "url": "https://lda.gov/filings/public/filing/dd4838a7-6709-4f93-8907-abef65a1de4a/print/"
+  },
+  {
+   "filing_uuid": "7ee50a60-de53-4de9-b50f-c70e65ded141",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-15T16:01:59-05:00",
+   "amount": 1878641.0,
+   "registrant": "AMERICAN COUNCIL OF LIFE INSURERS",
+   "client": "AMERICAN COUNCIL OF LIFE INSURERS",
+   "url": "https://lda.gov/filings/public/filing/7ee50a60-de53-4de9-b50f-c70e65ded141/print/"
+  },
+  {
+   "filing_uuid": "b1f39e24-9c23-47a6-bc1d-4c113a143393",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T18:41:16-05:00",
+   "amount": 290000.0,
+   "registrant": "PACIFIC LIFE INSURANCE COMPANY",
+   "client": "PACIFIC LIFE INSURANCE COMPANY",
+   "url": "https://lda.gov/filings/public/filing/b1f39e24-9c23-47a6-bc1d-4c113a143393/print/"
+  },
+  {
+   "filing_uuid": "bf9f2e7a-f2cb-4907-8ece-561c0aa89cb8",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-17T13:49:16-04:00",
+   "amount": 331216.0,
+   "registrant": "AMERICAN BENEFITS COUNCIL",
+   "client": "AMERICAN BENEFITS COUNCIL",
+   "url": "https://lda.gov/filings/public/filing/bf9f2e7a-f2cb-4907-8ece-561c0aa89cb8/print/"
+  },
+  {
+   "filing_uuid": "b26c5a03-0f53-4b80-9624-4cb874297393",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-17T15:24:54-04:00",
+   "amount": 220000.0,
+   "registrant": "AMERICAN BENEFITS COUNCIL",
+   "client": "AMERICAN BENEFITS COUNCIL",
+   "url": "https://lda.gov/filings/public/filing/b26c5a03-0f53-4b80-9624-4cb874297393/print/"
+  },
+  {
+   "filing_uuid": "d0f345f1-923d-425d-966c-23731bf39cca",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T13:40:43-05:00",
+   "amount": 916510.0,
+   "registrant": "INVESTMENT COMPANY INSTITUTE",
+   "client": "INVESTMENT COMPANY INSTITUTE",
+   "url": "https://lda.gov/filings/public/filing/d0f345f1-923d-425d-966c-23731bf39cca/print/"
+  },
+  {
+   "filing_uuid": "ef86974a-761e-439e-837b-c351b61d4cf5",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2026-09-10T14:06:19-04:00",
+   "amount": 330000.0,
+   "registrant": "AMERICAN BENEFITS COUNCIL",
+   "client": "AMERICAN BENEFITS COUNCIL",
+   "url": "https://lda.gov/filings/public/filing/ef86974a-761e-439e-837b-c351b61d4cf5/print/"
+  },
+  {
+   "filing_uuid": "348abb9e-4285-47b6-b77e-ff930e6fbcf7",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-15T13:02:53-04:00",
+   "amount": 953000.0,
+   "registrant": "PRINCIPAL FINANCIAL GROUP",
+   "client": "PRINCIPAL FINANCIAL GROUP",
+   "url": "https://lda.gov/filings/public/filing/348abb9e-4285-47b6-b77e-ff930e6fbcf7/print/"
+  },
+  {
+   "filing_uuid": "bc8dfa9e-cc0d-441b-a195-a08a698e5c11",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-15T10:40:22-04:00",
+   "amount": 414000.0,
+   "registrant": "PRINCIPAL FINANCIAL GROUP",
+   "client": "PRINCIPAL FINANCIAL GROUP",
+   "url": "https://lda.gov/filings/public/filing/bc8dfa9e-cc0d-441b-a195-a08a698e5c11/print/"
+  },
+  {
+   "filing_uuid": "f58a0c0a-c4d1-44fd-aeb9-76fde8a8df69",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-13T13:37:09-04:00",
+   "amount": 459000.0,
+   "registrant": "PRINCIPAL FINANCIAL GROUP",
+   "client": "PRINCIPAL FINANCIAL GROUP",
+   "url": "https://lda.gov/filings/public/filing/f58a0c0a-c4d1-44fd-aeb9-76fde8a8df69/print/"
+  },
+  {
+   "filing_uuid": "2ac97d51-a1ad-4015-9013-dbe4141c6b5d",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-14T14:01:57-05:00",
+   "amount": 509000.0,
+   "registrant": "PRINCIPAL FINANCIAL GROUP",
+   "client": "PRINCIPAL FINANCIAL GROUP",
+   "url": "https://lda.gov/filings/public/filing/2ac97d51-a1ad-4015-9013-dbe4141c6b5d/print/"
+  },
+  {
+   "filing_uuid": "87db56cb-0356-4d4b-b61c-62676492241e",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-08T10:10:15-04:00",
+   "amount": 388602.0,
+   "registrant": "AMERICAN SOCIETY OF PENSION PROFESSIONALS & ACTUARIES",
+   "client": "AMERICAN SOCIETY OF PENSION PROFESSIONALS & ACTUARIES",
+   "url": "https://lda.gov/filings/public/filing/87db56cb-0356-4d4b-b61c-62676492241e/print/"
+  },
+  {
+   "filing_uuid": "7444227f-583b-4f8e-ba6f-0a48e044121a",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-14T09:29:18-04:00",
+   "amount": 20000.0,
+   "registrant": "ADVANCED POLICY CONSULTING, LLC",
+   "client": "INVESTMENT COMPANY INSTITUTE (ICI)",
+   "url": "https://lda.gov/filings/public/filing/7444227f-583b-4f8e-ba6f-0a48e044121a/print/"
+  },
+  {
+   "filing_uuid": "8f014c54-6909-4be7-a5a0-95cca38d9e80",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-16T11:13:27-04:00",
+   "amount": 1910000.0,
+   "registrant": "SECURITIES INDUSTRY AND FINANCIAL MARKETS ASSOCIATION",
+   "client": "SECURITIES INDUSTRY AND FINANCIAL MARKETS ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/8f014c54-6909-4be7-a5a0-95cca38d9e80/print/"
+  },
+  {
+   "filing_uuid": "f4ba6d57-2ca0-4082-a77e-376a170b5af7",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T10:45:32-04:00",
+   "amount": 80000.0,
+   "registrant": "WILLIS NORTH AMERICA INC.",
+   "client": "WILLIS NORTH AMERICA INC.",
+   "url": "https://lda.gov/filings/public/filing/f4ba6d57-2ca0-4082-a77e-376a170b5af7/print/"
+  },
+  {
+   "filing_uuid": "30f84197-8eaf-48b3-8c2a-32a6acaddea2",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T10:45:32-04:00",
+   "amount": 250000.0,
+   "registrant": "FRANKLIN TEMPLETON, INC. AND AFFILIATES (FORMERLY FRANKLIN RESOURCES, INC.)",
+   "client": "FRANKLIN TEMPLETON, INC. AND AFFILIATES (FORMERLY FRANKLIN RESOURCES, INC.)",
+   "url": "https://lda.gov/filings/public/filing/30f84197-8eaf-48b3-8c2a-32a6acaddea2/print/"
+  },
+  {
+   "filing_uuid": "ec62e90d-a28c-4e43-810c-de0cdff8c196",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T10:53:54-04:00",
+   "amount": 610000.0,
+   "registrant": "VANGUARD GROUP",
+   "client": "VANGUARD GROUP",
+   "url": "https://lda.gov/filings/public/filing/ec62e90d-a28c-4e43-810c-de0cdff8c196/print/"
+  },
+  {
+   "filing_uuid": "673248a4-8f70-4431-99de-781242bbd968",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T11:12:35-04:00",
+   "amount": 510000.0,
+   "registrant": "GUARDIAN LIFE INSURANCE COMPANY OF AMERICA",
+   "client": "GUARDIAN LIFE INSURANCE COMPANY OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/673248a4-8f70-4431-99de-781242bbd968/print/"
+  },
+  {
+   "filing_uuid": "648f0e8c-c965-4280-a8d9-0eee09657e0e",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T13:08:43-04:00",
+   "amount": 870000.0,
+   "registrant": "TIAA",
+   "client": "TIAA",
+   "url": "https://lda.gov/filings/public/filing/648f0e8c-c965-4280-a8d9-0eee09657e0e/print/"
+  },
+  {
+   "filing_uuid": "5cd0273d-0e02-4fc0-bdc8-4ac02e9de4a9",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T13:09:19-04:00",
+   "amount": 520000.0,
+   "registrant": "LPL FINANCIAL",
+   "client": "LPL FINANCIAL",
+   "url": "https://lda.gov/filings/public/filing/5cd0273d-0e02-4fc0-bdc8-4ac02e9de4a9/print/"
+  },
+  {
+   "filing_uuid": "2853d596-6f96-411d-ba3e-8d652b8d46a4",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T13:34:49-04:00",
+   "amount": 1480000.0,
+   "registrant": "AMERICAN ASSOCIATION FOR JUSTICE",
+   "client": "AMERICAN ASSOCIATION FOR JUSTICE",
+   "url": "https://lda.gov/filings/public/filing/2853d596-6f96-411d-ba3e-8d652b8d46a4/print/"
+  },
+  {
+   "filing_uuid": "5f087497-90b9-4bfe-a872-2128c4a61814",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T16:09:36-04:00",
+   "amount": 40000.0,
+   "registrant": "PORTERFIELD, FETTIG & SEARS, LLC",
+   "client": "PRUDENTIAL FINANCIAL",
+   "url": "https://lda.gov/filings/public/filing/5f087497-90b9-4bfe-a872-2128c4a61814/print/"
+  },
+  {
+   "filing_uuid": "e9d0ab9c-2e98-41e4-8163-0d573ccbc281",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T16:22:13-04:00",
+   "amount": 30000.0,
+   "registrant": "PORTERFIELD, FETTIG & SEARS, LLC",
+   "client": "TIAA",
+   "url": "https://lda.gov/filings/public/filing/e9d0ab9c-2e98-41e4-8163-0d573ccbc281/print/"
+  },
+  {
+   "filing_uuid": "be2cab6e-7f31-41f2-a390-d40e5a99b502",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T17:03:01-04:00",
+   "amount": 520000.0,
+   "registrant": "AMERIPRISE FINANCIAL, INC.",
+   "client": "AMERIPRISE FINANCIAL, INC.",
+   "url": "https://lda.gov/filings/public/filing/be2cab6e-7f31-41f2-a390-d40e5a99b502/print/"
+  },
+  {
+   "filing_uuid": "2d1a68f9-ad73-4e72-b47c-710fa9999735",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T17:48:43-04:00",
+   "amount": 60000.0,
+   "registrant": "CGCN GROUP, LLC",
+   "client": "AMERICAN RETIREMENT ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/2d1a68f9-ad73-4e72-b47c-710fa9999735/print/"
+  },
+  {
+   "filing_uuid": "bb57345a-30d4-4941-a94e-be8ce9ecdf91",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-06-22T15:19:12-04:00",
+   "amount": 60000.0,
+   "registrant": "MR. PETER SNELL",
+   "client": "NATIONAL COUNCIL ON TEACHER RETIREMENT 9370 STUDIO COURT ELK GROVE CA 95758",
+   "url": "https://lda.gov/filings/public/filing/bb57345a-30d4-4941-a94e-be8ce9ecdf91/print/"
+  },
+  {
+   "filing_uuid": "76b8e382-9ca1-4a1a-81c4-735abfc5edf6",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-16T13:50:42-04:00",
+   "amount": 30000.0,
+   "registrant": "T. ROWE PRICE GROUP, INC.",
+   "client": "T. ROWE PRICE GROUP, INC.",
+   "url": "https://lda.gov/filings/public/filing/76b8e382-9ca1-4a1a-81c4-735abfc5edf6/print/"
+  },
+  {
+   "filing_uuid": "f6304d94-ce49-4bca-8c3d-765af3d405d8",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T10:31:19-04:00",
+   "amount": 20000.0,
+   "registrant": "ADVANCED POLICY CONSULTING, LLC",
+   "client": "INVESTMENT COMPANY INSTITUTE (ICI)",
+   "url": "https://lda.gov/filings/public/filing/f6304d94-ce49-4bca-8c3d-765af3d405d8/print/"
+  },
+  {
+   "filing_uuid": "0b0fe086-27fe-4be3-b739-a3202a893cb2",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T15:27:01-04:00",
+   "amount": 520000.0,
+   "registrant": "GUARDIAN LIFE INSURANCE COMPANY OF AMERICA",
+   "client": "GUARDIAN LIFE INSURANCE COMPANY OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/0b0fe086-27fe-4be3-b739-a3202a893cb2/print/"
+  },
+  {
+   "filing_uuid": "95e8e12a-7617-438a-a623-b4520156f798",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-19T12:49:35-04:00",
+   "amount": 180000.0,
+   "registrant": "TIAA",
+   "client": "TIAA",
+   "url": "https://lda.gov/filings/public/filing/95e8e12a-7617-438a-a623-b4520156f798/print/"
+  },
+  {
+   "filing_uuid": "04f8c964-0e92-4805-9db8-77330bb9b486",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T09:00:38-04:00",
+   "amount": 428151.0,
+   "registrant": "AMERICAN SOCIETY OF PENSION PROFESSIONALS & ACTUARIES",
+   "client": "AMERICAN SOCIETY OF PENSION PROFESSIONALS & ACTUARIES",
+   "url": "https://lda.gov/filings/public/filing/04f8c964-0e92-4805-9db8-77330bb9b486/print/"
+  },
+  {
+   "filing_uuid": "614d4651-c74b-4e76-b3e4-071f68859dc3",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T10:09:42-04:00",
+   "amount": 670000.0,
+   "registrant": "VANGUARD GROUP",
+   "client": "VANGUARD GROUP",
+   "url": "https://lda.gov/filings/public/filing/614d4651-c74b-4e76-b3e4-071f68859dc3/print/"
+  },
+  {
+   "filing_uuid": "b6b0532e-c5fd-491b-9b5d-c56d38737553",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T10:15:16-04:00",
+   "amount": 270000.0,
+   "registrant": "FRANKLIN TEMPLETON, INC. AND AFFILIATES (FORMERLY FRANKLIN RESOURCES, INC.)",
+   "client": "FRANKLIN TEMPLETON, INC. AND AFFILIATES (FORMERLY FRANKLIN RESOURCES, INC.)",
+   "url": "https://lda.gov/filings/public/filing/b6b0532e-c5fd-491b-9b5d-c56d38737553/print/"
+  },
+  {
+   "filing_uuid": "684f3333-1010-43b0-9b98-43b05395da28",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T10:24:48-04:00",
+   "amount": 90000.0,
+   "registrant": "WILLIS NORTH AMERICA INC.",
+   "client": "WILLIS NORTH AMERICA INC.",
+   "url": "https://lda.gov/filings/public/filing/684f3333-1010-43b0-9b98-43b05395da28/print/"
+  },
+  {
+   "filing_uuid": "dde35be7-3c36-4789-bb68-1a726433b537",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T12:31:22-04:00",
+   "amount": 1840000.0,
+   "registrant": "AMERICAN ASSOCIATION FOR JUSTICE",
+   "client": "AMERICAN ASSOCIATION FOR JUSTICE",
+   "url": "https://lda.gov/filings/public/filing/dde35be7-3c36-4789-bb68-1a726433b537/print/"
+  },
+  {
+   "filing_uuid": "0e31351a-785b-4261-8f83-1811f675a887",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T13:50:45-04:00",
+   "amount": 60000.0,
+   "registrant": "CGCN GROUP, LLC",
+   "client": "AMERICAN RETIREMENT ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/0e31351a-785b-4261-8f83-1811f675a887/print/"
+  },
+  {
+   "filing_uuid": "f6f15b41-c43f-4fcd-9428-0be309afac9e",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T14:06:23-04:00",
+   "amount": 40000.0,
+   "registrant": "PORTERFIELD, FETTIG & SEARS, LLC",
+   "client": "PRUDENTIAL FINANCIAL",
+   "url": "https://lda.gov/filings/public/filing/f6f15b41-c43f-4fcd-9428-0be309afac9e/print/"
+  },
+  {
+   "filing_uuid": "a772f8b5-21c4-4c5b-9bc4-45f453a6114a",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T14:09:50-04:00",
+   "amount": 30000.0,
+   "registrant": "PORTERFIELD, FETTIG & SEARS, LLC",
+   "client": "TIAA",
+   "url": "https://lda.gov/filings/public/filing/a772f8b5-21c4-4c5b-9bc4-45f453a6114a/print/"
+  },
+  {
+   "filing_uuid": "0f0bd4c5-0af2-4554-a0e5-d6e8e978f73f",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T14:54:50-04:00",
+   "amount": 280000.0,
+   "registrant": "AMERIPRISE FINANCIAL, INC.",
+   "client": "AMERIPRISE FINANCIAL, INC.",
+   "url": "https://lda.gov/filings/public/filing/0f0bd4c5-0af2-4554-a0e5-d6e8e978f73f/print/"
+  },
+  {
+   "filing_uuid": "2925f167-61a9-4254-b3f2-d04cbff8bcb1",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T14:58:00-04:00",
+   "amount": 600000.0,
+   "registrant": "LPL FINANCIAL",
+   "client": "LPL FINANCIAL",
+   "url": "https://lda.gov/filings/public/filing/2925f167-61a9-4254-b3f2-d04cbff8bcb1/print/"
+  },
+  {
+   "filing_uuid": "3ff2ba67-a7bc-40d8-9e94-2dfa3313d2c8",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-22T15:48:58-04:00",
+   "amount": 270000.0,
+   "registrant": "FRANKLIN TEMPLETON, INC. AND AFFILIATES (FORMERLY FRANKLIN RESOURCES, INC.)",
+   "client": "FRANKLIN TEMPLETON, INC. AND AFFILIATES (FORMERLY FRANKLIN RESOURCES, INC.)",
+   "url": "https://lda.gov/filings/public/filing/3ff2ba67-a7bc-40d8-9e94-2dfa3313d2c8/print/"
+  },
+  {
+   "filing_uuid": "6e374eb2-7a54-4cff-99b4-714af27085be",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-15T14:43:43-04:00",
+   "amount": 510000.0,
+   "registrant": "GUARDIAN LIFE INSURANCE COMPANY OF AMERICA",
+   "client": "GUARDIAN LIFE INSURANCE COMPANY OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/6e374eb2-7a54-4cff-99b4-714af27085be/print/"
+  },
+  {
+   "filing_uuid": "948b9a26-e3a5-41cc-ab3f-0bb6406b082f",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-16T15:39:56-04:00",
+   "amount": 30000.0,
+   "registrant": "T. ROWE PRICE GROUP, INC.",
+   "client": "T. ROWE PRICE GROUP, INC.",
+   "url": "https://lda.gov/filings/public/filing/948b9a26-e3a5-41cc-ab3f-0bb6406b082f/print/"
+  },
+  {
+   "filing_uuid": "6d56c67a-92fa-4a51-8903-1db112f5da68",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T11:58:36-04:00",
+   "amount": 510000.0,
+   "registrant": "VANGUARD GROUP",
+   "client": "VANGUARD GROUP",
+   "url": "https://lda.gov/filings/public/filing/6d56c67a-92fa-4a51-8903-1db112f5da68/print/"
+  },
+  {
+   "filing_uuid": "b8c41661-a0e9-492a-a6e2-7a539e6a996e",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T16:53:27-04:00",
+   "amount": 40000.0,
+   "registrant": "PORTERFIELD, FETTIG & SEARS, LLC",
+   "client": "PRUDENTIAL FINANCIAL",
+   "url": "https://lda.gov/filings/public/filing/b8c41661-a0e9-492a-a6e2-7a539e6a996e/print/"
+  },
+  {
+   "filing_uuid": "f134a5ae-c983-43f9-ad40-36ed936f4cbb",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T16:57:39-04:00",
+   "amount": 30000.0,
+   "registrant": "PORTERFIELD, FETTIG & SEARS, LLC",
+   "client": "TIAA",
+   "url": "https://lda.gov/filings/public/filing/f134a5ae-c983-43f9-ad40-36ed936f4cbb/print/"
+  },
+  {
+   "filing_uuid": "aa6e8d3b-0083-433e-b273-fc754083982f",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T09:02:18-04:00",
+   "amount": 50000.0,
+   "registrant": "WILLIS NORTH AMERICA INC.",
+   "client": "WILLIS NORTH AMERICA INC.",
+   "url": "https://lda.gov/filings/public/filing/aa6e8d3b-0083-433e-b273-fc754083982f/print/"
+  },
+  {
+   "filing_uuid": "165b9cd6-d323-4059-b790-2ffdc4cf0913",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T09:34:30-04:00",
+   "amount": 580000.0,
+   "registrant": "TIAA",
+   "client": "TIAA",
+   "url": "https://lda.gov/filings/public/filing/165b9cd6-d323-4059-b790-2ffdc4cf0913/print/"
+  },
+  {
+   "filing_uuid": "3609a576-92b5-441a-8206-86ade62f9891",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T12:08:20-04:00",
+   "amount": 280000.0,
+   "registrant": "FRANKLIN TEMPLETON, INC. AND AFFILIATES (FORMERLY FRANKLIN RESOURCES, INC.)",
+   "client": "FRANKLIN TEMPLETON, INC. AND AFFILIATES (FORMERLY FRANKLIN RESOURCES, INC.)",
+   "url": "https://lda.gov/filings/public/filing/3609a576-92b5-441a-8206-86ade62f9891/print/"
+  },
+  {
+   "filing_uuid": "3d207ca1-0d36-4dea-a158-ec7ef9193754",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T12:35:46-04:00",
+   "amount": 1580000.0,
+   "registrant": "AMERICAN ASSOCIATION FOR JUSTICE",
+   "client": "AMERICAN ASSOCIATION FOR JUSTICE",
+   "url": "https://lda.gov/filings/public/filing/3d207ca1-0d36-4dea-a158-ec7ef9193754/print/"
+  },
+  {
+   "filing_uuid": "5f5dee77-57c1-4b6f-9c2c-8b3312569f3e",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T13:12:35-04:00",
+   "amount": 430000.0,
+   "registrant": "METLIFE GROUP, INC.",
+   "client": "METLIFE GROUP, INC.",
+   "url": "https://lda.gov/filings/public/filing/5f5dee77-57c1-4b6f-9c2c-8b3312569f3e/print/"
+  },
+  {
+   "filing_uuid": "8128904c-e48c-4329-b4e7-ed11e1d20bb5",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T14:13:19-04:00",
+   "amount": 520000.0,
+   "registrant": "LPL FINANCIAL",
+   "client": "LPL FINANCIAL",
+   "url": "https://lda.gov/filings/public/filing/8128904c-e48c-4329-b4e7-ed11e1d20bb5/print/"
+  },
+  {
+   "filing_uuid": "9b22a19b-a62c-4dd8-81a8-2a17e12e9635",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T15:15:57-04:00",
+   "amount": 340000.0,
+   "registrant": "AMERIPRISE FINANCIAL, INC.",
+   "client": "AMERIPRISE FINANCIAL, INC.",
+   "url": "https://lda.gov/filings/public/filing/9b22a19b-a62c-4dd8-81a8-2a17e12e9635/print/"
+  },
+  {
+   "filing_uuid": "7c93524c-81b8-4b8f-a375-7d8409ea852c",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T15:37:57-04:00",
+   "amount": null,
+   "registrant": "SYMETRA LIFE INSURANCE COMPANY",
+   "client": "SYMETRA LIFE INSURANCE COMPANY",
+   "url": "https://lda.gov/filings/public/filing/7c93524c-81b8-4b8f-a375-7d8409ea852c/print/"
+  },
+  {
+   "filing_uuid": "e35821ad-515c-4de6-9658-5bcfceb73840",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T17:39:13-04:00",
+   "amount": 420000.0,
+   "registrant": "PACIFIC LIFE INSURANCE COMPANY",
+   "client": "PACIFIC LIFE INSURANCE COMPANY",
+   "url": "https://lda.gov/filings/public/filing/e35821ad-515c-4de6-9658-5bcfceb73840/print/"
+  },
+  {
+   "filing_uuid": "f11fb96a-0d51-4e80-837d-715e6a9134ca",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T18:14:05-04:00",
+   "amount": 1126104.0,
+   "registrant": "AMERICAN COUNCIL OF LIFE INSURERS",
+   "client": "AMERICAN COUNCIL OF LIFE INSURERS",
+   "url": "https://lda.gov/filings/public/filing/f11fb96a-0d51-4e80-837d-715e6a9134ca/print/"
+  },
+  {
+   "filing_uuid": "70cd9378-8739-4a13-8444-a1630164c68f",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T09:31:28-04:00",
+   "amount": null,
+   "registrant": "SYMETRA LIFE INSURANCE COMPANY",
+   "client": "SYMETRA LIFE INSURANCE COMPANY",
+   "url": "https://lda.gov/filings/public/filing/70cd9378-8739-4a13-8444-a1630164c68f/print/"
+  },
+  {
+   "filing_uuid": "73d4f7ee-4c2a-43c5-83a8-2fd74621a0d6",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T11:56:58-04:00",
+   "amount": 1103598.0,
+   "registrant": "AMERICAN COUNCIL OF LIFE INSURERS",
+   "client": "AMERICAN COUNCIL OF LIFE INSURERS",
+   "url": "https://lda.gov/filings/public/filing/73d4f7ee-4c2a-43c5-83a8-2fd74621a0d6/print/"
+  },
+  {
+   "filing_uuid": "49b72d85-b0c7-4dae-b54b-7afde4c1ff5f",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T12:18:02-04:00",
+   "amount": 1103598.0,
+   "registrant": "AMERICAN COUNCIL OF LIFE INSURERS",
+   "client": "AMERICAN COUNCIL OF LIFE INSURERS",
+   "url": "https://lda.gov/filings/public/filing/49b72d85-b0c7-4dae-b54b-7afde4c1ff5f/print/"
+  },
+  {
+   "filing_uuid": "45711a37-345e-4580-812d-5e80c0e570a1",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T20:05:10-04:00",
+   "amount": 480000.0,
+   "registrant": "PACIFIC LIFE INSURANCE COMPANY",
+   "client": "PACIFIC LIFE INSURANCE COMPANY",
+   "url": "https://lda.gov/filings/public/filing/45711a37-345e-4580-812d-5e80c0e570a1/print/"
+  },
+  {
+   "filing_uuid": "cf8e7370-fbf8-496c-b9c9-560a4b18fcb4",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T12:58:20-04:00",
+   "amount": 1002681.0,
+   "registrant": "AMERICAN COUNCIL OF LIFE INSURERS",
+   "client": "AMERICAN COUNCIL OF LIFE INSURERS",
+   "url": "https://lda.gov/filings/public/filing/cf8e7370-fbf8-496c-b9c9-560a4b18fcb4/print/"
+  },
+  {
+   "filing_uuid": "ff6da62d-0908-482c-b5cd-8a7750c2a052",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-16T16:25:05-04:00",
+   "amount": 230000.0,
+   "registrant": "AMERICAN BENEFITS COUNCIL",
+   "client": "AMERICAN BENEFITS COUNCIL",
+   "url": "https://lda.gov/filings/public/filing/ff6da62d-0908-482c-b5cd-8a7750c2a052/print/"
+  },
+  {
+   "filing_uuid": "780bdc87-422f-4966-a6ce-4a836bd25141",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-09-10T13:50:56-04:00",
+   "amount": 280000.0,
+   "registrant": "AMERICAN BENEFITS COUNCIL",
+   "client": "AMERICAN BENEFITS COUNCIL",
+   "url": "https://lda.gov/filings/public/filing/780bdc87-422f-4966-a6ce-4a836bd25141/print/"
+  },
+  {
+   "filing_uuid": "90f9cc2a-4743-4168-8e1f-1f5641e58cc2",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-17T11:35:09-04:00",
+   "amount": 970000.0,
+   "registrant": "PRINCIPAL FINANCIAL GROUP",
+   "client": "PRINCIPAL FINANCIAL GROUP",
+   "url": "https://lda.gov/filings/public/filing/90f9cc2a-4743-4168-8e1f-1f5641e58cc2/print/"
+  },
+  {
+   "filing_uuid": "1d885c3b-2f31-44a2-8c8f-0ff1b715be2e",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-14T07:19:45-04:00",
+   "amount": 401000.0,
+   "registrant": "PRINCIPAL FINANCIAL GROUP",
+   "client": "PRINCIPAL FINANCIAL GROUP",
+   "url": "https://lda.gov/filings/public/filing/1d885c3b-2f31-44a2-8c8f-0ff1b715be2e/print/"
+  },
+  {
+   "filing_uuid": "9af3f2df-9f16-4ae1-9353-ddd9af8f343c",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-12T10:20:32-04:00",
+   "amount": 468000.0,
+   "registrant": "PRINCIPAL FINANCIAL GROUP",
+   "client": "PRINCIPAL FINANCIAL GROUP",
+   "url": "https://lda.gov/filings/public/filing/9af3f2df-9f16-4ae1-9353-ddd9af8f343c/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}

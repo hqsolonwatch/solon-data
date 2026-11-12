@@ -194,44 +194,44 @@ var MEMBERS = [
     "name": "Rep. Katherine Clark",
     "role": "U.S. House, Massachusetts District 5",
     "vote": {
-      "bill": "H.R. 9612",
-      "title": "American Enrichment Deployment Act",
-      "summary": "Allows for the construction of a uranium enrichment facility before a license is issued by the Nuclear Regulatory Commission (NRC).",
-      "cast": "Yea",
-      "result": "Passed 394 to 3",
-      "date": "November 9, 2026",
-      "source": "clerk.house.gov, roll call 316, 2026"
+      "bill": "H.R. 1013",
+      "title": "Retirement Fairness for Charities and Educational Institutions Act of 2025",
+      "summary": "Allows 403(b) retirement plans (i.e., retirement plans designed for certain employees of public schools, charities, and churches) to invest in collective investment trusts, which are a group of pooled investment assets held by a bank or trust company, and in insurance company separate accounts.",
+      "cast": "Nay",
+      "result": "Passed 295 to 128",
+      "date": "November 11, 2026",
+      "source": "clerk.house.gov, roll call 321, 2026"
     },
     "lobbying": {
       "cycle": "2026 cycle",
       "groups": [
         [
-          "Nuclear Energy Institute",
-          0,
-          600000
+          "Securities Industry and Financial Markets Association",
+          6500,
+          1910000
         ],
         [
-          "Entergy Services",
+          "American Council of Life Insurers",
           5000,
-          570000
+          1002681
         ],
         [
-          "Pinnacle West Capital",
+          "Investment Company Institute",
+          10000,
+          916510
+        ],
+        [
+          "LPL Financial",
           0,
-          340000
+          520000
         ],
         [
-          "Xcel Energy",
+          "Vanguard Group",
           0,
-          300000
-        ],
-        [
-          "BWX Technologies",
-          2000,
-          230000
+          510000
         ]
       ],
-      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: Nuclear Energy Institute (C00239848); Entergy Services (C00363879); Pinnacle West Capital (C00015933); Xcel Energy (C00107771); BWX Technologies (C00365502)"
+      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: Securities Industry and Financial Markets Association (C00431312); American Council of Life Insurers (C00147066); Investment Company Institute (C00105981); LPL Financial (C00486217); Vanguard Group (C00410266)"
     }
   },
   {
@@ -241,44 +241,44 @@ var MEMBERS = [
     "name": "Rep. Tom Emmer",
     "role": "U.S. House, Minnesota District 6",
     "vote": {
-      "bill": "H.R. 9612",
-      "title": "American Enrichment Deployment Act",
-      "summary": "Allows for the construction of a uranium enrichment facility before a license is issued by the Nuclear Regulatory Commission (NRC).",
+      "bill": "H.R. 1013",
+      "title": "Retirement Fairness for Charities and Educational Institutions Act of 2025",
+      "summary": "Allows 403(b) retirement plans (i.e., retirement plans designed for certain employees of public schools, charities, and churches) to invest in collective investment trusts, which are a group of pooled investment assets held by a bank or trust company, and in insurance company separate accounts.",
       "cast": "Yea",
-      "result": "Passed 394 to 3",
-      "date": "November 9, 2026",
-      "source": "clerk.house.gov, roll call 316, 2026"
+      "result": "Passed 295 to 128",
+      "date": "November 11, 2026",
+      "source": "clerk.house.gov, roll call 321, 2026"
     },
     "lobbying": {
       "cycle": "2026 cycle",
       "groups": [
         [
-          "Nuclear Energy Institute",
-          10000,
-          600000
+          "Securities Industry and Financial Markets Association",
+          3500,
+          1910000
         ],
         [
-          "Entergy Services",
+          "American Council of Life Insurers",
+          8500,
+          1002681
+        ],
+        [
+          "Investment Company Institute",
+          10000,
+          916510
+        ],
+        [
+          "LPL Financial",
           5000,
-          570000
+          520000
         ],
         [
-          "Pinnacle West Capital",
+          "Vanguard Group",
           10000,
-          340000
-        ],
-        [
-          "Xcel Energy",
-          10000,
-          300000
-        ],
-        [
-          "BWX Technologies",
-          0,
-          230000
+          510000
         ]
       ],
-      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: Nuclear Energy Institute (C00239848); Entergy Services (C00363879); Pinnacle West Capital (C00015933); Xcel Energy (C00107771); BWX Technologies (C00365502)"
+      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: Securities Industry and Financial Markets Association (C00431312); American Council of Life Insurers (C00147066); Investment Company Institute (C00105981); LPL Financial (C00486217); Vanguard Group (C00410266)"
     }
   }
 ];
@@ -564,14 +564,14 @@ var ROLLCALLS = {
     ],
     [
       "Nov 2026",
-      5,
+      7,
       2
     ]
   ],
   "meta": {
     "start": "January 3, 2025",
-    "through": "November 10, 2026",
-    "total": 1598,
+    "through": "November 11, 2026",
+    "total": 1600,
     "election": {
       "date": "November 3, 2026",
       "month": "Nov 2026",
@@ -582,37 +582,44 @@ var ROLLCALLS = {
 };
 
 var SCHEDULE = {
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "house": {
-    "week": "November 9",
+    "week": "November 16",
     "rows": [
       {
-        "bill": "H.R. 3978",
-        "title": "Nuclear REFUEL Act",
-        "status": "Passed 397 to 2",
-        "roll": 315
-      },
-      {
-        "bill": "H.R. 9612",
-        "title": "American Enrichment Deployment Act",
-        "status": "Passed 394 to 3",
-        "roll": 316
-      },
-      {
-        "bill": "H.R. 5549",
-        "title": "Efficient Nuclear Licensing Hearings Act",
+        "bill": "H.R. 7254",
+        "title": "To amend the National Trails System Act to direct the Secretary of the Interior to conduct a study on the feasibility of designating the Bay Area Ridge National Scenic Trail, and for other purposes.",
         "status": "Scheduled",
         "roll": null
       },
       {
-        "bill": "H.R. 9084",
-        "title": "Department of Energy Nuclear Transparency Act",
+        "bill": "H.R. 7954",
+        "title": "Don Young Doug LaMalfa Indian Buffalo Management Act",
+        "status": "Scheduled",
+        "roll": null
+      },
+      {
+        "bill": "H.R. 8195",
+        "title": "Responsible Cormorant Management and Control Act of 2026",
+        "status": "Scheduled",
+        "roll": null
+      },
+      {
+        "bill": "H.R. 8483",
+        "title": "Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026",
         "status": "Scheduled",
         "roll": null
       }
     ],
-    "listed": 15,
-    "source": "docs.house.gov floor schedule; results from House Clerk roll calls 315 and 316"
+    "listed": 14,
+    "source": "docs.house.gov floor schedule"
   },
-  "senate": []
+  "senate": [
+    {
+      "bill": "H.R. 2347",
+      "title": "Survivor Justice Tax Prevention Act",
+      "note": "Survivor Justice Tax Prevention Act. Latest action, November 11: Cloture motion on the measure presented in Senate.",
+      "status": "Expected"
+    }
+  ]
 };

@@ -5013,7 +5013,7 @@
   {
    "id": "C00147181",
    "name": "PLUMBERS & PIPEFITTERS LOCAL UNION NO. 295 PAC",
-   "connected_org": "LOCAL UNION 295 UNITED ASS'N PLUMBERS & PIPEFITTERS U.S. & CANADA",
+   "connected_org": "PLUMBERS & PIPEFITTERS LOCAL UNION #295",
    "org_type": "L",
    "type": "Q",
    "designation": "U"
@@ -21229,7 +21229,7 @@
   {
    "id": "C00493270",
    "name": "HEIDELBERG MATERIALS US, INC. POLITICAL ACTION COMMITTEE",
-   "connected_org": null,
+   "connected_org": "HEIDELBERG MATERIALS US, INC.",
    "org_type": "C",
    "type": "Q",
    "designation": "B"
@@ -71660,7 +71660,7 @@
   },
   {
    "id": "C00924134",
-   "name": "BLUE MAJORITY 2026",
+   "name": "BLUE MAJORITY 2028",
    "connected_org": "NONE",
    "org_type": null,
    "type": "V",
@@ -86373,6 +86373,22 @@
   {
    "id": "C00964981",
    "name": "RIGHT FOR LOUISIANA PAC",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "O",
+   "designation": "U"
+  },
+  {
+   "id": "C00965012",
+   "name": "WE THE PEOPLE PAC",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "V",
+   "designation": "U"
+  },
+  {
+   "id": "C00965087",
+   "name": "AMERICANS FOR MEDICARE",
    "connected_org": "NONE",
    "org_type": null,
    "type": "O",

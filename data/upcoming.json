@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "house": [
   {
    "bill": {
@@ -176,9 +176,175 @@
    "description": "Providing for consideration of the bill (H.R. 1013) to amend the Federal securities laws to enhance 403(b) plans, and for other purposes.",
    "category": "",
    "week_of": "2026-11-09"
+  },
+  {
+   "bill": {
+    "type": "hr",
+    "number": 7254,
+    "label": "H.R. 7254",
+    "id": "hr7254-119"
+   },
+   "description": "To amend the National Trails System Act to direct the Secretary of the Interior to conduct a study on the feasibility of designating the Bay Area Ridge National Scenic Trail, and for other purposes., as amended",
+   "category": "",
+   "week_of": "2026-11-16"
+  },
+  {
+   "bill": {
+    "type": "hr",
+    "number": 7954,
+    "label": "H.R. 7954",
+    "id": "hr7954-119"
+   },
+   "description": "Don Young Doug LaMalfa Indian Buffalo Management Act",
+   "category": "",
+   "week_of": "2026-11-16"
+  },
+  {
+   "bill": {
+    "type": "hr",
+    "number": 8195,
+    "label": "H.R. 8195",
+    "id": "hr8195-119"
+   },
+   "description": "Responsible Cormorant Management and Control Act of 2026, as amended",
+   "category": "",
+   "week_of": "2026-11-16"
+  },
+  {
+   "bill": {
+    "type": "hr",
+    "number": 8483,
+    "label": "H.R. 8483",
+    "id": "hr8483-119"
+   },
+   "description": "Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026, as amended",
+   "category": "",
+   "week_of": "2026-11-16"
+  },
+  {
+   "bill": {
+    "type": "hr",
+    "number": 9600,
+    "label": "H.R. 9600",
+    "id": "hr9600-119"
+   },
+   "description": "Common Sense 250 Act of 2026",
+   "category": "",
+   "week_of": "2026-11-16"
+  },
+  {
+   "bill": {
+    "type": "hr",
+    "number": 10136,
+    "label": "H.R. 10136",
+    "id": "hr10136-119"
+   },
+   "description": "Crossett Experimental Forest Act of 2026, as amended",
+   "category": "",
+   "week_of": "2026-11-16"
+  },
+  {
+   "bill": {
+    "type": "hr",
+    "number": 9640,
+    "label": "H.R. 9640",
+    "id": "hr9640-119"
+   },
+   "description": "Earth MRI Reauthorization Act of 2026, as amended",
+   "category": "",
+   "week_of": "2026-11-16"
+  },
+  {
+   "bill": {
+    "type": "hr",
+    "number": 9785,
+    "label": "H.R. 9785",
+    "id": "hr9785-119"
+   },
+   "description": "South Dakota Water Feasibility Studies Act, as amended",
+   "category": "",
+   "week_of": "2026-11-16"
+  },
+  {
+   "bill": {
+    "type": "hr",
+    "number": 9269,
+    "label": "H.R. 9269",
+    "id": "hr9269-119"
+   },
+   "description": "Renewing the African American Civil Rights Network Act, as amended",
+   "category": "",
+   "week_of": "2026-11-16"
+  },
+  {
+   "bill": {
+    "type": "hr",
+    "number": 2400,
+    "label": "H.R. 2400",
+    "id": "hr2400-119"
+   },
+   "description": "Pit River Land Transfer Act of 2026, as amended",
+   "category": "",
+   "week_of": "2026-11-16"
+  },
+  {
+   "bill": {
+    "type": "hr",
+    "number": 7934,
+    "label": "H.R. 7934",
+    "id": "hr7934-119"
+   },
+   "description": "Settlement Agreement Information Database Act of 2026, as amended",
+   "category": "",
+   "week_of": "2026-11-16"
+  },
+  {
+   "bill": {
+    "type": "hr",
+    "number": 5490,
+    "label": "H.R. 5490",
+    "id": "hr5490-119"
+   },
+   "description": "Dismantle Foreign Scam Syndicates Act, as amended",
+   "category": "",
+   "week_of": "2026-11-16"
+  },
+  {
+   "bill": {
+    "type": "hr",
+    "number": 4464,
+    "label": "H.R. 4464",
+    "id": "hr4464-119"
+   },
+   "description": "Preventive Health Savings Act",
+   "category": "",
+   "week_of": "2026-11-16"
+  },
+  {
+   "bill": {
+    "type": "hr",
+    "number": 6470,
+    "label": "H.R. 6470",
+    "id": "hr6470-119"
+   },
+   "description": "Increasing Baseline Updates Act",
+   "category": "",
+   "week_of": "2026-11-16"
   }
  ],
- "senate": [],
+ "senate": [
+  {
+   "bill": {
+    "type": "hr",
+    "number": 2347,
+    "label": "H.R. 2347",
+    "id": "hr2347-119"
+   },
+   "description": "Survivor Justice Tax Prevention Act. Latest action, November 11: Cloture motion on the measure presented in Senate.",
+   "category": "expected",
+   "basis": "congress.gov action"
+  }
+ ],
  "sources": {
   "house": "House Majority Leader floor schedule, docs.house.gov",
   "senate": "Expected, not scheduled: Senate roll calls (senate.gov), bill actions (Congress.gov) and the senate.gov floor schedule"
