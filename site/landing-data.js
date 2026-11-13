@@ -194,44 +194,29 @@ var MEMBERS = [
     "name": "Rep. Katherine Clark",
     "role": "U.S. House, Massachusetts District 5",
     "vote": {
-      "bill": "H.R. 1013",
-      "title": "Retirement Fairness for Charities and Educational Institutions Act of 2025",
-      "summary": "Allows 403(b) retirement plans (i.e., retirement plans designed for certain employees of public schools, charities, and churches) to invest in collective investment trusts, which are a group of pooled investment assets held by a bank or trust company, and in insurance company separate accounts.",
-      "cast": "Nay",
-      "result": "Passed 295 to 128",
-      "date": "November 11, 2026",
-      "source": "clerk.house.gov, roll call 321, 2026"
+      "bill": "H.R. 2102",
+      "title": "Major Richard Star Act",
+      "summary": "Allows a veteran with a combat-related disability to receive retirement pay, without reduction, concurrently with their disability compensation.",
+      "cast": "Yea",
+      "result": "Passed 392 to 18",
+      "date": "November 12, 2026",
+      "source": "clerk.house.gov, roll call 323, 2026"
     },
     "lobbying": {
       "cycle": "2026 cycle",
       "groups": [
         [
-          "Securities Industry and Financial Markets Association",
-          6500,
-          1910000
+          "AFL-CIO",
+          0,
+          920000
         ],
         [
-          "American Council of Life Insurers",
+          "International Association of Machinists and Aerospace Workers",
           5000,
-          1002681
-        ],
-        [
-          "Investment Company Institute",
-          10000,
-          916510
-        ],
-        [
-          "LPL Financial",
-          0,
-          520000
-        ],
-        [
-          "Vanguard Group",
-          0,
-          510000
+          710000
         ]
       ],
-      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: Securities Industry and Financial Markets Association (C00431312); American Council of Life Insurers (C00147066); Investment Company Institute (C00105981); LPL Financial (C00486217); Vanguard Group (C00410266)"
+      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: AFL-CIO (C00003806); International Association of Machinists and Aerospace Workers (C00002469)"
     }
   },
   {
@@ -241,44 +226,29 @@ var MEMBERS = [
     "name": "Rep. Tom Emmer",
     "role": "U.S. House, Minnesota District 6",
     "vote": {
-      "bill": "H.R. 1013",
-      "title": "Retirement Fairness for Charities and Educational Institutions Act of 2025",
-      "summary": "Allows 403(b) retirement plans (i.e., retirement plans designed for certain employees of public schools, charities, and churches) to invest in collective investment trusts, which are a group of pooled investment assets held by a bank or trust company, and in insurance company separate accounts.",
+      "bill": "H.R. 2102",
+      "title": "Major Richard Star Act",
+      "summary": "Allows a veteran with a combat-related disability to receive retirement pay, without reduction, concurrently with their disability compensation.",
       "cast": "Yea",
-      "result": "Passed 295 to 128",
-      "date": "November 11, 2026",
-      "source": "clerk.house.gov, roll call 321, 2026"
+      "result": "Passed 392 to 18",
+      "date": "November 12, 2026",
+      "source": "clerk.house.gov, roll call 323, 2026"
     },
     "lobbying": {
       "cycle": "2026 cycle",
       "groups": [
         [
-          "Securities Industry and Financial Markets Association",
-          3500,
-          1910000
+          "AFL-CIO",
+          0,
+          920000
         ],
         [
-          "American Council of Life Insurers",
-          8500,
-          1002681
-        ],
-        [
-          "Investment Company Institute",
-          10000,
-          916510
-        ],
-        [
-          "LPL Financial",
-          5000,
-          520000
-        ],
-        [
-          "Vanguard Group",
-          10000,
-          510000
+          "International Association of Machinists and Aerospace Workers",
+          0,
+          710000
         ]
       ],
-      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: Securities Industry and Financial Markets Association (C00431312); American Council of Life Insurers (C00147066); Investment Company Institute (C00105981); LPL Financial (C00486217); Vanguard Group (C00410266)"
+      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: AFL-CIO (C00003806); International Association of Machinists and Aerospace Workers (C00002469)"
     }
   }
 ];
@@ -564,14 +534,14 @@ var ROLLCALLS = {
     ],
     [
       "Nov 2026",
-      7,
-      2
+      9,
+      6
     ]
   ],
   "meta": {
     "start": "January 3, 2025",
-    "through": "November 11, 2026",
-    "total": 1600,
+    "through": "November 12, 2026",
+    "total": 1606,
     "election": {
       "date": "November 3, 2026",
       "month": "Nov 2026",
@@ -582,7 +552,7 @@ var ROLLCALLS = {
 };
 
 var SCHEDULE = {
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "house": {
     "week": "November 16",
     "rows": [
@@ -618,7 +588,7 @@ var SCHEDULE = {
     {
       "bill": "H.R. 2347",
       "title": "Survivor Justice Tax Prevention Act",
-      "note": "Survivor Justice Tax Prevention Act. Latest action, November 11: Cloture motion on the measure presented in Senate.",
+      "note": "Survivor Justice Tax Prevention Act. Latest action, November 11: Cloture motion on the measure presented in Senate. (CR S5568)",
       "status": "Expected"
     }
   ]

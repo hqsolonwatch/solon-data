@@ -1,6 +1,250 @@
 {
- "count": 1600,
+ "count": 1606,
  "votes": [
+  {
+   "id": "senate-119-2-262",
+   "chamber": "senate",
+   "congress": 119,
+   "session": 2,
+   "number": 262,
+   "date": "2026-11-12",
+   "question": "On the Cloture Motion",
+   "kind": "cloture",
+   "result": "Cloture Motion Agreed to (49-26)",
+   "bill": null,
+   "totals": {
+    "yea": 49,
+    "nay": 26,
+    "present": 0,
+    "not_voting": 25
+   },
+   "by_party": {
+    "D": {
+     "yea": 0,
+     "nay": 26,
+     "present": 0,
+     "not-voting": 19
+    },
+    "R": {
+     "yea": 49,
+     "nay": 0,
+     "present": 0,
+     "not-voting": 4
+    },
+    "I": {
+     "yea": 0,
+     "nay": 0,
+     "present": 0,
+     "not-voting": 2
+    }
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00262.xml"
+  },
+  {
+   "id": "senate-119-2-261",
+   "chamber": "senate",
+   "congress": 119,
+   "session": 2,
+   "number": 261,
+   "date": "2026-11-12",
+   "question": "On the Cloture Motion",
+   "kind": "cloture",
+   "result": "Cloture Motion Agreed to (51-27)",
+   "bill": null,
+   "totals": {
+    "yea": 51,
+    "nay": 27,
+    "present": 0,
+    "not_voting": 22
+   },
+   "by_party": {
+    "D": {
+     "yea": 0,
+     "nay": 27,
+     "present": 0,
+     "not-voting": 18
+    },
+    "R": {
+     "yea": 51,
+     "nay": 0,
+     "present": 0,
+     "not-voting": 2
+    },
+    "I": {
+     "yea": 0,
+     "nay": 0,
+     "present": 0,
+     "not-voting": 2
+    }
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00261.xml"
+  },
+  {
+   "id": "senate-119-2-260",
+   "chamber": "senate",
+   "congress": 119,
+   "session": 2,
+   "number": 260,
+   "date": "2026-11-12",
+   "question": "On the Nomination",
+   "kind": "nomination",
+   "result": "Nomination Confirmed (49-27)",
+   "bill": null,
+   "totals": {
+    "yea": 49,
+    "nay": 27,
+    "present": 0,
+    "not_voting": 24
+   },
+   "by_party": {
+    "D": {
+     "yea": 0,
+     "nay": 27,
+     "present": 0,
+     "not-voting": 18
+    },
+    "R": {
+     "yea": 49,
+     "nay": 0,
+     "present": 0,
+     "not-voting": 4
+    },
+    "I": {
+     "yea": 0,
+     "nay": 0,
+     "present": 0,
+     "not-voting": 2
+    }
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00260.xml"
+  },
+  {
+   "id": "senate-119-2-259",
+   "chamber": "senate",
+   "congress": 119,
+   "session": 2,
+   "number": 259,
+   "date": "2026-11-12",
+   "question": "On the Cloture Motion",
+   "kind": "cloture",
+   "result": "Cloture Motion Agreed to (50-27)",
+   "bill": null,
+   "totals": {
+    "yea": 50,
+    "nay": 27,
+    "present": 0,
+    "not_voting": 23
+   },
+   "by_party": {
+    "D": {
+     "yea": 0,
+     "nay": 27,
+     "present": 0,
+     "not-voting": 18
+    },
+    "R": {
+     "yea": 50,
+     "nay": 0,
+     "present": 0,
+     "not-voting": 3
+    },
+    "I": {
+     "yea": 0,
+     "nay": 0,
+     "present": 0,
+     "not-voting": 2
+    }
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00259.xml"
+  },
+  {
+   "id": "house-119-2-323",
+   "chamber": "house",
+   "congress": 119,
+   "session": 2,
+   "number": 323,
+   "date": "2026-11-12",
+   "question": "On Passage",
+   "kind": "passage",
+   "result": "Passed",
+   "bill": {
+    "type": "hr",
+    "number": 2102,
+    "label": "H.R. 2102",
+    "id": "hr2102-119"
+   },
+   "totals": {
+    "yea": 392,
+    "nay": 18,
+    "present": 0,
+    "not_voting": 23
+   },
+   "by_party": {
+    "Republican": {
+     "yea": 181,
+     "nay": 18,
+     "present": 0,
+     "not-voting": 19
+    },
+    "Democratic": {
+     "yea": 210,
+     "nay": 0,
+     "present": 0,
+     "not-voting": 4
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "present": 0,
+     "not-voting": 0
+    }
+   },
+   "source_url": "https://clerk.house.gov/evs/2026/roll323.xml"
+  },
+  {
+   "id": "house-119-2-322",
+   "chamber": "house",
+   "congress": 119,
+   "session": 2,
+   "number": 322,
+   "date": "2026-11-12",
+   "question": "On Agreeing to the Resolution",
+   "kind": "resolution",
+   "result": "Passed",
+   "bill": {
+    "type": "hres",
+    "number": 1247,
+    "label": "H.Res. 1247",
+    "id": "hres1247-119"
+   },
+   "totals": {
+    "yea": 271,
+    "nay": 135,
+    "present": 0,
+    "not_voting": 26
+   },
+   "by_party": {
+    "Republican": {
+     "yea": 60,
+     "nay": 135,
+     "present": 0,
+     "not-voting": 22
+    },
+    "Democratic": {
+     "yea": 210,
+     "nay": 0,
+     "present": 0,
+     "not-voting": 4
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "present": 0,
+     "not-voting": 0
+    }
+   },
+   "source_url": "https://clerk.house.gov/evs/2026/roll322.xml"
+  },
   {
    "id": "house-119-2-321",
    "chamber": "house",

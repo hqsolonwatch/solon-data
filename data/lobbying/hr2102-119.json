@@ -1,0 +1,713 @@
+{
+ "bill": "hr2102-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "fetched_ts": 1794572149,
+ "report_count": 50,
+ "clients": [
+  {
+   "client": "MILITARY OFFICERS ASSOCIATION OF AMERICA",
+   "display_name": "Military Officers Association of America",
+   "reports": 8,
+   "latest_report_amount": 1070863.0,
+   "latest_report": "bcfc28e6-6d2a-4a16-bab4-392e2045928e",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "AFL-CIO",
+   "display_name": "AFL-CIO",
+   "reports": 1,
+   "latest_report_amount": 920000.0,
+   "latest_report": "81e8f17a-e7cc-456f-9c97-fd1429a14646",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00003806"
+   ],
+   "pac_names": [
+    "AFL-CIO COPE POLITICAL CONTRIBUTIONS COMMITTEE"
+   ]
+  },
+  {
+   "client": "INTERNATIONAL ASSOCIATION OF MACHINISTS AND AEROSPACE WORKERS",
+   "display_name": "International Association of Machinists and Aerospace Workers",
+   "reports": 2,
+   "latest_report_amount": 710000.0,
+   "latest_report": "75318bb9-327c-4cc6-a626-a9bb4a8a3a7f",
+   "latest_report_period": "2025 fourth_quarter",
+   "pac_ids": [
+    "C00002469"
+   ],
+   "pac_names": [
+    "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS"
+   ]
+  },
+  {
+   "client": "WOUNDED WARRIOR PROJECT",
+   "display_name": "Wounded Warrior Project",
+   "reports": 4,
+   "latest_report_amount": 630000.0,
+   "latest_report": "1e5c01ae-d853-40db-b33a-64963d9dfbb3",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "AMERICANS FOR PROSPERITY",
+   "display_name": "Americans for Prosperity",
+   "reports": 1,
+   "latest_report_amount": 590000.0,
+   "latest_report": "62fbd125-1d06-495b-a9b8-244adade5628",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "DISABLED AMERICAN VETERANS",
+   "display_name": "Disabled American Veterans",
+   "reports": 8,
+   "latest_report_amount": 164754.0,
+   "latest_report": "79a357d0-30b8-4918-8305-e63f86f6c9d1",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "ASSOCIATION OF THE UNITED STATES ARMY, (INC.)",
+   "display_name": "Association of the United States Army, (inc.)",
+   "reports": 6,
+   "latest_report_amount": 108409.0,
+   "latest_report": "20257bde-2d69-408e-8ad6-868e46752466",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "PARALYZED VETERANS OF AMERICA",
+   "display_name": "Paralyzed Veterans of America",
+   "reports": 3,
+   "latest_report_amount": 87212.0,
+   "latest_report": "14748bdb-1d41-4db8-8b57-2fc15c40c9de",
+   "latest_report_period": "2025 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "PEACE OFFICERS RESEARCH ASSOCIATION OF CALIFORNIA",
+   "display_name": "Peace Officers Research Association of California",
+   "reports": 3,
+   "latest_report_amount": 50000.0,
+   "latest_report": "7270f2a4-a6bc-4da0-99b0-6e2a9b6c90d5",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "MENTAL HEALTH ASSOCIATION OF NEW YORK CITY, INC. (DBA VIBRANT EMOTIONAL HEALTH)",
+   "display_name": "Mental Health Association of New York City",
+   "reports": 1,
+   "latest_report_amount": 50000.0,
+   "latest_report": "8d350bd7-766b-4827-aede-df85cea7f1e8",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "K9S FOR WARRIORS, INC.",
+   "display_name": "K9s for Warriors",
+   "reports": 1,
+   "latest_report_amount": 40000.0,
+   "latest_report": "b3245107-1c48-48a5-ada0-8213d392eb1b",
+   "latest_report_period": "2025 first_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "VOTEVETS ACTION FUND, INC.",
+   "display_name": "Votevets Action Fund",
+   "reports": 3,
+   "latest_report_amount": 31000.0,
+   "latest_report": "d15d3bf9-982f-4cf2-ac08-71dfc12b1ead",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "AIR FORCE SERGEANTS ASSOCIATION",
+   "display_name": "Air Force Sergeants Association",
+   "reports": 2,
+   "latest_report_amount": 30000.0,
+   "latest_report": "5ddd76b2-b3c3-47bd-ab94-cd8ccda476bb",
+   "latest_report_period": "2026 second_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NATIONAL ALLIANCE ON MENTAL ILLNESS",
+   "display_name": "National Alliance on Mental Illness",
+   "reports": 2,
+   "latest_report_amount": 10000.0,
+   "latest_report": "c70bdacd-22f2-4b52-a008-662b5485e0ba",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "IRAQ AND AFGHANISTAN VETERANS OF AMERICA INC",
+   "display_name": "Iraq and Afghanistan Veterans of America",
+   "reports": 4,
+   "latest_report_amount": null,
+   "latest_report": "24f0dbfb-b7c4-4f53-9f4f-8482d8aeccc4",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "MISSION ROLL CALL",
+   "display_name": "Mission Roll Call",
+   "reports": 1,
+   "latest_report_amount": null,
+   "latest_report": "d177d403-bf7f-4757-99e4-ea418f5703f5",
+   "latest_report_period": "2025 fourth_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  }
+ ],
+ "groups_shown": [
+  {
+   "client": "AFL-CIO",
+   "display_name": "AFL-CIO",
+   "reports": 1,
+   "latest_report_amount": 920000.0,
+   "latest_report": "81e8f17a-e7cc-456f-9c97-fd1429a14646",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00003806"
+   ],
+   "pac_names": [
+    "AFL-CIO COPE POLITICAL CONTRIBUTIONS COMMITTEE"
+   ]
+  },
+  {
+   "client": "INTERNATIONAL ASSOCIATION OF MACHINISTS AND AEROSPACE WORKERS",
+   "display_name": "International Association of Machinists and Aerospace Workers",
+   "reports": 2,
+   "latest_report_amount": 710000.0,
+   "latest_report": "75318bb9-327c-4cc6-a626-a9bb4a8a3a7f",
+   "latest_report_period": "2025 fourth_quarter",
+   "pac_ids": [
+    "C00002469"
+   ],
+   "pac_names": [
+    "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS"
+   ]
+  }
+ ],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "708d38d3-0254-4022-943e-8bebac7d7137",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-15T08:17:25-04:00",
+   "amount": 141405.0,
+   "registrant": "DISABLED AMERICAN VETERANS",
+   "client": "DISABLED AMERICAN VETERANS",
+   "url": "https://lda.gov/filings/public/filing/708d38d3-0254-4022-943e-8bebac7d7137/print/"
+  },
+  {
+   "filing_uuid": "7ff4eefb-7a88-4e4b-b900-e978f37e1845",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-16T09:45:38-04:00",
+   "amount": 88646.0,
+   "registrant": "PARALYZED VETERANS OF AMERICA",
+   "client": "PARALYZED VETERANS OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/7ff4eefb-7a88-4e4b-b900-e978f37e1845/print/"
+  },
+  {
+   "filing_uuid": "b9f3495b-500a-420b-b8de-b67d47c7b94c",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-04-24T11:42:14-04:00",
+   "amount": 489768.0,
+   "registrant": "MILITARY OFFICERS ASSOCIATION OF AMERICA",
+   "client": "MILITARY OFFICERS ASSOCIATION OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/b9f3495b-500a-420b-b8de-b67d47c7b94c/print/"
+  },
+  {
+   "filing_uuid": "b3245107-1c48-48a5-ada0-8213d392eb1b",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-05-09T13:11:45-04:00",
+   "amount": 40000.0,
+   "registrant": "K9S FOR WARRIORS, INC.",
+   "client": "K9S FOR WARRIORS, INC.",
+   "url": "https://lda.gov/filings/public/filing/b3245107-1c48-48a5-ada0-8213d392eb1b/print/"
+  },
+  {
+   "filing_uuid": "6e6742d2-9b27-4005-bfc2-23d80620eb71",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-14T10:42:43-04:00",
+   "amount": 141405.0,
+   "registrant": "DISABLED AMERICAN VETERANS",
+   "client": "DISABLED AMERICAN VETERANS",
+   "url": "https://lda.gov/filings/public/filing/6e6742d2-9b27-4005-bfc2-23d80620eb71/print/"
+  },
+  {
+   "filing_uuid": "f6b1d54f-327f-4b59-b5fe-01c8b593aa9a",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-15T12:42:58-04:00",
+   "amount": 107114.0,
+   "registrant": "ASSOCIATION OF THE UNITED STATES ARMY, (INC.)",
+   "client": "ASSOCIATION OF THE UNITED STATES ARMY, (INC.)",
+   "url": "https://lda.gov/filings/public/filing/f6b1d54f-327f-4b59-b5fe-01c8b593aa9a/print/"
+  },
+  {
+   "filing_uuid": "ccb60b0c-228b-4294-b4e6-89a1194e8764",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-18T08:35:17-04:00",
+   "amount": 89207.0,
+   "registrant": "PARALYZED VETERANS OF AMERICA",
+   "client": "PARALYZED VETERANS OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/ccb60b0c-228b-4294-b4e6-89a1194e8764/print/"
+  },
+  {
+   "filing_uuid": "03bb7ccc-0ce5-4f1c-abd7-11f733b6b152",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T19:56:21-04:00",
+   "amount": 865301.0,
+   "registrant": "MILITARY OFFICERS ASSOCIATION OF AMERICA",
+   "client": "MILITARY OFFICERS ASSOCIATION OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/03bb7ccc-0ce5-4f1c-abd7-11f733b6b152/print/"
+  },
+  {
+   "filing_uuid": "18eecbc4-89cc-4bc6-b43a-8af8fa400ec6",
+   "year": 2025,
+   "period": "first_quarter",
+   "posted": "2025-09-18T11:05:18-04:00",
+   "amount": 489768.0,
+   "registrant": "MILITARY OFFICERS ASSOCIATION OF AMERICA",
+   "client": "MILITARY OFFICERS ASSOCIATION OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/18eecbc4-89cc-4bc6-b43a-8af8fa400ec6/print/"
+  },
+  {
+   "filing_uuid": "4da879e5-e78a-4139-b230-f0b98096fb99",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-15T16:36:00-04:00",
+   "amount": 91215.0,
+   "registrant": "ASSOCIATION OF THE UNITED STATES ARMY, (INC.)",
+   "client": "ASSOCIATION OF THE UNITED STATES ARMY, (INC.)",
+   "url": "https://lda.gov/filings/public/filing/4da879e5-e78a-4139-b230-f0b98096fb99/print/"
+  },
+  {
+   "filing_uuid": "ed0f3cfc-3028-45ea-b492-2d8a99d5923b",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-16T10:01:02-04:00",
+   "amount": 141405.0,
+   "registrant": "DISABLED AMERICAN VETERANS",
+   "client": "DISABLED AMERICAN VETERANS",
+   "url": "https://lda.gov/filings/public/filing/ed0f3cfc-3028-45ea-b492-2d8a99d5923b/print/"
+  },
+  {
+   "filing_uuid": "5434fba2-7e65-4cc4-93ad-1e2226cc26c6",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-16T13:36:21-04:00",
+   "amount": 740000.0,
+   "registrant": "INTERNATIONAL ASSOCIATION OF MACHINISTS AND AEROSPACE WORKERS",
+   "client": "INTERNATIONAL ASSOCIATION OF MACHINISTS AND AEROSPACE WORKERS",
+   "url": "https://lda.gov/filings/public/filing/5434fba2-7e65-4cc4-93ad-1e2226cc26c6/print/"
+  },
+  {
+   "filing_uuid": "14748bdb-1d41-4db8-8b57-2fc15c40c9de",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-17T11:55:47-04:00",
+   "amount": 87212.0,
+   "registrant": "PARALYZED VETERANS OF AMERICA",
+   "client": "PARALYZED VETERANS OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/14748bdb-1d41-4db8-8b57-2fc15c40c9de/print/"
+  },
+  {
+   "filing_uuid": "72019a91-e243-4017-ba7a-e6908b7c73d5",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T12:28:17-04:00",
+   "amount": 422979.0,
+   "registrant": "MILITARY OFFICERS ASSOCIATION OF AMERICA",
+   "client": "MILITARY OFFICERS ASSOCIATION OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/72019a91-e243-4017-ba7a-e6908b7c73d5/print/"
+  },
+  {
+   "filing_uuid": "7586a41c-71ca-4e73-badf-1fc8a3f1615c",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-15T15:15:16-05:00",
+   "amount": 100320.0,
+   "registrant": "ASSOCIATION OF THE UNITED STATES ARMY, (INC.)",
+   "client": "ASSOCIATION OF THE UNITED STATES ARMY, (INC.)",
+   "url": "https://lda.gov/filings/public/filing/7586a41c-71ca-4e73-badf-1fc8a3f1615c/print/"
+  },
+  {
+   "filing_uuid": "ffe9f2b8-c498-4ea8-b899-15f65ed5efef",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T12:23:24-05:00",
+   "amount": 161271.0,
+   "registrant": "DISABLED AMERICAN VETERANS",
+   "client": "DISABLED AMERICAN VETERANS",
+   "url": "https://lda.gov/filings/public/filing/ffe9f2b8-c498-4ea8-b899-15f65ed5efef/print/"
+  },
+  {
+   "filing_uuid": "75318bb9-327c-4cc6-a626-a9bb4a8a3a7f",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T15:35:38-05:00",
+   "amount": 710000.0,
+   "registrant": "INTERNATIONAL ASSOCIATION OF MACHINISTS AND AEROSPACE WORKERS",
+   "client": "INTERNATIONAL ASSOCIATION OF MACHINISTS AND AEROSPACE WORKERS",
+   "url": "https://lda.gov/filings/public/filing/75318bb9-327c-4cc6-a626-a9bb4a8a3a7f/print/"
+  },
+  {
+   "filing_uuid": "bbceca71-9161-49dc-8248-e06247ce55c0",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T18:56:35-05:00",
+   "amount": 120000.0,
+   "registrant": "IRAQ AND AFGHANISTAN VETERANS OF AMERICA, INC.",
+   "client": "IRAQ AND AFGHANISTAN VETERANS OF AMERICA INC",
+   "url": "https://lda.gov/filings/public/filing/bbceca71-9161-49dc-8248-e06247ce55c0/print/"
+  },
+  {
+   "filing_uuid": "efcedb5b-e5ee-4ac9-860b-a2eb1b8aef83",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-22T13:02:03-05:00",
+   "amount": 20000.0,
+   "registrant": "WOUNDED WARRIOR PROJECT",
+   "client": "WOUNDED WARRIOR PROJECT",
+   "url": "https://lda.gov/filings/public/filing/efcedb5b-e5ee-4ac9-860b-a2eb1b8aef83/print/"
+  },
+  {
+   "filing_uuid": "201c2b58-a36d-4ad0-9d5b-6f4a4ec1c97d",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-27T15:51:33-05:00",
+   "amount": 446040.0,
+   "registrant": "MILITARY OFFICERS ASSOCIATION OF AMERICA",
+   "client": "MILITARY OFFICERS ASSOCIATION OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/201c2b58-a36d-4ad0-9d5b-6f4a4ec1c97d/print/"
+  },
+  {
+   "filing_uuid": "7490f05c-1c77-457f-a228-6666b46d7499",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2026-09-25T13:43:51-04:00",
+   "amount": 141405.0,
+   "registrant": "DISABLED AMERICAN VETERANS",
+   "client": "DISABLED AMERICAN VETERANS",
+   "url": "https://lda.gov/filings/public/filing/7490f05c-1c77-457f-a228-6666b46d7499/print/"
+  },
+  {
+   "filing_uuid": "d177d403-bf7f-4757-99e4-ea418f5703f5",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2025-12-02T14:20:03-05:00",
+   "amount": null,
+   "registrant": "MISSION ROLL CALL",
+   "client": "MISSION ROLL CALL",
+   "url": "https://lda.gov/filings/public/filing/d177d403-bf7f-4757-99e4-ea418f5703f5/print/"
+  },
+  {
+   "filing_uuid": "5b675238-9c3b-4a10-b825-98dceaa34818",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-03-24T17:08:36-04:00",
+   "amount": 30000.0,
+   "registrant": "AIR FORCE SERGEANTS ASSOCIATION",
+   "client": "AIR FORCE SERGEANTS ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/5b675238-9c3b-4a10-b825-98dceaa34818/print/"
+  },
+  {
+   "filing_uuid": "8d1b9d81-1452-4cb9-943a-a99fb6b7ff82",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-06T12:27:54-04:00",
+   "amount": 175948.0,
+   "registrant": "DISABLED AMERICAN VETERANS",
+   "client": "DISABLED AMERICAN VETERANS",
+   "url": "https://lda.gov/filings/public/filing/8d1b9d81-1452-4cb9-943a-a99fb6b7ff82/print/"
+  },
+  {
+   "filing_uuid": "c53970f0-6dbc-487b-aed7-36201670a235",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-17T11:52:39-04:00",
+   "amount": 110137.0,
+   "registrant": "ASSOCIATION OF THE UNITED STATES ARMY, (INC.)",
+   "client": "ASSOCIATION OF THE UNITED STATES ARMY, (INC.)",
+   "url": "https://lda.gov/filings/public/filing/c53970f0-6dbc-487b-aed7-36201670a235/print/"
+  },
+  {
+   "filing_uuid": "6b6a90d2-29fc-4e3d-b8e2-3824dfb370fe",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-19T16:43:03-04:00",
+   "amount": 50000.0,
+   "registrant": "STEPTOE LLP",
+   "client": "PEACE OFFICERS RESEARCH ASSOCIATION OF CALIFORNIA",
+   "url": "https://lda.gov/filings/public/filing/6b6a90d2-29fc-4e3d-b8e2-3824dfb370fe/print/"
+  },
+  {
+   "filing_uuid": "c8bc8e71-3991-4d1f-b06b-fe31ab8a493a",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T13:05:30-04:00",
+   "amount": 120000.0,
+   "registrant": "IRAQ AND AFGHANISTAN VETERANS OF AMERICA, INC.",
+   "client": "IRAQ AND AFGHANISTAN VETERANS OF AMERICA INC",
+   "url": "https://lda.gov/filings/public/filing/c8bc8e71-3991-4d1f-b06b-fe31ab8a493a/print/"
+  },
+  {
+   "filing_uuid": "c506b5d6-a45d-4fb9-b87f-91822bb24af1",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T17:48:35-04:00",
+   "amount": 510000.0,
+   "registrant": "WOUNDED WARRIOR PROJECT",
+   "client": "WOUNDED WARRIOR PROJECT",
+   "url": "https://lda.gov/filings/public/filing/c506b5d6-a45d-4fb9-b87f-91822bb24af1/print/"
+  },
+  {
+   "filing_uuid": "3e0fb592-d608-446d-96ab-b7d6e9a527f9",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-21T09:38:23-04:00",
+   "amount": 481639.0,
+   "registrant": "MILITARY OFFICERS ASSOCIATION OF AMERICA",
+   "client": "MILITARY OFFICERS ASSOCIATION OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/3e0fb592-d608-446d-96ab-b7d6e9a527f9/print/"
+  },
+  {
+   "filing_uuid": "e97974cb-4ee1-4153-81d6-39b293a86282",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T11:34:30-04:00",
+   "amount": 123692.0,
+   "registrant": "ASSOCIATION OF THE UNITED STATES ARMY, (INC.)",
+   "client": "ASSOCIATION OF THE UNITED STATES ARMY, (INC.)",
+   "url": "https://lda.gov/filings/public/filing/e97974cb-4ee1-4153-81d6-39b293a86282/print/"
+  },
+  {
+   "filing_uuid": "c22659e4-6d26-40ed-b8dd-efd453cdc8aa",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-19T13:37:33-04:00",
+   "amount": 50000.0,
+   "registrant": "STEPTOE LLP",
+   "client": "PEACE OFFICERS RESEARCH ASSOCIATION OF CALIFORNIA",
+   "url": "https://lda.gov/filings/public/filing/c22659e4-6d26-40ed-b8dd-efd453cdc8aa/print/"
+  },
+  {
+   "filing_uuid": "11b1d0c4-ebaf-4721-aca7-3a0757db629a",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T11:44:10-04:00",
+   "amount": 120000.0,
+   "registrant": "IRAQ AND AFGHANISTAN VETERANS OF AMERICA, INC.",
+   "client": "IRAQ AND AFGHANISTAN VETERANS OF AMERICA INC",
+   "url": "https://lda.gov/filings/public/filing/11b1d0c4-ebaf-4721-aca7-3a0757db629a/print/"
+  },
+  {
+   "filing_uuid": "b6bf93d2-122a-48cc-b764-5a08244af46a",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T15:11:16-04:00",
+   "amount": 20000.0,
+   "registrant": "NATIONAL ALLIANCE ON MENTAL ILLNESS",
+   "client": "NATIONAL ALLIANCE ON MENTAL ILLNESS",
+   "url": "https://lda.gov/filings/public/filing/b6bf93d2-122a-48cc-b764-5a08244af46a/print/"
+  },
+  {
+   "filing_uuid": "73cacb17-1b4f-476d-9e1d-42d255236876",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T15:48:10-04:00",
+   "amount": 854387.0,
+   "registrant": "MILITARY OFFICERS ASSOCIATION OF AMERICA",
+   "client": "MILITARY OFFICERS ASSOCIATION OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/73cacb17-1b4f-476d-9e1d-42d255236876/print/"
+  },
+  {
+   "filing_uuid": "f454cc32-fd64-4455-81b6-30dac5590c32",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T16:20:55-04:00",
+   "amount": 30000.0,
+   "registrant": "WOUNDED WARRIOR PROJECT",
+   "client": "WOUNDED WARRIOR PROJECT",
+   "url": "https://lda.gov/filings/public/filing/f454cc32-fd64-4455-81b6-30dac5590c32/print/"
+  },
+  {
+   "filing_uuid": "4b5cc03b-a344-44e6-a6fc-d8599125c800",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-21T06:58:14-04:00",
+   "amount": 149180.0,
+   "registrant": "DISABLED AMERICAN VETERANS",
+   "client": "DISABLED AMERICAN VETERANS",
+   "url": "https://lda.gov/filings/public/filing/4b5cc03b-a344-44e6-a6fc-d8599125c800/print/"
+  },
+  {
+   "filing_uuid": "5ddd76b2-b3c3-47bd-ab94-cd8ccda476bb",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-08-07T11:11:18-04:00",
+   "amount": 30000.0,
+   "registrant": "AIR FORCE SERGEANTS ASSOCIATION",
+   "client": "AIR FORCE SERGEANTS ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/5ddd76b2-b3c3-47bd-ab94-cd8ccda476bb/print/"
+  },
+  {
+   "filing_uuid": "79a357d0-30b8-4918-8305-e63f86f6c9d1",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-16T07:53:45-04:00",
+   "amount": 164754.0,
+   "registrant": "DISABLED AMERICAN VETERANS",
+   "client": "DISABLED AMERICAN VETERANS",
+   "url": "https://lda.gov/filings/public/filing/79a357d0-30b8-4918-8305-e63f86f6c9d1/print/"
+  },
+  {
+   "filing_uuid": "62fbd125-1d06-495b-a9b8-244adade5628",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-16T11:15:25-04:00",
+   "amount": 590000.0,
+   "registrant": "AMERICANS FOR PROSPERITY",
+   "client": "AMERICANS FOR PROSPERITY",
+   "url": "https://lda.gov/filings/public/filing/62fbd125-1d06-495b-a9b8-244adade5628/print/"
+  },
+  {
+   "filing_uuid": "20257bde-2d69-408e-8ad6-868e46752466",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T21:00:39-04:00",
+   "amount": 108409.0,
+   "registrant": "ASSOCIATION OF THE UNITED STATES ARMY, (INC.)",
+   "client": "ASSOCIATION OF THE UNITED STATES ARMY, (INC.)",
+   "url": "https://lda.gov/filings/public/filing/20257bde-2d69-408e-8ad6-868e46752466/print/"
+  },
+  {
+   "filing_uuid": "24f0dbfb-b7c4-4f53-9f4f-8482d8aeccc4",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T09:41:04-04:00",
+   "amount": null,
+   "registrant": "IRAQ AND AFGHANISTAN VETERANS OF AMERICA, INC.",
+   "client": "IRAQ AND AFGHANISTAN VETERANS OF AMERICA INC",
+   "url": "https://lda.gov/filings/public/filing/24f0dbfb-b7c4-4f53-9f4f-8482d8aeccc4/print/"
+  },
+  {
+   "filing_uuid": "7270f2a4-a6bc-4da0-99b0-6e2a9b6c90d5",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T11:15:15-04:00",
+   "amount": 50000.0,
+   "registrant": "STEPTOE LLP",
+   "client": "PEACE OFFICERS RESEARCH ASSOCIATION OF CALIFORNIA",
+   "url": "https://lda.gov/filings/public/filing/7270f2a4-a6bc-4da0-99b0-6e2a9b6c90d5/print/"
+  },
+  {
+   "filing_uuid": "81e8f17a-e7cc-456f-9c97-fd1429a14646",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T11:31:34-04:00",
+   "amount": 920000.0,
+   "registrant": "AFL-CIO",
+   "client": "AFL-CIO",
+   "url": "https://lda.gov/filings/public/filing/81e8f17a-e7cc-456f-9c97-fd1429a14646/print/"
+  },
+  {
+   "filing_uuid": "c70bdacd-22f2-4b52-a008-662b5485e0ba",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T12:34:05-04:00",
+   "amount": 10000.0,
+   "registrant": "NATIONAL ALLIANCE ON MENTAL ILLNESS",
+   "client": "NATIONAL ALLIANCE ON MENTAL ILLNESS",
+   "url": "https://lda.gov/filings/public/filing/c70bdacd-22f2-4b52-a008-662b5485e0ba/print/"
+  },
+  {
+   "filing_uuid": "8d350bd7-766b-4827-aede-df85cea7f1e8",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T12:56:33-04:00",
+   "amount": 50000.0,
+   "registrant": "ARENTFOX SCHIFF LLP",
+   "client": "MENTAL HEALTH ASSOCIATION OF NEW YORK CITY, INC. (DBA VIBRANT EMOTIONAL HEALTH)",
+   "url": "https://lda.gov/filings/public/filing/8d350bd7-766b-4827-aede-df85cea7f1e8/print/"
+  },
+  {
+   "filing_uuid": "bcfc28e6-6d2a-4a16-bab4-392e2045928e",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-23T15:00:50-04:00",
+   "amount": 1070863.0,
+   "registrant": "MILITARY OFFICERS ASSOCIATION OF AMERICA",
+   "client": "MILITARY OFFICERS ASSOCIATION OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/bcfc28e6-6d2a-4a16-bab4-392e2045928e/print/"
+  },
+  {
+   "filing_uuid": "1e5c01ae-d853-40db-b33a-64963d9dfbb3",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-27T10:03:30-04:00",
+   "amount": 630000.0,
+   "registrant": "WOUNDED WARRIOR PROJECT",
+   "client": "WOUNDED WARRIOR PROJECT",
+   "url": "https://lda.gov/filings/public/filing/1e5c01ae-d853-40db-b33a-64963d9dfbb3/print/"
+  },
+  {
+   "filing_uuid": "64939ece-5f8d-48d6-9d66-f4542edeb566",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-09T15:24:25-04:00",
+   "amount": 140140.0,
+   "registrant": "VOTEVETS ACTION FUND, INC.",
+   "client": "VOTEVETS ACTION FUND, INC.",
+   "url": "https://lda.gov/filings/public/filing/64939ece-5f8d-48d6-9d66-f4542edeb566/print/"
+  },
+  {
+   "filing_uuid": "5442a166-7d7b-429f-b13b-81afca918992",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-14T12:48:07-04:00",
+   "amount": 140140.0,
+   "registrant": "VOTEVETS ACTION FUND, INC.",
+   "client": "VOTEVETS ACTION FUND, INC.",
+   "url": "https://lda.gov/filings/public/filing/5442a166-7d7b-429f-b13b-81afca918992/print/"
+  },
+  {
+   "filing_uuid": "d15d3bf9-982f-4cf2-ac08-71dfc12b1ead",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-16T17:02:23-04:00",
+   "amount": 31000.0,
+   "registrant": "VOTEVETS ACTION FUND, INC.",
+   "client": "VOTEVETS ACTION FUND, INC.",
+   "url": "https://lda.gov/filings/public/filing/d15d3bf9-982f-4cf2-ac08-71dfc12b1ead/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}

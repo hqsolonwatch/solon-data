@@ -25772,7 +25772,7 @@
   },
   {
    "id": "C00568881",
-   "name": "WELLPATH PAC",
+   "name": "NEW WPCC PARENT, LLC PAC",
    "connected_org": "NEW WPCC PARENT, LLC",
    "org_type": "C",
    "type": "N",
@@ -32072,7 +32072,7 @@
    "connected_org": "DOCUMENT STORAGE SYSTEMS, INC.",
    "org_type": "C",
    "type": "Q",
-   "designation": "U"
+   "designation": "B"
   },
   {
    "id": "C00683508",
@@ -59517,9 +59517,9 @@
   {
    "id": "C00885491",
    "name": "DEMOCRACY DEFENDERS PAC",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
-   "type": "V",
+   "type": "N",
    "designation": "U"
   },
   {
@@ -74701,7 +74701,7 @@
   {
    "id": "C00935999",
    "name": "MINNESOTA FORWARD",
-   "connected_org": "TAFOYA VICTORY",
+   "connected_org": null,
    "org_type": null,
    "type": "O",
    "designation": "U"
@@ -77076,7 +77076,7 @@
   },
   {
    "id": "C00944181",
-   "name": "BUILDING EMPOWERMENT AND ACCOUNTABILITY NOW (BEAN) PAC",
+   "name": "BUILDING EMPOWERMENT AND ACCOUNTABILITY NOW PAC",
    "connected_org": "BEAN",
    "org_type": null,
    "type": "N",
@@ -86389,6 +86389,38 @@
   {
    "id": "C00965087",
    "name": "AMERICANS FOR MEDICARE",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "O",
+   "designation": "U"
+  },
+  {
+   "id": "C00965129",
+   "name": "TOGETHER FIGHT! TOGETHER WIN!",
+   "connected_org": "SHAHEEN",
+   "org_type": null,
+   "type": "N",
+   "designation": "D"
+  },
+  {
+   "id": "C00965145",
+   "name": "RESTORING AMERICA'S NEIGHBORHOODS, CHARACTER, AND HEARTLAND PAC (RANCH PAC)",
+   "connected_org": "HINES",
+   "org_type": null,
+   "type": "N",
+   "designation": "D"
+  },
+  {
+   "id": "C00965152",
+   "name": "AFROAMERICAN GROSS DOMESTIC PRODUCT",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "O",
+   "designation": "U"
+  },
+  {
+   "id": "C00965160",
+   "name": "VIET AMERICA",
    "connected_org": "NONE",
    "org_type": null,
    "type": "O",
