@@ -4364,11 +4364,11 @@
   },
   {
    "id": "C00133389",
-   "name": "FUTURES INDUSTRY POLITICAL ACTION COMMITTEE",
-   "connected_org": null,
+   "name": "FUTURES INDUSTRY ASSOCIATION, INC. POLITICAL ACTION COMMITTEE/FIPAC",
+   "connected_org": "FUTURES INDUSTRY ASSOCIATION, INC.",
    "org_type": "T",
    "type": "Q",
-   "designation": "U"
+   "designation": "B"
   },
   {
    "id": "C00133561",
@@ -13821,7 +13821,7 @@
   {
    "id": "C00382424",
    "name": "AMERICAN COLLEGE OF SURGEONS PROFESSIONAL ASSOCIATION PAC",
-   "connected_org": null,
+   "connected_org": "AMERICAN COLLEGE OF SURGEONS PROFESSIONAL ASSOCIATION",
    "org_type": "T",
    "type": "Q",
    "designation": "B"
@@ -44851,14 +44851,6 @@
    "designation": "D"
   },
   {
-   "id": "C00818302",
-   "name": "NEW MEXICO HOUSE VICTORY FUND 2026",
-   "connected_org": "NONE",
-   "org_type": null,
-   "type": "N",
-   "designation": "J"
-  },
-  {
    "id": "C00818328",
    "name": "PAC FOR NEW LEADERSHIP",
    "connected_org": null,
@@ -47253,7 +47245,7 @@
   {
    "id": "C00830208",
    "name": "GE HEALTHCARE TECHNOLOGIES INC. PAC",
-   "connected_org": null,
+   "connected_org": "GE HEALTHCARE TECHNOLOGIES INC.",
    "org_type": "C",
    "type": "Q",
    "designation": "B"
@@ -74101,7 +74093,7 @@
   {
    "id": "C00933416",
    "name": "BOLD NORTH FREEDOM FUND",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "O",
    "designation": "U"
@@ -75165,7 +75157,7 @@
   {
    "id": "C00937797",
    "name": "HUSTED VICTORY",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -82309,7 +82301,7 @@
   {
    "id": "C00957456",
    "name": "OMEGA PAC",
-   "connected_org": null,
+   "connected_org": "NONE",
    "org_type": null,
    "type": "N",
    "designation": "U"
@@ -84189,7 +84181,7 @@
   {
    "id": "C00960823",
    "name": "COAST TO COAST SENATE FUND",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -84509,7 +84501,7 @@
   {
    "id": "C00961433",
    "name": "PROTECT THE MAJORITY 2026",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -86425,6 +86417,22 @@
    "org_type": null,
    "type": "O",
    "designation": "U"
+  },
+  {
+   "id": "C00965194",
+   "name": "MOUNTAIN DEMOCRATS PAC",
+   "connected_org": "AGER",
+   "org_type": null,
+   "type": "N",
+   "designation": "D"
+  },
+  {
+   "id": "C00965236",
+   "name": "SOUTH CAROLINA SENATE VICTORY FUND",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "N",
+   "designation": "J"
   },
   {
    "id": "C99002396",

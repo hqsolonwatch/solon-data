@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "house": [
   {
    "bill": {
@@ -294,7 +294,7 @@
     "label": "H.R. 7934",
     "id": "hr7934-119"
    },
-   "description": "Settlement Agreement Information Database Act of 2026, as amended",
+   "description": "Settlement Agreement Information Database Act of 2026",
    "category": "",
    "week_of": "2026-11-16"
   },
@@ -323,11 +323,22 @@
   {
    "bill": {
     "type": "hr",
-    "number": 6470,
-    "label": "H.R. 6470",
-    "id": "hr6470-119"
+    "number": 3495,
+    "label": "H.R. 3495",
+    "id": "hr3495-119"
    },
-   "description": "Increasing Baseline Updates Act",
+   "description": "Direct Seller and Real Estate Agent Harmonization Act",
+   "category": "",
+   "week_of": "2026-11-16"
+  },
+  {
+   "bill": {
+    "type": "hr",
+    "number": 5267,
+    "label": "H.R. 5267",
+    "id": "hr5267-119"
+   },
+   "description": "American Franchise Act",
    "category": "",
    "week_of": "2026-11-16"
   }
