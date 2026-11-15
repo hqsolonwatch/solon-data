@@ -552,7 +552,7 @@ var ROLLCALLS = {
 };
 
 var SCHEDULE = {
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "house": {
     "week": "November 16",
     "rows": [
