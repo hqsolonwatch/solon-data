@@ -514,6 +514,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00066472",
+   "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION POLITICAL ACTION COMMITTEE (INSURING AMERICA PAC)",
+   "connected_org": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00064774",
    "name": "NEXTERA ENERGY, INC. POLITICAL ACTION COMMITTEE",
    "connected_org": "NEXTERA ENERGY, INC",
@@ -598,15 +604,15 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00414474",
-   "name": "AMERIPRISE FINANCIAL INC. POLITICAL ACTION COMMITTEE (AMERIPRISEPAC)",
-   "connected_org": "AMERIPRISE FINANCIAL INC.",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00343137",
    "name": "POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS--PAC OF AAOS",
    "connected_org": "AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00414474",
+   "name": "AMERIPRISE FINANCIAL INC. POLITICAL ACTION COMMITTEE (AMERIPRISEPAC)",
+   "connected_org": "AMERIPRISE FINANCIAL INC.",
    "total": 2000.0
   },
   {
@@ -928,6 +934,18 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00325936",
+   "name": "SOCIETY OF THORACIC SURGEONS POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE SOCIETY OF THORACIC SURGEONS",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00135590",
+   "name": "INSTITUTE OF MAKERS OF EXPLOSIVES POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00101766",
    "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
    "connected_org": "UNITED AIRLINES, INC.",
@@ -971,11 +989,11 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 98000.0
+   "total": 101500.0
   },
   {
    "type": "Membership group PACs",
-   "total": 34500.0
+   "total": 35500.0
   },
   {
    "type": "Other PACs",

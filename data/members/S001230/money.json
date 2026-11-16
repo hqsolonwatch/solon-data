@@ -82,9 +82,21 @@
    "total": 7500.0
   },
   {
+   "committee_id": "C00012245",
+   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+   "connected_org": "UBS AMERICAS INC.",
+   "total": 7500.0
+  },
+  {
    "committee_id": "C00072025",
    "name": "NATIONAL RURAL LETTER CARRIERS' ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "NATIONAL RURAL LETTER CARRIERS' ASSOCIATION",
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00443671",
+   "name": "MICRON TECHNOLOGY, INC. EMPLOYEE PAC",
+   "connected_org": null,
    "total": 7500.0
   },
   {
@@ -163,12 +175,6 @@
    "committee_id": "C00091561",
    "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
    "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00012245",
-   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
-   "connected_org": "UBS AMERICAS INC.",
    "total": 5000.0
   },
   {
@@ -268,6 +274,12 @@
    "total": 3500.0
   },
   {
+   "committee_id": "C00215285",
+   "name": "GENERAL ATOMICS POLITICAL ACTION COMMITTEE",
+   "connected_org": "GENERAL ATOMICS",
+   "total": 3500.0
+  },
+  {
    "committee_id": "C00369751",
    "name": "DELL TECHNOLOGIES, INC. POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -325,6 +337,12 @@
    "committee_id": "C00097568",
    "name": "EMPLOYEES OF RTX CORPORATION POLITICAL ACTION COMMITTEE",
    "connected_org": "RTX CORPORATION",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00101766",
+   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
+   "connected_org": "UNITED AIRLINES, INC.",
    "total": 3000.0
   },
   {
@@ -412,12 +430,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00443671",
-   "name": "MICRON TECHNOLOGY, INC. EMPLOYEE PAC",
-   "connected_org": null,
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00107128",
    "name": "NATIONAL TREASURY EMPLOYEES UNION POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -484,12 +496,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00101766",
-   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
-   "connected_org": "UNITED AIRLINES, INC.",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00360354",
    "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
    "connected_org": null,
@@ -505,6 +511,18 @@
    "committee_id": "C00033779",
    "name": "THE REAL ESTATE ROUNDTABLE POLITICAL ACTION COMMITTEE (REALPAC)",
    "connected_org": "THE REAL ESTATE ROUNDTABLE",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00000059",
+   "name": "HALLMARK CARDS, INC. PAC (HALLPAC)",
+   "connected_org": "HALLMARK CARDS, INC.",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00365122",
+   "name": "VISA, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "VISA INC",
    "total": 2000.0
   },
   {
@@ -628,12 +646,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00215285",
-   "name": "GENERAL ATOMICS POLITICAL ACTION COMMITTEE",
-   "connected_org": "GENERAL ATOMICS",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00699140",
    "name": "LSTA, INC. PAC",
    "connected_org": "LSTA, INC.",
@@ -736,6 +748,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00032995",
+   "name": "AMALGAMATED TRANSIT UNION - COPE",
+   "connected_org": "AMALGAMATED TRANSIT UNION",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00516526",
    "name": "ALLIANCE FOR AUTOMOTIVE INNOVATION POLITICAL ACTION COMMITTEE (AUTO PAC)",
    "connected_org": "ALLIANCE FOR AUTOMOTIVE INNOVATION",
@@ -769,11 +787,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 133500.0
+   "total": 148500.0
   },
   {
    "type": "Labor union PACs",
-   "total": 80500.0
+   "total": 81500.0
   },
   {
    "type": "Other PACs",

@@ -364,12 +364,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00257956",
-   "name": "THE GOOD FUND",
-   "connected_org": "NONE",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00196725",
    "name": "HEWLETT PACKARD ENTERPRISE COMPANY PAC",
    "connected_org": "HEWLETT PACKARD ENTERPRISE COMPANY",
@@ -445,6 +439,12 @@
    "committee_id": "C00719393",
    "name": "DISCOVERY COMMUNICATIONS, LLC PAC",
    "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00257956",
+   "name": "THE GOOD FUND",
+   "connected_org": "NONE",
    "total": 2000.0
   },
   {
@@ -723,7 +723,7 @@
   },
   {
    "type": "Other PACs",
-   "total": 38000.0
+   "total": 37500.0
   },
   {
    "type": "Membership group PACs",

@@ -22,6 +22,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00360354",
+   "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
+   "connected_org": null,
+   "total": 7500.0
+  },
+  {
    "committee_id": "C00332833",
    "name": "CARDINAL HEALTH INC. PAC",
    "connected_org": null,
@@ -58,6 +64,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00542365",
+   "name": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC)",
+   "connected_org": "TOYOTA MOTOR NORTH AMERICA, INC",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00043463",
    "name": "MANUFACTURED HOUSING INSTITUTE PAC",
    "connected_org": null,
@@ -73,12 +85,6 @@
    "committee_id": "C00240911",
    "name": "JM FAMILY ENTERPRISES, INC PAC",
    "connected_org": "JM FAMILY ENTERPRISES, INC.",
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00360354",
-   "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
-   "connected_org": null,
    "total": 5000.0
   },
   {
@@ -142,6 +148,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00389403",
+   "name": "SPECIALTY EQUIPMENT MARKET ASSOCIATION & PERFORMANCE RACING, INC. PAC (SEMA & PRI PAC)",
+   "connected_org": "SPECIALTY EQUIPMENT MARKET ASSOCIATION & PERFORMANCE RACING, INC.",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00623512",
    "name": "IN THE ARENA PAC",
    "connected_org": "TEAM HILL",
@@ -163,6 +175,12 @@
    "committee_id": "C00039461",
    "name": "BALL CORPORATION POLITICAL ACTION COMMITTEE",
    "connected_org": "BALL CORPORATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00540518",
+   "name": "THE CAPITAL GROUP COMPANIES INC POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE CAPITAL GROUP COMPANIES, INC.",
    "total": 5000.0
   },
   {
@@ -223,6 +241,12 @@
    "committee_id": "C00097568",
    "name": "EMPLOYEES OF RTX CORPORATION POLITICAL ACTION COMMITTEE",
    "connected_org": "RTX CORPORATION",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00941609",
+   "name": "VEEAM SOFTWARE POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
    "total": 3000.0
   },
   {
@@ -316,12 +340,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00389403",
-   "name": "SPECIALTY EQUIPMENT MARKET ASSOCIATION & PERFORMANCE RACING, INC. PAC (SEMA & PRI PAC)",
-   "connected_org": "SPECIALTY EQUIPMENT MARKET ASSOCIATION & PERFORMANCE RACING, INC.",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00400929",
    "name": "CENCORA, INC. PAC",
    "connected_org": "CENCORA, INC.",
@@ -364,6 +382,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00946111",
+   "name": "ANTHROPIC PBC POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00680504",
    "name": "BROADCOM INC. POLITICAL ACTION COMMITTEE (BROADCOM PAC)",
    "connected_org": "BROADCOM INC.",
@@ -403,12 +427,6 @@
    "committee_id": "C00411900",
    "name": "EDWARDS LIFESCIENCES POLITICAL ACTION COMMITTEE (A.K.A. EDWARDS PAC)",
    "connected_org": "EDWARDS LIFESCIENCES",
-   "total": 2000.0
-  },
-  {
-   "committee_id": "C00542365",
-   "name": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC)",
-   "connected_org": "TOYOTA MOTOR NORTH AMERICA, INC",
    "total": 2000.0
   },
   {
@@ -721,11 +739,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 224000.0
+   "total": 240000.0
   },
   {
    "type": "Trade association PACs",
-   "total": 48000.0
+   "total": 50500.0
   },
   {
    "type": "Other PACs",

@@ -106,6 +106,18 @@
    "total": 7500.0
   },
   {
+   "committee_id": "C00948448",
+   "name": "DEMOCRATIC DOCTORS PAC (DEM DOC PAC)",
+   "connected_org": "NONE",
+   "total": 7000.0
+  },
+  {
+   "committee_id": "C00413955",
+   "name": "AMERICAN ASSOCIATION OF NEUROLOGICAL SURGEONS POLITICAL ACTION COMMITTEE (NEUROSURGERYPAC)",
+   "connected_org": "AMERICAN ASSOCIATION OF NEUROLOGICAL SURGEONS POLITICAL ACTION COMMITTEE (NEUROSURGERYPAC)",
+   "total": 6976.0
+  },
+  {
    "committee_id": "C00411553",
    "name": "AMERICAN ACADEMY OF FAMILY PHYSICIANS POLITICAL ACTION COMMITTEE (FAMMEDPAC)",
    "connected_org": "AMERICAN ACADEMY OF FAMILY PHYSICIANS",
@@ -128,12 +140,6 @@
    "name": "AMERICAN COLLEGE OF OB-GYNS PAC (OB-GYN PAC)",
    "connected_org": null,
    "total": 6000.0
-  },
-  {
-   "committee_id": "C00413955",
-   "name": "AMERICAN ASSOCIATION OF NEUROLOGICAL SURGEONS POLITICAL ACTION COMMITTEE (NEUROSURGERYPAC)",
-   "connected_org": "AMERICAN ASSOCIATION OF NEUROLOGICAL SURGEONS POLITICAL ACTION COMMITTEE (NEUROSURGERYPAC)",
-   "total": 5976.0
   },
   {
    "committee_id": "C00097485",
@@ -232,6 +238,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00341800",
+   "name": "AIRPORTS COUNCIL INTERNATIONAL-NORTH AMERICA PAC",
+   "connected_org": "AIRPORTS COUNCIL INTERNATIONAL-NORTH AMERICA",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00574970",
    "name": "FAIR SHOT PAC",
    "connected_org": "CLARK",
@@ -244,9 +256,21 @@
    "total": 3500.0
   },
   {
+   "committee_id": "C00325936",
+   "name": "SOCIETY OF THORACIC SURGEONS POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE SOCIETY OF THORACIC SURGEONS",
+   "total": 3500.0
+  },
+  {
    "committee_id": "C00441733",
    "name": "TAKEDA PHARMACEUTICALS AMERICA INC. POLITICAL ACTION COMMITTEE",
    "connected_org": "TAKEDA PHARMACEUTICALS AMERICA, INC.",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 3500.0
   },
   {
@@ -259,12 +283,6 @@
    "committee_id": "C00194746",
    "name": "BLUEPAC - BLUE CROSS BLUE SHIELD ASSOCIATION PAC",
    "connected_org": "BLUE CROSS BLUE SHIELD ASSOCIATION",
-   "total": 3500.0
-  },
-  {
-   "committee_id": "C00948448",
-   "name": "DEMOCRATIC DOCTORS PAC (DEM DOC PAC)",
-   "connected_org": "NONE",
    "total": 3500.0
   },
   {
@@ -340,12 +358,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00122499",
    "name": "AMERICAN ACADEMY OF PHYSICIAN ASSOCIATES POLITICAL ACTION COMMITTEE (PA PAC)",
    "connected_org": "AMERICAN ACADEMY OF PHYSICIAN ASSOCIATES",
@@ -388,6 +400,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00574103",
+   "name": "U.S. ANESTHESIA PARTNERS, INC. PAC D/B/A/ USAP PAC",
+   "connected_org": "U.S. ANESTHESIA PARTNERS, INC.",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00032995",
    "name": "AMALGAMATED TRANSIT UNION - COPE",
    "connected_org": "AMALGAMATED TRANSIT UNION",
@@ -421,12 +439,6 @@
    "committee_id": "C00004275",
    "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
    "connected_org": "AMERICAN BANKERS ASSOCIATION (ABA)",
-   "total": 2000.0
-  },
-  {
-   "committee_id": "C00325936",
-   "name": "SOCIETY OF THORACIC SURGEONS POLITICAL ACTION COMMITTEE",
-   "connected_org": "THE SOCIETY OF THORACIC SURGEONS",
    "total": 2000.0
   },
   {
@@ -584,6 +596,12 @@
    "name": "MICHIGAN SUGAR COMPANY GROWERS POLITICAL ACTION COMMITTEE",
    "connected_org": "MICHIGAN SUGAR COMPANY GROWERS ASSOCIATION",
    "total": 1500.0
+  },
+  {
+   "committee_id": "C00946111",
+   "name": "ANTHROPIC PBC POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 1250.0
   },
   {
    "committee_id": "C00252940",
@@ -886,6 +904,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00545202",
+   "name": "THE CENTER FOR FREETHOUGHT EQUALITY PAC",
+   "connected_org": "THE CENTER FOR FREETHOUGHT EQUALITY",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00390583",
    "name": "BHFS-E, PC PAC (BROWNSTEIN HYATT FARBER SCHRECK POLITICAL ACTION COMMITTEE)",
    "connected_org": "BHFS-E, PC",
@@ -925,7 +949,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 141987.0
+   "total": 145737.0
   },
   {
    "type": "Labor union PACs",
@@ -933,15 +957,15 @@
   },
   {
    "type": "Membership group PACs",
-   "total": 60050.0
+   "total": 62550.0
   },
   {
    "type": "Other PACs",
-   "total": 57004.0
+   "total": 60504.0
   },
   {
    "type": "Trade association PACs",
-   "total": 46476.0
+   "total": 53476.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
@@ -958,8 +982,14 @@
  ],
  "outside_spending": {
   "support_total": 10.0,
-  "oppose_total": 0.0,
+  "oppose_total": 14212.0,
   "spenders": [
+   {
+    "committee_id": "C00959387",
+    "name": "FORTIFY NEW JERSEY",
+    "support": 0.0,
+    "oppose": 14212.0
+   },
    {
     "committee_id": "C00483693",
     "name": "SIERRA CLUB INDEPENDENT ACTION",

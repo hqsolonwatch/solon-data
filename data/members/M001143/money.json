@@ -193,7 +193,7 @@
    "committee_id": "C00144766",
    "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
-   "total": 5000.0
+   "total": 6500.0
   },
   {
    "committee_id": "C00211318",
@@ -358,6 +358,12 @@
    "total": 3500.0
   },
   {
+   "committee_id": "C00954982",
+   "name": "STRATEGIC MARKETING INNOVATIONS, INC. PAC",
+   "connected_org": "STRATEGIC MARKETING INNOVATIONS, INC.",
+   "total": 3500.0
+  },
+  {
    "committee_id": "C00001636",
    "name": "SMART TD PAC",
    "connected_org": "SMART TD",
@@ -379,6 +385,12 @@
    "committee_id": "C00377952",
    "name": "CUMMINS INC. POLITICAL ACTION COMMITTEE (CIPAC)",
    "connected_org": "CUMMINS INC.",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00405076",
+   "name": "BEST BUY CO., INC. EMPLOYEE POLITICAL FORUM",
+   "connected_org": "BEST BUY CO., INC.",
    "total": 3000.0
   },
   {
@@ -433,6 +445,12 @@
    "committee_id": "C00676544",
    "name": "STARKEY PAC",
    "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00091561",
+   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
+   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
    "total": 2500.0
   },
   {
@@ -550,12 +568,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00405076",
-   "name": "BEST BUY CO., INC. EMPLOYEE POLITICAL FORUM",
-   "connected_org": "BEST BUY CO., INC.",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00432757",
    "name": "NATIONAL ASSOCIATION OF DISABILITY REPRESENTATIVES PAC (NADR PAC)",
    "connected_org": "NATIONAL ASSOCIATION OF DISABILITY REPRESENTATIVES",
@@ -565,12 +577,6 @@
    "committee_id": "C00208983",
    "name": "MANTECH INTERNATIONAL CORPORATION POLITICAL ACTION COMMITTEE   ( A.K.A 'MANTECH PAC')",
    "connected_org": "MANTECH INTERNATIONAL CORPORATION",
-   "total": 1500.0
-  },
-  {
-   "committee_id": "C00091561",
-   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
-   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
    "total": 1500.0
   },
   {
@@ -676,6 +682,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00367177",
+   "name": "INDIAN GAMING ASSOCIATION",
+   "connected_org": "INDIAN GAMING ASSOCIATION",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00902783",
    "name": "FLIGHTSAFETY INTERNATIONAL INC. PAC",
    "connected_org": "BNSF RAILWAY COMPANY RAILPAC (BNSF RAILPAC)",
@@ -721,7 +733,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 301500.0
+   "total": 306000.0
   },
   {
    "type": "Labor union PACs",
@@ -729,11 +741,11 @@
   },
   {
    "type": "Other PACs",
-   "total": 38000.0
+   "total": 39000.0
   },
   {
    "type": "Trade association PACs",
-   "total": 35000.0
+   "total": 37500.0
   },
   {
    "type": "Membership group PACs",

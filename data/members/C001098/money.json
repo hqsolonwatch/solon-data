@@ -352,6 +352,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00360354",
+   "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00517870",
    "name": "NATIONAL AUTO AUCTION ASSOCIATION POLITICAL ACTION COMMITTEE (NAAAPAC)",
    "connected_org": "NATIONAL AUTO AUCTION ASSOCIATION",
@@ -373,6 +379,12 @@
    "committee_id": "C00429217",
    "name": "TEXAS INTERNATIONAL PRODUCE ASSN TEX PAC",
    "connected_org": null,
+   "total": 4500.0
+  },
+  {
+   "committee_id": "C00421230",
+   "name": "AIRBUS AMERICAS, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "AIRBUS AMERICAS, INC.",
    "total": 4500.0
   },
   {
@@ -670,6 +682,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00095117",
+   "name": "GRAND TRUNK WESTERN RAILROAD CO- ILLINOIS CENTRAL RAILROAD CO GTW-IC PAC (CN PAC)",
+   "connected_org": "GRAND TRUNK WESTERN RAILROAD CO",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00114025",
    "name": "NATIONAL READY MIXED CONCRETE ASSN. PAC (CONCRETEPAC)",
    "connected_org": null,
@@ -697,12 +715,6 @@
    "committee_id": "C00409789",
    "name": "BLESSEY MARINE SERVICE, INC. POLITICAL ACTION COMMITTEE",
    "connected_org": "BLESSEY MARINE SERVICE INC",
-   "total": 2000.0
-  },
-  {
-   "committee_id": "C00421230",
-   "name": "AIRBUS AMERICAS, INC. POLITICAL ACTION COMMITTEE",
-   "connected_org": "AIRBUS AMERICAS, INC.",
    "total": 2000.0
   },
   {
@@ -871,7 +883,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 345500.0
+   "total": 355500.0
   },
   {
    "type": "Trade association PACs",

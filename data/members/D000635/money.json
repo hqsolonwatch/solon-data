@@ -82,6 +82,12 @@
    "total": 7500.0
   },
   {
+   "committee_id": "C00413955",
+   "name": "AMERICAN ASSOCIATION OF NEUROLOGICAL SURGEONS POLITICAL ACTION COMMITTEE (NEUROSURGERYPAC)",
+   "connected_org": "AMERICAN ASSOCIATION OF NEUROLOGICAL SURGEONS POLITICAL ACTION COMMITTEE (NEUROSURGERYPAC)",
+   "total": 7500.0
+  },
+  {
    "committee_id": "C00004036",
    "name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
    "connected_org": "SERVICE EMPLOYEES INTERNATIONAL UNION",
@@ -100,9 +106,21 @@
    "total": 7000.0
   },
   {
+   "committee_id": "C00948448",
+   "name": "DEMOCRATIC DOCTORS PAC (DEM DOC PAC)",
+   "connected_org": "NONE",
+   "total": 7000.0
+  },
+  {
    "committee_id": "C00113803",
    "name": "AMERICAN OSTEOPATHIC INFORMATION ASSOCIATION - OSTEOPATHIC POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN OSTEOPATHIC INFORMATION ASSOCIATION",
+   "total": 6000.0
+  },
+  {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 6000.0
   },
   {
@@ -226,12 +244,6 @@
    "total": 4000.0
   },
   {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
-   "total": 3500.0
-  },
-  {
    "committee_id": "C00005660",
    "name": "AMERICAN ASSOCIATION OF ORAL & MAXILLOFACIAL SURGEONS POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN ASSOCIATION OF ORAL & MAXILLOFACIAL SURGEONS",
@@ -253,12 +265,6 @@
    "committee_id": "C00007880",
    "name": "AMERICA'S CREDIT UNIONS PAC",
    "connected_org": "AMERICA'S CREDIT UNIONS",
-   "total": 3500.0
-  },
-  {
-   "committee_id": "C00948448",
-   "name": "DEMOCRATIC DOCTORS PAC (DEM DOC PAC)",
-   "connected_org": "NONE",
    "total": 3500.0
   },
   {
@@ -290,12 +296,6 @@
    "name": "AMERICAN POSTAL WORKERS UNION COMMITTEE ON POLITICAL ACTION",
    "connected_org": "AMERICAN POSTAL WORKERS UNION",
    "total": 3000.0
-  },
-  {
-   "committee_id": "C00413955",
-   "name": "AMERICAN ASSOCIATION OF NEUROLOGICAL SURGEONS POLITICAL ACTION COMMITTEE (NEUROSURGERYPAC)",
-   "connected_org": "AMERICAN ASSOCIATION OF NEUROLOGICAL SURGEONS POLITICAL ACTION COMMITTEE (NEUROSURGERYPAC)",
-   "total": 2500.0
   },
   {
    "committee_id": "C00235739",
@@ -436,6 +436,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00035451",
+   "name": "AIR LINE PILOTS ASSOCIATION PAC",
+   "connected_org": "AIR LINE PILOTS ASSOCIATION",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00491142",
    "name": "COMMON SENSE DEMOCRAT PAC",
    "connected_org": "LYNCH",
@@ -484,6 +490,18 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00384818",
+   "name": "CVS HEALTH PAC",
+   "connected_org": "CVS HEALTH",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00091561",
+   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
+   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00238725",
    "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
    "connected_org": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION",
@@ -493,6 +511,12 @@
    "committee_id": "C00343459",
    "name": "AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC",
    "connected_org": "AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00009985",
+   "name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
+   "connected_org": "NATIONAL ASSOCIATION OF BROADCASTERS",
    "total": 2000.0
   },
   {
@@ -670,12 +694,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00384818",
-   "name": "CVS HEALTH PAC",
-   "connected_org": "CVS HEALTH",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00008839",
    "name": "AMERICAN PODIATRIC MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN PODIATRIC MEDICAL ASSOCIATION, INC.",
@@ -688,15 +706,27 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00091561",
-   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
-   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
+   "committee_id": "C00033704",
+   "name": "FMC CORPORATION GOOD GOVERNMENT PROGRAM",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00545202",
+   "name": "THE CENTER FOR FREETHOUGHT EQUALITY PAC",
+   "connected_org": "THE CENTER FOR FREETHOUGHT EQUALITY",
    "total": 1000.0
   },
   {
    "committee_id": "C00085316",
    "name": "THE CIGNA GROUP EMPLOYEE POLITICAL ACTION COMMITTEE",
    "connected_org": "THE CIGNA GROUP",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00475350",
+   "name": "DULCICH INC DBA PACIFIC SEAFOOD GROUP EMPLOYEE PAC",
+   "connected_org": "DULCICH INC. DBA PACIFIC SEAFOOD GROUP",
    "total": 1000.0
   },
   {
@@ -716,12 +746,6 @@
    "name": "ARNOLD & PORTER KAYE SCHOLER LLP (APKS) PARTNERS POLITICAL ACTION COMMITTEE",
    "connected_org": "NONE",
    "total": 1000.0
-  },
-  {
-   "committee_id": "C00035451",
-   "name": "AIR LINE PILOTS ASSOCIATION PAC",
-   "connected_org": "AIR LINE PILOTS ASSOCIATION",
-   "total": 500.0
   },
   {
    "committee_id": "C00213173",
@@ -757,23 +781,23 @@
  "pac_by_type": [
   {
    "type": "Labor union PACs",
-   "total": 88000.0
+   "total": 89500.0
   },
   {
    "type": "Membership group PACs",
-   "total": 80121.0
+   "total": 81121.0
   },
   {
    "type": "Trade association PACs",
-   "total": 70873.0
+   "total": 80373.0
   },
   {
    "type": "Corporate PACs",
-   "total": 64750.0
+   "total": 67750.0
   },
   {
    "type": "Other PACs",
-   "total": 53500.0
+   "total": 58000.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
@@ -785,9 +809,16 @@
   }
  ],
  "outside_spending": {
-  "support_total": 0,
-  "oppose_total": 0,
-  "spenders": [],
+  "support_total": 10.0,
+  "oppose_total": 0.0,
+  "spenders": [
+   {
+    "committee_id": "C00483693",
+    "name": "SIERRA CLUB INDEPENDENT ACTION",
+    "support": 10.0,
+    "oppose": 0.0
+   }
+  ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
  "detail": {

@@ -22,6 +22,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00063164",
+   "name": "MCDONALDS CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "MCDONALDS CORPORATION",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00010421",
    "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
    "connected_org": null,
@@ -55,6 +61,12 @@
    "committee_id": "C00284885",
    "name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
    "connected_org": "THE HOME DEPOT INC.",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00012245",
+   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+   "connected_org": "UBS AMERICAS INC.",
    "total": 10000.0
   },
   {
@@ -100,12 +112,6 @@
    "total": 9994.0
   },
   {
-   "committee_id": "C00063164",
-   "name": "MCDONALDS CORPORATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "MCDONALDS CORPORATION",
-   "total": 7500.0
-  },
-  {
    "committee_id": "C00082917",
    "name": "ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE",
    "connected_org": "ASSOCIATED GENERAL CONTRACTORS OF AMERICA",
@@ -127,6 +133,12 @@
    "committee_id": "C00010868",
    "name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
    "connected_org": "AMERICAN COUNCIL OF ENGINEERING COMPANIES",
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 7500.0
   },
   {
@@ -229,18 +241,6 @@
    "committee_id": "C00587543",
    "name": "ITG HOLDINGS U.S.A. INC. POLITICAL ACTION COMMITTEE (AKA ITG PAC)",
    "connected_org": null,
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00012245",
-   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
-   "connected_org": "UBS AMERICAS INC.",
    "total": 5000.0
   },
   {
@@ -913,11 +913,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 190500.0
+   "total": 198000.0
   },
   {
    "type": "Trade association PACs",
-   "total": 178000.0
+   "total": 180500.0
   },
   {
    "type": "Membership group PACs",

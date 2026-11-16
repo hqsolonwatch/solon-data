@@ -82,6 +82,12 @@
    "total": 8500.0
   },
   {
+   "committee_id": "C00215285",
+   "name": "GENERAL ATOMICS POLITICAL ACTION COMMITTEE",
+   "connected_org": "GENERAL ATOMICS",
+   "total": 7500.0
+  },
+  {
    "committee_id": "C00004952",
    "name": "ELECTRIC COOPERATIVES OF MISSISSIPPI ACTION COMMITTEE FOR RURAL ELECTRIFICATION",
    "connected_org": "ELECTRIC COOPERATIVES OF MISSISSIPPI",
@@ -122,6 +128,12 @@
    "name": "WEYERHAEUSER COMPANY POLITICAL ACTION COMMITTEE",
    "connected_org": "WEYERHAEUSER COMPANY",
    "total": 7000.0
+  },
+  {
+   "committee_id": "C00430256",
+   "name": "MOLINA HEALTHCARE, INC. PAC",
+   "connected_org": "MOLINA HEALTHCARE INC",
+   "total": 6500.0
   },
   {
    "committee_id": "C00363879",
@@ -250,12 +262,6 @@
    "total": 4500.0
   },
   {
-   "committee_id": "C00430256",
-   "name": "MOLINA HEALTHCARE, INC. PAC",
-   "connected_org": "MOLINA HEALTHCARE INC",
-   "total": 4000.0
-  },
-  {
    "committee_id": "C00394957",
    "name": "SCALISE FOR CONGRESS",
    "connected_org": "SCALISE LEADERSHIP FUND",
@@ -340,12 +346,6 @@
    "total": 3000.0
   },
   {
-   "committee_id": "C00215285",
-   "name": "GENERAL ATOMICS POLITICAL ACTION COMMITTEE",
-   "connected_org": "GENERAL ATOMICS",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00095869",
    "name": "POWERPAC OF THE EDISON ELECTRIC INSTITUTE",
    "connected_org": "EDISON ELECTRIC INSTITUTE",
@@ -424,6 +424,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00002881",
+   "name": "TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC.",
+   "connected_org": "AMERICAN TRUCKING ASSOCIATIONS INC.",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00034272",
    "name": "NATIONAL CHICKEN COUNCIL POLITICAL ACTION COMMITTEE (FKA) NATIONAL BROILER COUNCIL PAC",
    "connected_org": "NATIONAL CHICKEN COUNCIL",
@@ -460,9 +466,21 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00111534",
+   "name": "JONES WALKER L.L.P. POLITICAL ACTION COMMITTEE",
+   "connected_org": "NONE",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00763623",
    "name": "ANDURIL INDUSTRIES, INC. POLITICAL ACTION COMMITTEE (ANDURIL PAC)",
    "connected_org": "ANDURIL INDUSTRIES, INC.",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00425256",
+   "name": "PICKERING INC PAC",
+   "connected_org": null,
    "total": 2000.0
   },
   {
@@ -646,12 +664,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00111534",
-   "name": "JONES WALKER L.L.P. POLITICAL ACTION COMMITTEE",
-   "connected_org": "NONE",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00161422",
    "name": "TECO ENERGY INC EMPLOYEES' PAC",
    "connected_org": "TECO ENERGY, INC.",
@@ -660,12 +672,6 @@
   {
    "committee_id": "C00333427",
    "name": "GW PAC",
-   "connected_org": null,
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00425256",
-   "name": "PICKERING INC PAC",
    "connected_org": null,
    "total": 1000.0
   },
@@ -817,11 +823,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 200250.0
+   "total": 208750.0
   },
   {
    "type": "Trade association PACs",
-   "total": 100500.0
+   "total": 103000.0
   },
   {
    "type": "Membership group PACs",
@@ -829,7 +835,7 @@
   },
   {
    "type": "Other PACs",
-   "total": 38500.0
+   "total": 39500.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",

@@ -148,6 +148,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00022343",
+   "name": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
+   "connected_org": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC.",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00077321",
    "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS",
@@ -283,12 +289,6 @@
    "committee_id": "C00096156",
    "name": "HONEYWELL INTERNATIONAL INC. TECHNOLOGIES PUBLIC AFFAIRS COUNCIL (HONPAC)",
    "connected_org": "HONEYWELL INTERNATIONAL INC.",
-   "total": 7500.0
-  },
-  {
-   "committee_id": "C00022343",
-   "name": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
-   "connected_org": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC.",
    "total": 7500.0
   },
   {
@@ -493,6 +493,12 @@
    "committee_id": "C00250399",
    "name": "AUTOMOTIVE FREE INTERNATIONAL TRADE PAC",
    "connected_org": "NONE",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00009985",
+   "name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
+   "connected_org": "NATIONAL ASSOCIATION OF BROADCASTERS",
    "total": 5000.0
   },
   {
@@ -844,6 +850,12 @@
    "total": 3000.0
   },
   {
+   "committee_id": "C00104901",
+   "name": "AKIN GUMP STRAUSS HAUER & FELD LLP CIVIC ACTION COMMITTEE (AKA AKIN GUMP PAC)",
+   "connected_org": "NONE",
+   "total": 2750.0
+  },
+  {
    "committee_id": "C00325332",
    "name": "AMERICAN SENIORS HOUSING ASSOCIATION (SENIORS HOUSING PAC)",
    "connected_org": null,
@@ -889,12 +901,6 @@
    "committee_id": "C00326389",
    "name": "AMALGAMATED SUGAR COMPANY POLITICAL ACTION COMMITTEE",
    "connected_org": "AMALGAMATED SUGAR COMPANY",
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00009985",
-   "name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
-   "connected_org": "NATIONAL ASSOCIATION OF BROADCASTERS",
    "total": 2500.0
   },
   {
@@ -1054,6 +1060,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00000422",
+   "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN MEDICAL ASSOCIATION",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00300178",
    "name": "WELLS FARGO AND COMPANY EMPLOYEES GOOD GOVERNMENT FEDERAL FUND II",
    "connected_org": "WELLS FARGO AND COMPANY",
@@ -1093,6 +1105,12 @@
    "committee_id": "C00608695",
    "name": "MIKE JOHNSON FOR LOUISIANA",
    "connected_org": "JOHNSON LEADERSHIP FUND",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00431858",
+   "name": "STEPTOE LLP POLITICAL ACTION COMMITTEE",
+   "connected_org": "NONE",
    "total": 2000.0
   },
   {
@@ -1405,12 +1423,6 @@
    "committee_id": "C00161901",
    "name": "EQUITABLE HOLDINGS, INC. POLITICAL ACTION COMMITTEE (EQUITABLE PAC)",
    "connected_org": "EQUITABLE HOLDINGS, INC.",
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00431858",
-   "name": "STEPTOE LLP POLITICAL ACTION COMMITTEE",
-   "connected_org": "NONE",
    "total": 1000.0
   },
   {
@@ -1756,16 +1768,16 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00014878",
+   "name": "GENERAL AVIATION MANUFACTURERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "GENERAL AVIATION MANUFACTURERS ASSOCIATION",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00411553",
    "name": "AMERICAN ACADEMY OF FAMILY PHYSICIANS POLITICAL ACTION COMMITTEE (FAMMEDPAC)",
    "connected_org": "AMERICAN ACADEMY OF FAMILY PHYSICIANS",
    "total": 1000.0
-  },
-  {
-   "committee_id": "C00104901",
-   "name": "AKIN GUMP STRAUSS HAUER & FELD LLP CIVIC ACTION COMMITTEE (AKA AKIN GUMP PAC)",
-   "connected_org": "NONE",
-   "total": 750.0
   },
   {
    "committee_id": "C00437566",
@@ -1813,17 +1825,17 @@
    "committee_id": "C00098061",
    "name": "TARGET CORPORATION CITIZENS POLITICAL FORUM (TARGETCITIZENS POLITICAL FORUM)",
    "connected_org": "TARGET CORPORATION",
-   "total": -1500.0
+   "total": -500.0
   }
  ],
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 586250.0
+   "total": 587250.0
   },
   {
    "type": "Trade association PACs",
-   "total": 270000.0
+   "total": 276000.0
   },
   {
    "type": "Membership group PACs",
@@ -1831,7 +1843,7 @@
   },
   {
    "type": "Other PACs",
-   "total": 70250.0
+   "total": 75750.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",

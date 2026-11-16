@@ -64,6 +64,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00410266",
+   "name": "THE VANGUARD GROUP COMMITTEE FOR RESPONSIBLE GOVERNMENT",
+   "connected_org": "THE VANGUARD GROUP",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00107235",
    "name": "PRICEWATERHOUSECOOPERS POLITICAL ACTION COMMITTEE I",
    "connected_org": "NONE",
@@ -214,12 +220,6 @@
    "total": 7500.0
   },
   {
-   "committee_id": "C00410266",
-   "name": "THE VANGUARD GROUP COMMITTEE FOR RESPONSIBLE GOVERNMENT",
-   "connected_org": "THE VANGUARD GROUP",
-   "total": 7500.0
-  },
-  {
    "committee_id": "C00411173",
    "name": "COMMERCIAL REAL ESTATE FINANCE COUNCIL PAC",
    "connected_org": "COMMERCIAL REAL ESTATE FINANCE COUNCIL",
@@ -241,6 +241,12 @@
    "committee_id": "C00494534",
    "name": "THE BANK OF NEW YORK MELLON CORPORATION FEDERAL PAC (BNY FEDPAC)",
    "connected_org": "THE BANK OF THE NEW YORK MELLON CORPORATION",
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00022343",
+   "name": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
+   "connected_org": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC.",
    "total": 7500.0
   },
   {
@@ -508,15 +514,15 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00022343",
-   "name": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
-   "connected_org": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC.",
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00280222",
    "name": "KPMG PARTNERS/PRINCIPALS AND EMPLOYEES PAC",
    "connected_org": "NONE",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00376376",
+   "name": "THE TRAVELERS COMPANIES, INC. POLITICAL ACTION COMMITTEE (T-PAC)",
+   "connected_org": "THE TRAVELERS COMPANIES INC.",
    "total": 5000.0
   },
   {
@@ -760,6 +766,12 @@
    "total": 3000.0
   },
   {
+   "committee_id": "C00447565",
+   "name": "FINSECA PAC",
+   "connected_org": "FINSECA",
+   "total": 3000.0
+  },
+  {
    "committee_id": "C00127779",
    "name": "PRUDENTIAL FINANCIAL INC. FEDERAL POLITICAL ACTION COMMITTEE (AKA - PRUDENTIAL FEDERAL PAC)",
    "connected_org": "PRUDENTIAL FINANCIAL, INC.",
@@ -847,12 +859,6 @@
    "committee_id": "C00007922",
    "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
    "connected_org": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA",
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00376376",
-   "name": "THE TRAVELERS COMPANIES, INC. POLITICAL ACTION COMMITTEE (T-PAC)",
-   "connected_org": "THE TRAVELERS COMPANIES INC.",
    "total": 2500.0
   },
   {
@@ -964,9 +970,21 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00204099",
+   "name": "DEERE & COMPANY PAC (AKA JOHN DEERE PAC)",
+   "connected_org": "DEERE & COMPANY",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00300418",
    "name": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION VOLUNTARY POLITICAL ACTION COMMITTEE",
    "connected_org": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00948943",
+   "name": "SOFI TECHNOLOGIES INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "SOFI TECHNOLOGIES, INC.",
    "total": 2500.0
   },
   {
@@ -979,6 +997,12 @@
    "committee_id": "C00174227",
    "name": "BAKER & HOSTETLER POLITICAL ACTION COMMITTEE",
    "connected_org": "NONE",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00100693",
+   "name": "CBOE GLOBAL MARKETS, INC. PAC (CBOE PAC)",
+   "connected_org": null,
    "total": 2500.0
   },
   {
@@ -1051,6 +1075,12 @@
    "committee_id": "C00236414",
    "name": "TRANSAMERICA CORPORATION PAC",
    "connected_org": "TRANSAMERICA",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00946111",
+   "name": "ANTHROPIC PBC POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
    "total": 2000.0
   },
   {
@@ -1276,6 +1306,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00010082",
+   "name": "NCTA - THE INTERNET & TELEVISION ASSOCIATION POLITICAL ACTION COMMITTEE (NCTAPAC)",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00845768",
    "name": "AEVEX HOLDING LLC PAC (AEVEX PAC)",
    "connected_org": "AEVEX HOLDING LLC",
@@ -1303,6 +1339,12 @@
    "committee_id": "C00207795",
    "name": "NBT PAC FEDERAL FUND",
    "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00032995",
+   "name": "AMALGAMATED TRANSIT UNION - COPE",
+   "connected_org": "AMALGAMATED TRANSIT UNION",
    "total": 1000.0
   },
   {
@@ -1339,11 +1381,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 618455.0
+   "total": 632955.0
   },
   {
    "type": "Trade association PACs",
-   "total": 155500.0
+   "total": 162000.0
   },
   {
    "type": "Other PACs",
@@ -1351,7 +1393,7 @@
   },
   {
    "type": "Labor union PACs",
-   "total": 49500.0
+   "total": 50500.0
   },
   {
    "type": "Membership group PACs",

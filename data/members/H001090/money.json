@@ -304,6 +304,12 @@
    "total": 4000.0
   },
   {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
+   "total": 4000.0
+  },
+  {
    "committee_id": "C00001198",
    "name": "AMERICAN HOTEL AND LODGING ASSOCIATION POLITICAL ACTION COMMITTEE ('HOTELPAC')",
    "connected_org": null,
@@ -325,6 +331,12 @@
    "committee_id": "C00005157",
    "name": "INTERNATIONAL BROTHERHOOD OF BOILERMAKERS CAMPAIGN ASSISTANCE FUND",
    "connected_org": "INTERNATIONAL BROTHERHOOD OF BOILERMAKERS, IRON SHIP BUILDERS, BLACKSMITH, FORGERS & HELPE",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00014019",
+   "name": "COMMITTEE ORGANIZED FOR THE TRADING OF COTTON PAC OF THE AMERICAN COTTON SHIPPERS ASSOCIAT",
+   "connected_org": "AMERICAN COTTON SHIPPERS ASSN",
    "total": 3500.0
   },
   {
@@ -370,6 +382,12 @@
    "total": 3000.0
   },
   {
+   "committee_id": "C00106146",
+   "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+   "connected_org": "AMERICAN HOSPITAL ASSOCIATION",
+   "total": 3000.0
+  },
+  {
    "committee_id": "C00494112",
    "name": "BEEPAC (BUILDING ECONOMIC EMPOWERMENT PAC)",
    "connected_org": null,
@@ -391,12 +409,6 @@
    "committee_id": "C00399196",
    "name": "BUILDING RELATIONSHIPS IN DIVERSE GEOGRAPHIC ENVIRONMENTS PAC (BRIDGE PAC)",
    "connected_org": "CLYBURN",
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 2500.0
   },
   {
@@ -526,6 +538,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00000422",
+   "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN MEDICAL ASSOCIATION",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00252940",
    "name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
    "connected_org": "LEAGUE OF CONSERVATION VOTERS, INC",
@@ -592,12 +610,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00014019",
-   "name": "COMMITTEE ORGANIZED FOR THE TRADING OF COTTON PAC OF THE AMERICAN COTTON SHIPPERS ASSOCIAT",
-   "connected_org": "AMERICAN COTTON SHIPPERS ASSN",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00589309",
    "name": "BLUE MOMENTUM PAC",
    "connected_org": "LIEU",
@@ -613,6 +625,12 @@
    "committee_id": "C00027342",
    "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
    "connected_org": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00091561",
+   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
+   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
    "total": 2000.0
   },
   {
@@ -775,12 +793,6 @@
    "committee_id": "C00787317",
    "name": "SPIKE PAC",
    "connected_org": null,
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00106146",
-   "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
-   "connected_org": "AMERICAN HOSPITAL ASSOCIATION",
    "total": 1000.0
   },
   {
@@ -994,12 +1006,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00091561",
-   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
-   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00525055",
    "name": "TRANSCANADA USA SERVICES, INC. PAC (TC PAC)",
    "connected_org": "TRANSCANADA USA SERVICES, INC.",
@@ -1119,11 +1125,11 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 83500.0
+   "total": 88500.0
   },
   {
    "type": "Other PACs",
-   "total": 82245.0
+   "total": 85745.0
   },
   {
    "type": "Membership group PACs",
@@ -1147,7 +1153,7 @@
   }
  ],
  "outside_spending": {
-  "support_total": 1102.0,
+  "support_total": 1115.0,
   "oppose_total": 4548.0,
   "spenders": [
    {
@@ -1166,6 +1172,12 @@
     "committee_id": "C00802389",
     "name": "GIVEGREEN UNITED ACTION",
     "support": 292.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00527226",
+    "name": "WE VOTE - NOSOTROS VOTAMOS - PPAMM COMMITTEE",
+    "support": 13.0,
     "oppose": 0.0
    },
    {

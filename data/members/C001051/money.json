@@ -109,7 +109,7 @@
    "committee_id": "C00214981",
    "name": "TEXAS FARM BUREAU AGFUND",
    "connected_org": "TEXAS FARM BUREAU",
-   "total": 9600.0
+   "total": 9613.0
   },
   {
    "committee_id": "C00096156",
@@ -346,6 +346,12 @@
    "total": 4000.0
   },
   {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
+   "total": 4000.0
+  },
+  {
    "committee_id": "C00034132",
    "name": "FLUOR CORPORATION POLITICAL ACTION COMMITTEE (FLUOR PAC)",
    "connected_org": "FLUOR CORPORATION",
@@ -493,12 +499,6 @@
    "committee_id": "C00297739",
    "name": "NATURAL PRODUCTS ASSOCIATION PAC",
    "connected_org": "NATURAL PRODUCTS ASSOCIATION",
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 2500.0
   },
   {
@@ -670,6 +670,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00857359",
+   "name": "BRANDON GILL FOR TEXAS",
+   "connected_org": "BRANDON GILL VICTORY FUND",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00558452",
    "name": "PROFESSIONAL COMPOUNDING CENTERS OF AMERICA POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -721,6 +727,12 @@
    "committee_id": "C00332841",
    "name": "INDEPENDENT BANKERS ASSOCIATION OF TEXAS FEDERAL PAC (IBAT FEDPAC)",
    "connected_org": null,
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00349373",
+   "name": "GULF STATES TOYOTA INC FEDERAL POLITICAL ACTION COMMITTEE",
+   "connected_org": "GULF STATES TOYOTA, INC.",
    "total": 1500.0
   },
   {
@@ -928,6 +940,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00084491",
+   "name": "INTERNATIONAL FRANCHISE ASSOCIATION FRANCHISING POLITICAL ACTION COMMITTEE INC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00104901",
    "name": "AKIN GUMP STRAUSS HAUER & FELD LLP CIVIC ACTION COMMITTEE (AKA AKIN GUMP PAC)",
    "connected_org": "NONE",
@@ -985,7 +1003,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 229750.0
+   "total": 231250.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
@@ -993,19 +1011,19 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 70500.0
+   "total": 73000.0
   },
   {
    "type": "Membership group PACs",
-   "total": 70367.0
+   "total": 70380.0
+  },
+  {
+   "type": "Other candidates’ campaigns",
+   "total": 29500.0
   },
   {
    "type": "Other PACs",
    "total": 28250.0
-  },
-  {
-   "type": "Other candidates’ campaigns",
-   "total": 27500.0
   },
   {
    "type": "Cooperative PACs",

@@ -46,6 +46,12 @@
    "total": 3500.0
   },
   {
+   "committee_id": "C00325936",
+   "name": "SOCIETY OF THORACIC SURGEONS POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE SOCIETY OF THORACIC SURGEONS",
+   "total": 3000.0
+  },
+  {
    "committee_id": "C00359539",
    "name": "AMERICAN ACADEMY OF DERMATOLOGY ASSOCIATION POLITICAL ACTION COMMITTEE (SKINPAC)",
    "connected_org": "AMERICAN ACADEMY OF DERMATOLOGY ASSOCIATION",
@@ -178,12 +184,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00325936",
-   "name": "SOCIETY OF THORACIC SURGEONS POLITICAL ACTION COMMITTEE",
-   "connected_org": "THE SOCIETY OF THORACIC SURGEONS",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00101105",
    "name": "NATIONAL FEDERATION OF INDEPENDENT BUSINESS FEDERAL POLITICAL ACTION COMMITTEE",
    "connected_org": "NATIONAL FEDERATION OF INDEPENDENT BUSINESS",
@@ -271,7 +271,7 @@
  "pac_by_type": [
   {
    "type": "Membership group PACs",
-   "total": 24500.0
+   "total": 26500.0
   },
   {
    "type": "Trade association PACs",

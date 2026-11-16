@@ -337,7 +337,7 @@
    "committee_id": "C00252940",
    "name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
    "connected_org": "LEAGUE OF CONSERVATION VOTERS, INC",
-   "total": 2550.0
+   "total": 2600.0
   },
   {
    "committee_id": "C00008268",
@@ -544,6 +544,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00063164",
+   "name": "MCDONALDS CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "MCDONALDS CORPORATION",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00199257",
    "name": "GENENTECH INC. POLITICAL ACTION COMMITTEE (GENENPAC)",
    "connected_org": "GENENTECH INC.",
@@ -694,12 +700,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00063164",
-   "name": "MCDONALDS CORPORATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "MCDONALDS CORPORATION",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00546234",
    "name": "LEIDOS INC. POLITICAL ACTION COMMITTEE",
    "connected_org": "LEIDOS, INC.",
@@ -754,9 +754,21 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00384818",
+   "name": "CVS HEALTH PAC",
+   "connected_org": "CVS HEALTH",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00000901",
    "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
    "connected_org": "NATIONAL ASSOCIATION OF HOME BUILDERS",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00139519",
+   "name": "MOTION PICTURE ASSOCIATION INC POLITICAL ACTION COMMITTEE (MPAAMERICA PAC)",
+   "connected_org": "MOTION PICTURE ASSOCIATION, INC.",
    "total": 1000.0
   },
   {
@@ -769,6 +781,12 @@
    "committee_id": "C00262295",
    "name": "CTIA - THE WIRELESS ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "CTIA - THE WIRELESS ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00004812",
+   "name": "MORTGAGE BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE (MORPAC)",
+   "connected_org": "MORTGAGE BANKERS ASSOCIATION",
    "total": 1000.0
   },
   {
@@ -833,7 +851,7 @@
   },
   {
    "type": "Corporate PACs",
-   "total": 108789.0
+   "total": 110789.0
   },
   {
    "type": "Other PACs",
@@ -841,11 +859,11 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 44500.0
+   "total": 46500.0
   },
   {
    "type": "Membership group PACs",
-   "total": 35544.0
+   "total": 35594.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",

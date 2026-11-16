@@ -424,6 +424,12 @@
    "total": 3000.0
   },
   {
+   "committee_id": "C00111310",
+   "name": "EVERGY EMPLOYEE POWERPAC",
+   "connected_org": "EVERGY AND ITS SUBSIDIARIES",
+   "total": 3000.0
+  },
+  {
    "committee_id": "C00078451",
    "name": "GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GENERAL DYNAMICS EMPLOYEE PAC)",
    "connected_org": "GENERAL DYNAMICS CORPORATION",
@@ -514,6 +520,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00204099",
+   "name": "DEERE & COMPANY PAC (AKA JOHN DEERE PAC)",
+   "connected_org": "DEERE & COMPANY",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00366468",
    "name": "CORECIVIC, INC. POLITICAL ACTION COMMITTEE (CORECIVIC PAC)",
    "connected_org": "CORECIVIC, INC.",
@@ -574,15 +586,21 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00035006",
-   "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
-   "connected_org": "CHEVRON CORPORATION",
+   "committee_id": "C00000059",
+   "name": "HALLMARK CARDS, INC. PAC (HALLPAC)",
+   "connected_org": "HALLMARK CARDS, INC.",
    "total": 2500.0
   },
   {
    "committee_id": "C00343137",
    "name": "POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS--PAC OF AAOS",
    "connected_org": "AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00035006",
+   "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
+   "connected_org": "CHEVRON CORPORATION",
    "total": 2500.0
   },
   {
@@ -748,12 +766,6 @@
    "total": 1500.0
   },
   {
-   "committee_id": "C00111310",
-   "name": "EVERGY EMPLOYEE POWERPAC",
-   "connected_org": "EVERGY AND ITS SUBSIDIARIES",
-   "total": 1500.0
-  },
-  {
    "committee_id": "C00228296",
    "name": "THE ASCAP LEGISLATIVE FUND FOR THE ARTS",
    "connected_org": "NONE",
@@ -898,12 +910,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00204099",
-   "name": "DEERE & COMPANY PAC (AKA JOHN DEERE PAC)",
-   "connected_org": "DEERE & COMPANY",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00432526",
    "name": "TURKISH COALITON USA PAC (TC-USA PAC)",
    "connected_org": "NONE",
@@ -1042,6 +1048,18 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00084491",
+   "name": "INTERNATIONAL FRANCHISE ASSOCIATION FRANCHISING POLITICAL ACTION COMMITTEE INC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00384818",
+   "name": "CVS HEALTH PAC",
+   "connected_org": "CVS HEALTH",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00104802",
    "name": "DELTA AIR LINES PAC",
    "connected_org": "DELTA AIRLINES",
@@ -1105,11 +1123,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 186750.0
+   "total": 193250.0
   },
   {
    "type": "Trade association PACs",
-   "total": 146500.0
+   "total": 147500.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",

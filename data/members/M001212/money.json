@@ -250,6 +250,18 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00379628",
+   "name": "NUCOR CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NUCOR CORPORATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00004812",
+   "name": "MORTGAGE BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE (MORPAC)",
+   "connected_org": "MORTGAGE BANKERS ASSOCIATION",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00089458",
    "name": "NATIONAL STONE, SAND & GRAVEL ASSOCIATION ROCKPAC",
    "connected_org": "NATIONAL STONE, SAND AND GRAVEL ASSOCIATION",
@@ -385,11 +397,11 @@
  "pac_by_type": [
   {
    "type": "Trade association PACs",
-   "total": 90500.0
+   "total": 93000.0
   },
   {
    "type": "Corporate PACs",
-   "total": 74000.0
+   "total": 76500.0
   },
   {
    "type": "Other PACs",

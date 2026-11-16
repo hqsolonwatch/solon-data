@@ -58,6 +58,12 @@
    "total": 4000.0
   },
   {
+   "committee_id": "C00946111",
+   "name": "ANTHROPIC PBC POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 3500.0
+  },
+  {
    "committee_id": "C00574970",
    "name": "FAIR SHOT PAC",
    "connected_org": "CLARK",
@@ -94,14 +100,14 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00213173",
-   "name": "K&L GATES LLP POLITICAL ACTION COMMITTEE (DC)",
-   "connected_org": "NONE",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00431858",
    "name": "STEPTOE LLP POLITICAL ACTION COMMITTEE",
+   "connected_org": "NONE",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00213173",
+   "name": "K&L GATES LLP POLITICAL ACTION COMMITTEE (DC)",
    "connected_org": "NONE",
    "total": 1000.0
   },
@@ -197,15 +203,15 @@
   },
   {
    "type": "Other PACs",
-   "total": 5200.0
+   "total": 6200.0
+  },
+  {
+   "type": "Corporate PACs",
+   "total": 3500.0
   },
   {
    "type": "Other candidates’ campaigns",
    "total": 250.0
-  },
-  {
-   "type": "Corporate PACs",
-   "total": 0.0
   }
  ],
  "outside_spending": {

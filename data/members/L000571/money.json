@@ -754,12 +754,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00293910",
-   "name": "AMERICAN ASSOCIATION OF ORTHODONTISTS POLITICAL ACTION COMMITTEE",
-   "connected_org": "AMERICAN ASSOCIATION OF ORTHODONTISTS",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00366013",
    "name": "NASDAQ, INC. PAC (NASDAQ PAC)",
    "connected_org": "NASDAQ, INC.",
@@ -1276,6 +1270,12 @@
    "total": 0.0
   },
   {
+   "committee_id": "C00293910",
+   "name": "AMERICAN ASSOCIATION OF ORTHODONTISTS POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN ASSOCIATION OF ORTHODONTISTS",
+   "total": 0.0
+  },
+  {
    "committee_id": "C00492058",
    "name": "LEADERSHIP AND ACCOUNTABILITY ARE NATIONAL KEYS PAC",
    "connected_org": "FAMILIES FOR JAMES LANKFORD",
@@ -1378,15 +1378,15 @@
    "total": -5000.0
   },
   {
-   "committee_id": "C00678813",
-   "name": "CONSERVATIVES HARVESTING SUCCESS PAC",
-   "connected_org": "HYDE-SMITH",
-   "total": -5000.0
-  },
-  {
    "committee_id": "C00762682",
    "name": "STEER PAC",
    "connected_org": null,
+   "total": -5000.0
+  },
+  {
+   "committee_id": "C00678813",
+   "name": "CONSERVATIVES HARVESTING SUCCESS PAC",
+   "connected_org": "HYDE-SMITH",
    "total": -5000.0
   },
   {
@@ -1415,7 +1415,7 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 127667.0
+   "total": 125167.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",

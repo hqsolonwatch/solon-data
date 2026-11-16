@@ -178,6 +178,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00640490",
+   "name": "ONWARD TOGETHER COMMITTEE",
+   "connected_org": "ONWARD TOGETHER",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00344234",
    "name": "PAC TO THE FUTURE",
    "connected_org": "PELOSI",
@@ -232,9 +238,21 @@
    "total": 7500.0
   },
   {
+   "committee_id": "C00033589",
+   "name": "CORNING INCORPORATED EMPLOYEES POLITICAL ACTION COMMITTEE (COREPAC)",
+   "connected_org": "CORNING INCORPORATED",
+   "total": 7500.0
+  },
+  {
    "committee_id": "C00024521",
    "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
    "connected_org": "AMERICAN ASSOCIATION FOR JUSTICE (AAJ)",
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00130773",
+   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
+   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
    "total": 7500.0
   },
   {
@@ -265,6 +283,12 @@
    "committee_id": "C00361410",
    "name": "SOUTHERN CALIFORNIA FUND",
    "connected_org": "SHERMAN",
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00573709",
+   "name": "CA LUV PAC (CALIFORNIA LEADERSHIP UNITED FOR VICTORY PAC)",
+   "connected_org": "AGUILAR",
    "total": 7500.0
   },
   {
@@ -358,12 +382,6 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00033589",
-   "name": "CORNING INCORPORATED EMPLOYEES POLITICAL ACTION COMMITTEE (COREPAC)",
-   "connected_org": "CORNING INCORPORATED",
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00075341",
    "name": "MOTOROLA SOLUTIONS, INC. POLITICAL ACTION COMMITTEE",
    "connected_org": "MOTOROLA SOLUTIONS, INC.",
@@ -391,12 +409,6 @@
    "committee_id": "C00693002",
    "name": "FOX CORPORATION POLITICAL ACTION COMMITTEE (FOX PAC)",
    "connected_org": null,
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00130773",
-   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
-   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
    "total": 5000.0
   },
   {
@@ -568,12 +580,6 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00640490",
-   "name": "ONWARD TOGETHER COMMITTEE",
-   "connected_org": "ONWARD TOGETHER",
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00617803",
    "name": "JOBS, EDUCATION, & FAMILIES FIRST  JEFF PAC",
    "connected_org": "JEFFRIES",
@@ -643,6 +649,12 @@
    "committee_id": "C00003251",
    "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
    "connected_org": "NATIONAL EDUCATION ASSOCIATION",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00197749",
+   "name": "TWDC ENTERPRISES 18 CORP. EMPLOYEES PAC AKA 'THE WALT DISNEY COMPANY EMPLOYEES PAC' OR 'DISNEY PAC'",
+   "connected_org": "TWDC ENTERPRISES 18 CORP.",
    "total": 4000.0
   },
   {
@@ -868,12 +880,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00197749",
-   "name": "TWDC ENTERPRISES 18 CORP. EMPLOYEES PAC AKA 'THE WALT DISNEY COMPANY EMPLOYEES PAC' OR 'DISNEY PAC'",
-   "connected_org": "TWDC ENTERPRISES 18 CORP.",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00250753",
    "name": "AUTO CARE ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "AUTO CARE ASSOCIATION",
@@ -925,12 +931,6 @@
    "committee_id": "C00002261",
    "name": "FEDERATION OF AMERICAN HOSPITALS PAC",
    "connected_org": "FEDERATION OF AMERICAN HOSPITALS",
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00573709",
-   "name": "CA LUV PAC (CALIFORNIA LEADERSHIP UNITED FOR VICTORY PAC)",
-   "connected_org": "AGUILAR",
    "total": 2500.0
   },
   {
@@ -1222,6 +1222,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00897553",
+   "name": "MAINTAINING INTEGRITY IN OUR NATION PAC",
+   "connected_org": "MIN",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00142711",
    "name": "THE BOEING COMPANY PAC",
    "connected_org": "THE BOEING COMPANY",
@@ -1243,6 +1249,12 @@
    "committee_id": "C00343459",
    "name": "AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC",
    "connected_org": "AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00652628",
+   "name": "DR KIM SCHRIER FOR CONGRESS",
+   "connected_org": "SWING LEFT",
    "total": 2000.0
   },
   {
@@ -1594,12 +1606,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00897553",
-   "name": "MAINTAINING INTEGRITY IN OUR NATION PAC",
-   "connected_org": "MIN",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00364158",
    "name": "AMERICAN COLLEGE OF OB-GYNS PAC (OB-GYN PAC)",
    "connected_org": null,
@@ -1699,6 +1705,12 @@
    "committee_id": "C00048579",
    "name": "SALT RIVER VALLEY WATER USERS' ASSOCIATION POLITICAL INVOLVEMENT COMMITTEE ( SRPPIC)",
    "connected_org": "SALT RIVER VALLEY WATER USERS' ASSOCIATION POLITICAL INVOLVEMENT COMMITTEE ( SRPPIC)",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00101766",
+   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
+   "connected_org": "UNITED AIRLINES, INC.",
    "total": 1000.0
   },
   {
@@ -1813,23 +1825,23 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 402750.0
+   "total": 407750.0
   },
   {
    "type": "Trade association PACs",
-   "total": 205388.0
+   "total": 207888.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
-   "total": 144500.0
+   "total": 150500.0
+  },
+  {
+   "type": "Membership group PACs",
+   "total": 108050.0
   },
   {
    "type": "Other PACs",
    "total": 106500.0
-  },
-  {
-   "type": "Membership group PACs",
-   "total": 103050.0
   },
   {
    "type": "Labor union PACs",
@@ -1837,7 +1849,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 27500.0
+   "total": 29500.0
   },
   {
    "type": "Cooperative PACs",
@@ -1845,7 +1857,7 @@
   }
  ],
  "outside_spending": {
-  "support_total": 400010.0,
+  "support_total": 400023.0,
   "oppose_total": 140000.0,
   "spenders": [
    {
@@ -1865,6 +1877,12 @@
     "name": "WORKING FAMILIES PARTY PAC",
     "support": 0.0,
     "oppose": 20000.0
+   },
+   {
+    "committee_id": "C00527226",
+    "name": "WE VOTE - NOSOTROS VOTAMOS - PPAMM COMMITTEE",
+    "support": 13.0,
+    "oppose": 0.0
    },
    {
     "committee_id": "C00483693",

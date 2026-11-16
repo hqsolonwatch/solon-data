@@ -142,6 +142,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00033704",
+   "name": "FMC CORPORATION GOOD GOVERNMENT PROGRAM",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00032995",
    "name": "AMALGAMATED TRANSIT UNION - COPE",
    "connected_org": "AMALGAMATED TRANSIT UNION",
@@ -544,6 +550,12 @@
    "total": 1500.0
   },
   {
+   "committee_id": "C00447565",
+   "name": "FINSECA PAC",
+   "connected_org": "FINSECA",
+   "total": 1500.0
+  },
+  {
    "committee_id": "C00287714",
    "name": "CARNIVAL/PRINCESS HOLLAND AMERICA LINE INC. PAC (HALPAC)",
    "connected_org": "HOLLAND AMERICA LINE INC.",
@@ -805,11 +817,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 221000.0
+   "total": 226000.0
   },
   {
    "type": "Trade association PACs",
-   "total": 48750.0
+   "total": 50250.0
   },
   {
    "type": "Membership group PACs",

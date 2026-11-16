@@ -16,6 +16,12 @@
  },
  "pac_contributions": [
   {
+   "committee_id": "C00130773",
+   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
+   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00219568",
    "name": "INTERNATIONAL UNION OF OPERATING ENGINEERS LOCAL NO. 12 FEDERAL PAC",
    "connected_org": "INTERNATIONAL UNION OF OPERATING ENGINEERS LOCAL NO. 12",
@@ -169,12 +175,6 @@
    "committee_id": "C00027342",
    "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
    "connected_org": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS",
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00130773",
-   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
-   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
    "total": 5000.0
   },
   {
@@ -337,6 +337,12 @@
    "committee_id": "C00746735",
    "name": "HMS SCRAP PAC",
    "connected_org": "STEVENS",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00215285",
+   "name": "GENERAL ATOMICS POLITICAL ACTION COMMITTEE",
+   "connected_org": "GENERAL ATOMICS",
    "total": 4000.0
   },
   {
@@ -610,6 +616,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00325936",
+   "name": "SOCIETY OF THORACIC SURGEONS POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE SOCIETY OF THORACIC SURGEONS",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00166348",
    "name": "SOUTHERN MINNESOTA BEET SUGAR COOPERATIVE POLITICAL ACTION COMMITTEE",
    "connected_org": "SOUTHERN MINNESOTA BEET SUGAR COOPERATIVE",
@@ -793,12 +805,6 @@
    "committee_id": "C00729277",
    "name": "DEBORAH ROSS FOR CONGRESS",
    "connected_org": null,
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00325936",
-   "name": "SOCIETY OF THORACIC SURGEONS POLITICAL ACTION COMMITTEE",
-   "connected_org": "THE SOCIETY OF THORACIC SURGEONS",
    "total": 1000.0
   },
   {
@@ -1081,7 +1087,7 @@
  "pac_by_type": [
   {
    "type": "Trade association PACs",
-   "total": 142360.0
+   "total": 147360.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
@@ -1097,7 +1103,7 @@
   },
   {
    "type": "Membership group PACs",
-   "total": 43594.0
+   "total": 44594.0
   },
   {
    "type": "Other candidates’ campaigns",
@@ -1109,7 +1115,7 @@
   },
   {
    "type": "Corporate PACs",
-   "total": -3500.0
+   "total": 500.0
   }
  ],
  "outside_spending": {

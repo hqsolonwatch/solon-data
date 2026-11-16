@@ -226,6 +226,12 @@
    "total": 9994.0
   },
   {
+   "committee_id": "C00483487",
+   "name": "BRINGING REPUBLICAN EXCELLENCE TO TOWN PAC",
+   "connected_org": "GUTHRIE",
+   "total": 9000.0
+  },
+  {
    "committee_id": "C00428623",
    "name": "GOOGLE LLC NETPAC",
    "connected_org": "GOOGLE LLC",
@@ -616,6 +622,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00368696",
+   "name": "RESPONSIBILITY AND FREEDOM WORK PAC (RFWPAC)",
+   "connected_org": "WICKER VICTORY COMMITTEE",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00764415",
    "name": "APL PAC",
    "connected_org": null,
@@ -709,12 +721,6 @@
    "committee_id": "C00462374",
    "name": "CRAWFORD FOR CONGRESS",
    "connected_org": "CRAWFORD VICTORY COMMITTEE",
-   "total": 4000.0
-  },
-  {
-   "committee_id": "C00483487",
-   "name": "BRINGING REPUBLICAN EXCELLENCE TO TOWN PAC",
-   "connected_org": "GUTHRIE",
    "total": 4000.0
   },
   {
@@ -1264,15 +1270,15 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00796086",
-   "name": "NATHANIEL MORAN FOR CONGRESS",
-   "connected_org": "MORAN VICTORY FUND",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00575050",
    "name": "LAHOOD FOR CONGRESS",
    "connected_org": "TEAM LAHOOD",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00796086",
+   "name": "NATHANIEL MORAN FOR CONGRESS",
+   "connected_org": "MORAN VICTORY FUND",
    "total": 2000.0
   },
   {
@@ -1327,6 +1333,12 @@
    "committee_id": "C00281212",
    "name": "BAE SYSTEMS INC. POLITICAL ACTION COMMITTEE (BAE SYSTEMS USA PAC)",
    "connected_org": "BAE SYSTEMS",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00857359",
+   "name": "BRANDON GILL FOR TEXAS",
+   "connected_org": "BRANDON GILL VICTORY FUND",
    "total": 2000.0
   },
   {
@@ -1678,6 +1690,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00084491",
+   "name": "INTERNATIONAL FRANCHISE ASSOCIATION FRANCHISING POLITICAL ACTION COMMITTEE INC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00034678",
    "name": "AMERICAN WATERWAYS OPERATORS-PAC",
    "connected_org": "THE AMERICAN WATERWAYS OPERATORS",
@@ -1693,6 +1711,12 @@
    "committee_id": "C00413567",
    "name": "NATIONAL ASSOCIATION OF FARM SERVICE AGENCY COUNTY OFFICE EMPLOYEES INC PPC AKA NASCOE PAC",
    "connected_org": "NATIONAL ASSOCIATION OF FARM SERVICE AGENCY COUNTY OFFICE EMPLOYEES INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00039321",
+   "name": "PEPSICO, INC. CONCERNED CITIZENS FUND",
+   "connected_org": "PEPSICO, INC.",
    "total": 1000.0
   },
   {
@@ -1765,7 +1789,7 @@
  "pac_by_type": [
   {
    "type": "Leadership PACs (run by other politicians)",
-   "total": 397000.0
+   "total": 407000.0
   },
   {
    "type": "Other PACs",
@@ -1773,15 +1797,15 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 161500.0
+   "total": 162500.0
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 146491.0
+   "total": 148491.0
   },
   {
    "type": "Corporate PACs",
-   "total": 98500.0
+   "total": 99500.0
   },
   {
    "type": "Membership group PACs",
@@ -1801,8 +1825,8 @@
   }
  ],
  "outside_spending": {
-  "support_total": 180434.0,
-  "oppose_total": 2039889.0,
+  "support_total": 745992.0,
+  "oppose_total": 2777545.0,
   "spenders": [
    {
     "committee_id": "C00495028",
@@ -1811,9 +1835,33 @@
     "oppose": 1847151.0
    },
    {
+    "committee_id": "C00707844",
+    "name": "EDF ACTION VOTES",
+    "support": 0.0,
+    "oppose": 737656.0
+   },
+   {
+    "committee_id": "C00906701",
+    "name": "AMERICA FIRST AGRICULTURE ACTION INC.",
+    "support": 284926.0,
+    "oppose": 0.0
+   },
+   {
     "committee_id": "C00681825",
     "name": "LAW ENFORCEMENT FOR A SAFER AMERICA PAC",
     "support": 153880.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00960435",
+    "name": "NO GOING BACK PAC INC.",
+    "support": 122006.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00879510",
+    "name": "AMERICA PAC",
+    "support": 84941.0,
     "oppose": 0.0
    },
    {
@@ -1829,15 +1877,21 @@
     "oppose": 66576.0
    },
    {
+    "committee_id": "C00523241",
+    "name": "SPECIAL OPERATIONS FOR AMERICA",
+    "support": 65000.0,
+    "oppose": 0.0
+   },
+   {
     "committee_id": "C00771113",
     "name": "BACK THE BOLD",
     "support": 0.0,
     "oppose": 35722.0
    },
    {
-    "committee_id": "C00523241",
-    "name": "SPECIAL OPERATIONS FOR AMERICA",
-    "support": 20000.0,
+    "committee_id": "C00879965",
+    "name": "DRIVING FORCE ACTION",
+    "support": 28014.0,
     "oppose": 0.0
    },
    {
@@ -1881,6 +1935,12 @@
     "name": "FIELD TEAM 6, INC.",
     "support": 0.0,
     "oppose": 695.0
+   },
+   {
+    "committee_id": "C90023763",
+    "name": "OUR AMERICA",
+    "support": 671.0,
+    "oppose": 0.0
    },
    {
     "committee_id": "C90023599",

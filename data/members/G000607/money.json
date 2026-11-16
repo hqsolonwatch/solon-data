@@ -76,6 +76,12 @@
    "total": 7000.0
   },
   {
+   "committee_id": "C00683508",
+   "name": "FOREVER YOUTH ORGANIZATION UTILIZING A NEW GENERATION PAC",
+   "connected_org": "KIM VICTORY FUND",
+   "total": 6000.0
+  },
+  {
    "committee_id": "C00509422",
    "name": "DOUG LAMALFA COMMITTEE",
    "connected_org": "TRANSPORTATION TRUST FUND",
@@ -160,6 +166,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00368696",
+   "name": "RESPONSIBILITY AND FREEDOM WORK PAC (RFWPAC)",
+   "connected_org": "WICKER VICTORY COMMITTEE",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00521286",
    "name": "PIPE TRADES DISTRICT COUNCIL NO. 36 FEDERAL PAC",
    "connected_org": "PIPE TRADES DISTRICT COUNCIL NO. 36",
@@ -226,6 +238,12 @@
    "total": 3500.0
   },
   {
+   "committee_id": "C00903898",
+   "name": "DELIVER ENERGIZE SUCCEED PAC",
+   "connected_org": "DESMOND",
+   "total": 3500.0
+  },
+  {
    "committee_id": "C00818328",
    "name": "PAC FOR NEW LEADERSHIP",
    "connected_org": null,
@@ -248,12 +266,6 @@
    "name": "GLENN COUNTY REPUBLICAN PARTY CENTRAL COMMITTEE (FED. ACCT.)",
    "connected_org": null,
    "total": 3000.0
-  },
-  {
-   "committee_id": "C00683508",
-   "name": "FOREVER YOUTH ORGANIZATION UTILIZING A NEW GENERATION PAC",
-   "connected_org": "KIM VICTORY FUND",
-   "total": 2500.0
   },
   {
    "committee_id": "C00214981",
@@ -397,6 +409,12 @@
    "committee_id": "C00657833",
    "name": "GUY FOR CONGRESS",
    "connected_org": "FOUNDING FATHERS VICTORY FUND",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00953596",
+   "name": "FOOD, FUEL, AND FIBER PAC",
+   "connected_org": "SELL",
    "total": 2000.0
   },
   {
@@ -547,7 +565,7 @@
  "pac_by_type": [
   {
    "type": "Leadership PACs (run by other politicians)",
-   "total": 97800.0
+   "total": 111800.0
   },
   {
    "type": "Other PACs",
@@ -583,9 +601,16 @@
   }
  ],
  "outside_spending": {
-  "support_total": 0,
-  "oppose_total": 0,
-  "spenders": [],
+  "support_total": 550.0,
+  "oppose_total": 0.0,
+  "spenders": [
+   {
+    "committee_id": "C00720649",
+    "name": "REFORM LEADERS PAC",
+    "support": 550.0,
+    "oppose": 0.0
+   }
+  ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
  "detail": {

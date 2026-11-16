@@ -148,6 +148,12 @@
    "total": 3300.0
   },
   {
+   "committee_id": "C00101766",
+   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
+   "connected_org": "UNITED AIRLINES, INC.",
+   "total": 3000.0
+  },
+  {
    "committee_id": "C00243659",
    "name": "HY-VEE INC EMPLOYEES' POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -208,6 +214,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00204099",
+   "name": "DEERE & COMPANY PAC (AKA JOHN DEERE PAC)",
+   "connected_org": "DEERE & COMPANY",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00680504",
    "name": "BROADCOM INC. POLITICAL ACTION COMMITTEE (BROADCOM PAC)",
    "connected_org": "BROADCOM INC.",
@@ -223,6 +235,12 @@
    "committee_id": "C00103903",
    "name": "HDR, INC. EMPLOYEE OWNERS PAC",
    "connected_org": "HDR, INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00824425",
+   "name": "TAFT STETTINIUS & HOLLISTER LLP POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
    "total": 2500.0
   },
   {
@@ -253,12 +271,6 @@
    "committee_id": "C00067884",
    "name": "CARGILL, INCORPORATED POLITICAL ACTION COMMITTEE",
    "connected_org": "CARGILL, INCORPORATED",
-   "total": 2000.0
-  },
-  {
-   "committee_id": "C00101766",
-   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
-   "connected_org": "UNITED AIRLINES, INC.",
    "total": 2000.0
   },
   {
@@ -523,7 +535,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 115300.0
+   "total": 121300.0
   },
   {
    "type": "Labor union PACs",

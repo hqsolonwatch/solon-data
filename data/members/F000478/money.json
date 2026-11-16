@@ -202,9 +202,21 @@
    "total": 7500.0
   },
   {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
+   "total": 7500.0
+  },
+  {
    "committee_id": "C00278895",
    "name": "NELSON MULLINS RILEY & SCARBOROUGH, LLP FEDERAL POLITICAL COMMITTEE",
    "connected_org": "NONE",
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00312785",
+   "name": "SWISHER INTERNATIONAL INC PAC FUND",
+   "connected_org": "SWISHER INTERNATIONAL INC",
    "total": 7500.0
   },
   {
@@ -316,12 +328,6 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00406850",
    "name": "BLUE CROSS BLUE SHIELD OF SOUTH CAROLINA FEDERAL GOVERNMENT PROGRAMS",
    "connected_org": "BLUE CROSS BLUE SHIELD OF SOUTH CAROLINA",
@@ -331,6 +337,12 @@
    "committee_id": "C00035006",
    "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
    "connected_org": "CHEVRON CORPORATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00130773",
+   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
+   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
    "total": 5000.0
   },
   {
@@ -379,6 +391,12 @@
    "committee_id": "C00607721",
    "name": "LAND OF OPPORTUNITY PAC",
    "connected_org": "WESTERMAN VICTORY FUND",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00832568",
+   "name": "HIGHWATER PAC",
+   "connected_org": null,
    "total": 5000.0
   },
   {
@@ -700,12 +718,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00312785",
-   "name": "SWISHER INTERNATIONAL INC PAC FUND",
-   "connected_org": "SWISHER INTERNATIONAL INC",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00053553",
    "name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
    "connected_org": null,
@@ -727,12 +739,6 @@
    "committee_id": "C00623512",
    "name": "IN THE ARENA PAC",
    "connected_org": "TEAM HILL",
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00130773",
-   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
-   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
    "total": 2500.0
   },
   {
@@ -774,6 +780,12 @@
   {
    "committee_id": "C00570226",
    "name": "SEAL PAC SUPPORTING ELECTING AMERICAN LEADERS PAC",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00946111",
+   "name": "ANTHROPIC PBC POLITICAL ACTION COMMITTEE",
    "connected_org": null,
    "total": 2500.0
   },
@@ -937,6 +949,12 @@
    "committee_id": "C00252338",
    "name": "AMERICAN CHEMISTRY COUNCIL PAC",
    "connected_org": "AMERICAN CHEMISTRY COUNCIL",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00857359",
+   "name": "BRANDON GILL FOR TEXAS",
+   "connected_org": "BRANDON GILL VICTORY FUND",
    "total": 2000.0
   },
   {
@@ -1435,19 +1453,19 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 338000.0
+   "total": 345500.0
   },
   {
    "type": "Trade association PACs",
-   "total": 221000.0
+   "total": 226000.0
+  },
+  {
+   "type": "Leadership PACs (run by other politicians)",
+   "total": 75000.0
   },
   {
    "type": "Other PACs",
    "total": 73500.0
-  },
-  {
-   "type": "Leadership PACs (run by other politicians)",
-   "total": 70000.0
   },
   {
    "type": "Membership group PACs",
@@ -1455,7 +1473,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 16499.0
+   "total": 18499.0
   },
   {
    "type": "Cooperative PACs",
@@ -1467,9 +1485,16 @@
   }
  ],
  "outside_spending": {
-  "support_total": 0,
-  "oppose_total": 0,
-  "spenders": [],
+  "support_total": 705105.0,
+  "oppose_total": 0.0,
+  "spenders": [
+   {
+    "committee_id": "C00956425",
+    "name": "PALMETTO LEADERSHIP FUND",
+    "support": 705105.0,
+    "oppose": 0.0
+   }
+  ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
  "detail": {

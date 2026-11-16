@@ -568,6 +568,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00091561",
+   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
+   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00391979",
    "name": "HERZOG PAC",
    "connected_org": "HERZOG",
@@ -596,6 +602,12 @@
    "name": "AMERICAN DENTAL ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "INDIANA DENTAL PAC",
    "total": 4500.0
+  },
+  {
+   "committee_id": "C00226548",
+   "name": "VISTRA EMPLOYEE POLITICAL ACTION COMMITTEE OF VISTRA CORP.",
+   "connected_org": "VISTRA CORP.",
+   "total": 4000.0
   },
   {
    "committee_id": "C00101766",
@@ -712,12 +724,6 @@
    "total": 3500.0
   },
   {
-   "committee_id": "C00226548",
-   "name": "VISTRA EMPLOYEE POLITICAL ACTION COMMITTEE OF VISTRA CORP.",
-   "connected_org": "VISTRA CORP.",
-   "total": 3000.0
-  },
-  {
    "committee_id": "C00082271",
    "name": "PRECISION METALFORMING ASSOCIATION VOICE OF THE INDUSTRY COMMITTEE (PMAVIC)",
    "connected_org": null,
@@ -781,6 +787,12 @@
    "committee_id": "C00414896",
    "name": "OSI SYSTEMS INC PAC OSI PAC",
    "connected_org": "OSI SYSTEMS INC.",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00360354",
+   "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
+   "connected_org": null,
    "total": 3000.0
   },
   {
@@ -910,15 +922,15 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00107300",
-   "name": "AMERICAN AIRLINES INC. POLITICAL ACTION COMMITTEE (AAPAC)",
-   "connected_org": "AMERICAN AIRLINES INC.",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00104802",
    "name": "DELTA AIR LINES PAC",
    "connected_org": "DELTA AIRLINES",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00107300",
+   "name": "AMERICAN AIRLINES INC. POLITICAL ACTION COMMITTEE (AAPAC)",
+   "connected_org": "AMERICAN AIRLINES INC.",
    "total": 2500.0
   },
   {
@@ -973,6 +985,12 @@
    "committee_id": "C00120030",
    "name": "SOCIETY OF INDEPENDENT GASOLINE MARKETERS OF AMERICA PAC (SIGMA: AMERICA'S LEADING FUEL MARKETERS PAC)",
    "connected_org": "SOCIETY OF INDEPENDENT GASOLINE MARKETERS OF AMERICA",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00084491",
+   "name": "INTERNATIONAL FRANCHISE ASSOCIATION FRANCHISING POLITICAL ACTION COMMITTEE INC",
+   "connected_org": null,
    "total": 2500.0
   },
   {
@@ -1138,12 +1156,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00360354",
-   "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
-   "connected_org": null,
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00283135",
    "name": "NATIONAL ASSOCIATION OF BENEFITS AND INSURANCE PROFESSIONALS PAC (NABIP PAC)",
    "connected_org": "NATIONAL ASSOCIATION OF BENEFITS AND INSURANCE PROFESSIONALS",
@@ -1204,6 +1216,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00905042",
+   "name": "IGS VENTURES, INC. PAC",
+   "connected_org": "IGS VENTURES, INC.",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00414474",
    "name": "AMERIPRISE FINANCIAL INC. POLITICAL ACTION COMMITTEE (AMERIPRISEPAC)",
    "connected_org": "AMERIPRISE FINANCIAL INC.",
@@ -1213,6 +1231,12 @@
    "committee_id": "C00008474",
    "name": "CITIGROUP INC. PAC - FEDERAL (CITI PAC - FEDERAL)",
    "connected_org": "CITIGROUP INC.",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00857359",
+   "name": "BRANDON GILL FOR TEXAS",
+   "connected_org": "BRANDON GILL VICTORY FUND",
    "total": 2000.0
   },
   {
@@ -1552,12 +1576,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00091561",
-   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
-   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00432252",
    "name": "REGIONS FINANCIAL CORPORATION POLITICAL ACTION COMMITTEE",
    "connected_org": "REGIONS FINANCIAL CORPORATION",
@@ -1663,11 +1681,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 470500.0
+   "total": 474500.0
   },
   {
    "type": "Trade association PACs",
-   "total": 232500.0
+   "total": 235000.0
   },
   {
    "type": "Labor union PACs",
@@ -1679,7 +1697,7 @@
   },
   {
    "type": "Other PACs",
-   "total": 64000.0
+   "total": 68000.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
@@ -1687,7 +1705,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 15000.0
+   "total": 17000.0
   }
  ],
  "outside_spending": {

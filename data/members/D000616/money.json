@@ -202,6 +202,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00275123",
+   "name": "LEONARDO DRS PAC",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00753475",
    "name": "BAPS PUBLIC AFFAIRS, INC. POLITICAL ACTION COMMITTEE (BAPS PAC)",
    "connected_org": null,
@@ -250,6 +256,12 @@
    "total": 4000.0
   },
   {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
+   "total": 4000.0
+  },
+  {
    "committee_id": "C00325092",
    "name": "HUNTINGTON INGALLS INDUSTRIES, INC. EMPLOYEES POLITICAL ACTION COMMITTEE (HIIPAC)",
    "connected_org": "HUNTINGTON INGALLS INDUSTRIES, INC.",
@@ -277,12 +289,6 @@
    "committee_id": "C00313247",
    "name": "ROBERT ADERHOLT FOR CONGRESS",
    "connected_org": "ADERHOLT MAJORITY FUND",
-   "total": 3500.0
-  },
-  {
-   "committee_id": "C00275123",
-   "name": "LEONARDO DRS PAC",
-   "connected_org": null,
    "total": 3500.0
   },
   {
@@ -406,12 +412,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00304477",
    "name": "OSHKOSH CORPORATION EMPLOYEES PAC (OCEPAC)",
    "connected_org": "OSHKOSH CORPORATION",
@@ -478,6 +478,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00084491",
+   "name": "INTERNATIONAL FRANCHISE ASSOCIATION FRANCHISING POLITICAL ACTION COMMITTEE INC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00395533",
    "name": "THE NATIONAL RIGHT TO WORK COMMITTEE PAC",
    "connected_org": "THE NATIONAL RIGHT TO WORK COMMITTEE",
@@ -487,7 +493,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 205250.0
+   "total": 206750.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
@@ -499,7 +505,7 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 22500.0
+   "total": 25500.0
   },
   {
    "type": "Other candidates’ campaigns",

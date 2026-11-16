@@ -22,6 +22,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00032995",
+   "name": "AMALGAMATED TRANSIT UNION - COPE",
+   "connected_org": "AMALGAMATED TRANSIT UNION",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00546234",
    "name": "LEIDOS INC. POLITICAL ACTION COMMITTEE",
    "connected_org": "LEIDOS, INC.",
@@ -158,12 +164,6 @@
    "name": "HUNTINGTON INGALLS INDUSTRIES, INC. EMPLOYEES POLITICAL ACTION COMMITTEE (HIIPAC)",
    "connected_org": "HUNTINGTON INGALLS INDUSTRIES, INC.",
    "total": 5500.0
-  },
-  {
-   "committee_id": "C00032995",
-   "name": "AMALGAMATED TRANSIT UNION - COPE",
-   "connected_org": "AMALGAMATED TRANSIT UNION",
-   "total": 5000.0
   },
   {
    "committee_id": "C00099234",
@@ -406,6 +406,12 @@
    "total": 3000.0
   },
   {
+   "committee_id": "C00652701",
+   "name": "VNA HOLDING INC. POLITICAL ACTION COMMITTEE (VG PAC)",
+   "connected_org": "VNA HOLDING INC.",
+   "total": 3000.0
+  },
+  {
    "committee_id": "C00303024",
    "name": "LOCKHEED MARTIN CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
    "connected_org": "LOCKHEED MARTIN CORPORATION",
@@ -469,6 +475,12 @@
    "committee_id": "C00034884",
    "name": "ALTICOR, INC. POLITICAL ACTION COMMITTEE ALTIPAC",
    "connected_org": "ALTICOR, INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00091561",
+   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
+   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
    "total": 2500.0
   },
   {
@@ -568,12 +580,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00652701",
-   "name": "VNA HOLDING INC. POLITICAL ACTION COMMITTEE (VG PAC)",
-   "connected_org": "VNA HOLDING INC.",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00341602",
    "name": "SOUTHWEST AIRLINES CO. POLITICAL ACTION COMMITTEE (SWAPAC)",
    "connected_org": "SOUTHWEST AIRLINES CO",
@@ -595,12 +601,6 @@
    "committee_id": "C00141218",
    "name": "EXELON CORPORATION POLITICAL ACTION COMMITTEE",
    "connected_org": "EXELON CORPORATION",
-   "total": 2000.0
-  },
-  {
-   "committee_id": "C00091561",
-   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
-   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
    "total": 2000.0
   },
   {
@@ -934,9 +934,27 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00384818",
+   "name": "CVS HEALTH PAC",
+   "connected_org": "CVS HEALTH",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00431858",
+   "name": "STEPTOE LLP POLITICAL ACTION COMMITTEE",
+   "connected_org": "NONE",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00639138",
    "name": "SAZERAC COMPANY, INC. PAC (SAZERACPAC)",
    "connected_org": "SAZERAC COMPANY, INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00546119",
+   "name": "SELECT MEDICAL CORPORATION PAC",
+   "connected_org": "SELECT MEDICAL CORPORATION",
    "total": 1000.0
   },
   {
@@ -997,15 +1015,15 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 220500.0
+   "total": 223500.0
   },
   {
    "type": "Labor union PACs",
-   "total": 131841.0
+   "total": 136841.0
   },
   {
    "type": "Other PACs",
-   "total": 50000.0
+   "total": 51500.0
   },
   {
    "type": "Trade association PACs",
@@ -1029,13 +1047,13 @@
   }
  ],
  "outside_spending": {
-  "support_total": 1646.0,
+  "support_total": 2578.0,
   "oppose_total": 0.0,
   "spenders": [
    {
     "committee_id": "C00489815",
     "name": "NEA ADVOCACY FUND",
-    "support": 1646.0,
+    "support": 2578.0,
     "oppose": 0.0
    }
   ],

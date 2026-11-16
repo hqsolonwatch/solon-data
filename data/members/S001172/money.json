@@ -28,6 +28,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00204099",
+   "name": "DEERE & COMPANY PAC (AKA JOHN DEERE PAC)",
+   "connected_org": "DEERE & COMPANY",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00130773",
    "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
    "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
@@ -280,9 +286,9 @@
    "total": 8000.0
   },
   {
-   "committee_id": "C00204099",
-   "name": "DEERE & COMPANY PAC (AKA JOHN DEERE PAC)",
-   "connected_org": "DEERE & COMPANY",
+   "committee_id": "C00384818",
+   "name": "CVS HEALTH PAC",
+   "connected_org": "CVS HEALTH",
    "total": 7500.0
   },
   {
@@ -325,6 +331,12 @@
    "committee_id": "C00480863",
    "name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. POLITICAL ACTION COMMITTEE (NSSF PAC)",
    "connected_org": "NATIONAL SHOOTING SPORTS FOUNDATION, INC.",
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 7500.0
   },
   {
@@ -478,12 +490,6 @@
    "total": 5500.0
   },
   {
-   "committee_id": "C00384818",
-   "name": "CVS HEALTH PAC",
-   "connected_org": "CVS HEALTH",
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00132282",
    "name": "EQUIPMENT LEASING AND FINANCE ASSN PAC (LEASEPAC)",
    "connected_org": "EQUIPMENT LEASING AND FINANCE ASSOCIATION",
@@ -571,12 +577,6 @@
    "committee_id": "C00160770",
    "name": "WALGREEN CO PAC (WALGREENSPAC)",
    "connected_org": "WALGREEN CO",
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 5000.0
   },
   {
@@ -814,6 +814,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00214981",
+   "name": "TEXAS FARM BUREAU AGFUND",
+   "connected_org": "TEXAS FARM BUREAU",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00358663",
    "name": "AMERICAN RESORT DEVELOPMENT ASSOCIATION RESORT OWNERS COALITION PAC (ARDA-ROC PAC)",
    "connected_org": "AMERICAN RESORT DEVELOPMENT ASSOCIATION",
@@ -949,6 +955,12 @@
    "committee_id": "C00082792",
    "name": "ELI LILLY AND COMPANY POLITICAL ACTION COMMITTEE",
    "connected_org": "ELI LILLY AND COMPANY",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00008839",
+   "name": "AMERICAN PODIATRIC MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN PODIATRIC MEDICAL ASSOCIATION, INC.",
    "total": 4000.0
   },
   {
@@ -1180,21 +1192,27 @@
    "total": 3000.0
   },
   {
+   "committee_id": "C00430256",
+   "name": "MOLINA HEALTHCARE, INC. PAC",
+   "connected_org": "MOLINA HEALTHCARE INC",
+   "total": 3000.0
+  },
+  {
    "committee_id": "C00121319",
    "name": "THRIVENT FINANCIAL FOR LUTHERANS POLITICAL ACTION COMMITTEE",
    "connected_org": "THRIVENT FINANCIAL FOR LUTHERANS",
    "total": 3000.0
   },
   {
-   "committee_id": "C00008839",
-   "name": "AMERICAN PODIATRIC MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "AMERICAN PODIATRIC MEDICAL ASSOCIATION, INC.",
-   "total": 3000.0
-  },
-  {
    "committee_id": "C00394650",
    "name": "JBS USA FOOD COMPANY PAC",
    "connected_org": null,
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00668384",
+   "name": "OPTION CARE HEALTH, INC. PAC",
+   "connected_org": "OPTION CARE HEALTH, INC.",
    "total": 3000.0
   },
   {
@@ -1468,6 +1486,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00410266",
+   "name": "THE VANGUARD GROUP COMMITTEE FOR RESPONSIBLE GOVERNMENT",
+   "connected_org": "THE VANGUARD GROUP",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00210666",
    "name": "AMERICAN SPEECH-LANGUAGE-HEARING ASSOCIATION PAC (ASHA PAC)",
    "connected_org": null,
@@ -1600,12 +1624,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00430256",
-   "name": "MOLINA HEALTHCARE, INC. PAC",
-   "connected_org": "MOLINA HEALTHCARE INC",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00324483",
    "name": "BERKSHIRE HATHAWAY ENERGY COMPANY PAC",
    "connected_org": "BERKSHIRE HATHAWAY ENERGY COMPANY",
@@ -1633,6 +1651,12 @@
    "committee_id": "C00343137",
    "name": "POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS--PAC OF AAOS",
    "connected_org": "AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00014878",
+   "name": "GENERAL AVIATION MANUFACTURERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "GENERAL AVIATION MANUFACTURERS ASSOCIATION",
    "total": 2000.0
   },
   {
@@ -1702,15 +1726,15 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00257246",
-   "name": "GAP INC. GOOD GOVERNMENT FUND",
-   "connected_org": "GAP INC.",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00394957",
    "name": "SCALISE FOR CONGRESS",
    "connected_org": "SCALISE LEADERSHIP FUND",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00257246",
+   "name": "GAP INC. GOOD GOVERNMENT FUND",
+   "connected_org": "GAP INC.",
    "total": 2000.0
   },
   {
@@ -1729,6 +1753,12 @@
    "committee_id": "C00326439",
    "name": "HOUSE CONSERVATIVES FUND",
    "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00000422",
+   "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN MEDICAL ASSOCIATION",
    "total": 2000.0
   },
   {
@@ -2104,12 +2134,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00014878",
-   "name": "GENERAL AVIATION MANUFACTURERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "GENERAL AVIATION MANUFACTURERS ASSOCIATION",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00830208",
    "name": "GE HEALTHCARE TECHNOLOGIES INC. PAC",
    "connected_org": "GE HEALTHCARE TECHNOLOGIES INC.",
@@ -2125,12 +2149,6 @@
    "committee_id": "C00713669",
    "name": "GREEN PLAINS INC. PAC",
    "connected_org": "GREEN PLAINS INC.",
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00668384",
-   "name": "OPTION CARE HEALTH, INC. PAC",
-   "connected_org": "OPTION CARE HEALTH, INC.",
    "total": 1000.0
   },
   {
@@ -2392,6 +2410,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00613521",
+   "name": "SEMICONDUCTOR INDUSTRY ASSOCIATION PAC (SIA PAC)",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00457234",
    "name": "MARSH & MCLENNAN COMPANIES, INC. POLITICAL ACTION COMMITTEE (MARSH PAC)",
    "connected_org": null,
@@ -2467,19 +2491,19 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 752250.0
+   "total": 762750.0
   },
   {
    "type": "Trade association PACs",
-   "total": 399000.0
+   "total": 403500.0
   },
   {
    "type": "Membership group PACs",
-   "total": 160995.0
+   "total": 165995.0
   },
   {
    "type": "Other PACs",
-   "total": 88250.0
+   "total": 91250.0
   },
   {
    "type": "Cooperative PACs",

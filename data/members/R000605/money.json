@@ -76,6 +76,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00130773",
+   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
+   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00845099",
    "name": "SEND IN THE SEAL PAC",
    "connected_org": null,
@@ -223,6 +229,12 @@
    "committee_id": "C00368696",
    "name": "RESPONSIBILITY AND FREEDOM WORK PAC (RFWPAC)",
    "connected_org": "WICKER VICTORY COMMITTEE",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00559302",
+   "name": "FS PAC",
+   "connected_org": "NONE",
    "total": 10000.0
   },
   {
@@ -442,9 +454,9 @@
    "total": 7500.0
   },
   {
-   "committee_id": "C00130773",
-   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
-   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
+   "committee_id": "C00513549",
+   "name": "PHILLIPS 66 PAC",
+   "connected_org": "PHILLIPS 66",
    "total": 7500.0
   },
   {
@@ -475,6 +487,12 @@
    "committee_id": "C00380550",
    "name": "FMR LLC POLITICAL ACTION COMMITTEE - FEDERAL (FIDELITY PAC)",
    "connected_org": null,
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 7500.0
   },
   {
@@ -844,12 +862,6 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00029447",
    "name": "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC",
    "connected_org": "INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS",
@@ -907,12 +919,6 @@
    "committee_id": "C00110577",
    "name": "LINCOLN NATIONAL CORPORATION POLITICAL ACTION COMMITTEE (AKA LINCOLN FINANCIAL FEDERAL POLITICAL ACTION COMMITTEE, FEDERAL LFGPAC)",
    "connected_org": "LINCOLN NATIONAL CORPORATION",
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00559302",
-   "name": "FS PAC",
-   "connected_org": "NONE",
    "total": 5000.0
   },
   {
@@ -1060,6 +1066,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00100693",
+   "name": "CBOE GLOBAL MARKETS, INC. PAC (CBOE PAC)",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00494302",
    "name": "LEAD ENCOURAGE ELECT PAC",
    "connected_org": "MIKE LEE VICTORY FUND",
@@ -1201,12 +1213,6 @@
    "committee_id": "C00193177",
    "name": "BANK POLICY INSTITUTE PAC",
    "connected_org": "BANK POLICY INSTITUTE",
-   "total": 4000.0
-  },
-  {
-   "committee_id": "C00402107",
-   "name": "CUNA MUTUAL HOLDING COMPANY POLITICAL ACTION COMMITTEE/TRUSTAGE PAC",
-   "connected_org": "CUNA MUTUAL HOLDING COMPANY",
    "total": 4000.0
   },
   {
@@ -1393,12 +1399,6 @@
    "committee_id": "C00717686",
    "name": "FINANCIAL SERVICES FORUM POLITICAL ACTION COMMITTEE",
    "connected_org": "FINANCIAL SERVICES FORUM",
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00513549",
-   "name": "PHILLIPS 66 PAC",
-   "connected_org": "PHILLIPS 66",
    "total": 2500.0
   },
   {
@@ -1618,12 +1618,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00100693",
-   "name": "CBOE GLOBAL MARKETS, INC. PAC (CBOE PAC)",
-   "connected_org": null,
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00119354",
    "name": "TENET HEALTHCARE CORPORATION POLITICAL ACTION COMMITTEE",
    "connected_org": "TENET HEALTHCARE CORPORATION",
@@ -1663,6 +1657,12 @@
    "committee_id": "C00095869",
    "name": "POWERPAC OF THE EDISON ELECTRIC INSTITUTE",
    "connected_org": "EDISON ELECTRIC INSTITUTE",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00104901",
+   "name": "AKIN GUMP STRAUSS HAUER & FELD LLP CIVIC ACTION COMMITTEE (AKA AKIN GUMP PAC)",
+   "connected_org": "NONE",
    "total": 2500.0
   },
   {
@@ -1729,6 +1729,12 @@
    "committee_id": "C00173393",
    "name": "THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA POLITICAL ACTION COMMITTEE - FEDERAL (GUARDIAN LIFE P",
    "connected_org": "THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00402107",
+   "name": "CUNA MUTUAL HOLDING COMPANY POLITICAL ACTION COMMITTEE/TRUSTAGE PAC",
+   "connected_org": "CUNA MUTUAL HOLDING COMPANY",
    "total": 2000.0
   },
   {
@@ -2110,6 +2116,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00007450",
+   "name": "AMERICAN GAS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN GAS ASSOCIATION",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00096842",
    "name": "THE AMERICAN ELECTRIC POWER COMMITTEE FOR RESPONSIBLE GOVERNMENT",
    "connected_org": "AMERICAN ELECTRIC POWER",
@@ -2125,6 +2137,12 @@
    "committee_id": "C00494559",
    "name": "CONSERVATIVES ORGANIZED TO ADVANCE TOMORROW'S SOLUTIONS (COATS PAC)",
    "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00014878",
+   "name": "GENERAL AVIATION MANUFACTURERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "GENERAL AVIATION MANUFACTURERS ASSOCIATION",
    "total": 1000.0
   },
   {
@@ -2221,11 +2239,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 862350.0
+   "total": 867850.0
   },
   {
    "type": "Trade association PACs",
-   "total": 379750.0
+   "total": 385750.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
@@ -2233,11 +2251,11 @@
   },
   {
    "type": "Membership group PACs",
-   "total": 131615.0
+   "total": 132615.0
   },
   {
    "type": "Other PACs",
-   "total": 115940.0
+   "total": 123440.0
   },
   {
    "type": "Party committees",
@@ -2253,7 +2271,7 @@
   }
  ],
  "outside_spending": {
-  "support_total": 565848.0,
+  "support_total": 566048.0,
   "oppose_total": 0.0,
   "spenders": [
    {
@@ -2266,6 +2284,12 @@
     "committee_id": "C00904797",
     "name": "SOUTH DAKOTA CONSERVATIVE PAC",
     "support": 154100.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00836866",
+    "name": "VOTERS DESERVE BETTER",
+    "support": 200.0,
     "oppose": 0.0
    }
   ],

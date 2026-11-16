@@ -280,6 +280,12 @@
    "total": 6000.0
   },
   {
+   "committee_id": "C00032995",
+   "name": "AMALGAMATED TRANSIT UNION - COPE",
+   "connected_org": "AMALGAMATED TRANSIT UNION",
+   "total": 6000.0
+  },
+  {
    "committee_id": "C00002972",
    "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
    "connected_org": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION (NRECA)",
@@ -326,6 +332,12 @@
    "name": "VICTORY IN NOVEMBER ELECTION PAC",
    "connected_org": null,
    "total": 6000.0
+  },
+  {
+   "committee_id": "C00022343",
+   "name": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
+   "connected_org": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC.",
+   "total": 5500.0
   },
   {
    "committee_id": "C00007880",
@@ -550,12 +562,6 @@
    "total": 4500.0
   },
   {
-   "committee_id": "C00022343",
-   "name": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
-   "connected_org": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC.",
-   "total": 4500.0
-  },
-  {
    "committee_id": "C00274431",
    "name": "UNITEDHEALTH GROUP INCORPORATED PAC (UNITEDHEALTH GROUP PAC)",
    "connected_org": "UNITEDHEALTH GROUP INCORPORATED",
@@ -601,12 +607,6 @@
    "committee_id": "C00173153",
    "name": "AMERICAN ASSOCIATION OF NURSE ANESTHETISTS SEPARATE SEGREGATED FUND (CRNA-PAC)",
    "connected_org": "AMERICAN ASSOCIATION OF NURSE ANESTHETISTS",
-   "total": 3500.0
-  },
-  {
-   "committee_id": "C00032995",
-   "name": "AMALGAMATED TRANSIT UNION - COPE",
-   "connected_org": "AMALGAMATED TRANSIT UNION",
    "total": 3500.0
   },
   {
@@ -916,6 +916,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00204099",
+   "name": "DEERE & COMPANY PAC (AKA JOHN DEERE PAC)",
+   "connected_org": "DEERE & COMPANY",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00140061",
    "name": "NATIONAL EMERGENCY MEDICINE POLITICAL ACTION COMMITTEE / AMERICAN COLLEGE OF EMERGENCY PHYSICIANS",
    "connected_org": "AMERICAN COLLEGE OF EMERGENCY PHYSICIANS",
@@ -1081,6 +1087,12 @@
    "committee_id": "C00171330",
    "name": "HOLLAND & KNIGHT COMMITTEE FOR EFFECTIVE GOVERNMENT",
    "connected_org": "NONE",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00360354",
+   "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
+   "connected_org": null,
    "total": 2000.0
   },
   {
@@ -1378,12 +1390,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00360354",
-   "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
-   "connected_org": null,
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00680132",
    "name": "TRIED-AND-TRUE PAC",
    "connected_org": null,
@@ -1582,6 +1588,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00421230",
+   "name": "AIRBUS AMERICAS, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "AIRBUS AMERICAS, INC.",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00428623",
    "name": "GOOGLE LLC NETPAC",
    "connected_org": "GOOGLE LLC",
@@ -1645,15 +1657,15 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 258000.0
+   "total": 262500.0
   },
   {
    "type": "Labor union PACs",
-   "total": 205107.0
+   "total": 207607.0
   },
   {
    "type": "Trade association PACs",
-   "total": 157750.0
+   "total": 158750.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",

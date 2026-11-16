@@ -358,6 +358,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00325936",
+   "name": "SOCIETY OF THORACIC SURGEONS POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE SOCIETY OF THORACIC SURGEONS",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00459289",
    "name": "EHEALTH INC. POLITICAL ACTION COMMITTEE (EHEALTH PAC)",
    "connected_org": "EHEALTH INC.",
@@ -412,6 +418,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00128918",
+   "name": "PRINCIPAL LIFE INSURANCE COMPANY POLITICAL ACTION COMMITTEE",
+   "connected_org": "PRINCIPAL LIFE INSURANCE COMPANY",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00210666",
    "name": "AMERICAN SPEECH-LANGUAGE-HEARING ASSOCIATION PAC (ASHA PAC)",
    "connected_org": null,
@@ -433,6 +445,12 @@
    "committee_id": "C00007922",
    "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
    "connected_org": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00413955",
+   "name": "AMERICAN ASSOCIATION OF NEUROLOGICAL SURGEONS POLITICAL ACTION COMMITTEE (NEUROSURGERYPAC)",
+   "connected_org": "AMERICAN ASSOCIATION OF NEUROLOGICAL SURGEONS POLITICAL ACTION COMMITTEE (NEUROSURGERYPAC)",
    "total": 2500.0
   },
   {
@@ -736,12 +754,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00325936",
-   "name": "SOCIETY OF THORACIC SURGEONS POLITICAL ACTION COMMITTEE",
-   "connected_org": "THE SOCIETY OF THORACIC SURGEONS",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00849919",
    "name": "EARLY CARE & EDUCATION CONSORTIUM POLITICAL ACTION COMMITTEE",
    "connected_org": "EARLY CARE & EDUCATION CONSORTIUM",
@@ -793,19 +805,19 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 195200.0
+   "total": 197700.0
   },
   {
    "type": "Trade association PACs",
-   "total": 39000.0
+   "total": 41500.0
+  },
+  {
+   "type": "Membership group PACs",
+   "total": 34500.0
   },
   {
    "type": "Labor union PACs",
    "total": 33500.0
-  },
-  {
-   "type": "Membership group PACs",
-   "total": 33000.0
   },
   {
    "type": "Other PACs",

@@ -478,6 +478,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00389403",
+   "name": "SPECIALTY EQUIPMENT MARKET ASSOCIATION & PERFORMANCE RACING, INC. PAC (SEMA & PRI PAC)",
+   "connected_org": "SPECIALTY EQUIPMENT MARKET ASSOCIATION & PERFORMANCE RACING, INC.",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00160838",
    "name": "BACARDI U S A INC POLITICAL ACTION COMMITTEE",
    "connected_org": "BACARDI U S A INC POLITICAL ACTION COMMITTEE",
@@ -505,6 +511,12 @@
    "committee_id": "C00016683",
    "name": "PFIZER INC. PAC",
    "connected_org": "PFIZER INC.",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00226548",
+   "name": "VISTRA EMPLOYEE POLITICAL ACTION COMMITTEE OF VISTRA CORP.",
+   "connected_org": "VISTRA CORP.",
    "total": 1500.0
   },
   {
@@ -622,6 +634,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00353797",
+   "name": "SIEMENS CORPORATION PAC",
+   "connected_org": "SIEMENS CORPORATION",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00107771",
    "name": "XCEL ENERGY EMPLOYEE POLITICAL ACTION COMMITTEE (XPAC)",
    "connected_org": "XCEL ENERGY",
@@ -667,11 +685,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 218499.0
+   "total": 220999.0
   },
   {
    "type": "Trade association PACs",
-   "total": 64500.0
+   "total": 66500.0
   },
   {
    "type": "Membership group PACs",

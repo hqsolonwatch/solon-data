@@ -790,9 +790,21 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00360354",
+   "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00000422",
    "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN MEDICAL ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00084491",
+   "name": "INTERNATIONAL FRANCHISE ASSOCIATION FRANCHISING POLITICAL ACTION COMMITTEE INC",
+   "connected_org": null,
    "total": 1000.0
   },
   {
@@ -865,11 +877,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 318750.0
+   "total": 319750.0
   },
   {
    "type": "Trade association PACs",
-   "total": 98500.0
+   "total": 99500.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",

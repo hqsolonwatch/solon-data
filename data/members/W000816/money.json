@@ -46,6 +46,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00349373",
+   "name": "GULF STATES TOYOTA INC FEDERAL POLITICAL ACTION COMMITTEE",
+   "connected_org": "GULF STATES TOYOTA, INC.",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00077321",
    "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS",
@@ -109,7 +115,7 @@
    "committee_id": "C00214981",
    "name": "TEXAS FARM BUREAU AGFUND",
    "connected_org": "TEXAS FARM BUREAU",
-   "total": 9600.0
+   "total": 9613.0
   },
   {
    "committee_id": "C00010421",
@@ -217,12 +223,6 @@
    "committee_id": "C00368142",
    "name": "OFFICE OF THE COMMISSIONER OF MAJOR LEAGUE BASEBALL POLITICAL ACTION COMMITTEE",
    "connected_org": "OFFICE OF THE COMMISSIONER OF MAJOR LEAGUE BASEBALL",
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00349373",
-   "name": "GULF STATES TOYOTA INC FEDERAL POLITICAL ACTION COMMITTEE",
-   "connected_org": "GULF STATES TOYOTA, INC.",
    "total": 5000.0
   },
   {
@@ -454,6 +454,12 @@
    "total": 3500.0
   },
   {
+   "committee_id": "C00015552",
+   "name": "BEEF-PAC (BEEF POLITICAL ACTION COMMITTEE OF TEXAS CATTLE FEEDERS ASSOCIATION)",
+   "connected_org": "TEXAS CATTLE FEEDERS ASSOCIATION",
+   "total": 3000.0
+  },
+  {
    "committee_id": "C00104299",
    "name": "JPMORGAN CHASE & CO. FEDERAL POLITICAL ACTION COMMITTEE",
    "connected_org": "JPMORGAN CHASE & CO.",
@@ -550,9 +556,21 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00066472",
+   "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION POLITICAL ACTION COMMITTEE (INSURING AMERICA PAC)",
+   "connected_org": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00035006",
    "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
    "connected_org": "CHEVRON CORPORATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00312785",
+   "name": "SWISHER INTERNATIONAL INC PAC FUND",
+   "connected_org": "SWISHER INTERNATIONAL INC",
    "total": 2500.0
   },
   {
@@ -583,12 +601,6 @@
    "committee_id": "C00327072",
    "name": "SANTANDER HOLDINGS USA INC. PAC (SANTANDER US PAC)",
    "connected_org": "SANTANDER HOLDINGS USA INC.",
-   "total": 2000.0
-  },
-  {
-   "committee_id": "C00015552",
-   "name": "BEEF-PAC (BEEF POLITICAL ACTION COMMITTEE OF TEXAS CATTLE FEEDERS ASSOCIATION)",
-   "connected_org": "TEXAS CATTLE FEEDERS ASSOCIATION",
    "total": 2000.0
   },
   {
@@ -643,6 +655,12 @@
    "committee_id": "C00326439",
    "name": "HOUSE CONSERVATIVES FUND",
    "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00857359",
+   "name": "BRANDON GILL FOR TEXAS",
+   "connected_org": "BRANDON GILL VICTORY FUND",
    "total": 2000.0
   },
   {
@@ -877,11 +895,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 182250.0
+   "total": 189750.0
   },
   {
    "type": "Trade association PACs",
-   "total": 158251.0
+   "total": 161751.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
@@ -889,7 +907,7 @@
   },
   {
    "type": "Membership group PACs",
-   "total": 66594.0
+   "total": 66607.0
   },
   {
    "type": "Other PACs",
@@ -897,7 +915,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 7500.0
+   "total": 9500.0
   },
   {
    "type": "Labor union PACs",

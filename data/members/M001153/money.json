@@ -22,6 +22,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00397851",
+   "name": "CENTENE CORPORATION POLITICAL ACTION COMMITTEE (CENTENE PAC)",
+   "connected_org": "CENTENE CORPORATION POLITICAL ACTION COMMITTEE (CENTENE PAC)",
+   "total": 7500.0
+  },
+  {
    "committee_id": "C00786202",
    "name": "CROSSPARTISAN PAC II",
    "connected_org": null,
@@ -32,12 +38,6 @@
    "name": "AMERICAN OSTEOPATHIC INFORMATION ASSOCIATION - OSTEOPATHIC POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN OSTEOPATHIC INFORMATION ASSOCIATION",
    "total": 7000.0
-  },
-  {
-   "committee_id": "C00397851",
-   "name": "CENTENE CORPORATION POLITICAL ACTION COMMITTEE (CENTENE PAC)",
-   "connected_org": "CENTENE CORPORATION POLITICAL ACTION COMMITTEE (CENTENE PAC)",
-   "total": 6500.0
   },
   {
    "committee_id": "C00420000",
@@ -193,6 +193,12 @@
    "committee_id": "C00363879",
    "name": "ENTERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (ENPAC)",
    "connected_org": "ENTERGY CORPORATION",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00542365",
+   "name": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC)",
+   "connected_org": "TOYOTA MOTOR NORTH AMERICA, INC",
    "total": 3500.0
   },
   {
@@ -352,12 +358,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00542365",
-   "name": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC)",
-   "connected_org": "TOYOTA MOTOR NORTH AMERICA, INC",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00824425",
    "name": "TAFT STETTINIUS & HOLLISTER LLP POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -433,6 +433,12 @@
    "committee_id": "C00386847",
    "name": "GOVERN PAC",
    "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00905042",
+   "name": "IGS VENTURES, INC. PAC",
+   "connected_org": "IGS VENTURES, INC.",
    "total": 2500.0
   },
   {
@@ -613,6 +619,12 @@
    "committee_id": "C00337394",
    "name": "GRANITE CONSTRUCTION INC. EMPLOYEE PAC - GRANITEPAC",
    "connected_org": null,
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00447565",
+   "name": "FINSECA PAC",
+   "connected_org": "FINSECA",
    "total": 1500.0
   },
   {
@@ -928,6 +940,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00763623",
+   "name": "ANDURIL INDUSTRIES, INC. POLITICAL ACTION COMMITTEE (ANDURIL PAC)",
+   "connected_org": "ANDURIL INDUSTRIES, INC.",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00925420",
    "name": "TURBINEONE, INC. POLITICAL ACTION COMMITTEE (T1PAC)",
    "connected_org": null,
@@ -985,11 +1003,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 212500.0
+   "total": 218000.0
   },
   {
    "type": "Trade association PACs",
-   "total": 60300.0
+   "total": 61800.0
   },
   {
    "type": "Other PACs",
@@ -1005,13 +1023,13 @@
   }
  ],
  "outside_spending": {
-  "support_total": 22365.0,
+  "support_total": 22960.0,
   "oppose_total": 0.0,
   "spenders": [
    {
     "committee_id": "C00901025",
     "name": "UBCS PAC",
-    "support": 22365.0,
+    "support": 22960.0,
     "oppose": 0.0
    }
   ],

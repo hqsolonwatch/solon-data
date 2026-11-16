@@ -112,6 +112,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00106146",
+   "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+   "connected_org": "AMERICAN HOSPITAL ASSOCIATION",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00574970",
    "name": "FAIR SHOT PAC",
    "connected_org": "CLARK",
@@ -212,12 +218,6 @@
    "name": "TRI-STATE MAXED-OUT WOMEN",
    "connected_org": null,
    "total": 9500.0
-  },
-  {
-   "committee_id": "C00106146",
-   "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
-   "connected_org": "AMERICAN HOSPITAL ASSOCIATION",
-   "total": 9000.0
   },
   {
    "committee_id": "C00238725",
@@ -538,6 +538,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00546119",
+   "name": "SELECT MEDICAL CORPORATION PAC",
+   "connected_org": "SELECT MEDICAL CORPORATION",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00099234",
    "name": "BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN PAC FUND",
    "connected_org": "INTERNATIONAL BROTHERHOOD OF TEAMSTERS - DRIVE",
@@ -553,6 +559,12 @@
    "committee_id": "C00032979",
    "name": "D.R.I.V.E. - DEM, REP, IND VOTER ED (THE PAC OF THE INT'L BRHD OF TEAMSTERS)",
    "connected_org": "INTERNATIONAL BROTHERHOOD OF TEAMSTERS",
+   "total": 4500.0
+  },
+  {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 4500.0
   },
   {
@@ -730,9 +742,9 @@
    "total": 3000.0
   },
   {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
+   "committee_id": "C00101766",
+   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
+   "connected_org": "UNITED AIRLINES, INC.",
    "total": 3000.0
   },
   {
@@ -817,6 +829,12 @@
    "committee_id": "C00255752",
    "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
    "connected_org": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00492025",
+   "name": "AMERICAN DEFENSE AND MILITARY PAC",
+   "connected_org": null,
    "total": 3000.0
   },
   {
@@ -1078,6 +1096,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00360354",
+   "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00226522",
    "name": "RICHARD E NEAL FOR CONGRESS COMMITTEE",
    "connected_org": "NEAL VICTORY FUND",
@@ -1222,9 +1246,9 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00492025",
-   "name": "AMERICAN DEFENSE AND MILITARY PAC",
-   "connected_org": null,
+   "committee_id": "C00000422",
+   "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN MEDICAL ASSOCIATION",
    "total": 2000.0
   },
   {
@@ -1426,12 +1450,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00101766",
-   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
-   "connected_org": "UNITED AIRLINES, INC.",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00363879",
    "name": "ENTERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (ENPAC)",
    "connected_org": "ENTERGY CORPORATION",
@@ -1459,12 +1477,6 @@
    "committee_id": "C00274431",
    "name": "UNITEDHEALTH GROUP INCORPORATED PAC (UNITEDHEALTH GROUP PAC)",
    "connected_org": "UNITEDHEALTH GROUP INCORPORATED",
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00360354",
-   "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
-   "connected_org": null,
    "total": 1000.0
   },
   {
@@ -1840,12 +1852,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00000422",
-   "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "AMERICAN MEDICAL ASSOCIATION",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00384818",
    "name": "CVS HEALTH PAC",
    "connected_org": "CVS HEALTH",
@@ -1939,6 +1945,12 @@
    "committee_id": "C00842336",
    "name": "BELL FOR MISSOURI",
    "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00014878",
+   "name": "GENERAL AVIATION MANUFACTURERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "GENERAL AVIATION MANUFACTURERS ASSOCIATION",
    "total": 1000.0
   },
   {
@@ -2094,12 +2106,12 @@
  ],
  "pac_by_type": [
   {
-   "type": "Leadership PACs (run by other politicians)",
-   "total": 229750.0
+   "type": "Corporate PACs",
+   "total": 231499.0
   },
   {
-   "type": "Corporate PACs",
-   "total": 223499.0
+   "type": "Leadership PACs (run by other politicians)",
+   "total": 230750.0
   },
   {
    "type": "Labor union PACs",
@@ -2107,11 +2119,11 @@
   },
   {
    "type": "Other PACs",
-   "total": 197341.0
+   "total": 198341.0
   },
   {
    "type": "Trade association PACs",
-   "total": 108750.0
+   "total": 112250.0
   },
   {
    "type": "Membership group PACs",
@@ -2131,9 +2143,21 @@
   }
  ],
  "outside_spending": {
-  "support_total": 10522.0,
-  "oppose_total": 0.0,
+  "support_total": 40522.0,
+  "oppose_total": 155806.0,
   "spenders": [
+   {
+    "committee_id": "C00960435",
+    "name": "NO GOING BACK PAC INC.",
+    "support": 0.0,
+    "oppose": 155806.0
+   },
+   {
+    "committee_id": "C00760801",
+    "name": "THE TURNOUT PROJECT",
+    "support": 30000.0,
+    "oppose": 0.0
+   },
    {
     "committee_id": "C90020231",
     "name": "THOMAS PAINE SOCIETY L.L.C.",

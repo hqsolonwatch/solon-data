@@ -250,6 +250,12 @@
    "total": 3000.0
   },
   {
+   "committee_id": "C00929042",
+   "name": "THE HERITAGE GROUP ACTION INITIATIVES PAC",
+   "connected_org": "THE HERITAGE GROUP ACTION INITIATIVES",
+   "total": 3000.0
+  },
+  {
    "committee_id": "C00849323",
    "name": "INDEPENDENT PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE (IPAC)",
    "connected_org": "INDEPENDENT PILOTS ASSOCIATION",
@@ -328,6 +334,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00035451",
+   "name": "AIR LINE PILOTS ASSOCIATION PAC",
+   "connected_org": "AIR LINE PILOTS ASSOCIATION",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00268904",
    "name": "TRINITY INDUSTRIES EMPLOYEE POLITICAL ACTION COMMITTEE (SF) INC.",
    "connected_org": "TRINITY INDUSTRIES INC.",
@@ -382,6 +394,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00033969",
+   "name": "NOVARTIS CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NOVARTIS CORPORATION",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00552083",
    "name": "HALL RENDER KILLIAN HEATH & LYMAN PC EMPLOYEE PAC  AKA HALLWAY PAC FEDERAL",
    "connected_org": null,
@@ -408,6 +426,12 @@
   {
    "committee_id": "C00326439",
    "name": "HOUSE CONSERVATIVES FUND",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00360354",
+   "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
    "connected_org": null,
    "total": 2000.0
   },
@@ -445,6 +469,12 @@
    "committee_id": "C00426775",
    "name": "CHARTER COMMUNICATIONS INC. POLITICAL ACTION COMMITTEE",
    "connected_org": "CHARTER COMMUNICATIONS INC.",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00118703",
+   "name": "GATX CORPORATION GOOD GOVERNMENT PROGRAM",
+   "connected_org": "GATX CORPORATION",
    "total": 1500.0
   },
   {
@@ -628,12 +658,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00033969",
-   "name": "NOVARTIS CORPORATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NOVARTIS CORPORATION",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00480863",
    "name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. POLITICAL ACTION COMMITTEE (NSSF PAC)",
    "connected_org": "NATIONAL SHOOTING SPORTS FOUNDATION, INC.",
@@ -700,12 +724,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00360354",
-   "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
-   "connected_org": null,
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00103978",
    "name": "INDIANA ACRE/INDIANA STATEWIDE ASSOCIATION OF RURAL ELECTRIC COOPERATIVES DBA INDIANA ELECTRIC COOPERATIVES FEDERAL PAC",
    "connected_org": null,
@@ -739,6 +757,12 @@
    "committee_id": "C00078451",
    "name": "GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GENERAL DYNAMICS EMPLOYEE PAC)",
    "connected_org": "GENERAL DYNAMICS CORPORATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00084491",
+   "name": "INTERNATIONAL FRANCHISE ASSOCIATION FRANCHISING POLITICAL ACTION COMMITTEE INC",
+   "connected_org": null,
    "total": 1000.0
   },
   {
@@ -799,11 +823,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 118000.0
+   "total": 124500.0
   },
   {
    "type": "Trade association PACs",
-   "total": 90000.0
+   "total": 91000.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
@@ -811,7 +835,7 @@
   },
   {
    "type": "Labor union PACs",
-   "total": 29000.0
+   "total": 31500.0
   },
   {
    "type": "Membership group PACs",

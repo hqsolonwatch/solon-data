@@ -40,6 +40,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00012245",
+   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+   "connected_org": "UBS AMERICAS INC.",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00651042",
    "name": "MOMS FED UP",
    "connected_org": "DEMOCRATIC MOMS PAC",
@@ -184,12 +190,6 @@
    "total": 9500.0
   },
   {
-   "committee_id": "C00012245",
-   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
-   "connected_org": "UBS AMERICAS INC.",
-   "total": 9000.0
-  },
-  {
    "committee_id": "C00007880",
    "name": "AMERICA'S CREDIT UNIONS PAC",
    "connected_org": "AMERICA'S CREDIT UNIONS",
@@ -328,6 +328,12 @@
    "total": 6000.0
   },
   {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
+   "total": 6000.0
+  },
+  {
    "committee_id": "C00238725",
    "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
    "connected_org": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION",
@@ -433,6 +439,12 @@
    "committee_id": "C00227744",
    "name": "ERNST & YOUNG POLITICAL ACTION COMMITTEE",
    "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00364778",
+   "name": "BANK OF AMERICA CORPORATION FEDERAL PAC",
+   "connected_org": "BANK OF AMERICA CORPORATION",
    "total": 5000.0
   },
   {
@@ -730,15 +742,21 @@
    "total": 4000.0
   },
   {
-   "committee_id": "C00364778",
-   "name": "BANK OF AMERICA CORPORATION FEDERAL PAC",
-   "connected_org": "BANK OF AMERICA CORPORATION",
+   "committee_id": "C00492025",
+   "name": "AMERICAN DEFENSE AND MILITARY PAC",
+   "connected_org": null,
    "total": 4000.0
   },
   {
    "committee_id": "C00495002",
    "name": "AMERICAN INVESTMENT COUNCIL POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN INVESTMENT COUNCIL",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00360354",
+   "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
+   "connected_org": null,
    "total": 4000.0
   },
   {
@@ -838,12 +856,6 @@
    "total": 3500.0
   },
   {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
-   "total": 3500.0
-  },
-  {
    "committee_id": "C00461418",
    "name": "NATIONAL UNION OF HEALTHCARE WORKERS FEDERAL COMMITTEE ON POLITICAL EDUCATION",
    "connected_org": "NATIONAL UNION OF HEALTHCARE WORKERS",
@@ -859,6 +871,12 @@
    "committee_id": "C00893487",
    "name": "BELLPAC",
    "connected_org": null,
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00958215",
+   "name": "WELLTOWER INC. POLITICAL ACTION COMMITTEE (WELLTOWER PAC)",
+   "connected_org": "WELLTOWER INC.",
    "total": 3500.0
   },
   {
@@ -916,12 +934,6 @@
    "total": 3000.0
   },
   {
-   "committee_id": "C00492025",
-   "name": "AMERICAN DEFENSE AND MILITARY PAC",
-   "connected_org": null,
-   "total": 3000.0
-  },
-  {
    "committee_id": "C00033969",
    "name": "NOVARTIS CORPORATION POLITICAL ACTION COMMITTEE",
    "connected_org": "NOVARTIS CORPORATION",
@@ -936,12 +948,6 @@
   {
    "committee_id": "C00423079",
    "name": "DEMOCRATS RESHAPING AMERICA (DREAMPAC)",
-   "connected_org": null,
-   "total": 3000.0
-  },
-  {
-   "committee_id": "C00360354",
-   "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
    "connected_org": null,
    "total": 3000.0
   },
@@ -961,6 +967,12 @@
    "committee_id": "C00320218",
    "name": "UNITED ASSOCIATION OF JOURNEYMEN & APPRENTICES OF THE U.S. & CANADA LOCAL 447 FEDERAL PAC",
    "connected_org": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSN OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00447565",
+   "name": "FINSECA PAC",
+   "connected_org": "FINSECA",
    "total": 3000.0
   },
   {
@@ -1252,6 +1264,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00032995",
+   "name": "AMALGAMATED TRANSIT UNION - COPE",
+   "connected_org": "AMALGAMATED TRANSIT UNION",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00786822",
    "name": "MAXWELL ALEJANDRO FROST FOR CONGRESS",
    "connected_org": "BLUE TO THE FUTURE",
@@ -1444,6 +1462,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00652628",
+   "name": "DR KIM SCHRIER FOR CONGRESS",
+   "connected_org": "SWING LEFT",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00696526",
    "name": "MARK KELLY FOR SENATE",
    "connected_org": "MARK KELLY VICTORY FUND",
@@ -1555,12 +1579,6 @@
    "committee_id": "C00858688",
    "name": "LICCARDO FOR CONGRESS",
    "connected_org": "LICCARDO VICTORY FUND",
-   "total": 2000.0
-  },
-  {
-   "committee_id": "C00447565",
-   "name": "FINSECA PAC",
-   "connected_org": "FINSECA",
    "total": 2000.0
   },
   {
@@ -2008,12 +2026,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00652628",
-   "name": "DR KIM SCHRIER FOR CONGRESS",
-   "connected_org": "SWING LEFT",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00405050",
    "name": "BRINGING EVERYONE TOGETHER THROUGH ADVOCACY",
    "connected_org": "MCCOLLUM",
@@ -2425,11 +2437,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 407320.0
+   "total": 413820.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
-   "total": 241250.0
+   "total": 242250.0
   },
   {
    "type": "Other PACs",
@@ -2437,11 +2449,11 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 152185.0
+   "total": 155685.0
   },
   {
    "type": "Labor union PACs",
-   "total": 98500.0
+   "total": 101000.0
   },
   {
    "type": "Membership group PACs",
@@ -2449,7 +2461,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 60600.0
+   "total": 61600.0
   },
   {
    "type": "Cooperative PACs",

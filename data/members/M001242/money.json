@@ -208,6 +208,12 @@
    "total": 3500.0
   },
   {
+   "committee_id": "C00946111",
+   "name": "ANTHROPIC PBC POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 3500.0
+  },
+  {
    "committee_id": "C00945998",
    "name": "FREEDOM, RESPONSIBILITY, INTEGRITY, ECONOMIC STRENGTH & SECURITY PAC",
    "connected_org": null,
@@ -235,6 +241,12 @@
    "committee_id": "C00709816",
    "name": "BOOZ ALLEN HAMILTON INC. PAC (BOOZ ALLEN PAC)",
    "connected_org": null,
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00226548",
+   "name": "VISTRA EMPLOYEE POLITICAL ACTION COMMITTEE OF VISTRA CORP.",
+   "connected_org": "VISTRA CORP.",
    "total": 3000.0
   },
   {
@@ -439,12 +451,6 @@
    "committee_id": "C00930727",
    "name": "Y COMBINATOR MANAGEMENT, LLC POLITICAL COMMITTEE (LITTLE TECH PAC)",
    "connected_org": "Y COMBINATOR MANAGEMENT, LLC",
-   "total": 2000.0
-  },
-  {
-   "committee_id": "C00226548",
-   "name": "VISTRA EMPLOYEE POLITICAL ACTION COMMITTEE OF VISTRA CORP.",
-   "connected_org": "VISTRA CORP.",
    "total": 2000.0
   },
   {
@@ -661,7 +667,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 169100.0
+   "total": 173600.0
   },
   {
    "type": "Trade association PACs",

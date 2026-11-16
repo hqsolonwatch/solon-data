@@ -94,6 +94,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00540518",
+   "name": "THE CAPITAL GROUP COMPANIES INC POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE CAPITAL GROUP COMPANIES, INC.",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00012310",
    "name": "BLACK & VEATCH CORPORATION POLITICAL ACTION COMMITTEE (BLACK & VEATCH PAC)",
    "connected_org": "BLACK & VEATCH CORPORATION",
@@ -496,12 +502,6 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00540518",
-   "name": "THE CAPITAL GROUP COMPANIES INC POLITICAL ACTION COMMITTEE",
-   "connected_org": "THE CAPITAL GROUP COMPANIES, INC.",
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00163832",
    "name": "CSX CORPORATION GOOD GOVERNMENT FUND",
    "connected_org": "CSX CORPORATION",
@@ -706,15 +706,21 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00414474",
-   "name": "AMERIPRISE FINANCIAL INC. POLITICAL ACTION COMMITTEE (AMERIPRISEPAC)",
-   "connected_org": "AMERIPRISE FINANCIAL INC.",
+   "committee_id": "C00012245",
+   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+   "connected_org": "UBS AMERICAS INC.",
    "total": 5000.0
   },
   {
    "committee_id": "C00008748",
    "name": "SEMPRA ENERGY EMPLOYEES POLITICAL ACTION COMMITTEE- FEDERAL",
    "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00414474",
+   "name": "AMERIPRISE FINANCIAL INC. POLITICAL ACTION COMMITTEE (AMERIPRISEPAC)",
+   "connected_org": "AMERIPRISE FINANCIAL INC.",
    "total": 5000.0
   },
   {
@@ -1030,6 +1036,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00441733",
+   "name": "TAKEDA PHARMACEUTICALS AMERICA INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "TAKEDA PHARMACEUTICALS AMERICA, INC.",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00408518",
    "name": "NATIONAL ATHLETIC TRAINERS' ASSOCIATION INC POLITICAL ACTION COMMITTEE",
    "connected_org": "NATIONAL ATHLETIC TRAINERS' ASSOCIATION INC.",
@@ -1066,15 +1078,15 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00402107",
-   "name": "CUNA MUTUAL HOLDING COMPANY POLITICAL ACTION COMMITTEE/TRUSTAGE PAC",
-   "connected_org": "CUNA MUTUAL HOLDING COMPANY",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00898494",
    "name": "NATE TOWER PAC OF THE NATIONAL ASSOCIATION OF TOWER ERECTORS",
    "connected_org": "NATIONAL ASSOCIATION OF TOWER ERECTORS",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00402107",
+   "name": "CUNA MUTUAL HOLDING COMPANY POLITICAL ACTION COMMITTEE/TRUSTAGE PAC",
+   "connected_org": "CUNA MUTUAL HOLDING COMPANY",
    "total": 2000.0
   },
   {
@@ -1165,7 +1177,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 595500.0
+   "total": 608000.0
   },
   {
    "type": "Trade association PACs",

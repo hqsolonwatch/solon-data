@@ -34,6 +34,12 @@
    "total": 7500.0
   },
   {
+   "committee_id": "C00002881",
+   "name": "TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC.",
+   "connected_org": "AMERICAN TRUCKING ASSOCIATIONS INC.",
+   "total": 7500.0
+  },
+  {
    "committee_id": "C00347989",
    "name": "COCA-COLA BOTTLING COMPANY UNITED, INC. COMMITTEE FOR GOOD GOVERNMENT",
    "connected_org": null,
@@ -223,12 +229,6 @@
    "committee_id": "C00002972",
    "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
    "connected_org": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION (NRECA)",
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00002881",
-   "name": "TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC.",
-   "connected_org": "AMERICAN TRUCKING ASSOCIATIONS INC.",
    "total": 2500.0
   },
   {
@@ -467,7 +467,7 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 62000.0
+   "total": 67000.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
@@ -491,9 +491,16 @@
   }
  ],
  "outside_spending": {
-  "support_total": 0,
-  "oppose_total": 0,
-  "spenders": [],
+  "support_total": 0.0,
+  "oppose_total": 9238.0,
+  "spenders": [
+   {
+    "committee_id": "C90011156",
+    "name": "WORKING AMERICA",
+    "support": 0.0,
+    "oppose": 9238.0
+   }
+  ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
  "detail": {

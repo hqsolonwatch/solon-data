@@ -88,6 +88,12 @@
    "total": 7500.0
   },
   {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
+   "total": 7500.0
+  },
+  {
    "committee_id": "C00817338",
    "name": "MVL PAC",
    "connected_org": null,
@@ -334,6 +340,12 @@
    "total": 4500.0
   },
   {
+   "committee_id": "C00066472",
+   "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION POLITICAL ACTION COMMITTEE (INSURING AMERICA PAC)",
+   "connected_org": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION",
+   "total": 4500.0
+  },
+  {
    "committee_id": "C00300178",
    "name": "WELLS FARGO AND COMPANY EMPLOYEES GOOD GOVERNMENT FEDERAL FUND II",
    "connected_org": "WELLS FARGO AND COMPANY",
@@ -373,12 +385,6 @@
    "committee_id": "C00076299",
    "name": "CME GROUP INC. PAC",
    "connected_org": null,
-   "total": 3500.0
-  },
-  {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 3500.0
   },
   {
@@ -694,6 +700,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00652701",
+   "name": "VNA HOLDING INC. POLITICAL ACTION COMMITTEE (VG PAC)",
+   "connected_org": "VNA HOLDING INC.",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00414474",
    "name": "AMERIPRISE FINANCIAL INC. POLITICAL ACTION COMMITTEE (AMERIPRISEPAC)",
    "connected_org": "AMERIPRISE FINANCIAL INC.",
@@ -745,12 +757,6 @@
    "committee_id": "C00388827",
    "name": "ROCKET LIMITED PARTNERSHIP PAC (ROCKET PAC)",
    "connected_org": "ROCKET LIMITED PARTNERSHIP",
-   "total": 2000.0
-  },
-  {
-   "committee_id": "C00066472",
-   "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION POLITICAL ACTION COMMITTEE (INSURING AMERICA PAC)",
-   "connected_org": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION",
    "total": 2000.0
   },
   {
@@ -910,12 +916,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00652701",
-   "name": "VNA HOLDING INC. POLITICAL ACTION COMMITTEE (VG PAC)",
-   "connected_org": "VNA HOLDING INC.",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00342394",
    "name": "EBAY INC-COMMITTEE FOR RESPONSIBLE INTERNET COMMERCE, (EBAY PAC)",
    "connected_org": null,
@@ -1036,6 +1036,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00084491",
+   "name": "INTERNATIONAL FRANCHISE ASSOCIATION FRANCHISING POLITICAL ACTION COMMITTEE INC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00326132",
    "name": "TRULIANT FCU PAC",
    "connected_org": "TRULIANT FCU PAC",
@@ -1105,11 +1111,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 229950.0
+   "total": 230950.0
   },
   {
    "type": "Trade association PACs",
-   "total": 140000.0
+   "total": 147500.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",

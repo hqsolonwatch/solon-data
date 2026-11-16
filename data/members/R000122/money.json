@@ -286,6 +286,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00384818",
+   "name": "CVS HEALTH PAC",
+   "connected_org": "CVS HEALTH",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00479246",
    "name": "BLACKROCK FUNDS SERVICES GROUP LLC POLITICAL ACTION COMMITTEE (BLACKROCK PAC)",
    "connected_org": "BLACKROCK FUNDS SERVICES GROUP LLC",
@@ -328,6 +334,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00004812",
+   "name": "MORTGAGE BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE (MORPAC)",
+   "connected_org": "MORTGAGE BANKERS ASSOCIATION",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00005249",
    "name": "NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS POLITICAL ACTION COMM",
    "connected_org": "NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS",
@@ -358,9 +370,21 @@
    "total": 8000.0
   },
   {
+   "committee_id": "C00040535",
+   "name": "AMERICAN EXPRESS COMPANY POLITICAL ACTION COMMITTEE (AXPPAC)",
+   "connected_org": "AMERICAN EXPRESS COMPANY",
+   "total": 8000.0
+  },
+  {
    "committee_id": "C00492983",
    "name": "NUTMEG PAC",
    "connected_org": null,
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00009936",
+   "name": "AMERICAN FEDERATION OF GOVT. EMPL. POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN FEDERATION OF GOV'T EMPLOYEES",
    "total": 7500.0
   },
   {
@@ -496,12 +520,6 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00009936",
-   "name": "AMERICAN FEDERATION OF GOVT. EMPL. POLITICAL ACTION COMMITTEE",
-   "connected_org": "AMERICAN FEDERATION OF GOV'T EMPLOYEES",
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00186288",
    "name": "VERIZON COMMUNICATIONS, INC. POLITICAL ACTION COMMITTEE (VERIZON PAC)",
    "connected_org": null,
@@ -565,12 +583,6 @@
    "committee_id": "C00284885",
    "name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
    "connected_org": "THE HOME DEPOT INC.",
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00384818",
-   "name": "CVS HEALTH PAC",
-   "connected_org": "CVS HEALTH",
    "total": 5000.0
   },
   {
@@ -682,12 +694,6 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00004812",
-   "name": "MORTGAGE BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE (MORPAC)",
-   "connected_org": "MORTGAGE BANKERS ASSOCIATION",
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00107128",
    "name": "NATIONAL TREASURY EMPLOYEES UNION POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -703,6 +709,18 @@
    "committee_id": "C00040998",
    "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00100693",
+   "name": "CBOE GLOBAL MARKETS, INC. PAC (CBOE PAC)",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00130773",
+   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
+   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
    "total": 5000.0
   },
   {
@@ -790,6 +808,12 @@
    "total": 3500.0
   },
   {
+   "committee_id": "C00521914",
+   "name": "PRIMERICA INC POLITICAL ACTION COMMITTEE (PRIMERICA PAC)",
+   "connected_org": null,
+   "total": 3500.0
+  },
+  {
    "committee_id": "C00402669",
    "name": "SERCO INC. POLITICAL ACTION COMMITTEE (SERCO PAC)",
    "connected_org": "SERCO INC.",
@@ -814,6 +838,12 @@
    "total": 3500.0
   },
   {
+   "committee_id": "C00946111",
+   "name": "ANTHROPIC PBC POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 3500.0
+  },
+  {
    "committee_id": "C00365502",
    "name": "BWX TECHNOLOGIES, INC POLITICAL ACTION COMMITTEE",
    "connected_org": "BWX TECHNOLOGIES INC",
@@ -829,12 +859,6 @@
    "committee_id": "C00390583",
    "name": "BHFS-E, PC PAC (BROWNSTEIN HYATT FARBER SCHRECK POLITICAL ACTION COMMITTEE)",
    "connected_org": "BHFS-E, PC",
-   "total": 3000.0
-  },
-  {
-   "committee_id": "C00040535",
-   "name": "AMERICAN EXPRESS COMPANY POLITICAL ACTION COMMITTEE (AXPPAC)",
-   "connected_org": "AMERICAN EXPRESS COMPANY",
    "total": 3000.0
   },
   {
@@ -1180,6 +1204,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00033589",
+   "name": "CORNING INCORPORATED EMPLOYEES POLITICAL ACTION COMMITTEE (COREPAC)",
+   "connected_org": "CORNING INCORPORATED",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00300418",
    "name": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION VOLUNTARY POLITICAL ACTION COMMITTEE",
    "connected_org": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
@@ -1282,6 +1312,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00255877",
+   "name": "THE OPTIONS CLEARING CORPORATION PAC",
+   "connected_org": "THE OPTIONS CLEARING CORPORATION",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00000422",
    "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN MEDICAL ASSOCIATION",
@@ -1351,12 +1387,6 @@
    "committee_id": "C00737114",
    "name": "HAWKEYE 360 EMPLOYEE ACTION FUND",
    "connected_org": "HAWKEYE 360",
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00521914",
-   "name": "PRIMERICA INC POLITICAL ACTION COMMITTEE (PRIMERICA PAC)",
-   "connected_org": null,
    "total": 1000.0
   },
   {
@@ -1669,7 +1699,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 412700.0
+   "total": 438200.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
@@ -1677,11 +1707,11 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 152500.0
+   "total": 162500.0
   },
   {
    "type": "Labor union PACs",
-   "total": 145500.0
+   "total": 148000.0
   },
   {
    "type": "Other PACs",

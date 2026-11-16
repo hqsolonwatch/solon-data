@@ -316,6 +316,12 @@
    "total": 3500.0
   },
   {
+   "committee_id": "C00325936",
+   "name": "SOCIETY OF THORACIC SURGEONS POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE SOCIETY OF THORACIC SURGEONS",
+   "total": 3500.0
+  },
+  {
    "committee_id": "C00669655",
    "name": "THE J.M. SMUCKER COMPANY PAC (SMUCKER PAC)",
    "connected_org": "THE J.M. SMUCKER COMPANY",
@@ -580,6 +586,18 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00235036",
+   "name": "ZURICH HOLDING COMPANY OF AMERICA, INC. COMMITTEE FOR GOOD GOVERNMENT (Z-PAC, ZURICH PAC)",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00279505",
+   "name": "RAIN AND HAIL INSURANCE SOCIETY POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00382424",
    "name": "AMERICAN COLLEGE OF SURGEONS PROFESSIONAL ASSOCIATION PAC",
    "connected_org": "AMERICAN COLLEGE OF SURGEONS PROFESSIONAL ASSOCIATION",
@@ -652,18 +670,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00235036",
-   "name": "ZURICH HOLDING COMPANY OF AMERICA, INC. COMMITTEE FOR GOOD GOVERNMENT (Z-PAC, ZURICH PAC)",
-   "connected_org": null,
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00279505",
-   "name": "RAIN AND HAIL INSURANCE SOCIETY POLITICAL ACTION COMMITTEE",
-   "connected_org": null,
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00144345",
    "name": "SANOFI US SERVICES INC. EMPLOYEES' POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -685,12 +691,6 @@
    "committee_id": "C00749481",
    "name": "RAPTOR PAC",
    "connected_org": "PFLUGER VICTORY FUND",
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00325936",
-   "name": "SOCIETY OF THORACIC SURGEONS POLITICAL ACTION COMMITTEE",
-   "connected_org": "THE SOCIETY OF THORACIC SURGEONS",
    "total": 1000.0
   },
   {
@@ -856,6 +856,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00599084",
+   "name": "PLAINS COTTON GROWERS INC. PAC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00381459",
    "name": "SOCIETY FOR VASCULAR SURGERY POLITICAL ACTION COMMITTEE",
    "connected_org": "SOCIETY FOR VASCULAR SURGERY",
@@ -871,15 +877,15 @@
  "pac_by_type": [
   {
    "type": "Trade association PACs",
-   "total": 232040.0
+   "total": 233040.0
   },
   {
    "type": "Corporate PACs",
-   "total": 118000.0
+   "total": 120000.0
   },
   {
    "type": "Membership group PACs",
-   "total": 56994.0
+   "total": 59494.0
   },
   {
    "type": "Other PACs",
@@ -904,19 +910,19 @@
  ],
  "outside_spending": {
   "support_total": 16625.0,
-  "oppose_total": 14397.0,
+  "oppose_total": 44495.0,
   "spenders": [
+   {
+    "committee_id": "C90017492",
+    "name": "INDIVISIBLE PROJECT INC.",
+    "support": 0.0,
+    "oppose": 44495.0
+   },
    {
     "committee_id": "C00552851",
     "name": "FREEDOM CAUCUS FUND",
     "support": 16625.0,
     "oppose": 0.0
-   },
-   {
-    "committee_id": "C90017492",
-    "name": "INDIVISIBLE PROJECT INC.",
-    "support": 0.0,
-    "oppose": 14397.0
    }
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."

@@ -166,6 +166,18 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00091561",
+   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
+   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00012245",
+   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+   "connected_org": "UBS AMERICAS INC.",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00088591",
    "name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
    "connected_org": "NORTHROP GRUMMAN CORPORATION",
@@ -232,9 +244,9 @@
    "total": 7500.0
   },
   {
-   "committee_id": "C00012245",
-   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
-   "connected_org": "UBS AMERICAS INC.",
+   "committee_id": "C00379628",
+   "name": "NUCOR CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NUCOR CORPORATION",
    "total": 7500.0
   },
   {
@@ -340,9 +352,21 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00365122",
+   "name": "VISA, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "VISA INC",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00211318",
    "name": "DELOITTE POLITICAL ACTION COMMITTEE",
    "connected_org": "NONE",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00128918",
+   "name": "PRINCIPAL LIFE INSURANCE COMPANY POLITICAL ACTION COMMITTEE",
+   "connected_org": "PRINCIPAL LIFE INSURANCE COMPANY",
    "total": 5000.0
   },
   {
@@ -472,18 +496,6 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00379628",
-   "name": "NUCOR CORPORATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NUCOR CORPORATION",
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00091561",
-   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
-   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00386524",
    "name": "TRUIST FINANCIAL CORPORATION FEDERAL PAC",
    "connected_org": "TRUIST FINANCIAL CORPORATION",
@@ -538,6 +550,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00022343",
+   "name": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
+   "connected_org": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC.",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00004812",
    "name": "MORTGAGE BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE (MORPAC)",
    "connected_org": "MORTGAGE BANKERS ASSOCIATION",
@@ -568,9 +586,27 @@
    "total": 4606.0
   },
   {
+   "committee_id": "C00106146",
+   "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+   "connected_org": "AMERICAN HOSPITAL ASSOCIATION",
+   "total": 4500.0
+  },
+  {
+   "committee_id": "C00346361",
+   "name": "WESTINGHOUSE ELECTRIC COMPANY LLC PAC",
+   "connected_org": "WESTINGHOUSE ELECTRIC COMPANY LLC",
+   "total": 4000.0
+  },
+  {
    "committee_id": "C00361758",
    "name": "T-MOBILE US, INC.  POLITICAL ACTION COMMITTEE (T-PAC)",
    "connected_org": "T-MOBILE US, INC.  POLITICAL ACTION COMMITTEE (T-PAC)",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00101766",
+   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
+   "connected_org": "UNITED AIRLINES, INC.",
    "total": 4000.0
   },
   {
@@ -604,9 +640,9 @@
    "total": 3500.0
   },
   {
-   "committee_id": "C00106146",
-   "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
-   "connected_org": "AMERICAN HOSPITAL ASSOCIATION",
+   "committee_id": "C00521914",
+   "name": "PRIMERICA INC POLITICAL ACTION COMMITTEE (PRIMERICA PAC)",
+   "connected_org": null,
    "total": 3500.0
   },
   {
@@ -622,21 +658,9 @@
    "total": 3000.0
   },
   {
-   "committee_id": "C00346361",
-   "name": "WESTINGHOUSE ELECTRIC COMPANY LLC PAC",
-   "connected_org": "WESTINGHOUSE ELECTRIC COMPANY LLC",
-   "total": 3000.0
-  },
-  {
    "committee_id": "C00206136",
    "name": "AMEREN CORPORATION FEDERAL POLITICAL ACTION COMMITTEE (AMEREN FEDPAC)",
    "connected_org": "AMEREN CORPORATION",
-   "total": 3000.0
-  },
-  {
-   "committee_id": "C00101766",
-   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
-   "connected_org": "UNITED AIRLINES, INC.",
    "total": 3000.0
   },
   {
@@ -655,6 +679,12 @@
    "committee_id": "C00081414",
    "name": "AMERICAN SUGAR CANE LEAGUE OF USA, INC PAC",
    "connected_org": "AMERICAN SUGAR CANE LEAGUE OF USA, INC",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00063164",
+   "name": "MCDONALDS CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "MCDONALDS CORPORATION",
    "total": 3000.0
   },
   {
@@ -685,18 +715,6 @@
    "committee_id": "C00488262",
    "name": "NETJETS ASSOCIATION OF SHARED AIRCRAFT PILOTS PAC; NJASAP PAC",
    "connected_org": null,
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00365122",
-   "name": "VISA, INC. POLITICAL ACTION COMMITTEE",
-   "connected_org": "VISA INC",
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00128918",
-   "name": "PRINCIPAL LIFE INSURANCE COMPANY POLITICAL ACTION COMMITTEE",
-   "connected_org": "PRINCIPAL LIFE INSURANCE COMPANY",
    "total": 2500.0
   },
   {
@@ -778,12 +796,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00521914",
-   "name": "PRIMERICA INC POLITICAL ACTION COMMITTEE (PRIMERICA PAC)",
-   "connected_org": null,
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00824425",
    "name": "TAFT STETTINIUS & HOLLISTER LLP POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -859,6 +871,18 @@
    "committee_id": "C00349373",
    "name": "GULF STATES TOYOTA INC FEDERAL POLITICAL ACTION COMMITTEE",
    "connected_org": "GULF STATES TOYOTA, INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00067231",
+   "name": "HCA HEALTHCARE, INC. GOOD GOVERNMENT FUND",
+   "connected_org": "HCA HEALTHCARE, INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00204453",
+   "name": "KING & SPALDING NONPARTISAN COMMITTEE FOR GOOD GOVERNMENT",
+   "connected_org": "NONE",
    "total": 2500.0
   },
   {
@@ -1003,6 +1027,12 @@
    "committee_id": "C00165589",
    "name": "HUNTINGTON BANCSHARES INC. POLITICAL ACTION COMMITTEE  (HBI-PAC)",
    "connected_org": "HUNTINGTON BANCSHARES INC.",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00603076",
+   "name": "MICHAEL BEST POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
    "total": 1500.0
   },
   {
@@ -1279,23 +1309,23 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 446740.0
+   "total": 465240.0
   },
   {
    "type": "Trade association PACs",
-   "total": 172000.0
+   "total": 178000.0
   },
   {
    "type": "Labor union PACs",
    "total": 139500.0
   },
   {
-   "type": "Membership group PACs",
-   "total": 43500.0
+   "type": "Other PACs",
+   "total": 46250.0
   },
   {
-   "type": "Other PACs",
-   "total": 37250.0
+   "type": "Membership group PACs",
+   "total": 43500.0
   },
   {
    "type": "Cooperative PACs",

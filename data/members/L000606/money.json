@@ -154,6 +154,12 @@
    "total": 4500.0
   },
   {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
+   "total": 4000.0
+  },
+  {
    "committee_id": "C00312777",
    "name": "COZEN O'CONNOR POLITICAL ACTION COMMITTEE",
    "connected_org": "COZEN O'CONNOR",
@@ -190,12 +196,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00004036",
    "name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
    "connected_org": "SERVICE EMPLOYEES INTERNATIONAL UNION",
@@ -205,6 +205,12 @@
    "committee_id": "C00238204",
    "name": "PAKISTANI AMERICAN PUBLIC AFFAIRS COMMITTEE PAK-PAC",
    "connected_org": "NONE",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00012245",
+   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+   "connected_org": "UBS AMERICAS INC.",
    "total": 2500.0
   },
   {
@@ -265,6 +271,12 @@
    "committee_id": "C00024968",
    "name": "AMERICAN OPTOMETRIC ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN OPTOMETRIC ASSOCIATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00091561",
+   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
+   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
    "total": 2000.0
   },
   {
@@ -424,12 +436,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00091561",
-   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
-   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00012880",
    "name": "AMERICAN PHYSICAL THERAPY ASSOCIATION PHYSICAL THERAPY POLITICAL ACTION COMMITTEE (PT-PAC)",
    "connected_org": "AMERICAN PHYSICAL THERAPY ASSOCIATION",
@@ -497,11 +503,11 @@
   },
   {
    "type": "Corporate PACs",
-   "total": 58500.0
+   "total": 61000.0
   },
   {
    "type": "Trade association PACs",
-   "total": 39000.0
+   "total": 40500.0
   },
   {
    "type": "Membership group PACs",
@@ -509,7 +515,7 @@
   },
   {
    "type": "Other PACs",
-   "total": 9500.0
+   "total": 10500.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
@@ -517,9 +523,16 @@
   }
  ],
  "outside_spending": {
-  "support_total": 0,
-  "oppose_total": 0,
-  "spenders": [],
+  "support_total": 10.0,
+  "oppose_total": 0.0,
+  "spenders": [
+   {
+    "committee_id": "C00483693",
+    "name": "SIERRA CLUB INDEPENDENT ACTION",
+    "support": 10.0,
+    "oppose": 0.0
+   }
+  ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
  "detail": {

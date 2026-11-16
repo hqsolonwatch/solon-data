@@ -100,6 +100,12 @@
    "total": 7500.0
   },
   {
+   "committee_id": "C00111534",
+   "name": "JONES WALKER L.L.P. POLITICAL ACTION COMMITTEE",
+   "connected_org": "NONE",
+   "total": 7500.0
+  },
+  {
    "committee_id": "C00040998",
    "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION",
@@ -150,12 +156,6 @@
   {
    "committee_id": "C00358440",
    "name": "BALCH AND BINGHAM LLP FEDERAL POLITICAL COMMITTEE",
-   "connected_org": "NONE",
-   "total": 6000.0
-  },
-  {
-   "committee_id": "C00111534",
-   "name": "JONES WALKER L.L.P. POLITICAL ACTION COMMITTEE",
    "connected_org": "NONE",
    "total": 6000.0
   },
@@ -376,6 +376,12 @@
    "total": 3000.0
   },
   {
+   "committee_id": "C00412445",
+   "name": "WAYNE-SANDERSON FARMS LLC POLITICAL ACTION COMMITTEE",
+   "connected_org": "WAYNE-SANDERSON FARMS LLC",
+   "total": 3000.0
+  },
+  {
    "committee_id": "C00081414",
    "name": "AMERICAN SUGAR CANE LEAGUE OF USA, INC PAC",
    "connected_org": "AMERICAN SUGAR CANE LEAGUE OF USA, INC",
@@ -580,6 +586,18 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00425256",
+   "name": "PICKERING INC PAC",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00014019",
+   "name": "COMMITTEE ORGANIZED FOR THE TRADING OF COTTON PAC OF THE AMERICAN COTTON SHIPPERS ASSOCIAT",
+   "connected_org": "AMERICAN COTTON SHIPPERS ASSN",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00444539",
    "name": "NATIONAL ASPHALT PAVEMENT ASSOCIATION POLITICAL ACTION COMMITTEE (NAPA-PAC)",
    "connected_org": "NATIONAL ASPHALT PAVEMENT ASSOCIATION POLITICAL ACTION COMMITTEE (NAPA-PAC)",
@@ -715,12 +733,6 @@
    "committee_id": "C00072025",
    "name": "NATIONAL RURAL LETTER CARRIERS' ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "NATIONAL RURAL LETTER CARRIERS' ASSOCIATION",
-   "total": 1500.0
-  },
-  {
-   "committee_id": "C00412445",
-   "name": "WAYNE-SANDERSON FARMS LLC POLITICAL ACTION COMMITTEE",
-   "connected_org": "WAYNE-SANDERSON FARMS LLC",
    "total": 1500.0
   },
   {
@@ -862,18 +874,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00425256",
-   "name": "PICKERING INC PAC",
-   "connected_org": null,
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00014019",
-   "name": "COMMITTEE ORGANIZED FOR THE TRADING OF COTTON PAC OF THE AMERICAN COTTON SHIPPERS ASSOCIAT",
-   "connected_org": "AMERICAN COTTON SHIPPERS ASSN",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00553859",
    "name": "DR. BRIAN BABIN FOR CONGRESS",
    "connected_org": "BABIN VICTORY FUND",
@@ -976,15 +976,33 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00066472",
+   "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION POLITICAL ACTION COMMITTEE (INSURING AMERICA PAC)",
+   "connected_org": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00471540",
    "name": "ENVIRONMENTAL DEFENSE ACTION FUND PAC (EDAF PAC)",
    "connected_org": "ENVIRONMENTAL DEFENSE ACTION FUND",
    "total": 1000.0
   },
   {
+   "committee_id": "C00084491",
+   "name": "INTERNATIONAL FRANCHISE ASSOCIATION FRANCHISING POLITICAL ACTION COMMITTEE INC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00503680",
    "name": "CROP INSURANCE PROFESSIONALS ASSOCIATION PAC-CIPA PAC",
    "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00095117",
+   "name": "GRAND TRUNK WESTERN RAILROAD CO- ILLINOIS CENTRAL RAILROAD CO GTW-IC PAC (CN PAC)",
+   "connected_org": "GRAND TRUNK WESTERN RAILROAD CO",
    "total": 1000.0
   },
   {
@@ -1057,11 +1075,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 195250.0
+   "total": 198750.0
   },
   {
    "type": "Trade association PACs",
-   "total": 143136.0
+   "total": 146136.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
@@ -1073,7 +1091,7 @@
   },
   {
    "type": "Other PACs",
-   "total": 38295.0
+   "total": 39795.0
   },
   {
    "type": "Other candidates’ campaigns",

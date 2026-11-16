@@ -112,6 +112,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00483487",
+   "name": "BRINGING REPUBLICAN EXCELLENCE TO TOWN PAC",
+   "connected_org": "GUTHRIE",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00024968",
    "name": "AMERICAN OPTOMETRIC ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN OPTOMETRIC ASSOCIATION",
@@ -256,6 +262,12 @@
    "total": 5500.0
   },
   {
+   "committee_id": "C00130773",
+   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
+   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
+   "total": 5500.0
+  },
+  {
    "committee_id": "C00780171",
    "name": "ORGANON & CO. EMPLOYEE POLITICAL ACTION COMMITTEE",
    "connected_org": "ORGANON & CO.",
@@ -316,6 +328,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00513549",
+   "name": "PHILLIPS 66 PAC",
+   "connected_org": "PHILLIPS 66",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00007948",
    "name": "WEYERHAEUSER COMPANY POLITICAL ACTION COMMITTEE",
    "connected_org": "WEYERHAEUSER COMPANY",
@@ -330,6 +348,12 @@
   {
    "committee_id": "C00010421",
    "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00010082",
+   "name": "NCTA - THE INTERNET & TELEVISION ASSOCIATION POLITICAL ACTION COMMITTEE (NCTAPAC)",
    "connected_org": null,
    "total": 5000.0
   },
@@ -487,6 +511,12 @@
    "committee_id": "C00274431",
    "name": "UNITEDHEALTH GROUP INCORPORATED PAC (UNITEDHEALTH GROUP PAC)",
    "connected_org": "UNITEDHEALTH GROUP INCORPORATED",
+   "total": 4500.0
+  },
+  {
+   "committee_id": "C00000422",
+   "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN MEDICAL ASSOCIATION",
    "total": 4500.0
   },
   {
@@ -664,12 +694,6 @@
    "total": 3000.0
   },
   {
-   "committee_id": "C00130773",
-   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
-   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
-   "total": 3000.0
-  },
-  {
    "committee_id": "C00163832",
    "name": "CSX CORPORATION GOOD GOVERNMENT FUND",
    "connected_org": "CSX CORPORATION",
@@ -730,6 +754,12 @@
    "total": 3000.0
   },
   {
+   "committee_id": "C00035451",
+   "name": "AIR LINE PILOTS ASSOCIATION PAC",
+   "connected_org": "AIR LINE PILOTS ASSOCIATION",
+   "total": 3000.0
+  },
+  {
    "committee_id": "C00196246",
    "name": "AMERICAN ACADEMY OF OPHTHALMOLOGY INC POLITICAL COMMITTEE (OPHTHPAC)",
    "connected_org": "AMERICAN ACADEMY OF OPHTHALMOLOGY",
@@ -748,12 +778,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00513549",
-   "name": "PHILLIPS 66 PAC",
-   "connected_org": "PHILLIPS 66",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00376343",
    "name": "NATIONAL CORN GROWERS ASSOCIATION PAC (CORNPAC)",
    "connected_org": "NATIONAL CORN GROWERS ASSOCIATION",
@@ -763,12 +787,6 @@
    "committee_id": "C00400705",
    "name": "PUBLIX SUPER MARKETS, INC. ASSOCIATES POLITICAL ACTION COMMITTEE",
    "connected_org": "PUBLIX SUPER MARKETS, INC.",
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00010082",
-   "name": "NCTA - THE INTERNET & TELEVISION ASSOCIATION POLITICAL ACTION COMMITTEE (NCTAPAC)",
-   "connected_org": null,
    "total": 2500.0
   },
   {
@@ -826,12 +844,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00214809",
-   "name": "COUNCIL OF PRODUCERS AND DISTRIBUTORS OF AGROTECHNOLOGY PAC (CPDA-PAC)",
-   "connected_org": "COUNCIL OF PRODUCERS AND DISTRIBUTORS OF AGROTECHNOLOGY",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00411694",
    "name": "SALTCHUK RESOURCES, INC. PAC",
    "connected_org": "SALTCHUK RESOURCES, INC. PAC",
@@ -880,15 +892,15 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00035006",
-   "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
-   "connected_org": "CHEVRON CORPORATION",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00451757",
    "name": "RAYONIER, INC. GOOD GOVERNMENT COMMITTEE",
    "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00035006",
+   "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
+   "connected_org": "CHEVRON CORPORATION",
    "total": 2500.0
   },
   {
@@ -982,12 +994,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00000422",
-   "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "AMERICAN MEDICAL ASSOCIATION",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00111302",
    "name": "SOCIETY OF AMERICAN FLORISTS POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -1057,6 +1063,12 @@
    "committee_id": "C00257329",
    "name": "THE PROCTER & GAMBLE COMPANY GOOD GOVERNMENT FUND",
    "connected_org": "THE PROCTER & GAMBLE COMPANY",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00469080",
+   "name": "NATIONAL ALLIANCE OF FOREST OWNERS POLITICAL ACTION COMMITTEE (NAFO PAC)",
+   "connected_org": "NATIONAL ALLIANCE OF FOREST OWNERS",
    "total": 2000.0
   },
   {
@@ -1288,12 +1300,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00171504",
-   "name": "EYEPAC POLITICAL ACTION COMMITTEE FOR AMERICAN SOCIETY OF CATARACT AND REFRACTIVE SURGERY",
-   "connected_org": "AMERICAN SOCIETY OF CATARACT & REFRACTIVE SURGERY",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00403881",
    "name": "AMERICAN COLLEGE OF PHYSICIAN SERVICES INC PAC; AKA ACP SERVICES PAC",
    "connected_org": "AMERICAN COLLEGE OF PHYSICIAN SERVICES, INC",
@@ -1486,6 +1492,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00171504",
+   "name": "EYEPAC POLITICAL ACTION COMMITTEE FOR AMERICAN SOCIETY OF CATARACT AND REFRACTIVE SURGERY",
+   "connected_org": "AMERICAN SOCIETY OF CATARACT & REFRACTIVE SURGERY",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00849067",
    "name": "CHESAPEAKE UTILITIES CORPORATION POLITICAL ACTION COMMITTEE (CUC PAC)",
    "connected_org": null,
@@ -1513,11 +1525,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 339250.0
+   "total": 341750.0
   },
   {
    "type": "Trade association PACs",
-   "total": 304000.0
+   "total": 308500.0
   },
   {
    "type": "Membership group PACs",
@@ -1525,11 +1537,11 @@
   },
   {
    "type": "Other PACs",
-   "total": 69000.0
+   "total": 71500.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
-   "total": 24000.0
+   "total": 34000.0
   },
   {
    "type": "Cooperative PACs",
@@ -1545,13 +1557,19 @@
   },
   {
    "type": "Labor union PACs",
-   "total": 1000.0
+   "total": 4000.0
   }
  ],
  "outside_spending": {
-  "support_total": 30870.0,
+  "support_total": 130870.0,
   "oppose_total": 0.0,
   "spenders": [
+   {
+    "committee_id": "C00657866",
+    "name": "PROTECT FREEDOM POLITICAL ACTION COMMITTEE",
+    "support": 100000.0,
+    "oppose": 0.0
+   },
    {
     "committee_id": "C00888867",
     "name": "LATINOS FOR CONSERVATIVE VALUES",

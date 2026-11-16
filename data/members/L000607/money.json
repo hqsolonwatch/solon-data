@@ -34,6 +34,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00540518",
+   "name": "THE CAPITAL GROUP COMPANIES INC POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE CAPITAL GROUP COMPANIES, INC.",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00105981",
    "name": "INVESTMENT COMPANY INSTITUTE POLITICAL ACTION COMMITTEE (ICI PAC)",
    "connected_org": "INVESTMENT COMPANY INSTITUTE",
@@ -61,6 +67,12 @@
    "committee_id": "C00479246",
    "name": "BLACKROCK FUNDS SERVICES GROUP LLC POLITICAL ACTION COMMITTEE (BLACKROCK PAC)",
    "connected_org": "BLACKROCK FUNDS SERVICES GROUP LLC",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00012245",
+   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+   "connected_org": "UBS AMERICAS INC.",
    "total": 10000.0
   },
   {
@@ -160,12 +172,6 @@
    "total": 7500.0
   },
   {
-   "committee_id": "C00012245",
-   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
-   "connected_org": "UBS AMERICAS INC.",
-   "total": 7500.0
-  },
-  {
    "committee_id": "C00197095",
    "name": "THE NORTHWESTERN MUTUAL LIFE INSURANCE COMPANY POLITICAL ACTION COMMITTEE (NMPAC)",
    "connected_org": null,
@@ -244,9 +250,9 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00540518",
-   "name": "THE CAPITAL GROUP COMPANIES INC POLITICAL ACTION COMMITTEE",
-   "connected_org": "THE CAPITAL GROUP COMPANIES, INC.",
+   "committee_id": "C00410266",
+   "name": "THE VANGUARD GROUP COMMITTEE FOR RESPONSIBLE GOVERNMENT",
+   "connected_org": "THE VANGUARD GROUP",
    "total": 5000.0
   },
   {
@@ -259,6 +265,18 @@
    "committee_id": "C00082792",
    "name": "ELI LILLY AND COMPANY POLITICAL ACTION COMMITTEE",
    "connected_org": "ELI LILLY AND COMPANY",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00447565",
+   "name": "FINSECA PAC",
+   "connected_org": "FINSECA",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00255877",
+   "name": "THE OPTIONS CLEARING CORPORATION PAC",
+   "connected_org": "THE OPTIONS CLEARING CORPORATION",
    "total": 5000.0
   },
   {
@@ -283,6 +301,12 @@
    "committee_id": "C00350744",
    "name": "THE GOLDMAN SACHS GROUP, INC. POLITICAL ACTION COMMITTEE",
    "connected_org": "THE GOLDMAN SACHS GROUP INC",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00494682",
+   "name": "S&P GLOBAL INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
    "total": 5000.0
   },
   {
@@ -442,21 +466,9 @@
    "total": 3500.0
   },
   {
-   "committee_id": "C00410266",
-   "name": "THE VANGUARD GROUP COMMITTEE FOR RESPONSIBLE GOVERNMENT",
-   "connected_org": "THE VANGUARD GROUP",
-   "total": 3500.0
-  },
-  {
    "committee_id": "C00113241",
    "name": "NATIONAL APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "NATIONAL APARTMENT ASSOCIATION",
-   "total": 3500.0
-  },
-  {
-   "committee_id": "C00447565",
-   "name": "FINSECA PAC",
-   "connected_org": "FINSECA",
    "total": 3500.0
   },
   {
@@ -595,6 +607,12 @@
    "committee_id": "C00142711",
    "name": "THE BOEING COMPANY PAC",
    "connected_org": "THE BOEING COMPANY",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00100693",
+   "name": "CBOE GLOBAL MARKETS, INC. PAC (CBOE PAC)",
+   "connected_org": null,
    "total": 3000.0
   },
   {
@@ -802,6 +820,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00067231",
+   "name": "HCA HEALTHCARE, INC. GOOD GOVERNMENT FUND",
+   "connected_org": "HCA HEALTHCARE, INC.",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00443671",
    "name": "MICRON TECHNOLOGY, INC. EMPLOYEE PAC",
    "connected_org": null,
@@ -910,12 +934,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00255877",
-   "name": "THE OPTIONS CLEARING CORPORATION PAC",
-   "connected_org": "THE OPTIONS CLEARING CORPORATION",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00393173",
    "name": "FIFTH THIRD BANCORP COMERICA INC. POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -1006,9 +1024,27 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00946111",
+   "name": "ANTHROPIC PBC POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00128918",
+   "name": "PRINCIPAL LIFE INSURANCE COMPANY POLITICAL ACTION COMMITTEE",
+   "connected_org": "PRINCIPAL LIFE INSURANCE COMPANY",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00823302",
    "name": "THE INSTITUTE OF INTERNAL AUDITORS  POLITICAL ACTION COMMITTEE",
    "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00000422",
+   "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN MEDICAL ASSOCIATION",
    "total": 2000.0
   },
   {
@@ -1201,12 +1237,6 @@
    "committee_id": "C00193177",
    "name": "BANK POLICY INSTITUTE PAC",
    "connected_org": "BANK POLICY INSTITUTE",
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00494682",
-   "name": "S&P GLOBAL INC. POLITICAL ACTION COMMITTEE",
-   "connected_org": null,
    "total": 1000.0
   },
   {
@@ -1483,15 +1513,15 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 466468.0
+   "total": 491968.0
   },
   {
    "type": "Trade association PACs",
-   "total": 115499.0
+   "total": 116999.0
   },
   {
    "type": "Other PACs",
-   "total": 71592.0
+   "total": 73592.0
   },
   {
    "type": "Membership group PACs",
@@ -1515,9 +1545,15 @@
   }
  ],
  "outside_spending": {
-  "support_total": 10.0,
+  "support_total": 23.0,
   "oppose_total": 0.0,
   "spenders": [
+   {
+    "committee_id": "C00527226",
+    "name": "WE VOTE - NOSOTROS VOTAMOS - PPAMM COMMITTEE",
+    "support": 13.0,
+    "oppose": 0.0
+   },
    {
     "committee_id": "C00483693",
     "name": "SIERRA CLUB INDEPENDENT ACTION",

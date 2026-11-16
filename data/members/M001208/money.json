@@ -292,6 +292,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00139519",
+   "name": "MOTION PICTURE ASSOCIATION INC POLITICAL ACTION COMMITTEE (MPAAMERICA PAC)",
+   "connected_org": "MOTION PICTURE ASSOCIATION, INC.",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00035451",
    "name": "AIR LINE PILOTS ASSOCIATION PAC",
    "connected_org": "AIR LINE PILOTS ASSOCIATION",
@@ -505,12 +511,6 @@
    "committee_id": "C00210666",
    "name": "AMERICAN SPEECH-LANGUAGE-HEARING ASSOCIATION PAC (ASHA PAC)",
    "connected_org": null,
-   "total": 1500.0
-  },
-  {
-   "committee_id": "C00139519",
-   "name": "MOTION PICTURE ASSOCIATION INC POLITICAL ACTION COMMITTEE (MPAAMERICA PAC)",
-   "connected_org": "MOTION PICTURE ASSOCIATION, INC.",
    "total": 1500.0
   },
   {
@@ -820,6 +820,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00431072",
+   "name": "BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ PC PAC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00148031",
    "name": "CATERPILLAR INC. POLITICAL ACTION COMMITTEE (CATPAC)",
    "connected_org": "CATERPILLAR INC.",
@@ -835,6 +841,18 @@
    "committee_id": "C00958181",
    "name": "MEDLINE INC. POLITICAL ACTION COMMITTEE (MEDLINE PAC)",
    "connected_org": "MEDLINE INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00004812",
+   "name": "MORTGAGE BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE (MORPAC)",
+   "connected_org": "MORTGAGE BANKERS ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00032995",
+   "name": "AMALGAMATED TRANSIT UNION - COPE",
+   "connected_org": "AMALGAMATED TRANSIT UNION",
    "total": 1000.0
   },
   {
@@ -854,6 +872,12 @@
    "name": "DCCC",
    "connected_org": "HOUSE SENATE VICTORY FUND",
    "total": 779.0
+  },
+  {
+   "committee_id": "C00104901",
+   "name": "AKIN GUMP STRAUSS HAUER & FELD LLP CIVIC ACTION COMMITTEE (AKA AKIN GUMP PAC)",
+   "connected_org": "NONE",
+   "total": 750.0
   },
   {
    "committee_id": "C00307314",
@@ -919,11 +943,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 138000.0
+   "total": 139000.0
   },
   {
    "type": "Labor union PACs",
-   "total": 78000.0
+   "total": 79000.0
   },
   {
    "type": "Membership group PACs",
@@ -931,11 +955,11 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 68500.0
+   "total": 70500.0
   },
   {
    "type": "Other PACs",
-   "total": 50500.0
+   "total": 51250.0
   },
   {
    "type": "Cooperative PACs",

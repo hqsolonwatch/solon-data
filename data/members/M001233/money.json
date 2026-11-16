@@ -106,6 +106,12 @@
    "total": 7000.0
   },
   {
+   "committee_id": "C00163048",
+   "name": "CAP-PAC SEPARATE SEGREGATED FUND OF THE NATIONAL COMMUNITY ACTION FOUNDATION INC",
+   "connected_org": "NATIONAL COMMUNITY ACTION FOUNDATION",
+   "total": 7000.0
+  },
+  {
    "committee_id": "C00106146",
    "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
    "connected_org": "AMERICAN HOSPITAL ASSOCIATION",
@@ -268,12 +274,6 @@
    "total": 4500.0
   },
   {
-   "committee_id": "C00163048",
-   "name": "CAP-PAC SEPARATE SEGREGATED FUND OF THE NATIONAL COMMUNITY ACTION FOUNDATION INC",
-   "connected_org": "NATIONAL COMMUNITY ACTION FOUNDATION",
-   "total": 4500.0
-  },
-  {
    "committee_id": "C00078451",
    "name": "GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GENERAL DYNAMICS EMPLOYEE PAC)",
    "connected_org": "GENERAL DYNAMICS CORPORATION",
@@ -355,6 +355,12 @@
    "committee_id": "C00082792",
    "name": "ELI LILLY AND COMPANY POLITICAL ACTION COMMITTEE",
    "connected_org": "ELI LILLY AND COMPANY",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00542365",
+   "name": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC)",
+   "connected_org": "TOYOTA MOTOR NORTH AMERICA, INC",
    "total": 3000.0
   },
   {
@@ -556,12 +562,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00542365",
-   "name": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC)",
-   "connected_org": "TOYOTA MOTOR NORTH AMERICA, INC",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00006080",
    "name": "AMERICAN HEALTH CARE ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN HEALTH CARE ASSOCIATION",
@@ -679,6 +679,12 @@
    "committee_id": "C00335091",
    "name": "TRANSPORTATION INTERMEDIARIES ASSOCIATION'S TIAPAC",
    "connected_org": "TRANSPORTATION INTERMEDIARIES ASSOCIATION",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00118703",
+   "name": "GATX CORPORATION GOOD GOVERNMENT PROGRAM",
+   "connected_org": "GATX CORPORATION",
    "total": 1500.0
   },
   {
@@ -994,6 +1000,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00835637",
+   "name": "AREVON ENERGY INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00763623",
    "name": "ANDURIL INDUSTRIES, INC. POLITICAL ACTION COMMITTEE (ANDURIL PAC)",
    "connected_org": "ANDURIL INDUSTRIES, INC.",
@@ -1039,7 +1051,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 191500.0
+   "total": 195000.0
   },
   {
    "type": "Trade association PACs",
@@ -1050,12 +1062,12 @@
    "total": 50500.0
   },
   {
-   "type": "Other PACs",
-   "total": 41000.0
+   "type": "Membership group PACs",
+   "total": 43494.0
   },
   {
-   "type": "Membership group PACs",
-   "total": 40994.0
+   "type": "Other PACs",
+   "total": 41000.0
   },
   {
    "type": "Labor union PACs",

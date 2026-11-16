@@ -142,9 +142,21 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00946111",
+   "name": "ANTHROPIC PBC POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00459008",
    "name": "BROOKDALE SENIOR LIVING PAC",
    "connected_org": "BROOKDALE SENIOR LIVING INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00329425",
+   "name": "BURGER KING FRANCHISEE PAC",
+   "connected_org": "BURGER KING",
    "total": 2500.0
   },
   {
@@ -184,9 +196,21 @@
    "total": 1500.0
   },
   {
+   "committee_id": "C00692806",
+   "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION FEDERAL ONLY POLITICAL ACTION COMMITTEE (INSURING AMERICA FOPAC)",
+   "connected_org": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION",
+   "total": 1500.0
+  },
+  {
    "committee_id": "C00880351",
    "name": "NORWEGIAN CRUISE CO. INC. POLITICAL ACTION COMMITTEE  (NCLH CRUISE FORWARD PAC)",
    "connected_org": null,
+   "total": 1250.0
+  },
+  {
+   "committee_id": "C00197749",
+   "name": "TWDC ENTERPRISES 18 CORP. EMPLOYEES PAC AKA 'THE WALT DISNEY COMPANY EMPLOYEES PAC' OR 'DISNEY PAC'",
+   "connected_org": "TWDC ENTERPRISES 18 CORP.",
    "total": 1250.0
   },
   {
@@ -301,11 +325,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 60250.0
+   "total": 64000.0
   },
   {
    "type": "Trade association PACs",
-   "total": 8500.0
+   "total": 12500.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",

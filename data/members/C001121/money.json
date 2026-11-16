@@ -70,6 +70,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00003632",
+   "name": "INT'L UNION OF BRICKLAYERS AND ALLIED CRAFTWORKERS",
+   "connected_org": "INT'L UNION OF BRICKLAYERS AND ALLIED CRAFTWORKERS",
+   "total": 7500.0
+  },
+  {
    "committee_id": "C00573261",
    "name": "END CITIZENS UNITED",
    "connected_org": "LET AMERICA VOTE PAC",
@@ -226,12 +232,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00003632",
-   "name": "INT'L UNION OF BRICKLAYERS AND ALLIED CRAFTWORKERS",
-   "connected_org": "INT'L UNION OF BRICKLAYERS AND ALLIED CRAFTWORKERS",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00077321",
    "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS",
@@ -268,6 +268,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00091561",
+   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
+   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00008268",
    "name": "TRANSPORT WORKERS UNION OF AMERICA POLITICAL CONTRIBUTIONS COMMITTEE",
    "connected_org": "TRANSPORT WORKERS UNION OF AMERICA",
@@ -277,6 +283,12 @@
    "committee_id": "C00446674",
    "name": "WESTERN SUGAR COOPERATIVE PAC",
    "connected_org": "WESTERN SUGAR COOPERATIVE",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00000422",
+   "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN MEDICAL ASSOCIATION",
    "total": 2000.0
   },
   {
@@ -307,12 +319,6 @@
    "committee_id": "C00130773",
    "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
    "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00091561",
-   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
-   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
    "total": 1000.0
   },
   {
@@ -382,6 +388,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00135590",
+   "name": "INSTITUTE OF MAKERS OF EXPLOSIVES POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00905349",
    "name": "SOF ACTION INC. PAC (SOFPAC)",
    "connected_org": "SOF ACTION INC.",
@@ -433,11 +445,11 @@
  "pac_by_type": [
   {
    "type": "Labor union PACs",
-   "total": 77000.0
+   "total": 82000.0
   },
   {
    "type": "Other PACs",
-   "total": 58000.0
+   "total": 61000.0
   },
   {
    "type": "Membership group PACs",
@@ -445,7 +457,7 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 32040.0
+   "total": 33040.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",

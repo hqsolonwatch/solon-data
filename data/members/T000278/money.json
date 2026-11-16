@@ -280,12 +280,6 @@
    "total": 0.0
   },
   {
-   "committee_id": "C00272724",
-   "name": "MAYNARD NEXSEN PAC",
-   "connected_org": null,
-   "total": 0.0
-  },
-  {
    "committee_id": "C00144345",
    "name": "SANOFI US SERVICES INC. EMPLOYEES' POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -436,6 +430,12 @@
    "total": -5000.0
   },
   {
+   "committee_id": "C00272724",
+   "name": "MAYNARD NEXSEN PAC",
+   "connected_org": null,
+   "total": -5000.0
+  },
+  {
    "committee_id": "C00502807",
    "name": "UNITED STATES PEANUT POLITICAL ACTION COMMITTEE (US PEANUT PAC)",
    "connected_org": null,
@@ -457,7 +457,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 25500.0
+   "total": 20500.0
   },
   {
    "type": "Trade association PACs",

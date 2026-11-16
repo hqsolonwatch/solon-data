@@ -94,6 +94,12 @@
    "total": 3000.0
   },
   {
+   "committee_id": "C00325936",
+   "name": "SOCIETY OF THORACIC SURGEONS POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE SOCIETY OF THORACIC SURGEONS",
+   "total": 3000.0
+  },
+  {
    "committee_id": "C00016683",
    "name": "PFIZER INC. PAC",
    "connected_org": "PFIZER INC.",
@@ -166,6 +172,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00101766",
+   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
+   "connected_org": "UNITED AIRLINES, INC.",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00244863",
    "name": "NATIONAL ROOFING CONTRACTORS ASSOCIATION ROOF PAC",
    "connected_org": "NATIONAL ROOFING AND CONTRACTORS ASSOCIATION",
@@ -214,12 +226,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00325936",
-   "name": "SOCIETY OF THORACIC SURGEONS POLITICAL ACTION COMMITTEE",
-   "connected_org": "THE SOCIETY OF THORACIC SURGEONS",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00668384",
    "name": "OPTION CARE HEALTH, INC. PAC",
    "connected_org": "OPTION CARE HEALTH, INC.",
@@ -229,6 +235,12 @@
    "committee_id": "C00421230",
    "name": "AIRBUS AMERICAS, INC. POLITICAL ACTION COMMITTEE",
    "connected_org": "AIRBUS AMERICAS, INC.",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00033969",
+   "name": "NOVARTIS CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NOVARTIS CORPORATION",
    "total": 2000.0
   },
   {
@@ -253,12 +265,6 @@
    "committee_id": "C00142711",
    "name": "THE BOEING COMPANY PAC",
    "connected_org": "THE BOEING COMPANY",
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00101766",
-   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
-   "connected_org": "UNITED AIRLINES, INC.",
    "total": 1000.0
   },
   {
@@ -475,7 +481,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 81208.0
+   "total": 84208.0
   },
   {
    "type": "Trade association PACs",
@@ -487,7 +493,7 @@
   },
   {
    "type": "Membership group PACs",
-   "total": 6500.0
+   "total": 7500.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",

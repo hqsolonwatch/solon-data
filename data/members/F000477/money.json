@@ -58,6 +58,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00035451",
+   "name": "AIR LINE PILOTS ASSOCIATION PAC",
+   "connected_org": "AIR LINE PILOTS ASSOCIATION",
+   "total": 7500.0
+  },
+  {
    "committee_id": "C00032995",
    "name": "AMALGAMATED TRANSIT UNION - COPE",
    "connected_org": "AMALGAMATED TRANSIT UNION",
@@ -70,9 +76,21 @@
    "total": 7500.0
   },
   {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
+   "total": 7500.0
+  },
+  {
    "committee_id": "C00251751",
    "name": "LOWE'S COMPANIES, INC. POLITICAL ACTION COMMITTEE",
    "connected_org": "LOWE'S COMPANIES, INC.",
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00130773",
+   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
+   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
    "total": 7500.0
   },
   {
@@ -94,12 +112,6 @@
    "total": 7000.0
   },
   {
-   "committee_id": "C00130773",
-   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
-   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
-   "total": 6500.0
-  },
-  {
    "committee_id": "C00255752",
    "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
    "connected_org": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS",
@@ -110,12 +122,6 @@
    "name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
    "connected_org": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS",
    "total": 5500.0
-  },
-  {
-   "committee_id": "C00035451",
-   "name": "AIR LINE PILOTS ASSOCIATION PAC",
-   "connected_org": "AIR LINE PILOTS ASSOCIATION",
-   "total": 5000.0
   },
   {
    "committee_id": "C00082792",
@@ -133,12 +139,6 @@
    "committee_id": "C00088591",
    "name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
    "connected_org": "NORTHROP GRUMMAN CORPORATION",
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 5000.0
   },
   {
@@ -1132,6 +1132,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00014019",
+   "name": "COMMITTEE ORGANIZED FOR THE TRADING OF COTTON PAC OF THE AMERICAN COTTON SHIPPERS ASSOCIAT",
+   "connected_org": "AMERICAN COTTON SHIPPERS ASSN",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00747907",
    "name": "ALPHA POLITICAL ACTION COMMITTEE",
    "connected_org": "NONE",
@@ -1169,7 +1175,7 @@
   },
   {
    "type": "Labor union PACs",
-   "total": 123000.0
+   "total": 125500.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
@@ -1181,7 +1187,7 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 40000.0
+   "total": 44500.0
   },
   {
    "type": "Membership group PACs",
@@ -1197,7 +1203,7 @@
   }
  ],
  "outside_spending": {
-  "support_total": 2371668.0,
+  "support_total": 2372378.0,
   "oppose_total": 241900.0,
   "spenders": [
    {
@@ -1229,6 +1235,12 @@
     "name": "CITIZENS AGAINST AIPAC CORRUPTION",
     "support": 0.0,
     "oppose": 23500.0
+   },
+   {
+    "committee_id": "C00755363",
+    "name": "VOTE FOR EQUALITY",
+    "support": 710.0,
+    "oppose": 0.0
    },
    {
     "committee_id": "C00483693",

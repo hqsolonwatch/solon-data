@@ -34,6 +34,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00513549",
+   "name": "PHILLIPS 66 PAC",
+   "connected_org": "PHILLIPS 66",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00567545",
    "name": "BOOTS POLITICAL ACTION COMMITTEE",
    "connected_org": "MULLIN VICTORY FUND",
@@ -73,6 +79,12 @@
    "committee_id": "C00542027",
    "name": "BIG SKY OPPORTUNITY PAC",
    "connected_org": "MONTANA RED",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00022343",
+   "name": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
+   "connected_org": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC.",
    "total": 10000.0
   },
   {
@@ -250,6 +262,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00145722",
+   "name": "MURPHY OIL CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "MURPHY OIL CORPORATION",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00368696",
    "name": "RESPONSIBILITY AND FREEDOM WORK PAC (RFWPAC)",
    "connected_org": "WICKER VICTORY COMMITTEE",
@@ -358,9 +376,9 @@
    "total": 8000.0
   },
   {
-   "committee_id": "C00513549",
-   "name": "PHILLIPS 66 PAC",
-   "connected_org": "PHILLIPS 66",
+   "committee_id": "C00030676",
+   "name": "UNITED STATES STEEL CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "UNITED STATES STEEL CORPORATION",
    "total": 7500.0
   },
   {
@@ -472,12 +490,6 @@
    "total": 5500.0
   },
   {
-   "committee_id": "C00030676",
-   "name": "UNITED STATES STEEL CORPORATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "UNITED STATES STEEL CORPORATION",
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00097568",
    "name": "EMPLOYEES OF RTX CORPORATION POLITICAL ACTION COMMITTEE",
    "connected_org": "RTX CORPORATION",
@@ -517,12 +529,6 @@
    "committee_id": "C00248716",
    "name": "COMCAST CORPORATION & NBCUNIVERSAL POLITICAL ACTION COMMITTEE - FEDERAL",
    "connected_org": "COMCAST CORPORATION",
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00022343",
-   "name": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
-   "connected_org": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC.",
    "total": 5000.0
   },
   {
@@ -589,6 +595,12 @@
    "committee_id": "C00163832",
    "name": "CSX CORPORATION GOOD GOVERNMENT FUND",
    "connected_org": "CSX CORPORATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00379628",
+   "name": "NUCOR CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NUCOR CORPORATION",
    "total": 5000.0
   },
   {
@@ -676,12 +688,6 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00145722",
-   "name": "MURPHY OIL CORPORATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "MURPHY OIL CORPORATION",
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00851998",
    "name": "PENNSYLVANIA HONOR",
    "connected_org": "MCCORMICK",
@@ -757,6 +763,12 @@
    "committee_id": "C00040998",
    "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00441733",
+   "name": "TAKEDA PHARMACEUTICALS AMERICA INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "TAKEDA PHARMACEUTICALS AMERICA, INC.",
    "total": 5000.0
   },
   {
@@ -967,12 +979,6 @@
    "committee_id": "C00434811",
    "name": "TEVA PHARMACEUTICALS USA INC. POLITICAL ACTION COMMITTEE (TEVA PAC)",
    "connected_org": "TEVA PHARMACEUTICALS USA, INC.",
-   "total": 3500.0
-  },
-  {
-   "committee_id": "C00379628",
-   "name": "NUCOR CORPORATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NUCOR CORPORATION",
    "total": 3500.0
   },
   {
@@ -1210,14 +1216,20 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00267849",
+   "name": "ALLIED PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00250753",
    "name": "AUTO CARE ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "AUTO CARE ASSOCIATION",
    "total": 2500.0
   },
   {
-   "committee_id": "C00267849",
-   "name": "ALLIED PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "committee_id": "C00946111",
+   "name": "ANTHROPIC PBC POLITICAL ACTION COMMITTEE",
    "connected_org": null,
    "total": 2500.0
   },
@@ -1225,6 +1237,12 @@
    "committee_id": "C00048579",
    "name": "SALT RIVER VALLEY WATER USERS' ASSOCIATION POLITICAL INVOLVEMENT COMMITTEE ( SRPPIC)",
    "connected_org": "SALT RIVER VALLEY WATER USERS' ASSOCIATION POLITICAL INVOLVEMENT COMMITTEE ( SRPPIC)",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00235036",
+   "name": "ZURICH HOLDING COMPANY OF AMERICA, INC. COMMITTEE FOR GOOD GOVERNMENT (Z-PAC, ZURICH PAC)",
+   "connected_org": null,
    "total": 2500.0
   },
   {
@@ -1327,12 +1345,6 @@
    "committee_id": "C00171330",
    "name": "HOLLAND & KNIGHT COMMITTEE FOR EFFECTIVE GOVERNMENT",
    "connected_org": "NONE",
-   "total": 2000.0
-  },
-  {
-   "committee_id": "C00441733",
-   "name": "TAKEDA PHARMACEUTICALS AMERICA INC. POLITICAL ACTION COMMITTEE",
-   "connected_org": "TAKEDA PHARMACEUTICALS AMERICA, INC.",
    "total": 2000.0
   },
   {
@@ -1612,6 +1624,18 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00692806",
+   "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION FEDERAL ONLY POLITICAL ACTION COMMITTEE (INSURING AMERICA FOPAC)",
+   "connected_org": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00139519",
+   "name": "MOTION PICTURE ASSOCIATION INC POLITICAL ACTION COMMITTEE (MPAAMERICA PAC)",
+   "connected_org": "MOTION PICTURE ASSOCIATION, INC.",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00890830",
    "name": "AMERICAN RHEINMETALL DEFENSE, INC. POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -1669,7 +1693,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 568000.0
+   "total": 587500.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
@@ -1677,7 +1701,7 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 222000.0
+   "total": 229000.0
   },
   {
    "type": "Other PACs",

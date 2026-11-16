@@ -196,6 +196,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00280222",
    "name": "KPMG PARTNERS/PRINCIPALS AND EMPLOYEES PAC",
    "connected_org": "NONE",
@@ -340,6 +346,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00091561",
+   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
+   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00126763",
    "name": "NATIONAL ASSOCIATION OF CONVENIENCE STORES POLITICAL ACTION COMMITTEE",
    "connected_org": "NATIONAL ASSOCIATION OF CONVENIENCE STORES",
@@ -382,9 +394,9 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
+   "committee_id": "C00032995",
+   "name": "AMALGAMATED TRANSIT UNION - COPE",
+   "connected_org": "AMALGAMATED TRANSIT UNION",
    "total": 2500.0
   },
   {
@@ -424,9 +436,9 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00091561",
-   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
-   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
+   "committee_id": "C00360354",
+   "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
+   "connected_org": null,
    "total": 2000.0
   },
   {
@@ -498,12 +510,6 @@
   {
    "committee_id": "C00816082",
    "name": "ELECTING WOMEN GREATER SEATTLE PAC",
-   "connected_org": null,
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00360354",
-   "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
    "connected_org": null,
    "total": 1000.0
   },
@@ -622,6 +628,18 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00384818",
+   "name": "CVS HEALTH PAC",
+   "connected_org": "CVS HEALTH",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00545202",
+   "name": "THE CENTER FOR FREETHOUGHT EQUALITY PAC",
+   "connected_org": "THE CENTER FOR FREETHOUGHT EQUALITY",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00197228",
    "name": "ELEVANCE HEALTH, INC. POLITICAL ACTION COMMITTEE (ELEVANCE HEALTH PAC)",
    "connected_org": "ELEVANCE HEALTH, INC.",
@@ -654,16 +672,16 @@
  ],
  "pac_by_type": [
   {
-   "type": "Other PACs",
-   "total": 86881.0
+   "type": "Labor union PACs",
+   "total": 87500.0
   },
   {
-   "type": "Labor union PACs",
-   "total": 85000.0
+   "type": "Other PACs",
+   "total": 87381.0
   },
   {
    "type": "Corporate PACs",
-   "total": 68250.0
+   "total": 70250.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
@@ -671,11 +689,11 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 30500.0
+   "total": 33000.0
   },
   {
    "type": "Membership group PACs",
-   "total": 18550.0
+   "total": 19550.0
   },
   {
    "type": "Cooperative PACs",

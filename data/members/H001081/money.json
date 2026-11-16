@@ -178,6 +178,12 @@
    "total": 6000.0
   },
   {
+   "committee_id": "C00002766",
+   "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+   "connected_org": null,
+   "total": 6000.0
+  },
+  {
    "committee_id": "C00840462",
    "name": "SILICORN VALLEY PAC",
    "connected_org": null,
@@ -376,6 +382,12 @@
    "total": 4000.0
   },
   {
+   "committee_id": "C00360354",
+   "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
+   "connected_org": null,
+   "total": 4000.0
+  },
+  {
    "committee_id": "C00510461",
    "name": "PETE AGUILAR FOR CONGRESS",
    "connected_org": "AGUILAR LEADERSHIP FUND",
@@ -430,12 +442,6 @@
    "total": 3000.0
   },
   {
-   "committee_id": "C00360354",
-   "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
-   "connected_org": null,
-   "total": 3000.0
-  },
-  {
    "committee_id": "C00081414",
    "name": "AMERICAN SUGAR CANE LEAGUE OF USA, INC PAC",
    "connected_org": "AMERICAN SUGAR CANE LEAGUE OF USA, INC",
@@ -468,6 +474,12 @@
   {
    "committee_id": "C00107128",
    "name": "NATIONAL TREASURY EMPLOYEES UNION POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00492025",
+   "name": "AMERICAN DEFENSE AND MILITARY PAC",
    "connected_org": null,
    "total": 3000.0
   },
@@ -553,6 +565,18 @@
    "committee_id": "C00197228",
    "name": "ELEVANCE HEALTH, INC. POLITICAL ACTION COMMITTEE (ELEVANCE HEALTH PAC)",
    "connected_org": "ELEVANCE HEALTH, INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00384818",
+   "name": "CVS HEALTH PAC",
+   "connected_org": "CVS HEALTH",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00447565",
+   "name": "FINSECA PAC",
+   "connected_org": "FINSECA",
    "total": 2500.0
   },
   {
@@ -712,15 +736,15 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00211318",
-   "name": "DELOITTE POLITICAL ACTION COMMITTEE",
-   "connected_org": "NONE",
+   "committee_id": "C00430256",
+   "name": "MOLINA HEALTHCARE, INC. PAC",
+   "connected_org": "MOLINA HEALTHCARE INC",
    "total": 2000.0
   },
   {
-   "committee_id": "C00492025",
-   "name": "AMERICAN DEFENSE AND MILITARY PAC",
-   "connected_org": null,
+   "committee_id": "C00211318",
+   "name": "DELOITTE POLITICAL ACTION COMMITTEE",
+   "connected_org": "NONE",
    "total": 2000.0
   },
   {
@@ -757,12 +781,6 @@
    "committee_id": "C00010322",
    "name": "AMERICAN POSTAL WORKERS UNION COMMITTEE ON POLITICAL ACTION",
    "connected_org": "AMERICAN POSTAL WORKERS UNION",
-   "total": 1500.0
-  },
-  {
-   "committee_id": "C00384818",
-   "name": "CVS HEALTH PAC",
-   "connected_org": "CVS HEALTH",
    "total": 1500.0
   },
   {
@@ -840,12 +858,6 @@
   {
    "committee_id": "C00625558",
    "name": "MILK RIVER PAC",
-   "connected_org": null,
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00002766",
-   "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
    "connected_org": null,
    "total": 1000.0
   },
@@ -1042,12 +1054,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00447565",
-   "name": "FINSECA PAC",
-   "connected_org": "FINSECA",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00834291",
    "name": "LATEEFAH FOR CONGRESS",
    "connected_org": "THE EMPOWERMENT FUND",
@@ -1186,12 +1192,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00430256",
-   "name": "MOLINA HEALTHCARE, INC. PAC",
-   "connected_org": "MOLINA HEALTHCARE INC",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00308478",
    "name": "USA RICE FEDERATION PAC",
    "connected_org": "USA RICE FEDERATION",
@@ -1237,6 +1237,12 @@
    "committee_id": "C00410308",
    "name": "SHORE PAC",
    "connected_org": "PALLONE",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00344663",
+   "name": "RESCARE, INC. DBA BRIGHTSPRING HEALTH SERVICES LEGACY FUND (BRIGHTSPRING LEGACY FUND)",
+   "connected_org": null,
    "total": 1000.0
   },
   {
@@ -1318,6 +1324,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00032995",
+   "name": "AMALGAMATED TRANSIT UNION - COPE",
+   "connected_org": "AMALGAMATED TRANSIT UNION",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00142786",
    "name": "NIKE INC FEDERAL POLITICAL ACTION COMMITTEE (NIKE FEDERAL PAC)",
    "connected_org": "NIKE, INC.",
@@ -1393,11 +1405,11 @@
  "pac_by_type": [
   {
    "type": "Leadership PACs (run by other politicians)",
-   "total": 172500.0
+   "total": 173500.0
   },
   {
    "type": "Labor union PACs",
-   "total": 118000.0
+   "total": 124000.0
   },
   {
    "type": "Other PACs",
@@ -1405,7 +1417,7 @@
   },
   {
    "type": "Corporate PACs",
-   "total": 83500.0
+   "total": 87500.0
   },
   {
    "type": "Membership group PACs",
@@ -1413,7 +1425,7 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 59500.0
+   "total": 61000.0
   },
   {
    "type": "Other candidates’ campaigns",

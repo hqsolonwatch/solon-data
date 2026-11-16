@@ -34,6 +34,18 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00820787",
+   "name": "B BRIGADE MAJORITY FUND",
+   "connected_org": "BARRETT",
+   "total": 8500.0
+  },
+  {
+   "committee_id": "C00819425",
+   "name": "OLD BREED PAC",
+   "connected_org": "MCCORMICK",
+   "total": 7000.0
+  },
+  {
    "committee_id": "C00343137",
    "name": "POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS--PAC OF AAOS",
    "connected_org": "AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS",
@@ -115,18 +127,6 @@
    "committee_id": "C00882134",
    "name": "THIN BLUE LINE PAC",
    "connected_org": null,
-   "total": 3500.0
-  },
-  {
-   "committee_id": "C00819425",
-   "name": "OLD BREED PAC",
-   "connected_org": "MCCORMICK",
-   "total": 3500.0
-  },
-  {
-   "committee_id": "C00820787",
-   "name": "B BRIGADE MAJORITY FUND",
-   "connected_org": "BARRETT",
    "total": 3500.0
   },
   {
@@ -214,6 +214,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00708172",
+   "name": "PA-FIRST PAC",
+   "connected_org": "MEUSER",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00390112",
    "name": "RED GOLD, INC. POLITICAL ACTION COMMITTEE",
    "connected_org": "RED GOLD, INC. POLITICAL ACTION COMMITTEE",
@@ -241,7 +247,7 @@
  "pac_by_type": [
   {
    "type": "Leadership PACs (run by other politicians)",
-   "total": 80000.0
+   "total": 90500.0
   },
   {
    "type": "Membership group PACs",
@@ -265,9 +271,22 @@
   }
  ],
  "outside_spending": {
-  "support_total": 0,
-  "oppose_total": 0,
-  "spenders": [],
+  "support_total": 0.0,
+  "oppose_total": 281691.0,
+  "spenders": [
+   {
+    "committee_id": "C00959346",
+    "name": "COMMONSENSE HOOSIERS PAC",
+    "support": 0.0,
+    "oppose": 280012.0
+   },
+   {
+    "committee_id": "C00742080",
+    "name": "PLANNED PARENTHOOD ALLIANCE PAC , SERVING WA, AK, ID, HI, IN, KY",
+    "support": 0.0,
+    "oppose": 1679.0
+   }
+  ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
  "detail": {

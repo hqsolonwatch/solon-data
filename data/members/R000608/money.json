@@ -40,6 +40,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00430256",
+   "name": "MOLINA HEALTHCARE, INC. PAC",
+   "connected_org": "MOLINA HEALTHCARE INC",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00369751",
    "name": "DELL TECHNOLOGIES, INC. POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -118,6 +124,12 @@
    "total": 3000.0
   },
   {
+   "committee_id": "C00101766",
+   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
+   "connected_org": "UNITED AIRLINES, INC.",
+   "total": 3000.0
+  },
+  {
    "committee_id": "C00097568",
    "name": "EMPLOYEES OF RTX CORPORATION POLITICAL ACTION COMMITTEE",
    "connected_org": "RTX CORPORATION",
@@ -172,12 +184,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00430256",
-   "name": "MOLINA HEALTHCARE, INC. PAC",
-   "connected_org": "MOLINA HEALTHCARE INC",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00066472",
    "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION POLITICAL ACTION COMMITTEE (INSURING AMERICA PAC)",
    "connected_org": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION",
@@ -187,6 +193,12 @@
    "committee_id": "C00114694",
    "name": "AIRLINES FOR AMERICA (A4A) POLITICAL ACTION COMMITTEE",
    "connected_org": "AIRLINES FOR AMERICA (A4A)",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00323048",
+   "name": "ORACLE AMERICA, INC. POLITICAL ACTION COMMITTEE (ORACLE PAC)",
+   "connected_org": "ORACLE AMERICA, INC.",
    "total": 2500.0
   },
   {
@@ -286,6 +298,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00431858",
+   "name": "STEPTOE LLP POLITICAL ACTION COMMITTEE",
+   "connected_org": "NONE",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00450965",
    "name": "SIEMENS HEALTHINEERS PAC (THE EMPLOYEE FUNDED POLITICAL ACTION COMMITTEE OF SIEMENS MEDICAL SOLUTIONS USA, INC.)",
    "connected_org": "SIEMENS MEDICAL SOLUTIONS USA INC.",
@@ -331,12 +349,6 @@
    "committee_id": "C00484584",
    "name": "JETBLUE AIRWAYS CORPORATION CREWMEMBER GOOD GOVERNMENT FUND",
    "connected_org": null,
-   "total": 2000.0
-  },
-  {
-   "committee_id": "C00101766",
-   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
-   "connected_org": "UNITED AIRLINES, INC.",
    "total": 2000.0
   },
   {
@@ -386,12 +398,6 @@
    "name": "NATIONAL ASSOCIATION OF GOVERNMENT GUARANTEED LENDERS INC PAC",
    "connected_org": null,
    "total": 2000.0
-  },
-  {
-   "committee_id": "C00323048",
-   "name": "ORACLE AMERICA, INC. POLITICAL ACTION COMMITTEE (ORACLE PAC)",
-   "connected_org": "ORACLE AMERICA, INC.",
-   "total": 1500.0
   },
   {
    "committee_id": "C00010322",
@@ -616,6 +622,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00197749",
+   "name": "TWDC ENTERPRISES 18 CORP. EMPLOYEES PAC AKA 'THE WALT DISNEY COMPANY EMPLOYEES PAC' OR 'DISNEY PAC'",
+   "connected_org": "TWDC ENTERPRISES 18 CORP.",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00176727",
    "name": "AMERICAN ASSOCIATION OF AIRPORT EXECUTIVES",
    "connected_org": "AMERICAN ASSOCIATION OF AIRPORT EXECUTIVES",
@@ -685,7 +697,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 144500.0
+   "total": 150000.0
   },
   {
    "type": "Trade association PACs",
@@ -701,7 +713,7 @@
   },
   {
    "type": "Other PACs",
-   "total": 0.0
+   "total": 2500.0
   }
  ],
  "outside_spending": {

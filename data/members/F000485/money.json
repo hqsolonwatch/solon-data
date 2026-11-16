@@ -496,6 +496,18 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00104901",
+   "name": "AKIN GUMP STRAUSS HAUER & FELD LLP CIVIC ACTION COMMITTEE (AKA AKIN GUMP PAC)",
+   "connected_org": "NONE",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00940635",
+   "name": "BRAINDOC PAC",
+   "connected_org": "COWAN",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00241380",
    "name": "ARENTFOX SCHIFF CIVIC PARTICIPATION FUND (AFSPAC)",
    "connected_org": "NONE",
@@ -517,7 +529,7 @@
  "pac_by_type": [
   {
    "type": "Leadership PACs (run by other politicians)",
-   "total": 103099.0
+   "total": 104099.0
   },
   {
    "type": "Corporate PACs",
@@ -529,7 +541,7 @@
   },
   {
    "type": "Other PACs",
-   "total": 40500.0
+   "total": 41500.0
   },
   {
    "type": "Membership group PACs",

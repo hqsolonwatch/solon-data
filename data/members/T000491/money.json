@@ -268,6 +268,12 @@
    "total": 7500.0
   },
   {
+   "committee_id": "C00275123",
+   "name": "LEONARDO DRS PAC",
+   "connected_org": null,
+   "total": 7500.0
+  },
+  {
    "committee_id": "C00550970",
    "name": "EQUALITY PAC",
    "connected_org": null,
@@ -301,6 +307,12 @@
    "committee_id": "C00508309",
    "name": "INDEPENDENT PHARMACY COOPERATIVE PAC ('IPC PAC')",
    "connected_org": "INDEPENDENT PHARMACY COOPERATIVE",
+   "total": 7000.0
+  },
+  {
+   "committee_id": "C00492025",
+   "name": "AMERICAN DEFENSE AND MILITARY PAC",
+   "connected_org": null,
    "total": 7000.0
   },
   {
@@ -490,12 +502,6 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00275123",
-   "name": "LEONARDO DRS PAC",
-   "connected_org": null,
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00589309",
    "name": "BLUE MOMENTUM PAC",
    "connected_org": "LIEU",
@@ -552,12 +558,6 @@
   {
    "committee_id": "C00894139",
    "name": "UPLIFT PAC",
-   "connected_org": null,
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00492025",
-   "name": "AMERICAN DEFENSE AND MILITARY PAC",
    "connected_org": null,
    "total": 5000.0
   },
@@ -640,6 +640,12 @@
    "total": 4500.0
   },
   {
+   "committee_id": "C00397851",
+   "name": "CENTENE CORPORATION POLITICAL ACTION COMMITTEE (CENTENE PAC)",
+   "connected_org": "CENTENE CORPORATION POLITICAL ACTION COMMITTEE (CENTENE PAC)",
+   "total": 4500.0
+  },
+  {
    "committee_id": "C00410308",
    "name": "SHORE PAC",
    "connected_org": "PALLONE",
@@ -691,6 +697,12 @@
    "committee_id": "C00785816",
    "name": "LIFTOFF PAC",
    "connected_org": "KELLY",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00067231",
+   "name": "HCA HEALTHCARE, INC. GOOD GOVERNMENT FUND",
+   "connected_org": "HCA HEALTHCARE, INC.",
    "total": 4000.0
   },
   {
@@ -886,6 +898,12 @@
    "total": 3000.0
   },
   {
+   "committee_id": "C00444117",
+   "name": "DEMOCRATIC CLUB OF WEST ORANGE COUNTY",
+   "connected_org": "NONE",
+   "total": 3000.0
+  },
+  {
    "committee_id": "C00107128",
    "name": "NATIONAL TREASURY EMPLOYEES UNION POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -943,18 +961,6 @@
    "committee_id": "C00657304",
    "name": "STANTON FOR CONGRESS",
    "connected_org": "STANTON ACTION FUND",
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00397851",
-   "name": "CENTENE CORPORATION POLITICAL ACTION COMMITTEE (CENTENE PAC)",
-   "connected_org": "CENTENE CORPORATION POLITICAL ACTION COMMITTEE (CENTENE PAC)",
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00067231",
-   "name": "HCA HEALTHCARE, INC. GOOD GOVERNMENT FUND",
-   "connected_org": "HCA HEALTHCARE, INC.",
    "total": 2500.0
   },
   {
@@ -1075,6 +1081,12 @@
    "committee_id": "C00211318",
    "name": "DELOITTE POLITICAL ACTION COMMITTEE",
    "connected_org": "NONE",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00091561",
+   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
+   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
    "total": 2500.0
   },
   {
@@ -1372,15 +1384,15 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00491050",
-   "name": "DAVIS DEMOCRATIC CLUB",
-   "connected_org": "NONE",
+   "committee_id": "C00000422",
+   "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN MEDICAL ASSOCIATION",
    "total": 2000.0
   },
   {
-   "committee_id": "C00091561",
-   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
-   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
+   "committee_id": "C00491050",
+   "name": "DAVIS DEMOCRATIC CLUB",
+   "connected_org": "NONE",
    "total": 2000.0
   },
   {
@@ -1414,12 +1426,6 @@
    "total": 1500.0
   },
   {
-   "committee_id": "C00444117",
-   "name": "DEMOCRATIC CLUB OF WEST ORANGE COUNTY",
-   "connected_org": "NONE",
-   "total": 1500.0
-  },
-  {
    "committee_id": "C00659771",
    "name": "WIN THE HOUSE NOW PAC",
    "connected_org": null,
@@ -1447,6 +1453,12 @@
    "committee_id": "C00930727",
    "name": "Y COMBINATOR MANAGEMENT, LLC POLITICAL COMMITTEE (LITTLE TECH PAC)",
    "connected_org": "Y COMBINATOR MANAGEMENT, LLC",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00946111",
+   "name": "ANTHROPIC PBC POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
    "total": 1500.0
   },
   {
@@ -2071,15 +2083,15 @@
  "pac_by_type": [
   {
    "type": "Leadership PACs (run by other politicians)",
-   "total": 290500.0
+   "total": 292500.0
   },
   {
    "type": "Corporate PACs",
-   "total": 256520.0
+   "total": 264020.0
   },
   {
    "type": "Other PACs",
-   "total": 248901.0
+   "total": 252901.0
   },
   {
    "type": "Labor union PACs",

@@ -100,6 +100,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00022343",
+   "name": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
+   "connected_org": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC.",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00327189",
    "name": "VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE",
    "connected_org": "MCMORRIS RODGERS WIN THE FUTURE FUND",
@@ -163,13 +169,19 @@
    "committee_id": "C00214981",
    "name": "TEXAS FARM BUREAU AGFUND",
    "connected_org": "TEXAS FARM BUREAU",
-   "total": 9600.0
+   "total": 9613.0
   },
   {
    "committee_id": "C00429217",
    "name": "TEXAS INTERNATIONAL PRODUCE ASSN TEX PAC",
    "connected_org": null,
    "total": 9500.0
+  },
+  {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
+   "total": 9000.0
   },
   {
    "committee_id": "C00107235",
@@ -184,21 +196,21 @@
    "total": 8500.0
   },
   {
-   "committee_id": "C00022343",
-   "name": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
-   "connected_org": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC.",
-   "total": 7500.0
-  },
-  {
-   "committee_id": "C00000901",
-   "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
-   "connected_org": "NATIONAL ASSOCIATION OF HOME BUILDERS",
-   "total": 7000.0
+   "committee_id": "C00015552",
+   "name": "BEEF-PAC (BEEF POLITICAL ACTION COMMITTEE OF TEXAS CATTLE FEEDERS ASSOCIATION)",
+   "connected_org": "TEXAS CATTLE FEEDERS ASSOCIATION",
+   "total": 8500.0
   },
   {
    "committee_id": "C00447565",
    "name": "FINSECA PAC",
    "connected_org": "FINSECA",
+   "total": 8000.0
+  },
+  {
+   "committee_id": "C00000901",
+   "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+   "connected_org": "NATIONAL ASSOCIATION OF HOME BUILDERS",
    "total": 7000.0
   },
   {
@@ -218,12 +230,6 @@
    "name": "DELL TECHNOLOGIES, INC. POLITICAL ACTION COMMITTEE",
    "connected_org": null,
    "total": 6500.0
-  },
-  {
-   "committee_id": "C00015552",
-   "name": "BEEF-PAC (BEEF POLITICAL ACTION COMMITTEE OF TEXAS CATTLE FEEDERS ASSOCIATION)",
-   "connected_org": "TEXAS CATTLE FEEDERS ASSOCIATION",
-   "total": 6000.0
   },
   {
    "committee_id": "C00503847",
@@ -265,12 +271,6 @@
    "committee_id": "C00807412",
    "name": "HELLFIRE PAC",
    "connected_org": null,
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 5000.0
   },
   {
@@ -460,9 +460,21 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00060087",
+   "name": "STANLEY BLACK & DECKER, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00764761",
    "name": "START RISING PAC",
    "connected_org": "LETLOW",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00683508",
+   "name": "FOREVER YOUTH ORGANIZATION UTILIZING A NEW GENERATION PAC",
+   "connected_org": "KIM VICTORY FUND",
    "total": 5000.0
   },
   {
@@ -676,6 +688,12 @@
    "total": 3500.0
   },
   {
+   "committee_id": "C00430256",
+   "name": "MOLINA HEALTHCARE, INC. PAC",
+   "connected_org": "MOLINA HEALTHCARE INC",
+   "total": 3500.0
+  },
+  {
    "committee_id": "C00937508",
    "name": "PROTECT AMERICA",
    "connected_org": null,
@@ -685,6 +703,12 @@
    "committee_id": "C00903898",
    "name": "DELIVER ENERGIZE SUCCEED PAC",
    "connected_org": "DESMOND",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00940122",
+   "name": "TIMBERLINE PAC",
+   "connected_org": "BRAUN",
    "total": 3500.0
   },
   {
@@ -751,6 +775,12 @@
    "committee_id": "C00040535",
    "name": "AMERICAN EXPRESS COMPANY POLITICAL ACTION COMMITTEE (AXPPAC)",
    "connected_org": "AMERICAN EXPRESS COMPANY",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00878389",
+   "name": "HEAL AMERICA",
+   "connected_org": "KENNEDY",
    "total": 3000.0
   },
   {
@@ -922,15 +952,27 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00060087",
-   "name": "STANLEY BLACK & DECKER, INC. POLITICAL ACTION COMMITTEE",
+   "committee_id": "C00681437",
+   "name": "HSBC TECHNOLOGY AND SERVICES USA INC. FEDERAL PAC (HSBC FEDERAL PAC)",
    "connected_org": null,
    "total": 2500.0
   },
   {
-   "committee_id": "C00681437",
-   "name": "HSBC TECHNOLOGY AND SERVICES USA INC. FEDERAL PAC (HSBC FEDERAL PAC)",
+   "committee_id": "C00692806",
+   "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION FEDERAL ONLY POLITICAL ACTION COMMITTEE (INSURING AMERICA FOPAC)",
+   "connected_org": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00235036",
+   "name": "ZURICH HOLDING COMPANY OF AMERICA, INC. COMMITTEE FOR GOOD GOVERNMENT (Z-PAC, ZURICH PAC)",
    "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00820787",
+   "name": "B BRIGADE MAJORITY FUND",
+   "connected_org": "BARRETT",
    "total": 2500.0
   },
   {
@@ -1138,9 +1180,9 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00878389",
-   "name": "HEAL AMERICA",
-   "connected_org": "KENNEDY",
+   "committee_id": "C00857359",
+   "name": "BRANDON GILL FOR TEXAS",
+   "connected_org": "BRANDON GILL VICTORY FUND",
    "total": 2000.0
   },
   {
@@ -1384,12 +1426,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00430256",
-   "name": "MOLINA HEALTHCARE, INC. PAC",
-   "connected_org": "MOLINA HEALTHCARE INC",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00333104",
    "name": "THE AMERICAN SOCIETY OF PENSION PROFESSIONALS AND ACTUARIES POLITICAL ACTION COMMITTEE (ASPPA-NAPA PAC) A/K/A AMERICAN RETIREMENT ASSOCIATION POLITICAL ACTION COMMITTEE (ARA PAC)",
    "connected_org": null,
@@ -1555,15 +1591,15 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 232724.0
+   "total": 240224.0
   },
   {
    "type": "Trade association PACs",
-   "total": 212000.0
+   "total": 224500.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
-   "total": 199000.0
+   "total": 211000.0
   },
   {
    "type": "Other PACs",
@@ -1571,11 +1607,11 @@
   },
   {
    "type": "Membership group PACs",
-   "total": 89704.0
+   "total": 89717.0
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 24000.0
+   "total": 26000.0
   },
   {
    "type": "Cooperative PACs",
@@ -1587,8 +1623,8 @@
   }
  ],
  "outside_spending": {
-  "support_total": 0.0,
-  "oppose_total": 2075531.0,
+  "support_total": 118899.0,
+  "oppose_total": 2742685.0,
   "spenders": [
    {
     "committee_id": "C00495028",
@@ -1597,10 +1633,28 @@
     "oppose": 1860296.0
    },
    {
+    "committee_id": "C00707844",
+    "name": "EDF ACTION VOTES",
+    "support": 0.0,
+    "oppose": 667154.0
+   },
+   {
     "committee_id": "C00492140",
     "name": "AB PAC",
     "support": 0.0,
     "oppose": 215000.0
+   },
+   {
+    "committee_id": "C00960435",
+    "name": "NO GOING BACK PAC INC.",
+    "support": 89262.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00879510",
+    "name": "AMERICA PAC",
+    "support": 29637.0,
+    "oppose": 0.0
    },
    {
     "committee_id": "C00955138",

@@ -145,7 +145,7 @@
    "committee_id": "C00214981",
    "name": "TEXAS FARM BUREAU AGFUND",
    "connected_org": "TEXAS FARM BUREAU",
-   "total": 9600.0
+   "total": 9613.0
   },
   {
    "committee_id": "C00696591",
@@ -157,6 +157,12 @@
    "committee_id": "C00002972",
    "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
    "connected_org": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION (NRECA)",
+   "total": 8000.0
+  },
+  {
+   "committee_id": "C00015552",
+   "name": "BEEF-PAC (BEEF POLITICAL ACTION COMMITTEE OF TEXAS CATTLE FEEDERS ASSOCIATION)",
+   "connected_org": "TEXAS CATTLE FEEDERS ASSOCIATION",
    "total": 8000.0
   },
   {
@@ -226,12 +232,6 @@
    "total": 6000.0
   },
   {
-   "committee_id": "C00015552",
-   "name": "BEEF-PAC (BEEF POLITICAL ACTION COMMITTEE OF TEXAS CATTLE FEEDERS ASSOCIATION)",
-   "connected_org": "TEXAS CATTLE FEEDERS ASSOCIATION",
-   "total": 5500.0
-  },
-  {
    "committee_id": "C00001198",
    "name": "AMERICAN HOTEL AND LODGING ASSOCIATION POLITICAL ACTION COMMITTEE ('HOTELPAC')",
    "connected_org": null,
@@ -292,6 +292,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00035451",
+   "name": "AIR LINE PILOTS ASSOCIATION PAC",
+   "connected_org": "AIR LINE PILOTS ASSOCIATION",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00503847",
    "name": "TEXAS CORN PAC OF THE TEXAS CORN PRODUCERS ASSOCIATION",
    "connected_org": "TEXAS CORN PRODUCERS ASSOCIATION",
@@ -301,6 +307,12 @@
    "committee_id": "C00439398",
    "name": "TEXAS FIRST PAC",
    "connected_org": "CUELLAR",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00063164",
+   "name": "MCDONALDS CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "MCDONALDS CORPORATION",
    "total": 5000.0
   },
   {
@@ -370,6 +382,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00513549",
+   "name": "PHILLIPS 66 PAC",
+   "connected_org": "PHILLIPS 66",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00411116",
    "name": "SPACE EXPLORATION TECHNOLOGIES CORP. PAC",
    "connected_org": "SPACE EXPLORATION TECHNOLOGIES CORP.",
@@ -397,6 +415,12 @@
    "committee_id": "C00089458",
    "name": "NATIONAL STONE, SAND & GRAVEL ASSOCIATION ROCKPAC",
    "connected_org": "NATIONAL STONE, SAND AND GRAVEL ASSOCIATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00640490",
+   "name": "ONWARD TOGETHER COMMITTEE",
+   "connected_org": "ONWARD TOGETHER",
    "total": 5000.0
   },
   {
@@ -436,6 +460,12 @@
    "total": 4500.0
   },
   {
+   "committee_id": "C00905505",
+   "name": "ROBOTIC RESEARCH OPCO LLC-FORTERRA POLITICAL ACTION COMMITTEE",
+   "connected_org": "ROBOTIC RESEARCH OPCO LLC",
+   "total": 4500.0
+  },
+  {
    "committee_id": "C00114025",
    "name": "NATIONAL READY MIXED CONCRETE ASSN. PAC (CONCRETEPAC)",
    "connected_org": null,
@@ -466,12 +496,6 @@
    "total": 4000.0
   },
   {
-   "committee_id": "C00035451",
-   "name": "AIR LINE PILOTS ASSOCIATION PAC",
-   "connected_org": "AIR LINE PILOTS ASSOCIATION",
-   "total": 3500.0
-  },
-  {
    "committee_id": "C00488262",
    "name": "NETJETS ASSOCIATION OF SHARED AIRCRAFT PILOTS PAC; NJASAP PAC",
    "connected_org": null,
@@ -490,9 +514,9 @@
    "total": 3500.0
   },
   {
-   "committee_id": "C00905505",
-   "name": "ROBOTIC RESEARCH OPCO LLC-FORTERRA POLITICAL ACTION COMMITTEE",
-   "connected_org": "ROBOTIC RESEARCH OPCO LLC",
+   "committee_id": "C00116020",
+   "name": "VULCAN MATERIALS COMPANY POLITICAL ACTION COMMITTEE",
+   "connected_org": "VULCAN MATERIALS COMPANY",
    "total": 3500.0
   },
   {
@@ -535,6 +559,12 @@
    "committee_id": "C00340943",
    "name": "DAVITA INC. POLITICAL ACTION COMMITTEE (DAPAC)",
    "connected_org": "DAVITA INC.",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00421230",
+   "name": "AIRBUS AMERICAS, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "AIRBUS AMERICAS, INC.",
    "total": 3000.0
   },
   {
@@ -595,18 +625,6 @@
    "committee_id": "C00113811",
    "name": "NATIONAL ELECTRICAL CONTRACTORS ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "NATIONAL ELECTRICAL CONTRACTORS ASSOCIATION",
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00421230",
-   "name": "AIRBUS AMERICAS, INC. POLITICAL ACTION COMMITTEE",
-   "connected_org": "AIRBUS AMERICAS, INC.",
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00063164",
-   "name": "MCDONALDS CORPORATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "MCDONALDS CORPORATION",
    "total": 2500.0
   },
   {
@@ -730,12 +748,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00116020",
-   "name": "VULCAN MATERIALS COMPANY POLITICAL ACTION COMMITTEE",
-   "connected_org": "VULCAN MATERIALS COMPANY",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00215285",
    "name": "GENERAL ATOMICS POLITICAL ACTION COMMITTEE",
    "connected_org": "GENERAL ATOMICS",
@@ -778,12 +790,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00513549",
-   "name": "PHILLIPS 66 PAC",
-   "connected_org": "PHILLIPS 66",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00394163",
    "name": "PHYSICIAN-LED HEALTHCARE FOR AMERICA POLITICAL ACTION COMMITTEE (PHA PAC)",
    "connected_org": null,
@@ -805,6 +811,12 @@
    "committee_id": "C00771196",
    "name": "VETERANS GUARDIAN VA CLAIM CONSULTING PAC (VETGUARD PAC)",
    "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00566562",
+   "name": "BACKPAC",
+   "connected_org": "BEYER",
    "total": 2500.0
   },
   {
@@ -964,6 +976,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00329425",
+   "name": "BURGER KING FRANCHISEE PAC",
+   "connected_org": "BURGER KING",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00842898",
    "name": "HOUSTON PILOTS PAC",
    "connected_org": null,
@@ -1016,6 +1034,12 @@
    "name": "NATIONAL TURKEY FEDERATION POLITICAL ACTION COMMITEE/TURPAC",
    "connected_org": "NATIONAL TURKEY FEDERATION",
    "total": 1500.0
+  },
+  {
+   "committee_id": "C00946111",
+   "name": "ANTHROPIC PBC POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 1250.0
   },
   {
    "committee_id": "C00197160",
@@ -1378,6 +1402,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00789164",
+   "name": "FOOD SOLUTIONS ACTION PAC (FSA PAC)",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00040329",
    "name": "NATIONAL RETAIL FEDERATION RETAILPAC",
    "connected_org": null,
@@ -1393,6 +1423,12 @@
    "committee_id": "C00147173",
    "name": "WINE AND SPIRITS WHOLESALERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE",
    "connected_org": "WINE & SPIRITS WHOLESALERS OF AMERICA",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00309716",
+   "name": "PLASTICS INDUSTRY ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "PLASTICS INDUSTRY ASSOCIATIONS, INC",
    "total": 1000.0
   },
   {
@@ -1444,6 +1480,12 @@
    "total": 500.0
   },
   {
+   "committee_id": "C00009985",
+   "name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
+   "connected_org": "NATIONAL ASSOCIATION OF BROADCASTERS",
+   "total": 500.0
+  },
+  {
    "committee_id": "C00559542",
    "name": "NATIONAL ASSOCIATION OF ROYALTY OWNERS PAC (NARO PAC)",
    "connected_org": "NATIONAL ASSOCIATION OF ROYALTY OWNERS",
@@ -1471,27 +1513,27 @@
  "pac_by_type": [
   {
    "type": "Trade association PACs",
-   "total": 213000.0
+   "total": 219000.0
   },
   {
    "type": "Corporate PACs",
-   "total": 184500.0
+   "total": 193250.0
   },
   {
    "type": "Other PACs",
    "total": 117333.0
   },
   {
-   "type": "Leadership PACs (run by other politicians)",
-   "total": 93000.0
+   "type": "Membership group PACs",
+   "total": 97413.0
   },
   {
-   "type": "Membership group PACs",
-   "total": 91400.0
+   "type": "Leadership PACs (run by other politicians)",
+   "total": 95500.0
   },
   {
    "type": "Labor union PACs",
-   "total": 73000.0
+   "total": 74500.0
   },
   {
    "type": "Other candidates’ campaigns",
@@ -1507,8 +1549,8 @@
   }
  ],
  "outside_spending": {
-  "support_total": 194645.0,
-  "oppose_total": 2903032.0,
+  "support_total": 196806.0,
+  "oppose_total": 3087486.0,
   "spenders": [
    {
     "committee_id": "C00504530",
@@ -1523,6 +1565,18 @@
     "oppose": 0.0
    },
    {
+    "committee_id": "C00960435",
+    "name": "NO GOING BACK PAC INC.",
+    "support": 0.0,
+    "oppose": 105245.0
+   },
+   {
+    "committee_id": "C00879510",
+    "name": "AMERICA PAC",
+    "support": 0.0,
+    "oppose": 79209.0
+   },
+   {
     "committee_id": "C00030718",
     "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
     "support": 10387.0,
@@ -1532,6 +1586,12 @@
     "committee_id": "C90020231",
     "name": "THOMAS PAINE SOCIETY L.L.C.",
     "support": 10290.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00959973",
+    "name": "LUPE VOTES FEDERAL SUPER PAC, INC.",
+    "support": 2161.0,
     "oppose": 0.0
    },
    {

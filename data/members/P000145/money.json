@@ -124,6 +124,12 @@
    "total": 3500.0
   },
   {
+   "committee_id": "C00946111",
+   "name": "ANTHROPIC PBC POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 3500.0
+  },
+  {
    "committee_id": "C00161570",
    "name": "AMERICAN PUBLIC POWER ASSOCIATION, PUBLIC OWNERSHIP OF ELECTRIC RESOURCES PAC",
    "connected_org": "AMERICAN PUBLIC POWER ASSOCIATION",
@@ -295,6 +301,12 @@
    "committee_id": "C00311878",
    "name": "MEDTRONIC INC. PAC",
    "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00204453",
+   "name": "KING & SPALDING NONPARTISAN COMMITTEE FOR GOOD GOVERNMENT",
+   "connected_org": "NONE",
    "total": 2000.0
   },
   {
@@ -475,7 +487,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 93500.0
+   "total": 97000.0
   },
   {
    "type": "Trade association PACs",
@@ -483,7 +495,7 @@
   },
   {
    "type": "Other PACs",
-   "total": 18500.0
+   "total": 20500.0
   },
   {
    "type": "Labor union PACs",

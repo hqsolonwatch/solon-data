@@ -304,9 +304,21 @@
    "total": 3500.0
   },
   {
+   "committee_id": "C00725184",
+   "name": "EAST WEST BANCORP, INC POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 3500.0
+  },
+  {
    "committee_id": "C00938571",
    "name": "FIGHT FOR FAIR LINES PAC",
    "connected_org": "NONE",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 3500.0
   },
   {
@@ -403,12 +415,6 @@
    "committee_id": "C00007880",
    "name": "AMERICA'S CREDIT UNIONS PAC",
    "connected_org": "AMERICA'S CREDIT UNIONS",
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 2500.0
   },
   {
@@ -598,12 +604,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00725184",
-   "name": "EAST WEST BANCORP, INC POLITICAL ACTION COMMITTEE",
-   "connected_org": null,
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00283135",
    "name": "NATIONAL ASSOCIATION OF BENEFITS AND INSURANCE PROFESSIONALS PAC (NABIP PAC)",
    "connected_org": "NATIONAL ASSOCIATION OF BENEFITS AND INSURANCE PROFESSIONALS",
@@ -681,7 +681,7 @@
   },
   {
    "type": "Corporate PACs",
-   "total": 82750.0
+   "total": 85250.0
   },
   {
    "type": "Membership group PACs",
@@ -693,7 +693,7 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 34500.0
+   "total": 35500.0
   },
   {
    "type": "Cooperative PACs",

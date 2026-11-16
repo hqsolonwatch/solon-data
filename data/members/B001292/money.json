@@ -40,6 +40,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00012245",
+   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+   "connected_org": "UBS AMERICAS INC.",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00011114",
    "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
    "connected_org": "AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES, AFL-CIO",
@@ -70,6 +76,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00091561",
+   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
+   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00005249",
    "name": "NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS POLITICAL ACTION COMM",
    "connected_org": "NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS",
@@ -85,6 +97,12 @@
    "committee_id": "C00211318",
    "name": "DELOITTE POLITICAL ACTION COMMITTEE",
    "connected_org": "NONE",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00130773",
+   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
+   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
    "total": 10000.0
   },
   {
@@ -118,15 +136,15 @@
    "total": 8500.0
   },
   {
+   "committee_id": "C00447565",
+   "name": "FINSECA PAC",
+   "connected_org": "FINSECA",
+   "total": 8000.0
+  },
+  {
    "committee_id": "C00303339",
    "name": "NATIONAL ASSOCIATION OF REAL ESTATE INVESTMENT TRUSTS, INC. POLITICAL ACTION COMMITTEE",
    "connected_org": "NATIONAL ASSOCIATION OF REAL ESTATE INVESTMENT TRUSTS, INC.",
-   "total": 7500.0
-  },
-  {
-   "committee_id": "C00012245",
-   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
-   "connected_org": "UBS AMERICAS INC.",
    "total": 7500.0
   },
   {
@@ -145,6 +163,12 @@
    "committee_id": "C00380550",
    "name": "FMR LLC POLITICAL ACTION COMMITTEE - FEDERAL (FIDELITY PAC)",
    "connected_org": null,
+   "total": 6500.0
+  },
+  {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 6500.0
   },
   {
@@ -190,12 +214,6 @@
    "total": 6000.0
   },
   {
-   "committee_id": "C00447565",
-   "name": "FINSECA PAC",
-   "connected_org": "FINSECA",
-   "total": 5500.0
-  },
-  {
    "committee_id": "C00004275",
    "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
    "connected_org": "AMERICAN BANKERS ASSOCIATION (ABA)",
@@ -235,6 +253,12 @@
    "committee_id": "C00001016",
    "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
    "connected_org": "UNITED BROTHERHOOD OF CARPENTERS AND JOINERS OF AMERICA",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00507962",
+   "name": "AES CORPORATION POLITICAL ACTION COMMITTEE; THE",
+   "connected_org": "AES CORPORATION",
    "total": 5000.0
   },
   {
@@ -298,12 +322,6 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00091561",
-   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
-   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00259572",
    "name": "AMERICAN CLEAN POWER ASSOCIATION CLEANPOWER PAC",
    "connected_org": "AMERICAN CLEAN POWER ASSOCIATION",
@@ -325,12 +343,6 @@
    "committee_id": "C00078451",
    "name": "GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GENERAL DYNAMICS EMPLOYEE PAC)",
    "connected_org": "GENERAL DYNAMICS CORPORATION",
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 5000.0
   },
   {
@@ -370,21 +382,27 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00130773",
-   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
-   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00383950",
    "name": "NATIONAL ELEVATOR CONSTRUCTORS PAC/ INTN'L  UNION OF ELEVATOR CONSTRUCTORS (NEC PAC)",
    "connected_org": "INT'L UNION OF ELEVATOR CONSTRUCTORS",
    "total": 5000.0
   },
   {
+   "committee_id": "C00004812",
+   "name": "MORTGAGE BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE (MORPAC)",
+   "connected_org": "MORTGAGE BANKERS ASSOCIATION",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00033779",
    "name": "THE REAL ESTATE ROUNDTABLE POLITICAL ACTION COMMITTEE (REALPAC)",
    "connected_org": "THE REAL ESTATE ROUNDTABLE",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00566562",
+   "name": "BACKPAC",
+   "connected_org": "BEYER",
    "total": 5000.0
   },
   {
@@ -406,9 +424,9 @@
    "total": 4500.0
   },
   {
-   "committee_id": "C00507962",
-   "name": "AES CORPORATION POLITICAL ACTION COMMITTEE; THE",
-   "connected_org": "AES CORPORATION",
+   "committee_id": "C00329185",
+   "name": "QUEST DIAGNOSTICS INCORPORATED POLITICAL ACTION COMMITTEE",
+   "connected_org": "QUEST DIAGNOSTICS INCORPORATED",
    "total": 4000.0
   },
   {
@@ -706,12 +724,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00004812",
-   "name": "MORTGAGE BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE (MORPAC)",
-   "connected_org": "MORTGAGE BANKERS ASSOCIATION",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00375048",
    "name": "CONSUMER TECHNOLOGY ASSOCIATION PAC",
    "connected_org": "CONSUMER TECHNOLOGY ASSOCIATION",
@@ -757,12 +769,6 @@
    "committee_id": "C00371948",
    "name": "BRIDGESTONE AMERICAS INC. PAC",
    "connected_org": "BRIDGESTONE AMERICAS INC.",
-   "total": 2000.0
-  },
-  {
-   "committee_id": "C00032995",
-   "name": "AMALGAMATED TRANSIT UNION - COPE",
-   "connected_org": "AMALGAMATED TRANSIT UNION",
    "total": 2000.0
   },
   {
@@ -886,12 +892,6 @@
    "total": 1799.0
   },
   {
-   "committee_id": "C00329185",
-   "name": "QUEST DIAGNOSTICS INCORPORATED POLITICAL ACTION COMMITTEE",
-   "connected_org": "QUEST DIAGNOSTICS INCORPORATED",
-   "total": 1500.0
-  },
-  {
    "committee_id": "C00447284",
    "name": "NATIONAL ASSOCIATION OF PROFESSIONAL EMPLOYER ORGANIZATIONS (NAPEO PAC)",
    "connected_org": "NATIONAL ASSOCIATION OF PROFESSIONAL EMPLOYER ORGANIZATIONS (NAPEO PAC)",
@@ -973,6 +973,12 @@
    "committee_id": "C00197095",
    "name": "THE NORTHWESTERN MUTUAL LIFE INSURANCE COMPANY POLITICAL ACTION COMMITTEE (NMPAC)",
    "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00032995",
+   "name": "AMALGAMATED TRANSIT UNION - COPE",
+   "connected_org": "AMALGAMATED TRANSIT UNION",
    "total": 1000.0
   },
   {
@@ -1222,6 +1228,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00545202",
+   "name": "THE CENTER FOR FREETHOUGHT EQUALITY PAC",
+   "connected_org": "THE CENTER FOR FREETHOUGHT EQUALITY",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00479899",
    "name": "WOOLPERT, INC. PAC",
    "connected_org": "WOOLPERT, INC.",
@@ -1267,27 +1279,27 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 304299.0
+   "total": 310299.0
   },
   {
    "type": "Trade association PACs",
-   "total": 141250.0
+   "total": 152750.0
   },
   {
    "type": "Labor union PACs",
-   "total": 98000.0
+   "total": 97000.0
   },
   {
    "type": "Membership group PACs",
-   "total": 72800.0
+   "total": 73800.0
   },
   {
    "type": "Other PACs",
-   "total": 48500.0
+   "total": 53500.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
-   "total": 11000.0
+   "total": 16000.0
   },
   {
    "type": "Cooperative PACs",
@@ -1299,9 +1311,16 @@
   }
  ],
  "outside_spending": {
-  "support_total": 0,
-  "oppose_total": 0,
-  "spenders": [],
+  "support_total": 10.0,
+  "oppose_total": 0.0,
+  "spenders": [
+   {
+    "committee_id": "C00483693",
+    "name": "SIERRA CLUB INDEPENDENT ACTION",
+    "support": 10.0,
+    "oppose": 0.0
+   }
+  ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
  "detail": {

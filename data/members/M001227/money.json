@@ -262,6 +262,12 @@
    "total": 5500.0
   },
   {
+   "committee_id": "C00384818",
+   "name": "CVS HEALTH PAC",
+   "connected_org": "CVS HEALTH",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00007880",
    "name": "AMERICA'S CREDIT UNIONS PAC",
    "connected_org": "AMERICA'S CREDIT UNIONS",
@@ -313,6 +319,12 @@
    "committee_id": "C00303024",
    "name": "LOCKHEED MARTIN CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
    "connected_org": "LOCKHEED MARTIN CORPORATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00032995",
+   "name": "AMALGAMATED TRANSIT UNION - COPE",
+   "connected_org": "AMALGAMATED TRANSIT UNION",
    "total": 5000.0
   },
   {
@@ -538,12 +550,6 @@
    "total": 2999.0
   },
   {
-   "committee_id": "C00384818",
-   "name": "CVS HEALTH PAC",
-   "connected_org": "CVS HEALTH",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00300178",
    "name": "WELLS FARGO AND COMPANY EMPLOYEES GOOD GOVERNMENT FEDERAL FUND II",
    "connected_org": "WELLS FARGO AND COMPANY",
@@ -589,12 +595,6 @@
    "committee_id": "C00113241",
    "name": "NATIONAL APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "NATIONAL APARTMENT ASSOCIATION",
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00032995",
-   "name": "AMALGAMATED TRANSIT UNION - COPE",
-   "connected_org": "AMALGAMATED TRANSIT UNION",
    "total": 2500.0
   },
   {
@@ -712,6 +712,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00067231",
+   "name": "HCA HEALTHCARE, INC. GOOD GOVERNMENT FUND",
+   "connected_org": "HCA HEALTHCARE, INC.",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00567388",
    "name": "NEXSTAR MEDIA GROUP, INC. POLITICAL ACTION COMMITTEE (NEXSTAR PAC)",
    "connected_org": "NEXSTAR MEDIA GROUP, INC.",
@@ -766,6 +772,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00357863",
+   "name": "BOSTON SCIENTIFIC CORPORATION POLITICAL ACTION COMMITTEE (BSC PAC)",
+   "connected_org": "BOSTON SCIENTIFIC CORPORATION",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00462861",
    "name": "KUSTER FOR CONGRESS, INC",
    "connected_org": "ANNIE KUSTER VICTORY FUND",
@@ -781,6 +793,12 @@
    "committee_id": "C00206136",
    "name": "AMEREN CORPORATION FEDERAL POLITICAL ACTION COMMITTEE (AMEREN FEDPAC)",
    "connected_org": "AMEREN CORPORATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00197749",
+   "name": "TWDC ENTERPRISES 18 CORP. EMPLOYEES PAC AKA 'THE WALT DISNEY COMPANY EMPLOYEES PAC' OR 'DISNEY PAC'",
+   "connected_org": "TWDC ENTERPRISES 18 CORP.",
    "total": 2000.0
   },
   {
@@ -1054,12 +1072,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00357863",
-   "name": "BOSTON SCIENTIFIC CORPORATION POLITICAL ACTION COMMITTEE (BSC PAC)",
-   "connected_org": "BOSTON SCIENTIFIC CORPORATION",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00395285",
    "name": "FRAMATOME INC PAC",
    "connected_org": "FRAMATOME INC.",
@@ -1069,12 +1081,6 @@
    "committee_id": "C00793711",
    "name": "CONSTELLATION ENERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (CEPAC)",
    "connected_org": "CONSTELLATION ENERGY CORPORATION",
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00197749",
-   "name": "TWDC ENTERPRISES 18 CORP. EMPLOYEES PAC AKA 'THE WALT DISNEY COMPANY EMPLOYEES PAC' OR 'DISNEY PAC'",
-   "connected_org": "TWDC ENTERPRISES 18 CORP.",
    "total": 1000.0
   },
   {
@@ -1276,6 +1282,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00063164",
+   "name": "MCDONALDS CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "MCDONALDS CORPORATION",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00602698",
    "name": "AMERICAN WOOD COUNCIL POLITICAL ACTION COMMITTEE (WOOD-PAC)",
    "connected_org": "AMERICAN WOOD COUNCIL",
@@ -1309,6 +1321,12 @@
    "committee_id": "C00084871",
    "name": "CELANESE CORPORATION POLITICAL ACTION COMMITTEE",
    "connected_org": "CELANESE CORPORATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00004812",
+   "name": "MORTGAGE BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE (MORPAC)",
+   "connected_org": "MORTGAGE BANKERS ASSOCIATION",
    "total": 1000.0
   },
   {
@@ -1363,15 +1381,15 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 383549.0
+   "total": 391549.0
   },
   {
    "type": "Trade association PACs",
-   "total": 119000.0
+   "total": 120000.0
   },
   {
    "type": "Labor union PACs",
-   "total": 73107.0
+   "total": 75607.0
   },
   {
    "type": "Membership group PACs",

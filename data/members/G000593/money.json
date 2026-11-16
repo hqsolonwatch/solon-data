@@ -178,6 +178,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00130773",
+   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
+   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00238725",
    "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
    "connected_org": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION",
@@ -241,6 +247,12 @@
    "committee_id": "C00303024",
    "name": "LOCKHEED MARTIN CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
    "connected_org": "LOCKHEED MARTIN CORPORATION",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00084491",
+   "name": "INTERNATIONAL FRANCHISE ASSOCIATION FRANCHISING POLITICAL ACTION COMMITTEE INC",
+   "connected_org": null,
    "total": 3000.0
   },
   {
@@ -340,12 +352,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00130773",
-   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
-   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00035006",
    "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
    "connected_org": "CHEVRON CORPORATION",
@@ -364,10 +370,10 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00084491",
-   "name": "INTERNATIONAL FRANCHISE ASSOCIATION FRANCHISING POLITICAL ACTION COMMITTEE INC",
-   "connected_org": null,
-   "total": 2000.0
+   "committee_id": "C00104901",
+   "name": "AKIN GUMP STRAUSS HAUER & FELD LLP CIVIC ACTION COMMITTEE (AKA AKIN GUMP PAC)",
+   "connected_org": "NONE",
+   "total": 2250.0
   },
   {
    "committee_id": "C00341602",
@@ -550,6 +556,18 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00197749",
+   "name": "TWDC ENTERPRISES 18 CORP. EMPLOYEES PAC AKA 'THE WALT DISNEY COMPANY EMPLOYEES PAC' OR 'DISNEY PAC'",
+   "connected_org": "TWDC ENTERPRISES 18 CORP.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00009985",
+   "name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
+   "connected_org": "NATIONAL ASSOCIATION OF BROADCASTERS",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00325092",
    "name": "HUNTINGTON INGALLS INDUSTRIES, INC. EMPLOYEES POLITICAL ACTION COMMITTEE (HIIPAC)",
    "connected_org": "HUNTINGTON INGALLS INDUSTRIES, INC.",
@@ -584,12 +602,6 @@
    "name": "FLORIDA SUGAR CANE LEAGUE PAC",
    "connected_org": "FLORIDA SUGAR CANE LEAGUE",
    "total": 1000.0
-  },
-  {
-   "committee_id": "C00104901",
-   "name": "AKIN GUMP STRAUSS HAUER & FELD LLP CIVIC ACTION COMMITTEE (AKA AKIN GUMP PAC)",
-   "connected_org": "NONE",
-   "total": 750.0
   },
   {
    "committee_id": "C00857664",
@@ -637,15 +649,15 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 161500.0
+   "total": 162500.0
   },
   {
    "type": "Trade association PACs",
-   "total": 62500.0
+   "total": 67000.0
   },
   {
    "type": "Other PACs",
-   "total": 45750.0
+   "total": 47250.0
   },
   {
    "type": "Membership group PACs",

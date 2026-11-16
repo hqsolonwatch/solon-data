@@ -190,6 +190,12 @@
    "total": 6050.0
   },
   {
+   "committee_id": "C00032995",
+   "name": "AMALGAMATED TRANSIT UNION - COPE",
+   "connected_org": "AMALGAMATED TRANSIT UNION",
+   "total": 6000.0
+  },
+  {
    "committee_id": "C00359539",
    "name": "AMERICAN ACADEMY OF DERMATOLOGY ASSOCIATION POLITICAL ACTION COMMITTEE (SKINPAC)",
    "connected_org": "AMERICAN ACADEMY OF DERMATOLOGY ASSOCIATION",
@@ -382,12 +388,6 @@
    "total": 3500.0
   },
   {
-   "committee_id": "C00032995",
-   "name": "AMALGAMATED TRANSIT UNION - COPE",
-   "connected_org": "AMALGAMATED TRANSIT UNION",
-   "total": 3500.0
-  },
-  {
    "committee_id": "C00734012",
    "name": "ASCO ASSOCIATION POLITICAL ACTION COMMITTEE (ASCO ASSOCIATION PAC)",
    "connected_org": "ASCO ASSOCIATION",
@@ -448,15 +448,33 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00789164",
+   "name": "FOOD SOLUTIONS ACTION PAC (FSA PAC)",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00023580",
    "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
    "connected_org": "BRANCH 193 NATIONAL ASSOCIATION OF LETTER CARRIERS POLITICAL ACTION COMMITTEE",
    "total": 2500.0
   },
   {
+   "committee_id": "C00238204",
+   "name": "PAKISTANI AMERICAN PUBLIC AFFAIRS COMMITTEE PAK-PAC",
+   "connected_org": "NONE",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00000422",
    "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN MEDICAL ASSOCIATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00009936",
+   "name": "AMERICAN FEDERATION OF GOVT. EMPL. POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN FEDERATION OF GOV'T EMPLOYEES",
    "total": 2500.0
   },
   {
@@ -574,12 +592,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00789164",
-   "name": "FOOD SOLUTIONS ACTION PAC (FSA PAC)",
-   "connected_org": null,
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00164939",
    "name": "MINN-DAK FARMERS COOPERATIVE SUGAR PAC (MDSPAC)",
    "connected_org": "MINN-DAK FARMERS COOPERATIVE",
@@ -652,6 +664,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00545202",
+   "name": "THE CENTER FOR FREETHOUGHT EQUALITY PAC",
+   "connected_org": "THE CENTER FOR FREETHOUGHT EQUALITY",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00475665",
    "name": "GROWTH ENERGY PAC",
    "connected_org": null,
@@ -697,11 +715,11 @@
  "pac_by_type": [
   {
    "type": "Labor union PACs",
-   "total": 236500.0
+   "total": 241500.0
   },
   {
    "type": "Membership group PACs",
-   "total": 112250.0
+   "total": 114750.0
   },
   {
    "type": "Trade association PACs",
@@ -709,7 +727,7 @@
   },
   {
    "type": "Other PACs",
-   "total": 29570.0
+   "total": 32070.0
   },
   {
    "type": "Cooperative PACs",

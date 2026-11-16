@@ -142,6 +142,12 @@
    "total": 6500.0
   },
   {
+   "committee_id": "C00661272",
+   "name": "WITH HONOR PAC",
+   "connected_org": null,
+   "total": 6500.0
+  },
+  {
    "committee_id": "C00381459",
    "name": "SOCIETY FOR VASCULAR SURGERY POLITICAL ACTION COMMITTEE",
    "connected_org": "SOCIETY FOR VASCULAR SURGERY",
@@ -170,12 +176,6 @@
    "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 6000.0
-  },
-  {
-   "committee_id": "C00661272",
-   "name": "WITH HONOR PAC",
-   "connected_org": null,
-   "total": 5500.0
   },
   {
    "committee_id": "C00010868",
@@ -382,6 +382,12 @@
    "total": 3000.0
   },
   {
+   "committee_id": "C00200865",
+   "name": "ROAD TO FREEDOM CAMPAIGN COMMITTEE",
+   "connected_org": null,
+   "total": 3000.0
+  },
+  {
    "committee_id": "C00100321",
    "name": "L3HARRIS TECHNOLOGIES, INC. PAC",
    "connected_org": "L3HARRIS TECHNOLOGIES, INC.",
@@ -580,12 +586,6 @@
    "total": 1500.0
   },
   {
-   "committee_id": "C00200865",
-   "name": "ROAD TO FREEDOM CAMPAIGN COMMITTEE",
-   "connected_org": null,
-   "total": 1500.0
-  },
-  {
    "committee_id": "C00035451",
    "name": "AIR LINE PILOTS ASSOCIATION PAC",
    "connected_org": "AIR LINE PILOTS ASSOCIATION",
@@ -697,6 +697,12 @@
    "committee_id": "C00394163",
    "name": "PHYSICIAN-LED HEALTHCARE FOR AMERICA POLITICAL ACTION COMMITTEE (PHA PAC)",
    "connected_org": null,
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00022343",
+   "name": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
+   "connected_org": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC.",
    "total": 1500.0
   },
   {
@@ -826,6 +832,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00852913",
+   "name": "VARDA SPACE INDUSTRIES INC. POLITICAL ACTION COMMITTEE (VARDA PAC)",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00171330",
    "name": "HOLLAND & KNIGHT COMMITTEE FOR EFFECTIVE GOVERNMENT",
    "connected_org": "NONE",
@@ -859,11 +871,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 197000.0
+   "total": 198000.0
   },
   {
    "type": "Trade association PACs",
-   "total": 89000.0
+   "total": 90500.0
   },
   {
    "type": "Membership group PACs",
@@ -871,11 +883,11 @@
   },
   {
    "type": "Other PACs",
-   "total": 65750.0
+   "total": 66750.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
-   "total": 52000.0
+   "total": 53500.0
   },
   {
    "type": "Labor union PACs",

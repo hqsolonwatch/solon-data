@@ -64,6 +64,24 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00015552",
+   "name": "BEEF-PAC (BEEF POLITICAL ACTION COMMITTEE OF TEXAS CATTLE FEEDERS ASSOCIATION)",
+   "connected_org": "TEXAS CATTLE FEEDERS ASSOCIATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00857359",
+   "name": "BRANDON GILL FOR TEXAS",
+   "connected_org": "BRANDON GILL VICTORY FUND",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00035006",
+   "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
+   "connected_org": "CHEVRON CORPORATION",
+   "total": 1500.0
+  },
+  {
    "committee_id": "C00254847",
    "name": "WESTERN PEANUT GROWERS ASSOCIATION, INC. POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -100,12 +118,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00015552",
-   "name": "BEEF-PAC (BEEF POLITICAL ACTION COMMITTEE OF TEXAS CATTLE FEEDERS ASSOCIATION)",
-   "connected_org": "TEXAS CATTLE FEEDERS ASSOCIATION",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00303024",
    "name": "LOCKHEED MARTIN CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
    "connected_org": "LOCKHEED MARTIN CORPORATION",
@@ -127,15 +139,15 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 16250.0
+   "total": 17750.0
+  },
+  {
+   "type": "Trade association PACs",
+   "total": 5500.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
    "total": 5000.0
-  },
-  {
-   "type": "Trade association PACs",
-   "total": 4500.0
   },
   {
    "type": "Membership group PACs",
@@ -144,6 +156,10 @@
   {
    "type": "Other PACs",
    "total": 2500.0
+  },
+  {
+   "type": "Other candidates’ campaigns",
+   "total": 2000.0
   },
   {
    "type": "Cooperative PACs",

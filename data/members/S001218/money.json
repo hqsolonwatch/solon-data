@@ -76,10 +76,22 @@
    "total": 7000.0
   },
   {
+   "committee_id": "C00163048",
+   "name": "CAP-PAC SEPARATE SEGREGATED FUND OF THE NATIONAL COMMUNITY ACTION FOUNDATION INC",
+   "connected_org": "NATIONAL COMMUNITY ACTION FOUNDATION",
+   "total": 6000.0
+  },
+  {
    "committee_id": "C00072025",
    "name": "NATIONAL RURAL LETTER CARRIERS' ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "NATIONAL RURAL LETTER CARRIERS' ASSOCIATION",
    "total": 6000.0
+  },
+  {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
+   "total": 5500.0
   },
   {
    "committee_id": "C00657452",
@@ -164,18 +176,6 @@
    "name": "AMERICAN ASSOCIATION OF NURSE ANESTHETISTS SEPARATE SEGREGATED FUND (CRNA-PAC)",
    "connected_org": "AMERICAN ASSOCIATION OF NURSE ANESTHETISTS",
    "total": 3500.0
-  },
-  {
-   "committee_id": "C00163048",
-   "name": "CAP-PAC SEPARATE SEGREGATED FUND OF THE NATIONAL COMMUNITY ACTION FOUNDATION INC",
-   "connected_org": "NATIONAL COMMUNITY ACTION FOUNDATION",
-   "total": 3500.0
-  },
-  {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
-   "total": 3000.0
   },
   {
    "committee_id": "C00007542",
@@ -328,6 +328,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00009985",
+   "name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
+   "connected_org": "NATIONAL ASSOCIATION OF BROADCASTERS",
+   "total": 1600.0
+  },
+  {
    "committee_id": "C00573261",
    "name": "END CITIZENS UNITED",
    "connected_org": "LET AMERICA VOTE PAC",
@@ -400,6 +406,18 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00008839",
+   "name": "AMERICAN PODIATRIC MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN PODIATRIC MEDICAL ASSOCIATION, INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00384818",
+   "name": "CVS HEALTH PAC",
+   "connected_org": "CVS HEALTH",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00490235",
    "name": "AMERICA'S FUTURE, TOGETHER",
    "connected_org": "NONE",
@@ -448,12 +466,6 @@
    "total": 500.0
   },
   {
-   "committee_id": "C00009985",
-   "name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
-   "connected_org": "NATIONAL ASSOCIATION OF BROADCASTERS",
-   "total": 100.0
-  },
-  {
    "committee_id": "C00199711",
    "name": "HEALTH CARE SERVICE CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
    "connected_org": "HEALTH CARE SERVICE CORPORATION",
@@ -491,15 +503,15 @@
   },
   {
    "type": "Other PACs",
-   "total": 42250.0
+   "total": 43250.0
   },
   {
    "type": "Membership group PACs",
-   "total": 40586.0
+   "total": 43086.0
   },
   {
    "type": "Trade association PACs",
-   "total": 26600.0
+   "total": 30600.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
@@ -507,7 +519,7 @@
   },
   {
    "type": "Corporate PACs",
-   "total": 3578.0
+   "total": 4578.0
   }
  ],
  "outside_spending": {

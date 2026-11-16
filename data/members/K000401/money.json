@@ -502,6 +502,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00101766",
+   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
+   "connected_org": "UNITED AIRLINES, INC.",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00264770",
    "name": "AGRICULTURAL RETAILERS ASSOCIATION POLITICAL ACTION COMMITTE",
    "connected_org": "AGRICULTURAL RETAILERS ASSOCIATION",
@@ -613,6 +619,12 @@
    "committee_id": "C00019653",
    "name": "EDISON INTERNATIONAL PAC",
    "connected_org": "EDISON INTERNATIONAL",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00521914",
+   "name": "PRIMERICA INC POLITICAL ACTION COMMITTEE (PRIMERICA PAC)",
+   "connected_org": null,
    "total": 1500.0
   },
   {
@@ -784,6 +796,18 @@
    "total": 250.0
   },
   {
+   "committee_id": "C00952002",
+   "name": "FORWARD PARTY OF CALIFORNIA",
+   "connected_org": "NONE",
+   "total": 250.0
+  },
+  {
+   "committee_id": "C00495010",
+   "name": "CONSERVATIVE CAMPAIGN COMMITTEE",
+   "connected_org": "NONE",
+   "total": 200.0
+  },
+  {
    "committee_id": "C00902866",
    "name": "UPON THIS ROCK PAC (MULTI-CANDIDATE)",
    "connected_org": "VERBICA",
@@ -817,11 +841,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 113500.0
+   "total": 117000.0
   },
   {
    "type": "Other PACs",
-   "total": 91750.0
+   "total": 91950.0
   },
   {
    "type": "Trade association PACs",
@@ -846,11 +870,15 @@
   {
    "type": "Cooperative PACs",
    "total": 1000.0
+  },
+  {
+   "type": "Party committees",
+   "total": 250.0
   }
  ],
  "outside_spending": {
-  "support_total": 871088.0,
-  "oppose_total": 1317983.0,
+  "support_total": 1163451.0,
+  "oppose_total": 1318465.0,
   "spenders": [
    {
     "committee_id": "C00633248",
@@ -865,16 +893,16 @@
     "oppose": 0.0
    },
    {
+    "committee_id": "C00853770",
+    "name": "A STRONG INNOVATION ECONOMY REQUIRES STRONG IP PROTECTION",
+    "support": 362646.0,
+    "oppose": 0.0
+   },
+   {
     "committee_id": "C00888081",
     "name": "HEALTH CARE SAVES LIVES",
     "support": 0.0,
     "oppose": 338105.0
-   },
-   {
-    "committee_id": "C00853770",
-    "name": "A STRONG INNOVATION ECONOMY REQUIRES STRONG IP PROTECTION",
-    "support": 70888.0,
-    "oppose": 0.0
    },
    {
     "committee_id": "C90011172",
@@ -886,7 +914,7 @@
     "committee_id": "C90023599",
     "name": "CAMPAIGN FOR WORKING CLASS COMMUNITIES",
     "support": 0.0,
-    "oppose": 12524.0
+    "oppose": 13006.0
    },
    {
     "committee_id": "C00691790",
@@ -895,16 +923,16 @@
     "oppose": 5072.0
    },
    {
+    "committee_id": "C00720649",
+    "name": "REFORM LEADERS PAC",
+    "support": 805.0,
+    "oppose": 0.0
+   },
+   {
     "committee_id": "C00433318",
     "name": "PLACER COUNTY DEMOCRATIC CENTRAL COMMITTEE",
     "support": 0.0,
     "oppose": 435.0
-   },
-   {
-    "committee_id": "C00720649",
-    "name": "REFORM LEADERS PAC",
-    "support": 200.0,
-    "oppose": 0.0
    }
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."

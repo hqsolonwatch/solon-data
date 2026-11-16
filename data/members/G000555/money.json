@@ -160,6 +160,12 @@
    "total": 3500.0
   },
   {
+   "committee_id": "C00101766",
+   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
+   "connected_org": "UNITED AIRLINES, INC.",
+   "total": 3000.0
+  },
+  {
    "committee_id": "C00811687",
    "name": "SAAB, INC. EMPLOYEES POLITICAL ACTION COMMITTEE (SAAB PAC)",
    "connected_org": "SAAB, INC.",
@@ -238,6 +244,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00204453",
+   "name": "KING & SPALDING NONPARTISAN COMMITTEE FOR GOOD GOVERNMENT",
+   "connected_org": "NONE",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00024869",
    "name": "GENERAL ELECTRIC COMPANY AEROSPACE EMPLOYEE POLITICAL ACTION COMMITTEE (GE AEROSPACE PAC)",
    "connected_org": "GENERAL ELECTRIC COMPANY",
@@ -259,12 +271,6 @@
    "committee_id": "C00253369",
    "name": "INVESCO HOLDING COMPANY (US), INC. EMPLOYEE POLITICAL ACTION COMMITTEE",
    "connected_org": "INVESCO HOLDING COMPANY (US), INC.",
-   "total": 2000.0
-  },
-  {
-   "committee_id": "C00101766",
-   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
-   "connected_org": "UNITED AIRLINES, INC.",
    "total": 2000.0
   },
   {
@@ -469,7 +475,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 111000.0
+   "total": 112000.0
   },
   {
    "type": "Trade association PACs",
@@ -485,7 +491,7 @@
   },
   {
    "type": "Other PACs",
-   "total": 12093.0
+   "total": 14593.0
   }
  ],
  "outside_spending": {

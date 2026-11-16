@@ -28,6 +28,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00012245",
+   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+   "connected_org": "UBS AMERICAS INC.",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00088591",
    "name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
    "connected_org": "NORTHROP GRUMMAN CORPORATION",
@@ -97,6 +103,12 @@
    "committee_id": "C00077321",
    "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00130773",
+   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
+   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
    "total": 10000.0
   },
   {
@@ -202,12 +214,6 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00012245",
-   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
-   "connected_org": "UBS AMERICAS INC.",
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00343459",
    "name": "AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC",
    "connected_org": "AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION",
@@ -280,12 +286,6 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00130773",
-   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
-   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00852913",
    "name": "VARDA SPACE INDUSTRIES INC. POLITICAL ACTION COMMITTEE (VARDA PAC)",
    "connected_org": null,
@@ -352,6 +352,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00010082",
+   "name": "NCTA - THE INTERNET & TELEVISION ASSOCIATION POLITICAL ACTION COMMITTEE (NCTAPAC)",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00096156",
    "name": "HONEYWELL INTERNATIONAL INC. TECHNOLOGIES PUBLIC AFFAIRS COUNCIL (HONPAC)",
    "connected_org": "HONEYWELL INTERNATIONAL INC.",
@@ -382,9 +388,27 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00004812",
+   "name": "MORTGAGE BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE (MORPAC)",
+   "connected_org": "MORTGAGE BANKERS ASSOCIATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00091561",
+   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
+   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00361758",
    "name": "T-MOBILE US, INC.  POLITICAL ACTION COMMITTEE (T-PAC)",
    "connected_org": "T-MOBILE US, INC.  POLITICAL ACTION COMMITTEE (T-PAC)",
+   "total": 4500.0
+  },
+  {
+   "committee_id": "C00542365",
+   "name": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC)",
+   "connected_org": "TOYOTA MOTOR NORTH AMERICA, INC",
    "total": 4500.0
   },
   {
@@ -397,12 +421,6 @@
    "committee_id": "C00005660",
    "name": "AMERICAN ASSOCIATION OF ORAL & MAXILLOFACIAL SURGEONS POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN ASSOCIATION OF ORAL & MAXILLOFACIAL SURGEONS",
-   "total": 4000.0
-  },
-  {
-   "committee_id": "C00542365",
-   "name": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC)",
-   "connected_org": "TOYOTA MOTOR NORTH AMERICA, INC",
    "total": 4000.0
   },
   {
@@ -481,6 +499,12 @@
    "committee_id": "C00027342",
    "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
    "connected_org": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS",
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00946111",
+   "name": "ANTHROPIC PBC POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
    "total": 3500.0
   },
   {
@@ -634,12 +658,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00010082",
-   "name": "NCTA - THE INTERNET & TELEVISION ASSOCIATION POLITICAL ACTION COMMITTEE (NCTAPAC)",
-   "connected_org": null,
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00266585",
    "name": "GREENBERG TRAURIG, P.A. PAC",
    "connected_org": "GREENBERG TRAURIG P.A.",
@@ -667,12 +685,6 @@
    "committee_id": "C00501429",
    "name": "TD BANK US HOLDING COMPANY POLITICAL ACTION COMMITTEE (TD BANK PAC)",
    "connected_org": "TD BANK US HOLDING COMPANY",
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00004812",
-   "name": "MORTGAGE BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE (MORPAC)",
-   "connected_org": "MORTGAGE BANKERS ASSOCIATION",
    "total": 2500.0
   },
   {
@@ -709,12 +721,6 @@
    "committee_id": "C00807214",
    "name": "LOS ANGELES/ORANGE COUNTIES BUILDING AND CONSTRUCTION TRADES COUNCIL FEDERAL POLITICAL ACTION COMMITTEE (PAC)",
    "connected_org": null,
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00091561",
-   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
-   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
    "total": 2500.0
   },
   {
@@ -862,6 +868,12 @@
    "total": 1500.0
   },
   {
+   "committee_id": "C00941781",
+   "name": "CALIFORNIA LIFE SCIENCES POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 1500.0
+  },
+  {
    "committee_id": "C00912204",
    "name": "RAINMAKER TECHNOLOGY CORPORATION PAC",
    "connected_org": "RAINMAKER TECHNOLOGY CORPORATION",
@@ -871,6 +883,12 @@
    "committee_id": "C00466813",
    "name": "HUMANE WORLD ACTION FUND POLITICAL ACTION COMMITTEE",
    "connected_org": "HUMANE WORLD ACTION FUND",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00104901",
+   "name": "AKIN GUMP STRAUSS HAUER & FELD LLP CIVIC ACTION COMMITTEE (AKA AKIN GUMP PAC)",
+   "connected_org": "NONE",
    "total": 1500.0
   },
   {
@@ -1123,7 +1141,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 301500.0
+   "total": 310500.0
   },
   {
    "type": "Labor union PACs",
@@ -1131,15 +1149,15 @@
   },
   {
    "type": "Other PACs",
-   "total": 79000.0
-  },
-  {
-   "type": "Membership group PACs",
-   "total": 72896.0
+   "total": 83000.0
   },
   {
    "type": "Trade association PACs",
-   "total": 70000.0
+   "total": 80000.0
+  },
+  {
+   "type": "Membership group PACs",
+   "total": 74396.0
   },
   {
    "type": "Cooperative PACs",

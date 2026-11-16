@@ -184,6 +184,18 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00084491",
+   "name": "INTERNATIONAL FRANCHISE ASSOCIATION FRANCHISING POLITICAL ACTION COMMITTEE INC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00813063",
+   "name": "LEADERSHIP AND LOYALTY ONLY TO AMERICA PAC",
+   "connected_org": "NICK",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00101105",
    "name": "NATIONAL FEDERATION OF INDEPENDENT BUSINESS FEDERAL POLITICAL ACTION COMMITTEE",
    "connected_org": "NATIONAL FEDERATION OF INDEPENDENT BUSINESS",
@@ -217,7 +229,7 @@
  "pac_by_type": [
   {
    "type": "Other PACs",
-   "total": 33270.0
+   "total": 34270.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
@@ -237,13 +249,19 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 6000.0
+   "total": 7000.0
   }
  ],
  "outside_spending": {
-  "support_total": 589154.0,
+  "support_total": 1572142.0,
   "oppose_total": 940666.0,
   "spenders": [
+   {
+    "committee_id": "C00960435",
+    "name": "NO GOING BACK PAC INC.",
+    "support": 941245.0,
+    "oppose": 0.0
+   },
    {
     "committee_id": "C00552851",
     "name": "FREEDOM CAUCUS FUND",
@@ -269,9 +287,15 @@
     "oppose": 46000.0
    },
    {
+    "committee_id": "C00953588",
+    "name": "CIVIC RENEWAL FUND INC.",
+    "support": 37654.0,
+    "oppose": 0.0
+   },
+   {
     "committee_id": "C00432260",
     "name": "CLUB FOR GROWTH PAC",
-    "support": 23926.0,
+    "support": 28015.0,
     "oppose": 0.0
    },
    {

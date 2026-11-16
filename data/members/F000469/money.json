@@ -34,6 +34,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00483487",
+   "name": "BRINGING REPUBLICAN EXCELLENCE TO TOWN PAC",
+   "connected_org": "GUTHRIE",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00186288",
    "name": "VERIZON COMMUNICATIONS, INC. POLITICAL ACTION COMMITTEE (VERIZON PAC)",
    "connected_org": null,
@@ -193,12 +199,6 @@
    "committee_id": "C00592089",
    "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
    "connected_org": "EMMER VICTORY COMMITTEE",
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00483487",
-   "name": "BRINGING REPUBLICAN EXCELLENCE TO TOWN PAC",
-   "connected_org": "GUTHRIE",
    "total": 5000.0
   },
   {
@@ -433,6 +433,12 @@
    "committee_id": "C00034157",
    "name": "AFLAC POLITICAL ACTION COMMITTEE (AFLAC PAC)",
    "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00035006",
+   "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
+   "connected_org": "CHEVRON CORPORATION",
    "total": 2500.0
   },
   {
@@ -745,7 +751,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 161750.0
+   "total": 164250.0
   },
   {
    "type": "Trade association PACs",
@@ -753,7 +759,7 @@
   },
   {
    "type": "Leadership PACs (run by other politicians)",
-   "total": 35000.0
+   "total": 40000.0
   },
   {
    "type": "Membership group PACs",

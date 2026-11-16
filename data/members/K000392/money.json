@@ -256,6 +256,12 @@
    "total": 9500.0
   },
   {
+   "committee_id": "C00542365",
+   "name": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC)",
+   "connected_org": "TOYOTA MOTOR NORTH AMERICA, INC",
+   "total": 9500.0
+  },
+  {
    "committee_id": "C00450916",
    "name": "ASURION LLC POLITICAL ACTION COMMITTEE (ASURION PAC)",
    "connected_org": null,
@@ -310,6 +316,12 @@
    "total": 7500.0
   },
   {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
+   "total": 7500.0
+  },
+  {
    "committee_id": "C00010868",
    "name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
    "connected_org": "AMERICAN COUNCIL OF ENGINEERING COMPANIES",
@@ -331,12 +343,6 @@
    "committee_id": "C00109017",
    "name": "AT&T INC. EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE (AT&T EMPLOYEE FEDERAL PAC)",
    "connected_org": "AT&T INC.",
-   "total": 7000.0
-  },
-  {
-   "committee_id": "C00542365",
-   "name": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC)",
-   "connected_org": "TOYOTA MOTOR NORTH AMERICA, INC",
    "total": 7000.0
   },
   {
@@ -403,6 +409,12 @@
    "committee_id": "C00360354",
    "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
    "connected_org": null,
+   "total": 6000.0
+  },
+  {
+   "committee_id": "C00066472",
+   "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION POLITICAL ACTION COMMITTEE (INSURING AMERICA PAC)",
+   "connected_org": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION",
    "total": 6000.0
   },
   {
@@ -511,12 +523,6 @@
    "committee_id": "C00077321",
    "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS",
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 5000.0
   },
   {
@@ -712,6 +718,12 @@
    "total": 4000.0
   },
   {
+   "committee_id": "C00169821",
+   "name": "TYSON FOODS INC POLITICAL ACTION COMMITTEE (TYPAC)",
+   "connected_org": "TYSON FOODS INC.",
+   "total": 4000.0
+  },
+  {
    "committee_id": "C00541862",
    "name": "JASON SMITH FOR CONGRESS",
    "connected_org": "SMITH VICTORY",
@@ -739,12 +751,6 @@
    "committee_id": "C00817585",
    "name": "WESTERN ALLIANCE BANCORPORATION POLITICAL ACTION COMMITTEE (WABPAC)",
    "connected_org": "WESTERN ALLIANCE BANCORPORATION",
-   "total": 3500.0
-  },
-  {
-   "committee_id": "C00066472",
-   "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION POLITICAL ACTION COMMITTEE (INSURING AMERICA PAC)",
-   "connected_org": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION",
    "total": 3500.0
   },
   {
@@ -1126,6 +1132,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00652701",
+   "name": "VNA HOLDING INC. POLITICAL ACTION COMMITTEE (VG PAC)",
+   "connected_org": "VNA HOLDING INC.",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00010983",
    "name": "JOHNSON & JOHNSON POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -1396,12 +1408,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00652701",
-   "name": "VNA HOLDING INC. POLITICAL ACTION COMMITTEE (VG PAC)",
-   "connected_org": "VNA HOLDING INC.",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00681437",
    "name": "HSBC TECHNOLOGY AND SERVICES USA INC. FEDERAL PAC (HSBC FEDERAL PAC)",
    "connected_org": null,
@@ -1411,12 +1417,6 @@
    "committee_id": "C00097568",
    "name": "EMPLOYEES OF RTX CORPORATION POLITICAL ACTION COMMITTEE",
    "connected_org": "RTX CORPORATION",
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00169821",
-   "name": "TYSON FOODS INC POLITICAL ACTION COMMITTEE (TYPAC)",
-   "connected_org": "TYSON FOODS INC.",
    "total": 1000.0
   },
   {
@@ -1540,6 +1540,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00098061",
+   "name": "TARGET CORPORATION CITIZENS POLITICAL FORUM (TARGETCITIZENS POLITICAL FORUM)",
+   "connected_org": "TARGET CORPORATION",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00005660",
    "name": "AMERICAN ASSOCIATION OF ORAL & MAXILLOFACIAL SURGEONS POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN ASSOCIATION OF ORAL & MAXILLOFACIAL SURGEONS",
@@ -1591,11 +1597,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 626500.0
+   "total": 634000.0
   },
   {
    "type": "Trade association PACs",
-   "total": 288500.0
+   "total": 293500.0
   },
   {
    "type": "Membership group PACs",

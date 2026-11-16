@@ -46,6 +46,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00012245",
+   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+   "connected_org": "UBS AMERICAS INC.",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00432252",
    "name": "REGIONS FINANCIAL CORPORATION POLITICAL ACTION COMMITTEE",
    "connected_org": "REGIONS FINANCIAL CORPORATION",
@@ -226,12 +232,6 @@
    "total": 8000.0
   },
   {
-   "committee_id": "C00012245",
-   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
-   "connected_org": "UBS AMERICAS INC.",
-   "total": 7500.0
-  },
-  {
    "committee_id": "C00386524",
    "name": "TRUIST FINANCIAL CORPORATION FEDERAL PAC",
    "connected_org": "TRUIST FINANCIAL CORPORATION",
@@ -331,6 +331,12 @@
    "committee_id": "C00495002",
    "name": "AMERICAN INVESTMENT COUNCIL POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN INVESTMENT COUNCIL",
+   "total": 6000.0
+  },
+  {
+   "committee_id": "C00040253",
+   "name": "ALLSTATE INSURANCE COMPANY PAC",
+   "connected_org": "ALLSTATE INSURANCE CO.",
    "total": 6000.0
   },
   {
@@ -670,12 +676,6 @@
    "total": 3500.0
   },
   {
-   "committee_id": "C00040253",
-   "name": "ALLSTATE INSURANCE COMPANY PAC",
-   "connected_org": "ALLSTATE INSURANCE CO.",
-   "total": 3500.0
-  },
-  {
    "committee_id": "C00097568",
    "name": "EMPLOYEES OF RTX CORPORATION POLITICAL ACTION COMMITTEE",
    "connected_org": "RTX CORPORATION",
@@ -952,12 +952,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00402107",
-   "name": "CUNA MUTUAL HOLDING COMPANY POLITICAL ACTION COMMITTEE/TRUSTAGE PAC",
-   "connected_org": "CUNA MUTUAL HOLDING COMPANY",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00093054",
    "name": "WALMART INC. PAC FOR RESPONSIBLE GOVERNMENT",
    "connected_org": "WALMART INC.",
@@ -1153,6 +1147,12 @@
    "committee_id": "C00567792",
    "name": "NATIONAL ASSOCIATION OF RESIDENTIAL PROPERTY MANGERS, INC. POLITICAL ACTION COMMITTEE (NARPM PAC)",
    "connected_org": "NATIONAL ASSOCIATION OF RESIDENTIAL PROPERTY MANGERS, INC. POLITICAL ACTION COMMITTEE (NARPM PAC)",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00402107",
+   "name": "CUNA MUTUAL HOLDING COMPANY POLITICAL ACTION COMMITTEE/TRUSTAGE PAC",
+   "connected_org": "CUNA MUTUAL HOLDING COMPANY",
    "total": 1000.0
   },
   {
@@ -1384,6 +1384,18 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00032995",
+   "name": "AMALGAMATED TRANSIT UNION - COPE",
+   "connected_org": "AMALGAMATED TRANSIT UNION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00104901",
+   "name": "AKIN GUMP STRAUSS HAUER & FELD LLP CIVIC ACTION COMMITTEE (AKA AKIN GUMP PAC)",
+   "connected_org": "NONE",
+   "total": 750.0
+  },
+  {
    "committee_id": "C00545558",
    "name": "SUPERIOR AIR-GROUND AMBULANCE SERVICE INC EMPLOYEES PAC (SUPERIOR AMBULANCE EMPLOYEES P",
    "connected_org": "SUPERIOR AIR-GROUND AMBULANCE SERVICE INC EMPLOYEES PAC (SUPERIOR AMBULANCE EMPLOYEES P",
@@ -1411,7 +1423,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 515500.0
+   "total": 519500.0
   },
   {
    "type": "Trade association PACs",
@@ -1419,7 +1431,7 @@
   },
   {
    "type": "Labor union PACs",
-   "total": 111500.0
+   "total": 112500.0
   },
   {
    "type": "Membership group PACs",
@@ -1427,7 +1439,7 @@
   },
   {
    "type": "Other PACs",
-   "total": 48000.0
+   "total": 48750.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",

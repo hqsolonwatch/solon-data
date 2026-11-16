@@ -148,6 +148,18 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00492025",
+   "name": "AMERICAN DEFENSE AND MILITARY PAC",
+   "connected_org": null,
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00032995",
+   "name": "AMALGAMATED TRANSIT UNION - COPE",
+   "connected_org": "AMALGAMATED TRANSIT UNION",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00027342",
    "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
    "connected_org": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS",
@@ -160,12 +172,6 @@
    "total": 10000.0
   },
   {
-   "committee_id": "C00492025",
-   "name": "AMERICAN DEFENSE AND MILITARY PAC",
-   "connected_org": null,
-   "total": 9000.0
-  },
-  {
    "committee_id": "C00010322",
    "name": "AMERICAN POSTAL WORKERS UNION COMMITTEE ON POLITICAL ACTION",
    "connected_org": "AMERICAN POSTAL WORKERS UNION",
@@ -175,12 +181,6 @@
    "committee_id": "C00753947",
    "name": "LA BAMBA PAC",
    "connected_org": "TORRES",
-   "total": 7500.0
-  },
-  {
-   "committee_id": "C00032995",
-   "name": "AMALGAMATED TRANSIT UNION - COPE",
-   "connected_org": "AMALGAMATED TRANSIT UNION",
    "total": 7500.0
   },
   {
@@ -586,6 +586,12 @@
    "total": 3500.0
   },
   {
+   "committee_id": "C00091561",
+   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
+   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
+   "total": 3500.0
+  },
+  {
    "committee_id": "C00566562",
    "name": "BACKPAC",
    "connected_org": "BEYER",
@@ -664,12 +670,6 @@
    "total": 3000.0
   },
   {
-   "committee_id": "C00091561",
-   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
-   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
-   "total": 3000.0
-  },
-  {
    "committee_id": "C00656132",
    "name": "SERVING OUR COUNTRY (SOC) PAC",
    "connected_org": "CARBAJAL",
@@ -742,6 +742,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00447565",
+   "name": "FINSECA PAC",
+   "connected_org": "FINSECA",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00897546",
    "name": "BAMA PAC",
    "connected_org": "FIGURES",
@@ -762,6 +768,12 @@
   {
    "committee_id": "C00443671",
    "name": "MICRON TECHNOLOGY, INC. EMPLOYEE PAC",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00002766",
+   "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
    "connected_org": null,
    "total": 2500.0
   },
@@ -976,12 +988,6 @@
    "total": 1500.0
   },
   {
-   "committee_id": "C00002766",
-   "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
-   "connected_org": null,
-   "total": 1500.0
-  },
-  {
    "committee_id": "C00344945",
    "name": "US APPLE ASSOCIATION POLITICAL ACTION COMMITTEE; AKA USAPPLE PAC",
    "connected_org": "U.S. APPLE ASSOCIATION",
@@ -1135,12 +1141,6 @@
    "committee_id": "C00721449",
    "name": "JAKE AUCHINCLOSS FOR CONGRESS",
    "connected_org": "JAKE AUCHINCLOSS VICTORY FUND",
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00447565",
-   "name": "FINSECA PAC",
-   "connected_org": "FINSECA",
    "total": 1000.0
   },
   {
@@ -1453,15 +1453,15 @@
  "pac_by_type": [
   {
    "type": "Leadership PACs (run by other politicians)",
-   "total": 273750.0
+   "total": 274750.0
   },
   {
    "type": "Labor union PACs",
-   "total": 190500.0
+   "total": 194000.0
   },
   {
    "type": "Other PACs",
-   "total": 160701.0
+   "total": 161201.0
   },
   {
    "type": "Membership group PACs",
@@ -1473,7 +1473,7 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 29500.0
+   "total": 31000.0
   },
   {
    "type": "Cooperative PACs",

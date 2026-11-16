@@ -28,12 +28,6 @@
    "total": 7500.0
   },
   {
-   "committee_id": "C00402107",
-   "name": "CUNA MUTUAL HOLDING COMPANY POLITICAL ACTION COMMITTEE/TRUSTAGE PAC",
-   "connected_org": "CUNA MUTUAL HOLDING COMPANY",
-   "total": 7500.0
-  },
-  {
    "committee_id": "C00336743",
    "name": "ASIAN AMERICAN HOTEL OWNERS ASSOCIATION PAC (AAHOA PAC)",
    "connected_org": "ASIAN AMERICAN HOTEL OWNERS ASSOCIATION",
@@ -55,6 +49,12 @@
    "committee_id": "C00379768",
    "name": "EXPERIAN NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (EXPERIAN PAC)",
    "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00402107",
+   "name": "CUNA MUTUAL HOLDING COMPANY POLITICAL ACTION COMMITTEE/TRUSTAGE PAC",
+   "connected_org": "CUNA MUTUAL HOLDING COMPANY",
    "total": 5000.0
   },
   {
@@ -481,7 +481,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 134800.0
+   "total": 132300.0
   },
   {
    "type": "Trade association PACs",

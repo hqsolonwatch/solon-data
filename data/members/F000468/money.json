@@ -34,9 +34,21 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00513549",
+   "name": "PHILLIPS 66 PAC",
+   "connected_org": "PHILLIPS 66",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00430157",
    "name": "CHENIERE ENERGY, INC. PAC",
    "connected_org": "CHENIERE ENERGY INC.",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00035006",
+   "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
+   "connected_org": "CHEVRON CORPORATION",
    "total": 10000.0
   },
   {
@@ -88,6 +100,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00130773",
+   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
+   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00012476",
    "name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA)",
    "connected_org": "PLUMBERS & STEAMFITTERS LOCAL 22 PAC INC",
@@ -97,7 +115,7 @@
    "committee_id": "C00214981",
    "name": "TEXAS FARM BUREAU AGFUND",
    "connected_org": "TEXAS FARM BUREAU",
-   "total": 9600.0
+   "total": 9613.0
   },
   {
    "committee_id": "C00106146",
@@ -136,15 +154,15 @@
    "total": 7500.0
   },
   {
-   "committee_id": "C00513549",
-   "name": "PHILLIPS 66 PAC",
-   "connected_org": "PHILLIPS 66",
-   "total": 7500.0
-  },
-  {
    "committee_id": "C00002972",
    "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
    "connected_org": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION (NRECA)",
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 7500.0
   },
   {
@@ -184,12 +202,6 @@
    "total": 6000.0
   },
   {
-   "committee_id": "C00130773",
-   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
-   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
-   "total": 6000.0
-  },
-  {
    "committee_id": "C00002261",
    "name": "FEDERATION OF AMERICAN HOSPITALS PAC",
    "connected_org": "FEDERATION OF AMERICAN HOSPITALS",
@@ -226,12 +238,6 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00035006",
-   "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
-   "connected_org": "CHEVRON CORPORATION",
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00382424",
    "name": "AMERICAN COLLEGE OF SURGEONS PROFESSIONAL ASSOCIATION PAC",
    "connected_org": "AMERICAN COLLEGE OF SURGEONS PROFESSIONAL ASSOCIATION",
@@ -241,12 +247,6 @@
    "committee_id": "C00364158",
    "name": "AMERICAN COLLEGE OF OB-GYNS PAC (OB-GYN PAC)",
    "connected_org": null,
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 5000.0
   },
   {
@@ -754,6 +754,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00000422",
+   "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN MEDICAL ASSOCIATION",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00325332",
    "name": "AMERICAN SENIORS HOUSING ASSOCIATION (SENIORS HOUSING PAC)",
    "connected_org": null,
@@ -799,6 +805,12 @@
    "committee_id": "C00403881",
    "name": "AMERICAN COLLEGE OF PHYSICIAN SERVICES INC PAC; AKA ACP SERVICES PAC",
    "connected_org": "AMERICAN COLLEGE OF PHYSICIAN SERVICES, INC",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00101766",
+   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
+   "connected_org": "UNITED AIRLINES, INC.",
    "total": 2000.0
   },
   {
@@ -898,6 +910,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00215384",
+   "name": "ONEOK INC. EMPLOYEE POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00952564",
    "name": "X-ENERGY INC. EMPLOYEE PAC",
    "connected_org": "X-ENERGY, INC.",
@@ -934,6 +952,12 @@
    "total": 1500.0
   },
   {
+   "committee_id": "C00521914",
+   "name": "PRIMERICA INC POLITICAL ACTION COMMITTEE (PRIMERICA PAC)",
+   "connected_org": null,
+   "total": 1500.0
+  },
+  {
    "committee_id": "C00485896",
    "name": "CHS/COMMUNITY HEALTH SYSTEMS, INC. POLITICAL ACTION CMTE (CHS PAC)",
    "connected_org": null,
@@ -943,6 +967,18 @@
    "committee_id": "C00185520",
    "name": "UNIVERSAL HEALTH SERVICES, INC. GOOD GOVERNMENT FUND (UHS GOOD GOVERNMENT FUND)",
    "connected_org": "UNIVERSAL HEALTH SERVICES, INC. GOOD GOVERNMENT FUND (UHS GOOD GOVERNMENT FUND)",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00226548",
+   "name": "VISTRA EMPLOYEE POLITICAL ACTION COMMITTEE OF VISTRA CORP.",
+   "connected_org": "VISTRA CORP.",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00496752",
+   "name": "ENTERPRISE PRODUCTS PARTNERS L.P. POLITICAL ACTION COMMITTEE",
+   "connected_org": "NONE",
    "total": 1500.0
   },
   {
@@ -1042,12 +1078,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00101766",
-   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
-   "connected_org": "UNITED AIRLINES, INC.",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00063164",
    "name": "MCDONALDS CORPORATION POLITICAL ACTION COMMITTEE",
    "connected_org": "MCDONALDS CORPORATION",
@@ -1120,12 +1150,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00521914",
-   "name": "PRIMERICA INC POLITICAL ACTION COMMITTEE (PRIMERICA PAC)",
-   "connected_org": null,
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00602805",
    "name": "AMERICA'S ESSENTIAL HOSPITALS POLITICAL ACTION COMMITTEE, (ESSENTIAL HOSPITALS PAC)",
    "connected_org": null,
@@ -1192,12 +1216,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00215384",
-   "name": "ONEOK INC. EMPLOYEE POLITICAL ACTION COMMITTEE",
-   "connected_org": null,
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00486928",
    "name": "ALZHEIMERS IMPACT MOVEMENT POLITICAL ACTION COMMITTEE",
    "connected_org": "ALZHEIMER'S IMPACT MOVEMENT",
@@ -1237,6 +1255,18 @@
    "committee_id": "C00390583",
    "name": "BHFS-E, PC PAC (BROWNSTEIN HYATT FARBER SCHRECK POLITICAL ACTION COMMITTEE)",
    "connected_org": "BHFS-E, PC",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00015552",
+   "name": "BEEF-PAC (BEEF POLITICAL ACTION COMMITTEE OF TEXAS CATTLE FEEDERS ASSOCIATION)",
+   "connected_org": "TEXAS CATTLE FEEDERS ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00545202",
+   "name": "THE CENTER FOR FREETHOUGHT EQUALITY PAC",
+   "connected_org": "THE CENTER FOR FREETHOUGHT EQUALITY",
    "total": 1000.0
   },
   {
@@ -1303,15 +1333,15 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 367500.0
+   "total": 379000.0
   },
   {
    "type": "Trade association PACs",
-   "total": 133750.0
+   "total": 141250.0
   },
   {
    "type": "Membership group PACs",
-   "total": 99644.0
+   "total": 100657.0
   },
   {
    "type": "Labor union PACs",
@@ -1319,7 +1349,7 @@
   },
   {
    "type": "Other PACs",
-   "total": 35605.0
+   "total": 39605.0
   },
   {
    "type": "Cooperative PACs",
@@ -1331,9 +1361,16 @@
   }
  ],
  "outside_spending": {
-  "support_total": 0,
-  "oppose_total": 0,
-  "spenders": [],
+  "support_total": 10.0,
+  "oppose_total": 0.0,
+  "spenders": [
+   {
+    "committee_id": "C00483693",
+    "name": "SIERRA CLUB INDEPENDENT ACTION",
+    "support": 10.0,
+    "oppose": 0.0
+   }
+  ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
  "detail": {

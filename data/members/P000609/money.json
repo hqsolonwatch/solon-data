@@ -394,6 +394,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00513549",
+   "name": "PHILLIPS 66 PAC",
+   "connected_org": "PHILLIPS 66",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00602698",
    "name": "AMERICAN WOOD COUNCIL POLITICAL ACTION COMMITTEE (WOOD-PAC)",
    "connected_org": "AMERICAN WOOD COUNCIL",
@@ -468,6 +474,12 @@
   {
    "committee_id": "C00217638",
    "name": "INTERNATIONAL COUNCIL OF SHOPPING CENTERS INC POLITICAL ACTION COMMITTEE (ICSC PAC)",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00084491",
+   "name": "INTERNATIONAL FRANCHISE ASSOCIATION FRANCHISING POLITICAL ACTION COMMITTEE INC",
    "connected_org": null,
    "total": 2500.0
   },
@@ -808,12 +820,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00513549",
-   "name": "PHILLIPS 66 PAC",
-   "connected_org": "PHILLIPS 66",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00004812",
    "name": "MORTGAGE BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE (MORPAC)",
    "connected_org": "MORTGAGE BANKERS ASSOCIATION",
@@ -871,12 +877,6 @@
    "committee_id": "C00015933",
    "name": "PINNACLE WEST CAPITAL CORPORATION PAC",
    "connected_org": "PINNACLE WEST CAPITAL CORPORATION",
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00084491",
-   "name": "INTERNATIONAL FRANCHISE ASSOCIATION FRANCHISING POLITICAL ACTION COMMITTEE INC",
-   "connected_org": null,
    "total": 1000.0
   },
   {
@@ -997,11 +997,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 228750.0
+   "total": 230250.0
   },
   {
    "type": "Trade association PACs",
-   "total": 150000.0
+   "total": 151500.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",

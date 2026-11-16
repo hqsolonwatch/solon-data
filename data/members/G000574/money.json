@@ -670,6 +670,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00471540",
+   "name": "ENVIRONMENTAL DEFENSE ACTION FUND PAC (EDAF PAC)",
+   "connected_org": "ENVIRONMENTAL DEFENSE ACTION FUND",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00255877",
    "name": "THE OPTIONS CLEARING CORPORATION PAC",
    "connected_org": "THE OPTIONS CLEARING CORPORATION",
@@ -1054,6 +1060,18 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00542365",
+   "name": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC)",
+   "connected_org": "TOYOTA MOTOR NORTH AMERICA, INC",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00101766",
+   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
+   "connected_org": "UNITED AIRLINES, INC.",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00736421",
    "name": "DELEK US HOLDINGS LLC PAC  (AKA DK PAC)",
    "connected_org": null,
@@ -1135,7 +1153,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 326161.0
+   "total": 328161.0
   },
   {
    "type": "Other PACs",
@@ -1151,7 +1169,7 @@
   },
   {
    "type": "Membership group PACs",
-   "total": 14000.0
+   "total": 16000.0
   },
   {
    "type": "Other candidates’ campaigns",

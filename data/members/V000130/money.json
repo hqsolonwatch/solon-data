@@ -22,6 +22,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00012245",
+   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+   "connected_org": "UBS AMERICAS INC.",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00227744",
    "name": "ERNST & YOUNG POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -98,12 +104,6 @@
    "name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
    "connected_org": "AMERICAN COUNCIL OF ENGINEERING COMPANIES",
    "total": 9000.0
-  },
-  {
-   "committee_id": "C00012245",
-   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
-   "connected_org": "UBS AMERICAS INC.",
-   "total": 7500.0
   },
   {
    "committee_id": "C00158881",
@@ -544,12 +544,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00402107",
-   "name": "CUNA MUTUAL HOLDING COMPANY POLITICAL ACTION COMMITTEE/TRUSTAGE PAC",
-   "connected_org": "CUNA MUTUAL HOLDING COMPANY",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00216184",
    "name": "ANESTHESIA SERVICE MEDICAL GROUP ADVOCACY FUND",
    "connected_org": "NONE",
@@ -706,6 +700,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00402107",
+   "name": "CUNA MUTUAL HOLDING COMPANY POLITICAL ACTION COMMITTEE/TRUSTAGE PAC",
+   "connected_org": "CUNA MUTUAL HOLDING COMPANY",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00177436",
    "name": "UNUM GROUP POLITICAL ACTION COMMITTEE (UNUMPAC)",
    "connected_org": "UNUM GROUP",
@@ -757,7 +757,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 216700.0
+   "total": 218200.0
   },
   {
    "type": "Trade association PACs",

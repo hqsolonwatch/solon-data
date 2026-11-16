@@ -19,7 +19,7 @@
    "committee_id": "C00004812",
    "name": "MORTGAGE BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE (MORPAC)",
    "connected_org": "MORTGAGE BANKERS ASSOCIATION",
-   "total": 15000.0
+   "total": 20000.0
   },
   {
    "committee_id": "C00359539",
@@ -250,6 +250,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00010082",
+   "name": "NCTA - THE INTERNET & TELEVISION ASSOCIATION POLITICAL ACTION COMMITTEE (NCTAPAC)",
+   "connected_org": null,
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00012245",
    "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
    "connected_org": "UBS AMERICAS INC.",
@@ -343,6 +349,12 @@
    "committee_id": "C00126763",
    "name": "NATIONAL ASSOCIATION OF CONVENIENCE STORES POLITICAL ACTION COMMITTEE",
    "connected_org": "NATIONAL ASSOCIATION OF CONVENIENCE STORES",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00000422",
+   "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN MEDICAL ASSOCIATION",
    "total": 10000.0
   },
   {
@@ -808,12 +820,6 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00010082",
-   "name": "NCTA - THE INTERNET & TELEVISION ASSOCIATION POLITICAL ACTION COMMITTEE (NCTAPAC)",
-   "connected_org": null,
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00579540",
    "name": "ALLY FINANCIAL INC. ADVOCACY POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -907,12 +913,6 @@
    "committee_id": "C00424838",
    "name": "NOVO NORDISK INC. PAC (NOVO NORDISK PAC)",
    "connected_org": null,
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00000422",
-   "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "AMERICAN MEDICAL ASSOCIATION",
    "total": 5000.0
   },
   {
@@ -1210,6 +1210,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00145722",
+   "name": "MURPHY OIL CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "MURPHY OIL CORPORATION",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00417634",
    "name": "WHOLESALE & SPECIALTY INSURANCE ASSOCIATION (WSIA) PAC",
    "connected_org": null,
@@ -1267,6 +1273,12 @@
    "committee_id": "C00588657",
    "name": "TEXANS FOR JODEY ARRINGTON",
    "connected_org": "ARRINGTON VICTORY COMMITTEE",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00111534",
+   "name": "JONES WALKER L.L.P. POLITICAL ACTION COMMITTEE",
+   "connected_org": "NONE",
    "total": 4000.0
   },
   {
@@ -1636,12 +1648,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00171504",
-   "name": "EYEPAC POLITICAL ACTION COMMITTEE FOR AMERICAN SOCIETY OF CATARACT AND REFRACTIVE SURGERY",
-   "connected_org": "AMERICAN SOCIETY OF CATARACT & REFRACTIVE SURGERY",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00493502",
    "name": "VSP HOLDING COMPANY INC POLITICAL ACTION COMMITTEE",
    "connected_org": "VSP HOLDING COMPANY, INC.",
@@ -1747,6 +1753,12 @@
    "committee_id": "C00695304",
    "name": "DROPBOX INC PAC",
    "connected_org": "DROPBOX, INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00171504",
+   "name": "EYEPAC POLITICAL ACTION COMMITTEE FOR AMERICAN SOCIETY OF CATARACT AND REFRACTIVE SURGERY",
+   "connected_org": "AMERICAN SOCIETY OF CATARACT & REFRACTIVE SURGERY",
    "total": 2500.0
   },
   {
@@ -1963,11 +1975,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 1039000.0
+   "total": 1044000.0
   },
   {
    "type": "Trade association PACs",
-   "total": 435000.0
+   "total": 445000.0
   },
   {
    "type": "Membership group PACs",
@@ -1975,7 +1987,7 @@
   },
   {
    "type": "Other PACs",
-   "total": 112000.0
+   "total": 121000.0
   },
   {
    "type": "Labor union PACs",

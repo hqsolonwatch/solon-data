@@ -202,6 +202,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00033589",
+   "name": "CORNING INCORPORATED EMPLOYEES POLITICAL ACTION COMMITTEE (COREPAC)",
+   "connected_org": "CORNING INCORPORATED",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00383950",
    "name": "NATIONAL ELEVATOR CONSTRUCTORS PAC/ INTN'L  UNION OF ELEVATOR CONSTRUCTORS (NEC PAC)",
    "connected_org": "INT'L UNION OF ELEVATOR CONSTRUCTORS",
@@ -277,6 +283,12 @@
    "committee_id": "C00068528",
    "name": "PACIFIC LIFE INSURANCE COMPANY POLITICAL ACTION COMMITTEE",
    "connected_org": "PACIFIC LIFE INSURANCE COMPANY",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00413955",
+   "name": "AMERICAN ASSOCIATION OF NEUROLOGICAL SURGEONS POLITICAL ACTION COMMITTEE (NEUROSURGERYPAC)",
+   "connected_org": "AMERICAN ASSOCIATION OF NEUROLOGICAL SURGEONS POLITICAL ACTION COMMITTEE (NEUROSURGERYPAC)",
    "total": 5000.0
   },
   {
@@ -514,12 +526,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00033589",
-   "name": "CORNING INCORPORATED EMPLOYEES POLITICAL ACTION COMMITTEE (COREPAC)",
-   "connected_org": "CORNING INCORPORATED",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00436360",
    "name": "AMEDISYS, INC. POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -730,12 +736,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00414474",
-   "name": "AMERIPRISE FINANCIAL INC. POLITICAL ACTION COMMITTEE (AMERIPRISEPAC)",
-   "connected_org": "AMERIPRISE FINANCIAL INC.",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00525063",
    "name": "ALKERMES, INC. POLITICAL ACTION COMMITTEE",
    "connected_org": "ALKERMES, INC.",
@@ -751,6 +751,12 @@
    "committee_id": "C00302166",
    "name": "RADIAN GROUP, INC. POLITICAL ACTION COMMITTEE (RAD PAC)",
    "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00414474",
+   "name": "AMERIPRISE FINANCIAL INC. POLITICAL ACTION COMMITTEE (AMERIPRISEPAC)",
+   "connected_org": "AMERIPRISE FINANCIAL INC.",
    "total": 2500.0
   },
   {
@@ -817,6 +823,12 @@
    "committee_id": "C00405076",
    "name": "BEST BUY CO., INC. EMPLOYEE POLITICAL FORUM",
    "connected_org": "BEST BUY CO., INC.",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00101766",
+   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
+   "connected_org": "UNITED AIRLINES, INC.",
    "total": 2000.0
   },
   {
@@ -1168,12 +1180,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00101766",
-   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
-   "connected_org": "UNITED AIRLINES, INC.",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00034470",
    "name": "DIAGEO NORTH AMERICA, INC. EMPLOYEES' POLITICAL PARTICIPATION COMMITTEE (DIAGEO PAC)",
    "connected_org": "DIAGEO NORTH AMERICA, INC.",
@@ -1456,6 +1462,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00763623",
+   "name": "ANDURIL INDUSTRIES, INC. POLITICAL ACTION COMMITTEE (ANDURIL PAC)",
+   "connected_org": "ANDURIL INDUSTRIES, INC.",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00354241",
    "name": "CGI TECHNOLOGIES AND SOLUTIONS INC. PAC",
    "connected_org": "CGI TECHNOLOGIES AND SOLUTIONS INC.",
@@ -1585,11 +1597,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 410285.0
+   "total": 414785.0
   },
   {
    "type": "Trade association PACs",
-   "total": 100500.0
+   "total": 105500.0
   },
   {
    "type": "Membership group PACs",

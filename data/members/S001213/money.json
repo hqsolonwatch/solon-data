@@ -100,6 +100,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00130773",
+   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
+   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00432252",
    "name": "REGIONS FINANCIAL CORPORATION POLITICAL ACTION COMMITTEE",
    "connected_org": "REGIONS FINANCIAL CORPORATION",
@@ -199,6 +205,12 @@
    "committee_id": "C00364778",
    "name": "BANK OF AMERICA CORPORATION FEDERAL PAC",
    "connected_org": "BANK OF AMERICA CORPORATION",
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00410266",
+   "name": "THE VANGUARD GROUP COMMITTEE FOR RESPONSIBLE GOVERNMENT",
+   "connected_org": "THE VANGUARD GROUP",
    "total": 10000.0
   },
   {
@@ -568,6 +580,12 @@
    "total": 8000.0
   },
   {
+   "committee_id": "C00447565",
+   "name": "FINSECA PAC",
+   "connected_org": "FINSECA",
+   "total": 8000.0
+  },
+  {
    "committee_id": "C00380550",
    "name": "FMR LLC POLITICAL ACTION COMMITTEE - FEDERAL (FIDELITY PAC)",
    "connected_org": null,
@@ -586,12 +604,6 @@
    "total": 7500.0
   },
   {
-   "committee_id": "C00130773",
-   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
-   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
-   "total": 7500.0
-  },
-  {
    "committee_id": "C00148031",
    "name": "CATERPILLAR INC. POLITICAL ACTION COMMITTEE (CATPAC)",
    "connected_org": "CATERPILLAR INC.",
@@ -601,12 +613,6 @@
    "committee_id": "C00376376",
    "name": "THE TRAVELERS COMPANIES, INC. POLITICAL ACTION COMMITTEE (T-PAC)",
    "connected_org": "THE TRAVELERS COMPANIES INC.",
-   "total": 7500.0
-  },
-  {
-   "committee_id": "C00410266",
-   "name": "THE VANGUARD GROUP COMMITTEE FOR RESPONSIBLE GOVERNMENT",
-   "connected_org": "THE VANGUARD GROUP",
    "total": 7500.0
   },
   {
@@ -625,6 +631,12 @@
    "committee_id": "C00457234",
    "name": "MARSH & MCLENNAN COMPANIES, INC. POLITICAL ACTION COMMITTEE (MARSH PAC)",
    "connected_org": null,
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00040253",
+   "name": "ALLSTATE INSURANCE COMPANY PAC",
+   "connected_org": "ALLSTATE INSURANCE CO.",
    "total": 7500.0
   },
   {
@@ -688,6 +700,12 @@
    "total": 7500.0
   },
   {
+   "committee_id": "C00813063",
+   "name": "LEADERSHIP AND LOYALTY ONLY TO AMERICA PAC",
+   "connected_org": "NICK",
+   "total": 7500.0
+  },
+  {
    "committee_id": "C00127779",
    "name": "PRUDENTIAL FINANCIAL INC. FEDERAL POLITICAL ACTION COMMITTEE (AKA - PRUDENTIAL FEDERAL PAC)",
    "connected_org": "PRUDENTIAL FINANCIAL, INC.",
@@ -721,12 +739,6 @@
    "committee_id": "C00255877",
    "name": "THE OPTIONS CLEARING CORPORATION PAC",
    "connected_org": "THE OPTIONS CLEARING CORPORATION",
-   "total": 6500.0
-  },
-  {
-   "committee_id": "C00447565",
-   "name": "FINSECA PAC",
-   "connected_org": "FINSECA",
    "total": 6500.0
   },
   {
@@ -874,12 +886,6 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00040253",
-   "name": "ALLSTATE INSURANCE COMPANY PAC",
-   "connected_org": "ALLSTATE INSURANCE CO.",
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00113241",
    "name": "NATIONAL APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "NATIONAL APARTMENT ASSOCIATION",
@@ -907,12 +913,6 @@
    "committee_id": "C00540187",
    "name": "INNOVATION POLITICAL ACTION COMMITTEE",
    "connected_org": "MCHENRY FOR CONGRESS",
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00402107",
-   "name": "CUNA MUTUAL HOLDING COMPANY POLITICAL ACTION COMMITTEE/TRUSTAGE PAC",
-   "connected_org": "CUNA MUTUAL HOLDING COMPANY",
    "total": 5000.0
   },
   {
@@ -1030,14 +1030,14 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00813063",
-   "name": "LEADERSHIP AND LOYALTY ONLY TO AMERICA PAC",
-   "connected_org": "NICK",
+   "committee_id": "C00010421",
+   "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+   "connected_org": null,
    "total": 5000.0
   },
   {
-   "committee_id": "C00010421",
-   "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+   "committee_id": "C00100693",
+   "name": "CBOE GLOBAL MARKETS, INC. PAC (CBOE PAC)",
    "connected_org": null,
    "total": 5000.0
   },
@@ -1105,6 +1105,12 @@
    "committee_id": "C00427781",
    "name": "ONLINE LENDERS ALLIANCE POLITICAL ACTION COMMITTEE (OLA PAC)",
    "connected_org": "ONLINE LENDERS ALLIANCE",
+   "total": 4500.0
+  },
+  {
+   "committee_id": "C00402107",
+   "name": "CUNA MUTUAL HOLDING COMPANY POLITICAL ACTION COMMITTEE/TRUSTAGE PAC",
+   "connected_org": "CUNA MUTUAL HOLDING COMPANY",
    "total": 4500.0
   },
   {
@@ -1378,6 +1384,12 @@
    "total": 3000.0
   },
   {
+   "committee_id": "C00885319",
+   "name": "COLORADO WESTERN POLITICAL ACTION COMMITTEE",
+   "connected_org": "COLORADO RED WAVE VICTORY FUND",
+   "total": 3000.0
+  },
+  {
    "committee_id": "C00041590",
    "name": "ASSOCIATION OF AMERICAN PHYSICIANS AND SURGEONS, INC. POLITICAL ACTION COMMITTEE (AAPS-PAC)",
    "connected_org": "ASSOCIATION OF AMERICAN PHYSICIANS AND SURGEONS, INC.",
@@ -1606,15 +1618,15 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00100693",
-   "name": "CBOE GLOBAL MARKETS, INC. PAC (CBOE PAC)",
-   "connected_org": null,
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00126763",
    "name": "NATIONAL ASSOCIATION OF CONVENIENCE STORES POLITICAL ACTION COMMITTEE",
    "connected_org": "NATIONAL ASSOCIATION OF CONVENIENCE STORES",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00692806",
+   "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION FEDERAL ONLY POLITICAL ACTION COMMITTEE (INSURING AMERICA FOPAC)",
+   "connected_org": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION",
    "total": 2500.0
   },
   {
@@ -1633,6 +1645,12 @@
    "committee_id": "C00942813",
    "name": "TRUTH AND EXCELLENCE PAC",
    "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00948943",
+   "name": "SOFI TECHNOLOGIES INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "SOFI TECHNOLOGIES, INC.",
    "total": 2500.0
   },
   {
@@ -1846,9 +1864,21 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00940106",
+   "name": "GROWING AMERICA INTO A NEW ERA OF STRENGTH PAC",
+   "connected_org": "GAINES",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00459008",
    "name": "BROOKDALE SENIOR LIVING PAC",
    "connected_org": "BROOKDALE SENIOR LIVING INC.",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00857359",
+   "name": "BRANDON GILL FOR TEXAS",
+   "connected_org": "BRANDON GILL VICTORY FUND",
    "total": 2000.0
   },
   {
@@ -2281,19 +2311,19 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 846500.0
+   "total": 856000.0
   },
   {
    "type": "Trade association PACs",
-   "total": 307000.0
+   "total": 313500.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
-   "total": 306500.0
+   "total": 311500.0
   },
   {
    "type": "Other PACs",
-   "total": 205500.0
+   "total": 208000.0
   },
   {
    "type": "Membership group PACs",
@@ -2305,7 +2335,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 25000.0
+   "total": 27000.0
   },
   {
    "type": "Cooperative PACs",
@@ -2313,9 +2343,27 @@
   }
  ],
  "outside_spending": {
-  "support_total": 5770.0,
-  "oppose_total": 115911.0,
+  "support_total": 963743.0,
+  "oppose_total": 119499.0,
   "spenders": [
+   {
+    "committee_id": "C00906701",
+    "name": "AMERICA FIRST AGRICULTURE ACTION INC.",
+    "support": 529058.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00960435",
+    "name": "NO GOING BACK PAC INC.",
+    "support": 237638.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00875450",
+    "name": "CENTER FORWARD INITIATIVE INC (CFI)",
+    "support": 171341.0,
+    "oppose": 0.0
+   },
    {
     "committee_id": "C00745745",
     "name": "IN UNION USA",
@@ -2329,10 +2377,22 @@
     "oppose": 50000.0
    },
    {
+    "committee_id": "C00953588",
+    "name": "CIVIC RENEWAL FUND INC.",
+    "support": 19936.0,
+    "oppose": 0.0
+   },
+   {
     "committee_id": "C00952994",
     "name": "AMERICAN MAJORITY ACTION PAC",
     "support": 5770.0,
     "oppose": 0.0
+   },
+   {
+    "committee_id": "C90011156",
+    "name": "WORKING AMERICA",
+    "support": 0.0,
+    "oppose": 3588.0
    },
    {
     "committee_id": "C00930321",

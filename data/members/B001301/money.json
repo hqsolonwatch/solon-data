@@ -454,6 +454,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00084491",
+   "name": "INTERNATIONAL FRANCHISE ASSOCIATION FRANCHISING POLITICAL ACTION COMMITTEE INC",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00110338",
    "name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN CRYSTAL SUGAR COMPAY",
@@ -612,12 +618,6 @@
   {
    "committee_id": "C00883413",
    "name": "AMERICA'S MOUNTAIN PAC",
-   "connected_org": null,
-   "total": 3500.0
-  },
-  {
-   "committee_id": "C00084491",
-   "name": "INTERNATIONAL FRANCHISE ASSOCIATION FRANCHISING POLITICAL ACTION COMMITTEE INC",
    "connected_org": null,
    "total": 3500.0
   },
@@ -961,6 +961,12 @@
    "committee_id": "C00698092",
    "name": "LET'S ALL KEEP ELECTING REPUBLICANS PAC",
    "connected_org": "STAUBER VICTORY FUND",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00857359",
+   "name": "BRANDON GILL FOR TEXAS",
+   "connected_org": "BRANDON GILL VICTORY FUND",
    "total": 2000.0
   },
   {
@@ -1349,7 +1355,7 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 148500.0
+   "total": 150000.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
@@ -1369,7 +1375,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 14050.0
+   "total": 16050.0
   },
   {
    "type": "Cooperative PACs",

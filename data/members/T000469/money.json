@@ -88,6 +88,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00130773",
+   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
+   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00245530",
    "name": "AMERICAN SOCIETY OF HEALTH SYSTEM PHARMACIST - PAC",
    "connected_org": "AMERICAN SOCIETY OF HELATH SYSTEM PHARMACISTS",
@@ -193,12 +199,6 @@
    "committee_id": "C00002089",
    "name": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
    "connected_org": "COMMUNICATIONS WORKERS OF AMERICA",
-   "total": 7500.0
-  },
-  {
-   "committee_id": "C00130773",
-   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
-   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
    "total": 7500.0
   },
   {
@@ -418,6 +418,12 @@
    "total": 4500.0
   },
   {
+   "committee_id": "C00007450",
+   "name": "AMERICAN GAS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN GAS ASSOCIATION",
+   "total": 4500.0
+  },
+  {
    "committee_id": "C00023580",
    "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
    "connected_org": "BRANCH 193 NATIONAL ASSOCIATION OF LETTER CARRIERS POLITICAL ACTION COMMITTEE",
@@ -451,6 +457,18 @@
    "committee_id": "C00102764",
    "name": "AMERICAN CHIROPRACTIC ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN CHIROPRACTIC ASSOCIATION",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00507962",
+   "name": "AES CORPORATION POLITICAL ACTION COMMITTEE; THE",
+   "connected_org": "AES CORPORATION",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 4000.0
   },
   {
@@ -544,12 +562,6 @@
    "total": 3000.0
   },
   {
-   "committee_id": "C00507962",
-   "name": "AES CORPORATION POLITICAL ACTION COMMITTEE; THE",
-   "connected_org": "AES CORPORATION",
-   "total": 3000.0
-  },
-  {
    "committee_id": "C00196246",
    "name": "AMERICAN ACADEMY OF OPHTHALMOLOGY INC POLITICAL COMMITTEE (OPHTHPAC)",
    "connected_org": "AMERICAN ACADEMY OF OPHTHALMOLOGY",
@@ -625,12 +637,6 @@
    "committee_id": "C00893461",
    "name": "CHRISTOPHER STREET PROJECT PAC (CSP PAC)",
    "connected_org": null,
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 2500.0
   },
   {
@@ -712,6 +718,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00204453",
+   "name": "KING & SPALDING NONPARTISAN COMMITTEE FOR GOOD GOVERNMENT",
+   "connected_org": "NONE",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00383950",
    "name": "NATIONAL ELEVATOR CONSTRUCTORS PAC/ INTN'L  UNION OF ELEVATOR CONSTRUCTORS (NEC PAC)",
    "connected_org": "INT'L UNION OF ELEVATOR CONSTRUCTORS",
@@ -745,12 +757,6 @@
    "committee_id": "C00395285",
    "name": "FRAMATOME INC PAC",
    "connected_org": "FRAMATOME INC.",
-   "total": 2000.0
-  },
-  {
-   "committee_id": "C00007450",
-   "name": "AMERICAN GAS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "AMERICAN GAS ASSOCIATION",
    "total": 2000.0
   },
   {
@@ -907,6 +913,12 @@
    "committee_id": "C00395723",
    "name": "ALSTON & BIRD PAC",
    "connected_org": null,
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00905042",
+   "name": "IGS VENTURES, INC. PAC",
+   "connected_org": "IGS VENTURES, INC.",
    "total": 1500.0
   },
   {
@@ -1222,6 +1234,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00142158",
+   "name": "REWORLD WASTE, LLC POLITICAL ACTION COMMITTEE (REWORLD WASTE PAC)",
+   "connected_org": "REWORLD WASTE, LLC",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00361758",
    "name": "T-MOBILE US, INC.  POLITICAL ACTION COMMITTEE (T-PAC)",
    "connected_org": "T-MOBILE US, INC.  POLITICAL ACTION COMMITTEE (T-PAC)",
@@ -1291,15 +1309,15 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 243000.0
+   "total": 246500.0
   },
   {
    "type": "Trade association PACs",
-   "total": 185500.0
+   "total": 189500.0
   },
   {
    "type": "Membership group PACs",
-   "total": 134550.0
+   "total": 137050.0
   },
   {
    "type": "Labor union PACs",
@@ -1307,7 +1325,7 @@
   },
   {
    "type": "Other PACs",
-   "total": 53000.0
+   "total": 55500.0
   },
   {
    "type": "Cooperative PACs",

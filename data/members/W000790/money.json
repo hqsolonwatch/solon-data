@@ -70,6 +70,12 @@
    "total": 3500.0
   },
   {
+   "committee_id": "C00325936",
+   "name": "SOCIETY OF THORACIC SURGEONS POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE SOCIETY OF THORACIC SURGEONS",
+   "total": 3000.0
+  },
+  {
    "committee_id": "C00001636",
    "name": "SMART TD PAC",
    "connected_org": "SMART TD",
@@ -172,6 +178,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00946111",
+   "name": "ANTHROPIC PBC POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00420000",
    "name": "NATIONAL ASSOCIATION OF LANDSCAPE PROFESSIONALS INC. PAC",
    "connected_org": "NATIONAL ASSOCIATION OF LANDSCAPE PROFESSIONALS, INC.",
@@ -187,12 +199,6 @@
    "committee_id": "C00550491",
    "name": "THOMPSON COBURN POLITICAL ACTION COMMITTEE",
    "connected_org": null,
-   "total": 2000.0
-  },
-  {
-   "committee_id": "C00325936",
-   "name": "SOCIETY OF THORACIC SURGEONS POLITICAL ACTION COMMITTEE",
-   "connected_org": "THE SOCIETY OF THORACIC SURGEONS",
    "total": 2000.0
   },
   {
@@ -325,7 +331,7 @@
  "pac_by_type": [
   {
    "type": "Membership group PACs",
-   "total": 27815.0
+   "total": 28815.0
   },
   {
    "type": "Other PACs",
@@ -341,7 +347,7 @@
   },
   {
    "type": "Corporate PACs",
-   "total": -3500.0
+   "total": -1000.0
   }
  ],
  "outside_spending": {

@@ -130,6 +130,12 @@
    "total": 9000.0
   },
   {
+   "committee_id": "C00542365",
+   "name": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC)",
+   "connected_org": "TOYOTA MOTOR NORTH AMERICA, INC",
+   "total": 7500.0
+  },
+  {
    "committee_id": "C00001388",
    "name": "DAIRY FARMERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE; AKA DFA-PAC",
    "connected_org": "DAIRY FARMERS OF AMERICA, INC.",
@@ -202,12 +208,6 @@
    "total": 5600.0
   },
   {
-   "committee_id": "C00542365",
-   "name": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC)",
-   "connected_org": "TOYOTA MOTOR NORTH AMERICA, INC",
-   "total": 5500.0
-  },
-  {
    "committee_id": "C00076182",
    "name": "NATIONAL TURKEY FEDERATION POLITICAL ACTION COMMITEE/TURPAC",
    "connected_org": "NATIONAL TURKEY FEDERATION",
@@ -271,6 +271,12 @@
    "committee_id": "C00467431",
    "name": "THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE",
    "connected_org": "SCALISE LEADERSHIP FUND",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00786202",
+   "name": "CROSSPARTISAN PAC II",
+   "connected_org": null,
    "total": 5000.0
   },
   {
@@ -412,6 +418,12 @@
    "total": 4500.0
   },
   {
+   "committee_id": "C00626564",
+   "name": "THE SEASONAL EMPLOYER PAC",
+   "connected_org": "NONE",
+   "total": 4000.0
+  },
+  {
    "committee_id": "C00109017",
    "name": "AT&T INC. EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE (AT&T EMPLOYEE FEDERAL PAC)",
    "connected_org": "AT&T INC.",
@@ -544,12 +556,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00786202",
-   "name": "CROSSPARTISAN PAC II",
-   "connected_org": null,
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00404194",
    "name": "GENWORTH FINANCIAL, INC. POLITICAL ACTION COMMITTEE (GENWORTH PAC)",
    "connected_org": null,
@@ -643,6 +649,12 @@
    "committee_id": "C00523936",
    "name": "IRON MOUNTAIN INCORPORATED EMPLOYEES PAC (IMPAC)",
    "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00430256",
+   "name": "MOLINA HEALTHCARE, INC. PAC",
+   "connected_org": "MOLINA HEALTHCARE INC",
    "total": 2500.0
   },
   {
@@ -784,6 +796,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00169821",
+   "name": "TYSON FOODS INC POLITICAL ACTION COMMITTEE (TYPAC)",
+   "connected_org": "TYSON FOODS INC.",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00006080",
    "name": "AMERICAN HEALTH CARE ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN HEALTH CARE ASSOCIATION",
@@ -793,12 +811,6 @@
    "committee_id": "C00401083",
    "name": "SQUIRE PATTON BOGGS POLITICAL ACTION COMMITTEE (SQUIRE PATTON BOGGS PAC)",
    "connected_org": "SQUIRE SANDERS (US) LLP POLITICAL ACTION COMMITTEE (SQUIRE SANDERS PAC)",
-   "total": 1500.0
-  },
-  {
-   "committee_id": "C00626564",
-   "name": "THE SEASONAL EMPLOYER PAC",
-   "connected_org": "NONE",
    "total": 1500.0
   },
   {
@@ -1042,6 +1054,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00197749",
+   "name": "TWDC ENTERPRISES 18 CORP. EMPLOYEES PAC AKA 'THE WALT DISNEY COMPANY EMPLOYEES PAC' OR 'DISNEY PAC'",
+   "connected_org": "TWDC ENTERPRISES 18 CORP.",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00383992",
    "name": "PERATON CORP. POLITICAL ACTION COMMITTEE (A.K.A. 'PERATON PAC')",
    "connected_org": "PERATON CORP.",
@@ -1060,6 +1078,18 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00770255",
+   "name": "SIX PAC",
+   "connected_org": "MILLER-MEEKS VICTORY FUND",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00652537",
+   "name": "AMERICAN CLEANING INSTITUTE PAC",
+   "connected_org": "AMERICAN CLEANING INSTITUTE",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00360354",
    "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
    "connected_org": null,
@@ -1075,6 +1105,12 @@
    "committee_id": "C00082917",
    "name": "ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE",
    "connected_org": "ASSOCIATED GENERAL CONTRACTORS OF AMERICA",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00035006",
+   "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
+   "connected_org": "CHEVRON CORPORATION",
    "total": 1000.0
   },
   {
@@ -1129,15 +1165,15 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 299250.0
+   "total": 307750.0
   },
   {
    "type": "Trade association PACs",
-   "total": 168400.0
+   "total": 169400.0
   },
   {
    "type": "Other PACs",
-   "total": 59600.0
+   "total": 65600.0
   },
   {
    "type": "Membership group PACs",

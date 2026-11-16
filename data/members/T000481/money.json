@@ -70,16 +70,16 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00002766",
+   "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00446237",
    "name": "NATIONAL NURSES UNITED PAC - A FUND FOR A HEALTHY AMERICA",
    "connected_org": "NATIONAL NURSES UNITED",
    "total": 2000.0
-  },
-  {
-   "committee_id": "C00002766",
-   "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
-   "connected_org": null,
-   "total": 1000.0
   },
   {
    "committee_id": "C00808253",
@@ -91,6 +91,12 @@
    "committee_id": "C00573261",
    "name": "END CITIZENS UNITED",
    "connected_org": "LET AMERICA VOTE PAC",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00545202",
+   "name": "THE CENTER FOR FREETHOUGHT EQUALITY PAC",
+   "connected_org": "THE CENTER FOR FREETHOUGHT EQUALITY",
    "total": 1000.0
   },
   {
@@ -121,7 +127,7 @@
  "pac_by_type": [
   {
    "type": "Labor union PACs",
-   "total": 34500.0
+   "total": 35500.0
   },
   {
    "type": "Other PACs",
@@ -129,7 +135,7 @@
   },
   {
    "type": "Membership group PACs",
-   "total": 5050.0
+   "total": 6050.0
   },
   {
    "type": "Trade association PACs",

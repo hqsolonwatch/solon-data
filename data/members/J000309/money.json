@@ -100,9 +100,21 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00238204",
+   "name": "PAKISTANI AMERICAN PUBLIC AFFAIRS COMMITTEE PAK-PAC",
+   "connected_org": "NONE",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00426874",
    "name": "FEDERATION OF EXCHANGE ACCOMODATORS 1031 PAC",
    "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00312785",
+   "name": "SWISHER INTERNATIONAL INC PAC FUND",
+   "connected_org": "SWISHER INTERNATIONAL INC",
    "total": 5000.0
   },
   {
@@ -128,6 +140,12 @@
    "name": "MCDONALDS CORPORATION POLITICAL ACTION COMMITTEE",
    "connected_org": "MCDONALDS CORPORATION",
    "total": 3500.0
+  },
+  {
+   "committee_id": "C00101766",
+   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
+   "connected_org": "UNITED AIRLINES, INC.",
+   "total": 3000.0
   },
   {
    "committee_id": "C00011114",
@@ -253,12 +271,6 @@
    "committee_id": "C00067884",
    "name": "CARGILL, INCORPORATED POLITICAL ACTION COMMITTEE",
    "connected_org": "CARGILL, INCORPORATED",
-   "total": 2000.0
-  },
-  {
-   "committee_id": "C00101766",
-   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
-   "connected_org": "UNITED AIRLINES, INC.",
    "total": 2000.0
   },
   {
@@ -421,7 +433,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 95000.0
+   "total": 101000.0
   },
   {
    "type": "Trade association PACs",
@@ -437,7 +449,7 @@
   },
   {
    "type": "Other PACs",
-   "total": 12070.0
+   "total": 17070.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",

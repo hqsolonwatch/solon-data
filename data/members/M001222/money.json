@@ -940,12 +940,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00247403",
-   "name": "NORPAC",
-   "connected_org": "NONE",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00205369",
    "name": "VAN NESS FELDMAN, LLP POLITICAL ACTION COMMITTEE",
    "connected_org": "NONE",
@@ -1354,6 +1348,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00905042",
+   "name": "IGS VENTURES, INC. PAC",
+   "connected_org": "IGS VENTURES, INC.",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00388819",
    "name": "PHARMACEUTICAL CARE MANAGEMENT ASSOCIATION POLITICAL ACTION COMMITTEE (PCMA PAC)",
    "connected_org": "PHARMACEUTICAL CARE MANAGEMENT ASSOCIATION",
@@ -1393,7 +1393,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 243000.0
+   "total": 244000.0
   },
   {
    "type": "Trade association PACs",
@@ -1405,7 +1405,7 @@
   },
   {
    "type": "Other PACs",
-   "total": 58150.0
+   "total": 56150.0
   },
   {
    "type": "Membership group PACs",
@@ -1421,9 +1421,15 @@
   }
  ],
  "outside_spending": {
-  "support_total": 0.0,
-  "oppose_total": 1834436.0,
+  "support_total": 97511.0,
+  "oppose_total": 3831553.0,
   "spenders": [
+   {
+    "committee_id": "C00886614",
+    "name": "YOUR COMMUNITY PAC",
+    "support": 0.0,
+    "oppose": 1979105.0
+   },
    {
     "committee_id": "C00960997",
     "name": "READY FOR THE FIGHT",
@@ -1437,10 +1443,40 @@
     "oppose": 345414.0
    },
    {
+    "committee_id": "C00906701",
+    "name": "AMERICA FIRST AGRICULTURE ACTION INC.",
+    "support": 51502.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00953588",
+    "name": "CIVIC RENEWAL FUND INC.",
+    "support": 33463.0,
+    "oppose": 0.0
+   },
+   {
     "committee_id": "C00725820",
     "name": "THE LINCOLN PROJECT",
     "support": 0.0,
     "oppose": 20000.0
+   },
+   {
+    "committee_id": "C00955104",
+    "name": "RETIRED AMERICANS ACTION",
+    "support": 0.0,
+    "oppose": 16477.0
+   },
+   {
+    "committee_id": "C00879510",
+    "name": "AMERICA PAC",
+    "support": 12546.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C90017492",
+    "name": "INDIVISIBLE PROJECT INC.",
+    "support": 0.0,
+    "oppose": 1535.0
    },
    {
     "committee_id": "C00954040",

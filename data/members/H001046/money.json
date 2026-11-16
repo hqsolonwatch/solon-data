@@ -274,6 +274,12 @@
    "total": 3500.0
   },
   {
+   "committee_id": "C00946111",
+   "name": "ANTHROPIC PBC POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 3500.0
+  },
+  {
    "committee_id": "C00489302",
    "name": "SUNRUN INC POLITICAL ACTION COMMITTEE (SUNRUN PAC)",
    "connected_org": "SUNRUN INC.",
@@ -349,6 +355,12 @@
    "committee_id": "C00834515",
    "name": "PAC A PUNCH",
    "connected_org": null,
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00353797",
+   "name": "SIEMENS CORPORATION PAC",
+   "connected_org": "SIEMENS CORPORATION",
    "total": 3000.0
   },
   {
@@ -511,6 +523,12 @@
    "committee_id": "C00670331",
    "name": "ALNYLAM PHARMACEUTICALS, INC. POLITICAL ACTION COMMITTEE (ALNYLAM PAC)",
    "connected_org": "ALNYLAM PHARMACEUTICALS, INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00435024",
+   "name": "CENTER FOR SPORTFISHING POLICY POLITICAL ACTION COMMITTEE AKA CENTER PAC",
+   "connected_org": null,
    "total": 2500.0
   },
   {
@@ -694,12 +712,6 @@
    "total": 1500.0
   },
   {
-   "committee_id": "C00353797",
-   "name": "SIEMENS CORPORATION PAC",
-   "connected_org": "SIEMENS CORPORATION",
-   "total": 1500.0
-  },
-  {
    "committee_id": "C00523233",
    "name": "EDF POWER SOLUTIONS, INC. PAC",
    "connected_org": "EDF POWER SOLUTIONS, INC.",
@@ -745,6 +757,12 @@
    "committee_id": "C00323048",
    "name": "ORACLE AMERICA, INC. POLITICAL ACTION COMMITTEE (ORACLE PAC)",
    "connected_org": "ORACLE AMERICA, INC.",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00205369",
+   "name": "VAN NESS FELDMAN, LLP POLITICAL ACTION COMMITTEE",
+   "connected_org": "NONE",
    "total": 1500.0
   },
   {
@@ -1171,7 +1189,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 316107.0
+   "total": 322607.0
   },
   {
    "type": "Trade association PACs",
@@ -1179,7 +1197,7 @@
   },
   {
    "type": "Other PACs",
-   "total": 36000.0
+   "total": 38500.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",

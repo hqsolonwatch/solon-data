@@ -58,6 +58,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00004812",
+   "name": "MORTGAGE BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE (MORPAC)",
+   "connected_org": "MORTGAGE BANKERS ASSOCIATION",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00012914",
    "name": "AMERICAN LAND TITLE ASSOCIATION TITLE INDUSTRY PAC (TIPAC)",
    "connected_org": "AMERICAN LAND TITLE ASSOCIATION",
@@ -139,12 +145,6 @@
    "committee_id": "C00028860",
    "name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
    "connected_org": null,
-   "total": 7500.0
-  },
-  {
-   "committee_id": "C00004812",
-   "name": "MORTGAGE BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE (MORPAC)",
-   "connected_org": "MORTGAGE BANKERS ASSOCIATION",
    "total": 7500.0
   },
   {
@@ -316,10 +316,22 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
+   "total": 4000.0
+  },
+  {
    "committee_id": "C00699744",
    "name": "TORRES FOR CONGRESS",
    "connected_org": "TORRES VICTORY FUND",
    "total": 4000.0
+  },
+  {
+   "committee_id": "C00101766",
+   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
+   "connected_org": "UNITED AIRLINES, INC.",
+   "total": 3000.0
   },
   {
    "committee_id": "C00093054",
@@ -349,6 +361,12 @@
    "committee_id": "C00023580",
    "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
    "connected_org": "BRANCH 193 NATIONAL ASSOCIATION OF LETTER CARRIERS POLITICAL ACTION COMMITTEE",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00100693",
+   "name": "CBOE GLOBAL MARKETS, INC. PAC (CBOE PAC)",
+   "connected_org": null,
    "total": 2500.0
   },
   {
@@ -391,12 +409,6 @@
    "committee_id": "C00303339",
    "name": "NATIONAL ASSOCIATION OF REAL ESTATE INVESTMENT TRUSTS, INC. POLITICAL ACTION COMMITTEE",
    "connected_org": "NATIONAL ASSOCIATION OF REAL ESTATE INVESTMENT TRUSTS, INC.",
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 2500.0
   },
   {
@@ -450,12 +462,6 @@
   {
    "committee_id": "C00467837",
    "name": "EDPAC",
-   "connected_org": null,
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00457234",
-   "name": "MARSH & MCLENNAN COMPANIES, INC. POLITICAL ACTION COMMITTEE (MARSH PAC)",
    "connected_org": null,
    "total": 2500.0
   },
@@ -712,6 +718,12 @@
    "total": 0.0
   },
   {
+   "committee_id": "C00457234",
+   "name": "MARSH & MCLENNAN COMPANIES, INC. POLITICAL ACTION COMMITTEE (MARSH PAC)",
+   "connected_org": null,
+   "total": 0.0
+  },
+  {
    "committee_id": "C00410266",
    "name": "THE VANGUARD GROUP COMMITTEE FOR RESPONSIBLE GOVERNMENT",
    "connected_org": "THE VANGUARD GROUP",
@@ -728,22 +740,16 @@
    "name": "ICE MILLER PAC",
    "connected_org": "NONE",
    "total": -2500.0
-  },
-  {
-   "committee_id": "C00100693",
-   "name": "CBOE GLOBAL MARKETS, INC. PAC (CBOE PAC)",
-   "connected_org": null,
-   "total": -2500.0
   }
  ],
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 156500.0
+   "total": 162000.0
   },
   {
    "type": "Trade association PACs",
-   "total": 137000.0
+   "total": 141000.0
   },
   {
    "type": "Other PACs",

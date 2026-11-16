@@ -70,6 +70,12 @@
    "total": 6000.0
   },
   {
+   "committee_id": "C00084491",
+   "name": "INTERNATIONAL FRANCHISE ASSOCIATION FRANCHISING POLITICAL ACTION COMMITTEE INC",
+   "connected_org": null,
+   "total": 5500.0
+  },
+  {
    "committee_id": "C00590315",
    "name": "SAMSUNG ELECTRONICS AMERICA INC POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -301,12 +307,6 @@
    "committee_id": "C00283135",
    "name": "NATIONAL ASSOCIATION OF BENEFITS AND INSURANCE PROFESSIONALS PAC (NABIP PAC)",
    "connected_org": "NATIONAL ASSOCIATION OF BENEFITS AND INSURANCE PROFESSIONALS",
-   "total": 4000.0
-  },
-  {
-   "committee_id": "C00084491",
-   "name": "INTERNATIONAL FRANCHISE ASSOCIATION FRANCHISING POLITICAL ACTION COMMITTEE INC",
-   "connected_org": null,
    "total": 4000.0
   },
   {
@@ -673,6 +673,12 @@
    "committee_id": "C00461574",
    "name": "PERDOCEO EDUCATION CORPORATION POLITICAL ACTION COMMITTEE",
    "connected_org": "PERDOCEO EDUCATION CORPORATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00357863",
+   "name": "BOSTON SCIENTIFIC CORPORATION POLITICAL ACTION COMMITTEE (BSC PAC)",
+   "connected_org": "BOSTON SCIENTIFIC CORPORATION",
    "total": 2500.0
   },
   {
@@ -1096,6 +1102,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00067884",
+   "name": "CARGILL, INCORPORATED POLITICAL ACTION COMMITTEE",
+   "connected_org": "CARGILL, INCORPORATED",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00104901",
    "name": "AKIN GUMP STRAUSS HAUER & FELD LLP CIVIC ACTION COMMITTEE (AKA AKIN GUMP PAC)",
    "connected_org": "NONE",
@@ -1117,11 +1129,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 347000.0
+   "total": 350500.0
   },
   {
    "type": "Trade association PACs",
-   "total": 87500.0
+   "total": 89000.0
   },
   {
    "type": "Other PACs",

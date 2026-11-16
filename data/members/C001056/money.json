@@ -52,12 +52,6 @@
    "total": 15000.0
   },
   {
-   "committee_id": "C00438291",
-   "name": "DENALI LEADERSHIP PAC",
-   "connected_org": "MURKOWSKI",
-   "total": 15000.0
-  },
-  {
    "committee_id": "C00379479",
    "name": "THE HAWKEYE PAC",
    "connected_org": "GOLDFINCH PAC",
@@ -136,20 +130,8 @@
    "total": 10000.0
   },
   {
-   "committee_id": "C00104901",
-   "name": "AKIN GUMP STRAUSS HAUER & FELD LLP CIVIC ACTION COMMITTEE (AKA AKIN GUMP PAC)",
-   "connected_org": "NONE",
-   "total": 10000.0
-  },
-  {
    "committee_id": "C00409003",
    "name": "HEARTLAND VALUES PAC",
-   "connected_org": null,
-   "total": 10000.0
-  },
-  {
-   "committee_id": "C00566851",
-   "name": "JOBS OPPORTUNITY AND NEW IDEAS PAC",
    "connected_org": null,
    "total": 10000.0
   },
@@ -364,6 +346,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00438291",
+   "name": "DENALI LEADERSHIP PAC",
+   "connected_org": "MURKOWSKI",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00236489",
    "name": "KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
    "connected_org": "KOCH, INC.",
@@ -542,6 +530,12 @@
    "name": "HALLIBURTON COMPANY PAC",
    "connected_org": "HALLIBURTON COMPANY",
    "total": 9333.0
+  },
+  {
+   "committee_id": "C00104901",
+   "name": "AKIN GUMP STRAUSS HAUER & FELD LLP CIVIC ACTION COMMITTEE (AKA AKIN GUMP PAC)",
+   "connected_org": "NONE",
+   "total": 9250.0
   },
   {
    "committee_id": "C00068692",
@@ -810,6 +804,12 @@
   {
    "committee_id": "C00590315",
    "name": "SAMSUNG ELECTRONICS AMERICA INC POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00566851",
+   "name": "JOBS OPPORTUNITY AND NEW IDEAS PAC",
    "connected_org": null,
    "total": 5000.0
   },
@@ -2680,6 +2680,12 @@
    "total": -2500.0
   },
   {
+   "committee_id": "C00443671",
+   "name": "MICRON TECHNOLOGY, INC. EMPLOYEE PAC",
+   "connected_org": null,
+   "total": -3000.0
+  },
+  {
    "committee_id": "C00387464",
    "name": "ALAMO PAC",
    "connected_org": "CORNYN",
@@ -2785,7 +2791,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 1062408.0
+   "total": 1059408.0
   },
   {
    "type": "Trade association PACs",
@@ -2793,7 +2799,7 @@
   },
   {
    "type": "Leadership PACs (run by other politicians)",
-   "total": 280350.0
+   "total": 270350.0
   },
   {
    "type": "Membership group PACs",
@@ -2801,7 +2807,7 @@
   },
   {
    "type": "Other PACs",
-   "total": 87351.0
+   "total": 86601.0
   },
   {
    "type": "Party committees",

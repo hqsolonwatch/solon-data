@@ -256,6 +256,12 @@
    "total": 8500.0
   },
   {
+   "committee_id": "C00106146",
+   "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+   "connected_org": "AMERICAN HOSPITAL ASSOCIATION",
+   "total": 8000.0
+  },
+  {
    "committee_id": "C00893883",
    "name": "AMERICANS FOR RESPONSIBLE INNOVATION LTD. POLITICAL ACTION COMMITTEE (ARI PAC)",
    "connected_org": null,
@@ -340,10 +346,10 @@
    "total": 6000.0
   },
   {
-   "committee_id": "C00106146",
-   "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
-   "connected_org": "AMERICAN HOSPITAL ASSOCIATION",
-   "total": 5500.0
+   "committee_id": "C00492025",
+   "name": "AMERICAN DEFENSE AND MILITARY PAC",
+   "connected_org": null,
+   "total": 6000.0
   },
   {
    "committee_id": "C00625988",
@@ -484,12 +490,6 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00492025",
-   "name": "AMERICAN DEFENSE AND MILITARY PAC",
-   "connected_org": null,
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00217638",
    "name": "INTERNATIONAL COUNCIL OF SHOPPING CENTERS INC POLITICAL ACTION COMMITTEE (ICSC PAC)",
    "connected_org": null,
@@ -517,6 +517,12 @@
    "committee_id": "C00864785",
    "name": "IN THIS TOGETHER PAC",
    "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 5000.0
   },
   {
@@ -618,6 +624,12 @@
   {
    "committee_id": "C00826297",
    "name": "DEMOCRACY ACTION NOW PAC",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00824425",
+   "name": "TAFT STETTINIUS & HOLLISTER LLP POLITICAL ACTION COMMITTEE",
    "connected_org": null,
    "total": 5000.0
   },
@@ -736,9 +748,21 @@
    "total": 3500.0
   },
   {
+   "committee_id": "C00091561",
+   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
+   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
+   "total": 3500.0
+  },
+  {
    "committee_id": "C00551168",
    "name": "PUGET PAC",
    "connected_org": null,
+   "total": 3500.0
+  },
+  {
+   "committee_id": "C00566562",
+   "name": "BACKPAC",
+   "connected_org": "BEYER",
    "total": 3500.0
   },
   {
@@ -844,12 +868,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00091561",
-   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
-   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00740126",
    "name": "UNITEDEMOCRATS PAC",
    "connected_org": "VOTER PROTECTION PROJECT",
@@ -892,12 +910,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00566562",
-   "name": "BACKPAC",
-   "connected_org": "BEYER",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00569871",
    "name": "DOING RIGHT - RESULTS ACTION UNITY LEADERSHIP PAC",
    "connected_org": null,
@@ -931,12 +943,6 @@
    "committee_id": "C00039578",
    "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
    "connected_org": "COUNCIL OF INSURANCE AGENTS & BROKERS",
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 2500.0
   },
   {
@@ -1009,6 +1015,12 @@
    "committee_id": "C00114132",
    "name": "AMERICAN VETERINARY MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN VETERINARY MEDICAL ASSOCIATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00226548",
+   "name": "VISTRA EMPLOYEE POLITICAL ACTION COMMITTEE OF VISTRA CORP.",
+   "connected_org": "VISTRA CORP.",
    "total": 2000.0
   },
   {
@@ -1216,6 +1228,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00652537",
+   "name": "AMERICAN CLEANING INSTITUTE PAC",
+   "connected_org": "AMERICAN CLEANING INSTITUTE",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00361410",
    "name": "SOUTHERN CALIFORNIA FUND",
    "connected_org": "SHERMAN",
@@ -1273,12 +1291,6 @@
    "committee_id": "C00335257",
    "name": "HEALTH & FITNESS ASSOCIATION PAC (FITPAC)",
    "connected_org": "HEALTH & FITNESS ASSOCIATION",
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00226548",
-   "name": "VISTRA EMPLOYEE POLITICAL ACTION COMMITTEE OF VISTRA CORP.",
-   "connected_org": "VISTRA CORP.",
    "total": 1000.0
   },
   {
@@ -1660,6 +1672,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00008839",
+   "name": "AMERICAN PODIATRIC MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN PODIATRIC MEDICAL ASSOCIATION, INC.",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00763649",
    "name": "TROY CARTER FOR CONGRESS",
    "connected_org": "TROY CARTER VICTORY FUND",
@@ -1859,15 +1877,15 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 230185.0
+   "total": 237185.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
-   "total": 217500.0
+   "total": 219500.0
   },
   {
    "type": "Other PACs",
-   "total": 190350.0
+   "total": 192350.0
   },
   {
    "type": "Membership group PACs",
@@ -1879,7 +1897,7 @@
   },
   {
    "type": "Corporate PACs",
-   "total": 17250.0
+   "total": 23250.0
   },
   {
    "type": "Cooperative PACs",
@@ -1891,14 +1909,32 @@
   }
  ],
  "outside_spending": {
-  "support_total": 63955.0,
-  "oppose_total": 1566117.0,
+  "support_total": 303955.0,
+  "oppose_total": 2123126.0,
   "spenders": [
    {
     "committee_id": "C00504530",
     "name": "CLF",
     "support": 0.0,
     "oppose": 1566117.0
+   },
+   {
+    "committee_id": "C00960435",
+    "name": "NO GOING BACK PAC INC.",
+    "support": 0.0,
+    "oppose": 481167.0
+   },
+   {
+    "committee_id": "C00853770",
+    "name": "A STRONG INNOVATION ECONOMY REQUIRES STRONG IP PROTECTION",
+    "support": 240000.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00879510",
+    "name": "AMERICA PAC",
+    "support": 0.0,
+    "oppose": 72343.0
    },
    {
     "committee_id": "C00625533",
@@ -1911,6 +1947,12 @@
     "name": "OHIO CITIZEN ACTION",
     "support": 9599.0,
     "oppose": 0.0
+   },
+   {
+    "committee_id": "C00912337",
+    "name": "RED BRIDGE LEADERSHIP PAC",
+    "support": 0.0,
+    "oppose": 3499.0
    },
    {
     "committee_id": "C00909994",

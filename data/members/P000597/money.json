@@ -292,9 +292,21 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00035451",
+   "name": "AIR LINE PILOTS ASSOCIATION PAC",
+   "connected_org": "AIR LINE PILOTS ASSOCIATION",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00326389",
    "name": "AMALGAMATED SUGAR COMPANY POLITICAL ACTION COMMITTEE",
    "connected_org": "AMALGAMATED SUGAR COMPANY",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00789164",
+   "name": "FOOD SOLUTIONS ACTION PAC (FSA PAC)",
+   "connected_org": null,
    "total": 2000.0
   },
   {
@@ -307,6 +319,12 @@
    "committee_id": "C00359539",
    "name": "AMERICAN ACADEMY OF DERMATOLOGY ASSOCIATION POLITICAL ACTION COMMITTEE (SKINPAC)",
    "connected_org": "AMERICAN ACADEMY OF DERMATOLOGY ASSOCIATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00033589",
+   "name": "CORNING INCORPORATED EMPLOYEES POLITICAL ACTION COMMITTEE (COREPAC)",
+   "connected_org": "CORNING INCORPORATED",
    "total": 2000.0
   },
   {
@@ -385,12 +403,6 @@
    "committee_id": "C00685297",
    "name": "ELECT DEMOCRATIC WOMEN",
    "connected_org": "PRO-CHOICE WOMEN",
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00789164",
-   "name": "FOOD SOLUTIONS ACTION PAC (FSA PAC)",
-   "connected_org": null,
    "total": 1000.0
   },
   {
@@ -493,7 +505,7 @@
  "pac_by_type": [
   {
    "type": "Labor union PACs",
-   "total": 79000.0
+   "total": 81500.0
   },
   {
    "type": "Trade association PACs",
@@ -501,11 +513,11 @@
   },
   {
    "type": "Corporate PACs",
-   "total": 65000.0
+   "total": 67000.0
   },
   {
    "type": "Membership group PACs",
-   "total": 40050.0
+   "total": 41050.0
   },
   {
    "type": "Cooperative PACs",

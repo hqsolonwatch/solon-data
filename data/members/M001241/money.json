@@ -466,12 +466,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00384818",
-   "name": "CVS HEALTH PAC",
-   "connected_org": "CVS HEALTH",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00024968",
    "name": "AMERICAN OPTOMETRIC ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN OPTOMETRIC ASSOCIATION",
@@ -619,6 +613,12 @@
    "committee_id": "C00494112",
    "name": "BEEPAC (BUILDING ECONOMIC EMPOWERMENT PAC)",
    "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00091561",
+   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
+   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
    "total": 2000.0
   },
   {
@@ -964,12 +964,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00091561",
-   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
-   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00526301",
    "name": "ATHENA PAC",
    "connected_org": null,
@@ -1084,6 +1078,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00032995",
+   "name": "AMALGAMATED TRANSIT UNION - COPE",
+   "connected_org": "AMALGAMATED TRANSIT UNION",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00000984",
    "name": "UNITED STATES TELECOM ASSOCIATION POLITICAL ACTION COMMITTEE (TELECOMPAC)",
    "connected_org": "UNITED STATES TELECOM ASSOCIATION",
@@ -1174,6 +1174,12 @@
    "total": 0.0
   },
   {
+   "committee_id": "C00384818",
+   "name": "CVS HEALTH PAC",
+   "connected_org": "CVS HEALTH",
+   "total": 0.0
+  },
+  {
    "committee_id": "C00346353",
    "name": "CRH AMERICAS, INC. PAC",
    "connected_org": "CRH AMERICAS, INC.",
@@ -1183,7 +1189,7 @@
  "pac_by_type": [
   {
    "type": "Labor union PACs",
-   "total": 166000.0
+   "total": 167000.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
@@ -1191,7 +1197,7 @@
   },
   {
    "type": "Other PACs",
-   "total": 110181.0
+   "total": 111181.0
   },
   {
    "type": "Trade association PACs",
@@ -1210,16 +1216,16 @@
    "total": 12000.0
   },
   {
-   "type": "Corporate PACs",
-   "total": 4000.0
-  },
-  {
    "type": "Party committees",
    "total": 2484.0
+  },
+  {
+   "type": "Corporate PACs",
+   "total": 1500.0
   }
  ],
  "outside_spending": {
-  "support_total": 126929.0,
+  "support_total": 129997.0,
   "oppose_total": 4548.0,
   "spenders": [
    {
@@ -1239,6 +1245,12 @@
     "name": "THE CONSERVATIVE CAUCUS DBA AMERICANS FOR CONSTITUTIONAL LIBERTY",
     "support": 0.0,
     "oppose": 4548.0
+   },
+   {
+    "committee_id": "C00835041",
+    "name": "FORWARD BLUE",
+    "support": 3068.0,
+    "oppose": 0.0
    },
    {
     "committee_id": "C00888081",

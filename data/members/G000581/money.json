@@ -58,6 +58,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00513549",
+   "name": "PHILLIPS 66 PAC",
+   "connected_org": "PHILLIPS 66",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00193631",
    "name": "THE FARM CREDIT COUNCIL POLITICAL ACTION COMMITTEE",
    "connected_org": "THE FARM CREDIT COUNCIL",
@@ -151,6 +157,12 @@
    "committee_id": "C00305318",
    "name": "BLUE DOG POLITICAL ACTION COMMITTEE",
    "connected_org": null,
+   "total": 10000.0
+  },
+  {
+   "committee_id": "C00012245",
+   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+   "connected_org": "UBS AMERICAS INC.",
    "total": 10000.0
   },
   {
@@ -322,6 +334,12 @@
    "total": 8500.0
   },
   {
+   "committee_id": "C00015552",
+   "name": "BEEF-PAC (BEEF POLITICAL ACTION COMMITTEE OF TEXAS CATTLE FEEDERS ASSOCIATION)",
+   "connected_org": "TEXAS CATTLE FEEDERS ASSOCIATION",
+   "total": 8000.0
+  },
+  {
    "committee_id": "C00764233",
    "name": "DEFEND THE VOTE",
    "connected_org": "DEFEND THE VOTE LEADERSHIP FUND",
@@ -340,12 +358,6 @@
    "total": 7500.0
   },
   {
-   "committee_id": "C00513549",
-   "name": "PHILLIPS 66 PAC",
-   "connected_org": "PHILLIPS 66",
-   "total": 7500.0
-  },
-  {
    "committee_id": "C00035451",
    "name": "AIR LINE PILOTS ASSOCIATION PAC",
    "connected_org": "AIR LINE PILOTS ASSOCIATION",
@@ -355,12 +367,6 @@
    "committee_id": "C00579540",
    "name": "ALLY FINANCIAL INC. ADVOCACY POLITICAL ACTION COMMITTEE",
    "connected_org": null,
-   "total": 7500.0
-  },
-  {
-   "committee_id": "C00012245",
-   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
-   "connected_org": "UBS AMERICAS INC.",
    "total": 7500.0
   },
   {
@@ -544,12 +550,6 @@
    "total": 5500.0
   },
   {
-   "committee_id": "C00015552",
-   "name": "BEEF-PAC (BEEF POLITICAL ACTION COMMITTEE OF TEXAS CATTLE FEEDERS ASSOCIATION)",
-   "connected_org": "TEXAS CATTLE FEEDERS ASSOCIATION",
-   "total": 5500.0
-  },
-  {
    "committee_id": "C00024968",
    "name": "AMERICAN OPTOMETRIC ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN OPTOMETRIC ASSOCIATION",
@@ -655,6 +655,12 @@
    "committee_id": "C00889568",
    "name": "COUPANG, INC. COMPANY PAC (COUPAC)",
    "connected_org": "COUPANG, INC.",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00447565",
+   "name": "FINSECA PAC",
+   "connected_org": "FINSECA",
    "total": 5000.0
   },
   {
@@ -820,6 +826,18 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00100693",
+   "name": "CBOE GLOBAL MARKETS, INC. PAC (CBOE PAC)",
+   "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00413955",
+   "name": "AMERICAN ASSOCIATION OF NEUROLOGICAL SURGEONS POLITICAL ACTION COMMITTEE (NEUROSURGERYPAC)",
+   "connected_org": "AMERICAN ASSOCIATION OF NEUROLOGICAL SURGEONS POLITICAL ACTION COMMITTEE (NEUROSURGERYPAC)",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00119354",
    "name": "TENET HEALTHCARE CORPORATION POLITICAL ACTION COMMITTEE",
    "connected_org": "TENET HEALTHCARE CORPORATION",
@@ -841,7 +859,7 @@
    "committee_id": "C00214981",
    "name": "TEXAS FARM BUREAU AGFUND",
    "connected_org": "TEXAS FARM BUREAU",
-   "total": 4800.0
+   "total": 4813.0
   },
   {
    "committee_id": "C00000935",
@@ -952,16 +970,16 @@
    "total": 4000.0
   },
   {
-   "committee_id": "C00447565",
-   "name": "FINSECA PAC",
-   "connected_org": "FINSECA",
-   "total": 4000.0
-  },
-  {
    "committee_id": "C00246306",
    "name": "IPAA WILDCATTERS FUND",
    "connected_org": null,
    "total": 4000.0
+  },
+  {
+   "committee_id": "C00104901",
+   "name": "AKIN GUMP STRAUSS HAUER & FELD LLP CIVIC ACTION COMMITTEE (AKA AKIN GUMP PAC)",
+   "connected_org": "NONE",
+   "total": 3750.0
   },
   {
    "committee_id": "C00895847",
@@ -1048,6 +1066,12 @@
    "total": 3500.0
   },
   {
+   "committee_id": "C00757401",
+   "name": "OPPORTUNITY FINANCIAL, LLC CREDIT ACCESS PAC",
+   "connected_org": "OPPORTUNITY FINANCIAL, LLC",
+   "total": 3500.0
+  },
+  {
    "committee_id": "C00787317",
    "name": "SPIKE PAC",
    "connected_org": null,
@@ -1056,12 +1080,6 @@
   {
    "committee_id": "C00496752",
    "name": "ENTERPRISE PRODUCTS PARTNERS L.P. POLITICAL ACTION COMMITTEE",
-   "connected_org": "NONE",
-   "total": 3000.0
-  },
-  {
-   "committee_id": "C00104901",
-   "name": "AKIN GUMP STRAUSS HAUER & FELD LLP CIVIC ACTION COMMITTEE (AKA AKIN GUMP PAC)",
    "connected_org": "NONE",
    "total": 3000.0
   },
@@ -1092,6 +1110,12 @@
   {
    "committee_id": "C00186288",
    "name": "VERIZON COMMUNICATIONS, INC. POLITICAL ACTION COMMITTEE (VERIZON PAC)",
+   "connected_org": null,
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00360354",
+   "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
    "connected_org": null,
    "total": 3000.0
   },
@@ -1129,6 +1153,12 @@
    "committee_id": "C00633354",
    "name": "STRUCTURED FINANCE COALITION, INC. POLITICAL ACTION COMMITTEE (STRUCTURED FINANCE PAC)",
    "connected_org": "STRUCTURED FINANCE COALITION, INC.",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00101766",
+   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
+   "connected_org": "UNITED AIRLINES, INC.",
    "total": 3000.0
   },
   {
@@ -1171,6 +1201,12 @@
    "committee_id": "C00078451",
    "name": "GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GENERAL DYNAMICS EMPLOYEE PAC)",
    "connected_org": "GENERAL DYNAMICS CORPORATION",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00492025",
+   "name": "AMERICAN DEFENSE AND MILITARY PAC",
+   "connected_org": null,
    "total": 3000.0
   },
   {
@@ -1474,6 +1510,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00566562",
+   "name": "BACKPAC",
+   "connected_org": "BEYER",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00007450",
    "name": "AMERICAN GAS ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN GAS ASSOCIATION",
@@ -1483,6 +1525,12 @@
    "committee_id": "C00636753",
    "name": "ACADEMY OF RAIL LABOR ATTORNEYS POLITICAL ACTION COMMITTEE",
    "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00410266",
+   "name": "THE VANGUARD GROUP COMMITTEE FOR RESPONSIBLE GOVERNMENT",
+   "connected_org": "THE VANGUARD GROUP",
    "total": 2500.0
   },
   {
@@ -1546,12 +1594,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00360354",
-   "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
-   "connected_org": null,
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00555888",
    "name": "FRIENDS OF DON BEYER",
    "connected_org": "NONE",
@@ -1597,6 +1639,12 @@
    "committee_id": "C00765198",
    "name": "LEADING PEOPLE FORWARD PAC",
    "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00652628",
+   "name": "DR KIM SCHRIER FOR CONGRESS",
+   "connected_org": "SWING LEFT",
    "total": 2000.0
   },
   {
@@ -1696,12 +1744,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00492025",
-   "name": "AMERICAN DEFENSE AND MILITARY PAC",
-   "connected_org": null,
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00410407",
    "name": "EDJ HOLDING COMPANY, INC. POLITICAL ACTION COMMITTEE (EDWARD JONES PAC)",
    "connected_org": "EDJ HOLDING COMPANY, INC.",
@@ -1789,6 +1831,12 @@
    "committee_id": "C00048579",
    "name": "SALT RIVER VALLEY WATER USERS' ASSOCIATION POLITICAL INVOLVEMENT COMMITTEE ( SRPPIC)",
    "connected_org": "SALT RIVER VALLEY WATER USERS' ASSOCIATION POLITICAL INVOLVEMENT COMMITTEE ( SRPPIC)",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00946111",
+   "name": "ANTHROPIC PBC POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
    "total": 1500.0
   },
   {
@@ -1924,12 +1972,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00101766",
-   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
-   "connected_org": "UNITED AIRLINES, INC.",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00473116",
    "name": "THREE RIVERS POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -2023,12 +2065,6 @@
    "committee_id": "C00710848",
    "name": "DMFI PAC",
    "connected_org": "JEWISH DEMOCRACY PROJECT",
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00652628",
-   "name": "DR KIM SCHRIER FOR CONGRESS",
-   "connected_org": "SWING LEFT",
    "total": 1000.0
   },
   {
@@ -2467,19 +2503,19 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 604250.0
+   "total": 624750.0
   },
   {
    "type": "Trade association PACs",
-   "total": 272000.0
+   "total": 280500.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
-   "total": 176500.0
+   "total": 180000.0
   },
   {
    "type": "Other PACs",
-   "total": 168750.0
+   "total": 169500.0
   },
   {
    "type": "Labor union PACs",
@@ -2487,11 +2523,11 @@
   },
   {
    "type": "Membership group PACs",
-   "total": 124794.0
+   "total": 124807.0
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 49500.0
+   "total": 50500.0
   },
   {
    "type": "Cooperative PACs",
@@ -2503,14 +2539,20 @@
   }
  ],
  "outside_spending": {
-  "support_total": 968403.0,
-  "oppose_total": 3213902.0,
+  "support_total": 970564.0,
+  "oppose_total": 5114460.0,
   "spenders": [
    {
     "committee_id": "C00504530",
     "name": "CLF",
     "support": 0.0,
     "oppose": 3142536.0
+   },
+   {
+    "committee_id": "C00960435",
+    "name": "NO GOING BACK PAC INC.",
+    "support": 0.0,
+    "oppose": 1846928.0
    },
    {
     "committee_id": "C00007880",
@@ -2525,6 +2567,12 @@
     "oppose": 0.0
    },
    {
+    "committee_id": "C00879510",
+    "name": "AMERICA PAC",
+    "support": 0.0,
+    "oppose": 53630.0
+   },
+   {
     "committee_id": "C00687103",
     "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
     "support": 0.0,
@@ -2535,6 +2583,12 @@
     "name": "THE CONSERVATIVE CAUCUS DBA AMERICANS FOR CONSTITUTIONAL LIBERTY",
     "support": 88.0,
     "oppose": 22378.0
+   },
+   {
+    "committee_id": "C00959973",
+    "name": "LUPE VOTES FEDERAL SUPER PAC, INC.",
+    "support": 2161.0,
+    "oppose": 0.0
    },
    {
     "committee_id": "C90020231",

@@ -394,6 +394,12 @@
    "total": 4000.0
   },
   {
+   "committee_id": "C00740704",
+   "name": "CARRIER GLOBAL CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 3500.0
+  },
+  {
    "committee_id": "C00068692",
    "name": "FEDEX CORPORATION POLITICAL ACTION COMMITTEE",
    "connected_org": "FEDEX CORPORATION",
@@ -493,12 +499,6 @@
    "committee_id": "C00032979",
    "name": "D.R.I.V.E. - DEM, REP, IND VOTER ED (THE PAC OF THE INT'L BRHD OF TEAMSTERS)",
    "connected_org": "INTERNATIONAL BROTHERHOOD OF TEAMSTERS",
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00740704",
-   "name": "CARRIER GLOBAL CORPORATION POLITICAL ACTION COMMITTEE",
-   "connected_org": null,
    "total": 2500.0
   },
   {
@@ -670,6 +670,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00142158",
+   "name": "REWORLD WASTE, LLC POLITICAL ACTION COMMITTEE (REWORLD WASTE PAC)",
+   "connected_org": "REWORLD WASTE, LLC",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00571042",
    "name": "MOTORSPORTS ACCEPTANCE CORPORATION POLITICAL ACTION COMMITTEE (SPEED PAC)",
    "connected_org": null,
@@ -838,12 +844,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00142158",
-   "name": "REWORLD WASTE, LLC POLITICAL ACTION COMMITTEE (REWORLD WASTE PAC)",
-   "connected_org": "REWORLD WASTE, LLC",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00507962",
    "name": "AES CORPORATION POLITICAL ACTION COMMITTEE; THE",
    "connected_org": "AES CORPORATION",
@@ -982,6 +982,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00091561",
+   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
+   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00902783",
    "name": "FLIGHTSAFETY INTERNATIONAL INC. PAC",
    "connected_org": "BNSF RAILWAY COMPANY RAILPAC (BNSF RAILPAC)",
@@ -1057,7 +1063,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 207550.0
+   "total": 209550.0
   },
   {
    "type": "Labor union PACs",
@@ -1073,7 +1079,7 @@
   },
   {
    "type": "Other PACs",
-   "total": 34925.0
+   "total": 35925.0
   },
   {
    "type": "Membership group PACs",

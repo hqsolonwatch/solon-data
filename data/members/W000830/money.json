@@ -190,6 +190,12 @@
    "total": 6000.0
   },
   {
+   "committee_id": "C00360354",
+   "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
+   "connected_org": null,
+   "total": 6000.0
+  },
+  {
    "committee_id": "C00581785",
    "name": "SUSTAINABLE ENERGY AND ENVIRONMENT COALITION PAC (SEEC PAC)",
    "connected_org": null,
@@ -211,6 +217,12 @@
    "committee_id": "C00030718",
    "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
    "connected_org": "NATIONAL ASSOCIATION OF REALTORS",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00035451",
+   "name": "AIR LINE PILOTS ASSOCIATION PAC",
+   "connected_org": "AIR LINE PILOTS ASSOCIATION",
    "total": 5000.0
   },
   {
@@ -247,12 +259,6 @@
    "committee_id": "C00580068",
    "name": "PROGRESSIVE TURNOUT PROJECT",
    "connected_org": "STOP THESE OPPRESSIVE PEOPLE: TYRANTS RACISTS UNQUALIFIEDS MISOGYNISTS PROPAGANDISTS (STOP TRUMP)",
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00360354",
-   "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
-   "connected_org": null,
    "total": 5000.0
   },
   {
@@ -370,12 +376,6 @@
    "total": 4000.0
   },
   {
-   "committee_id": "C00035451",
-   "name": "AIR LINE PILOTS ASSOCIATION PAC",
-   "connected_org": "AIR LINE PILOTS ASSOCIATION",
-   "total": 4000.0
-  },
-  {
    "committee_id": "C00510461",
    "name": "PETE AGUILAR FOR CONGRESS",
    "connected_org": "AGUILAR LEADERSHIP FUND",
@@ -397,6 +397,12 @@
    "committee_id": "C00589309",
    "name": "BLUE MOMENTUM PAC",
    "connected_org": "LIEU",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 4000.0
   },
   {
@@ -646,12 +652,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00012245",
    "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
    "connected_org": "UBS AMERICAS INC.",
@@ -685,6 +685,12 @@
    "committee_id": "C00689091",
    "name": "THE CARLYLE GROUP INC. PAC (AKA 'CARLYLE PAC')",
    "connected_org": "THE CARLYLE GROUP INC.",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00106146",
+   "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+   "connected_org": "AMERICAN HOSPITAL ASSOCIATION",
    "total": 2500.0
   },
   {
@@ -1330,9 +1336,21 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00104901",
+   "name": "AKIN GUMP STRAUSS HAUER & FELD LLP CIVIC ACTION COMMITTEE (AKA AKIN GUMP PAC)",
+   "connected_org": "NONE",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00922856",
    "name": "VAST, INC. PAC",
    "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00014878",
+   "name": "GENERAL AVIATION MANUFACTURERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "GENERAL AVIATION MANUFACTURERS ASSOCIATION",
    "total": 1000.0
   },
   {
@@ -1357,6 +1375,12 @@
    "committee_id": "C00355677",
    "name": "BIOTECHNOLOGY INNOVATION ORGANIZATION PAC (BIO PAC)",
    "connected_org": "BIOTECHNOLOGY INNOVATION ORGANIZATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00116020",
+   "name": "VULCAN MATERIALS COMPANY POLITICAL ACTION COMMITTEE",
+   "connected_org": "VULCAN MATERIALS COMPANY",
    "total": 1000.0
   },
   {
@@ -1450,12 +1474,6 @@
    "total": 250.0
   },
   {
-   "committee_id": "C00104901",
-   "name": "AKIN GUMP STRAUSS HAUER & FELD LLP CIVIC ACTION COMMITTEE (AKA AKIN GUMP PAC)",
-   "connected_org": "NONE",
-   "total": 250.0
-  },
-  {
    "committee_id": "C00166348",
    "name": "SOUTHERN MINNESOTA BEET SUGAR COOPERATIVE POLITICAL ACTION COMMITTEE",
    "connected_org": "SOUTHERN MINNESOTA BEET SUGAR COOPERATIVE",
@@ -1465,7 +1483,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 225000.0
+   "total": 227000.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
@@ -1473,11 +1491,11 @@
   },
   {
    "type": "Other PACs",
-   "total": 115682.0
+   "total": 116432.0
   },
   {
    "type": "Labor union PACs",
-   "total": 108000.0
+   "total": 109000.0
   },
   {
    "type": "Membership group PACs",
@@ -1485,7 +1503,7 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 37000.0
+   "total": 42000.0
   },
   {
    "type": "Other candidates’ campaigns",

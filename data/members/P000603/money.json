@@ -178,6 +178,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00388819",
+   "name": "PHARMACEUTICAL CARE MANAGEMENT ASSOCIATION POLITICAL ACTION COMMITTEE (PCMA PAC)",
+   "connected_org": "PHARMACEUTICAL CARE MANAGEMENT ASSOCIATION",
+   "total": 1800.0
+  },
+  {
    "committee_id": "C00038604",
    "name": "AMERICAN FINANCIAL SERVICES ASSOCIATION PAC",
    "connected_org": "AMERICAN FINANCIAL SERVICES ASSOCIATION",
@@ -196,12 +202,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00388819",
-   "name": "PHARMACEUTICAL CARE MANAGEMENT ASSOCIATION POLITICAL ACTION COMMITTEE (PCMA PAC)",
-   "connected_org": "PHARMACEUTICAL CARE MANAGEMENT ASSOCIATION",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00542365",
    "name": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC)",
    "connected_org": "TOYOTA MOTOR NORTH AMERICA, INC",
@@ -211,6 +211,12 @@
    "committee_id": "C00350884",
    "name": "RESOLUTE FOREST PRODUCTS INC. POLITICAL ACTION COMMITTEE AKA DOMTAR PAC",
    "connected_org": "RESOLUTE FOREST PRODUCTS INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00135590",
+   "name": "INSTITUTE OF MAKERS OF EXPLOSIVES POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
    "total": 1000.0
   },
   {
@@ -244,12 +250,12 @@
    "total": 56145.0
   },
   {
-   "type": "Other PACs",
-   "total": 15500.0
+   "type": "Trade association PACs",
+   "total": 16300.0
   },
   {
-   "type": "Trade association PACs",
-   "total": 14500.0
+   "type": "Other PACs",
+   "total": 15500.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",

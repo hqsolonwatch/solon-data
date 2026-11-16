@@ -760,6 +760,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00084491",
+   "name": "INTERNATIONAL FRANCHISE ASSOCIATION FRANCHISING POLITICAL ACTION COMMITTEE INC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00308478",
    "name": "USA RICE FEDERATION PAC",
    "connected_org": "USA RICE FEDERATION",
@@ -839,7 +845,7 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 61500.0
+   "total": 62500.0
   },
   {
    "type": "Other candidates’ campaigns",
@@ -855,13 +861,13 @@
   }
  ],
  "outside_spending": {
-  "support_total": 3724232.0,
+  "support_total": 3764154.0,
   "oppose_total": 66521.0,
   "spenders": [
    {
     "committee_id": "C00893198",
     "name": "CONSERVATIVE FIGHTER PAC",
-    "support": 1734288.0,
+    "support": 1774210.0,
     "oppose": 0.0
    },
    {

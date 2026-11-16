@@ -34,6 +34,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00130773",
+   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
+   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00227744",
    "name": "ERNST & YOUNG POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -64,6 +70,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00513549",
+   "name": "PHILLIPS 66 PAC",
+   "connected_org": "PHILLIPS 66",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00692202",
    "name": "COURAGE TO CHANGE",
    "connected_org": null,
@@ -85,19 +97,13 @@
    "committee_id": "C00214981",
    "name": "TEXAS FARM BUREAU AGFUND",
    "connected_org": "TEXAS FARM BUREAU",
-   "total": 9600.0
+   "total": 9613.0
   },
   {
    "committee_id": "C00035451",
    "name": "AIR LINE PILOTS ASSOCIATION PAC",
    "connected_org": "AIR LINE PILOTS ASSOCIATION",
    "total": 9000.0
-  },
-  {
-   "committee_id": "C00130773",
-   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
-   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
-   "total": 7500.0
   },
   {
    "committee_id": "C00110338",
@@ -109,6 +115,12 @@
    "committee_id": "C00027342",
    "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
    "connected_org": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS",
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00012245",
+   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+   "connected_org": "UBS AMERICAS INC.",
    "total": 7500.0
   },
   {
@@ -133,6 +145,12 @@
    "committee_id": "C00007542",
    "name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
    "connected_org": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS",
+   "total": 7000.0
+  },
+  {
+   "committee_id": "C00365122",
+   "name": "VISA, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "VISA INC",
    "total": 7000.0
   },
   {
@@ -202,12 +220,6 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00365122",
-   "name": "VISA, INC. POLITICAL ACTION COMMITTEE",
-   "connected_org": "VISA INC",
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00004812",
    "name": "MORTGAGE BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE (MORPAC)",
    "connected_org": "MORTGAGE BANKERS ASSOCIATION",
@@ -253,12 +265,6 @@
    "committee_id": "C00432252",
    "name": "REGIONS FINANCIAL CORPORATION POLITICAL ACTION COMMITTEE",
    "connected_org": "REGIONS FINANCIAL CORPORATION",
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00513549",
-   "name": "PHILLIPS 66 PAC",
-   "connected_org": "PHILLIPS 66",
    "total": 5000.0
   },
   {
@@ -406,6 +412,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00364778",
+   "name": "BANK OF AMERICA CORPORATION FEDERAL PAC",
+   "connected_org": "BANK OF AMERICA CORPORATION",
+   "total": 4500.0
+  },
+  {
    "committee_id": "C00360362",
    "name": "SCHWAN'S COMPANY POLITICAL ACTION COMMITTEE",
    "connected_org": "SCHWAN'S COMPANY",
@@ -445,12 +457,6 @@
    "committee_id": "C00109017",
    "name": "AT&T INC. EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE (AT&T EMPLOYEE FEDERAL PAC)",
    "connected_org": "AT&T INC.",
-   "total": 4000.0
-  },
-  {
-   "committee_id": "C00012245",
-   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
-   "connected_org": "UBS AMERICAS INC.",
    "total": 4000.0
   },
   {
@@ -529,6 +535,12 @@
    "committee_id": "C00426775",
    "name": "CHARTER COMMUNICATIONS INC. POLITICAL ACTION COMMITTEE",
    "connected_org": "CHARTER COMMUNICATIONS INC.",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00101766",
+   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
+   "connected_org": "UNITED AIRLINES, INC.",
    "total": 3000.0
   },
   {
@@ -718,12 +730,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00364778",
-   "name": "BANK OF AMERICA CORPORATION FEDERAL PAC",
-   "connected_org": "BANK OF AMERICA CORPORATION",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00366013",
    "name": "NASDAQ, INC. PAC (NASDAQ PAC)",
    "connected_org": "NASDAQ, INC.",
@@ -757,12 +763,6 @@
    "committee_id": "C00630285",
    "name": "OC JOBS & EDUCATION",
    "connected_org": null,
-   "total": 2000.0
-  },
-  {
-   "committee_id": "C00101766",
-   "name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
-   "connected_org": "UNITED AIRLINES, INC.",
    "total": 2000.0
   },
   {
@@ -1270,9 +1270,21 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00015552",
+   "name": "BEEF-PAC (BEEF POLITICAL ACTION COMMITTEE OF TEXAS CATTLE FEEDERS ASSOCIATION)",
+   "connected_org": "TEXAS CATTLE FEEDERS ASSOCIATION",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00503680",
    "name": "CROP INSURANCE PROFESSIONALS ASSOCIATION PAC-CIPA PAC",
    "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00341602",
+   "name": "SOUTHWEST AIRLINES CO. POLITICAL ACTION COMMITTEE (SWAPAC)",
+   "connected_org": "SOUTHWEST AIRLINES CO",
    "total": 1000.0
   },
   {
@@ -1351,7 +1363,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 238500.0
+   "total": 253500.0
   },
   {
    "type": "Labor union PACs",
@@ -1363,7 +1375,7 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 89250.0
+   "total": 92750.0
   },
   {
    "type": "Other PACs",
@@ -1371,7 +1383,7 @@
   },
   {
    "type": "Membership group PACs",
-   "total": 45650.0
+   "total": 45663.0
   },
   {
    "type": "Other candidates’ campaigns",

@@ -190,6 +190,12 @@
    "total": 8500.0
   },
   {
+   "committee_id": "C00813063",
+   "name": "LEADERSHIP AND LOYALTY ONLY TO AMERICA PAC",
+   "connected_org": "NICK",
+   "total": 8000.0
+  },
+  {
    "committee_id": "C00106146",
    "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
    "connected_org": "AMERICAN HOSPITAL ASSOCIATION",
@@ -274,10 +280,22 @@
    "total": 7000.0
   },
   {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
+   "total": 6500.0
+  },
+  {
    "committee_id": "C00689208",
    "name": "RVFPAC",
    "connected_org": null,
    "total": 6500.0
+  },
+  {
+   "committee_id": "C00652701",
+   "name": "VNA HOLDING INC. POLITICAL ACTION COMMITTEE (VG PAC)",
+   "connected_org": "VNA HOLDING INC.",
+   "total": 6000.0
   },
   {
    "committee_id": "C00525238",
@@ -373,12 +391,6 @@
    "committee_id": "C00765644",
    "name": "BIG IDEAS CREATE EXCELLENCE PAC",
    "connected_org": "BICE VICTORY COMMITTEE",
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 5000.0
   },
   {
@@ -508,6 +520,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00903898",
+   "name": "DELIVER ENERGIZE SUCCEED PAC",
+   "connected_org": "DESMOND",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00885921",
    "name": "NC2DC LEADERSHIP PAC",
    "connected_org": null,
@@ -517,6 +535,12 @@
    "committee_id": "C00938647",
    "name": "BOLD REPUBLICAN IN NEBRASKA KEEPING ELECTIONS RED PAC",
    "connected_org": null,
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00368696",
+   "name": "RESPONSIBILITY AND FREEDOM WORK PAC (RFWPAC)",
+   "connected_org": "WICKER VICTORY COMMITTEE",
    "total": 5000.0
   },
   {
@@ -535,6 +559,12 @@
    "committee_id": "C00493270",
    "name": "HEIDELBERG MATERIALS US, INC. POLITICAL ACTION COMMITTEE",
    "connected_org": "HEIDELBERG MATERIALS US, INC.",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00009639",
+   "name": "TRUIST FINANCIAL CORPORATION FEDERAL, STATE & LOCAL POLITICAL ACTION COMMITTEE",
+   "connected_org": "TRUIST FINANCIAL CORPORATION",
    "total": 5000.0
   },
   {
@@ -601,12 +631,6 @@
    "committee_id": "C00428623",
    "name": "GOOGLE LLC NETPAC",
    "connected_org": "GOOGLE LLC",
-   "total": 4000.0
-  },
-  {
-   "committee_id": "C00652701",
-   "name": "VNA HOLDING INC. POLITICAL ACTION COMMITTEE (VG PAC)",
-   "connected_org": "VNA HOLDING INC.",
    "total": 4000.0
   },
   {
@@ -817,12 +841,6 @@
    "committee_id": "C00016386",
    "name": "AMERICAN BAKERS ASSOCIATION AMERICAN BAKERS POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN BAKERS ASSOCIATION",
-   "total": 3000.0
-  },
-  {
-   "committee_id": "C00813063",
-   "name": "LEADERSHIP AND LOYALTY ONLY TO AMERICA PAC",
-   "connected_org": "NICK",
    "total": 3000.0
   },
   {
@@ -1324,15 +1342,15 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00796086",
-   "name": "NATHANIEL MORAN FOR CONGRESS",
-   "connected_org": "MORAN VICTORY FUND",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00575050",
    "name": "LAHOOD FOR CONGRESS",
    "connected_org": "TEAM LAHOOD",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00796086",
+   "name": "NATHANIEL MORAN FOR CONGRESS",
+   "connected_org": "MORAN VICTORY FUND",
    "total": 2000.0
   },
   {
@@ -1393,6 +1411,12 @@
    "committee_id": "C00082792",
    "name": "ELI LILLY AND COMPANY POLITICAL ACTION COMMITTEE",
    "connected_org": "ELI LILLY AND COMPANY",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00857359",
+   "name": "BRANDON GILL FOR TEXAS",
+   "connected_org": "BRANDON GILL VICTORY FUND",
    "total": 2000.0
   },
   {
@@ -1972,6 +1996,12 @@
    "total": 500.0
   },
   {
+   "committee_id": "C00257956",
+   "name": "THE GOOD FUND",
+   "connected_org": "NONE",
+   "total": 500.0
+  },
+  {
    "committee_id": "C00313247",
    "name": "ROBERT ADERHOLT FOR CONGRESS",
    "connected_org": "ADERHOLT MAJORITY FUND",
@@ -1999,23 +2029,23 @@
  "pac_by_type": [
   {
    "type": "Leadership PACs (run by other politicians)",
-   "total": 374840.0
+   "total": 384840.0
   },
   {
    "type": "Corporate PACs",
-   "total": 228500.0
+   "total": 235500.0
   },
   {
    "type": "Trade association PACs",
-   "total": 149000.0
+   "total": 150500.0
   },
   {
    "type": "Other PACs",
-   "total": 119000.0
+   "total": 124500.0
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 117277.0
+   "total": 119277.0
   },
   {
    "type": "Membership group PACs",
@@ -2035,8 +2065,8 @@
   }
  ],
  "outside_spending": {
-  "support_total": 3364.0,
-  "oppose_total": 651064.0,
+  "support_total": 327852.0,
+  "oppose_total": 735886.0,
   "spenders": [
    {
     "committee_id": "C00495028",
@@ -2045,16 +2075,46 @@
     "oppose": 556256.0
    },
    {
+    "committee_id": "C00906701",
+    "name": "AMERICA FIRST AGRICULTURE ACTION INC.",
+    "support": 239076.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00738674",
+    "name": "REPRODUCTIVE FREEDOM FOR ALL FREEDOM FUND",
+    "support": 0.0,
+    "oppose": 64620.0
+   },
+   {
+    "committee_id": "C00879510",
+    "name": "AMERICA PAC",
+    "support": 53476.0,
+    "oppose": 0.0
+   },
+   {
     "committee_id": "C00573261",
     "name": "END CITIZENS UNITED",
     "support": 0.0,
     "oppose": 50000.0
    },
    {
+    "committee_id": "C00879965",
+    "name": "DRIVING FORCE ACTION",
+    "support": 31936.0,
+    "oppose": 0.0
+   },
+   {
     "committee_id": "C00745745",
     "name": "IN UNION USA",
     "support": 0.0,
     "oppose": 26382.0
+   },
+   {
+    "committee_id": "C00955104",
+    "name": "RETIRED AMERICANS ACTION",
+    "support": 0.0,
+    "oppose": 16477.0
    },
    {
     "committee_id": "C00832493",
@@ -2067,6 +2127,12 @@
     "name": "CAMPAIGN FOR WORKING CLASS COMMUNITIES",
     "support": 0.0,
     "oppose": 5778.0
+   },
+   {
+    "committee_id": "C00647966",
+    "name": "RURAL FREEDOM NETWORK",
+    "support": 0.0,
+    "oppose": 5097.0
    },
    {
     "committee_id": "C00829721",
@@ -2087,28 +2153,22 @@
     "oppose": 1700.0
    },
    {
-    "committee_id": "C00647966",
-    "name": "RURAL FREEDOM NETWORK",
-    "support": 0.0,
-    "oppose": 1517.0
-   },
-   {
     "committee_id": "C00909994",
     "name": "FIELD TEAM 6, INC.",
     "support": 0.0,
     "oppose": 1095.0
    },
    {
+    "committee_id": "C00489799",
+    "name": "PLANNED PARENTHOOD VOTES",
+    "support": 0.0,
+    "oppose": 341.0
+   },
+   {
     "committee_id": "C00955138",
     "name": "BUILDING TOGETHER",
     "support": 0.0,
     "oppose": 262.0
-   },
-   {
-    "committee_id": "C00489799",
-    "name": "PLANNED PARENTHOOD VOTES",
-    "support": 0.0,
-    "oppose": 196.0
    },
    {
     "committee_id": "C00172361",

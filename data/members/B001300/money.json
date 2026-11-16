@@ -226,6 +226,12 @@
    "total": 6000.0
   },
   {
+   "committee_id": "C00359539",
+   "name": "AMERICAN ACADEMY OF DERMATOLOGY ASSOCIATION POLITICAL ACTION COMMITTEE (SKINPAC)",
+   "connected_org": "AMERICAN ACADEMY OF DERMATOLOGY ASSOCIATION",
+   "total": 6000.0
+  },
+  {
    "committee_id": "C00369751",
    "name": "DELL TECHNOLOGIES, INC. POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -235,6 +241,12 @@
    "committee_id": "C00012880",
    "name": "AMERICAN PHYSICAL THERAPY ASSOCIATION PHYSICAL THERAPY POLITICAL ACTION COMMITTEE (PT-PAC)",
    "connected_org": "AMERICAN PHYSICAL THERAPY ASSOCIATION",
+   "total": 5500.0
+  },
+  {
+   "committee_id": "C00430256",
+   "name": "MOLINA HEALTHCARE, INC. PAC",
+   "connected_org": "MOLINA HEALTHCARE INC",
    "total": 5500.0
   },
   {
@@ -496,12 +508,6 @@
    "total": 3500.0
   },
   {
-   "committee_id": "C00359539",
-   "name": "AMERICAN ACADEMY OF DERMATOLOGY ASSOCIATION POLITICAL ACTION COMMITTEE (SKINPAC)",
-   "connected_org": "AMERICAN ACADEMY OF DERMATOLOGY ASSOCIATION",
-   "total": 3500.0
-  },
-  {
    "committee_id": "C00717900",
    "name": "PTC THERAPEUTICS, INC. POLITICAL ACTION COMMITTEE (PTC-PAC)",
    "connected_org": "PTC THERAPEUTICS, INC.",
@@ -544,9 +550,9 @@
    "total": 3000.0
   },
   {
-   "committee_id": "C00430256",
-   "name": "MOLINA HEALTHCARE, INC. PAC",
-   "connected_org": "MOLINA HEALTHCARE INC",
+   "committee_id": "C00314997",
+   "name": "LABORATORY CORPORATION OF AMERICA HOLDINGS POLITICAL PARTICIPATION COMMITTEE",
+   "connected_org": null,
    "total": 3000.0
   },
   {
@@ -772,6 +778,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00357863",
+   "name": "BOSTON SCIENTIFIC CORPORATION POLITICAL ACTION COMMITTEE (BSC PAC)",
+   "connected_org": "BOSTON SCIENTIFIC CORPORATION",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00007880",
    "name": "AMERICA'S CREDIT UNIONS PAC",
    "connected_org": "AMERICA'S CREDIT UNIONS",
@@ -850,15 +862,15 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00235739",
-   "name": "BNSF RAILWAY COMPANY RAILPAC (BNSF RAILPAC)",
-   "connected_org": "BNSF RAILWAY COMPANY",
+   "committee_id": "C00325936",
+   "name": "SOCIETY OF THORACIC SURGEONS POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE SOCIETY OF THORACIC SURGEONS",
    "total": 2000.0
   },
   {
-   "committee_id": "C00314997",
-   "name": "LABORATORY CORPORATION OF AMERICA HOLDINGS POLITICAL PARTICIPATION COMMITTEE",
-   "connected_org": null,
+   "committee_id": "C00235739",
+   "name": "BNSF RAILWAY COMPANY RAILPAC (BNSF RAILPAC)",
+   "connected_org": "BNSF RAILWAY COMPANY",
    "total": 2000.0
   },
   {
@@ -1030,12 +1042,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00325936",
-   "name": "SOCIETY OF THORACIC SURGEONS POLITICAL ACTION COMMITTEE",
-   "connected_org": "THE SOCIETY OF THORACIC SURGEONS",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00571141",
    "name": "UCB, INC. POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -1198,6 +1204,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00725184",
+   "name": "EAST WEST BANCORP, INC POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00216895",
    "name": "ARNOLD & PORTER KAYE SCHOLER LLP (APKS) PARTNERS POLITICAL ACTION COMMITTEE",
    "connected_org": "NONE",
@@ -1231,11 +1243,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 337250.0
+   "total": 344250.0
   },
   {
    "type": "Trade association PACs",
-   "total": 115000.0
+   "total": 117500.0
   },
   {
    "type": "Labor union PACs",
@@ -1243,7 +1255,7 @@
   },
   {
    "type": "Membership group PACs",
-   "total": 91050.0
+   "total": 92050.0
   },
   {
    "type": "Other PACs",

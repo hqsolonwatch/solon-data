@@ -24,7 +24,7 @@ var MEMBERS = [
         ],
         [
           "National Association of Broadcasters",
-          5500,
+          10500,
           2700000
         ],
         [
@@ -74,19 +74,19 @@ var MEMBERS = [
         ],
         [
           "Labor union PACs",
-          213500
+          218500
         ],
         [
           "Other PACs",
           164933
         ],
         [
-          "Membership group PACs",
-          107468
+          "Trade association PACs",
+          115000
         ],
         [
-          "Trade association PACs",
-          105000
+          "Membership group PACs",
+          107468
         ]
       ],
       "sectorsHeading": "PAC money by type",
@@ -164,23 +164,23 @@ var MEMBERS = [
       "sectors": [
         [
           "Corporate PACs",
-          1096363
+          1109863
         ],
         [
           "Trade association PACs",
-          559000
+          574000
         ],
         [
           "Leadership PACs (run by other politicians)",
-          406000
+          411000
         ],
         [
           "Other PACs",
-          275900
+          286400
         ],
         [
           "Membership group PACs",
-          189216
+          190716
         ]
       ],
       "sectorsHeading": "PAC money by type",
@@ -552,7 +552,7 @@ var ROLLCALLS = {
 };
 
 var SCHEDULE = {
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "house": {
     "week": "November 16",
     "rows": [

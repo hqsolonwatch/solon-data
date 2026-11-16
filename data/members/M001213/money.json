@@ -292,6 +292,12 @@
    "total": 9000.0
   },
   {
+   "committee_id": "C00384818",
+   "name": "CVS HEALTH PAC",
+   "connected_org": "CVS HEALTH",
+   "total": 8500.0
+  },
+  {
    "committee_id": "C00088591",
    "name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
    "connected_org": "NORTHROP GRUMMAN CORPORATION",
@@ -349,6 +355,12 @@
    "committee_id": "C00484162",
    "name": "MEDICAL DEVICE MANUFACTURERS ASSOCIATION PAC",
    "connected_org": "MEDICAL DEVICE MANUFACTURERS ASSOCIATION",
+   "total": 7500.0
+  },
+  {
+   "committee_id": "C00144766",
+   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 7500.0
   },
   {
@@ -424,12 +436,6 @@
    "total": 6500.0
   },
   {
-   "committee_id": "C00384818",
-   "name": "CVS HEALTH PAC",
-   "connected_org": "CVS HEALTH",
-   "total": 6000.0
-  },
-  {
    "committee_id": "C00142786",
    "name": "NIKE INC FEDERAL POLITICAL ACTION COMMITTEE (NIKE FEDERAL PAC)",
    "connected_org": "NIKE, INC.",
@@ -445,12 +451,6 @@
    "committee_id": "C00830208",
    "name": "GE HEALTHCARE TECHNOLOGIES INC. PAC",
    "connected_org": "GE HEALTHCARE TECHNOLOGIES INC.",
-   "total": 6000.0
-  },
-  {
-   "committee_id": "C00144766",
-   "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "NATIONAL BEER WHOLESALERS ASSOCIATION",
    "total": 6000.0
   },
   {
@@ -730,6 +730,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00215285",
+   "name": "GENERAL ATOMICS POLITICAL ACTION COMMITTEE",
+   "connected_org": "GENERAL ATOMICS",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00010983",
    "name": "JOHNSON & JOHNSON POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -907,6 +913,12 @@
    "committee_id": "C00072769",
    "name": "ROCHE DIAGNOSTICS CORPORATION PAC (ROCHE DXPAC)",
    "connected_org": "ROCHE DIAGNOSTICS CORPORATION",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00329425",
+   "name": "BURGER KING FRANCHISEE PAC",
+   "connected_org": "BURGER KING",
    "total": 4000.0
   },
   {
@@ -1384,12 +1396,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00215285",
-   "name": "GENERAL ATOMICS POLITICAL ACTION COMMITTEE",
-   "connected_org": "GENERAL ATOMICS",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00150367",
    "name": "NATIONAL VENTURE CAPITAL ASSOCIATION VENTUREPAC",
    "connected_org": null,
@@ -1555,12 +1561,6 @@
    "committee_id": "C00544817",
    "name": "STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY FEDERAL POLITICAL ACTION COMMITTEE (STATE FARM FEDERAL PAC)",
    "connected_org": "STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY",
-   "total": 2000.0
-  },
-  {
-   "committee_id": "C00329425",
-   "name": "BURGER KING FRANCHISEE PAC",
-   "connected_org": "BURGER KING",
    "total": 2000.0
   },
   {
@@ -1738,12 +1738,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00394957",
-   "name": "SCALISE FOR CONGRESS",
-   "connected_org": "SCALISE LEADERSHIP FUND",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00486928",
    "name": "ALZHEIMERS IMPACT MOVEMENT POLITICAL ACTION COMMITTEE",
    "connected_org": "ALZHEIMER'S IMPACT MOVEMENT",
@@ -1792,9 +1786,21 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00857359",
+   "name": "BRANDON GILL FOR TEXAS",
+   "connected_org": "BRANDON GILL VICTORY FUND",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00005660",
    "name": "AMERICAN ASSOCIATION OF ORAL & MAXILLOFACIAL SURGEONS POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN ASSOCIATION OF ORAL & MAXILLOFACIAL SURGEONS",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00394957",
+   "name": "SCALISE FOR CONGRESS",
+   "connected_org": "SCALISE LEADERSHIP FUND",
    "total": 2000.0
   },
   {
@@ -2383,11 +2389,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 804250.0
+   "total": 809250.0
   },
   {
    "type": "Trade association PACs",
-   "total": 370000.0
+   "total": 373500.0
   },
   {
    "type": "Membership group PACs",
@@ -2403,7 +2409,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 25000.0
+   "total": 27000.0
   },
   {
    "type": "Cooperative PACs",

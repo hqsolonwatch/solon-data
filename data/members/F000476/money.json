@@ -28,6 +28,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00035451",
+   "name": "AIR LINE PILOTS ASSOCIATION PAC",
+   "connected_org": "AIR LINE PILOTS ASSOCIATION",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00011114",
    "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
    "connected_org": "AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES, AFL-CIO",
@@ -56,12 +62,6 @@
    "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
    "connected_org": "AMERICAN ASSOCIATION FOR JUSTICE (AAJ)",
    "total": 8500.0
-  },
-  {
-   "committee_id": "C00035451",
-   "name": "AIR LINE PILOTS ASSOCIATION PAC",
-   "connected_org": "AIR LINE PILOTS ASSOCIATION",
-   "total": 7500.0
   },
   {
    "committee_id": "C00011262",
@@ -550,6 +550,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00545202",
+   "name": "THE CENTER FOR FREETHOUGHT EQUALITY PAC",
+   "connected_org": "THE CENTER FOR FREETHOUGHT EQUALITY",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00833103",
    "name": "VOTERS OF TOMORROW PAC",
    "connected_org": "2024 VOTER MOBILIZATION FUND",
@@ -589,7 +595,7 @@
  "pac_by_type": [
   {
    "type": "Labor union PACs",
-   "total": 162500.0
+   "total": 165000.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
@@ -601,7 +607,7 @@
   },
   {
    "type": "Membership group PACs",
-   "total": 28000.0
+   "total": 29000.0
   },
   {
    "type": "Trade association PACs",

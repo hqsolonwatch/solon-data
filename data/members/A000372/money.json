@@ -82,6 +82,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00483487",
+   "name": "BRINGING REPUBLICAN EXCELLENCE TO TOWN PAC",
+   "connected_org": "GUTHRIE",
+   "total": 10000.0
+  },
+  {
    "committee_id": "C00009985",
    "name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
    "connected_org": "NATIONAL ASSOCIATION OF BROADCASTERS",
@@ -157,12 +163,6 @@
    "committee_id": "C00431361",
    "name": "TEACHERS INSURANCE ANNUITY ASSOCIATION OF AMERICA PAC (TIAA PAC)",
    "connected_org": null,
-   "total": 7500.0
-  },
-  {
-   "committee_id": "C00483487",
-   "name": "BRINGING REPUBLICAN EXCELLENCE TO TOWN PAC",
-   "connected_org": "GUTHRIE",
    "total": 7500.0
   },
   {
@@ -382,6 +382,12 @@
    "total": 3500.0
   },
   {
+   "committee_id": "C00683508",
+   "name": "FOREVER YOUTH ORGANIZATION UTILIZING A NEW GENERATION PAC",
+   "connected_org": "KIM VICTORY FUND",
+   "total": 3500.0
+  },
+  {
    "committee_id": "C00749481",
    "name": "RAPTOR PAC",
    "connected_org": "PFLUGER VICTORY FUND",
@@ -409,6 +415,12 @@
    "committee_id": "C00081414",
    "name": "AMERICAN SUGAR CANE LEAGUE OF USA, INC PAC",
    "connected_org": "AMERICAN SUGAR CANE LEAGUE OF USA, INC",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00516724",
+   "name": "JOBS, ENERGY AND OUR FOUNDING FATHERS PAC",
+   "connected_org": null,
    "total": 3000.0
   },
   {
@@ -520,6 +532,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00513549",
+   "name": "PHILLIPS 66 PAC",
+   "connected_org": "PHILLIPS 66",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00108035",
    "name": "MCKESSON CORPORATION EMPLOYEES POLITICAL FUND",
    "connected_org": "MCKESSON CORPORATION",
@@ -559,6 +577,12 @@
    "committee_id": "C00395533",
    "name": "THE NATIONAL RIGHT TO WORK COMMITTEE PAC",
    "connected_org": "THE NATIONAL RIGHT TO WORK COMMITTEE",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00130773",
+   "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
+   "connected_org": "NATIONAL MULTIFAMILY HOUSING COUNCIL",
    "total": 2500.0
   },
   {
@@ -652,6 +676,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00169821",
+   "name": "TYSON FOODS INC POLITICAL ACTION COMMITTEE (TYPAC)",
+   "connected_org": "TYSON FOODS INC.",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00503680",
    "name": "CROP INSURANCE PROFESSIONALS ASSOCIATION PAC-CIPA PAC",
    "connected_org": null,
@@ -676,6 +706,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00000422",
+   "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "AMERICAN MEDICAL ASSOCIATION",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00430256",
    "name": "MOLINA HEALTHCARE, INC. PAC",
    "connected_org": "MOLINA HEALTHCARE INC",
@@ -691,6 +727,12 @@
    "committee_id": "C00358663",
    "name": "AMERICAN RESORT DEVELOPMENT ASSOCIATION RESORT OWNERS COALITION PAC (ARDA-ROC PAC)",
    "connected_org": "AMERICAN RESORT DEVELOPMENT ASSOCIATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00652537",
+   "name": "AMERICAN CLEANING INSTITUTE PAC",
+   "connected_org": "AMERICAN CLEANING INSTITUTE",
    "total": 2000.0
   },
   {
@@ -916,12 +958,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00169821",
-   "name": "TYSON FOODS INC POLITICAL ACTION COMMITTEE (TYPAC)",
-   "connected_org": "TYSON FOODS INC.",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00602805",
    "name": "AMERICA'S ESSENTIAL HOSPITALS POLITICAL ACTION COMMITTEE, (ESSENTIAL HOSPITALS PAC)",
    "connected_org": null,
@@ -937,12 +973,6 @@
    "committee_id": "C00691741",
    "name": "AMERICAN UROLOGICAL ASSOCIATION, INC. POLITICAL ACTION COMMITTEE (AUAPAC)",
    "connected_org": "AMERICAN UROLOGICAL ASSOCIATION, INC.",
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00513549",
-   "name": "PHILLIPS 66 PAC",
-   "connected_org": "PHILLIPS 66",
    "total": 1000.0
   },
   {
@@ -967,12 +997,6 @@
    "committee_id": "C00431312",
    "name": "SECURITIES INDUSTRY AND FINANCIAL MARKETS ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "SECURITIES INDUSTRY AND FINANCIAL MARKETS ASSOCIATION",
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00000422",
-   "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
-   "connected_org": "AMERICAN MEDICAL ASSOCIATION",
    "total": 1000.0
   },
   {
@@ -1087,23 +1111,23 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 236000.0
+   "total": 238500.0
   },
   {
    "type": "Trade association PACs",
-   "total": 209500.0
+   "total": 214000.0
   },
   {
    "type": "Membership group PACs",
    "total": 65494.0
   },
   {
-   "type": "Other PACs",
-   "total": 31750.0
+   "type": "Leadership PACs (run by other politicians)",
+   "total": 34500.0
   },
   {
-   "type": "Leadership PACs (run by other politicians)",
-   "total": 25500.0
+   "type": "Other PACs",
+   "total": 32750.0
   },
   {
    "type": "Cooperative PACs",

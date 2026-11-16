@@ -388,6 +388,12 @@
    "total": 3000.0
   },
   {
+   "committee_id": "C00360354",
+   "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
+   "connected_org": null,
+   "total": 3000.0
+  },
+  {
    "committee_id": "C00000901",
    "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
    "connected_org": "NATIONAL ASSOCIATION OF HOME BUILDERS",
@@ -442,9 +448,21 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00030809",
+   "name": "NATIONAL COMMUNITY PHARMACISTS ASSOCIATION - PAC",
+   "connected_org": "NATIONAL COMMUNITY PHARMACISTS ASSOCIATION",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00010868",
    "name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
    "connected_org": "AMERICAN COUNCIL OF ENGINEERING COMPANIES",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00091561",
+   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
+   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
    "total": 2500.0
   },
   {
@@ -550,15 +568,9 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00360354",
-   "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
-   "connected_org": null,
-   "total": 2000.0
-  },
-  {
-   "committee_id": "C00091561",
-   "name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
-   "connected_org": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION (NARFE)",
+   "committee_id": "C00009985",
+   "name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
+   "connected_org": "NATIONAL ASSOCIATION OF BROADCASTERS",
    "total": 2000.0
   },
   {
@@ -604,6 +616,12 @@
    "total": 1500.0
   },
   {
+   "committee_id": "C00323048",
+   "name": "ORACLE AMERICA, INC. POLITICAL ACTION COMMITTEE (ORACLE PAC)",
+   "connected_org": "ORACLE AMERICA, INC.",
+   "total": 1090.0
+  },
+  {
    "committee_id": "C00367995",
    "name": "SIERRA NEVADA COMPANY, LLC POLITICAL ACTION COMMITTEE",
    "connected_org": "SIERRA NEVADA COMPANY, LLC",
@@ -634,12 +652,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00030809",
-   "name": "NATIONAL COMMUNITY PHARMACISTS ASSOCIATION - PAC",
-   "connected_org": "NATIONAL COMMUNITY PHARMACISTS ASSOCIATION",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00151787",
    "name": "CUBIC CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -661,12 +673,6 @@
    "committee_id": "C00085316",
    "name": "THE CIGNA GROUP EMPLOYEE POLITICAL ACTION COMMITTEE",
    "connected_org": "THE CIGNA GROUP",
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00009985",
-   "name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
-   "connected_org": "NATIONAL ASSOCIATION OF BROADCASTERS",
    "total": 1000.0
   },
   {
@@ -814,12 +820,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00323048",
-   "name": "ORACLE AMERICA, INC. POLITICAL ACTION COMMITTEE (ORACLE PAC)",
-   "connected_org": "ORACLE AMERICA, INC.",
-   "total": 90.0
-  },
-  {
    "committee_id": "C00252940",
    "name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
    "connected_org": "LEAGUE OF CONSERVATION VOTERS, INC",
@@ -847,11 +847,11 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 257596.0
+   "total": 259596.0
   },
   {
    "type": "Trade association PACs",
-   "total": 114000.0
+   "total": 115000.0
   },
   {
    "type": "Labor union PACs",
@@ -859,11 +859,11 @@
   },
   {
    "type": "Other PACs",
-   "total": 46000.0
+   "total": 46500.0
   },
   {
    "type": "Membership group PACs",
-   "total": 17544.0
+   "total": 19044.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",

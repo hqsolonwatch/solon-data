@@ -1498,6 +1498,18 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00063164",
+   "name": "MCDONALDS CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "MCDONALDS CORPORATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00948943",
+   "name": "SOFI TECHNOLOGIES INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "SOFI TECHNOLOGIES, INC.",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00127779",
    "name": "PRUDENTIAL FINANCIAL INC. FEDERAL POLITICAL ACTION COMMITTEE (AKA - PRUDENTIAL FEDERAL PAC)",
    "connected_org": "PRUDENTIAL FINANCIAL, INC.",
@@ -1816,6 +1828,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00521914",
+   "name": "PRIMERICA INC POLITICAL ACTION COMMITTEE (PRIMERICA PAC)",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00345132",
    "name": "REPUBLICAN JEWISH COALITION POLITICAL ACTION COMMITTEE (RJC-PAC)",
    "connected_org": "REPUBLICAN JEWISH COALITION",
@@ -1975,6 +1993,12 @@
    "committee_id": "C00143867",
    "name": "EQUIFAX INC. POLITICAL ACTION COMMITTEE",
    "connected_org": null,
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00692806",
+   "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION FEDERAL ONLY POLITICAL ACTION COMMITTEE (INSURING AMERICA FOPAC)",
+   "connected_org": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION",
    "total": 1500.0
   },
   {
@@ -2320,12 +2344,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00521914",
-   "name": "PRIMERICA INC POLITICAL ACTION COMMITTEE (PRIMERICA PAC)",
-   "connected_org": null,
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00147173",
    "name": "WINE AND SPIRITS WHOLESALERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE",
    "connected_org": "WINE & SPIRITS WHOLESALERS OF AMERICA",
@@ -2359,7 +2377,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 607350.0
+   "total": 613350.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
@@ -2367,7 +2385,7 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 244500.0
+   "total": 246000.0
   },
   {
    "type": "Other PACs",
@@ -2391,14 +2409,14 @@
   }
  ],
  "outside_spending": {
-  "support_total": 1345009.0,
-  "oppose_total": 4538862.0,
+  "support_total": 1410789.0,
+  "oppose_total": 6512749.0,
   "spenders": [
    {
     "committee_id": "C00733352",
     "name": "AMERICANS 4 SECURITY PAC",
     "support": 0.0,
-    "oppose": 3191628.0
+    "oppose": 5165515.0
    },
    {
     "committee_id": "C00947275",
@@ -2416,6 +2434,12 @@
     "committee_id": "C00687103",
     "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
     "support": 290044.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00927426",
+    "name": "CFF",
+    "support": 65780.0,
     "oppose": 0.0
    },
    {

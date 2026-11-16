@@ -28,6 +28,12 @@
    "total": 10000.0
   },
   {
+   "committee_id": "C00204099",
+   "name": "DEERE & COMPANY PAC (AKA JOHN DEERE PAC)",
+   "connected_org": "DEERE & COMPANY",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00342394",
    "name": "EBAY INC-COMMITTEE FOR RESPONSIBLE INTERNET COMMERCE, (EBAY PAC)",
    "connected_org": null,
@@ -67,12 +73,6 @@
    "committee_id": "C00147066",
    "name": "AMERICAN COUNCIL OF LIFE INSURERS POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN COUNCIL OF LIFE INSURERS",
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00204099",
-   "name": "DEERE & COMPANY PAC (AKA JOHN DEERE PAC)",
-   "connected_org": "DEERE & COMPANY",
    "total": 2500.0
   },
   {
@@ -181,7 +181,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 40000.0
+   "total": 42500.0
   },
   {
    "type": "Trade association PACs",

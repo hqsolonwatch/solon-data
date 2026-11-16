@@ -154,6 +154,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00012245",
+   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+   "connected_org": "UBS AMERICAS INC.",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00108209",
    "name": "DOMINION ENERGY, INC. POLITICAL ACTION COMMITTEE - DOMINION PAC",
    "connected_org": "DOMINION ENERGY, INC.",
@@ -193,6 +199,12 @@
    "committee_id": "C00139071",
    "name": "ARCHIPAC - THE AMERICAN INSTITUTE OF ARCHITECTS",
    "connected_org": "THE AMERICAN INSTITUTE OF ARCHITECTS",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00540518",
+   "name": "THE CAPITAL GROUP COMPANIES INC POLITICAL ACTION COMMITTEE",
+   "connected_org": "THE CAPITAL GROUP COMPANIES, INC.",
    "total": 5000.0
   },
   {
@@ -484,12 +496,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00012245",
-   "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
-   "connected_org": "UBS AMERICAS INC.",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00107235",
    "name": "PRICEWATERHOUSECOOPERS POLITICAL ACTION COMMITTEE I",
    "connected_org": "NONE",
@@ -547,6 +553,12 @@
    "committee_id": "C00023028",
    "name": "NATIONAL COTTON COUNCIL OF AMERICA COMMITTEE FOR THE ADVANCEMENT OF COTTON",
    "connected_org": "NATIONAL COTTON COUNCIL OF AMERICA",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00033969",
+   "name": "NOVARTIS CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "NOVARTIS CORPORATION",
    "total": 2500.0
   },
   {
@@ -715,6 +727,12 @@
    "committee_id": "C00008474",
    "name": "CITIGROUP INC. PAC - FEDERAL (CITI PAC - FEDERAL)",
    "connected_org": "CITIGROUP INC.",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00197749",
+   "name": "TWDC ENTERPRISES 18 CORP. EMPLOYEES PAC AKA 'THE WALT DISNEY COMPANY EMPLOYEES PAC' OR 'DISNEY PAC'",
+   "connected_org": "TWDC ENTERPRISES 18 CORP.",
    "total": 2000.0
   },
   {
@@ -1018,12 +1036,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00197749",
-   "name": "TWDC ENTERPRISES 18 CORP. EMPLOYEES PAC AKA 'THE WALT DISNEY COMPANY EMPLOYEES PAC' OR 'DISNEY PAC'",
-   "connected_org": "TWDC ENTERPRISES 18 CORP.",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00835637",
    "name": "AREVON ENERGY INC. POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -1135,7 +1147,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 280400.0
+   "total": 291400.0
   },
   {
    "type": "Trade association PACs",
