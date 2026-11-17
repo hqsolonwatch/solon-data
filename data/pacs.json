@@ -29981,7 +29981,7 @@
   {
    "id": "C00650309",
    "name": "MISSISSIPPI CATFISH PAC",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "U"
@@ -42747,6 +42747,54 @@
    "designation": "U"
   },
   {
+   "id": "C00800009",
+   "name": "PERENNIAL AUTONOMY, LLC POLITICAL ACTION COMMITTEE (PERENNIAL PAC)",
+   "connected_org": "RELATIVITY SPACE POLITICAL ACTION COMMITTEE (RELATIVITY PAC)",
+   "org_type": "C",
+   "type": "N",
+   "designation": "B"
+  },
+  {
+   "id": "C00800010",
+   "name": "CARVANA MOVES CO PAC DBA CARVANA PAC",
+   "connected_org": "CARVANA MOVES CO PAC",
+   "org_type": "C",
+   "type": "N",
+   "designation": "U"
+  },
+  {
+   "id": "C00800012",
+   "name": "SOUTHERN MICHIGAN REPUBLICANS PAC",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "N",
+   "designation": "U"
+  },
+  {
+   "id": "C00800014",
+   "name": "REVELATION 13 15-18",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "O",
+   "designation": "U"
+  },
+  {
+   "id": "C00800015",
+   "name": "TIME FOR CHOOSING",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "O",
+   "designation": "U"
+  },
+  {
+   "id": "C00800016",
+   "name": "BLUEGRASS FREEDOM FUND, INC.",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "O",
+   "designation": "U"
+  },
+  {
    "id": "C00800037",
    "name": "CLIPBOARD PAC",
    "connected_org": "NONE",
@@ -47205,7 +47253,7 @@
   {
    "id": "C00830034",
    "name": "TREMCO CPG INC. PAC, DBA TREMCO PAC",
-   "connected_org": null,
+   "connected_org": "RPM INTERNATIONAL INC. MANUFACTURING IN AMERICA PAC, DBA RPM MANUFACTURING IN AMERICA PAC",
    "org_type": "C",
    "type": "N",
    "designation": "U"
@@ -66557,7 +66605,7 @@
   {
    "id": "C00904045",
    "name": "DEMOCRATIC SUCCESS PAC",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "U"
@@ -69957,7 +70005,7 @@
   {
    "id": "C00917203",
    "name": "RIGHTS OF AMERICANS ASSOCIATION",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "O",
    "designation": "B"
@@ -71837,7 +71885,7 @@
   {
    "id": "C00924555",
    "name": "REED VICTORY FUND",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -77269,7 +77317,7 @@
   {
    "id": "C00944827",
    "name": "NEW ENGLAND VICTORY FUND",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -80373,7 +80421,7 @@
   {
    "id": "C00953331",
    "name": "MAINTAIN THE MAJORITY",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -84477,7 +84525,7 @@
   {
    "id": "C00961367",
    "name": "STRATTON BISS VICTORY FUND",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -84485,7 +84533,7 @@
   {
    "id": "C00961375",
    "name": "RICKETTS VICTORY",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -85485,7 +85533,7 @@
   {
    "id": "C00963157",
    "name": "SAVE OUR MONTANA",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "O",
    "designation": "U"
@@ -85637,7 +85685,7 @@
   {
    "id": "C00963496",
    "name": "PEACE NJ",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "O",
    "designation": "U"

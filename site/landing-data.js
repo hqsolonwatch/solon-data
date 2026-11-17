@@ -535,13 +535,13 @@ var ROLLCALLS = {
     [
       "Nov 2026",
       9,
-      6
+      8
     ]
   ],
   "meta": {
     "start": "January 3, 2025",
-    "through": "November 12, 2026",
-    "total": 1606,
+    "through": "November 16, 2026",
+    "total": 1608,
     "election": {
       "date": "November 3, 2026",
       "month": "Nov 2026",
@@ -552,7 +552,7 @@ var ROLLCALLS = {
 };
 
 var SCHEDULE = {
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "house": {
     "week": "November 16",
     "rows": [
@@ -588,7 +588,7 @@ var SCHEDULE = {
     {
       "bill": "H.R. 2347",
       "title": "Survivor Justice Tax Prevention Act",
-      "note": "Survivor Justice Tax Prevention Act. Latest action, November 11: Cloture motion on the measure presented in Senate. (CR S5568)",
+      "note": "Survivor Justice Tax Prevention Act. Latest action, November 16: Considered by Senate.",
       "status": "Expected"
     }
   ]

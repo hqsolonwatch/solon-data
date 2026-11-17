@@ -1582,7 +1582,7 @@
     "bioguide": null,
     "receipts": 0.0,
     "cash_on_hand": 1000.0,
-    "coverage_end": "06/30/2026"
+    "coverage_end": "09/30/2026"
    }
   ],
   "AZ-06": [
@@ -3935,8 +3935,8 @@
     "status": "Open seat",
     "bioguide": null,
     "receipts": 78214.08,
-    "cash_on_hand": 3674.51,
-    "coverage_end": "09/30/2026"
+    "cash_on_hand": -4565.46,
+    "coverage_end": "11/10/2026"
    },
    {
     "candidate_id": "H6CA26258",
@@ -4028,8 +4028,8 @@
     "party": "Democrat",
     "status": "Incumbent",
     "bioguide": "C001080",
-    "receipts": 1375778.13,
-    "cash_on_hand": 3680652.82,
+    "receipts": 1382778.13,
+    "cash_on_hand": 3687652.82,
     "coverage_end": "10/14/2026"
    },
    {
@@ -4818,7 +4818,7 @@
     "party": "Democrat",
     "status": "Challenger",
     "bioguide": null,
-    "receipts": 1482148.13,
+    "receipts": 1485148.13,
     "cash_on_hand": 284506.89,
     "coverage_end": "10/14/2026"
    },
@@ -8438,7 +8438,7 @@
     "party": "Democrat",
     "status": "Challenger",
     "bioguide": null,
-    "receipts": 619304.84,
+    "receipts": 619554.84,
     "cash_on_hand": 96905.4,
     "coverage_end": "10/14/2026"
    },
@@ -10707,8 +10707,8 @@
     "status": "Challenger",
     "bioguide": null,
     "receipts": 982729.5,
-    "cash_on_hand": 29327.48,
-    "coverage_end": "09/30/2026"
+    "cash_on_hand": 0.0,
+    "coverage_end": "11/16/2026"
    },
    {
     "candidate_id": "H6FL23139",
@@ -12898,7 +12898,7 @@
     "party": "Independent",
     "status": "Challenger",
     "bioguide": null,
-    "receipts": 338285.03,
+    "receipts": 338128.87,
     "cash_on_hand": 76729.96,
     "coverage_end": "10/14/2026"
    },
@@ -14400,8 +14400,8 @@
     "party": "Democrat",
     "status": "Open seat",
     "bioguide": null,
-    "receipts": 1043341.4,
-    "cash_on_hand": -13997.45,
+    "receipts": 1057338.85,
+    "cash_on_hand": 0.0,
     "coverage_end": "09/30/2026"
    },
    {
@@ -18120,9 +18120,9 @@
     "party": "Democrat",
     "status": "Challenger",
     "bioguide": null,
-    "receipts": 43812.06,
-    "cash_on_hand": 19900.32,
-    "coverage_end": "08/12/2026"
+    "receipts": 44561.96,
+    "cash_on_hand": 2216.81,
+    "coverage_end": "09/30/2026"
    }
   ],
   "MA-06": [
@@ -27247,16 +27247,6 @@
     "coverage_end": "10/14/2026"
    },
    {
-    "candidate_id": "H6NV01356",
-    "name": "HOOVER, JOY",
-    "party": "Democrat",
-    "status": "Challenger",
-    "bioguide": null,
-    "receipts": 82398.18,
-    "cash_on_hand": 544.3,
-    "coverage_end": "06/30/2026"
-   },
-   {
     "candidate_id": "H4NV01237",
     "name": "BORIS, MICHAEL",
     "party": "Republican",
@@ -27265,6 +27255,16 @@
     "receipts": 77860.0,
     "cash_on_hand": 62800.0,
     "coverage_end": "05/20/2026"
+   },
+   {
+    "candidate_id": "H6NV01356",
+    "name": "HOOVER, JOY",
+    "party": "Democrat",
+    "status": "Challenger",
+    "bioguide": null,
+    "receipts": 68398.18,
+    "cash_on_hand": 544.3,
+    "coverage_end": "06/30/2026"
    },
    {
     "candidate_id": "H6NV01349",
@@ -39501,8 +39501,8 @@
     "status": "Challenger",
     "bioguide": null,
     "receipts": 5300.0,
-    "cash_on_hand": 279.8,
-    "coverage_end": "06/30/2026"
+    "cash_on_hand": 83.25,
+    "coverage_end": "09/30/2026"
    },
    {
     "candidate_id": "H6UT02432",
@@ -42194,9 +42194,9 @@
     "party": "Democrat",
     "status": "Challenger",
     "bioguide": null,
-    "receipts": 40259.99,
-    "cash_on_hand": 4566.99,
-    "coverage_end": "09/30/2026"
+    "receipts": 40401.88,
+    "cash_on_hand": 0.0,
+    "coverage_end": "11/16/2026"
    }
   ],
   "WA-10": [
