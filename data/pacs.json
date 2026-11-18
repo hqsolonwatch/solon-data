@@ -6205,7 +6205,7 @@
   {
    "id": "C00178541",
    "name": "TEAMSTERS JOINT COUNCIL 53 POLITICAL ACTION COMMITTEE",
-   "connected_org": "COMMONWEALTH ASSOCIATION OF SCHOOL ADMINISTRATORS - TEAMSTERS LOCAL 502 PAC",
+   "connected_org": "TEAMSTERS NO. 53 TCWH",
    "org_type": "L",
    "type": "Q",
    "designation": "U"
@@ -9989,7 +9989,7 @@
   {
    "id": "C00303685",
    "name": "NORTH AMERICAN COAL CORP. POLITICAL ACTION COMM. NACPAC",
-   "connected_org": null,
+   "connected_org": "THE NORTH AMERICAN COAL CORPORATION",
    "org_type": "C",
    "type": "Q",
    "designation": "U"
@@ -18925,7 +18925,7 @@
   {
    "id": "C00456277",
    "name": "WESTERN DUBUQUE BIODIESEL LLC PAC",
-   "connected_org": null,
+   "connected_org": "NONE",
    "org_type": "C",
    "type": "Q",
    "designation": "U"
@@ -26117,7 +26117,7 @@
   {
    "id": "C00571554",
    "name": "LEADERSHIP ALLIANCE",
-   "connected_org": null,
+   "connected_org": "NONE",
    "org_type": null,
    "type": "O",
    "designation": "U"
@@ -33845,7 +33845,7 @@
   {
    "id": "C00699439",
    "name": "ZILLOW GROUP, INC. POLITICAL ACTION COMMITTEE (ZG PAC)",
-   "connected_org": null,
+   "connected_org": "ZILLOW GROUP, INC.",
    "org_type": "C",
    "type": "Q",
    "designation": "B"
@@ -38861,7 +38861,7 @@
   {
    "id": "C00762427",
    "name": "APPLIED RESEARCH ASSOCIATES, INC. POLITICAL ACTION COMMITTEE (ARAPAC)",
-   "connected_org": null,
+   "connected_org": "APPLIED RESEARCH ASSOCIATES, INC.",
    "org_type": "C",
    "type": "Q",
    "designation": "B"
@@ -39693,7 +39693,7 @@
   {
    "id": "C00768523",
    "name": "SERBIAN AMERICAN VOTERS ALLIANCE",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "U"
@@ -41197,7 +41197,7 @@
   {
    "id": "C00782482",
    "name": "INDIAN AMERICAN PHYSICIAN FEDERAL PAC",
-   "connected_org": null,
+   "connected_org": "NONE",
    "org_type": null,
    "type": "N",
    "designation": "U"
@@ -42789,6 +42789,14 @@
   {
    "id": "C00800016",
    "name": "BLUEGRASS FREEDOM FUND, INC.",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "O",
+   "designation": "U"
+  },
+  {
+   "id": "C00800019",
+   "name": "KENTUCKY FREEDOM PAC",
    "connected_org": "NONE",
    "org_type": null,
    "type": "O",
@@ -65861,7 +65869,7 @@
   {
    "id": "C00900936",
    "name": "TURNOUT FOR DEMOCRACY",
-   "connected_org": "LAURA FRIEDMAN",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "D"
@@ -71029,7 +71037,7 @@
   {
    "id": "C00921098",
    "name": "PYTHON PAC",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "O",
    "designation": "U"
@@ -71749,7 +71757,7 @@
   {
    "id": "C00924217",
    "name": "SUNUNU VICTORY",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -71805,7 +71813,7 @@
   {
    "id": "C00924357",
    "name": "TEAM HINSON",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -80013,7 +80021,7 @@
   {
    "id": "C00952218",
    "name": "PAXTON VICTORY",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "house": [
   {
    "bill": {
@@ -165,6 +165,17 @@
    "description": "American Franchise Act",
    "category": "",
    "week_of": "2026-11-16"
+  },
+  {
+   "bill": {
+    "type": "hres",
+    "number": 1665,
+    "label": "H.Res. 1665",
+    "id": "hres1665-119"
+   },
+   "description": "Providing for consideration of the bill (H.R. 3495) to amend the Fair Labor Standards Act of 1938 to clarify the definition of employee as it relates to direct sellers and real estate agents, and for other purposes, and providing for consideration of the bill (H.R. 5267) to preserve the franchise business model.",
+   "category": "",
+   "week_of": "2026-11-16"
   }
  ],
  "senate": [
@@ -175,7 +186,7 @@
     "label": "H.R. 2347",
     "id": "hr2347-119"
    },
-   "description": "Survivor Justice Tax Prevention Act. Latest action, November 16: Considered by Senate.",
+   "description": "Survivor Justice Tax Prevention Act. Latest action, November 17: Considered by Senate.",
    "category": "expected",
    "basis": "congress.gov action"
   }

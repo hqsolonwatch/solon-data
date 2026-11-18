@@ -1342,70 +1342,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 37476453.74,
+   "itemized_total": 56461765.62,
    "home_state": "GA",
-   "home_state_total": 6863280.84,
+   "home_state_total": 9938427.46,
    "home_state_share": 18,
    "top": [
     {
      "state": "CA",
      "state_full": "California",
-     "total": 7345961.96,
-     "count": 65251
+     "total": 10944627.53,
+     "count": 101505
     },
     {
      "state": "GA",
      "state_full": "Georgia",
-     "total": 6863280.84,
-     "count": 68848
+     "total": 9938427.46,
+     "count": 100985
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 3561387.27,
-     "count": 29113
+     "total": 5264767.51,
+     "count": 43674
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 1953834.13,
-     "count": 15128
-    },
-    {
-     "state": "WA",
-     "state_full": "Washington",
-     "total": 1471154.92,
-     "count": 15036
-    },
-    {
-     "state": "IL",
-     "state_full": "Illinois",
-     "total": 1386067.58,
-     "count": 11556
+     "total": 2950116.62,
+     "count": 23639
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 1385610.5,
-     "count": 16639
+     "total": 2214866.26,
+     "count": 26560
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 2120294.27,
+     "count": 23447
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 1255465.46,
-     "count": 14006
+     "total": 1999706.4,
+     "count": 22118
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 1898773.78,
+     "count": 17747
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 1141418.77,
-     "count": 10339
+     "total": 1692858.77,
+     "count": 16134
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 876770.87,
-     "count": 10705
+     "total": 1403972.09,
+     "count": 16935
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1413,60 +1413,60 @@
   "donor_employers": {
    "top": [
     {
-     "employer": "DELTA AIR LINES",
-     "total": 77247.0,
-     "count": 193
+     "employer": "GOOGLE",
+     "total": 97726.76,
+     "count": 236
     },
     {
-     "employer": "GOOGLE",
-     "total": 75432.43,
-     "count": 161
+     "employer": "DELTA AIR LINES",
+     "total": 86001.42,
+     "count": 279
     },
     {
      "employer": "EMORY UNIVERSITY",
-     "total": 48574.66,
-     "count": 421
+     "total": 73044.98,
+     "count": 610
     },
     {
      "employer": "ANTHROPIC",
-     "total": 41500.0,
-     "count": 14
+     "total": 71500.0,
+     "count": 23
     },
     {
      "employer": "COX ENTERPRISES",
-     "total": 38220.0,
-     "count": 47
+     "total": 41280.0,
+     "count": 52
     },
     {
      "employer": "KAISER PERMANENTE",
-     "total": 32071.5,
-     "count": 104
+     "total": 40523.22,
+     "count": 234
+    },
+    {
+     "employer": "UNIVERSITY OF GEORGIA",
+     "total": 39153.39,
+     "count": 404
     },
     {
      "employer": "WILMERHALE",
-     "total": 30250.0,
-     "count": 30
+     "total": 32250.0,
+     "count": 31
     },
     {
-     "employer": "CLIFFORD LAW OFFICES",
-     "total": 29000.0,
-     "count": 10
+     "employer": "APPLE",
+     "total": 31454.31,
+     "count": 205
     },
     {
      "employer": "GEORGIA STATE UNIVERSITY",
-     "total": 26101.35,
-     "count": 204
-    },
-    {
-     "employer": "KING & SPALDING",
-     "total": 25945.26,
-     "count": 38
+     "total": 31048.95,
+     "count": 289
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794319828.5573218,
+ "detail_fetched_ts": 1795004225.8669708,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

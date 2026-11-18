@@ -398,70 +398,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 517540.04,
+   "itemized_total": 598350.29,
    "home_state": "CO",
-   "home_state_total": 240938.92,
-   "home_state_share": 47,
+   "home_state_total": 290886.36,
+   "home_state_share": 49,
    "top": [
     {
      "state": "CO",
      "state_full": "Colorado",
-     "total": 240938.92,
-     "count": 1553
+     "total": 290886.36,
+     "count": 1896
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 44091.78,
-     "count": 480
+     "total": 45585.33,
+     "count": 542
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 34162.41,
-     "count": 317
+     "total": 37318.68,
+     "count": 361
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 29498.43,
-     "count": 723
-    },
-    {
-     "state": "MA",
-     "state_full": "Massachusetts",
-     "total": 17036.61,
-     "count": 89
+     "total": 35584.44,
+     "count": 818
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 14450.66,
-     "count": 157
+     "total": 19308.19,
+     "count": 181
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 17651.28,
+     "count": 103
     },
     {
      "state": "LA",
      "state_full": "Louisiana",
-     "total": 12668.0,
-     "count": 46
+     "total": 12819.86,
+     "count": 51
     },
     {
      "state": "AZ",
      "state_full": "Arizona",
-     "total": 11798.37,
-     "count": 89
+     "total": 12340.22,
+     "count": 108
     },
     {
      "state": "GA",
      "state_full": "Georgia",
-     "total": 9021.65,
-     "count": 71
+     "total": 9447.68,
+     "count": 76
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 8711.59,
-     "count": 66
+     "total": 8866.59,
+     "count": 72
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -469,12 +469,17 @@
   "donor_employers": {
    "top": [
     {
-     "employer": "M.D.C. HOLDINGS INC.",
+     "employer": "FIRST SOURCE ENTERPRISES",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "A10 ASSOCIATES",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "A10 ASSOCIATES",
+     "employer": "M.D.C. HOLDINGS INC.",
      "total": 7000.0,
      "count": 2
     },
@@ -484,14 +489,14 @@
      "count": 3
     },
     {
-     "employer": "KPMG",
+     "employer": "NEW WEST CAPITAL",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "FIRST SOURCE ENTERPRISES",
+     "employer": "KPMG",
      "total": 7000.0,
-     "count": 3
+     "count": 2
     },
     {
      "employer": "SPACEX",
@@ -499,30 +504,25 @@
      "count": 2
     },
     {
+     "employer": "WCG, INC.",
+     "total": 6000.0,
+     "count": 6
+    },
+    {
      "employer": "URANIUM ENERGY CORP",
      "total": 6000.0,
      "count": 4
     },
     {
-     "employer": "VELOCITY BIOGROUP CORP.",
-     "total": 5007.93,
-     "count": 13
-    },
-    {
      "employer": "AK CRUST",
-     "total": 4351.88,
-     "count": 215
-    },
-    {
-     "employer": "AXON",
-     "total": 4300.0,
-     "count": 2
+     "total": 5020.67,
+     "count": 249
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794319828.5573218,
+ "detail_fetched_ts": 1795004225.8669708,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

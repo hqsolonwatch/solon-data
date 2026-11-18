@@ -1242,7 +1242,7 @@
   {
    "committee_id": "C00762427",
    "name": "APPLIED RESEARCH ASSOCIATES, INC. POLITICAL ACTION COMMITTEE (ARAPAC)",
-   "connected_org": null,
+   "connected_org": "APPLIED RESEARCH ASSOCIATES, INC.",
    "total": 5000.0
   },
   {
@@ -3318,70 +3318,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 12488828.43,
+   "itemized_total": 16162476.38,
    "home_state": "ME",
-   "home_state_total": 921945.8,
-   "home_state_share": 7,
+   "home_state_total": 1334169.23,
+   "home_state_share": 8,
    "top": [
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 1793666.15,
-     "count": 2280
+     "total": 2191882.72,
+     "count": 3728
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 1461277.71,
-     "count": 1840
+     "total": 1783935.38,
+     "count": 3124
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 1393412.88,
-     "count": 1056
+     "total": 1680317.21,
+     "count": 1614
     },
     {
      "state": "ME",
      "state_full": "Maine",
-     "total": 921945.8,
-     "count": 1882
+     "total": 1334169.23,
+     "count": 2929
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 791870.95,
-     "count": 1332
+     "total": 1162366.23,
+     "count": 2586
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 694973.68,
-     "count": 854
+     "total": 864818.97,
+     "count": 1293
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 528698.18,
-     "count": 1000
-    },
-    {
-     "state": "IL",
-     "state_full": "Illinois",
-     "total": 412472.33,
-     "count": 581
+     "total": 717060.89,
+     "count": 1776
     },
     {
      "state": "NJ",
      "state_full": "New Jersey",
-     "total": 354857.8,
-     "count": 538
+     "total": 516378.81,
+     "count": 910
     },
     {
-     "state": "MD",
-     "state_full": "Maryland",
-     "total": 318626.28,
-     "count": 400
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 492765.63,
+     "count": 1069
+    },
+    {
+     "state": "AL",
+     "state_full": "Alabama",
+     "total": 437442.9,
+     "count": 484
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -3429,20 +3429,20 @@
      "count": 8
     },
     {
-     "employer": "DCI GROUP",
-     "total": 21000.0,
-     "count": 6
+     "employer": "CORNERSTONE GOVERNMENT AFFAIRS",
+     "total": 21864.35,
+     "count": 30
     },
     {
-     "employer": "BGR GROUP",
-     "total": 20500.0,
-     "count": 13
+     "employer": "TNT FIREWORKS",
+     "total": 21500.0,
+     "count": 8
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794319828.5573218,
+ "detail_fetched_ts": 1795004225.8669708,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

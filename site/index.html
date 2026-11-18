@@ -472,67 +472,71 @@ var MEMBERS = [
     }
   },
   {
-    "sample": false,
+    "sample": true,
     "party": "Democrat",
     "chamber": "house",
     "name": "Rep. Katherine Clark",
     "role": "U.S. House, Massachusetts District 5",
     "vote": {
-      "bill": "H.R. 2102",
-      "title": "Major Richard Star Act",
-      "summary": "Allows a veteran with a combat-related disability to receive retirement pay, without reduction, concurrently with their disability compensation.",
+      "bill": "H.R. 9600",
+      "title": "Common Sense 250 Act of 2026",
+      "summary": "Requires the authorized monument honoring Thomas Paine to be located in Area 1 of the National Mall, which is reserved for commemorative works of preeminent historical and lasting significance to the United States.",
       "cast": "Yea",
-      "result": "Passed 392 to 18",
-      "date": "November 12, 2026",
-      "source": "clerk.house.gov, roll call 323, 2026"
+      "result": "Passed 365 to 36",
+      "date": "November 17, 2026",
+      "source": "clerk.house.gov, roll call 325, 2026"
     },
     "lobbying": {
       "cycle": "2026 cycle",
       "groups": [
         [
-          "AFL-CIO",
-          0,
-          920000
+          "[Organization A]",
+          0
         ],
         [
-          "International Association of Machinists and Aerospace Workers",
-          5000,
-          710000
+          "[Organization B]",
+          0
+        ],
+        [
+          "[Organization C]",
+          0
         ]
       ],
-      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: AFL-CIO (C00003806); International Association of Machinists and Aerospace Workers (C00002469)"
+      "source": "[Lobbying source]"
     }
   },
   {
-    "sample": false,
+    "sample": true,
     "party": "Republican",
     "chamber": "house",
     "name": "Rep. Tom Emmer",
     "role": "U.S. House, Minnesota District 6",
     "vote": {
-      "bill": "H.R. 2102",
-      "title": "Major Richard Star Act",
-      "summary": "Allows a veteran with a combat-related disability to receive retirement pay, without reduction, concurrently with their disability compensation.",
-      "cast": "Yea",
-      "result": "Passed 392 to 18",
-      "date": "November 12, 2026",
-      "source": "clerk.house.gov, roll call 323, 2026"
+      "bill": "H.R. 9600",
+      "title": "Common Sense 250 Act of 2026",
+      "summary": "Requires the authorized monument honoring Thomas Paine to be located in Area 1 of the National Mall, which is reserved for commemorative works of preeminent historical and lasting significance to the United States.",
+      "cast": "Nay",
+      "result": "Passed 365 to 36",
+      "date": "November 17, 2026",
+      "source": "clerk.house.gov, roll call 325, 2026"
     },
     "lobbying": {
       "cycle": "2026 cycle",
       "groups": [
         [
-          "AFL-CIO",
-          0,
-          920000
+          "[Organization A]",
+          0
         ],
         [
-          "International Association of Machinists and Aerospace Workers",
-          0,
-          710000
+          "[Organization B]",
+          0
+        ],
+        [
+          "[Organization C]",
+          0
         ]
       ],
-      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: AFL-CIO (C00003806); International Association of Machinists and Aerospace Workers (C00002469)"
+      "source": "[Lobbying source]"
     }
   }
 ];
@@ -818,14 +822,14 @@ var ROLLCALLS = {
     ],
     [
       "Nov 2026",
-      9,
-      8
+      11,
+      9
     ]
   ],
   "meta": {
     "start": "January 3, 2025",
-    "through": "November 16, 2026",
-    "total": 1608,
+    "through": "November 17, 2026",
+    "total": 1611,
     "election": {
       "date": "November 3, 2026",
       "month": "Nov 2026",
@@ -836,10 +840,22 @@ var ROLLCALLS = {
 };
 
 var SCHEDULE = {
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "house": {
     "week": "November 16",
     "rows": [
+      {
+        "bill": "H.R. 8483",
+        "title": "Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026",
+        "status": "Passed 398 to 0",
+        "roll": 324
+      },
+      {
+        "bill": "H.R. 9600",
+        "title": "Common Sense 250 Act of 2026",
+        "status": "Passed 365 to 36",
+        "roll": 325
+      },
       {
         "bill": "H.R. 7254",
         "title": "To amend the National Trails System Act to direct the Secretary of the Interior to conduct a study on the feasibility of designating the Bay Area Ridge National Scenic Trail, and for other purposes.",
@@ -851,28 +867,16 @@ var SCHEDULE = {
         "title": "Don Young Doug LaMalfa Indian Buffalo Management Act",
         "status": "Scheduled",
         "roll": null
-      },
-      {
-        "bill": "H.R. 8195",
-        "title": "Responsible Cormorant Management and Control Act of 2026",
-        "status": "Scheduled",
-        "roll": null
-      },
-      {
-        "bill": "H.R. 8483",
-        "title": "Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026",
-        "status": "Scheduled",
-        "roll": null
       }
     ],
     "listed": 15,
-    "source": "docs.house.gov floor schedule"
+    "source": "docs.house.gov floor schedule; results from House Clerk roll calls 324 and 325"
   },
   "senate": [
     {
       "bill": "H.R. 2347",
       "title": "Survivor Justice Tax Prevention Act",
-      "note": "Survivor Justice Tax Prevention Act. Latest action, November 16: Considered by Senate.",
+      "note": "Survivor Justice Tax Prevention Act. Latest action, November 17: Considered by Senate.",
       "status": "Expected"
     }
   ]

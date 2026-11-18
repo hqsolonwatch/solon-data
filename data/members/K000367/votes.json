@@ -23,6 +23,22 @@
  },
  "votes": [
   {
+   "vote_id": "senate-119-2-265",
+   "date": "2026-11-17",
+   "vote": "Nay",
+   "kind": "nomination",
+   "question": "On the Nomination",
+   "result": "Nomination Confirmed (52-46)",
+   "bill": null,
+   "totals": {
+    "yea": 52,
+    "nay": 46,
+    "present": 0,
+    "not_voting": 2
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00265.xml"
+  },
+  {
    "vote_id": "senate-119-2-264",
    "date": "2026-11-16",
    "vote": "Yea",

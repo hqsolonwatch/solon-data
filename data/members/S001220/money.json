@@ -198,7 +198,7 @@
   {
    "committee_id": "C00762427",
    "name": "APPLIED RESEARCH ASSOCIATES, INC. POLITICAL ACTION COMMITTEE (ARAPAC)",
-   "connected_org": null,
+   "connected_org": "APPLIED RESEARCH ASSOCIATES, INC.",
    "total": 7500.0
   },
   {
@@ -1159,39 +1159,51 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 839343.23,
+   "itemized_total": 979269.23,
    "home_state": "AL",
-   "home_state_total": 522034.18,
-   "home_state_share": 62,
+   "home_state_total": 615958.18,
+   "home_state_share": 63,
    "top": [
     {
      "state": "AL",
      "state_full": "Alabama",
-     "total": 522034.18,
-     "count": 327
+     "total": 615958.18,
+     "count": 434
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 115650.0,
-     "count": 105
+     "total": 118900.0,
+     "count": 111
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 41443.56,
-     "count": 28
+     "total": 58943.56,
+     "count": 34
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 28000.0,
-     "count": 27
+     "total": 28750.0,
+     "count": 29
     },
     {
      "state": "TN",
      "state_full": "Tennessee",
-     "total": 20500.0,
+     "total": 22500.0,
+     "count": 12
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 20000.0,
+     "count": 13
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 17002.0,
      "count": 10
     },
     {
@@ -1199,12 +1211,6 @@
      "state_full": "North Carolina",
      "total": 16500.0,
      "count": 6
-    },
-    {
-     "state": "CA",
-     "state_full": "California",
-     "total": 16000.0,
-     "count": 10
     },
     {
      "state": "MD",
@@ -1217,18 +1223,17 @@
      "state_full": "Texas",
      "total": 9000.0,
      "count": 4
-    },
-    {
-     "state": "WY",
-     "state_full": "Wyoming",
-     "total": 7000.0,
-     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
   },
   "donor_employers": {
    "top": [
+    {
+     "employer": "SILVER COMPANIES",
+     "total": 17500.0,
+     "count": 5
+    },
     {
      "employer": "RYE ENGINEERING PLC",
      "total": 15000.0,
@@ -1260,30 +1265,25 @@
      "count": 21
     },
     {
+     "employer": "MCDANIEL & MCDANIEL",
+     "total": 10100.0,
+     "count": 3
+    },
+    {
      "employer": "C2 STRATEGIES",
      "total": 9500.0,
      "count": 10
     },
     {
-     "employer": "TRIDEUM",
-     "total": 9500.0,
-     "count": 6
-    },
-    {
      "employer": "COLLAZO ENTERPRISES",
      "total": 9500.0,
      "count": 4
-    },
-    {
-     "employer": "SUMMIT 7",
-     "total": 9000.0,
-     "count": 6
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794319828.5573218,
+ "detail_fetched_ts": 1795004225.8669708,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

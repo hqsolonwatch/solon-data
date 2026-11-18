@@ -4278,76 +4278,81 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1698973.39,
+   "itemized_total": 2529321.66,
    "home_state": "KY",
-   "home_state_total": 277556.29,
-   "home_state_share": 16,
+   "home_state_total": 427594.2,
+   "home_state_share": 17,
    "top": [
-    {
-     "state": "VA",
-     "state_full": "Virginia",
-     "total": 291229.42,
-     "count": 205
-    },
     {
      "state": "KY",
      "state_full": "Kentucky",
-     "total": 277556.29,
-     "count": 246
+     "total": 427594.2,
+     "count": 352
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 363582.99,
+     "count": 252
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 216447.39,
-     "count": 178
+     "total": 312162.68,
+     "count": 227
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 136234.58,
-     "count": 52
+     "total": 220634.58,
+     "count": 79
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 115348.14,
-     "count": 60
+     "total": 161149.62,
+     "count": 80
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 109352.54,
-     "count": 66
+     "total": 152496.11,
+     "count": 98
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 76021.54,
-     "count": 53
+     "total": 111414.85,
+     "count": 69
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 63373.06,
-     "count": 46
+     "total": 76173.06,
+     "count": 56
     },
     {
-     "state": "TN",
-     "state_full": "Tennessee",
-     "total": 43641.02,
-     "count": 51
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 75257.6,
+     "count": 39
     },
     {
-     "state": "NC",
-     "state_full": "North Carolina",
-     "total": 28102.55,
-     "count": 15
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 72094.14,
+     "count": 35
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
   },
   "donor_employers": {
    "top": [
+    {
+     "employer": "ANTHROPIC",
+     "total": 63000.0,
+     "count": 18
+    },
     {
      "employer": "ATT",
      "total": 59500.0,
@@ -4359,14 +4364,24 @@
      "count": 16
     },
     {
+     "employer": "T-MOBILE",
+     "total": 40299.82,
+     "count": 18
+    },
+    {
+     "employer": "NYCBS",
+     "total": 39643.57,
+     "count": 41
+    },
+    {
      "employer": "COMCAST",
      "total": 28102.54,
      "count": 20
     },
     {
-     "employer": "NYCBS",
-     "total": 23500.0,
-     "count": 22
+     "employer": "ELEVANCE HEALTH",
+     "total": 22865.3,
+     "count": 16
     },
     {
      "employer": "ANDREESSEN HOROWITZ",
@@ -4382,27 +4397,12 @@
      "employer": "PIKEVILLE MEDICAL CENTER",
      "total": 19800.0,
      "count": 18
-    },
-    {
-     "employer": "MEHLMAN CONSULTING",
-     "total": 16600.0,
-     "count": 9
-    },
-    {
-     "employer": "AMAZON",
-     "total": 15500.0,
-     "count": 10
-    },
-    {
-     "employer": "DISH NETWORK",
-     "total": 14500.0,
-     "count": 5
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794319828.5573218,
+ "detail_fetched_ts": 1795004225.8669708,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

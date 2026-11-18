@@ -2976,7 +2976,7 @@
   {
    "committee_id": "C00900936",
    "name": "TURNOUT FOR DEMOCRACY",
-   "connected_org": "LAURA FRIEDMAN",
+   "connected_org": null,
    "total": 1000.0
   },
   {
@@ -3370,70 +3370,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 2120714.62,
+   "itemized_total": 2622354.0,
    "home_state": "CA",
-   "home_state_total": 1672583.73,
+   "home_state_total": 2065605.34,
    "home_state_share": 79,
    "top": [
     {
      "state": "CA",
      "state_full": "California",
-     "total": 1672583.73,
-     "count": 3490
+     "total": 2065605.34,
+     "count": 4350
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 74402.0,
-     "count": 88
+     "total": 87905.0,
+     "count": 106
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 62497.25,
-     "count": 26
-    },
-    {
-     "state": "VA",
-     "state_full": "Virginia",
-     "total": 44762.0,
-     "count": 45
-    },
-    {
-     "state": "AZ",
-     "state_full": "Arizona",
-     "total": 43783.0,
-     "count": 30
+     "total": 75500.25,
+     "count": 34
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 36090.0,
-     "count": 38
+     "total": 53590.0,
+     "count": 52
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 48812.0,
+     "count": 52
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 44783.0,
+     "count": 32
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 31813.25,
-     "count": 19
+     "total": 41267.25,
+     "count": 26
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 24868.0,
-     "count": 16
+     "total": 34044.0,
+     "count": 21
     },
     {
      "state": "NV",
      "state_full": "Nevada",
-     "total": 24106.0,
-     "count": 13
+     "total": 25109.0,
+     "count": 14
     },
     {
-     "state": "MI",
-     "state_full": "Michigan",
-     "total": 13500.0,
-     "count": 6
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 18623.5,
+     "count": 15
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -3461,7 +3461,22 @@
      "count": 16
     },
     {
-     "employer": "BENOVIA WINERY",
+     "employer": "NYMAN TURKISH PC",
+     "total": 16068.77,
+     "count": 5
+    },
+    {
+     "employer": "TRINCHERO FAMILY ESTATES",
+     "total": 14538.82,
+     "count": 16
+    },
+    {
+     "employer": "ENTERPRISE PRODUCTS",
+     "total": 14500.0,
+     "count": 6
+    },
+    {
+     "employer": "GOOD HEART BRAND SPECIALITY",
      "total": 14000.0,
      "count": 4
     },
@@ -3471,30 +3486,15 @@
      "count": 5
     },
     {
-     "employer": "GOOD HEART BRAND SPECIALITY",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
      "employer": "SKYDANCE",
      "total": 14000.0,
      "count": 4
-    },
-    {
-     "employer": "TEECOM",
-     "total": 12812.0,
-     "count": 8
-    },
-    {
-     "employer": "TRINCHERO FAMILY ESTATES",
-     "total": 12038.82,
-     "count": 14
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794319828.5573218,
+ "detail_fetched_ts": 1795004225.8669708,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

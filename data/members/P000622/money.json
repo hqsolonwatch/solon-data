@@ -1256,25 +1256,25 @@
      "count": 4
     },
     {
-     "employer": "EASTERN SHIPBUILDING GROUP",
-     "total": 13600.0,
-     "count": 5
-    },
-    {
      "employer": "UNITED REFINING COMPANY",
      "total": 13600.0,
      "count": 5
     },
     {
-     "employer": "AGPM LLC",
+     "employer": "EASTERN SHIPBUILDING GROUP",
      "total": 13600.0,
-     "count": 7
+     "count": 5
+    },
+    {
+     "employer": "THE JAY ODOM GROUP",
+     "total": 13600.0,
+     "count": 5
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794319828.5573218,
+ "detail_fetched_ts": 1795004225.8669708,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -396,64 +396,64 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 891299.85,
+   "itemized_total": 916180.67,
    "home_state": "FL",
-   "home_state_total": 540899.0,
+   "home_state_total": 558585.77,
    "home_state_share": 61,
    "top": [
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 540899.0,
-     "count": 1448
+     "total": 558585.77,
+     "count": 1549
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 45538.6,
-     "count": 347
+     "total": 46769.06,
+     "count": 376
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 32856.17,
-     "count": 400
+     "total": 33725.93,
+     "count": 451
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 31549.0,
-     "count": 109
+     "total": 31659.0,
+     "count": 117
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 29677.77,
-     "count": 90
+     "total": 29752.02,
+     "count": 93
     },
     {
      "state": "MO",
      "state_full": "Missouri",
-     "total": 16749.25,
-     "count": 83
+     "total": 16941.25,
+     "count": 91
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 15542.1,
-     "count": 143
+     "total": 16177.1,
+     "count": 150
     },
     {
      "state": "PA",
      "state_full": "Pennsylvania",
-     "total": 14376.37,
-     "count": 167
+     "total": 14781.07,
+     "count": 178
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 14201.2,
-     "count": 169
+     "total": 14375.2,
+     "count": 196
     },
     {
      "state": "DC",
@@ -467,22 +467,12 @@
   "donor_employers": {
    "top": [
     {
-     "employer": "REDWOOD RESEARCH",
+     "employer": "KEISER UNIVERSITY",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "INDECK ENERGY SERVICES",
-     "total": 7000.0,
-     "count": 5
-    },
-    {
-     "employer": "PROMETHEUS MANAGEMENT/SOUTHEAST QSR",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "LIAM DONOVAN",
+     "employer": "ONEWEB",
      "total": 7000.0,
      "count": 2
     },
@@ -492,7 +482,22 @@
      "count": 3
     },
     {
-     "employer": "WEATHERTECH",
+     "employer": "ADVOCATE HEALTH ADVISORS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "INDECK ENERGY SERVICES",
+     "total": 7000.0,
+     "count": 5
+    },
+    {
+     "employer": "CEO",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PROMETHEUS MANAGEMENT/SOUTHEAST QSR",
      "total": 7000.0,
      "count": 2
     },
@@ -502,17 +507,12 @@
      "count": 3
     },
     {
-     "employer": "ADVOCATE HEALTH ADVISORS",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "FOREFRONT DERMATOLOGY",
+     "employer": "ANTHONY AND PARTNERS",
      "total": 7000.0,
      "count": 4
     },
     {
-     "employer": "BARTLETT AND CO.",
+     "employer": "LIAM DONOVAN",
      "total": 7000.0,
      "count": 2
     }
@@ -520,7 +520,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794319828.5573218,
+ "detail_fetched_ts": 1795004225.8669708,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

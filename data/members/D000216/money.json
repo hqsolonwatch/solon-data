@@ -1170,28 +1170,46 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 546503.82,
+   "itemized_total": 738613.93,
    "home_state": "CT",
-   "home_state_total": 248979.0,
-   "home_state_share": 46,
+   "home_state_total": 317550.11,
+   "home_state_share": 43,
    "top": [
     {
      "state": "CT",
      "state_full": "Connecticut",
-     "total": 248979.0,
-     "count": 1165
+     "total": 317550.11,
+     "count": 1476
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 58620.82,
-     "count": 68
+     "total": 94445.82,
+     "count": 101
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 44600.0,
-     "count": 38
+     "total": 61850.0,
+     "count": 51
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 49900.0,
+     "count": 44
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 41000.0,
+     "count": 31
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 33494.0,
+     "count": 48
     },
     {
      "state": "TX",
@@ -1200,28 +1218,10 @@
      "count": 16
     },
     {
-     "state": "CA",
-     "state_full": "California",
-     "total": 30750.0,
-     "count": 23
-    },
-    {
-     "state": "NY",
-     "state_full": "New York",
-     "total": 26170.0,
-     "count": 34
-    },
-    {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 19053.0,
-     "count": 19
-    },
-    {
-     "state": "MA",
-     "state_full": "Massachusetts",
-     "total": 18750.0,
-     "count": 16
+     "total": 26878.0,
+     "count": 27
     },
     {
      "state": "FL",
@@ -1230,10 +1230,10 @@
      "count": 9
     },
     {
-     "state": "CO",
-     "state_full": "Colorado",
-     "total": 9500.0,
-     "count": 6
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 10010.0,
+     "count": 8
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1242,13 +1242,18 @@
    "top": [
     {
      "employer": "YALE UNIVERSITY",
-     "total": 16120.0,
-     "count": 76
+     "total": 18570.0,
+     "count": 91
     },
     {
      "employer": "CORNERSTONE GOVERNMENT AFFAIRS",
-     "total": 15250.0,
-     "count": 9
+     "total": 17750.0,
+     "count": 10
+    },
+    {
+     "employer": "BARRETT OUTDOOR COMMUNICATIONS",
+     "total": 12000.0,
+     "count": 6
     },
     {
      "employer": "ARNOLD VENTURES",
@@ -1256,9 +1261,9 @@
      "count": 4
     },
     {
-     "employer": "BARRETT OUTDOOR COMMUNICATIONS",
-     "total": 8500.0,
-     "count": 5
+     "employer": "ACTUM LLC",
+     "total": 9500.0,
+     "count": 4
     },
     {
      "employer": "NATIONAL DIAPER BANK NETWORK",
@@ -1266,14 +1271,9 @@
      "count": 4
     },
     {
-     "employer": "PIVOTAL VENTURES",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "NATIONAL MARINE MANUFACTURERS ASSOCIAT",
-     "total": 7000.0,
-     "count": 3
+     "employer": "ARNOLD & PORTER",
+     "total": 7500.0,
+     "count": 5
     },
     {
      "employer": "MASS GENERAL HOSPITAL",
@@ -1281,20 +1281,20 @@
      "count": 2
     },
     {
+     "employer": "EDEN PRODUCTIONS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
      "employer": "BASTILLE",
      "total": 7000.0,
      "count": 3
-    },
-    {
-     "employer": "ACTUM LLC",
-     "total": 5500.0,
-     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794319828.5573218,
+ "detail_fetched_ts": 1795004225.8669708,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

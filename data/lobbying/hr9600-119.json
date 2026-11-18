@@ -1,0 +1,36 @@
+{
+ "bill": "hr9600-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "fetched_ts": 1795005379,
+ "report_count": 1,
+ "clients": [
+  {
+   "client": "FFRF ACTION FUND",
+   "display_name": "FFRF Action Fund",
+   "reports": 1,
+   "latest_report_amount": null,
+   "latest_report": "18b49e5d-b6d6-48a3-9937-e8e5ed67c4ac",
+   "latest_report_period": "2026 second_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  }
+ ],
+ "groups_shown": [],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "18b49e5d-b6d6-48a3-9937-e8e5ed67c4ac",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-16T18:47:24-04:00",
+   "amount": null,
+   "registrant": "FFRF ACTION FUND",
+   "client": "FFRF ACTION FUND",
+   "url": "https://lda.gov/filings/public/filing/18b49e5d-b6d6-48a3-9937-e8e5ed67c4ac/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}

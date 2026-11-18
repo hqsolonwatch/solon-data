@@ -357,28 +357,28 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 380259.0,
+   "itemized_total": 499684.5,
    "home_state": "CT",
-   "home_state_total": 149405.0,
-   "home_state_share": 39,
+   "home_state_total": 184258.0,
+   "home_state_share": 37,
    "top": [
     {
      "state": "CT",
      "state_full": "Connecticut",
-     "total": 149405.0,
-     "count": 739
-    },
-    {
-     "state": "DC",
-     "state_full": "District Of Columbia",
-     "total": 45000.0,
-     "count": 31
+     "total": 184258.0,
+     "count": 908
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 38420.0,
-     "count": 40
+     "total": 63410.0,
+     "count": 59
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 60000.0,
+     "count": 39
     },
     {
      "state": "VA",
@@ -389,20 +389,26 @@
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 29650.0,
-     "count": 25
+     "total": 30150.0,
+     "count": 26
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 28987.5,
+     "count": 90
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 18365.0,
-     "count": 31
+     "total": 25495.0,
+     "count": 43
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 15790.0,
-     "count": 24
+     "total": 16790.0,
+     "count": 25
     },
     {
      "state": "WA",
@@ -411,16 +417,10 @@
      "count": 5
     },
     {
-     "state": "NY",
-     "state_full": "New York",
-     "total": 11890.0,
-     "count": 70
-    },
-    {
-     "state": "TX",
-     "state_full": "Texas",
-     "total": 7600.0,
-     "count": 4
+     "state": "MO",
+     "state_full": "Missouri",
+     "total": 10600.0,
+     "count": 5
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -429,8 +429,13 @@
    "top": [
     {
      "employer": "ANTHROPIC",
-     "total": 18000.0,
-     "count": 6
+     "total": 39000.0,
+     "count": 12
+    },
+    {
+     "employer": "ANTHROPIC, PBC",
+     "total": 14000.0,
+     "count": 4
     },
     {
      "employer": "MACHINE INTELLIGENCE RESEARCH INST.",
@@ -438,12 +443,22 @@
      "count": 3
     },
     {
-     "employer": "ADOBE",
+     "employer": "ANTHROPIC PBC",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "ANTHROPIC PBC",
+     "employer": "VETERANS UNITED HOME LOANS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BUCHANAN INGERSOLL & ROONEY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ADOBE",
      "total": 7000.0,
      "count": 2
     },
@@ -453,17 +468,7 @@
      "count": 2
     },
     {
-     "employer": "ANTHROPIC, PBC",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
      "employer": "GRANITE TELECOM",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "COOK PINE CAPITAL LLC",
      "total": 7000.0,
      "count": 2
     },
@@ -471,17 +476,12 @@
      "employer": "AMPHENOL CORP",
      "total": 7000.0,
      "count": 2
-    },
-    {
-     "employer": "AURORA INNOVATION",
-     "total": 6600.0,
-     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794319828.5573218,
+ "detail_fetched_ts": 1795004225.8669708,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -1561,28 +1561,28 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 653208.79,
+   "itemized_total": 699201.79,
    "home_state": "FL",
-   "home_state_total": 517914.79,
-   "home_state_share": 79,
+   "home_state_total": 545455.79,
+   "home_state_share": 78,
    "top": [
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 517914.79,
-     "count": 553
+     "total": 545455.79,
+     "count": 640
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 32925.0,
-     "count": 50
+     "total": 37125.0,
+     "count": 57
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 19139.0,
-     "count": 21
+     "total": 22826.0,
+     "count": 26
     },
     {
      "state": "DC",
@@ -1593,8 +1593,8 @@
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 13700.0,
-     "count": 22
+     "total": 13862.0,
+     "count": 24
     },
     {
      "state": "NV",
@@ -1605,8 +1605,14 @@
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 8005.0,
-     "count": 18
+     "total": 9170.0,
+     "count": 25
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 7775.0,
+     "count": 5
     },
     {
      "state": "GA",
@@ -1619,12 +1625,6 @@
      "state_full": "New Jersey",
      "total": 6025.0,
      "count": 6
-    },
-    {
-     "state": "IL",
-     "state_full": "Illinois",
-     "total": 3970.0,
-     "count": 10
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1639,7 +1639,7 @@
     {
      "employer": "AVALON RISK MGMT",
      "total": 10500.0,
-     "count": 5
+     "count": 7
     },
     {
      "employer": "CARNIVAL",
@@ -1652,17 +1652,12 @@
      "count": 4
     },
     {
+     "employer": "PRESTON GIULIANO CAPITLAL PARTNERS",
+     "total": 7000.0,
+     "count": 4
+    },
+    {
      "employer": "HILLCROFT FARM",
-     "total": 7000.0,
-     "count": 3
-    },
-    {
-     "employer": "DREAM BIG 84, LLC",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "DOUGLAS JEEP",
      "total": 7000.0,
      "count": 3
     },
@@ -1672,20 +1667,25 @@
      "count": 2
     },
     {
-     "employer": "PALMER RANCH HOLDING",
+     "employer": "TROYER BROTHERS",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "PRESTON GIULIANO CAPITLAL PARTNERS",
+     "employer": "DOUGLAS JEEP",
      "total": 7000.0,
-     "count": 4
+     "count": 3
+    },
+    {
+     "employer": "DREAM BIG 84, LLC",
+     "total": 7000.0,
+     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794319828.5573218,
+ "detail_fetched_ts": 1795004225.8669708,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

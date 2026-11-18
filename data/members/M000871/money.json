@@ -1271,28 +1271,34 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 846924.07,
+   "itemized_total": 902612.57,
    "home_state": "KS",
-   "home_state_total": 650880.27,
+   "home_state_total": 695643.77,
    "home_state_share": 77,
    "top": [
     {
      "state": "KS",
      "state_full": "Kansas",
-     "total": 650880.27,
-     "count": 362
+     "total": 695643.77,
+     "count": 403
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 31100.9,
-     "count": 26
+     "total": 33050.9,
+     "count": 28
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 27689.55,
-     "count": 32
+     "total": 29189.55,
+     "count": 34
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 14950.0,
+     "count": 21
     },
     {
      "state": "CO",
@@ -1307,16 +1313,10 @@
      "count": 21
     },
     {
-     "state": "DC",
-     "state_full": "District Of Columbia",
-     "total": 12450.0,
-     "count": 19
-    },
-    {
      "state": "MO",
      "state_full": "Missouri",
-     "total": 10392.1,
-     "count": 17
+     "total": 10867.1,
+     "count": 18
     },
     {
      "state": "AZ",
@@ -1325,16 +1325,16 @@
      "count": 19
     },
     {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 8288.27,
+     "count": 10
+    },
+    {
      "state": "IA",
      "state_full": "Iowa",
      "total": 7818.92,
      "count": 8
-    },
-    {
-     "state": "AR",
-     "state_full": "Arkansas",
-     "total": 7469.7,
-     "count": 3
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1342,12 +1342,12 @@
   "donor_employers": {
    "top": [
     {
-     "employer": "WINTER LIVESTOCK",
+     "employer": "VENTURE CORPORATION",
      "total": 14000.0,
      "count": 4
     },
     {
-     "employer": "VENTURE CORPORATION",
+     "employer": "WINTER LIVESTOCK",
      "total": 14000.0,
      "count": 4
     },
@@ -1362,27 +1362,22 @@
      "count": 4
     },
     {
-     "employer": "MORRISON VENTURES",
+     "employer": "COLT ENERGY, INC.",
+     "total": 7500.0,
+     "count": 3
+    },
+    {
+     "employer": "BROOKOVER LAND ENT.",
      "total": 7000.0,
      "count": 3
     },
     {
-     "employer": "FAIRLEIGH CORPORATION",
+     "employer": "NEXTGEN CATTLE CO",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "BLUE BEACON INTERNATIONA, INC.",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "ISI ENVIRONMENTAL",
-     "total": 7000.0,
-     "count": 3
-    },
-    {
-     "employer": "VALLEY FEEDS MILL",
+     "employer": "MURFIN DRILLING COMPANY, INC.",
      "total": 7000.0,
      "count": 2
     },
@@ -1390,12 +1385,17 @@
      "employer": "SPORER LAND DEVELOPMENT, INC.",
      "total": 7000.0,
      "count": 6
+    },
+    {
+     "employer": "MORRISON VENTURES",
+     "total": 7000.0,
+     "count": 3
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794319828.5573218,
+ "detail_fetched_ts": 1795004225.8669708,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

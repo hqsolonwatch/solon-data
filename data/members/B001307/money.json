@@ -660,16 +660,22 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 89781.63,
+   "itemized_total": 102826.88,
    "home_state": "IN",
-   "home_state_total": 64599.72,
-   "home_state_share": 72,
+   "home_state_total": 71871.72,
+   "home_state_share": 70,
    "top": [
     {
      "state": "IN",
      "state_full": "Indiana",
-     "total": 64599.72,
-     "count": 66
+     "total": 71871.72,
+     "count": 94
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 7439.25,
+     "count": 26
     },
     {
      "state": "NC",
@@ -690,12 +696,6 @@
      "count": 1
     },
     {
-     "state": "CA",
-     "state_full": "California",
-     "total": 2358.5,
-     "count": 21
-    },
-    {
      "state": "MN",
      "state_full": "Minnesota",
      "total": 2225.0,
@@ -704,19 +704,19 @@
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 1533.03,
-     "count": 7
+     "total": 1739.03,
+     "count": 11
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 1696.5,
+     "count": 9
     },
     {
      "state": "DE",
      "state_full": "Delaware",
      "total": 1500.0,
-     "count": 3
-    },
-    {
-     "state": "VA",
-     "state_full": "Virginia",
-     "total": 1250.0,
      "count": 3
     },
     {
@@ -736,9 +736,9 @@
      "count": 3
     },
     {
-     "employer": "NICOSON FARMING INC",
+     "employer": "GAYLOR ELECTRIC, INC.",
      "total": 3500.0,
-     "count": 2
+     "count": 1
     },
     {
      "employer": "BOSE MCKINNEY  EVANS",
@@ -746,9 +746,9 @@
      "count": 1
     },
     {
-     "employer": "GAYLOR ELECTRIC, INC.",
+     "employer": "NICOSON FARMING INC",
      "total": 3500.0,
-     "count": 1
+     "count": 2
     },
     {
      "employer": "A10 ASSOCIATES",
@@ -756,14 +756,14 @@
      "count": 1
     },
     {
-     "employer": "KIRBY RISK CORP",
-     "total": 2000.0,
-     "count": 2
-    },
-    {
      "employer": "RETEC CORPORATION",
      "total": 2000.0,
      "count": 1
+    },
+    {
+     "employer": "KIRBY RISK CORP",
+     "total": 2000.0,
+     "count": 2
     },
     {
      "employer": "MO STRATEGIES INC",
@@ -776,15 +776,15 @@
      "count": 4
     },
     {
-     "employer": "BROYDRICK AND ASSOCIATES",
+     "employer": "RHEUMATOLOGY INDIANA",
      "total": 1500.0,
-     "count": 3
+     "count": 1
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794319828.5573218,
+ "detail_fetched_ts": 1795004225.8669708,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

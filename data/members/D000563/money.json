@@ -96,7 +96,7 @@
   {
    "committee_id": "C00762427",
    "name": "APPLIED RESEARCH ASSOCIATES, INC. POLITICAL ACTION COMMITTEE (ARAPAC)",
-   "connected_org": null,
+   "connected_org": "APPLIED RESEARCH ASSOCIATES, INC.",
    "total": -5000.0
   },
   {
@@ -279,14 +279,14 @@
      "count": 2
     },
     {
-     "employer": "KYIV MOHYLA FOUNDATION",
-     "total": 200.0,
-     "count": 2
-    },
-    {
      "employer": "SANDBOX INDUSTRIES LLC",
      "total": 200.0,
      "count": 4
+    },
+    {
+     "employer": "KYIV MOHYLA FOUNDATION",
+     "total": 200.0,
+     "count": 2
     },
     {
      "employer": "PURDUE UNIVERSITY",
@@ -297,7 +297,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794319828.5573218,
+ "detail_fetched_ts": 1795004225.8669708,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

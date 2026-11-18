@@ -1,27 +1,69 @@
 {
  "bioguide": "M000312",
  "latest_passage_vote": {
-  "vote_id": "house-119-2-323",
-  "date": "2026-11-12",
+  "vote_id": "house-119-2-325",
+  "date": "2026-11-17",
   "vote": "Yea",
   "kind": "passage",
-  "question": "On Passage",
+  "question": "On Motion to Suspend the Rules and Pass",
   "result": "Passed",
   "bill": {
    "type": "hr",
-   "number": 2102,
-   "label": "H.R. 2102",
-   "id": "hr2102-119"
+   "number": 9600,
+   "label": "H.R. 9600",
+   "id": "hr9600-119"
   },
   "totals": {
-   "yea": 392,
-   "nay": 18,
+   "yea": 365,
+   "nay": 36,
    "present": 0,
-   "not_voting": 23
+   "not_voting": 32
   },
-  "source_url": "https://clerk.house.gov/evs/2026/roll323.xml"
+  "source_url": "https://clerk.house.gov/evs/2026/roll325.xml"
  },
  "votes": [
+  {
+   "vote_id": "house-119-2-325",
+   "date": "2026-11-17",
+   "vote": "Yea",
+   "kind": "passage",
+   "question": "On Motion to Suspend the Rules and Pass",
+   "result": "Passed",
+   "bill": {
+    "type": "hr",
+    "number": 9600,
+    "label": "H.R. 9600",
+    "id": "hr9600-119"
+   },
+   "totals": {
+    "yea": 365,
+    "nay": 36,
+    "present": 0,
+    "not_voting": 32
+   },
+   "source_url": "https://clerk.house.gov/evs/2026/roll325.xml"
+  },
+  {
+   "vote_id": "house-119-2-324",
+   "date": "2026-11-17",
+   "vote": "Yea",
+   "kind": "passage",
+   "question": "On Motion to Suspend the Rules and Pass, as Amended",
+   "result": "Passed",
+   "bill": {
+    "type": "hr",
+    "number": 8483,
+    "label": "H.R. 8483",
+    "id": "hr8483-119"
+   },
+   "totals": {
+    "yea": 398,
+    "nay": 0,
+    "present": 0,
+    "not_voting": 35
+   },
+   "source_url": "https://clerk.house.gov/evs/2026/roll324.xml"
+  },
   {
    "vote_id": "house-119-2-323",
    "date": "2026-11-12",

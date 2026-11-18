@@ -1193,28 +1193,28 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 912587.07,
+   "itemized_total": 1046491.7,
    "home_state": "KS",
-   "home_state_total": 778964.69,
-   "home_state_share": 85,
+   "home_state_total": 903469.32,
+   "home_state_share": 86,
    "top": [
     {
      "state": "KS",
      "state_full": "Kansas",
-     "total": 778964.69,
-     "count": 763
+     "total": 903469.32,
+     "count": 934
     },
     {
      "state": "MO",
      "state_full": "Missouri",
-     "total": 27737.79,
-     "count": 28
+     "total": 28137.79,
+     "count": 31
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 20324.08,
-     "count": 31
+     "total": 21824.08,
+     "count": 33
     },
     {
      "state": "TX",
@@ -1247,16 +1247,16 @@
      "count": 13
     },
     {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 7020.51,
+     "count": 12
+    },
+    {
      "state": "IL",
      "state_full": "Illinois",
      "total": 7000.0,
      "count": 3
-    },
-    {
-     "state": "OK",
-     "state_full": "Oklahoma",
-     "total": 7000.0,
-     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1269,14 +1269,14 @@
      "count": 7
     },
     {
+     "employer": "MCCARTHY AUTO",
+     "total": 14231.4,
+     "count": 7
+    },
+    {
      "employer": "ADVISORS EXCEL",
      "total": 14000.0,
      "count": 8
-    },
-    {
-     "employer": "MCCARTHY AUTO",
-     "total": 10615.7,
-     "count": 6
     },
     {
      "employer": "ANDURIL INDUSTRIES, INC.",
@@ -1299,14 +1299,14 @@
      "count": 5
     },
     {
-     "employer": "D J ENGINEERING INC.",
+     "employer": "CROSSLAND COMPANIES",
      "total": 7000.0,
-     "count": 4
+     "count": 2
     },
     {
-     "employer": "CREATIVEONE",
+     "employer": "MURFIN, INC.",
      "total": 7000.0,
-     "count": 3
+     "count": 5
     },
     {
      "employer": "MILLER'S PROFESSIONAL IMAGING",
@@ -1317,7 +1317,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794319828.5573218,
+ "detail_fetched_ts": 1795004225.8669708,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

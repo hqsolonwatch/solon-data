@@ -1102,8 +1102,8 @@
   "coverage_end": "2026-10-14T00:00:00",
   "receipts": 5556755.49,
   "amounts": {
-   "individuals_200_or_less": 1447794.22,
-   "individuals_over_200": 3286346.12,
+   "individuals_200_or_less": 1447510.22,
+   "individuals_over_200": 3286630.12,
    "pacs_and_parties": 577066.66,
    "candidate_own": 0.0,
    "transfers_from_authorized": 216767.38,
@@ -1234,14 +1234,14 @@
      "count": 4
     },
     {
-     "employer": "BERGER MONTAGUE PC",
-     "total": 8500.0,
-     "count": 5
-    },
-    {
      "employer": "CHALLENGE PROGRAM",
      "total": 8500.0,
      "count": 3
+    },
+    {
+     "employer": "BERGER MONTAGUE PC",
+     "total": 8500.0,
+     "count": 5
     },
     {
      "employer": "CROOKED MEDIA",
@@ -1252,7 +1252,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794319828.5573218,
+ "detail_fetched_ts": 1795004225.8669708,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -4,8 +4,8 @@
   2025,
   2026
  ],
- "fetched_ts": 1794345859,
- "report_count": 203,
+ "fetched_ts": 1795005379,
+ "report_count": 204,
  "clients": [
   {
    "client": "AMAZON.COM SERVICES LLC",
@@ -1054,6 +1054,16 @@
    "latest_report_amount": null,
    "latest_report": "a4a2420a-1456-4e62-8b4a-820177e25c30",
    "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "EXCEL SPORTS MANAGEMENT",
+   "display_name": "Excel Sports Management",
+   "reports": 1,
+   "latest_report_amount": null,
+   "latest_report": "5eafe879-64bb-4c16-a81f-130a04edc134",
+   "latest_report_period": "2026 fourth_quarter",
    "pac_ids": [],
    "pac_names": []
   }
@@ -3121,6 +3131,16 @@
    "registrant": "NATIONAL ASSOCIATION FOR THE ADVANCEMENT OF COLORED PEOPLE",
    "client": "NATIONAL ASSOCIATION FOR THE ADVANCEMENT OF COLORED PEOPLE",
    "url": "https://lda.gov/filings/public/filing/a4a2420a-1456-4e62-8b4a-820177e25c30/print/"
+  },
+  {
+   "filing_uuid": "5eafe879-64bb-4c16-a81f-130a04edc134",
+   "year": 2026,
+   "period": "fourth_quarter",
+   "posted": "2026-11-13T10:26:44-05:00",
+   "amount": null,
+   "registrant": "CROSSROADS STRATEGIES, LLC",
+   "client": "EXCEL SPORTS MANAGEMENT",
+   "url": "https://lda.gov/filings/public/filing/5eafe879-64bb-4c16-a81f-130a04edc134/print/"
   },
   {
    "filing_uuid": "36ace046-0ce8-4e91-ab16-f78e92c93274",

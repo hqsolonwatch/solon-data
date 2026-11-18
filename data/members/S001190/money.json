@@ -1122,7 +1122,7 @@
   {
    "committee_id": "C00762427",
    "name": "APPLIED RESEARCH ASSOCIATES, INC. POLITICAL ACTION COMMITTEE (ARAPAC)",
-   "connected_org": null,
+   "connected_org": "APPLIED RESEARCH ASSOCIATES, INC.",
    "total": 3000.0
   },
   {
@@ -2428,70 +2428,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1644203.67,
+   "itemized_total": 1908425.14,
    "home_state": "IL",
-   "home_state_total": 935673.17,
-   "home_state_share": 57,
+   "home_state_total": 1049290.64,
+   "home_state_share": 55,
    "top": [
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 935673.17,
-     "count": 1978
+     "total": 1049290.64,
+     "count": 2331
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 153142.0,
-     "count": 218
-    },
-    {
-     "state": "FL",
-     "state_full": "Florida",
-     "total": 85550.0,
-     "count": 85
+     "total": 203601.0,
+     "count": 270
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 72559.0,
-     "count": 82
+     "total": 114474.0,
+     "count": 104
     },
     {
-     "state": "MA",
-     "state_full": "Massachusetts",
-     "total": 47100.0,
-     "count": 40
-    },
-    {
-     "state": "DC",
-     "state_full": "District Of Columbia",
-     "total": 42455.0,
-     "count": 43
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 95300.0,
+     "count": 89
     },
     {
      "state": "NJ",
      "state_full": "New Jersey",
-     "total": 40168.0,
-     "count": 57
+     "total": 49752.0,
+     "count": 68
     },
     {
-     "state": "CO",
-     "state_full": "Colorado",
-     "total": 36702.0,
-     "count": 37
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 47955.0,
+     "count": 52
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 47350.0,
+     "count": 41
     },
     {
      "state": "CT",
      "state_full": "Connecticut",
-     "total": 33850.0,
-     "count": 32
+     "total": 40600.0,
+     "count": 35
     },
     {
-     "state": "TX",
-     "state_full": "Texas",
-     "total": 24181.0,
-     "count": 59
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 38161.0,
+     "count": 47
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 26750.0,
+     "count": 24
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -2505,8 +2505,8 @@
     },
     {
      "employer": "KIRKLAND & ELLIS LLP",
-     "total": 12860.0,
-     "count": 5
+     "total": 13110.0,
+     "count": 6
     },
     {
      "employer": "GREENBERG TRAURIG",
@@ -2529,22 +2529,22 @@
      "count": 6
     },
     {
-     "employer": "PSP PARTNERS",
+     "employer": "HIGHLAND BAKING",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "AUTOHAUS ON EDENS",
+     "employer": "SIDLEY AUSTIN LLP",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "RANGER CAPITAL MANAGEMENT",
+     "employer": "HENRY CROWN AND COMPANY",
      "total": 7000.0,
-     "count": 2
+     "count": 3
     },
     {
-     "employer": "ARNOLD VENTURES",
+     "employer": "NEUBERGER BERMAN",
      "total": 7000.0,
      "count": 2
     }
@@ -2552,7 +2552,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794319828.5573218,
+ "detail_fetched_ts": 1795004225.8669708,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -966,11 +966,11 @@
   "committee_name": "JUDY CHU FOR CONGRESS",
   "coverage_start": "2025-01-01T00:00:00",
   "coverage_end": "2026-10-14T00:00:00",
-  "receipts": 1375778.13,
+  "receipts": 1382778.13,
   "amounts": {
    "individuals_200_or_less": 47157.02,
    "individuals_over_200": 818458.11,
-   "pacs_and_parties": 510163.0,
+   "pacs_and_parties": 517163.0,
    "candidate_own": 0.0,
    "transfers_from_authorized": 0.0,
    "other_receipts": 0.0
@@ -978,11 +978,11 @@
   "types": [
    [
     "Individuals giving $200 or less",
-    3
+    4
    ],
    [
     "Individuals giving more than $200",
-    60
+    59
    ],
    [
     "PACs and party committees",
@@ -1118,7 +1118,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794319828.5573218,
+ "detail_fetched_ts": 1795004225.8669708,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

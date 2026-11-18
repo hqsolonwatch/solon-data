@@ -978,7 +978,7 @@
   {
    "committee_id": "C00762427",
    "name": "APPLIED RESEARCH ASSOCIATES, INC. POLITICAL ACTION COMMITTEE (ARAPAC)",
-   "connected_org": null,
+   "connected_org": "APPLIED RESEARCH ASSOCIATES, INC.",
    "total": 5000.0
   },
   {
@@ -3400,70 +3400,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 3137364.54,
+   "itemized_total": 3963914.91,
    "home_state": "CA",
-   "home_state_total": 1059276.63,
-   "home_state_share": 34,
+   "home_state_total": 1312134.75,
+   "home_state_share": 33,
    "top": [
     {
      "state": "CA",
      "state_full": "California",
-     "total": 1059276.63,
-     "count": 897
+     "total": 1312134.75,
+     "count": 1164
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 439325.27,
-     "count": 469
+     "total": 513600.3,
+     "count": 647
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 436911.23,
-     "count": 319
+     "total": 511667.3,
+     "count": 417
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 152943.95,
-     "count": 97
+     "total": 325555.85,
+     "count": 179
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 131505.92,
-     "count": 101
+     "total": 154880.99,
+     "count": 124
     },
     {
      "state": "LA",
      "state_full": "Louisiana",
-     "total": 100332.29,
-     "count": 52
-    },
-    {
-     "state": "DC",
-     "state_full": "District Of Columbia",
-     "total": 68756.0,
-     "count": 51
+     "total": 101332.29,
+     "count": 53
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 67424.55,
-     "count": 36
+     "total": 85877.37,
+     "count": 44
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 85756.0,
+     "count": 65
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 57127.2,
-     "count": 24
+     "total": 72627.2,
+     "count": 31
     },
     {
-     "state": "MN",
-     "state_full": "Minnesota",
-     "total": 50376.09,
-     "count": 46
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 66392.22,
+     "count": 55
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -3486,12 +3486,17 @@
      "count": 9
     },
     {
-     "employer": "STARKEY HEARING TECHNOLOGIES",
-     "total": 14000.0,
-     "count": 4
+     "employer": "KERN ENERGY",
+     "total": 16000.0,
+     "count": 6
     },
     {
-     "employer": "PERFORMANCE CONTRACTORS",
+     "employer": "CEO",
+     "total": 14000.0,
+     "count": 3
+    },
+    {
+     "employer": "STARKEY HEARING TECHNOLOGIES",
      "total": 14000.0,
      "count": 4
     },
@@ -3501,30 +3506,25 @@
      "count": 4
     },
     {
-     "employer": "STATION CASINOS, LLC",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
      "employer": "PHOENIX MANAGEMENT",
      "total": 14000.0,
      "count": 4
     },
     {
-     "employer": "CEO",
+     "employer": "STATION CASINOS, LLC",
      "total": 14000.0,
-     "count": 3
+     "count": 4
     },
     {
-     "employer": "PRIME, INC",
-     "total": 13665.52,
-     "count": 6
+     "employer": "PERFORMANCE CONTRACTORS",
+     "total": 14000.0,
+     "count": 4
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794319828.5573218,
+ "detail_fetched_ts": 1795004225.8669708,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

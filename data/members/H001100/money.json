@@ -1398,69 +1398,69 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 3018448.03,
+   "itemized_total": 3365239.18,
    "home_state": "CO",
-   "home_state_total": 1245516.22,
-   "home_state_share": 41,
+   "home_state_total": 1420291.22,
+   "home_state_share": 42,
    "top": [
     {
      "state": "CO",
      "state_full": "Colorado",
-     "total": 1245516.22,
-     "count": 933
-    },
-    {
-     "state": "FL",
-     "state_full": "Florida",
-     "total": 312222.07,
-     "count": 189
+     "total": 1420291.22,
+     "count": 1093
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 308769.06,
-     "count": 154
+     "total": 357901.94,
+     "count": 172
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 325352.07,
+     "count": 200
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 204066.04,
-     "count": 108
+     "total": 221486.7,
+     "count": 125
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 168211.56,
-     "count": 80
+     "total": 182961.56,
+     "count": 86
     },
     {
      "state": "LA",
      "state_full": "Louisiana",
-     "total": 81522.31,
-     "count": 46
+     "total": 81824.94,
+     "count": 47
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 59600.25,
-     "count": 62
+     "total": 63625.25,
+     "count": 67
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 47042.81,
-     "count": 18
+     "total": 47542.81,
+     "count": 20
     },
     {
-     "state": "NV",
-     "state_full": "Nevada",
-     "total": 39409.4,
-     "count": 15
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 44809.28,
+     "count": 22
     },
     {
-     "state": "TN",
-     "state_full": "Tennessee",
-     "total": 38585.88,
+     "state": "MO",
+     "state_full": "Missouri",
+     "total": 42131.58,
      "count": 21
     }
    ],
@@ -1470,18 +1470,18 @@
    "top": [
     {
      "employer": "TRIBAL FUND",
-     "total": 99300.0,
-     "count": 44
+     "total": 110900.0,
+     "count": 49
     },
     {
      "employer": "TRIBAL FUNDS",
-     "total": 69900.0,
-     "count": 25
+     "total": 83900.0,
+     "count": 29
     },
     {
      "employer": "SULLIVAN & CROMWELL LLP",
-     "total": 66600.0,
-     "count": 27
+     "total": 70100.0,
+     "count": 28
     },
     {
      "employer": "VALMORE GP",
@@ -1489,12 +1489,22 @@
      "count": 7
     },
     {
+     "employer": "MOUNTAIN PACIFIC PROPERTIES",
+     "total": 14000.0,
+     "count": 3
+    },
+    {
+     "employer": "ULINE",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
      "employer": "SHAW CONSTRUCTION",
      "total": 14000.0,
      "count": 4
     },
     {
-     "employer": "ULINE",
+     "employer": "FULL CIRCLE",
      "total": 14000.0,
      "count": 4
     },
@@ -1507,22 +1517,12 @@
      "employer": "ENSTROM CANDIES",
      "total": 14000.0,
      "count": 5
-    },
-    {
-     "employer": "FULL CIRCLE",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
-     "employer": "ACCESS INDUSTRIES",
-     "total": 12428.57,
-     "count": 4
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794319828.5573218,
+ "detail_fetched_ts": 1795004225.8669708,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
