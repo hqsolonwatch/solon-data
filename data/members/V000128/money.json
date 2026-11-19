@@ -309,8 +309,8 @@
   "coverage_end": "2026-09-30T00:00:00",
   "receipts": 2503116.41,
   "amounts": {
-   "individuals_200_or_less": 141994.99,
-   "individuals_over_200": 1815797.94,
+   "individuals_200_or_less": 141544.99,
+   "individuals_over_200": 1816247.94,
    "pacs_and_parties": 84240.0,
    "candidate_own": 0.0,
    "transfers_from_authorized": 458448.21,
@@ -335,46 +335,52 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1785290.7,
+   "itemized_total": 2298672.94,
    "home_state": "MD",
-   "home_state_total": 668234.2,
-   "home_state_share": 37,
+   "home_state_total": 835960.44,
+   "home_state_share": 36,
    "top": [
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 668234.2,
-     "count": 2095
+     "total": 835960.44,
+     "count": 2629
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 221300.0,
-     "count": 93
-    },
-    {
-     "state": "DC",
-     "state_full": "District Of Columbia",
-     "total": 164579.0,
-     "count": 192
-    },
-    {
-     "state": "VA",
-     "state_full": "Virginia",
-     "total": 141100.0,
-     "count": 104
-    },
-    {
-     "state": "NY",
-     "state_full": "New York",
-     "total": 135120.0,
-     "count": 99
+     "total": 333350.0,
+     "count": 162
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 133277.5,
-     "count": 138
+     "total": 213342.5,
+     "count": 169
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 187665.0,
+     "count": 220
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 154655.0,
+     "count": 121
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 142725.0,
+     "count": 112
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 133950.0,
+     "count": 113
     },
     {
      "state": "MI",
@@ -383,22 +389,16 @@
      "count": 42
     },
     {
-     "state": "IL",
-     "state_full": "Illinois",
-     "total": 53700.0,
-     "count": 67
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 31000.0,
+     "count": 20
     },
     {
      "state": "NV",
      "state_full": "Nevada",
      "total": 31000.0,
      "count": 36
-    },
-    {
-     "state": "NJ",
-     "state_full": "New Jersey",
-     "total": 29500.0,
-     "count": 18
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -406,14 +406,34 @@
   "donor_employers": {
    "top": [
     {
+     "employer": "ANTHROPIC",
+     "total": 35000.0,
+     "count": 10
+    },
+    {
      "employer": "SOUTHWEST AIRLINES",
-     "total": 22000.0,
-     "count": 13
+     "total": 29500.0,
+     "count": 19
+    },
+    {
+     "employer": "AMD",
+     "total": 15000.0,
+     "count": 6
     },
     {
      "employer": "EXELON",
      "total": 14000.0,
      "count": 16
+    },
+    {
+     "employer": "ANTHROPIC PBC",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "LIFEBRIDGE HEALTH",
+     "total": 12500.0,
+     "count": 11
     },
     {
      "employer": "ZEENA LLC",
@@ -422,44 +442,24 @@
     },
     {
      "employer": "JOHNS HOPKINS UNIVERSITY",
-     "total": 9750.0,
-     "count": 6
+     "total": 11500.0,
+     "count": 7
+    },
+    {
+     "employer": "COLDWELL BANKER",
+     "total": 9000.0,
+     "count": 4
     },
     {
      "employer": "ACTUM LLC",
      "total": 9000.0,
      "count": 6
-    },
-    {
-     "employer": "MEI",
-     "total": 9000.0,
-     "count": 3
-    },
-    {
-     "employer": "GALLAGHER LLP",
-     "total": 8750.0,
-     "count": 3
-    },
-    {
-     "employer": "BASHA DIAGNOSTICS",
-     "total": 8000.0,
-     "count": 3
-    },
-    {
-     "employer": "MONUMENTAL SPORTS & ENTERTAINMENT",
-     "total": 8000.0,
-     "count": 3
-    },
-    {
-     "employer": "LIFEBRIDGE HEALTH",
-     "total": 7500.0,
-     "count": 8
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

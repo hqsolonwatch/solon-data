@@ -3108,70 +3108,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 5349923.16,
+   "itemized_total": 3729736.32,
    "home_state": "LA",
-   "home_state_total": 1149249.66,
-   "home_state_share": 21,
+   "home_state_total": 518734.35,
+   "home_state_share": 14,
    "top": [
-    {
-     "state": "LA",
-     "state_full": "Louisiana",
-     "total": 1149249.66,
-     "count": 1039
-    },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 749137.49,
-     "count": 447
+     "total": 534909.79,
+     "count": 556
+    },
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 518734.35,
+     "count": 1536
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 507017.67,
-     "count": 437
-    },
-    {
-     "state": "TX",
-     "state_full": "Texas",
-     "total": 463137.76,
-     "count": 353
+     "total": 389059.12,
+     "count": 504
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 361560.22,
-     "count": 327
+     "total": 301513.62,
+     "count": 361
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 301443.23,
+     "count": 446
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 302250.26,
-     "count": 227
+     "total": 254104.75,
+     "count": 270
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 183541.61,
-     "count": 142
+     "total": 147745.01,
+     "count": 169
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 178714.27,
-     "count": 143
+     "total": 143464.27,
+     "count": 173
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 151759.34,
-     "count": 105
+     "total": 104840.36,
+     "count": 134
     },
     {
      "state": "NJ",
      "state_full": "New Jersey",
-     "total": 121590.28,
-     "count": 93
+     "total": 100790.28,
+     "count": 104
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -3194,29 +3194,14 @@
      "count": 29
     },
     {
-     "employer": "BLACKSTONE",
-     "total": 28000.0,
-     "count": 9
-    },
-    {
-     "employer": "WELSH CARSON ANDERSON & STOWE",
-     "total": 27700.0,
-     "count": 36
-    },
-    {
-     "employer": "POSIGEN",
-     "total": 27500.0,
-     "count": 15
-    },
-    {
      "employer": "APOLLO GLOBAL MANAGEMENT",
      "total": 25000.0,
      "count": 22
     },
     {
-     "employer": "HOSPITAL FOR SPECIAL SURGERY",
-     "total": 21500.0,
-     "count": 11
+     "employer": "POSIGEN",
+     "total": 24500.0,
+     "count": 17
     },
     {
      "employer": "BOUDREAUXS NEW DRUG STORE",
@@ -3224,15 +3209,30 @@
      "count": 10
     },
     {
-     "employer": "FERMAT CAPITAL MANAGEMENT",
-     "total": 21000.0,
-     "count": 6
+     "employer": "BLACKSTONE",
+     "total": 20500.0,
+     "count": 12
+    },
+    {
+     "employer": "HOSPITAL FOR SPECIAL SURGERY",
+     "total": 20000.0,
+     "count": 12
+    },
+    {
+     "employer": "FULL SAIL UNIVERSITY",
+     "total": 18500.0,
+     "count": 11
+    },
+    {
+     "employer": "NEUBERGER BERMAN",
+     "total": 17322.2,
+     "count": 8
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

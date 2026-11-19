@@ -2754,70 +2754,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 5486097.45,
+   "itemized_total": 6654837.12,
    "home_state": "NY",
-   "home_state_total": 1187227.65,
-   "home_state_share": 22,
+   "home_state_total": 1340935.95,
+   "home_state_share": 20,
    "top": [
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 1187227.65,
-     "count": 8639
+     "total": 1340935.95,
+     "count": 10427
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 973692.3,
-     "count": 16667
+     "total": 1147109.35,
+     "count": 20956
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 322341.18,
-     "count": 4515
-    },
-    {
-     "state": "DC",
-     "state_full": "District Of Columbia",
-     "total": 259520.42,
-     "count": 726
+     "total": 374179.82,
+     "count": 5555
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 251414.39,
-     "count": 4303
+     "total": 328309.9,
+     "count": 5466
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 323882.92,
+     "count": 900
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 248819.7,
-     "count": 3294
+     "total": 306377.6,
+     "count": 4076
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 219781.36,
-     "count": 3550
+     "total": 260616.56,
+     "count": 4373
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 182980.96,
-     "count": 2331
+     "total": 226562.36,
+     "count": 2847
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 178854.45,
-     "count": 2473
+     "total": 216432.75,
+     "count": 3147
     },
     {
-     "state": "WA",
-     "state_full": "Washington",
-     "total": 154311.4,
-     "count": 4133
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 188178.95,
+     "count": 3680
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -2826,8 +2826,13 @@
    "top": [
     {
      "employer": "CAPITAL GROUP",
-     "total": 62680.0,
-     "count": 42
+     "total": 62740.0,
+     "count": 45
+    },
+    {
+     "employer": "MARQUIS MANAGEMENT, LLC",
+     "total": 40000.0,
+     "count": 13
     },
     {
      "employer": "BLACKSTONE",
@@ -2835,33 +2840,28 @@
      "count": 12
     },
     {
+     "employer": "BGR GROUP",
+     "total": 37500.0,
+     "count": 17
+    },
+    {
      "employer": "THEGROUP",
      "total": 31500.0,
      "count": 9
     },
     {
-     "employer": "MARQUIS MANAGEMENT, LLC",
-     "total": 25000.0,
-     "count": 8
+     "employer": "INVARIANT",
+     "total": 17287.75,
+     "count": 25
     },
     {
-     "employer": "INVARIANT",
-     "total": 15837.75,
-     "count": 22
+     "employer": "BROWNSTEIN HYATT FARBER SCHRECK",
+     "total": 17250.0,
+     "count": 19
     },
     {
      "employer": "AMERICAN UNIVERSITY",
      "total": 14100.0,
-     "count": 4
-    },
-    {
-     "employer": "DAVIDSON KEMPNER",
-     "total": 14000.0,
-     "count": 8
-    },
-    {
-     "employer": "THE WONDERFUL COMPANY",
-     "total": 14000.0,
      "count": 4
     },
     {
@@ -2870,7 +2870,7 @@
      "count": 4
     },
     {
-     "employer": "INTERSYSTEMS CORPORATION",
+     "employer": "BAIN CAPITAL",
      "total": 14000.0,
      "count": 4
     }
@@ -2878,7 +2878,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -1812,70 +1812,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 907178.4,
+   "itemized_total": 1127701.57,
    "home_state": "MN",
-   "home_state_total": 569692.53,
-   "home_state_share": 63,
+   "home_state_total": 697499.03,
+   "home_state_share": 62,
    "top": [
     {
      "state": "MN",
      "state_full": "Minnesota",
-     "total": 569692.53,
-     "count": 788
+     "total": 697499.03,
+     "count": 1035
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 104214.88,
-     "count": 48
+     "total": 107214.88,
+     "count": 49
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 34410.0,
-     "count": 28
-    },
-    {
-     "state": "CA",
-     "state_full": "California",
-     "total": 30500.0,
-     "count": 14
-    },
-    {
-     "state": "DC",
-     "state_full": "District Of Columbia",
-     "total": 28500.0,
-     "count": 26
+     "total": 48910.0,
+     "count": 35
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 27333.33,
-     "count": 35
+     "total": 36000.0,
+     "count": 44
     },
     {
-     "state": "WI",
-     "state_full": "Wisconsin",
-     "total": 14000.0,
-     "count": 14
+     "state": "CA",
+     "state_full": "California",
+     "total": 35800.0,
+     "count": 16
     },
     {
-     "state": "OK",
-     "state_full": "Oklahoma",
-     "total": 13500.0,
-     "count": 6
-    },
-    {
-     "state": "NC",
-     "state_full": "North Carolina",
-     "total": 11500.0,
-     "count": 5
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 31000.0,
+     "count": 29
     },
     {
      "state": "NM",
      "state_full": "New Mexico",
-     "total": 10500.0,
-     "count": 6
+     "total": 21000.0,
+     "count": 9
+    },
+    {
+     "state": "OK",
+     "state_full": "Oklahoma",
+     "total": 17000.0,
+     "count": 7
+    },
+    {
+     "state": "WI",
+     "state_full": "Wisconsin",
+     "total": 14250.0,
+     "count": 15
+    },
+    {
+     "state": "SD",
+     "state_full": "South Dakota",
+     "total": 14000.0,
+     "count": 4
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1888,6 +1888,11 @@
      "count": 9
     },
     {
+     "employer": "STRATA PRODUCTION COMPANY",
+     "total": 14000.0,
+     "count": 7
+    },
+    {
      "employer": "DEL ZOTTO MANUFACTURING",
      "total": 14000.0,
      "count": 7
@@ -1896,6 +1901,11 @@
      "employer": "RYAN, LLC",
      "total": 13714.88,
      "count": 8
+    },
+    {
+     "employer": "PRESIDENT",
+     "total": 13000.0,
+     "count": 9
     },
     {
      "employer": "ARVIG ENTERPRISES",
@@ -1908,35 +1918,25 @@
      "count": 10
     },
     {
-     "employer": "PRESIDENT",
-     "total": 12000.0,
-     "count": 7
+     "employer": "MINERS INC.",
+     "total": 8000.0,
+     "count": 3
     },
     {
-     "employer": "TUNGSTEN AUTOMATION",
-     "total": 7231.4,
+     "employer": "BERNHARDT GROUP",
+     "total": 8000.0,
      "count": 3
     },
     {
      "employer": "MEAGHER + GEER, P.L.L.P.",
      "total": 7231.4,
      "count": 3
-    },
-    {
-     "employer": "DCOR, LLC",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "MINERS INC.",
-     "total": 7000.0,
-     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

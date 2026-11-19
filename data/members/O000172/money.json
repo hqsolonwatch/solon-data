@@ -160,70 +160,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 10466240.27,
+   "itemized_total": 12655602.48,
    "home_state": "NY",
-   "home_state_total": 1306573.94,
+   "home_state_total": 1564703.93,
    "home_state_share": 12,
    "top": [
     {
      "state": "CA",
      "state_full": "California",
-     "total": 2503579.14,
-     "count": 68343
+     "total": 3018761.99,
+     "count": 88623
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 1306573.94,
-     "count": 33764
+     "total": 1564703.93,
+     "count": 43766
     },
     {
      "state": "WA",
      "state_full": "Washington",
-     "total": 575979.48,
-     "count": 16594
+     "total": 690231.32,
+     "count": 21613
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 527597.33,
-     "count": 13985
+     "total": 637568.33,
+     "count": 18236
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 445696.02,
-     "count": 12590
+     "total": 535467.4,
+     "count": 16349
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 404619.48,
-     "count": 12643
+     "total": 498530.86,
+     "count": 16565
     },
     {
      "state": "OR",
      "state_full": "Oregon",
-     "total": 330520.56,
-     "count": 10147
+     "total": 398463.61,
+     "count": 13163
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 319394.36,
-     "count": 9503
+     "total": 385223.25,
+     "count": 12233
     },
     {
      "state": "PA",
      "state_full": "Pennsylvania",
-     "total": 302713.81,
-     "count": 9019
+     "total": 367874.85,
+     "count": 11754
     },
     {
      "state": "CO",
      "state_full": "Colorado",
-     "total": 274019.13,
-     "count": 7322
+     "total": 329834.97,
+     "count": 9611
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -232,59 +232,59 @@
    "top": [
     {
      "employer": "GOOGLE",
-     "total": 43263.5,
-     "count": 707
+     "total": 48949.25,
+     "count": 885
     },
     {
      "employer": "MICROSOFT",
-     "total": 17985.75,
-     "count": 344
+     "total": 20109.0,
+     "count": 420
     },
     {
      "employer": "APPLE",
-     "total": 13824.0,
-     "count": 174
-    },
-    {
-     "employer": "NVIDIA CORPORATION",
-     "total": 12042.5,
-     "count": 78
+     "total": 14163.13,
+     "count": 188
     },
     {
      "employer": "AMAZON",
-     "total": 11583.75,
-     "count": 251
-    },
-    {
-     "employer": "COLUMBIA UNIVERSITY",
-     "total": 9608.13,
-     "count": 271
-    },
-    {
-     "employer": "META",
-     "total": 9395.0,
-     "count": 116
+     "total": 12803.75,
+     "count": 306
     },
     {
      "employer": "NYU",
-     "total": 9329.0,
-     "count": 127
+     "total": 12695.0,
+     "count": 153
+    },
+    {
+     "employer": "NVIDIA CORPORATION",
+     "total": 12555.0,
+     "count": 88
+    },
+    {
+     "employer": "COLUMBIA UNIVERSITY",
+     "total": 11685.39,
+     "count": 364
+    },
+    {
+     "employer": "APPLE INC",
+     "total": 11390.0,
+     "count": 199
+    },
+    {
+     "employer": "META",
+     "total": 10870.0,
+     "count": 154
     },
     {
      "employer": "UNIVERSITY OF CALIFORNIA",
-     "total": 8424.0,
-     "count": 163
-    },
-    {
-     "employer": "HOSPITAL",
-     "total": 8194.41,
-     "count": 188
+     "total": 10097.25,
+     "count": 225
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -2977,19 +2977,9 @@
      "count": 6
     },
     {
-     "employer": "APOLLO",
-     "total": 17000.0,
-     "count": 6
-    },
-    {
      "employer": "MICROSOFT",
      "total": 16000.0,
      "count": 13
-    },
-    {
-     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
-     "total": 14000.0,
-     "count": 4
     },
     {
      "employer": "ARNOLD VENTURES",
@@ -2997,9 +2987,19 @@
      "count": 4
     },
     {
+     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
      "employer": "BNY",
      "total": 13632.24,
      "count": 6
+    },
+    {
+     "employer": "APOLLO",
+     "total": 12000.0,
+     "count": 4
     },
     {
      "employer": "AMERICAN AIRLINES",
@@ -3015,7 +3015,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

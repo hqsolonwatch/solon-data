@@ -428,28 +428,34 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 782431.57,
+   "itemized_total": 819772.57,
    "home_state": "LA",
-   "home_state_total": 688534.0,
+   "home_state_total": 718794.0,
    "home_state_share": 88,
    "top": [
     {
      "state": "LA",
      "state_full": "Louisiana",
-     "total": 688534.0,
-     "count": 432
+     "total": 718794.0,
+     "count": 471
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 53691.47,
-     "count": 51
+     "total": 54041.47,
+     "count": 56
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 10800.0,
-     "count": 16
+     "total": 11451.0,
+     "count": 20
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 8985.0,
+     "count": 45
     },
     {
      "state": "DC",
@@ -458,39 +464,33 @@
      "count": 4
     },
     {
-     "state": "CA",
-     "state_full": "California",
-     "total": 6504.0,
-     "count": 35
-    },
-    {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 4300.0,
-     "count": 4
+     "total": 6300.0,
+     "count": 6
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 1520.0,
+     "total": 1670.0,
+     "count": 7
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 1045.1,
      "count": 6
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 977.0,
+     "count": 13
     },
     {
      "state": "MI",
      "state_full": "Michigan",
      "total": 904.0,
-     "count": 5
-    },
-    {
-     "state": "NJ",
-     "state_full": "New Jersey",
-     "total": 895.1,
-     "count": 5
-    },
-    {
-     "state": "PA",
-     "state_full": "Pennsylvania",
-     "total": 895.0,
      "count": 5
     }
    ],
@@ -509,50 +509,50 @@
      "count": 3
     },
     {
-     "employer": "ST. MARY PARISH SCHOOLS",
-     "total": 7000.0,
-     "count": 3
-    },
-    {
-     "employer": "D&T CRAWFISH",
+     "employer": "ORIGIN BANK",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "ACADIAN AMBULANCE SERVICE",
+     "employer": "AMH INVESTMENTS",
      "total": 7000.0,
-     "count": 3
+     "count": 4
     },
     {
-     "employer": "TONY PALERMO SR INVESTMENTS LLC",
-     "total": 7000.0,
-     "count": 3
-    },
-    {
-     "employer": "GULF LOGISTICS",
+     "employer": "CENTRAL MANAGEMENT COMPANY LLC",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "METAL SHARK",
-     "total": 7000.0,
-     "count": 3
-    },
-    {
-     "employer": "LAD SERVICES OF LA",
+     "employer": "METRO AVIATION",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "ALLISON MARINE",
+     "employer": "WOODGLEN DEVELOPMENT, INC",
      "total": 7000.0,
      "count": 2
+    },
+    {
+     "employer": "THE PICARD GROUP",
+     "total": 7000.0,
+     "count": 5
+    },
+    {
+     "employer": "RAINWATER CONSULTING, LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SWIFTSHIPS",
+     "total": 7000.0,
+     "count": 4
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

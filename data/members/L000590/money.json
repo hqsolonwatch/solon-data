@@ -1566,7 +1566,7 @@
   {
    "committee_id": "C00786822",
    "name": "MAXWELL ALEJANDRO FROST FOR CONGRESS",
-   "connected_org": "BLUE TO THE FUTURE",
+   "connected_org": "MADSOUL VICTORY FUND",
    "total": 1000.0
   },
   {
@@ -2210,8 +2210,8 @@
   "coverage_end": "2026-10-14T00:00:00",
   "receipts": 5942431.93,
   "amounts": {
-   "individuals_200_or_less": 300553.56,
-   "individuals_over_200": 3365828.57,
+   "individuals_200_or_less": 300353.56,
+   "individuals_over_200": 3366028.57,
    "pacs_and_parties": 1620737.71,
    "candidate_own": 0.0,
    "transfers_from_authorized": 618432.97,
@@ -2337,19 +2337,19 @@
      "count": 10
     },
     {
-     "employer": "CHARLESBANK CAPITAL PARTNERS",
-     "total": 8000.0,
-     "count": 3
-    },
-    {
      "employer": "GOOGLE",
      "total": 8000.0,
      "count": 4
     },
     {
-     "employer": "MP MATERIALS CORP.",
+     "employer": "CHARLESBANK CAPITAL PARTNERS",
+     "total": 8000.0,
+     "count": 3
+    },
+    {
+     "employer": "RADIANCE TECHNOLOGIES",
      "total": 7500.0,
-     "count": 4
+     "count": 3
     },
     {
      "employer": "STEINBERG FAMILY OFFICE",
@@ -2360,7 +2360,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

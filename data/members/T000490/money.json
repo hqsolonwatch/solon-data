@@ -1091,70 +1091,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 520209.57,
+   "itemized_total": 801351.22,
    "home_state": "OH",
-   "home_state_total": 415291.57,
-   "home_state_share": 80,
+   "home_state_total": 510193.55,
+   "home_state_share": 64,
    "top": [
     {
      "state": "OH",
      "state_full": "Ohio",
-     "total": 415291.57,
-     "count": 414
-    },
-    {
-     "state": "NY",
-     "state_full": "New York",
-     "total": 30630.88,
-     "count": 13
-    },
-    {
-     "state": "IL",
-     "state_full": "Illinois",
-     "total": 18529.8,
-     "count": 70
+     "total": 510193.55,
+     "count": 761
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 11993.15,
-     "count": 75
+     "total": 38135.09,
+     "count": 912
     },
     {
-     "state": "VA",
-     "state_full": "Virginia",
-     "total": 11041.96,
-     "count": 41
-    },
-    {
-     "state": "FL",
-     "state_full": "Florida",
-     "total": 7136.52,
-     "count": 75
-    },
-    {
-     "state": "NC",
-     "state_full": "North Carolina",
-     "total": 4776.45,
-     "count": 12
+     "state": "NY",
+     "state_full": "New York",
+     "total": 32522.87,
+     "count": 84
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 3842.2,
-     "count": 134
+     "total": 30878.95,
+     "count": 1011
     },
     {
-     "state": "DC",
-     "state_full": "District Of Columbia",
-     "total": 3000.0,
-     "count": 5
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 27728.74,
+     "count": 278
     },
     {
-     "state": "MD",
-     "state_full": "Maryland",
-     "total": 1786.1,
-     "count": 15
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 25371.67,
+     "count": 600
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 22562.22,
+     "count": 358
+    },
+    {
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 13190.91,
+     "count": 304
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 8917.89,
+     "count": 212
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 7657.53,
+     "count": 238
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1167,6 +1167,11 @@
      "count": 10
     },
     {
+     "employer": "RENT-2-OWN",
+     "total": 17330.58,
+     "count": 5
+    },
+    {
      "employer": "TOTAL QUALITY LOGISTICS",
      "total": 13400.0,
      "count": 5
@@ -1175,11 +1180,6 @@
      "employer": "AMERICAN FINANCIAL",
      "total": 11500.0,
      "count": 5
-    },
-    {
-     "employer": "RENT-2-OWN",
-     "total": 10330.58,
-     "count": 4
     },
     {
      "employer": "TWINS BUICK GMC",
@@ -1192,30 +1192,30 @@
      "count": 4
     },
     {
-     "employer": "PHELAN INSURANCE",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
      "employer": "ANDURIL INDUSTRIES, INC.",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "SUNDAY CREEK HORIZONS LLC",
-     "total": 6037.89,
-     "count": 4
+     "employer": "CASTELLINI COMPANY",
+     "total": 7000.0,
+     "count": 3
     },
     {
-     "employer": "CINCINNATI BENGALS",
-     "total": 6000.0,
-     "count": 3
+     "employer": "UNIVERSITY OF CINCINNATI",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "PHELAN INSURANCE",
+     "total": 7000.0,
+     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

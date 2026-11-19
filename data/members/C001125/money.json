@@ -2226,14 +2226,14 @@
      "count": 4
     },
     {
-     "employer": "CRANE STRATEGIES LLC",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
      "employer": "LILETTE ADVISORS",
      "total": 7000.0,
      "count": 5
+    },
+    {
+     "employer": "CRANE STRATEGIES LLC",
+     "total": 7000.0,
+     "count": 2
     },
     {
      "employer": "RAINWATER CONSULTING LLC",
@@ -2259,7 +2259,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

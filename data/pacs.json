@@ -7365,7 +7365,7 @@
   {
    "id": "C00219121",
    "name": "SHEETZ INC POLITICAL ACTION COMMITTEE",
-   "connected_org": null,
+   "connected_org": "SHEETZ, INC.",
    "org_type": "C",
    "type": "Q",
    "designation": "U"
@@ -20853,9 +20853,9 @@
   {
    "id": "C00490235",
    "name": "AMERICA'S FUTURE, TOGETHER",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
-   "type": "V",
+   "type": "W",
    "designation": "U"
   },
   {
@@ -30429,7 +30429,7 @@
   {
    "id": "C00656868",
    "name": "THE CHEMOURS COMPANY POLITICAL ACTION COMMITTEE CHEMOURS PAC",
-   "connected_org": null,
+   "connected_org": "THE CHEMOURS COMPANY",
    "org_type": "C",
    "type": "Q",
    "designation": "B"
@@ -42803,6 +42803,46 @@
    "designation": "U"
   },
   {
+   "id": "C00800020",
+   "name": "VOICE OF TOMORROW",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "O",
+   "designation": "U"
+  },
+  {
+   "id": "C00800021",
+   "name": "KARMAN HOLDINGS, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "KARMAN HOLDINGS, INC.",
+   "org_type": "C",
+   "type": "N",
+   "designation": "U"
+  },
+  {
+   "id": "C00800026",
+   "name": "CORRIDIAN, INC. PAC",
+   "connected_org": "CORRIDIAN, INC.",
+   "org_type": "C",
+   "type": "N",
+   "designation": "U"
+  },
+  {
+   "id": "C00800030",
+   "name": "FARM STRONG PAC",
+   "connected_org": "HATCHER",
+   "org_type": null,
+   "type": "N",
+   "designation": "D"
+  },
+  {
+   "id": "C00800031",
+   "name": "BLUE TREE PAC",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "N",
+   "designation": "U"
+  },
+  {
    "id": "C00800037",
    "name": "CLIPBOARD PAC",
    "connected_org": "NONE",
@@ -43439,7 +43479,7 @@
    "name": "LOS ANGELES/ORANGE COUNTIES BUILDING AND CONSTRUCTION TRADES COUNCIL FEDERAL POLITICAL ACTION COMMITTEE (PAC)",
    "connected_org": null,
    "org_type": "L",
-   "type": "N",
+   "type": "Q",
    "designation": "U"
   },
   {
@@ -59583,7 +59623,7 @@
    "name": "DEMOCRACY DEFENDERS PAC",
    "connected_org": null,
    "org_type": null,
-   "type": "N",
+   "type": "Q",
    "designation": "U"
   },
   {
@@ -62725,9 +62765,9 @@
   {
    "id": "C00892216",
    "name": "RESISTANCE PAC",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
-   "type": "V",
+   "type": "W",
    "designation": "U"
   },
   {
@@ -68381,7 +68421,7 @@
   {
    "id": "C00911008",
    "name": "DEFEAT CHINA PAC",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "U"
@@ -70805,7 +70845,7 @@
   {
    "id": "C00920389",
    "name": "SUSAN COLLINS FOR MAINE",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -72085,7 +72125,7 @@
   {
    "id": "C00925255",
    "name": "FREE AMERICA FOR OURSELVES",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "O",
    "designation": "U"
@@ -74445,7 +74485,7 @@
   {
    "id": "C00934539",
    "name": "TITUS VICTORY FUND",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -76597,7 +76637,7 @@
   {
    "id": "C00942714",
    "name": "ALME VICTORY",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -79021,7 +79061,7 @@
   {
    "id": "C00949420",
    "name": "PROGRESS NYC 2026",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "O",
    "designation": "U"
@@ -79101,7 +79141,7 @@
   {
    "id": "C00949560",
    "name": "6 STARS VOTEVETS VICTORY FUND",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"

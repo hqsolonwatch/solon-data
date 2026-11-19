@@ -1224,22 +1224,22 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1652569.65,
+   "itemized_total": 1870729.21,
    "home_state": "NY",
-   "home_state_total": 1429456.65,
+   "home_state_total": 1605389.71,
    "home_state_share": 86,
    "top": [
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 1429456.65,
-     "count": 1151
+     "total": 1605389.71,
+     "count": 1295
     },
     {
      "state": "NJ",
      "state_full": "New Jersey",
-     "total": 42527.5,
-     "count": 49
+     "total": 45527.5,
+     "count": 53
     },
     {
      "state": "CA",
@@ -1248,28 +1248,28 @@
      "count": 19
     },
     {
-     "state": "MD",
-     "state_full": "Maryland",
-     "total": 26250.0,
-     "count": 19
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 32192.0,
+     "count": 16
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 24570.75,
-     "count": 34
+     "total": 26829.75,
+     "count": 38
     },
     {
-     "state": "FL",
-     "state_full": "Florida",
-     "total": 24070.5,
-     "count": 11
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 26500.0,
+     "count": 20
     },
     {
      "state": "CT",
      "state_full": "Connecticut",
-     "total": 19855.75,
-     "count": 10
+     "total": 23355.75,
+     "count": 11
     },
     {
      "state": "RI",
@@ -1278,16 +1278,16 @@
      "count": 3
     },
     {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 9785.25,
+     "count": 9
+    },
+    {
      "state": "ZZ",
      "state_full": "Foreign Countries",
      "total": 9500.0,
      "count": 3
-    },
-    {
-     "state": "AZ",
-     "state_full": "Arizona",
-     "total": 7000.0,
-     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1315,6 +1315,11 @@
      "count": 5
     },
     {
+     "employer": "MARK CERRONE, INC.",
+     "total": 12000.0,
+     "count": 3
+    },
+    {
      "employer": "AUBURN COMMUNITY HOSPITAL",
      "total": 11600.0,
      "count": 4
@@ -1325,30 +1330,25 @@
      "count": 10
     },
     {
-     "employer": "LARKIN DEVELOPMENT GROUP",
-     "total": 8553.0,
-     "count": 4
-    },
-    {
-     "employer": "CIMINELLI REAL ESTATE CORPORATION",
-     "total": 8500.0,
-     "count": 5
-    },
-    {
      "employer": "UNIVERSITY AT BUFFALO",
-     "total": 8175.25,
+     "total": 11245.5,
+     "count": 6
+    },
+    {
+     "employer": "ROSWELL PARK CANCER CENTER",
+     "total": 9500.0,
      "count": 4
     },
     {
-     "employer": "WALSH DUFFIELD COMPANIES",
-     "total": 8000.0,
+     "employer": "LARKIN DEVELOPMENT GROUP",
+     "total": 9070.75,
      "count": 5
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

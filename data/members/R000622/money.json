@@ -624,7 +624,7 @@
   {
    "committee_id": "C00786822",
    "name": "MAXWELL ALEJANDRO FROST FOR CONGRESS",
-   "connected_org": "BLUE TO THE FUTURE",
+   "connected_org": "MADSOUL VICTORY FUND",
    "total": 3000.0
   },
   {
@@ -1564,70 +1564,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 3621554.98,
+   "itemized_total": 4372284.51,
    "home_state": "NY",
-   "home_state_total": 1713057.15,
-   "home_state_share": 47,
+   "home_state_total": 2170684.7,
+   "home_state_share": 50,
    "top": [
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 1713057.15,
-     "count": 5856
+     "total": 2170684.7,
+     "count": 7718
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 475651.47,
-     "count": 759
+     "total": 522808.01,
+     "count": 872
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 246166.0,
-     "count": 263
+     "total": 271511.19,
+     "count": 310
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 184848.39,
-     "count": 249
+     "total": 204626.13,
+     "count": 295
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 170928.05,
-     "count": 219
+     "total": 200082.66,
+     "count": 264
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 143658.64,
-     "count": 155
+     "total": 180497.7,
+     "count": 242
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 110600.56,
-     "count": 148
-    },
-    {
-     "state": "CT",
-     "state_full": "Connecticut",
-     "total": 95754.18,
-     "count": 247
-    },
-    {
-     "state": "VA",
-     "state_full": "Virginia",
-     "total": 89546.48,
-     "count": 103
+     "total": 129998.9,
+     "count": 183
     },
     {
      "state": "NJ",
      "state_full": "New Jersey",
-     "total": 79673.15,
-     "count": 158
+     "total": 106332.15,
+     "count": 194
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 105445.18,
+     "count": 272
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 103460.56,
+     "count": 173
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1646,23 +1646,23 @@
     },
     {
      "employer": "PALANTIR TECHNOLOGIES",
-     "total": 30000.0,
-     "count": 10
+     "total": 34500.0,
+     "count": 12
     },
     {
      "employer": "APPLE, INC.",
-     "total": 23000.0,
-     "count": 12
+     "total": 23125.0,
+     "count": 13
+    },
+    {
+     "employer": "CORNELL UNIVERSITY",
+     "total": 22995.5,
+     "count": 207
     },
     {
      "employer": "KING & SPALDING, LLP",
      "total": 19500.0,
      "count": 13
-    },
-    {
-     "employer": "CORNELL UNIVERSITY",
-     "total": 17643.0,
-     "count": 166
     },
     {
      "employer": "COVINGTON & BURLING, LLP",
@@ -1675,9 +1675,9 @@
      "count": 4
     },
     {
-     "employer": "JANE STREET GROUP",
+     "employer": "BAIN CAPITAL",
      "total": 14000.0,
-     "count": 6
+     "count": 5
     },
     {
      "employer": "PAUL, WEISS, RIFKIND, ET AL., LLP",
@@ -1688,7 +1688,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

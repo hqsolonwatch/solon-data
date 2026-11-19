@@ -194,13 +194,13 @@ var MEMBERS = [
     "name": "Rep. Katherine Clark",
     "role": "U.S. House, Massachusetts District 5",
     "vote": {
-      "bill": "H.R. 9600",
-      "title": "Common Sense 250 Act of 2026",
-      "summary": "Requires the authorized monument honoring Thomas Paine to be located in Area 1 of the National Mall, which is reserved for commemorative works of preeminent historical and lasting significance to the United States.",
+      "bill": "H.R. 9640",
+      "title": "Earth MRI Reauthorization Act of 2026",
+      "summary": "Reauthorizes through FY2031 the Earth Mapping Resources Initiative, a U.S.",
       "cast": "Yea",
-      "result": "Passed 365 to 36",
-      "date": "November 17, 2026",
-      "source": "clerk.house.gov, roll call 325, 2026"
+      "result": "Passed 396 to 14",
+      "date": "November 18, 2026",
+      "source": "clerk.house.gov, roll call 326, 2026"
     },
     "lobbying": {
       "cycle": "2026 cycle",
@@ -228,13 +228,13 @@ var MEMBERS = [
     "name": "Rep. Tom Emmer",
     "role": "U.S. House, Minnesota District 6",
     "vote": {
-      "bill": "H.R. 9600",
-      "title": "Common Sense 250 Act of 2026",
-      "summary": "Requires the authorized monument honoring Thomas Paine to be located in Area 1 of the National Mall, which is reserved for commemorative works of preeminent historical and lasting significance to the United States.",
-      "cast": "Nay",
-      "result": "Passed 365 to 36",
-      "date": "November 17, 2026",
-      "source": "clerk.house.gov, roll call 325, 2026"
+      "bill": "H.R. 9640",
+      "title": "Earth MRI Reauthorization Act of 2026",
+      "summary": "Reauthorizes through FY2031 the Earth Mapping Resources Initiative, a U.S.",
+      "cast": "Yea",
+      "result": "Passed 396 to 14",
+      "date": "November 18, 2026",
+      "source": "clerk.house.gov, roll call 326, 2026"
     },
     "lobbying": {
       "cycle": "2026 cycle",
@@ -538,14 +538,14 @@ var ROLLCALLS = {
     ],
     [
       "Nov 2026",
-      11,
-      9
+      12,
+      12
     ]
   ],
   "meta": {
     "start": "January 3, 2025",
-    "through": "November 17, 2026",
-    "total": 1611,
+    "through": "November 18, 2026",
+    "total": 1615,
     "election": {
       "date": "November 3, 2026",
       "month": "Nov 2026",
@@ -556,7 +556,7 @@ var ROLLCALLS = {
 };
 
 var SCHEDULE = {
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "house": {
     "week": "November 16",
     "rows": [
@@ -592,7 +592,7 @@ var SCHEDULE = {
     {
       "bill": "H.R. 2347",
       "title": "Survivor Justice Tax Prevention Act",
-      "note": "Survivor Justice Tax Prevention Act. Latest action, November 17: Considered by Senate.",
+      "note": "The Senate voted 65 to 31 on November 18 to end debate on the bill. More votes on it are expected.",
       "status": "Expected"
     }
   ]

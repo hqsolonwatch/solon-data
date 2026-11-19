@@ -260,70 +260,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1979894.85,
+   "itemized_total": 2205246.93,
    "home_state": "MN",
-   "home_state_total": 172190.76,
+   "home_state_total": 197344.27,
    "home_state_share": 9,
    "top": [
     {
      "state": "CA",
      "state_full": "California",
-     "total": 474310.63,
-     "count": 6926
-    },
-    {
-     "state": "NY",
-     "state_full": "New York",
-     "total": 175210.54,
-     "count": 3269
+     "total": 525937.88,
+     "count": 8547
     },
     {
      "state": "MN",
      "state_full": "Minnesota",
-     "total": 172190.76,
-     "count": 2805
+     "total": 197344.27,
+     "count": 3467
     },
     {
-     "state": "TX",
-     "state_full": "Texas",
-     "total": 127821.41,
-     "count": 1011
+     "state": "NY",
+     "state_full": "New York",
+     "total": 194962.37,
+     "count": 3949
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 126823.83,
-     "count": 1267
+     "total": 135291.13,
+     "count": 1553
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 133873.39,
+     "count": 1272
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 119426.33,
-     "count": 1234
+     "total": 128833.73,
+     "count": 1573
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 73602.65,
-     "count": 1401
+     "total": 86401.14,
+     "count": 1795
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 59871.62,
-     "count": 918
-    },
-    {
-     "state": "CO",
-     "state_full": "Colorado",
-     "total": 58377.31,
-     "count": 584
+     "total": 68656.94,
+     "count": 1116
     },
     {
      "state": "WA",
      "state_full": "Washington",
-     "total": 54542.8,
-     "count": 1554
+     "total": 65662.12,
+     "count": 1887
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 61410.33,
+     "count": 722
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -337,8 +337,8 @@
     },
     {
      "employer": "HCA",
-     "total": 10526.13,
-     "count": 14
+     "total": 10653.13,
+     "count": 16
     },
     {
      "employer": "ORACLE CORPORATION",
@@ -351,12 +351,22 @@
      "count": 4
     },
     {
-     "employer": "SHOWCASE COMMERCE",
+     "employer": "FUEL LINE",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "ALEXANDER SOROS FOUNDATION",
+     "employer": "ACS/EZ REAL ESTATE",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SOTERI",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "HIMS & HERS HEALTH INC.",
      "total": 7000.0,
      "count": 2
     },
@@ -366,17 +376,7 @@
      "count": 3
     },
     {
-     "employer": "REMBRAND",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "IDS REAL ESTATE GROUP",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "APEX GROUP",
+     "employer": "LAW OFFICES OF OMAR KHAWAJA",
      "total": 7000.0,
      "count": 2
     }
@@ -384,7 +384,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -1402,20 +1402,20 @@
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 58520.0,
-     "count": 93
-    },
-    {
-     "state": "FL",
-     "state_full": "Florida",
-     "total": 22500.0,
-     "count": 11
+     "total": 61020.0,
+     "count": 94
     },
     {
      "state": "MD",
      "state_full": "Maryland",
      "total": 21400.0,
      "count": 28
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 20000.0,
+     "count": 10
     },
     {
      "state": "CO",
@@ -1453,12 +1453,12 @@
   "donor_employers": {
    "top": [
     {
-     "employer": "KALSHI",
+     "employer": "ANTHROPIC",
      "total": 14000.0,
      "count": 4
     },
     {
-     "employer": "ANTHROPIC",
+     "employer": "KALSHI",
      "total": 14000.0,
      "count": 4
     },
@@ -1506,7 +1506,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

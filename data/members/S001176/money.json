@@ -2045,70 +2045,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 17568737.3,
+   "itemized_total": 17771158.89,
    "home_state": "LA",
-   "home_state_total": 1543797.73,
+   "home_state_total": 1550089.91,
    "home_state_share": 9,
    "top": [
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 2241463.74,
-     "count": 56923
+     "total": 2264616.37,
+     "count": 57919
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 1885488.03,
-     "count": 50869
+     "total": 1903963.18,
+     "count": 51760
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 1819702.01,
-     "count": 48295
+     "total": 1839206.95,
+     "count": 49200
     },
     {
      "state": "LA",
      "state_full": "Louisiana",
-     "total": 1543797.73,
-     "count": 11624
+     "total": 1550089.91,
+     "count": 11736
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 855053.08,
-     "count": 16867
+     "total": 861084.35,
+     "count": 17040
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 629005.66,
-     "count": 15431
+     "total": 639110.13,
+     "count": 15811
     },
     {
      "state": "GA",
      "state_full": "Georgia",
-     "total": 528034.89,
-     "count": 17251
+     "total": 534271.49,
+     "count": 17585
     },
     {
      "state": "AZ",
      "state_full": "Arizona",
-     "total": 457755.39,
-     "count": 17408
+     "total": 468204.3,
+     "count": 17700
     },
     {
      "state": "PA",
      "state_full": "Pennsylvania",
-     "total": 409869.85,
-     "count": 13171
+     "total": 415603.72,
+     "count": 13409
     },
     {
      "state": "MI",
      "state_full": "Michigan",
-     "total": 376705.12,
-     "count": 13002
+     "total": 389948.48,
+     "count": 13266
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -2156,7 +2156,7 @@
      "count": 7
     },
     {
-     "employer": "ALLIANT",
+     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
      "total": 14000.0,
      "count": 4
     },
@@ -2169,7 +2169,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

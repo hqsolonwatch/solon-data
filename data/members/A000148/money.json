@@ -1626,28 +1626,28 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 2608854.91,
+   "itemized_total": 2786066.91,
    "home_state": "MA",
-   "home_state_total": 1229811.92,
+   "home_state_total": 1318407.92,
    "home_state_share": 47,
    "top": [
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 1229811.92,
-     "count": 926
+     "total": 1318407.92,
+     "count": 1001
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 442427.65,
-     "count": 223
+     "total": 466327.65,
+     "count": 230
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 311564.82,
-     "count": 176
+     "total": 325594.82,
+     "count": 182
     },
     {
      "state": "FL",
@@ -1664,8 +1664,14 @@
     {
      "state": "CT",
      "state_full": "Connecticut",
-     "total": 85481.43,
-     "count": 37
+     "total": 88981.43,
+     "count": 38
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 60750.0,
+     "count": 36
     },
     {
      "state": "NJ",
@@ -1676,20 +1682,14 @@
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 37776.0,
-     "count": 49
+     "total": 39562.0,
+     "count": 54
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 34813.63,
-     "count": 14
-    },
-    {
-     "state": "DC",
-     "state_full": "District Of Columbia",
-     "total": 31750.0,
-     "count": 26
+     "total": 39113.63,
+     "count": 17
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1700,6 +1700,11 @@
      "employer": "BAIN CAPITAL",
      "total": 61999.94,
      "count": 20
+    },
+    {
+     "employer": "BLACKSTONE",
+     "total": 25000.0,
+     "count": 9
     },
     {
      "employer": "KKR",
@@ -1727,30 +1732,25 @@
      "count": 8
     },
     {
+     "employer": "JANE STREET CAPITAL",
+     "total": 17500.0,
+     "count": 5
+    },
+    {
      "employer": "FLAGSHIP PIONEERING",
      "total": 17110.46,
      "count": 19
     },
     {
-     "employer": "BLACKSTONE",
-     "total": 16500.0,
-     "count": 6
-    },
-    {
      "employer": "WCAS",
      "total": 14700.0,
      "count": 10
-    },
-    {
-     "employer": "BERKSHIRE PARTNERS",
-     "total": 14000.0,
-     "count": 4
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

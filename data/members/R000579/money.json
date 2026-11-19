@@ -840,70 +840,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 3904891.16,
+   "itemized_total": 4286809.21,
    "home_state": "NY",
-   "home_state_total": 2559542.77,
-   "home_state_share": 66,
+   "home_state_total": 2782695.1,
+   "home_state_share": 65,
    "top": [
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 2559542.77,
-     "count": 4084
+     "total": 2782695.1,
+     "count": 5243
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 363331.0,
-     "count": 244
+     "total": 432061.0,
+     "count": 297
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 197073.12,
-     "count": 124
-    },
-    {
-     "state": "IL",
-     "state_full": "Illinois",
-     "total": 118540.0,
-     "count": 70
+     "total": 214403.84,
+     "count": 143
     },
     {
      "state": "CT",
      "state_full": "Connecticut",
-     "total": 116624.5,
-     "count": 136
+     "total": 123209.5,
+     "count": 160
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 119590.0,
+     "count": 74
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 87706.37,
-     "count": 107
+     "total": 97456.37,
+     "count": 118
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 76380.0,
-     "count": 78
+     "total": 90540.0,
+     "count": 94
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 69565.1,
-     "count": 89
+     "total": 71790.1,
+     "count": 104
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 53474.25,
-     "count": 67
+     "total": 60099.25,
+     "count": 82
     },
     {
      "state": "WA",
      "state_full": "Washington",
-     "total": 37000.0,
-     "count": 21
+     "total": 47500.0,
+     "count": 24
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -916,14 +916,14 @@
      "count": 16
     },
     {
+     "employer": "ANTHROPIC",
+     "total": 27000.0,
+     "count": 11
+    },
+    {
      "employer": "POWER ROGERS LLP",
      "total": 24000.0,
      "count": 9
-    },
-    {
-     "employer": "ANTHROPIC",
-     "total": 23500.0,
-     "count": 10
     },
     {
      "employer": "ANDURIL INDUSTRIES",
@@ -956,7 +956,7 @@
      "count": 10
     },
     {
-     "employer": "CLIFFORD LAW OFFICES",
+     "employer": "C&V",
      "total": 14000.0,
      "count": 6
     }
@@ -964,7 +964,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

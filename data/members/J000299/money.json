@@ -2066,70 +2066,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 17626344.45,
+   "itemized_total": 21559923.39,
    "home_state": "LA",
-   "home_state_total": 1477870.49,
+   "home_state_total": 1805709.19,
    "home_state_share": 8,
    "top": [
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 2657281.86,
-     "count": 81985
+     "total": 2984661.85,
+     "count": 91987
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 2538729.98,
-     "count": 65769
+     "total": 2941317.17,
+     "count": 74790
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 2245239.76,
-     "count": 63334
+     "total": 2539793.64,
+     "count": 71335
     },
     {
      "state": "LA",
      "state_full": "Louisiana",
-     "total": 1477870.49,
-     "count": 8079
-    },
-    {
-     "state": "NY",
-     "state_full": "New York",
-     "total": 671774.82,
-     "count": 16348
+     "total": 1805709.19,
+     "count": 9408
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 658450.07,
-     "count": 24870
+     "total": 798179.14,
+     "count": 27515
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 788371.72,
+     "count": 18447
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 469636.41,
-     "count": 18067
+     "total": 643416.7,
+     "count": 21414
     },
     {
      "state": "MI",
      "state_full": "Michigan",
-     "total": 449498.82,
-     "count": 14114
+     "total": 593807.23,
+     "count": 16266
     },
     {
      "state": "GA",
      "state_full": "Georgia",
-     "total": 406283.23,
-     "count": 24318
+     "total": 483917.2,
+     "count": 27077
     },
     {
-     "state": "PA",
-     "state_full": "Pennsylvania",
-     "total": 346994.56,
-     "count": 12322
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 462697.8,
+     "count": 20762
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -2138,8 +2138,8 @@
    "top": [
     {
      "employer": "ENTREPRENEUR",
-     "total": 112557.27,
-     "count": 2639
+     "total": 130383.22,
+     "count": 3005
     },
     {
      "employer": "MILLER STRATEGIES",
@@ -2150,6 +2150,11 @@
      "employer": "GOLDENTREE ASSET MANAGEMENT",
      "total": 27000.04,
      "count": 14
+    },
+    {
+     "employer": "CORNERSTONE GOVERNMENT AFFAIRS",
+     "total": 25250.0,
+     "count": 13
     },
     {
      "employer": "MARQUIS MANAGEMENT INC.",
@@ -2167,30 +2172,25 @@
      "count": 6
     },
     {
+     "employer": "PRAESES LLC",
+     "total": 21000.0,
+     "count": 16
+    },
+    {
      "employer": "S-3 GROUP",
      "total": 21000.0,
      "count": 9
     },
     {
-     "employer": "PRAESES LLC",
-     "total": 20999.65,
-     "count": 15
-    },
-    {
      "employer": "WOODFOREST NATIONAL BANK",
      "total": 20666.66,
      "count": 6
-    },
-    {
-     "employer": "CRESSET CAPITAL",
-     "total": 20000.0,
-     "count": 9
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

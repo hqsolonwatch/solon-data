@@ -1,0 +1,66 @@
+{
+ "bill": "hr9640-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "fetched_ts": 1795091871,
+ "report_count": 3,
+ "clients": [
+  {
+   "client": "NATIONAL PARKS CONSERVATION ASSOCIATION",
+   "display_name": "National Parks Conservation Association",
+   "reports": 1,
+   "latest_report_amount": 110704.0,
+   "latest_report": "bdf1249b-a8ec-4b2a-b17a-bb866f1e4af9",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "SANBORN MAP COMPANY",
+   "display_name": "Sanborn Map Company",
+   "reports": 2,
+   "latest_report_amount": 20000.0,
+   "latest_report": "44bbc99e-b117-4370-bc33-50eaa4858608",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  }
+ ],
+ "groups_shown": [],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "f8b2b71b-eab9-4d78-aad2-e51120a15bea",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-15T19:52:09-04:00",
+   "amount": 20000.0,
+   "registrant": "ERA GOVERNMENT AFFAIRS, LLC",
+   "client": "SANBORN MAP COMPANY",
+   "url": "https://lda.gov/filings/public/filing/f8b2b71b-eab9-4d78-aad2-e51120a15bea/print/"
+  },
+  {
+   "filing_uuid": "44bbc99e-b117-4370-bc33-50eaa4858608",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-15T11:10:14-04:00",
+   "amount": 20000.0,
+   "registrant": "ERA GOVERNMENT AFFAIRS, LLC",
+   "client": "SANBORN MAP COMPANY",
+   "url": "https://lda.gov/filings/public/filing/44bbc99e-b117-4370-bc33-50eaa4858608/print/"
+  },
+  {
+   "filing_uuid": "bdf1249b-a8ec-4b2a-b17a-bb866f1e4af9",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T17:21:40-04:00",
+   "amount": 110704.0,
+   "registrant": "NATIONAL PARKS CONSERVATION ASSOCIATION",
+   "client": "NATIONAL PARKS CONSERVATION ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/bdf1249b-a8ec-4b2a-b17a-bb866f1e4af9/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}

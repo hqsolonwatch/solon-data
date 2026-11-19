@@ -322,16 +322,16 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 104657.0,
+   "itemized_total": 113407.0,
    "home_state": "OK",
-   "home_state_total": 69082.0,
-   "home_state_share": 66,
+   "home_state_total": 77332.0,
+   "home_state_share": 68,
    "top": [
     {
      "state": "OK",
      "state_full": "Oklahoma",
-     "total": 69082.0,
-     "count": 99
+     "total": 77332.0,
+     "count": 106
     },
     {
      "state": "NY",
@@ -348,8 +348,8 @@
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 3750.0,
-     "count": 2
+     "total": 4250.0,
+     "count": 3
     },
     {
      "state": "PA",
@@ -375,22 +375,12 @@
   "donor_employers": {
    "top": [
     {
-     "employer": "PALM BEACH COMPUTER CONSULTANTS",
-     "total": 3500.0,
-     "count": 1
+     "employer": "CHANT HEALTHCARE",
+     "total": 4000.0,
+     "count": 16
     },
     {
      "employer": "EFFECTIVE THERAPEUTIC TEACHING LEARNIN",
-     "total": 3500.0,
-     "count": 1
-    },
-    {
-     "employer": "UNITED BUILDING CONTRACTORS, INC",
-     "total": 3500.0,
-     "count": 1
-    },
-    {
-     "employer": "REVO FINANCIAL",
      "total": 3500.0,
      "count": 1
     },
@@ -400,7 +390,22 @@
      "count": 1
     },
     {
+     "employer": "PALM BEACH COMPUTER CONSULTANTS",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "UNITED BUILDING CONTRACTORS, INC",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
      "employer": "LEVINSON LAW PC",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "REVO FINANCIAL",
      "total": 3500.0,
      "count": 1
     },
@@ -410,17 +415,12 @@
      "count": 1
     },
     {
-     "employer": "CHANT HEALTHCARE",
-     "total": 3250.0,
-     "count": 13
-    },
-    {
-     "employer": "ALTBANQ",
+     "employer": "RAM INC",
      "total": 2500.0,
      "count": 1
     },
     {
-     "employer": "HILLIARY",
+     "employer": "ALTBANQ",
      "total": 2500.0,
      "count": 1
     }
@@ -428,7 +428,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

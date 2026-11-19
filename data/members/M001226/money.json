@@ -1543,9 +1543,9 @@
   "receipts": 2236501.68,
   "amounts": {
    "individuals_200_or_less": 28566.11,
-   "individuals_over_200": 1223235.22,
+   "individuals_over_200": 1222866.74,
    "pacs_and_parties": 886109.23,
-   "candidate_own": 0.0,
+   "candidate_own": 368.48,
    "transfers_from_authorized": 83900.0,
    "other_receipts": 11367.57
   },
@@ -1654,14 +1654,14 @@
      "count": 6
     },
     {
-     "employer": "BGR GROUP",
-     "total": 14000.0,
-     "count": 17
-    },
-    {
      "employer": "BLACKSTONE",
      "total": 14000.0,
      "count": 4
+    },
+    {
+     "employer": "BGR GROUP",
+     "total": 14000.0,
+     "count": 17
     },
     {
      "employer": "SILLS CUMMIS & GROSS",
@@ -1674,14 +1674,14 @@
      "count": 5
     },
     {
-     "employer": "WINNING STRATEGIES WASHINGTON",
-     "total": 10500.0,
-     "count": 5
-    },
-    {
      "employer": "AMERICAN SPRAYTECH",
      "total": 10500.0,
      "count": 3
+    },
+    {
+     "employer": "WINNING STRATEGIES WASHINGTON",
+     "total": 10500.0,
+     "count": 5
     },
     {
      "employer": "TIBER CREEK GROUP",
@@ -1692,7 +1692,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

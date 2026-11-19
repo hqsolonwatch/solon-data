@@ -932,70 +932,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1655636.73,
+   "itemized_total": 2093934.35,
    "home_state": "MT",
-   "home_state_total": 216540.21,
-   "home_state_share": 13,
+   "home_state_total": 237366.81,
+   "home_state_share": 11,
    "top": [
     {
      "state": "CA",
      "state_full": "California",
-     "total": 275557.03,
-     "count": 1014
+     "total": 343738.51,
+     "count": 1144
     },
     {
      "state": "MT",
      "state_full": "Montana",
-     "total": 216540.21,
-     "count": 850
+     "total": 237366.81,
+     "count": 961
     },
     {
      "state": "KS",
      "state_full": "Kansas",
-     "total": 151784.93,
-     "count": 157
-    },
-    {
-     "state": "VA",
-     "state_full": "Virginia",
-     "total": 116461.87,
-     "count": 218
+     "total": 154286.43,
+     "count": 161
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 107151.58,
-     "count": 960
+     "total": 145816.57,
+     "count": 1061
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 106373.87,
-     "count": 478
+     "total": 136078.06,
+     "count": 538
     },
     {
-     "state": "MO",
-     "state_full": "Missouri",
-     "total": 71933.89,
-     "count": 231
-    },
-    {
-     "state": "MN",
-     "state_full": "Minnesota",
-     "total": 54539.27,
-     "count": 88
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 134960.42,
+     "count": 266
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 54298.95,
-     "count": 48
+     "total": 80848.95,
+     "count": 63
     },
     {
-     "state": "AZ",
-     "state_full": "Arizona",
-     "total": 52200.54,
-     "count": 249
+     "state": "MO",
+     "state_full": "Missouri",
+     "total": 77536.77,
+     "count": 272
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 76790.05,
+     "count": 244
+    },
+    {
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 72891.77,
+     "count": 105
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1003,9 +1003,24 @@
   "donor_employers": {
    "top": [
     {
+     "employer": "WCAS",
+     "total": 40443.56,
+     "count": 29
+    },
+    {
      "employer": "QUANTA SERVICES",
      "total": 37470.43,
      "count": 33
+    },
+    {
+     "employer": "8VC",
+     "total": 20800.0,
+     "count": 7
+    },
+    {
+     "employer": "CAFFEINATED CAPITAL",
+     "total": 14000.0,
+     "count": 5
     },
     {
      "employer": "PETERSON COMPANIES",
@@ -1028,35 +1043,20 @@
      "count": 8
     },
     {
-     "employer": "SCHALL LAW",
-     "total": 10000.0,
-     "count": 4
-    },
-    {
-     "employer": "PBM CAPITAL GROUP",
-     "total": 10000.0,
-     "count": 1
-    },
-    {
-     "employer": "PHIL HARDY",
-     "total": 10000.0,
-     "count": 5
-    },
-    {
-     "employer": "SIERRA VENTURES",
-     "total": 9900.0,
+     "employer": "DBA: KONSTANTIN SOKOLOV",
+     "total": 10300.0,
      "count": 3
     },
     {
-     "employer": "LAUGHERY INVESTMENTS",
-     "total": 8300.0,
+     "employer": "PATIENT RIGHTS ADVOCATE",
+     "total": 10300.0,
      "count": 3
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

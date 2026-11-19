@@ -514,70 +514,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 9633999.9,
+   "itemized_total": 13844670.45,
    "home_state": "NH",
-   "home_state_total": 2044044.73,
-   "home_state_share": 21,
+   "home_state_total": 2701949.76,
+   "home_state_share": 20,
    "top": [
     {
      "state": "NH",
      "state_full": "New Hampshire",
-     "total": 2044044.73,
-     "count": 11990
+     "total": 2701949.76,
+     "count": 15836
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 1516777.27,
-     "count": 6635
+     "total": 2187002.35,
+     "count": 9625
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 1289893.59,
-     "count": 4362
+     "total": 1793452.24,
+     "count": 6443
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 1204796.0,
-     "count": 3193
+     "total": 1611471.17,
+     "count": 4513
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 359697.1,
-     "count": 594
+     "total": 513037.83,
+     "count": 876
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 347551.98,
-     "count": 1727
+     "total": 500302.45,
+     "count": 2384
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 334347.7,
-     "count": 1175
+     "total": 499433.07,
+     "count": 1710
     },
     {
      "state": "WA",
      "state_full": "Washington",
-     "total": 261098.82,
-     "count": 1651
+     "total": 377398.24,
+     "count": 2288
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 362606.38,
+     "count": 2005
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 245303.73,
-     "count": 1747
-    },
-    {
-     "state": "VA",
-     "state_full": "Virginia",
-     "total": 201698.39,
-     "count": 876
+     "total": 333077.66,
+     "count": 2313
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -585,60 +585,60 @@
   "donor_employers": {
    "top": [
     {
+     "employer": "ANTHROPIC",
+     "total": 53900.0,
+     "count": 17
+    },
+    {
+     "employer": "JANE STREET CAPITAL",
+     "total": 28000.0,
+     "count": 8
+    },
+    {
+     "employer": "CORNERSTONE GOVERNMENT AFFAIRS",
+     "total": 26850.0,
+     "count": 36
+    },
+    {
      "employer": "GENTEX CORPORATION",
      "total": 26000.0,
      "count": 9
     },
     {
-     "employer": "CORNERSTONE GOVERNMENT AFFAIRS",
-     "total": 22850.0,
-     "count": 34
+     "employer": "HARVARD UNIVERSITY",
+     "total": 25718.52,
+     "count": 24
+    },
+    {
+     "employer": "DARTMOUTH COLLEGE",
+     "total": 21205.0,
+     "count": 59
     },
     {
      "employer": "LIEFF CABRASER HEIMANN & BERNSTEIN, LL",
-     "total": 21100.0,
-     "count": 12
-    },
-    {
-     "employer": "JANE STREET CAPITAL",
-     "total": 21000.0,
-     "count": 6
-    },
-    {
-     "employer": "WILMERHALE",
-     "total": 19502.0,
+     "total": 21200.0,
      "count": 13
     },
     {
-     "employer": "ANTHROPIC",
-     "total": 18500.0,
-     "count": 6
+     "employer": "WILMERHALE",
+     "total": 20002.0,
+     "count": 14
     },
     {
-     "employer": "HARVARD UNIVERSITY",
-     "total": 18218.52,
-     "count": 16
-    },
-    {
-     "employer": "PURITAN BACKROOM",
-     "total": 15200.0,
-     "count": 7
-    },
-    {
-     "employer": "BGR GROUP",
-     "total": 14500.0,
+     "employer": "GOOGLE",
+     "total": 19190.0,
      "count": 15
     },
     {
-     "employer": "JANE STREET GROUP",
-     "total": 14000.0,
-     "count": 4
+     "employer": "CLIFFORD LAW OFFICES P.C.",
+     "total": 17500.0,
+     "count": 5
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

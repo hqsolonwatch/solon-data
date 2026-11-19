@@ -972,33 +972,51 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 466219.15,
+   "itemized_total": 598458.15,
    "home_state": "PA",
-   "home_state_total": 381021.0,
-   "home_state_share": 82,
+   "home_state_total": 474776.0,
+   "home_state_share": 79,
    "top": [
     {
      "state": "PA",
      "state_full": "Pennsylvania",
-     "total": 381021.0,
-     "count": 1563
+     "total": 474776.0,
+     "count": 2047
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 17470.0,
-     "count": 48
+     "total": 28010.0,
+     "count": 79
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 15900.0,
-     "count": 19
+     "total": 19900.0,
+     "count": 22
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 12500.0,
+     "count": 11
+    },
+    {
+     "state": "DE",
+     "state_full": "Delaware",
+     "total": 11738.0,
+     "count": 41
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 11100.0,
+     "total": 11600.0,
+     "count": 26
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 9650.0,
      "count": 25
     },
     {
@@ -1008,34 +1026,16 @@
      "count": 12
     },
     {
-     "state": "CA",
-     "state_full": "California",
-     "total": 7250.0,
-     "count": 8
-    },
-    {
-     "state": "NJ",
-     "state_full": "New Jersey",
-     "total": 6650.0,
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 6280.0,
      "count": 21
-    },
-    {
-     "state": "DE",
-     "state_full": "Delaware",
-     "total": 6313.0,
-     "count": 29
     },
     {
      "state": "WA",
      "state_full": "Washington",
-     "total": 3050.0,
-     "count": 3
-    },
-    {
-     "state": "MD",
-     "state_full": "Maryland",
-     "total": 2457.15,
-     "count": 10
+     "total": 4050.0,
+     "count": 4
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1044,28 +1044,28 @@
    "top": [
     {
      "employer": "BALLARD SPAHR LLP",
-     "total": 12750.0,
-     "count": 23
+     "total": 18250.0,
+     "count": 28
     },
     {
      "employer": "BALLARD SPAHR",
-     "total": 9750.0,
-     "count": 18
+     "total": 15000.0,
+     "count": 25
     },
     {
      "employer": "UNIVERSITY OF PENNSYLVANIA",
-     "total": 8990.0,
-     "count": 11
+     "total": 10880.0,
+     "count": 15
+    },
+    {
+     "employer": "BEECHTREE CAPITAL PARTNERS, INC.",
+     "total": 8500.0,
+     "count": 3
     },
     {
      "employer": "COZEN O'CONNOR",
      "total": 7590.0,
      "count": 8
-    },
-    {
-     "employer": "BEECHTREE CAPITAL PARTNERS, INC.",
-     "total": 7000.0,
-     "count": 2
     },
     {
      "employer": "L&L KILN MFG. INC.",
@@ -1083,12 +1083,12 @@
      "count": 6
     },
     {
-     "employer": "SHRAGER SACHS & BLANCO",
-     "total": 3500.0,
-     "count": 1
+     "employer": "DUANE MORRIS LLP",
+     "total": 3700.0,
+     "count": 5
     },
     {
-     "employer": "SPECTRE'S ROCK MEDIA INC.",
+     "employer": "FRONTERA",
      "total": 3500.0,
      "count": 1
     }
@@ -1096,7 +1096,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

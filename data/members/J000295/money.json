@@ -1754,58 +1754,58 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 385815.0,
+   "itemized_total": 460840.0,
    "home_state": "OH",
-   "home_state_total": 164815.0,
-   "home_state_share": 43,
+   "home_state_total": 195340.0,
+   "home_state_share": 42,
    "top": [
     {
      "state": "OH",
      "state_full": "Ohio",
-     "total": 164815.0,
-     "count": 168
-    },
-    {
-     "state": "DC",
-     "state_full": "District Of Columbia",
-     "total": 38100.0,
-     "count": 36
-    },
-    {
-     "state": "FL",
-     "state_full": "Florida",
-     "total": 29300.0,
-     "count": 16
-    },
-    {
-     "state": "VA",
-     "state_full": "Virginia",
-     "total": 28000.0,
-     "count": 36
+     "total": 195340.0,
+     "count": 188
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 23000.0,
-     "count": 8
+     "total": 46500.0,
+     "count": 21
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 40800.0,
+     "count": 20
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 39100.0,
+     "count": 38
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 30000.0,
+     "count": 38
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 21500.0,
+     "count": 7
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 21300.0,
+     "count": 9
     },
     {
      "state": "MD",
      "state_full": "Maryland",
      "total": 21000.0,
      "count": 17
-    },
-    {
-     "state": "CT",
-     "state_full": "Connecticut",
-     "total": 19500.0,
-     "count": 6
-    },
-    {
-     "state": "CA",
-     "state_full": "California",
-     "total": 18300.0,
-     "count": 7
     },
     {
      "state": "SC",
@@ -1830,19 +1830,14 @@
      "count": 4
     },
     {
+     "employer": "LNE GROUP",
+     "total": 7500.0,
+     "count": 5
+    },
+    {
      "employer": "HOLLAND  KNIGHT",
      "total": 7300.0,
      "count": 4
-    },
-    {
-     "employer": "APOLLO MANAGEMENT",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "BLACKSTONE",
-     "total": 7000.0,
-     "count": 2
     },
     {
      "employer": "MCCAULLEY & CO.",
@@ -1850,9 +1845,9 @@
      "count": 2
     },
     {
-     "employer": "ARROW INTERNATIONAL",
+     "employer": "TRIMBLE",
      "total": 7000.0,
-     "count": 2
+     "count": 3
     },
     {
      "employer": "AUTONODYNE LLC",
@@ -1860,7 +1855,12 @@
      "count": 2
     },
     {
-     "employer": "ANDURIL INDUSTRIES, INC.",
+     "employer": "CROSS POTOMAC CONSULTING",
+     "total": 7000.0,
+     "count": 4
+    },
+    {
+     "employer": "BLACKSTONE",
      "total": 7000.0,
      "count": 2
     },
@@ -1870,15 +1870,15 @@
      "count": 2
     },
     {
-     "employer": "CROSS POTOMAC CONSULTING",
+     "employer": "APOLLO MANAGEMENT",
      "total": 7000.0,
-     "count": 4
+     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

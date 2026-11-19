@@ -1332,7 +1332,7 @@
   {
    "committee_id": "C00856005",
    "name": "FRIENDS OF TIM MOORE",
-   "connected_org": "NC STRONG BUCKHOUT, HARRIGAN, KNOTT, MCDOWELL, MOORE",
+   "connected_org": "MOORE NC VICTORY FUND",
    "total": 2000.0
   },
   {
@@ -2330,10 +2330,10 @@
   "committee_name": "KEAN FOR CONGRESS INC",
   "coverage_start": "2025-01-01T00:00:00",
   "coverage_end": "2026-10-14T00:00:00",
-  "receipts": 6128373.01,
+  "receipts": 6131673.01,
   "amounts": {
-   "individuals_200_or_less": 284602.08,
-   "individuals_over_200": 2506677.99,
+   "individuals_200_or_less": 284535.31,
+   "individuals_over_200": 2510044.76,
    "pacs_and_parties": 1473215.03,
    "candidate_own": 0.0,
    "transfers_from_authorized": 1805421.33,
@@ -2444,17 +2444,12 @@
      "count": 4
     },
     {
-     "employer": "FOUNDERS FUND",
+     "employer": "BLUFF POINT ASSOCIATION",
      "total": 14000.0,
-     "count": 4
+     "count": 5
     },
     {
      "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
-     "employer": "RED ROCK RESORTS",
      "total": 14000.0,
      "count": 4
     },
@@ -2464,9 +2459,14 @@
      "count": 4
     },
     {
-     "employer": "BLUFF POINT ASSOCIATION",
+     "employer": "FOUNDERS FUND",
      "total": 14000.0,
-     "count": 5
+     "count": 4
+    },
+    {
+     "employer": "RED ROCK RESORTS",
+     "total": 14000.0,
+     "count": 4
     },
     {
      "employer": "WSW",
@@ -2482,7 +2482,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

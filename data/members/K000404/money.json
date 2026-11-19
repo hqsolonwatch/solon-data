@@ -129,9 +129,9 @@
   "amounts": {
    "individuals_200_or_less": 875.0,
    "individuals_over_200": 35580.4,
-   "pacs_and_parties": 55254.75,
+   "pacs_and_parties": 51295.52,
    "candidate_own": 0.0,
-   "transfers_from_authorized": 11591.74,
+   "transfers_from_authorized": 15550.97,
    "other_receipts": 84.08
   },
   "types": [
@@ -141,11 +141,11 @@
    ],
    [
     "Individuals giving more than $200",
-    39
+    41
    ],
    [
     "PACs and party committees",
-    60
+    58
    ],
    [
     "Candidate’s own money",
@@ -153,16 +153,22 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 24491.02,
+   "itemized_total": 33641.02,
    "home_state": "MP",
    "home_state_total": 19741.02,
-   "home_state_share": 81,
+   "home_state_share": 59,
    "top": [
     {
      "state": "MP",
      "state_full": "Northern Mariana Islands",
      "total": 19741.02,
      "count": 18
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 9150.0,
+     "count": 11
     },
     {
      "state": "LA",
@@ -203,9 +209,14 @@
      "count": 1
     },
     {
-     "employer": "TAN SUI LIN FOUNDATION",
-     "total": 1000.0,
+     "employer": "QUANTUM ENERGY PARTNERS",
+     "total": 3250.0,
      "count": 1
+    },
+    {
+     "employer": "OWNER",
+     "total": 1500.0,
+     "count": 2
     },
     {
      "employer": "TSL FOUNDATION",
@@ -218,22 +229,17 @@
      "count": 1
     },
     {
-     "employer": "TAN SU LIN CORPORATION",
-     "total": 500.0,
+     "employer": "TAN SUI LIN FOUNDATION",
+     "total": 1000.0,
      "count": 1
     },
     {
-     "employer": "HONG YE CONSTRUCTION",
-     "total": 500.0,
+     "employer": "TRANSATLANTIC PETROLEUM LLC",
+     "total": 1000.0,
      "count": 1
     },
     {
-     "employer": "JC TENORIO ENTERPRISES",
-     "total": 500.0,
-     "count": 1
-    },
-    {
-     "employer": "TRIPLE J MOTORS",
+     "employer": "BUSINESS DEVELOPMENT DIRECTOR",
      "total": 500.0,
      "count": 1
     }
@@ -241,7 +247,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

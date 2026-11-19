@@ -3400,70 +3400,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 10531652.04,
+   "itemized_total": 14330903.0,
    "home_state": "OH",
-   "home_state_total": 5734019.39,
-   "home_state_share": 54,
+   "home_state_total": 7389744.85,
+   "home_state_share": 52,
    "top": [
     {
      "state": "OH",
      "state_full": "Ohio",
-     "total": 5734019.39,
-     "count": 5506
+     "total": 7389744.85,
+     "count": 9655
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 997544.63,
-     "count": 5542
+     "total": 1289845.93,
+     "count": 7729
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 442199.92,
-     "count": 2553
-    },
-    {
-     "state": "NY",
-     "state_full": "New York",
-     "total": 417146.03,
-     "count": 1037
+     "total": 671284.43,
+     "count": 3966
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 364701.54,
-     "count": 5184
+     "total": 598781.1,
+     "count": 7405
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 561431.32,
+     "count": 1501
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 287480.65,
-     "count": 1936
-    },
-    {
-     "state": "TN",
-     "state_full": "Tennessee",
-     "total": 215521.32,
-     "count": 1315
-    },
-    {
-     "state": "MI",
-     "state_full": "Michigan",
-     "total": 179633.66,
-     "count": 440
+     "total": 366470.43,
+     "count": 2903
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 152304.9,
-     "count": 1290
+     "total": 275522.79,
+     "count": 2156
     },
     {
-     "state": "PA",
-     "state_full": "Pennsylvania",
-     "total": 151058.62,
-     "count": 699
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 260687.69,
+     "count": 1855
+    },
+    {
+     "state": "AL",
+     "state_full": "Alabama",
+     "total": 247307.32,
+     "count": 623
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 198218.74,
+     "count": 663
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -3472,8 +3472,8 @@
    "top": [
     {
      "employer": "MARATHON PETROLEUM",
-     "total": 44000.0,
-     "count": 25
+     "total": 45750.0,
+     "count": 28
     },
     {
      "employer": "BLACKSTONE",
@@ -3481,9 +3481,34 @@
      "count": 17
     },
     {
+     "employer": "PRESTON SUPERSTORE",
+     "total": 35000.0,
+     "count": 5
+    },
+    {
+     "employer": "ANTHROPIC",
+     "total": 32000.0,
+     "count": 10
+    },
+    {
+     "employer": "CINCINNATI BENGALS",
+     "total": 28500.0,
+     "count": 12
+    },
+    {
+     "employer": "GE AEROSPACE",
+     "total": 28026.03,
+     "count": 15
+    },
+    {
      "employer": "KKR",
      "total": 27340.91,
      "count": 10
+    },
+    {
+     "employer": "SQUIRE PATTON BOGGS",
+     "total": 27000.0,
+     "count": 15
     },
     {
      "employer": "EMBASSY HEALTHCARE",
@@ -3491,40 +3516,15 @@
      "count": 12
     },
     {
-     "employer": "CINCINNATI BENGALS",
-     "total": 26500.0,
-     "count": 11
-    },
-    {
      "employer": "RDV CORPORATION",
      "total": 26400.0,
      "count": 12
-    },
-    {
-     "employer": "SQUIRE PATTON BOGGS",
-     "total": 25000.0,
-     "count": 13
-    },
-    {
-     "employer": "CENTENE",
-     "total": 22665.3,
-     "count": 16
-    },
-    {
-     "employer": "KETTERING HEALTH",
-     "total": 22250.0,
-     "count": 12
-    },
-    {
-     "employer": "RLJ MANAGEMENT CO. INC.",
-     "total": 22000.0,
-     "count": 5
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

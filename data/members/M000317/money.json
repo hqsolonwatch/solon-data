@@ -1918,8 +1918,8 @@
   "coverage_end": "2026-10-14T00:00:00",
   "receipts": 3315036.94,
   "amounts": {
-   "individuals_200_or_less": 272895.72,
-   "individuals_over_200": 1096062.9,
+   "individuals_200_or_less": 272817.63,
+   "individuals_over_200": 1096140.99,
    "pacs_and_parties": 1328300.0,
    "candidate_own": 0.0,
    "transfers_from_authorized": 490506.24,
@@ -2060,15 +2060,15 @@
      "count": 3
     },
     {
-     "employer": "COINBASE",
+     "employer": "CHARLES  POTOMAC CAPITAL, LLC",
      "total": 7000.0,
-     "count": 3
+     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

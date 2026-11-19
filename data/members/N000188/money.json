@@ -1356,12 +1356,12 @@
      "count": 5
     },
     {
-     "employer": "APOLLO",
+     "employer": "THE FOUR B'S",
      "total": 15500.0,
      "count": 5
     },
     {
-     "employer": "THE FOUR B'S",
+     "employer": "APOLLO",
      "total": 15500.0,
      "count": 5
     },
@@ -1371,17 +1371,17 @@
      "count": 23
     },
     {
+     "employer": "BACH ASSOCIATES, PC",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
      "employer": "HOLT LOGISTICS CORP",
      "total": 10500.0,
      "count": 3
     },
     {
      "employer": "CONNER STRONG & BUCKELEW",
-     "total": 10500.0,
-     "count": 3
-    },
-    {
-     "employer": "BACH ASSOCIATES, PC",
      "total": 10500.0,
      "count": 3
     },
@@ -1404,7 +1404,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

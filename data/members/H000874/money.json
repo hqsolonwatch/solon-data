@@ -650,12 +650,12 @@
      "count": 3
     },
     {
-     "employer": "BARNES LAW GROUP, LLC",
+     "employer": "CREMONA FARM",
      "total": 5000.0,
      "count": 2
     },
     {
-     "employer": "CREMONA FARM",
+     "employer": "BARNES LAW GROUP, LLC",
      "total": 5000.0,
      "count": 2
     },
@@ -670,7 +670,17 @@
      "count": 1
     },
     {
-     "employer": "MOAG AND COMPANY",
+     "employer": "G. S. PROCTOR AND ASSOCIATES",
+     "total": 3000.0,
+     "count": 1
+    },
+    {
+     "employer": "SUMMIT GLOBAL VENTURES",
+     "total": 3000.0,
+     "count": 1
+    },
+    {
+     "employer": "STEPTOE & JOHNSON LLP",
      "total": 3000.0,
      "count": 1
     },
@@ -683,22 +693,12 @@
      "employer": "TIMIOS NATIONAL CORPORATION",
      "total": 3000.0,
      "count": 2
-    },
-    {
-     "employer": "SUMMIT GLOBAL VENTURES",
-     "total": 3000.0,
-     "count": 1
-    },
-    {
-     "employer": "G. S. PROCTOR AND ASSOCIATES",
-     "total": 3000.0,
-     "count": 1
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794344784.7930243,
+ "detail_fetched_ts": 1795090755.707916,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
