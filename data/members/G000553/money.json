@@ -248,22 +248,22 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 951752.3,
+   "itemized_total": 952898.3,
    "home_state": "TX",
-   "home_state_total": 755177.3,
+   "home_state_total": 755948.3,
    "home_state_share": 79,
    "top": [
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 755177.3,
-     "count": 646
+     "total": 755948.3,
+     "count": 666
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 54285.0,
-     "count": 117
+     "total": 54330.0,
+     "count": 120
     },
     {
      "state": "OK",
@@ -324,12 +324,12 @@
      "count": 13
     },
     {
-     "employer": "NAIMEH SALEM & ASSOCIATES",
+     "employer": "PYRAMIDS PHARMACY",
      "total": 16000.0,
      "count": 10
     },
     {
-     "employer": "PYRAMIDS PHARMACY",
+     "employer": "NAIMEH SALEM & ASSOCIATES",
      "total": 16000.0,
      "count": 10
     },
@@ -339,7 +339,12 @@
      "count": 7
     },
     {
-     "employer": "CHINA STAR RESTAURANT GROUP, LLC",
+     "employer": "MEI INC.",
+     "total": 10500.0,
+     "count": 5
+    },
+    {
+     "employer": "CHARITYSTACK",
      "total": 10500.0,
      "count": 5
     },
@@ -354,12 +359,7 @@
      "count": 5
     },
     {
-     "employer": "CHARITYSTACK",
-     "total": 10500.0,
-     "count": 5
-    },
-    {
-     "employer": "MEI INC.",
+     "employer": "CHINA STAR RESTAURANT GROUP, LLC",
      "total": 10500.0,
      "count": 5
     },
@@ -372,7 +372,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

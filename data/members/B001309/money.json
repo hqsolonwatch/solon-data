@@ -475,70 +475,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 892410.18,
+   "itemized_total": 1123316.05,
    "home_state": "TN",
-   "home_state_total": 595510.06,
-   "home_state_share": 67,
+   "home_state_total": 742071.49,
+   "home_state_share": 66,
    "top": [
     {
      "state": "TN",
      "state_full": "Tennessee",
-     "total": 595510.06,
-     "count": 1856
-    },
-    {
-     "state": "FL",
-     "state_full": "Florida",
-     "total": 45362.04,
-     "count": 175
+     "total": 742071.49,
+     "count": 2684
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 44054.03,
-     "count": 271
+     "total": 56296.28,
+     "count": 436
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 54636.93,
+     "count": 249
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 16238.82,
-     "count": 160
+     "total": 21289.09,
+     "count": 228
     },
     {
      "state": "GA",
      "state_full": "Georgia",
-     "total": 14735.61,
-     "count": 68
-    },
-    {
-     "state": "CT",
-     "state_full": "Connecticut",
-     "total": 14604.5,
-     "count": 19
+     "total": 17203.6,
+     "count": 104
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 13829.98,
-     "count": 52
-    },
-    {
-     "state": "NJ",
-     "state_full": "New Jersey",
-     "total": 11169.72,
-     "count": 60
+     "total": 16210.01,
+     "count": 92
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 10836.48,
-     "count": 91
+     "total": 16105.59,
+     "count": 172
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 15229.1,
+     "count": 25
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 12760.36,
+     "count": 88
     },
     {
      "state": "AZ",
      "state_full": "Arizona",
-     "total": 10068.65,
-     "count": 44
+     "total": 12178.58,
+     "count": 86
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -546,9 +546,29 @@
   "donor_employers": {
    "top": [
     {
+     "employer": "UNIVERSITY OF TENNESSEE",
+     "total": 7500.0,
+     "count": 3
+    },
+    {
+     "employer": "ADVANCED FINANCIAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
      "employer": "MPI BUSINESS",
      "total": 7000.0,
      "count": 3
+    },
+    {
+     "employer": "BAILEY SALES",
+     "total": 7000.0,
+     "count": 4
+    },
+    {
+     "employer": "DEROYAL INDUSTRIES",
+     "total": 7000.0,
+     "count": 1
     },
     {
      "employer": "BEAMAN VENTURES",
@@ -561,45 +581,25 @@
      "count": 2
     },
     {
-     "employer": "ADVANCED FINANCIAL",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
      "employer": "MASSMUTUAL",
      "total": 6000.0,
      "count": 3
     },
     {
+     "employer": "GRAHAM CORPORATION",
+     "total": 6000.0,
+     "count": 2
+    },
+    {
      "employer": "LENOIR CITY UTILITIES BOARD",
      "total": 5643.95,
      "count": 4
-    },
-    {
-     "employer": "ECO COMPANIES",
-     "total": 5600.0,
-     "count": 2
-    },
-    {
-     "employer": "FIRST CENTURY BANK",
-     "total": 5500.0,
-     "count": 6
-    },
-    {
-     "employer": "FIRST SAVINGS MORTGAGE",
-     "total": 5000.0,
-     "count": 2
-    },
-    {
-     "employer": "KATOM",
-     "total": 5000.0,
-     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

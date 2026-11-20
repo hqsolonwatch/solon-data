@@ -792,22 +792,28 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 209578.53,
+   "itemized_total": 335950.07,
    "home_state": "SC",
-   "home_state_total": 126208.88,
-   "home_state_share": 60,
+   "home_state_total": 236139.4,
+   "home_state_share": 70,
    "top": [
     {
      "state": "SC",
      "state_full": "South Carolina",
-     "total": 126208.88,
-     "count": 93
+     "total": 236139.4,
+     "count": 134
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 18933.06,
+     "count": 10
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 17500.0,
-     "count": 5
+     "total": 18500.0,
+     "count": 6
     },
     {
      "state": "CT",
@@ -828,22 +834,16 @@
      "count": 3
     },
     {
-     "state": "FL",
-     "state_full": "Florida",
-     "total": 8033.06,
-     "count": 3
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 8054.89,
+     "count": 12
     },
     {
      "state": "NC",
      "state_full": "North Carolina",
      "total": 5260.25,
      "count": 5
-    },
-    {
-     "state": "VA",
-     "state_full": "Virginia",
-     "total": 4554.89,
-     "count": 11
     },
     {
      "state": "MS",
@@ -873,6 +873,26 @@
      "count": 5
     },
     {
+     "employer": "HMR VETERANS SERVICES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "WEST CAROLINA",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "US DEPT OF EDUCATION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "GRAINGER NISSAN",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
      "employer": "PAYROLL & INSURANCE GROUP",
      "total": 7000.0,
      "count": 2
@@ -888,35 +908,15 @@
      "count": 2
     },
     {
-     "employer": "US DEPT OF EDUCATION",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
      "employer": "WEALTH MANAGEMENT",
      "total": 6254.9,
      "count": 6
-    },
-    {
-     "employer": "EXECUTIVE-CONSULTANT",
-     "total": 5337.21,
-     "count": 2
-    },
-    {
-     "employer": "PRESIDENT",
-     "total": 4236.6,
-     "count": 3
-    },
-    {
-     "employer": "REGIONAL VICE PRESIDENT",
-     "total": 3736.6,
-     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

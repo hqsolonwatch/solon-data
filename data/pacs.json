@@ -18901,7 +18901,7 @@
   {
    "id": "C00455766",
    "name": "THE MOSAIC COMPANY POLITICAL ACTION COMMITTEE (MOSAICPAC)",
-   "connected_org": "THE MOSAIC COMPANY",
+   "connected_org": "THE MOSAIC CO.",
    "org_type": "C",
    "type": "N",
    "designation": "U"
@@ -18917,7 +18917,7 @@
   {
    "id": "C00455923",
    "name": "FEDUP POLITICAL ACTION COMMITTEE AKA FEDUP PAC",
-   "connected_org": null,
+   "connected_org": "NONE",
    "org_type": null,
    "type": "O",
    "designation": "U"
@@ -21453,7 +21453,7 @@
   {
    "id": "C00494682",
    "name": "S&P GLOBAL INC. POLITICAL ACTION COMMITTEE",
-   "connected_org": null,
+   "connected_org": "S&P GLOBAL INC.",
    "org_type": "C",
    "type": "Q",
    "designation": "B"
@@ -42029,7 +42029,7 @@
   {
    "id": "C00790949",
    "name": "HEAL PAC",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "U"
@@ -42843,8 +42843,48 @@
    "designation": "U"
   },
   {
+   "id": "C00800032",
+   "name": "TEAM PETE PAC",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "V",
+   "designation": "U"
+  },
+  {
+   "id": "C00800033",
+   "name": "NEW PROGRESSIVE ERA PAC",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "O",
+   "designation": "U"
+  },
+  {
+   "id": "C00800034",
+   "name": "WESTERN DIGITAL CORPORATION POLITICAL ACTION COMMITTEE",
+   "connected_org": "WESTERN DIGITAL CORPORATION",
+   "org_type": "C",
+   "type": "N",
+   "designation": "B"
+  },
+  {
+   "id": "C00800036",
+   "name": "NH SENATE REPUBLICAN NOMINEE FUND 2028",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "N",
+   "designation": "U"
+  },
+  {
    "id": "C00800037",
    "name": "CLIPBOARD PAC",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "N",
+   "designation": "U"
+  },
+  {
+   "id": "C00800038",
+   "name": "OH SENATE REPUBLICAN NOMINEE FUND 2028",
    "connected_org": "NONE",
    "org_type": null,
    "type": "N",
@@ -49517,7 +49557,7 @@
   {
    "id": "C00842104",
    "name": "FIGHT LIKE HELL PAC",
-   "connected_org": null,
+   "connected_org": "NONE",
    "org_type": null,
    "type": "W",
    "designation": "U"
@@ -74723,6 +74763,14 @@
    "designation": "U"
   },
   {
+   "id": "C00935528",
+   "name": "NORTHSTAR PAC",
+   "connected_org": null,
+   "org_type": null,
+   "type": "N",
+   "designation": "U"
+  },
+  {
    "id": "C00935536",
    "name": "NORTH GEORGIANS FOR OUR CONSERVATIVE FUTURE PAC",
    "connected_org": null,
@@ -77877,7 +77925,7 @@
   {
    "id": "C00946236",
    "name": "MICHIGAN VICTORY FUND",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -81733,7 +81781,7 @@
   {
    "id": "C00956169",
    "name": "PAT HALPIN VICTORY FUND",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -81749,7 +81797,7 @@
   {
    "id": "C00956193",
    "name": "PATRIOT MAJORITY FUND",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -85781,7 +85829,7 @@
   {
    "id": "C00963579",
    "name": "GRANITE FREEDOM PAC",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "O",
    "designation": "U"
@@ -86149,7 +86197,7 @@
   {
    "id": "C00964163",
    "name": "ALLIANCE FOR AMERICAN INNOVATION AND RIGHTS",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "V",
    "designation": "B"

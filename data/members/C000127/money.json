@@ -165,70 +165,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 376782.48,
+   "itemized_total": 516717.71,
    "home_state": "WA",
-   "home_state_total": 251038.73,
-   "home_state_share": 67,
+   "home_state_total": 330856.21,
+   "home_state_share": 64,
    "top": [
     {
      "state": "WA",
      "state_full": "Washington",
-     "total": 251038.73,
-     "count": 2650
+     "total": 330856.21,
+     "count": 3615
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 29310.25,
-     "count": 73
+     "total": 41967.0,
+     "count": 100
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 16500.0,
-     "count": 23
+     "total": 27500.0,
+     "count": 34
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 9485.5,
-     "count": 31
-    },
-    {
-     "state": "MD",
-     "state_full": "Maryland",
-     "total": 9180.0,
-     "count": 43
+     "total": 21330.5,
+     "count": 41
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 7435.0,
-     "count": 24
+     "total": 12740.0,
+     "count": 37
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 12290.0,
+     "count": 52
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 6850.0,
-     "count": 4
+     "total": 10950.0,
+     "count": 9
     },
     {
      "state": "OR",
      "state_full": "Oregon",
-     "total": 5260.0,
-     "count": 23
+     "total": 5605.0,
+     "count": 28
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 5500.0,
+     "count": 4
     },
     {
      "state": "OK",
      "state_full": "Oklahoma",
      "total": 5250.0,
      "count": 3
-    },
-    {
-     "state": "AZ",
-     "state_full": "Arizona",
-     "total": 4500.0,
-     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -236,7 +236,17 @@
   "donor_employers": {
    "top": [
     {
+     "employer": "COREWEAVE INC",
+     "total": 9900.0,
+     "count": 3
+    },
+    {
      "employer": "SV ANGEL LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "GIGASCALE CAPITAL FUND LP",
      "total": 7000.0,
      "count": 2
     },
@@ -251,45 +261,35 @@
      "count": 4
     },
     {
+     "employer": "THE BOEING CO",
+     "total": 4075.0,
+     "count": 5
+    },
+    {
      "employer": "SIERRA NEVADA CORP.",
      "total": 3500.0,
      "count": 1
     },
     {
-     "employer": "INCITE.ORG",
+     "employer": "MICROSOFT CORP",
      "total": 3500.0,
      "count": 1
     },
     {
-     "employer": "ARCH VENTURE PARTNERS",
-     "total": 3300.0,
+     "employer": "TRILOGY SEARCH PARTNERS LLC",
+     "total": 3500.0,
      "count": 1
     },
     {
-     "employer": "PISCES INC",
-     "total": 3300.0,
-     "count": 1
-    },
-    {
-     "employer": "CHARLIES PRODUCE",
-     "total": 2900.0,
-     "count": 1
-    },
-    {
-     "employer": "VALLEY VISTA COLLECTIVE LLC",
-     "total": 2500.0,
-     "count": 1
-    },
-    {
-     "employer": "HANFT FRIDE LAW FIRM",
-     "total": 2000.0,
-     "count": 1
+     "employer": "AT&T INC",
+     "total": 3500.0,
+     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

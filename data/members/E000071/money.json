@@ -1470,70 +1470,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 2981085.38,
+   "itemized_total": 4122414.61,
    "home_state": "TX",
-   "home_state_total": 717468.05,
-   "home_state_share": 24,
+   "home_state_total": 888870.06,
+   "home_state_share": 22,
    "top": [
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 717468.05,
-     "count": 14510
+     "total": 888870.06,
+     "count": 22826
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 323849.37,
-     "count": 11477
+     "total": 476534.89,
+     "count": 18107
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 289555.67,
-     "count": 10547
+     "total": 388671.89,
+     "count": 16414
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 127765.75,
-     "count": 2702
+     "total": 180262.32,
+     "count": 5041
     },
     {
      "state": "AZ",
      "state_full": "Arizona",
-     "total": 102319.67,
-     "count": 3997
-    },
-    {
-     "state": "OH",
-     "state_full": "Ohio",
-     "total": 77487.57,
-     "count": 3784
+     "total": 135320.78,
+     "count": 5932
     },
     {
      "state": "GA",
      "state_full": "Georgia",
-     "total": 73454.72,
-     "count": 3569
+     "total": 122563.19,
+     "count": 6149
     },
     {
-     "state": "NY",
-     "state_full": "New York",
-     "total": 70969.76,
-     "count": 2776
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 108960.32,
+     "count": 5467
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 66100.33,
-     "count": 2790
+     "total": 96336.2,
+     "count": 4405
     },
     {
-     "state": "MD",
-     "state_full": "Maryland",
-     "total": 64423.12,
-     "count": 912
+     "state": "NY",
+     "state_full": "New York",
+     "total": 93390.15,
+     "count": 4084
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 84372.26,
+     "count": 3865
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1546,9 +1546,19 @@
      "count": 9
     },
     {
+     "employer": "BGR GROUP",
+     "total": 15000.0,
+     "count": 13
+    },
+    {
      "employer": "BLUE WATER AUTONOMY",
      "total": 14400.0,
      "count": 9
+    },
+    {
+     "employer": "CORNERSTONE GOVERNMENT AFFAIRS",
+     "total": 12500.0,
+     "count": 16
     },
     {
      "employer": "SARONIC TECHNOLOGIES",
@@ -1556,9 +1566,9 @@
      "count": 4
     },
     {
-     "employer": "CORNERSTONE GOVERNMENT AFFAIRS",
-     "total": 11500.0,
-     "count": 15
+     "employer": "THE KOCEN FINANCIAL GROUP, INC.",
+     "total": 10500.0,
+     "count": 3
     },
     {
      "employer": "AXADVOCACY",
@@ -1566,27 +1576,17 @@
      "count": 3
     },
     {
-     "employer": "BGR GROUP",
-     "total": 7500.0,
-     "count": 7
-    },
-    {
      "employer": "MASTER SPAS",
      "total": 7125.0,
      "count": 16
     },
     {
-     "employer": "GRAND AVENUE PHARMACY",
-     "total": 7000.0,
-     "count": 1
-    },
-    {
-     "employer": "WATSON TECHNOLOGY VENTURES LLC",
+     "employer": "KL GATES",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "HUNT CONSOLIDATED, INC.",
+     "employer": "ALBERS AEROSPACE",
      "total": 7000.0,
      "count": 2
     }
@@ -1594,7 +1594,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

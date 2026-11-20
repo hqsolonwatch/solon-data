@@ -1698,70 +1698,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 3736369.86,
+   "itemized_total": 4454717.96,
    "home_state": "TX",
-   "home_state_total": 1502331.0,
-   "home_state_share": 40,
+   "home_state_total": 1909530.19,
+   "home_state_share": 43,
    "top": [
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 1502331.0,
-     "count": 16467
+     "total": 1909530.19,
+     "count": 18854
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 436693.09,
-     "count": 8641
+     "total": 479092.95,
+     "count": 9720
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 281824.88,
-     "count": 7350
+     "total": 314222.02,
+     "count": 8369
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 150433.49,
-     "count": 1850
+     "total": 156933.41,
+     "count": 2062
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 97862.04,
-     "count": 2565
+     "total": 124594.94,
+     "count": 2906
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 70537.48,
-     "count": 2451
+     "total": 86254.11,
+     "count": 2899
     },
     {
      "state": "MO",
      "state_full": "Missouri",
-     "total": 64692.48,
-     "count": 1652
+     "total": 78386.8,
+     "count": 1856
     },
     {
-     "state": "MA",
-     "state_full": "Massachusetts",
-     "total": 64044.4,
-     "count": 773
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 75547.71,
+     "count": 3909
     },
     {
-     "state": "OH",
-     "state_full": "Ohio",
-     "total": 63888.5,
-     "count": 3032
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 72295.3,
+     "count": 3451
     },
     {
      "state": "MI",
      "state_full": "Michigan",
-     "total": 61843.69,
-     "count": 2451
+     "total": 70284.09,
+     "count": 2782
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1789,40 +1789,40 @@
      "count": 5
     },
     {
+     "employer": "RUSSELL PLANTATION",
+     "total": 11000.0,
+     "count": 5
+    },
+    {
      "employer": "ARNOLD VENTURES",
      "total": 10500.0,
      "count": 3
     },
     {
-     "employer": "RUSSELL PLANTATION",
+     "employer": "MANRIQUE CUSTOM VISION",
      "total": 10000.0,
      "count": 4
     },
     {
-     "employer": "ENTREPRENEUR",
-     "total": 8637.01,
+     "employer": "LAS PALMAS VETERINARY HOSPITAL",
+     "total": 9500.0,
      "count": 3
     },
     {
-     "employer": "SILVER EAGLE BEVERAGES",
-     "total": 8500.0,
-     "count": 3
+     "employer": "J.W. FARMS, LTD",
+     "total": 9500.0,
+     "count": 6
     },
     {
-     "employer": "SILVER VENTURES",
-     "total": 8500.0,
-     "count": 4
-    },
-    {
-     "employer": "SRS FARMS",
-     "total": 7500.0,
-     "count": 4
+     "employer": "FOX PACKAGING",
+     "total": 9000.0,
+     "count": 5
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

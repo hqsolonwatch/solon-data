@@ -23,6 +23,27 @@
  },
  "votes": [
   {
+   "vote_id": "house-119-2-327",
+   "date": "2026-11-19",
+   "vote": "Not Voting",
+   "kind": "passage",
+   "question": "On Motion to Suspend the Rules and Pass",
+   "result": "Passed",
+   "bill": {
+    "type": "hr",
+    "number": 4464,
+    "label": "H.R. 4464",
+    "id": "hr4464-119"
+   },
+   "totals": {
+    "yea": 401,
+    "nay": 0,
+    "present": 0,
+    "not_voting": 32
+   },
+   "source_url": "https://clerk.house.gov/evs/2026/roll327.xml"
+  },
+  {
    "vote_id": "house-119-2-326",
    "date": "2026-11-18",
    "vote": "Yea",

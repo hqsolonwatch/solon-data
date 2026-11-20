@@ -858,7 +858,7 @@
   {
    "committee_id": "C00494682",
    "name": "S&P GLOBAL INC. POLITICAL ACTION COMMITTEE",
-   "connected_org": null,
+   "connected_org": "S&P GLOBAL INC.",
    "total": 5000.0
   },
   {
@@ -2465,62 +2465,11 @@
    "note": "Itemized donations from individuals (over $200), by the donor's state."
   },
   "donor_employers": {
-   "top": [
-    {
-     "employer": "CAPITAL GROUP",
-     "total": 70000.0,
-     "count": 29
-    },
-    {
-     "employer": "KKR",
-     "total": 59329.34,
-     "count": 18
-    },
-    {
-     "employer": "FEDEX",
-     "total": 42000.0,
-     "count": 12
-    },
-    {
-     "employer": "WELLS FARGO",
-     "total": 29450.0,
-     "count": 14
-    },
-    {
-     "employer": "APOLLO",
-     "total": 21000.0,
-     "count": 17
-    },
-    {
-     "employer": "ARES MANAGEMENT",
-     "total": 21000.0,
-     "count": 6
-    },
-    {
-     "employer": "FIDELITY INVESTMENTS",
-     "total": 19050.0,
-     "count": 18
-    },
-    {
-     "employer": "AMAZON",
-     "total": 17000.0,
-     "count": 9
-    },
-    {
-     "employer": "APOLLO GLOBAL MANAGEMENT",
-     "total": 16000.0,
-     "count": 11
-    },
-    {
-     "employer": "CITI",
-     "total": 16000.0,
-     "count": 8
-    }
-   ],
+   "top": [],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

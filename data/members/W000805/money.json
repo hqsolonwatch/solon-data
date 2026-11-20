@@ -2214,7 +2214,7 @@
   {
    "committee_id": "C00494682",
    "name": "S&P GLOBAL INC. POLITICAL ACTION COMMITTEE",
-   "connected_org": null,
+   "connected_org": "S&P GLOBAL INC.",
    "total": 2500.0
   },
   {
@@ -3382,70 +3382,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 12714684.55,
+   "itemized_total": 14115192.73,
    "home_state": "VA",
-   "home_state_total": 4493627.45,
-   "home_state_share": 35,
+   "home_state_total": 5325531.66,
+   "home_state_share": 38,
    "top": [
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 4493627.45,
-     "count": 34398
+     "total": 5325531.66,
+     "count": 41662
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 1608655.87,
-     "count": 1368
+     "total": 1689597.87,
+     "count": 1538
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 1212513.22,
-     "count": 1718
+     "total": 1269088.22,
+     "count": 2052
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 966136.31,
-     "count": 1160
+     "total": 1053330.31,
+     "count": 1308
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 739512.56,
-     "count": 1140
+     "total": 812040.06,
+     "count": 1328
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 511066.07,
-     "count": 822
+     "total": 564874.07,
+     "count": 955
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 485532.76,
-     "count": 772
+     "total": 501827.73,
+     "count": 941
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 399161.63,
-     "count": 663
-    },
-    {
-     "state": "CT",
-     "state_full": "Connecticut",
-     "total": 317609.32,
-     "count": 341
+     "total": 452787.13,
+     "count": 764
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 310163.0,
-     "count": 356
+     "total": 324805.0,
+     "count": 430
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 323058.32,
+     "count": 388
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -3453,19 +3453,19 @@
   "donor_employers": {
    "top": [
     {
+     "employer": "AT&T",
+     "total": 70950.0,
+     "count": 58
+    },
+    {
      "employer": "CORNING, INC.",
      "total": 69000.0,
      "count": 32
     },
     {
-     "employer": "AT&T",
-     "total": 68450.0,
-     "count": 57
-    },
-    {
      "employer": "APOLLO GLOBAL MANAGEMENT",
-     "total": 52000.0,
-     "count": 19
+     "total": 53000.0,
+     "count": 20
     },
     {
      "employer": "GOLDMAN SACHS",
@@ -3479,8 +3479,8 @@
     },
     {
      "employer": "UNITED AIRLINES",
-     "total": 44025.0,
-     "count": 47
+     "total": 44175.0,
+     "count": 50
     },
     {
      "employer": "HAVELI INVESTMENTS",
@@ -3493,20 +3493,20 @@
      "count": 11
     },
     {
+     "employer": "COVINGTON & BURLING, LLP",
+     "total": 38300.0,
+     "count": 25
+    },
+    {
      "employer": "GOOGLE, INC.",
      "total": 37600.0,
      "count": 14
-    },
-    {
-     "employer": "VISA, INC.",
-     "total": 37500.0,
-     "count": 22
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

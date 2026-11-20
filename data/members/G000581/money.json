@@ -2662,70 +2662,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 2243086.4,
+   "itemized_total": 2958466.92,
    "home_state": "TX",
-   "home_state_total": 544026.04,
+   "home_state_total": 708381.4,
    "home_state_share": 24,
    "top": [
     {
-     "state": "NY",
-     "state_full": "New York",
-     "total": 608195.0,
-     "count": 306
-    },
-    {
      "state": "TX",
      "state_full": "Texas",
-     "total": 544026.04,
-     "count": 427
+     "total": 708381.4,
+     "count": 574
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 705783.66,
+     "count": 380
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 313629.66,
-     "count": 212
+     "total": 509209.6,
+     "count": 443
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 171394.49,
-     "count": 143
-    },
-    {
-     "state": "CT",
-     "state_full": "Connecticut",
-     "total": 66999.16,
-     "count": 29
+     "total": 216317.84,
+     "count": 218
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 66423.09,
-     "count": 46
-    },
-    {
-     "state": "DC",
-     "state_full": "District Of Columbia",
-     "total": 47127.27,
-     "count": 78
+     "total": 83742.32,
+     "count": 63
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 46049.47,
-     "count": 56
+     "total": 72981.54,
+     "count": 85
     },
     {
-     "state": "WA",
-     "state_full": "Washington",
-     "total": 43784.09,
-     "count": 28
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 70344.86,
+     "count": 37
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 65998.42,
+     "count": 111
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 43529.99,
-     "count": 27
+     "total": 55350.71,
+     "count": 45
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 54738.96,
+     "count": 69
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -2748,6 +2748,16 @@
      "count": 4
     },
     {
+     "employer": "JANE STREET",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ATTORNEY",
+     "total": 10666.66,
+     "count": 7
+    },
+    {
      "employer": "INSIGHT PARTNERS",
      "total": 10500.0,
      "count": 4
@@ -2758,35 +2768,25 @@
      "count": 6
     },
     {
-     "employer": "AUSTIN VENTURES",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "THE RIVERSIDE COMPANY",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "GIVE FORWARD FOUNDATION",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "THE CAPITOL CORP",
-     "total": 7000.0,
+     "employer": "PDT PARTNERS",
+     "total": 8750.0,
      "count": 3
     },
     {
-     "employer": "DEER MANAGEMENT CO LLC",
-     "total": 7000.0,
+     "employer": "SULLIVAN & CROMWELL LLP",
+     "total": 8667.0,
      "count": 3
+    },
+    {
+     "employer": "IBC BANK",
+     "total": 8000.0,
+     "count": 4
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

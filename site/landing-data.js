@@ -6,44 +6,34 @@ var MEMBERS = [
     "name": "Sen. Jon Ossoff",
     "role": "U.S. Senator, Georgia",
     "vote": {
-      "bill": "S. 4668",
-      "title": "Protect College Sports Act of 2026",
-      "summary": "Sets rules for name, image and likeness (NIL) deals for college athletes, caps sports agent fees at 5 percent, and gives schools and conferences a limited antitrust exemption to sell some media rights together.",
-      "cast": "Yea",
-      "result": "Passed 77 to 22",
-      "date": "September 28, 2026",
-      "source": "senate.gov, roll call vote 250, 119th Congress, session 2"
+      "bill": "H.R. 2347",
+      "title": "Survivor Justice Tax Prevention Act",
+      "summary": "Excludes from gross income certain damages received by an individual due to any sexual act or sexual contact and establishes the applicable burden of proof in court proceedings regarding the characterization of such damages for federal tax purposes.",
+      "cast": "Nay",
+      "result": "Passed 62 to 33",
+      "date": "November 19, 2026",
+      "source": "senate.gov, roll call vote 270, 119th Congress, session 2"
     },
     "lobbying": {
       "cycle": "2026 cycle",
       "groups": [
         [
-          "Amazon",
+          "Duke Energy",
           0,
-          4490000
+          2190000
         ],
         [
-          "National Association of Broadcasters",
-          10500,
-          2700000
+          "Corporate Energy Buyers Association",
+          0,
+          140000
         ],
         [
-          "Charter Communications",
+          "National Structured Settlements Trade Association",
           0,
-          2230000
-        ],
-        [
-          "Entertainment Software Association",
-          0,
-          1370000
-        ],
-        [
-          "AFL-CIO",
-          0,
-          920000
+          7000
         ]
       ],
-      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: Amazon (C00360354); National Association of Broadcasters (C00009985); Charter Communications (C00426775); Entertainment Software Association (C00439216); AFL-CIO (C00003806)"
+      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: Duke Energy (C00083535); Corporate Energy Buyers Association (C00917567); National Structured Settlements Trade Association (C00219444)"
     },
     "money": {
       "cycle": "2026 cycle",
@@ -100,44 +90,34 @@ var MEMBERS = [
     "name": "Sen. Susan Collins",
     "role": "U.S. Senator, Maine",
     "vote": {
-      "bill": "S. 4668",
-      "title": "Protect College Sports Act of 2026",
-      "summary": "Sets rules for name, image and likeness (NIL) deals for college athletes, caps sports agent fees at 5 percent, and gives schools and conferences a limited antitrust exemption to sell some media rights together.",
+      "bill": "H.R. 2347",
+      "title": "Survivor Justice Tax Prevention Act",
+      "summary": "Excludes from gross income certain damages received by an individual due to any sexual act or sexual contact and establishes the applicable burden of proof in court proceedings regarding the characterization of such damages for federal tax purposes.",
       "cast": "Yea",
-      "result": "Passed 77 to 22",
-      "date": "September 28, 2026",
-      "source": "senate.gov, roll call vote 250, 119th Congress, session 2"
+      "result": "Passed 62 to 33",
+      "date": "November 19, 2026",
+      "source": "senate.gov, roll call vote 270, 119th Congress, session 2"
     },
     "lobbying": {
       "cycle": "2026 cycle",
       "groups": [
         [
-          "Amazon",
-          7500,
-          4490000
-        ],
-        [
-          "National Association of Broadcasters",
-          12000,
-          2700000
-        ],
-        [
-          "Charter Communications",
+          "Duke Energy",
           0,
-          2230000
+          2190000
         ],
         [
-          "Entertainment Software Association",
-          0,
-          1370000
+          "Corporate Energy Buyers Association",
+          2500,
+          140000
         ],
         [
-          "AFL-CIO",
+          "National Structured Settlements Trade Association",
           0,
-          920000
+          7000
         ]
       ],
-      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: Amazon (C00360354); National Association of Broadcasters (C00009985); Charter Communications (C00426775); Entertainment Software Association (C00439216); AFL-CIO (C00003806)"
+      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: Duke Energy (C00083535); Corporate Energy Buyers Association (C00917567); National Structured Settlements Trade Association (C00219444)"
     },
     "money": {
       "cycle": "2026 cycle",
@@ -188,71 +168,77 @@ var MEMBERS = [
     }
   },
   {
-    "sample": true,
+    "sample": false,
     "party": "Democrat",
     "chamber": "house",
     "name": "Rep. Katherine Clark",
     "role": "U.S. House, Massachusetts District 5",
     "vote": {
-      "bill": "H.R. 9640",
-      "title": "Earth MRI Reauthorization Act of 2026",
-      "summary": "Reauthorizes through FY2031 the Earth Mapping Resources Initiative, a U.S.",
+      "bill": "H.R. 4464",
+      "title": "Preventive Health Savings Act",
+      "summary": "Requires the Congressional Budget Office (CBO), upon receiving a request from Congress, to determine if proposed legislation would reduce spending outside of the 10-year budget window through the use of preventive health care.",
       "cast": "Yea",
-      "result": "Passed 396 to 14",
-      "date": "November 18, 2026",
-      "source": "clerk.house.gov, roll call 326, 2026"
+      "result": "Passed 401 to 0",
+      "date": "November 19, 2026",
+      "source": "clerk.house.gov, roll call 327, 2026"
     },
     "lobbying": {
       "cycle": "2026 cycle",
       "groups": [
         [
-          "[Organization A]",
-          0
+          "American Medical Association",
+          10000,
+          4540000
         ],
         [
-          "[Organization B]",
-          0
+          "American Association of Nurse Practitioners",
+          5000,
+          390000
         ],
         [
-          "[Organization C]",
-          0
+          "Premier",
+          0,
+          260000
         ]
       ],
-      "source": "[Lobbying source]"
+      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: American Medical Association (C00000422, C00003194); American Association of Nurse Practitioners (C00358903); Premier (C00346288)"
     }
   },
   {
-    "sample": true,
+    "sample": false,
     "party": "Republican",
     "chamber": "house",
     "name": "Rep. Tom Emmer",
     "role": "U.S. House, Minnesota District 6",
     "vote": {
-      "bill": "H.R. 9640",
-      "title": "Earth MRI Reauthorization Act of 2026",
-      "summary": "Reauthorizes through FY2031 the Earth Mapping Resources Initiative, a U.S.",
+      "bill": "H.R. 4464",
+      "title": "Preventive Health Savings Act",
+      "summary": "Requires the Congressional Budget Office (CBO), upon receiving a request from Congress, to determine if proposed legislation would reduce spending outside of the 10-year budget window through the use of preventive health care.",
       "cast": "Yea",
-      "result": "Passed 396 to 14",
-      "date": "November 18, 2026",
-      "source": "clerk.house.gov, roll call 326, 2026"
+      "result": "Passed 401 to 0",
+      "date": "November 19, 2026",
+      "source": "clerk.house.gov, roll call 327, 2026"
     },
     "lobbying": {
       "cycle": "2026 cycle",
       "groups": [
         [
-          "[Organization A]",
-          0
+          "American Medical Association",
+          10000,
+          4540000
         ],
         [
-          "[Organization B]",
-          0
+          "American Association of Nurse Practitioners",
+          5000,
+          390000
         ],
         [
-          "[Organization C]",
-          0
+          "Premier",
+          0,
+          260000
         ]
       ],
-      "source": "[Lobbying source]"
+      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: American Medical Association (C00000422, C00003194); American Association of Nurse Practitioners (C00358903); Premier (C00346288)"
     }
   }
 ];
@@ -538,14 +524,14 @@ var ROLLCALLS = {
     ],
     [
       "Nov 2026",
-      12,
-      12
+      13,
+      15
     ]
   ],
   "meta": {
     "start": "January 3, 2025",
-    "through": "November 18, 2026",
-    "total": 1615,
+    "through": "November 19, 2026",
+    "total": 1619,
     "election": {
       "date": "November 3, 2026",
       "month": "Nov 2026",
@@ -556,7 +542,7 @@ var ROLLCALLS = {
 };
 
 var SCHEDULE = {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "house": {
     "week": "November 16",
     "rows": [
@@ -588,12 +574,5 @@ var SCHEDULE = {
     "listed": 15,
     "source": "docs.house.gov floor schedule; results from House Clerk roll calls 324 and 325"
   },
-  "senate": [
-    {
-      "bill": "H.R. 2347",
-      "title": "Survivor Justice Tax Prevention Act",
-      "note": "The Senate voted 65 to 31 on November 18 to end debate on the bill. More votes on it are expected.",
-      "status": "Expected"
-    }
-  ]
+  "senate": []
 };

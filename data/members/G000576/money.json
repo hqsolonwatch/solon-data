@@ -791,28 +791,34 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 552869.91,
+   "itemized_total": 665545.41,
    "home_state": "WI",
-   "home_state_total": 462933.14,
-   "home_state_share": 84,
+   "home_state_total": 562603.64,
+   "home_state_share": 85,
    "top": [
     {
      "state": "WI",
      "state_full": "Wisconsin",
-     "total": 462933.14,
-     "count": 835
+     "total": 562603.64,
+     "count": 1060
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 29085.0,
-     "count": 20
+     "total": 29590.0,
+     "count": 22
     },
     {
      "state": "IL",
      "state_full": "Illinois",
      "total": 14000.0,
      "count": 4
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 13600.0,
+     "count": 6
     },
     {
      "state": "NV",
@@ -823,14 +829,14 @@
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 10250.0,
-     "count": 15
+     "total": 12250.0,
+     "count": 17
     },
     {
-     "state": "MI",
-     "state_full": "Michigan",
-     "total": 10100.0,
-     "count": 3
+     "state": "IN",
+     "state_full": "Indiana",
+     "total": 4500.0,
+     "count": 6
     },
     {
      "state": "WY",
@@ -841,20 +847,14 @@
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 3108.05,
-     "count": 7
+     "total": 3608.05,
+     "count": 8
     },
     {
-     "state": "DE",
-     "state_full": "Delaware",
-     "total": 2000.0,
-     "count": 4
-    },
-    {
-     "state": "IN",
-     "state_full": "Indiana",
-     "total": 1500.0,
-     "count": 3
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 3000.0,
+     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -867,19 +867,34 @@
      "count": 4
     },
     {
+     "employer": "SCOTT CONSTRUCTION INC.",
+     "total": 11000.0,
+     "count": 14
+    },
+    {
+     "employer": "EDWARD C LEVY CO",
+     "total": 10500.0,
+     "count": 5
+    },
+    {
      "employer": "EPIC",
      "total": 10200.0,
      "count": 5
     },
     {
-     "employer": "EDWARD C LEVY CO",
-     "total": 10100.0,
+     "employer": "WEIMER BEARING",
+     "total": 8000.0,
+     "count": 6
+    },
+    {
+     "employer": "WIESER CONCRETE",
+     "total": 7005.0,
      "count": 3
     },
     {
-     "employer": "ULINE",
+     "employer": "HARTUNG BROTHERS INC",
      "total": 7000.0,
-     "count": 2
+     "count": 4
     },
     {
      "employer": "ULINE CORP",
@@ -887,27 +902,12 @@
      "count": 2
     },
     {
-     "employer": "SARGENTO",
+     "employer": "HENDRICKS HOLDING",
      "total": 7000.0,
      "count": 2
-    },
-    {
-     "employer": "COLUMBUS CHEMICAL INDUSTRIES INC",
-     "total": 7000.0,
-     "count": 3
     },
     {
      "employer": "CONTINENTAL PROPERTIES COMPANY INC.",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "OHARE WEALTH MANAGEMENT",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "HENDRICKS HOLDING",
      "total": 7000.0,
      "count": 2
     }
@@ -915,7 +915,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

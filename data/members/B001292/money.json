@@ -1356,58 +1356,58 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1465500.42,
+   "itemized_total": 1601352.8,
    "home_state": "VA",
-   "home_state_total": 884625.08,
-   "home_state_share": 60,
+   "home_state_total": 969707.46,
+   "home_state_share": 61,
    "top": [
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 884625.08,
-     "count": 1597
+     "total": 969707.46,
+     "count": 2033
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 197330.0,
-     "count": 171
+     "total": 216180.0,
+     "count": 197
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 92800.0,
-     "count": 34
+     "total": 95300.0,
+     "count": 36
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 54100.0,
-     "count": 37
+     "total": 54650.0,
+     "count": 40
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 43750.0,
-     "count": 20
-    },
-    {
-     "state": "FL",
-     "state_full": "Florida",
-     "total": 35800.0,
-     "count": 15
+     "total": 47750.0,
+     "count": 22
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 34350.0,
-     "count": 48
+     "total": 37550.0,
+     "count": 54
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 36800.0,
+     "count": 16
     },
     {
      "state": "WA",
      "state_full": "Washington",
-     "total": 16500.0,
-     "count": 5
+     "total": 24000.0,
+     "count": 8
     },
     {
      "state": "IL",
@@ -1442,9 +1442,24 @@
      "count": 4
     },
     {
+     "employer": "ARNOLD & PORTER",
+     "total": 10000.0,
+     "count": 9
+    },
+    {
+     "employer": "CALVIN CAFRITZ ENTERPRISES",
+     "total": 8500.0,
+     "count": 3
+    },
+    {
      "employer": "MACHINE INTELLIGENCE RESEARCH INSTITUT",
      "total": 8500.0,
      "count": 3
+    },
+    {
+     "employer": "ARNOLD VENTURES",
+     "total": 7000.0,
+     "count": 2
     },
     {
      "employer": "DAVIS POLK & WARDWELL",
@@ -1452,27 +1467,12 @@
      "count": 2
     },
     {
-     "employer": "SRA",
+     "employer": "NVR, INC.",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "NEWS CORP",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "ARNOLD & PORTER",
-     "total": 7000.0,
-     "count": 6
-    },
-    {
-     "employer": "MCARTHURGLEN",
-     "total": 7000.0,
-     "count": 4
-    },
-    {
-     "employer": "IDEAL INNOVATIONS INC.",
+     "employer": "STANLEY MARTIN COMPANIES",
      "total": 7000.0,
      "count": 2
     }
@@ -1480,7 +1480,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -1403,62 +1403,11 @@
    "note": "Itemized donations from individuals (over $200), by the donor's state."
   },
   "donor_employers": {
-   "top": [
-    {
-     "employer": "COMPASS OPERATING",
-     "total": 21000.0,
-     "count": 6
-    },
-    {
-     "employer": "FREEMAN MATHIS & GARY, LLP",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
-     "employer": "ARENA ENERGY",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
-     "employer": "LANIER LAW FIRM",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
-     "employer": "ARSENAL CAPITAL PARTNERS",
-     "total": 14000.0,
-     "count": 8
-    },
-    {
-     "employer": "KINDER FOUNDATION",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
-     "employer": "ARNOLD VENTURES",
-     "total": 7250.0,
-     "count": 3
-    },
-    {
-     "employer": "WILLIAMS BROS CONSTRUCTION",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "MCCORD DEVELOPMENT",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "CHARLES  POTOMAC CAPITAL, LLC",
-     "total": 7000.0,
-     "count": 3
-    }
-   ],
+   "top": [],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

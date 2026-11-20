@@ -1878,10 +1878,10 @@
   "committee_name": "VINDMAN FOR CONGRESS",
   "coverage_start": "2025-01-01T00:00:00",
   "coverage_end": "2026-10-14T00:00:00",
-  "receipts": 16339249.68,
+  "receipts": 16339333.68,
   "amounts": {
-   "individuals_200_or_less": 8496622.02,
-   "individuals_over_200": 6470981.43,
+   "individuals_200_or_less": 8496272.02,
+   "individuals_over_200": 6471415.43,
    "pacs_and_parties": 1004880.25,
    "candidate_own": 715.67,
    "transfers_from_authorized": 225445.27,
@@ -2030,7 +2030,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -2106,7 +2106,7 @@
   {
    "committee_id": "C00494682",
    "name": "S&P GLOBAL INC. POLITICAL ACTION COMMITTEE",
-   "connected_org": null,
+   "connected_org": "S&P GLOBAL INC.",
    "total": 1000.0
   },
   {
@@ -2938,16 +2938,16 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 8992636.05,
+   "itemized_total": 8992923.55,
    "home_state": "TX",
-   "home_state_total": 5491395.62,
+   "home_state_total": 5491624.19,
    "home_state_share": 61,
    "top": [
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 5491395.62,
-     "count": 6888
+     "total": 5491624.19,
+     "count": 6889
     },
     {
      "state": "FL",
@@ -3062,7 +3062,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

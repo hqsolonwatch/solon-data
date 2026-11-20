@@ -1164,22 +1164,22 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 496804.72,
+   "itemized_total": 591904.72,
    "home_state": "TX",
-   "home_state_total": 265070.2,
-   "home_state_share": 53,
+   "home_state_total": 333170.2,
+   "home_state_share": 56,
    "top": [
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 265070.2,
-     "count": 190
+     "total": 333170.2,
+     "count": 246
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 53000.0,
-     "count": 18
+     "total": 53500.0,
+     "count": 19
     },
     {
      "state": "NJ",
@@ -1190,26 +1190,26 @@
     {
      "state": "CA",
      "state_full": "California",
-     "total": 28484.52,
-     "count": 14
+     "total": 29484.52,
+     "count": 15
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 23000.0,
-     "count": 29
+     "total": 24500.0,
+     "count": 31
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 17750.0,
+     "count": 10
     },
     {
      "state": "LA",
      "state_full": "Louisiana",
      "total": 17500.0,
      "count": 5
-    },
-    {
-     "state": "FL",
-     "state_full": "Florida",
-     "total": 13750.0,
-     "count": 7
     },
     {
      "state": "DC",
@@ -1220,14 +1220,14 @@
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 9500.0,
-     "count": 5
+     "total": 12500.0,
+     "count": 6
     },
     {
-     "state": "MA",
-     "state_full": "Massachusetts",
-     "total": 7200.0,
-     "count": 8
+     "state": "IN",
+     "state_full": "Indiana",
+     "total": 7500.0,
+     "count": 4
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1235,14 +1235,9 @@
   "donor_employers": {
    "top": [
     {
-     "employer": "BANKERS LIFE",
-     "total": 7500.0,
-     "count": 4
-    },
-    {
-     "employer": "SUGAR & SPICE BAKERY",
-     "total": 7500.0,
-     "count": 4
+     "employer": "MONARCH FINANCIAL",
+     "total": 8500.0,
+     "count": 2
     },
     {
      "employer": "US ENERGY STREAM, INC.",
@@ -1250,12 +1245,27 @@
      "count": 9
     },
     {
-     "employer": "FISHER INVESTMENTS",
+     "employer": "SUGAR & SPICE BAKERY",
+     "total": 7500.0,
+     "count": 4
+    },
+    {
+     "employer": "BANKERS LIFE",
+     "total": 7500.0,
+     "count": 4
+    },
+    {
+     "employer": "ELLIOTT INVESTMENT MANAGEMENT",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "REJUVENATE CARE LLC",
+     "employer": "AKIN GUMP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ABC",
      "total": 7000.0,
      "count": 2
     },
@@ -1265,22 +1275,12 @@
      "count": 2
     },
     {
-     "employer": "BEAL BANK",
+     "employer": "ASCENSION BIOLOGICS LLC",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "PLANO 6500 LLC",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "CYTOGENESIS INC",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "ELLIOTT INVESTMENT MANAGEMENT",
+     "employer": "NAPOLIS ITALIAN RESTAURANT",
      "total": 7000.0,
      "count": 2
     }
@@ -1288,7 +1288,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -876,76 +876,81 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 2186870.17,
+   "itemized_total": 2591170.23,
    "home_state": "TX",
-   "home_state_total": 584294.67,
-   "home_state_share": 27,
+   "home_state_total": 662688.57,
+   "home_state_share": 26,
    "top": [
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 584294.67,
-     "count": 6103
+     "total": 662688.57,
+     "count": 7815
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 314758.78,
-     "count": 4912
+     "total": 360116.35,
+     "count": 6130
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 147481.88,
-     "count": 4796
+     "total": 178816.46,
+     "count": 6186
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 119349.88,
-     "count": 1243
+     "total": 151762.35,
+     "count": 1860
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 78598.67,
-     "count": 1774
+     "total": 94686.63,
+     "count": 2079
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 59397.01,
-     "count": 921
+     "total": 72640.36,
+     "count": 1203
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 56362.61,
-     "count": 507
+     "total": 65713.63,
+     "count": 600
     },
     {
      "state": "AZ",
      "state_full": "Arizona",
-     "total": 55532.02,
-     "count": 1957
+     "total": 64082.13,
+     "count": 2436
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 56846.37,
+     "count": 73
     },
     {
      "state": "LA",
      "state_full": "Louisiana",
-     "total": 52665.16,
-     "count": 810
-    },
-    {
-     "state": "GA",
-     "state_full": "Georgia",
-     "total": 45455.86,
-     "count": 1638
+     "total": 56771.98,
+     "count": 983
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
   },
   "donor_employers": {
    "top": [
+    {
+     "employer": "NAVIGATORS GLOBAL",
+     "total": 9000.0,
+     "count": 10
+    },
     {
      "employer": "ALBERS AEROSPACDE",
      "total": 8750.0,
@@ -962,12 +967,27 @@
      "count": 3
     },
     {
-     "employer": "FERMI",
+     "employer": "C6 STRATEGIES",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "CHAMPION FEEDERS",
+     "employer": "JFB CONSTRUCTION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "GOP JERSEYS LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "DETROIT AXEL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ADVANCED FIXTURES INC",
      "total": 7000.0,
      "count": 2
     },
@@ -975,32 +995,12 @@
      "employer": "HOLLY STRATEGIES INCORPORATED",
      "total": 7000.0,
      "count": 2
-    },
-    {
-     "employer": "MISSION SITE SERVICES",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "MORAN GLOBAL STRATEGIES",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "CHESTER LIMITED III LLC",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "C6 STRATEGIES",
-     "total": 7000.0,
-     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

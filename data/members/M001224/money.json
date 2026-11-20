@@ -1893,62 +1893,11 @@
    "note": "Itemized donations from individuals (over $200), by the donor's state."
   },
   "donor_employers": {
-   "top": [
-    {
-     "employer": "CHARTER BROKERAGE LLC",
-     "total": 20500.0,
-     "count": 11
-    },
-    {
-     "employer": "LANIER LAW FIRM",
-     "total": 16000.0,
-     "count": 6
-    },
-    {
-     "employer": "ARNOLD VENTURES",
-     "total": 10500.0,
-     "count": 3
-    },
-    {
-     "employer": "ANTHROPIC",
-     "total": 10500.0,
-     "count": 3
-    },
-    {
-     "employer": "CHARTER BROKERAGE",
-     "total": 9375.0,
-     "count": 7
-    },
-    {
-     "employer": "MEHLMAN CONSULTING",
-     "total": 9000.0,
-     "count": 8
-    },
-    {
-     "employer": "OGR",
-     "total": 8500.0,
-     "count": 12
-    },
-    {
-     "employer": "OFFENHAUSER & CO",
-     "total": 7100.0,
-     "count": 3
-    },
-    {
-     "employer": "THE JOHNSON FIRM",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "NULLFRAME, INC",
-     "total": 7000.0,
-     "count": 3
-    }
-   ],
+   "top": [],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

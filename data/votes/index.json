@@ -1,6 +1,177 @@
 {
- "count": 1615,
+ "count": 1619,
  "votes": [
+  {
+   "id": "senate-119-2-271",
+   "chamber": "senate",
+   "congress": 119,
+   "session": 2,
+   "number": 271,
+   "date": "2026-11-19",
+   "question": "On the Cloture Motion",
+   "kind": "cloture",
+   "result": "Cloture Motion Agreed to (48-46)",
+   "bill": null,
+   "totals": {
+    "yea": 48,
+    "nay": 46,
+    "present": 0,
+    "not_voting": 6
+   },
+   "by_party": {
+    "D": {
+     "yea": 0,
+     "nay": 44,
+     "present": 0,
+     "not-voting": 1
+    },
+    "R": {
+     "yea": 48,
+     "nay": 0,
+     "present": 0,
+     "not-voting": 5
+    },
+    "I": {
+     "yea": 0,
+     "nay": 2,
+     "present": 0,
+     "not-voting": 0
+    }
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00271.xml"
+  },
+  {
+   "id": "senate-119-2-270",
+   "chamber": "senate",
+   "congress": 119,
+   "session": 2,
+   "number": 270,
+   "date": "2026-11-19",
+   "question": "On Passage of the Bill",
+   "kind": "passage",
+   "result": "Bill Passed (62-33)",
+   "bill": {
+    "type": "hr",
+    "number": 2347,
+    "label": "H.R. 2347",
+    "id": "hr2347-119"
+   },
+   "totals": {
+    "yea": 62,
+    "nay": 33,
+    "present": 0,
+    "not_voting": 5
+   },
+   "by_party": {
+    "D": {
+     "yea": 14,
+     "nay": 30,
+     "present": 0,
+     "not-voting": 1
+    },
+    "R": {
+     "yea": 47,
+     "nay": 2,
+     "present": 0,
+     "not-voting": 4
+    },
+    "I": {
+     "yea": 1,
+     "nay": 1,
+     "present": 0,
+     "not-voting": 0
+    }
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00270.xml"
+  },
+  {
+   "id": "senate-119-2-269",
+   "chamber": "senate",
+   "congress": 119,
+   "session": 2,
+   "number": 269,
+   "date": "2026-11-19",
+   "question": "On the Concurrent Resolution",
+   "kind": "passage",
+   "result": "Concurrent Resolution Rejected (48-51)",
+   "bill": {
+    "type": "hconres",
+    "number": 93,
+    "label": "H.Con.Res. 93",
+    "id": "hconres93-119"
+   },
+   "totals": {
+    "yea": 48,
+    "nay": 51,
+    "present": 0,
+    "not_voting": 1
+   },
+   "by_party": {
+    "D": {
+     "yea": 43,
+     "nay": 1,
+     "present": 0,
+     "not-voting": 1
+    },
+    "R": {
+     "yea": 3,
+     "nay": 50,
+     "present": 0,
+     "not-voting": 0
+    },
+    "I": {
+     "yea": 2,
+     "nay": 0,
+     "present": 0,
+     "not-voting": 0
+    }
+   },
+   "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00269.xml"
+  },
+  {
+   "id": "house-119-2-327",
+   "chamber": "house",
+   "congress": 119,
+   "session": 2,
+   "number": 327,
+   "date": "2026-11-19",
+   "question": "On Motion to Suspend the Rules and Pass",
+   "kind": "passage",
+   "result": "Passed",
+   "bill": {
+    "type": "hr",
+    "number": 4464,
+    "label": "H.R. 4464",
+    "id": "hr4464-119"
+   },
+   "totals": {
+    "yea": 401,
+    "nay": 0,
+    "present": 0,
+    "not_voting": 32
+   },
+   "by_party": {
+    "Republican": {
+     "yea": 197,
+     "nay": 0,
+     "present": 0,
+     "not-voting": 21
+    },
+    "Democratic": {
+     "yea": 204,
+     "nay": 0,
+     "present": 0,
+     "not-voting": 10
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "present": 0,
+     "not-voting": 1
+    }
+   },
+   "source_url": "https://clerk.house.gov/evs/2026/roll327.xml"
+  },
   {
    "id": "senate-119-2-268",
    "chamber": "senate",

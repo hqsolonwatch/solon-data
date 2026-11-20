@@ -930,70 +930,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1966324.93,
+   "itemized_total": 3193704.88,
    "home_state": "TX",
-   "home_state_total": 948677.48,
-   "home_state_share": 48,
+   "home_state_total": 1255546.17,
+   "home_state_share": 39,
    "top": [
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 948677.48,
-     "count": 10856
+     "total": 1255546.17,
+     "count": 17052
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 174927.29,
-     "count": 5956
+     "total": 328723.48,
+     "count": 10276
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 147084.97,
-     "count": 5364
+     "total": 268206.99,
+     "count": 8956
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 55086.44,
-     "count": 1720
+     "total": 89248.61,
+     "count": 2802
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 44235.81,
-     "count": 1187
-    },
-    {
-     "state": "OH",
-     "state_full": "Ohio",
-     "total": 43464.29,
-     "count": 1618
+     "total": 76198.74,
+     "count": 2078
     },
     {
      "state": "GA",
      "state_full": "Georgia",
-     "total": 40148.95,
-     "count": 2512
+     "total": 76146.64,
+     "count": 3702
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 65430.97,
+     "count": 2355
     },
     {
      "state": "TN",
      "state_full": "Tennessee",
-     "total": 38973.52,
-     "count": 1424
+     "total": 65333.64,
+     "count": 2072
     },
     {
      "state": "AZ",
      "state_full": "Arizona",
-     "total": 34509.06,
-     "count": 1102
+     "total": 64719.79,
+     "count": 2000
     },
     {
      "state": "PA",
      "state_full": "Pennsylvania",
-     "total": 32347.92,
-     "count": 1600
+     "total": 60086.53,
+     "count": 2833
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1002,8 +1002,8 @@
    "top": [
     {
      "employer": "ENTREPRENEUR",
-     "total": 21216.11,
-     "count": 211
+     "total": 33717.45,
+     "count": 366
     },
     {
      "employer": "CNA METALS",
@@ -1031,14 +1031,14 @@
      "count": 7
     },
     {
-     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
-     "total": 14000.0,
-     "count": 8
-    },
-    {
      "employer": "JAIN & JAIN PC",
      "total": 14000.0,
      "count": 4
+    },
+    {
+     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
+     "total": 14000.0,
+     "count": 8
     },
     {
      "employer": "LEGACY MEDICAL CONSULTANTS",
@@ -1046,15 +1046,15 @@
      "count": 5
     },
     {
-     "employer": "GLAZERS BEER",
-     "total": 12000.0,
-     "count": 6
+     "employer": "FIRST STATE BANK",
+     "total": 13100.0,
+     "count": 10
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

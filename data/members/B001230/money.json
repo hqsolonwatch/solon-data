@@ -722,70 +722,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1213884.09,
+   "itemized_total": 1856903.8,
    "home_state": "WI",
-   "home_state_total": 734916.58,
-   "home_state_share": 61,
+   "home_state_total": 1093207.69,
+   "home_state_share": 59,
    "top": [
     {
      "state": "WI",
      "state_full": "Wisconsin",
-     "total": 734916.58,
-     "count": 9521
+     "total": 1093207.69,
+     "count": 12743
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 90788.0,
-     "count": 1657
+     "total": 151360.86,
+     "count": 2088
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 51923.83,
-     "count": 548
+     "total": 89425.67,
+     "count": 686
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 43739.5,
-     "count": 370
+     "total": 66074.5,
+     "count": 522
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 39376.5,
-     "count": 143
-    },
-    {
-     "state": "FL",
-     "state_full": "Florida",
-     "total": 21226.83,
-     "count": 357
-    },
-    {
-     "state": "TX",
-     "state_full": "Texas",
-     "total": 19780.5,
-     "count": 350
+     "total": 60113.0,
+     "count": 192
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 18402.68,
-     "count": 295
+     "total": 46519.86,
+     "count": 367
     },
     {
-     "state": "MA",
-     "state_full": "Massachusetts",
-     "total": 18290.25,
-     "count": 243
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 32863.5,
+     "count": 459
     },
     {
      "state": "MN",
      "state_full": "Minnesota",
-     "total": 16503.5,
-     "count": 336
+     "total": 32413.0,
+     "count": 458
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 29452.22,
+     "count": 304
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 26568.08,
+     "count": 462
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -799,13 +799,33 @@
     },
     {
      "employer": "EPIC",
-     "total": 8794.0,
-     "count": 30
+     "total": 9304.0,
+     "count": 36
+    },
+    {
+     "employer": "ULTRATEC INC",
+     "total": 9300.0,
+     "count": 4
     },
     {
      "employer": "UNIVERSITY OF WISCONSIN",
-     "total": 6820.0,
-     "count": 43
+     "total": 7805.0,
+     "count": 54
+    },
+    {
+     "employer": "CSA PARTNERS",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "BELL AMBULANCE INC.",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "FEDERAL GOVERNMENT",
+     "total": 6600.0,
+     "count": 2
     },
     {
      "employer": "OSHKOSH CORPORATION",
@@ -813,40 +833,20 @@
      "count": 10
     },
     {
-     "employer": "ULTRATEC INC",
-     "total": 6000.0,
-     "count": 3
-    },
-    {
      "employer": "APPLE FARM MANAGEMENT INC",
      "total": 5609.3,
      "count": 39
     },
     {
-     "employer": "URBAN LAND INTERESTS",
-     "total": 4500.0,
-     "count": 3
-    },
-    {
-     "employer": "DB3",
-     "total": 4000.0,
+     "employer": "EXACT SCIENCES",
+     "total": 5000.0,
      "count": 4
-    },
-    {
-     "employer": "ARNOLD VENTURES",
-     "total": 3500.0,
-     "count": 1
-    },
-    {
-     "employer": "BELL AMBULANCE INC.",
-     "total": 3500.0,
-     "count": 1
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

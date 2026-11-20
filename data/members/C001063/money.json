@@ -1642,70 +1642,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1165831.04,
+   "itemized_total": 1653268.91,
    "home_state": "TX",
-   "home_state_total": 588416.61,
-   "home_state_share": 50,
+   "home_state_total": 799341.61,
+   "home_state_share": 48,
    "top": [
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 588416.61,
-     "count": 556
+     "total": 799341.61,
+     "count": 788
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 140673.5,
-     "count": 69
+     "total": 240173.5,
+     "count": 154
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 62458.98,
-     "count": 37
-    },
-    {
-     "state": "MA",
-     "state_full": "Massachusetts",
-     "total": 53402.68,
-     "count": 41
-    },
-    {
-     "state": "VA",
-     "state_full": "Virginia",
-     "total": 45821.44,
-     "count": 44
-    },
-    {
-     "state": "DC",
-     "state_full": "District Of Columbia",
-     "total": 42155.53,
-     "count": 51
+     "total": 119827.32,
+     "count": 66
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 41548.08,
-     "count": 40
+     "total": 63798.08,
+     "count": 52
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 60933.74,
+     "count": 62
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 59405.53,
+     "count": 75
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 55771.44,
+     "count": 60
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 25726.2,
-     "count": 22
+     "total": 38190.49,
+     "count": 36
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 16730.0,
-     "count": 21
+     "total": 22315.72,
+     "count": 31
     },
     {
-     "state": "OK",
-     "state_full": "Oklahoma",
-     "total": 12453.85,
-     "count": 6
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 14750.0,
+     "count": 11
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1724,21 +1724,11 @@
     },
     {
      "employer": "AKIN GUMP",
-     "total": 7300.0,
-     "count": 4
+     "total": 8800.0,
+     "count": 6
     },
     {
-     "employer": "HONOR NYC",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "CLERMONT LLC",
-     "total": 7000.0,
-     "count": 4
-    },
-    {
-     "employer": "TACO PALENQUE",
+     "employer": "VELA JUSTICE",
      "total": 7000.0,
      "count": 2
     },
@@ -1748,12 +1738,22 @@
      "count": 2
     },
     {
-     "employer": "PALO ALTO UNIFIED SCHOOL DISTRICT",
+     "employer": "MASS GENERAL HOSPITAL",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "BOOZ ALLEN HAMILTON",
+     "employer": "CLARKSON AEROSPACE CORPORATION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "DEFENSE CONTRACT MANAGEMENT AGENCY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "STARR CAMARGO BRIDGE CO.",
      "total": 7000.0,
      "count": 2
     },
@@ -1766,7 +1766,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

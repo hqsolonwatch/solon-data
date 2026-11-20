@@ -1,0 +1,265 @@
+{
+ "bill": "hr4464-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "fetched_ts": 1795177572,
+ "report_count": 14,
+ "clients": [
+  {
+   "client": "AMERICAN MEDICAL ASSOCIATION",
+   "display_name": "American Medical Association",
+   "reports": 2,
+   "latest_report_amount": 4540000.0,
+   "latest_report": "ccff0e9d-4c23-4c7b-a1dc-e73fa1ee1242",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00000422",
+    "C00003194"
+   ],
+   "pac_names": [
+    "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+    "CALIFORNIA MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE - FEDERAL"
+   ]
+  },
+  {
+   "client": "AMERICAN ASSOCIATION OF NURSE PRACTITIONERS",
+   "display_name": "American Association of Nurse Practitioners",
+   "reports": 1,
+   "latest_report_amount": 390000.0,
+   "latest_report": "3e406975-22d3-4e20-bce1-88984977adfc",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00358903"
+   ],
+   "pac_names": [
+    "AMERICAN ASSOCIATION OF NURSE PRACTITIONERS POLITICAL ACTION COMMITTEE"
+   ]
+  },
+  {
+   "client": "PREMIER, INC.",
+   "display_name": "Premier",
+   "reports": 5,
+   "latest_report_amount": 260000.0,
+   "latest_report": "e4c35c60-3a7a-49a6-8edc-83a1721d2d50",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00346288"
+   ],
+   "pac_names": [
+    "THE PREMIER, INC. EMPLOYEES' CIVIC ACTION FUND"
+   ]
+  },
+  {
+   "client": "HEALTHCARE LEADERSHIP COUNCIL",
+   "display_name": "Healthcare Leadership Council",
+   "reports": 4,
+   "latest_report_amount": 200000.0,
+   "latest_report": "c6060d9e-8ef2-44aa-8a08-702a00dba278",
+   "latest_report_period": "2026 second_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "AMERICAN COLLEGE OF PREVENTIVE MEDICINE",
+   "display_name": "American College of Preventive Medicine",
+   "reports": 2,
+   "latest_report_amount": null,
+   "latest_report": "933187d3-1199-40af-b21e-3f8539d7c42d",
+   "latest_report_period": "2025 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  }
+ ],
+ "groups_shown": [
+  {
+   "client": "AMERICAN MEDICAL ASSOCIATION",
+   "display_name": "American Medical Association",
+   "reports": 2,
+   "latest_report_amount": 4540000.0,
+   "latest_report": "ccff0e9d-4c23-4c7b-a1dc-e73fa1ee1242",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00000422",
+    "C00003194"
+   ],
+   "pac_names": [
+    "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+    "CALIFORNIA MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE - FEDERAL"
+   ]
+  },
+  {
+   "client": "AMERICAN ASSOCIATION OF NURSE PRACTITIONERS",
+   "display_name": "American Association of Nurse Practitioners",
+   "reports": 1,
+   "latest_report_amount": 390000.0,
+   "latest_report": "3e406975-22d3-4e20-bce1-88984977adfc",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00358903"
+   ],
+   "pac_names": [
+    "AMERICAN ASSOCIATION OF NURSE PRACTITIONERS POLITICAL ACTION COMMITTEE"
+   ]
+  },
+  {
+   "client": "PREMIER, INC.",
+   "display_name": "Premier",
+   "reports": 5,
+   "latest_report_amount": 260000.0,
+   "latest_report": "e4c35c60-3a7a-49a6-8edc-83a1721d2d50",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00346288"
+   ],
+   "pac_names": [
+    "THE PREMIER, INC. EMPLOYEES' CIVIC ACTION FUND"
+   ]
+  }
+ ],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "2fe05410-0902-4ef0-8547-33a38b19721b",
+   "year": 2025,
+   "period": "second_quarter",
+   "posted": "2025-07-21T14:30:37-04:00",
+   "amount": null,
+   "registrant": "AMERICAN COLLEGE OF PREVENTIVE MEDICINE",
+   "client": "AMERICAN COLLEGE OF PREVENTIVE MEDICINE",
+   "url": "https://lda.gov/filings/public/filing/2fe05410-0902-4ef0-8547-33a38b19721b/print/"
+  },
+  {
+   "filing_uuid": "3cbbabad-42cc-4e9d-b828-f259f46d5a56",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-07T10:37:02-04:00",
+   "amount": 200000.0,
+   "registrant": "HEALTHCARE LEADERSHIP COUNCIL",
+   "client": "HEALTHCARE LEADERSHIP COUNCIL",
+   "url": "https://lda.gov/filings/public/filing/3cbbabad-42cc-4e9d-b828-f259f46d5a56/print/"
+  },
+  {
+   "filing_uuid": "10f8d52d-3a61-415e-8a62-be73eefe2788",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T15:27:57-04:00",
+   "amount": 210000.0,
+   "registrant": "PREMIER, INC.",
+   "client": "PREMIER, INC.",
+   "url": "https://lda.gov/filings/public/filing/10f8d52d-3a61-415e-8a62-be73eefe2788/print/"
+  },
+  {
+   "filing_uuid": "933187d3-1199-40af-b21e-3f8539d7c42d",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T16:35:37-04:00",
+   "amount": null,
+   "registrant": "AMERICAN COLLEGE OF PREVENTIVE MEDICINE",
+   "client": "AMERICAN COLLEGE OF PREVENTIVE MEDICINE",
+   "url": "https://lda.gov/filings/public/filing/933187d3-1199-40af-b21e-3f8539d7c42d/print/"
+  },
+  {
+   "filing_uuid": "4fd55979-d38c-4415-b28a-366cc4c858a6",
+   "year": 2025,
+   "period": "third_quarter",
+   "posted": "2025-10-20T17:34:17-04:00",
+   "amount": 4620000.0,
+   "registrant": "AMERICAN MEDICAL ASSOCIATION",
+   "client": "AMERICAN MEDICAL ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/4fd55979-d38c-4415-b28a-366cc4c858a6/print/"
+  },
+  {
+   "filing_uuid": "1e2d5a7d-c12f-4f2e-a3ed-867ec68fa563",
+   "year": 2025,
+   "period": "fourth_quarter",
+   "posted": "2026-01-20T19:29:16-05:00",
+   "amount": 190000.0,
+   "registrant": "PREMIER, INC.",
+   "client": "PREMIER, INC.",
+   "url": "https://lda.gov/filings/public/filing/1e2d5a7d-c12f-4f2e-a3ed-867ec68fa563/print/"
+  },
+  {
+   "filing_uuid": "42566dc4-ba29-4e41-a15b-7bedf724237f",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-02T15:12:56-04:00",
+   "amount": 200000.0,
+   "registrant": "HEALTHCARE LEADERSHIP COUNCIL",
+   "client": "HEALTHCARE LEADERSHIP COUNCIL",
+   "url": "https://lda.gov/filings/public/filing/42566dc4-ba29-4e41-a15b-7bedf724237f/print/"
+  },
+  {
+   "filing_uuid": "4eba38f8-3b0b-424f-ac02-ff00daac78c8",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-04-20T09:11:12-04:00",
+   "amount": 220000.0,
+   "registrant": "PREMIER, INC.",
+   "client": "PREMIER, INC.",
+   "url": "https://lda.gov/filings/public/filing/4eba38f8-3b0b-424f-ac02-ff00daac78c8/print/"
+  },
+  {
+   "filing_uuid": "08cc300a-2034-40e9-b82e-2d5250545e58",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-18T08:14:40-04:00",
+   "amount": 140000.0,
+   "registrant": "PREMIER, INC.",
+   "client": "PREMIER, INC.",
+   "url": "https://lda.gov/filings/public/filing/08cc300a-2034-40e9-b82e-2d5250545e58/print/"
+  },
+  {
+   "filing_uuid": "c6060d9e-8ef2-44aa-8a08-702a00dba278",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-29T09:02:49-04:00",
+   "amount": 200000.0,
+   "registrant": "HEALTHCARE LEADERSHIP COUNCIL",
+   "client": "HEALTHCARE LEADERSHIP COUNCIL",
+   "url": "https://lda.gov/filings/public/filing/c6060d9e-8ef2-44aa-8a08-702a00dba278/print/"
+  },
+  {
+   "filing_uuid": "a7c4f251-0abc-4a02-a329-318718705421",
+   "year": 2026,
+   "period": "first_quarter",
+   "posted": "2026-07-29T09:07:00-04:00",
+   "amount": 200000.0,
+   "registrant": "HEALTHCARE LEADERSHIP COUNCIL",
+   "client": "HEALTHCARE LEADERSHIP COUNCIL",
+   "url": "https://lda.gov/filings/public/filing/a7c4f251-0abc-4a02-a329-318718705421/print/"
+  },
+  {
+   "filing_uuid": "ccff0e9d-4c23-4c7b-a1dc-e73fa1ee1242",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T12:53:10-04:00",
+   "amount": 4540000.0,
+   "registrant": "AMERICAN MEDICAL ASSOCIATION",
+   "client": "AMERICAN MEDICAL ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/ccff0e9d-4c23-4c7b-a1dc-e73fa1ee1242/print/"
+  },
+  {
+   "filing_uuid": "e4c35c60-3a7a-49a6-8edc-83a1721d2d50",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T09:42:49-04:00",
+   "amount": 260000.0,
+   "registrant": "PREMIER, INC.",
+   "client": "PREMIER, INC.",
+   "url": "https://lda.gov/filings/public/filing/e4c35c60-3a7a-49a6-8edc-83a1721d2d50/print/"
+  },
+  {
+   "filing_uuid": "3e406975-22d3-4e20-bce1-88984977adfc",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T11:14:45-04:00",
+   "amount": 390000.0,
+   "registrant": "AMERICAN ASSOCIATION OF NURSE PRACTITIONERS",
+   "client": "AMERICAN ASSOCIATION OF NURSE PRACTITIONERS",
+   "url": "https://lda.gov/filings/public/filing/3e406975-22d3-4e20-bce1-88984977adfc/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}

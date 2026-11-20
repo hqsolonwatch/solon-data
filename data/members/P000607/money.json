@@ -784,22 +784,28 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 243411.6,
+   "itemized_total": 287774.6,
    "home_state": "WI",
-   "home_state_total": 194628.6,
-   "home_state_share": 80,
+   "home_state_total": 225011.6,
+   "home_state_share": 78,
    "top": [
     {
      "state": "WI",
      "state_full": "Wisconsin",
-     "total": 194628.6,
-     "count": 1277
+     "total": 225011.6,
+     "count": 1533
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 15845.0,
+     "count": 36
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 9000.0,
-     "count": 15
+     "total": 11500.0,
+     "count": 18
     },
     {
      "state": "KY",
@@ -808,34 +814,28 @@
      "count": 2
     },
     {
-     "state": "CA",
-     "state_full": "California",
-     "total": 6975.0,
-     "count": 22
-    },
-    {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 6000.0,
-     "count": 3
+     "total": 6350.0,
+     "count": 8
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 5300.0,
-     "count": 23
+     "total": 6330.0,
+     "count": 26
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 2555.0,
+     "count": 30
     },
     {
      "state": "MD",
      "state_full": "Maryland",
      "total": 2500.0,
      "count": 3
-    },
-    {
-     "state": "FL",
-     "state_full": "Florida",
-     "total": 2475.0,
-     "count": 26
     },
     {
      "state": "CO",
@@ -856,8 +856,13 @@
    "top": [
     {
      "employer": "BGR GROUP",
-     "total": 5000.0,
-     "count": 7
+     "total": 7500.0,
+     "count": 10
+    },
+    {
+     "employer": "NESSEL DEVELOPMENT",
+     "total": 6000.0,
+     "count": 3
     },
     {
      "employer": "MARQUIS MANAGEMENT, INC.",
@@ -870,14 +875,19 @@
      "count": 5
     },
     {
-     "employer": "ASCENDIUM EDUCATION GROUP, INC.",
-     "total": 4000.0,
-     "count": 5
+     "employer": "ALEXANDER COMPANY",
+     "total": 4500.0,
+     "count": 2
     },
     {
      "employer": "UW MADISON",
+     "total": 4030.0,
+     "count": 6
+    },
+    {
+     "employer": "ASCENDIUM EDUCATION GROUP, INC.",
      "total": 4000.0,
-     "count": 3
+     "count": 5
     },
     {
      "employer": "HAYAT PHARMACY",
@@ -885,30 +895,20 @@
      "count": 1
     },
     {
-     "employer": "CSA PARTNERS",
+     "employer": "KASIETA LEGAL GROUP, LLC",
      "total": 3500.0,
-     "count": 1
+     "count": 4
     },
     {
      "employer": "KESSLER SCHNEIDER",
      "total": 3500.0,
      "count": 1
-    },
-    {
-     "employer": "ARENBERG HOLDINGS",
-     "total": 3500.0,
-     "count": 1
-    },
-    {
-     "employer": "KASIETA LEGAL GROUP, LLC",
-     "total": 3500.0,
-     "count": 4
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

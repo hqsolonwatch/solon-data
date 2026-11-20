@@ -583,62 +583,11 @@
    "note": "Itemized donations from individuals (over $200), by the donor's state."
   },
   "donor_employers": {
-   "top": [
-    {
-     "employer": "THE COMMERCE COMPANY",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
-     "employer": "IEH LABORATORIES",
-     "total": 7100.0,
-     "count": 3
-    },
-    {
-     "employer": "JREI",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "SOROS FUND MANAGEMENT",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "ALAN J PRESTON LLC",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "SECOND AVENUE PARTNERS",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "LAW OFFICES OF JAMES DEGEL",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "FSO",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "SMVLC",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "VALVE CORPORATION",
-     "total": 7000.0,
-     "count": 2
-    }
-   ],
+   "top": [],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

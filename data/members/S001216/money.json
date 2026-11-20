@@ -1800,40 +1800,40 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1835343.01,
+   "itemized_total": 2234490.9,
    "home_state": "WA",
-   "home_state_total": 1676328.46,
-   "home_state_share": 91,
+   "home_state_total": 1986463.34,
+   "home_state_share": 89,
    "top": [
     {
      "state": "WA",
      "state_full": "Washington",
-     "total": 1676328.46,
-     "count": 5591
+     "total": 1986463.34,
+     "count": 6789
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 27895.25,
-     "count": 84
+     "total": 57788.25,
+     "count": 123
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 24510.0,
-     "count": 39
+     "total": 26760.0,
+     "count": 43
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 20935.25,
-     "count": 36
+     "total": 25535.25,
+     "count": 44
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 18200.0,
-     "count": 22
+     "total": 18450.0,
+     "count": 23
     },
     {
      "state": "TX",
@@ -1842,28 +1842,28 @@
      "count": 21
     },
     {
-     "state": "CO",
-     "state_full": "Colorado",
-     "total": 7709.03,
-     "count": 17
-    },
-    {
-     "state": "KY",
-     "state_full": "Kentucky",
-     "total": 7000.0,
-     "count": 2
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 15505.0,
+     "count": 14
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 5787.5,
+     "total": 12037.5,
+     "count": 9
+    },
+    {
+     "state": "KY",
+     "state_full": "Kentucky",
+     "total": 10500.0,
      "count": 6
     },
     {
-     "state": "MD",
-     "state_full": "Maryland",
-     "total": 4505.0,
-     "count": 10
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 7987.04,
+     "count": 28
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1872,13 +1872,13 @@
    "top": [
     {
      "employer": "UNIVERSITY OF WASHINGTON",
-     "total": 29100.25,
-     "count": 115
+     "total": 37965.5,
+     "count": 138
     },
     {
      "employer": "MICROSOFT",
-     "total": 17971.75,
-     "count": 78
+     "total": 21690.75,
+     "count": 94
     },
     {
      "employer": "D4 LLC",
@@ -1887,17 +1887,27 @@
     },
     {
      "employer": "AMAZON",
-     "total": 11639.75,
-     "count": 22
+     "total": 13311.5,
+     "count": 31
     },
     {
      "employer": "KAISER PERMANENTE",
-     "total": 10600.0,
-     "count": 4
+     "total": 11100.0,
+     "count": 5
+    },
+    {
+     "employer": "RICHMARK LABEL",
+     "total": 9500.0,
+     "count": 3
     },
     {
      "employer": "PIVOTAL VENTURES",
      "total": 8000.0,
+     "count": 3
+    },
+    {
+     "employer": "OPTUM WASHINGTON",
+     "total": 7500.0,
      "count": 3
     },
     {
@@ -1906,25 +1916,15 @@
      "count": 2
     },
     {
-     "employer": "THE COMMERCE COMPANY",
+     "employer": "CTC GLOBAL",
      "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "BENDICH, STOBAUGH, & STRONG P.C.",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "ARNOLD VENTURES",
-     "total": 7000.0,
-     "count": 2
+     "count": 5
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

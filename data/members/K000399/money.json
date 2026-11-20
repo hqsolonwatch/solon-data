@@ -2617,62 +2617,11 @@
    "note": "Itemized donations from individuals (over $200), by the donor's state."
   },
   "donor_employers": {
-   "top": [
-    {
-     "employer": "CHESAPEAKE MANAGEMENT GROUP",
-     "total": 17000.0,
-     "count": 6
-    },
-    {
-     "employer": "COLONNA'S SHIPYARD INC.",
-     "total": 16500.0,
-     "count": 7
-    },
-    {
-     "employer": "ENTREPRENEUR",
-     "total": 16262.94,
-     "count": 18
-    },
-    {
-     "employer": "JANE STREET",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
-     "employer": "GENWORTH FINANCIAL INC",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
-     "employer": "ADLER THERAPY GROUP",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
-     "employer": "STARKEY HEARING TECHNOLOGIES",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
-     "employer": "STEEL AMERICA",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
-     "employer": "RIPLEY HEATWOLE",
-     "total": 14000.0,
-     "count": 9
-    },
-    {
-     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
-     "total": 14000.0,
-     "count": 4
-    }
-   ],
+   "top": [],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -1416,40 +1416,40 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1173621.23,
+   "itemized_total": 1206841.23,
    "home_state": "TX",
-   "home_state_total": 992445.22,
-   "home_state_share": 85,
+   "home_state_total": 1015170.22,
+   "home_state_share": 84,
    "top": [
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 992445.22,
-     "count": 646
+     "total": 1015170.22,
+     "count": 674
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 29260.73,
-     "count": 36
+     "total": 30760.73,
+     "count": 38
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 29000.0,
-     "count": 11
+     "total": 30000.0,
+     "count": 12
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 27997.0,
-     "count": 14
+     "total": 29497.0,
+     "count": 16
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 14761.15,
-     "count": 21
+     "total": 15256.15,
+     "count": 22
     },
     {
      "state": "AR",
@@ -1458,22 +1458,22 @@
      "count": 6
     },
     {
-     "state": "CA",
-     "state_full": "California",
-     "total": 9750.0,
-     "count": 8
-    },
-    {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 9050.0,
-     "count": 11
+     "total": 13050.0,
+     "count": 13
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 10750.0,
+     "count": 9
     },
     {
      "state": "AZ",
      "state_full": "Arizona",
-     "total": 6500.0,
-     "count": 3
+     "total": 7500.0,
+     "count": 4
     },
     {
      "state": "GA",
@@ -1522,17 +1522,17 @@
      "count": 3
     },
     {
+     "employer": "OGR",
+     "total": 7495.0,
+     "count": 9
+    },
+    {
      "employer": "RUSSO MCGARTY & ASSOCIATES INC.",
      "total": 7083.65,
      "count": 4
     },
     {
-     "employer": "SCOTT CARTER",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "COTTONWOOD FINANCIAL",
+     "employer": "THE PEROT GROUP",
      "total": 7000.0,
      "count": 2
     }
@@ -1540,7 +1540,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -1458,22 +1458,22 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 319000.0,
+   "itemized_total": 392900.0,
    "home_state": "TX",
-   "home_state_total": 288491.0,
-   "home_state_share": 90,
+   "home_state_total": 358641.0,
+   "home_state_share": 91,
    "top": [
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 288491.0,
-     "count": 253
+     "total": 358641.0,
+     "count": 309
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 7759.0,
-     "count": 10
+     "total": 10009.0,
+     "count": 14
     },
     {
      "state": "CO",
@@ -1488,6 +1488,12 @@
      "count": 3
     },
     {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 4000.0,
+     "count": 6
+    },
+    {
      "state": "NY",
      "state_full": "New York",
      "total": 4000.0,
@@ -1500,20 +1506,14 @@
      "count": 1
     },
     {
-     "state": "MD",
-     "state_full": "Maryland",
-     "total": 3500.0,
-     "count": 5
-    },
-    {
      "state": "PR",
      "state_full": "Puerto Rico",
      "total": 1000.0,
      "count": 1
     },
     {
-     "state": "KY",
-     "state_full": "Kentucky",
+     "state": "OH",
+     "state_full": "Ohio",
      "total": 1000.0,
      "count": 1
     },
@@ -1530,11 +1530,21 @@
    "top": [
     {
      "employer": "LANIER LAW FIRM",
-     "total": 6000.0,
-     "count": 4
+     "total": 9500.0,
+     "count": 5
     },
     {
-     "employer": "STEPTOE LLP",
+     "employer": "GREENBERG TRAURIG, LLP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BAKER WOTRING LLP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ISANI CONSULTANTS, LP",
      "total": 5000.0,
      "count": 2
     },
@@ -1544,37 +1554,27 @@
      "count": 2
     },
     {
+     "employer": "STEPTOE LLP",
+     "total": 5000.0,
+     "count": 2
+    },
+    {
      "employer": "THE GOODMAN CORPORATION",
      "total": 4500.0,
      "count": 3
     },
     {
-     "employer": "EDGARDO E. COLON, PC",
-     "total": 3500.0,
+     "employer": "EXEC VICE PRESIDENT",
+     "total": 4261.0,
      "count": 2
     },
     {
-     "employer": "STATE OF TEXAS",
+     "employer": "HILLCO PARTNERS",
      "total": 3500.0,
      "count": 1
     },
     {
-     "employer": "FORTHCOMING FUND",
-     "total": 3500.0,
-     "count": 1
-    },
-    {
-     "employer": "HILLCO PARTNERS LLC",
-     "total": 3500.0,
-     "count": 1
-    },
-    {
-     "employer": "ISANI CONSULTANTS, LP",
-     "total": 3500.0,
-     "count": 1
-    },
-    {
-     "employer": "MAMACITA MEXICAN RESTAURANT",
+     "employer": "CAMDEN",
      "total": 3500.0,
      "count": 1
     }
@@ -1582,7 +1582,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

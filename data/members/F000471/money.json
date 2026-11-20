@@ -1517,70 +1517,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 455603.51,
+   "itemized_total": 569941.11,
    "home_state": "WI",
-   "home_state_total": 186645.39,
+   "home_state_total": 233266.46,
    "home_state_share": 41,
    "top": [
     {
      "state": "WI",
      "state_full": "Wisconsin",
-     "total": 186645.39,
-     "count": 320
+     "total": 233266.46,
+     "count": 415
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 55733.06,
-     "count": 52
+     "total": 65499.59,
+     "count": 62
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 46933.06,
-     "count": 33
+     "total": 51933.06,
+     "count": 39
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 33266.53,
-     "count": 38
+     "total": 36266.53,
+     "count": 44
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 23500.0,
-     "count": 18
+     "total": 25500.0,
+     "count": 21
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 17771.15,
-     "count": 19
-    },
-    {
-     "state": "NY",
-     "state_full": "New York",
-     "total": 10000.0,
-     "count": 4
+     "total": 19271.15,
+     "count": 24
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 8266.53,
-     "count": 11
+     "total": 17766.53,
+     "count": 17
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "state": "DE",
+     "state_full": "Delaware",
+     "total": 10500.0,
+     "count": 5
     },
     {
      "state": "UT",
      "state_full": "Utah",
-     "total": 7520.51,
-     "count": 8
-    },
-    {
-     "state": "NC",
-     "state_full": "North Carolina",
-     "total": 7000.0,
-     "count": 8
+     "total": 9020.51,
+     "count": 11
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1589,8 +1589,13 @@
    "top": [
     {
      "employer": "BGR GROUP",
-     "total": 13000.0,
-     "count": 13
+     "total": 14750.0,
+     "count": 14
+    },
+    {
+     "employer": "ANTHROPIC",
+     "total": 12000.0,
+     "count": 3
     },
     {
      "employer": "MILWAUKEE TOOL",
@@ -1598,17 +1603,12 @@
      "count": 10
     },
     {
-     "employer": "EPIC",
+     "employer": "BLACKSTONE",
      "total": 7000.0,
-     "count": 2
+     "count": 3
     },
     {
-     "employer": "ABC",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "TOLL FOUNDATION",
+     "employer": "ULINE",
      "total": 7000.0,
      "count": 3
     },
@@ -1623,25 +1623,25 @@
      "count": 5
     },
     {
-     "employer": "AMERICAN BEVERAGE ASSOCIATION",
+     "employer": "1607 STRATEGIES",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "BLACKSTONE",
+     "employer": "TWINLOGIC STRATEGIES",
      "total": 7000.0,
-     "count": 3
+     "count": 2
     },
     {
-     "employer": "ULINE",
+     "employer": "EPIC",
      "total": 7000.0,
-     "count": 3
+     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1794347613.1635404,
+ "detail_fetched_ts": 1795176937.9121048,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
