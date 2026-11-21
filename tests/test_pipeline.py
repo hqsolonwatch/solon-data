@@ -379,7 +379,7 @@ def test_senate_and_schedule(cfg):
     sch = landing.schedule(cfg, today=date(2026, 11, 10))
     assert sch["house"]["week"] == "November 9" and sch["house"]["listed"] == 2
     # Bills still to come are listed first
-    assert sch["house"]["rows"] == [
+    assert [{k: v for k, v in r.items() if k != "url"} for r in sch["house"]["rows"]] == [
         {"bill": "H.R. 3978", "title": "Nuclear REFUEL Act", "status": "Coming up", "roll": None},
         {"bill": "H.R. 9612", "title": "American Enrichment Deployment Act", "status": "Passed 394 to 3", "roll": 316}]
     assert sch["house"]["upcoming"] == 1 and sch["house"]["over"] is False
@@ -397,3 +397,24 @@ def test_senate_and_schedule(cfg):
     assert sch["house"]["source"].endswith("roll call 316")
     assert sch["senate"][0]["bill"] == "H.R. 2347" and sch["senate"][0]["status"] == "Expected"
     assert landing.schedule_bills(cfg) == [(119, "hr", 2347)]
+
+
+def test_replaced_text_and_key_points():
+    amdts = [{"type": "SAMDT", "number": 6883, "purpose": "In the nature of a substitute.",
+              "latestAction": {"actionDate": "2026-11-18", "text": "Amendment SA 6883 agreed to in Senate by Yea-Nay Vote. 69 - 27."}},
+             {"type": "SAMDT", "number": 6900, "purpose": "To exempt data centers.",
+              "latestAction": {"actionDate": "2026-11-18", "text": "Amendment SA 6900 not agreed to in Senate."}},
+             {"type": "SAMDT", "number": 6000, "purpose": "In the nature of a substitute.",
+              "latestAction": {"actionDate": "2026-11-12", "text": "Amendment SA 6000 proposed by Senator X."}}]
+    r = bills.text_replacement(amdts)
+    assert r["label"] == "S.Amdt. 6883" and r["chamber"] == "Senate" and r["date"] == "2026-11-18"
+    assert bills.text_replacement(amdts[1:]) is None
+    titles = [{"title": "Survivor Justice Tax Prevention Act", "titleType": "Short Title(s) as Introduced", "updateDate": "2025-03-26"},
+              {"title": "Bipartisan American Affordability and Jobs Act of 2026", "titleType": "Short Title(s) as Passed Senate", "updateDate": "2026-11-20"},
+              {"title": "Grid Act", "titleType": "Short Title(s) as Passed Senate for portions of this bill", "updateDate": "2026-11-20T10:00:00Z"},
+              {"title": "Old Part Act", "titleType": "Short Title(s) as Introduced for portions of this bill", "updateDate": "2025-03-26"}]
+    assert bills.pick_titles(titles) == ("Bipartisan American Affordability and Jobs Act of 2026", ["Grid Act"])
+    html_sum = "<p><strong>Division A—Permitting Reform</strong></p><p>...</p><p><strong>Title II—Electric Transmission</strong></p>"
+    assert bills.key_points(html_sum) == ["Permitting Reform", "Electric Transmission"]
+    b = {"id": "x1-119", "summary": "This bill does an old thing.", "summary_outdated": True, "key_points": ["Old"]}
+    assert bills.short_summary(b) is None and bills.points(b) == []

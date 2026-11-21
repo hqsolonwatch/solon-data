@@ -151,7 +151,8 @@ details.src p{margin:8px 0 0!important}
 .sched ul{margin-top:8px!important}
 .sched ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line);font-size:16px}
 .sched li{display:grid;grid-template-columns:96px minmax(0,1fr) auto;gap:4px 14px;padding:9px 0;border-bottom:1px solid var(--line);align-items:baseline}
-.sched .st{font-size:14px;color:var(--muted);white-space:nowrap}.sched .st.done{color:var(--link);font-weight:600}.sched .st.up{color:var(--ink);font-weight:600}
+.sched .st{font-size:14px;color:var(--muted);white-space:nowrap}.pts{margin:0 0 12px;padding-left:1.1em;font-size:15px}.pts li{margin:2px 0}
+.sched .st.done{color:var(--link);font-weight:600}.sched .st.up{color:var(--ink);font-weight:600}
 @media (max-width:520px){.sched li{grid-template-columns:minmax(0,1fr) auto}.sched li .billno{grid-column:1/-1}}
 .chart .legend{margin-top:4px}
 
@@ -293,8 +294,18 @@ var MEMBERS = [
     "role": "U.S. Senator, Georgia",
     "vote": {
       "bill": "H.R. 2347",
-      "title": "Survivor Justice Tax Prevention Act",
-      "summary": "Excludes from gross income certain damages received by an individual due to any sexual act or sexual contact and establishes the applicable burden of proof in court proceedings regarding the characterization of such damages for federal tax purposes.",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/2347",
+      "title": "Bipartisan American Affordability and Jobs Act of 2026",
+      "summary": "Rewrites federal environmental review and permitting rules for energy, mining, transmission and other infrastructure projects, including changes to the National Environmental Policy Act (NEPA).",
+      "points": [
+        "Sets a 150-day deadline to sue over many federal permits and moves NEPA lawsuits to federal appeals courts",
+        "Limits when courts can cancel a permit over a flawed environmental review",
+        "Narrows which federal actions need a NEPA review and adds deadlines for agency permit decisions",
+        "Changes permitting under the Clean Water Act, the Endangered Species Act and the National Historic Preservation Act",
+        "Expands federal planning, siting and cost rules for electric transmission lines, including upgrades on existing routes",
+        "Adds provisions on geothermal, hydropower, offshore transmission and hardrock mining"
+      ],
+      "replaced": "The Senate replaced this bill’s original text with S.Amdt. 6883 on November 18, 2026. This vote was on the new text.",
       "cast": "Nay",
       "result": "Passed 62 to 33",
       "date": "November 19, 2026",
@@ -377,8 +388,18 @@ var MEMBERS = [
     "role": "U.S. Senator, Maine",
     "vote": {
       "bill": "H.R. 2347",
-      "title": "Survivor Justice Tax Prevention Act",
-      "summary": "Excludes from gross income certain damages received by an individual due to any sexual act or sexual contact and establishes the applicable burden of proof in court proceedings regarding the characterization of such damages for federal tax purposes.",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/2347",
+      "title": "Bipartisan American Affordability and Jobs Act of 2026",
+      "summary": "Rewrites federal environmental review and permitting rules for energy, mining, transmission and other infrastructure projects, including changes to the National Environmental Policy Act (NEPA).",
+      "points": [
+        "Sets a 150-day deadline to sue over many federal permits and moves NEPA lawsuits to federal appeals courts",
+        "Limits when courts can cancel a permit over a flawed environmental review",
+        "Narrows which federal actions need a NEPA review and adds deadlines for agency permit decisions",
+        "Changes permitting under the Clean Water Act, the Endangered Species Act and the National Historic Preservation Act",
+        "Expands federal planning, siting and cost rules for electric transmission lines, including upgrades on existing routes",
+        "Adds provisions on geothermal, hydropower, offshore transmission and hardrock mining"
+      ],
+      "replaced": "The Senate replaced this bill’s original text with S.Amdt. 6883 on November 18, 2026. This vote was on the new text.",
       "cast": "Yea",
       "result": "Passed 62 to 33",
       "date": "November 19, 2026",
@@ -461,8 +482,11 @@ var MEMBERS = [
     "role": "U.S. House, Massachusetts District 5",
     "vote": {
       "bill": "H.R. 4464",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/4464",
       "title": "Preventive Health Savings Act",
       "summary": "Requires the Congressional Budget Office (CBO), upon receiving a request from Congress, to determine if proposed legislation would reduce spending outside of the 10-year budget window through the use of preventive health care.",
+      "points": [],
+      "replaced": null,
       "cast": "Yea",
       "result": "Passed 401 to 0",
       "date": "November 19, 2026",
@@ -498,8 +522,11 @@ var MEMBERS = [
     "role": "U.S. House, Minnesota District 6",
     "vote": {
       "bill": "H.R. 4464",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/4464",
       "title": "Preventive Health Savings Act",
       "summary": "Requires the Congressional Budget Office (CBO), upon receiving a request from Congress, to determine if proposed legislation would reduce spending outside of the 10-year budget window through the use of preventive health care.",
+      "points": [],
+      "replaced": null,
       "cast": "Yea",
       "result": "Passed 401 to 0",
       "date": "November 19, 2026",
@@ -852,25 +879,29 @@ var SCHEDULE = {
         "bill": "H.R. 8483",
         "title": "Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026",
         "status": "Passed 398 to 0",
-        "roll": 324
+        "roll": 324,
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/8483"
       },
       {
         "bill": "H.R. 9600",
         "title": "Common Sense 250 Act of 2026",
         "status": "Passed 365 to 36",
-        "roll": 325
+        "roll": 325,
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/9600"
       },
       {
         "bill": "H.R. 9640",
         "title": "Earth MRI Reauthorization Act of 2026",
         "status": "Passed 396 to 14",
-        "roll": 326
+        "roll": 326,
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/9640"
       },
       {
         "bill": "H.R. 4464",
         "title": "Preventive Health Savings Act",
         "status": "Passed 401 to 0",
-        "roll": 327
+        "roll": 327,
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/4464"
       }
     ],
     "listed": 15,
@@ -878,7 +909,17 @@ var SCHEDULE = {
     "upcoming": 0,
     "over": true
   },
-  "senate": []
+  "senate": [],
+  "senate_recent": [
+    {
+      "bill": "H.R. 2347",
+      "title": "Bipartisan American Affordability and Jobs Act of 2026",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/2347",
+      "status": "Passed 62 to 33",
+      "date": "November 19, 2026",
+      "roll": 270
+    }
+  ]
 };
 /* PAGE DATA END */
 
@@ -933,30 +974,40 @@ var SCHEDULE = {
   drawRoll();
   if (phone.addEventListener) phone.addEventListener("change", drawRoll);
 
-  /* Floor schedule */
-  (function () {
-    var S = SCHEDULE, box = document.getElementById("sched"), any = false;
+  /* Floor schedule: follows the member shown above, House for a representative, Senate for a senator */
+  function link(r) { return r.url ? '<a href="' + esc(r.url) + '" target="_blank" rel="noopener">' + esc(r.bill) + '</a>' : esc(r.bill); }
+  function schedRows(list, note) {
+    return '<ul>' + list.map(function (r) {
+      return '<li><span class="billno">' + link(r) + '</span><span>' + esc(r.title || "") +
+        (note && r.note ? '<small class="cap" style="display:block">' + esc(r.note) + '</small>' : '') +
+        (r.date ? '<small class="cap" style="display:block">' + esc(r.date) + '</small>' : '') +
+        '</span><span class="st' + (/^Passed|^Failed/.test(r.status) ? " done" : /^Coming up|^Expected/.test(r.status) ? " up" : "") + '">' + esc(r.status) + '</span></li>';
+    }).join("") + '</ul>';
+  }
+  function renderSched(chamber) {
+    var S = SCHEDULE, box = document.getElementById("sched"), hb = document.getElementById("sched-house"), sb = document.getElementById("sched-senate");
     if (!S) return;
-    function rows(list, note) {
-      return '<ul>' + list.map(function (r) {
-        return '<li><span class="billno">' + esc(r.bill) + '</span><span>' + esc(r.title || "") + (note && r.note ? '<small class="cap" style="display:block">' + esc(r.note) + '</small>' : '') +
-          '</span><span class="st' + (/^Passed|^Failed/.test(r.status) ? " done" : /^Coming up|^Expected/.test(r.status) ? " up" : "") + '">' + esc(r.status) + '</span></li>';
-      }).join("") + '</ul>';
-    }
-    if (S.house && S.house.rows.length) {
-      any = true;
+    hb.innerHTML = ""; sb.innerHTML = "";
+    if (chamber === "senate") {
+      var h = "";
+      if (S.senate && S.senate.length) {
+        h += '<h3>Expected on the Senate floor</h3>' + schedRows(S.senate, true) +
+          '<p class="cap">The Senate doesn’t post a weekly list of bills, so these are expected, not scheduled. Source: Senate roll calls and Congress.gov bill actions.</p>';
+      }
+      if (S.senate_recent && S.senate_recent.length) {
+        h += '<h3>Recent Senate votes to pass bills</h3>' + schedRows(S.senate_recent) +
+          '<p class="cap">Final Senate votes on bills in the last two weeks. Source: senate.gov roll-call votes.</p>';
+      }
+      if (!h) h = '<h3>On the Senate floor</h3><p class="cap">No bills are expected on the Senate floor right now, and the Senate held no final votes on bills in the last two weeks.</p>';
+      sb.innerHTML = h;
+    } else if (S.house && S.house.rows.length) {
       var head = S.house.upcoming && !S.house.over ? "Coming up on the House floor, week of " : "On the House floor, week of ";
-      document.getElementById("sched-house").innerHTML = '<h3>' + head + esc(S.house.week) + '</h3>' + rows(S.house.rows) +
+      hb.innerHTML = '<h3>' + head + esc(S.house.week) + '</h3>' + schedRows(S.house.rows) +
         '<p class="cap">' + S.house.rows.length + ' of the ' + S.house.listed + ' bills the House majority leader’s office listed for the week.' +
         (S.house.over ? ' The House hasn’t posted its next weekly schedule yet.' : '') + ' Source: ' + esc(S.house.source) + '.</p>';
     }
-    if (S.senate && S.senate.length) {
-      any = true;
-      document.getElementById("sched-senate").innerHTML = '<h3>Expected on the Senate floor</h3>' + rows(S.senate, true) +
-        '<p class="cap">The Senate doesn’t post a weekly list of bills, so these are expected, not scheduled. Source: Senate roll calls and Congress.gov bill actions.</p>';
-    }
-    box.hidden = !any;
-  })();
+    box.hidden = !(hb.innerHTML || sb.innerHTML);
+  }
 
   /* Sign-up forms */
   var forms = document.querySelectorAll("[data-signup]"), re = /^\S+@\S+\.\S+$/;
@@ -999,12 +1050,15 @@ var SCHEDULE = {
   }
   function render() {
     var m = MEMBERS[at], d = m.party === "Democrat", h = "";
+    renderSched(m.chamber);
     var last = m.name.replace(/^(Sen\.|Rep\.)\s*/, "");
     who.innerHTML = '<span class="pill ' + (d ? "d" : "r") + '">' + esc(m.party) + '</span><h3>' + esc(m.name) + '</h3><p class="role">' + esc(m.role) + '</p>';
     h += '<div class="panels' + (m.money ? "" : " two") + '">';
     h += '<div class="panel"><h4>Most recent vote to pass a bill</h4>';
-    h += '<p class="billno">' + esc(m.vote.bill) + ' · ' + esc(m.vote.date) + '</p>';
+    h += '<p class="billno">' + link(m.vote) + ' · ' + esc(m.vote.date) + '</p>';
     h += '<p><span class="billname">' + esc(m.vote.title) + '.</span> ' + esc(m.vote.summary) + '</p>';
+    if (m.vote.replaced) h += '<p class="cap">' + esc(m.vote.replaced) + '</p>';
+    if (m.vote.points && m.vote.points.length) h += '<p class="cap" style="margin-bottom:4px">Also in this bill:</p><ul class="pts">' + m.vote.points.map(function (p) { return '<li>' + esc(p) + '</li>'; }).join("") + '</ul>';
     var cls = m.vote.cast === "Yea" ? "yea" : m.vote.cast === "Nay" ? "nay" : "nv";
     h += '<p class="cast ' + cls + '">' + esc(m.vote.cast) + '</p><p class="result">The bill ' + esc(m.vote.result.charAt(0).toLowerCase() + m.vote.result.slice(1)) + '</p>';
     h += SRC(m.vote.source) + '</div>';

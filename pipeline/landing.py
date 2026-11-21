@@ -77,10 +77,20 @@ def vote_block(cfg, row):
         src = f'senate.gov, roll call vote {vote["number"]}, {ordinal(vote["congress"])} Congress, session {vote["session"]}'
     else:
         src = f'clerk.house.gov, roll call {vote["number"]}, {vote["date"][:4]}'
+    rep = b.get("text_replaced") or bills.override(row["bill"]["id"]).get("replaced") or {}
+    note = None
+    if rep and (rep.get("date") or "") <= vote["date"]:
+        note = (f'The {rep["chamber"]} replaced this bill’s original text with {rep["label"]} on {long_date(rep["date"])}. '
+                f'This vote was on the new text.')
+    if not short and b.get("summary_outdated"):
+        short = "A Congressional Research Service summary of the new text isn’t available yet."
     return {
         "bill": row["bill"]["label"],
-        "title": b.get("short_title") or b.get("title") or "[Bill title]",
+        "url": b.get("congress_url") or bills.congress_url(vote["congress"], row["bill"]["type"], row["bill"]["number"]),
+        "title": bills.current_title(b) or "[Bill title]",
         "summary": short or "[One plain-English sentence on what the bill does.]",
+        "points": bills.points(b),
+        "replaced": note,
         "cast": row["vote"],
         "result": f'{"Passed" if passed else "Failed"} {t["yea"]} to {t["nay"]}',
         "date": long_date(vote["date"]),
@@ -344,7 +354,8 @@ def schedule(cfg, shown=4, today=None):
                 status = _voice_status(cfg, i["bill"]["id"], since)
             if not status:
                 status = "Not voted on" if over else "Coming up"
-            rows.append({"bill": i["bill"]["label"], "title": _short_title(i["description"]), "status": status, "roll": roll})
+            rows.append({"bill": i["bill"]["label"], "title": _short_title(i["description"]), "status": status, "roll": roll,
+                         "url": bills.congress_url(i["bill"]["id"] and int(i["bill"]["id"].split("-")[1]), i["bill"]["type"], i["bill"]["number"])})
         waiting = [r for r in rows if r["status"] == "Coming up"]
         done = [r for r in rows if r["status"] != "Coming up"]
         # Bills still to come get the space first; results fill whatever is left.
@@ -359,9 +370,24 @@ def schedule(cfg, shown=4, today=None):
             src += "; voice votes from Congress.gov bill actions"
         out["house"] = {"week": f"{start.strftime('%B')} {start.day}", "rows": pick, "listed": len(items), "source": src,
                         "upcoming": len(waiting), "over": over}
+    # Bills the Senate held its final vote on in the last two weeks, newest first
+    start = (today - timedelta(days=14)).isoformat()
+    recent = sorted((v for v in index if v["chamber"] == "senate" and v.get("kind") == "passage" and v.get("bill")
+                     and v["bill"]["type"] in LAWMAKING_TYPES and v["date"] >= start),
+                    key=lambda v: (v["date"], v["number"]), reverse=True)
+    out["senate_recent"] = []
+    for v in recent[:shown]:
+        bid = v["bill"]["id"]
+        b = read_json(Path(cfg["output_dir"]) / "bills" / f"{bid}.json") or {}
+        passed = bool(re.search(r"pass|agreed", v.get("result") or "", re.I))
+        out["senate_recent"].append({"bill": v["bill"]["label"], "title": bills.current_title(b) or "",
+                                     "url": bills.congress_url(v["congress"], v["bill"]["type"], v["bill"]["number"]),
+                                     "status": f'{"Passed" if passed else "Failed"} {v["totals"]["yea"]} to {v["totals"]["nay"]}',
+                                     "date": long_date(v["date"]), "roll": v["number"]})
     for i in up.get("senate", [])[:3]:
         title = _bill_title(cfg, i["bill"]["id"])
         out["senate"].append({"bill": i["bill"]["label"], "title": title or "",
+                              "url": bills.congress_url(int(i["bill"]["id"].split("-")[1]), i["bill"]["type"], i["bill"]["number"]),
                               "note": i["description"], "status": "Expected"})
     return out
 

@@ -151,7 +151,8 @@ details.src p{margin:8px 0 0!important}
 .sched ul{margin-top:8px!important}
 .sched ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line);font-size:16px}
 .sched li{display:grid;grid-template-columns:96px minmax(0,1fr) auto;gap:4px 14px;padding:9px 0;border-bottom:1px solid var(--line);align-items:baseline}
-.sched .st{font-size:14px;color:var(--muted);white-space:nowrap}.sched .st.done{color:var(--link);font-weight:600}.sched .st.up{color:var(--ink);font-weight:600}
+.sched .st{font-size:14px;color:var(--muted);white-space:nowrap}.pts{margin:0 0 12px;padding-left:1.1em;font-size:15px}.pts li{margin:2px 0}
+.sched .st.done{color:var(--link);font-weight:600}.sched .st.up{color:var(--ink);font-weight:600}
 @media (max-width:520px){.sched li{grid-template-columns:minmax(0,1fr) auto}.sched li .billno{grid-column:1/-1}}
 .chart .legend{margin-top:4px}
 
@@ -962,30 +963,40 @@ var SCHEDULE = {
   drawRoll();
   if (phone.addEventListener) phone.addEventListener("change", drawRoll);
 
-  /* Floor schedule */
-  (function () {
-    var S = SCHEDULE, box = document.getElementById("sched"), any = false;
+  /* Floor schedule: follows the member shown above, House for a representative, Senate for a senator */
+  function link(r) { return r.url ? '<a href="' + esc(r.url) + '" target="_blank" rel="noopener">' + esc(r.bill) + '</a>' : esc(r.bill); }
+  function schedRows(list, note) {
+    return '<ul>' + list.map(function (r) {
+      return '<li><span class="billno">' + link(r) + '</span><span>' + esc(r.title || "") +
+        (note && r.note ? '<small class="cap" style="display:block">' + esc(r.note) + '</small>' : '') +
+        (r.date ? '<small class="cap" style="display:block">' + esc(r.date) + '</small>' : '') +
+        '</span><span class="st' + (/^Passed|^Failed/.test(r.status) ? " done" : /^Coming up|^Expected/.test(r.status) ? " up" : "") + '">' + esc(r.status) + '</span></li>';
+    }).join("") + '</ul>';
+  }
+  function renderSched(chamber) {
+    var S = SCHEDULE, box = document.getElementById("sched"), hb = document.getElementById("sched-house"), sb = document.getElementById("sched-senate");
     if (!S) return;
-    function rows(list, note) {
-      return '<ul>' + list.map(function (r) {
-        return '<li><span class="billno">' + esc(r.bill) + '</span><span>' + esc(r.title || "") + (note && r.note ? '<small class="cap" style="display:block">' + esc(r.note) + '</small>' : '') +
-          '</span><span class="st' + (/^Passed|^Failed/.test(r.status) ? " done" : /^Coming up|^Expected/.test(r.status) ? " up" : "") + '">' + esc(r.status) + '</span></li>';
-      }).join("") + '</ul>';
-    }
-    if (S.house && S.house.rows.length) {
-      any = true;
+    hb.innerHTML = ""; sb.innerHTML = "";
+    if (chamber === "senate") {
+      var h = "";
+      if (S.senate && S.senate.length) {
+        h += '<h3>Expected on the Senate floor</h3>' + schedRows(S.senate, true) +
+          '<p class="cap">The Senate doesn’t post a weekly list of bills, so these are expected, not scheduled. Source: Senate roll calls and Congress.gov bill actions.</p>';
+      }
+      if (S.senate_recent && S.senate_recent.length) {
+        h += '<h3>Recent Senate votes to pass bills</h3>' + schedRows(S.senate_recent) +
+          '<p class="cap">Final Senate votes on bills in the last two weeks. Source: senate.gov roll-call votes.</p>';
+      }
+      if (!h) h = '<h3>On the Senate floor</h3><p class="cap">No bills are expected on the Senate floor right now, and the Senate held no final votes on bills in the last two weeks.</p>';
+      sb.innerHTML = h;
+    } else if (S.house && S.house.rows.length) {
       var head = S.house.upcoming && !S.house.over ? "Coming up on the House floor, week of " : "On the House floor, week of ";
-      document.getElementById("sched-house").innerHTML = '<h3>' + head + esc(S.house.week) + '</h3>' + rows(S.house.rows) +
+      hb.innerHTML = '<h3>' + head + esc(S.house.week) + '</h3>' + schedRows(S.house.rows) +
         '<p class="cap">' + S.house.rows.length + ' of the ' + S.house.listed + ' bills the House majority leader’s office listed for the week.' +
         (S.house.over ? ' The House hasn’t posted its next weekly schedule yet.' : '') + ' Source: ' + esc(S.house.source) + '.</p>';
     }
-    if (S.senate && S.senate.length) {
-      any = true;
-      document.getElementById("sched-senate").innerHTML = '<h3>Expected on the Senate floor</h3>' + rows(S.senate, true) +
-        '<p class="cap">The Senate doesn’t post a weekly list of bills, so these are expected, not scheduled. Source: Senate roll calls and Congress.gov bill actions.</p>';
-    }
-    box.hidden = !any;
-  })();
+    box.hidden = !(hb.innerHTML || sb.innerHTML);
+  }
 
   /* Sign-up forms */
   var forms = document.querySelectorAll("[data-signup]"), re = /^\S+@\S+\.\S+$/;
@@ -1028,12 +1039,15 @@ var SCHEDULE = {
   }
   function render() {
     var m = MEMBERS[at], d = m.party === "Democrat", h = "";
+    renderSched(m.chamber);
     var last = m.name.replace(/^(Sen\.|Rep\.)\s*/, "");
     who.innerHTML = '<span class="pill ' + (d ? "d" : "r") + '">' + esc(m.party) + '</span><h3>' + esc(m.name) + '</h3><p class="role">' + esc(m.role) + '</p>';
     h += '<div class="panels' + (m.money ? "" : " two") + '">';
     h += '<div class="panel"><h4>Most recent vote to pass a bill</h4>';
-    h += '<p class="billno">' + esc(m.vote.bill) + ' · ' + esc(m.vote.date) + '</p>';
+    h += '<p class="billno">' + link(m.vote) + ' · ' + esc(m.vote.date) + '</p>';
     h += '<p><span class="billname">' + esc(m.vote.title) + '.</span> ' + esc(m.vote.summary) + '</p>';
+    if (m.vote.replaced) h += '<p class="cap">' + esc(m.vote.replaced) + '</p>';
+    if (m.vote.points && m.vote.points.length) h += '<p class="cap" style="margin-bottom:4px">Also in this bill:</p><ul class="pts">' + m.vote.points.map(function (p) { return '<li>' + esc(p) + '</li>'; }).join("") + '</ul>';
     var cls = m.vote.cast === "Yea" ? "yea" : m.vote.cast === "Nay" ? "nay" : "nv";
     h += '<p class="cast ' + cls + '">' + esc(m.vote.cast) + '</p><p class="result">The bill ' + esc(m.vote.result.charAt(0).toLowerCase() + m.vote.result.slice(1)) + '</p>';
     h += SRC(m.vote.source) + '</div>';

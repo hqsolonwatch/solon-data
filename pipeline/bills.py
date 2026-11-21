@@ -44,12 +44,87 @@ def first_sentence(text, limit=320):
     return s
 
 
+HEADING = re.compile(r"<(?:strong|b)>\s*((?:Division|Title|Subtitle)\s+[A-Z0-9]+\s*[\u2014\u2013:-]+\s*[^<]{3,120}?)\s*</(?:strong|b)>", re.I)
+
+
+def key_points(summary_html, limit=6):
+    """The main parts of a long bill, from the Division and Title headings in the CRS summary."""
+    out = []
+    for m in HEADING.finditer(summary_html or ""):
+        h = strip_html(m.group(1))
+        h = re.sub(r"^(Division|Title|Subtitle)\s+[A-Z0-9]+\s*[\u2014\u2013:-]+\s*", "", h, flags=re.I).strip(" .")
+        if h and h.lower() not in (x.lower() for x in out):
+            out.append(h[:1].upper() + h[1:])
+    return out[:limit]
+
+
+def override(bid):
+    """A hand-written entry from overrides/summaries.yaml: either one sentence, or a mapping with
+    summary (one sentence), points (the other important things in the bill), title and source."""
+    o = overrides().get(bid)
+    if isinstance(o, str):
+        return {"summary": o}
+    return o or {}
+
+
 def short_summary(b):
-    """The one-sentence summary to show for a saved bill file (hand-written override first)."""
-    o = overrides().get(b.get("id"))
-    if o:
-        return o
+    """The one-sentence summary to show for a saved bill file (hand-written override first).
+    A summary written for text that was later replaced is not shown."""
+    o = override(b.get("id"))
+    if o.get("summary"):
+        return o["summary"]
+    if b.get("summary_outdated"):
+        return None
     return first_sentence(b["summary"]) if b.get("summary") else None
+
+
+def points(b):
+    """Other important things in the bill, beyond its headline sentence."""
+    o = override(b.get("id"))
+    if o.get("points"):
+        return o["points"]
+    if b.get("summary_outdated"):
+        return []
+    return (b.get("key_points") or []) + [f"Includes the {t}" for t in (b.get("included_acts") or [])][:6]
+
+
+def current_title(b):
+    o = override(b.get("id"))
+    return o.get("title") or b.get("current_title") or b.get("short_title") or b.get("title")
+
+
+SUBSTITUTE = re.compile(r"in the nature of a substitute", re.I)
+AGREED = re.compile(r"agreed to", re.I)
+AMDT_LABEL = {"SAMDT": "S.Amdt.", "HAMDT": "H.Amdt.", "SUAMDT": "S.Up.Amdt."}
+
+
+def text_replacement(amendments):
+    """The latest adopted amendment that replaced the bill's whole text, if any.
+    The Senate often passes a House bill number carrying entirely different text."""
+    hits = []
+    for a in amendments or []:
+        what = " ".join(filter(None, [a.get("purpose"), a.get("description")]))
+        act = a.get("latestAction") or {}
+        if SUBSTITUTE.search(what) and AGREED.search(act.get("text") or ""):
+            hits.append({"label": f'{AMDT_LABEL.get((a.get("type") or "").upper(), "Amdt.")} {a.get("number")}',
+                         "date": act.get("actionDate"), "action": act.get("text"),
+                         "chamber": "Senate" if (a.get("type") or "").upper().startswith("S") else "House"})
+    return max(hits, key=lambda h: h["date"] or "") if hits else None
+
+
+def pick_titles(titles):
+    """The bill's short title for its latest version, and the acts it carries 'for portions of this bill'."""
+    shorts = [t for t in titles or [] if "short title" in (t.get("titleType") or "").lower()]
+    whole = [t for t in shorts if "portions" not in t["titleType"].lower()]
+    parts = [t for t in shorts if "portions" in t["titleType"].lower()]
+    key = lambda t: (t.get("updateDate") or "", t.get("billTextVersionCode") or "")
+    current = max(whole, key=key)["title"] if whole else None
+    if parts:
+        newest = max(key(t) for t in parts)[0][:10]
+        included = list(dict.fromkeys(t["title"] for t in parts if (t.get("updateDate") or "")[:10] == newest))
+    else:
+        included = []
+    return current, included
 
 
 def overrides():
@@ -77,10 +152,15 @@ def fetch_bill(http, key, congress, btype, number):
     b = (http.json(base, params=p) or {}).get("bill", {})
     sums = (http.json(base + "/summaries", params=p, allow_404=True) or {}).get("summaries", [])
     titles = (http.json(base + "/titles", params=p, allow_404=True) or {}).get("titles", [])
+    amdts = (http.json(base + "/amendments", params={**p, "limit": 250}, allow_404=True) or {}).get("amendments", [])
     sums.sort(key=lambda s: (s.get("actionDate") or "", s.get("updateDate") or ""))
     latest = sums[-1] if sums else None
     text = strip_html(latest["text"]) if latest else ""
     short = next((t["title"] for t in titles if "short title" in (t.get("titleType") or "").lower()), None)
+    current, included = pick_titles(titles)
+    replaced = text_replacement(amdts)
+    # A CRS summary dated before the text was replaced describes text that is no longer in the bill.
+    outdated = bool(replaced and latest and (latest.get("actionDate") or "") < (replaced["date"] or ""))
     sponsor = (b.get("sponsors") or [{}])[0]
     return {
         "id": bill_id(congress, btype, number), "label": bill_label(btype, number),
@@ -94,6 +174,9 @@ def fetch_bill(http, key, congress, btype, number):
         "became_law": bool(b.get("laws")),
         "summary": text or None,
         "summary_short": first_sentence(text) if text else None,
+        "key_points": key_points(latest["text"]) if latest else [],
+        "current_title": current, "included_acts": included,
+        "text_replaced": replaced, "summary_outdated": outdated,
         "summary_version": latest.get("actionDesc") if latest else None,
         "summary_source": "Congressional Research Service, via Congress.gov" if text else None,
         "congress_url": congress_url(congress, btype, number),
@@ -107,7 +190,6 @@ def update(cfg, http, wanted, refresh_days=3, first=()):
     if not key:
         log.warning("Bills: no API_DATA_GOV_KEY set, skipping Congress.gov")
         return
-    ov = overrides()
     today = time.time()
     done = 0
     first = [b for b in dict.fromkeys(first)]
@@ -130,10 +212,10 @@ def update(cfg, http, wanted, refresh_days=3, first=()):
         except Exception as e:  # keep going if one bill fails
             log.warning("Bills: %s %s failed: %s", btype, number, e)
             continue
-        o = ov.get(b["id"])
-        if o:
-            b["summary_short"] = o
-            b["summary_source"] = "Solon Watch, based on the Congressional Research Service summary"
+        o = override(b["id"])
+        if o.get("summary"):
+            b["summary_short"] = o["summary"]
+            b["summary_source"] = o.get("source") or "Solon Watch, based on the Congressional Research Service summary"
         write_json(path, b)
         done += 1
     log.info("Bills: %d updated", done)

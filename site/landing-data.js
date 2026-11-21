@@ -7,8 +7,18 @@ var MEMBERS = [
     "role": "U.S. Senator, Georgia",
     "vote": {
       "bill": "H.R. 2347",
-      "title": "Survivor Justice Tax Prevention Act",
-      "summary": "Excludes from gross income certain damages received by an individual due to any sexual act or sexual contact and establishes the applicable burden of proof in court proceedings regarding the characterization of such damages for federal tax purposes.",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/2347",
+      "title": "Bipartisan American Affordability and Jobs Act of 2026",
+      "summary": "Rewrites federal environmental review and permitting rules for energy, mining, transmission and other infrastructure projects, including changes to the National Environmental Policy Act (NEPA).",
+      "points": [
+        "Sets a 150-day deadline to sue over many federal permits and moves NEPA lawsuits to federal appeals courts",
+        "Limits when courts can cancel a permit over a flawed environmental review",
+        "Narrows which federal actions need a NEPA review and adds deadlines for agency permit decisions",
+        "Changes permitting under the Clean Water Act, the Endangered Species Act and the National Historic Preservation Act",
+        "Expands federal planning, siting and cost rules for electric transmission lines, including upgrades on existing routes",
+        "Adds provisions on geothermal, hydropower, offshore transmission and hardrock mining"
+      ],
+      "replaced": "The Senate replaced this bill’s original text with S.Amdt. 6883 on November 18, 2026. This vote was on the new text.",
       "cast": "Nay",
       "result": "Passed 62 to 33",
       "date": "November 19, 2026",
@@ -91,8 +101,18 @@ var MEMBERS = [
     "role": "U.S. Senator, Maine",
     "vote": {
       "bill": "H.R. 2347",
-      "title": "Survivor Justice Tax Prevention Act",
-      "summary": "Excludes from gross income certain damages received by an individual due to any sexual act or sexual contact and establishes the applicable burden of proof in court proceedings regarding the characterization of such damages for federal tax purposes.",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/2347",
+      "title": "Bipartisan American Affordability and Jobs Act of 2026",
+      "summary": "Rewrites federal environmental review and permitting rules for energy, mining, transmission and other infrastructure projects, including changes to the National Environmental Policy Act (NEPA).",
+      "points": [
+        "Sets a 150-day deadline to sue over many federal permits and moves NEPA lawsuits to federal appeals courts",
+        "Limits when courts can cancel a permit over a flawed environmental review",
+        "Narrows which federal actions need a NEPA review and adds deadlines for agency permit decisions",
+        "Changes permitting under the Clean Water Act, the Endangered Species Act and the National Historic Preservation Act",
+        "Expands federal planning, siting and cost rules for electric transmission lines, including upgrades on existing routes",
+        "Adds provisions on geothermal, hydropower, offshore transmission and hardrock mining"
+      ],
+      "replaced": "The Senate replaced this bill’s original text with S.Amdt. 6883 on November 18, 2026. This vote was on the new text.",
       "cast": "Yea",
       "result": "Passed 62 to 33",
       "date": "November 19, 2026",
@@ -175,8 +195,11 @@ var MEMBERS = [
     "role": "U.S. House, Massachusetts District 5",
     "vote": {
       "bill": "H.R. 4464",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/4464",
       "title": "Preventive Health Savings Act",
       "summary": "Requires the Congressional Budget Office (CBO), upon receiving a request from Congress, to determine if proposed legislation would reduce spending outside of the 10-year budget window through the use of preventive health care.",
+      "points": [],
+      "replaced": null,
       "cast": "Yea",
       "result": "Passed 401 to 0",
       "date": "November 19, 2026",
@@ -212,8 +235,11 @@ var MEMBERS = [
     "role": "U.S. House, Minnesota District 6",
     "vote": {
       "bill": "H.R. 4464",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/4464",
       "title": "Preventive Health Savings Act",
       "summary": "Requires the Congressional Budget Office (CBO), upon receiving a request from Congress, to determine if proposed legislation would reduce spending outside of the 10-year budget window through the use of preventive health care.",
+      "points": [],
+      "replaced": null,
       "cast": "Yea",
       "result": "Passed 401 to 0",
       "date": "November 19, 2026",
@@ -566,25 +592,29 @@ var SCHEDULE = {
         "bill": "H.R. 8483",
         "title": "Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026",
         "status": "Passed 398 to 0",
-        "roll": 324
+        "roll": 324,
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/8483"
       },
       {
         "bill": "H.R. 9600",
         "title": "Common Sense 250 Act of 2026",
         "status": "Passed 365 to 36",
-        "roll": 325
+        "roll": 325,
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/9600"
       },
       {
         "bill": "H.R. 9640",
         "title": "Earth MRI Reauthorization Act of 2026",
         "status": "Passed 396 to 14",
-        "roll": 326
+        "roll": 326,
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/9640"
       },
       {
         "bill": "H.R. 4464",
         "title": "Preventive Health Savings Act",
         "status": "Passed 401 to 0",
-        "roll": 327
+        "roll": 327,
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/4464"
       }
     ],
     "listed": 15,
@@ -592,5 +622,15 @@ var SCHEDULE = {
     "upcoming": 0,
     "over": true
   },
-  "senate": []
+  "senate": [],
+  "senate_recent": [
+    {
+      "bill": "H.R. 2347",
+      "title": "Bipartisan American Affordability and Jobs Act of 2026",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/2347",
+      "status": "Passed 62 to 33",
+      "date": "November 19, 2026",
+      "roll": 270
+    }
+  ]
 };
