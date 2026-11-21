@@ -59,7 +59,7 @@ def list_files(http, st, year):
 def tally_rows(rows, district, kind):
     by_county, cand = {}, {}
     for row in rows:
-        r = {k.strip().lower(): (v or "").strip() for k, v in row.items() if k}
+        r = {k.strip().lstrip("\ufeff").lower(): (v or "").strip() for k, v in row.items() if k}  # some files start with a byte-order mark
         if not is_house_office(r.get("office")):
             continue
         try:
@@ -73,8 +73,15 @@ def tally_rows(rows, district, kind):
             v = int(float((r.get("votes") or "0").replace(",", "")))
         except ValueError:
             continue
-        c = by_county.setdefault(r.get("county") or "", {"D": 0, "R": 0, "O": 0})
+        cand_name = r.get("candidate") or ""
+        # Under and over votes are blank or spoiled ballots, not votes for anyone.
+        if re.sub(r"[^a-z]", "", cand_name.lower()) in ("undervotes", "overvotes", "total", "totalvotes"):
+            continue
         pty = party_of(r.get("party"))
+        # Some county files put the party in the candidate column.
+        if pty == "O" and cand_name.upper() in ("DEM", "REP", "DEMOCRATIC", "REPUBLICAN"):
+            pty = party_of(cand_name)
+        c = by_county.setdefault(r.get("county") or "", {"D": 0, "R": 0, "O": 0})
         c[pty] += v
         cand[(r.get("candidate"), pty)] = cand.get((r.get("candidate"), pty), 0) + v
     return by_county, cand
@@ -129,6 +136,9 @@ def district_results(http, cfg, code, county_list):
     areas = []
     D = R = O = 0
     for cname, t in oe["by_county"].items():
+        # A district number can repeat in other counties' files for other offices; keep only this district's counties.
+        if norm_county(cname) not in names:
+            continue
         D, R, O = D + t["D"], R + t["R"], O + t["O"]
         c = names.get(norm_county(cname))
         d, r = pct(t["D"], t["R"], t["O"])

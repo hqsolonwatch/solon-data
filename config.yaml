@@ -40,7 +40,7 @@ landing:
   house_members: [C001101, E000294]
   # Districts to feature. "auto" picks the least compact district held by
   # each party. Or list districts, for example ["LA-01", "MA-09"].
-  districts: ["LA-01", "MA-09"]
+  districts: ["TX-04", "MA-09"]
   # What fills the second money list on senator slides:
   #   pac_types  PAC money by type: corporate, trade association, labor, and so on
   #   outside    the biggest outside spenders (super PACs) supporting or opposing the senator

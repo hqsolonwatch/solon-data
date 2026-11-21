@@ -1,0 +1,162 @@
+{
+ "election": "20241105",
+ "level": "county",
+ "whole": {
+  "d": 32,
+  "r": 68,
+  "votes": {
+   "D": 111696,
+   "R": 241603,
+   "O": 0
+  }
+ },
+ "areas": [
+  {
+   "name": "Collin",
+   "fips": "48085",
+   "d": 46,
+   "r": 54,
+   "votes": {
+    "D": 59291,
+    "R": 68280,
+    "O": 0
+   }
+  },
+  {
+   "name": "Grayson",
+   "fips": "48181",
+   "d": 21,
+   "r": 79,
+   "votes": {
+    "D": 13309,
+    "R": 50737,
+    "O": 0
+   }
+  },
+  {
+   "name": "Rockwall",
+   "fips": "48397",
+   "d": 27,
+   "r": 73,
+   "votes": {
+    "D": 16815,
+    "R": 44547,
+    "O": 0
+   }
+  },
+  {
+   "name": "Denton",
+   "fips": "48121",
+   "d": 39,
+   "r": 61,
+   "votes": {
+    "D": 10523,
+    "R": 16350,
+    "O": 0
+   }
+  },
+  {
+   "name": "Lamar",
+   "fips": "48277",
+   "d": 18,
+   "r": 82,
+   "votes": {
+    "D": 3757,
+    "R": 16850,
+    "O": 0
+   }
+  },
+  {
+   "name": "Hopkins",
+   "fips": "48223",
+   "d": 17,
+   "r": 83,
+   "votes": {
+    "D": 2723,
+    "R": 13685,
+    "O": 0
+   }
+  },
+  {
+   "name": "Fannin",
+   "fips": "48147",
+   "d": 15,
+   "r": 85,
+   "votes": {
+    "D": 2432,
+    "R": 13656,
+    "O": 0
+   }
+  },
+  {
+   "name": "Rains",
+   "fips": "48379",
+   "d": 12,
+   "r": 88,
+   "votes": {
+    "D": 796,
+    "R": 5644,
+    "O": 0
+   }
+  },
+  {
+   "name": "Hunt",
+   "fips": "48231",
+   "d": 15,
+   "r": 85,
+   "votes": {
+    "D": 781,
+    "R": 4458,
+    "O": 0
+   }
+  },
+  {
+   "name": "Bowie",
+   "fips": "48037",
+   "d": 16,
+   "r": 84,
+   "votes": {
+    "D": 684,
+    "R": 3724,
+    "O": 0
+   }
+  },
+  {
+   "name": "Delta",
+   "fips": "48119",
+   "d": 14,
+   "r": 86,
+   "votes": {
+    "D": 369,
+    "R": 2217,
+    "O": 0
+   }
+  },
+  {
+   "name": "Red River",
+   "fips": "48387",
+   "d": 13,
+   "r": 87,
+   "votes": {
+    "D": 216,
+    "R": 1455,
+    "O": 0
+   }
+  }
+ ],
+ "source": "Official 2024 county results by precinct as compiled by OpenElections (openelections-data-tx) and added up by county. Rains County, which OpenElections does not have, was entered by hand (Fallon 5,644, Cardell 796). With it, the totals match the official district result (Fallon 241,603, Cardell 111,696). Under- and over-votes are not counted",
+ "source_files": [
+  "https://raw.githubusercontent.com/openelections/openelections-data-tx/master/2024/counties/20241105__tx__general__collin__precinct.csv",
+  "https://raw.githubusercontent.com/openelections/openelections-data-tx/master/2024/counties/20241105__tx__general__grayson__precinct.csv",
+  "https://raw.githubusercontent.com/openelections/openelections-data-tx/master/2024/counties/20241105__tx__general__rockwall__precinct.csv",
+  "https://raw.githubusercontent.com/openelections/openelections-data-tx/master/2024/counties/20241105__tx__general__denton__precinct.csv",
+  "https://raw.githubusercontent.com/openelections/openelections-data-tx/master/2024/counties/20241105__tx__general__lamar__precinct.csv",
+  "https://raw.githubusercontent.com/openelections/openelections-data-tx/master/2024/counties/20241105__tx__general__hopkins__precinct.csv",
+  "https://raw.githubusercontent.com/openelections/openelections-data-tx/master/2024/counties/20241105__tx__general__fannin__precinct.csv",
+  "https://raw.githubusercontent.com/openelections/openelections-data-tx/master/2024/counties/20241105__tx__general__hunt__precinct.csv",
+  "https://raw.githubusercontent.com/openelections/openelections-data-tx/master/2024/counties/20241105__tx__general__bowie__precinct.csv",
+  "https://raw.githubusercontent.com/openelections/openelections-data-tx/master/2024/counties/20241105__tx__general__delta__precinct.csv",
+  "https://raw.githubusercontent.com/openelections/openelections-data-tx/master/2024/counties/20241105__tx__general__red_river__precinct.csv",
+  "https://txelectionresults.com/counties/rains"
+ ]
+}

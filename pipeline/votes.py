@@ -69,7 +69,7 @@ def parse_house(xml_text):
     tot = md.find("vote-totals")
     if tot is not None:
         for p in tot.findall("totals-by-party"):
-            party = _t(p, "party")
+            party = PARTY_CODE.get(_t(p, "party"), _t(p, "party"))
             by_party[party] = {k: int(_t(p, f"{k}-total", "0") or 0) for k in ("yea", "nay", "present", "not-voting")}
         tv = tot.find("totals-by-vote")
         totals = {k: int(_t(tv, f"{k}-total", "0") or 0) for k in ("yea", "nay", "present", "not-voting")} if tv is not None else {}
@@ -206,12 +206,17 @@ def all_votes(cfg):
                 yield v
 
 
+PARTY_CODE = {"Democratic": "D", "Democrat": "D", "Republican": "R", "Independent": "I"}
+
+
 def build_indexes(cfg, members):
     """votes/index.json (every vote, no member positions) and members/{id}/votes.json."""
     index, per_member = [], {}
     for v in all_votes(cfg):
         summary = {k: v[k] for k in ("id", "chamber", "congress", "session", "number", "date", "question",
                                      "kind", "result", "bill", "totals", "by_party", "source_url")}
+        # House files saved before this fix use full party names; the index always uses D, R and I.
+        summary["by_party"] = {PARTY_CODE.get(k, k): c for k, c in (summary["by_party"] or {}).items()}
         index.append(summary)
         for pos in v["positions"]:
             per_member.setdefault(pos["id"], []).append({

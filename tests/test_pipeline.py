@@ -239,7 +239,8 @@ def rules_all(tmp_path):
 def test_parsers():
     v = votes.parse_house((FIX / "house_roll314.xml").read_bytes())
     assert v["bill"]["label"] == "S. 2403" and v["kind"] == "passage" and v["totals"]["yea"] == 401
-    assert v["date"] == "2026-09-16" and v["by_party"]["Democratic"]["nay"] == 0
+    assert set(v["by_party"]) <= {"D", "R", "I"} and v["by_party"]
+    assert v["date"] == "2026-09-16" and v["by_party"]["D"]["nay"] == 0
     assert votes.parse_house((FIX / "house_roll313.xml").read_bytes())["kind"] == "resolution"
     s = votes.parse_senate((FIX / "senate_vote250.xml").read_bytes(), {"S414": "O000174"})
     assert s["date"] == "2026-09-28" and s["bill"]["label"] == "S. 4668" and s["kind"] == "passage"

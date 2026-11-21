@@ -3,8 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Solon Watch: Follow the Bills. Follow the Money.</title>
+<title>Solon Watch: Democracy Should Be Easy</title>
 <meta name="description" content="Solon Watch tracks how members of Congress vote, who funds their campaigns, and who lobbies on the bills they vote on.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='1' y='1' width='30' height='30' rx='5' fill='%230b5a3e' stroke='%23fff' stroke-width='1.5'/%3E%3Ccircle cx='16' cy='16' r='9.5' fill='%23fff'/%3E%3Ccircle cx='18.5' cy='14' r='4' fill='%2316181a'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Overpass:wght@500;600;700;800&family=Public+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Overpass+Mono:wght@400;600&display=swap">
 <style>
@@ -12,7 +13,7 @@
 :root{
   --paper:#fbfbf8; --surface:#ffffff; --ink:#16181a; --body:#2e3236; --muted:#62676c; --line:#dcddd6; --dash:#c6c8c0;
   --sign:#0b5a3e; --sign-deep:#08452f; --tint:#e9f0ec; --yellow:#f2c230;
-  --senate:#2a4f8f; --house:#6e4f33; --nay:#9a3324;
+  --senate:#4f5d6b; --house:#6e4f33; --nay:#9a3324;
   --dem:#2f5f9e; --rep:#b23a2a; --dem-tint:#e8eef6; --rep-tint:#f6e9e6;
   --bar:#3d4246; --bar2:#8a8f93; --bar3:#c6c8c0; --track:#ecece6;
   --display:"Overpass","Helvetica Neue",Arial,sans-serif;
@@ -45,7 +46,7 @@ p{margin:0 0 16px}
 .mh .jump{font-size:16px;font-weight:500;color:var(--ink)}
 .brand{display:flex;align-items:center;gap:14px}
 .motto{font-family:var(--display);font-weight:600;font-size:15px;color:var(--muted);padding-top:3px}
-@media (max-width:640px){.motto{display:none}}
+@media (max-width:640px){.brand{flex-direction:column;align-items:flex-start;gap:6px}.motto{font-size:13px;padding-top:0}}
 .wrap{max-width:1080px;margin:0 auto}
 
 /* Hero */
@@ -195,24 +196,24 @@ ol.steps li::before{content:counter(s);font-family:var(--mono);font-size:15px;co
 
 
 <header class="mh g"><div class="mh-in">
-  <div class="brand"><a class="logo" href="#top" aria-label="Solon Watch">S<span class="eye"><span class="p"></span></span>l<span class="eye"><span class="p"></span></span>n<span class="lw">Watch</span></a><span class="motto">Follow the Bills. Follow the Money.</span></div>
+  <div class="brand"><a class="logo" href="#top" aria-label="Solon Watch">S<span class="eye"><span class="p"></span></span>l<span class="eye"><span class="p"></span></span>n<span class="lw">Watch</span></a><span class="motto">Democracy Should Be Easy</span></div>
   <a class="jump" href="#join">Join the waitlist</a>
 </div></header>
 
 <main class="g" id="top"><div class="wrap">
   <section class="hero">
-    <h1>Elections end. Accountability shouldn’t.</h1>
-    <p class="lead">Most people follow politics closely around Election Day and much less in the two to four years after it. Solon Watch keeps following for you. It records how your senators and House member vote and where their campaign money comes from, and it shows you who lives inside your district’s lines.</p>
+    <h1>You voted them in, now tell them what you want.</h1>
+    <p class="lead">Most people only hear about bills when they see attack ads on TV. Meanwhile the politicians you elected pass hundreds of bills a year. We want you to be able to tell the politicians why you voted for them. Only about 1 in 6 Americans contacted an elected official in the past year. What could America look like if you changed that?</p>
     <form class="wl" data-signup name="waitlist" method="POST" data-netlify="true" netlify-honeypot="company"><input type="hidden" name="form-name" value="waitlist"><p class="sr"><label>Leave this empty <input name="company" tabindex="-1" autocomplete="off"></label></p><label class="sr" for="email-top">Email address</label><input id="email-top" name="email" type="email" placeholder="you@example.com" autocomplete="email"><button type="submit">Get early access</button></form>
     <p class="err" hidden>That email address doesn’t look right. Check for a typo and try again.</p>
     <p class="ok" hidden>You’re on the list. We’ll email you when Solon Watch opens.</p>
-    <p class="note">Launching with the U.S. Senate and House. Bill alerts are free.</p>
+    <p class="note">Launching with the U.S. Senate and House. Bill alerts are free. <a href="privacy.html">Privacy policy</a></p>
   </section>
 
   <div class="road">
     <section class="mile"><div class="mm" aria-hidden="true"><span>MILE</span><b>1</b></div><div class="mc">
       <h2>The years in between</h2>
-      <p id="rollintro">Congress votes most weeks, in election years and in between. Solon Watch keeps every recorded vote, with a plain-English summary of the bill, and tells you when your representatives are about to vote again.</p>
+      <p id="rollintro">Congress votes most weeks, in election years and in between. We let you make your voice heard for the bills that you care about, and show you how your representative has voted in the past.</p>
       <figure class="chart" style="margin-inline:0">
         <div id="rollchart"></div>
         <div class="legend"><span><i style="background:var(--house)"></i>House</span><span><i style="background:var(--senate)"></i>Senate</span></div>
@@ -221,8 +222,18 @@ ol.steps li::before{content:counter(s);font-family:var(--mono);font-size:15px;co
     </div></section>
 
     <section class="mile"><div class="mm" aria-hidden="true"><span>MILE</span><b>2</b></div><div class="mc">
+      <h2>How it works</h2>
+      <ol class="steps">
+        <li><span>Enter your address. We find your two senators, your House member and your district.</span></li>
+        <li><span>Tell us what issues you care most about.</span></li>
+        <li><span>Get an alert when a bill you care about is scheduled for a vote, and see how your representatives voted once it’s over. Send them your opinions before and after any vote you care deeply about.</span></li>
+        <li><span>Make an educated decision when it’s time to choose whether or not you want to send them back to Congress to represent you.</span></li>
+      </ol>
+    </div></section>
+
+    <section class="mile"><div class="mm" aria-hidden="true"><span>MILE</span><b>3</b></div><div class="mc">
       <h2>Votes and money</h2>
-      <p>Here are four members of Congress, two from each party, as they’ll appear in Solon Watch. Each shows the member’s most recent vote to pass a bill, the groups that lobbied on that bill, and what those groups’ PACs gave the member. The two senators raised the most money in their parties this cycle, so their pages also show where all of it came from.</p>
+      <p>We want to demystify money in politics. If your representative is not voting in a way that helps their constituents out, you should be able to see who else has a stake in their votes.</p>
       <div class="members" id="members" role="group" aria-label="Choose a member of Congress"></div>
       <div class="card" id="show">
         <div class="card-head">
@@ -232,35 +243,25 @@ ol.steps li::before{content:counter(s);font-family:var(--mono);font-size:15px;co
         <div id="slide"></div>
       </div>
       <div class="sched" id="sched" hidden>
-        <p class="lede-s">Solon Watch lists bills before they reach the floor. When you want to weigh in, you can message your representatives from the app in a few taps.</p>
+        <p class="lede-s">If you aren’t watching your representative, who is?</p>
         <div id="sched-house"></div>
         <div id="sched-senate"></div>
       </div>
     </div></section>
 
-    <section class="mile"><div class="mm" aria-hidden="true"><span>MILE</span><b>3</b></div><div class="mc">
+    <section class="mile"><div class="mm" aria-hidden="true"><span>MILE</span><b>4</b></div><div class="mc">
       <h2>Districts</h2>
       <p>Some districts are drawn in shapes that stretch across a state to pick up some neighborhoods and leave out others. One common way to measure that is the Polsby-Popper score, which compares a district’s area to the length of its border. A perfect circle scores 1. The lower the score, the more stretched and irregular the shape.</p>
-      <p>District lines also decide who shares your representative. Everyone inside the lines votes in the same House race, so their priorities shape who wins and what that member works on. When a district stretches across very different places, one member answers to all of them. Solon Watch shows you which communities are in your district with you.</p>
-      <p>Below are two of the least compact districts, one held by each party. Tap “See how each area voted” to compare each part of the district with the whole.</p>
+      <p>District lines also decide who shares your representative. Everyone inside the lines votes in the same House race, so their priorities shape who wins and what that member works on. When a district stretches across very different places, one member answers to all of them. We show you which communities are in your district with you.</p>
+      <p>Below are two of the least compact districts, one held by each party. Tap or click “See how each area voted” to compare each part of the district with the whole.</p>
       <div class="toggles" id="dpick" role="group" aria-label="Choose a district"></div>
       <div class="card" id="district"></div>
     </div></section>
 
-    <section class="mile"><div class="mm" aria-hidden="true"><span>MILE</span><b>4</b></div><div class="mc">
-      <h2>How it works</h2>
-      <ol class="steps">
-        <li><span>Enter your address. Solon Watch finds your two senators, your House member and your district.</span></li>
-        <li><span>Follow them. Each vote they cast shows up with a plain-English summary of the bill, next to where their campaign money came from.</span></li>
-        <li><span>Get a free alert when a bill you care about is scheduled for a vote, and see how your representatives voted once it’s over.</span></li>
-        <li><span>Send your senators and House member a message about a bill, before or after the vote.</span></li>
-      </ol>
-    </div></section>
-
     <section class="mile"><div class="mm" aria-hidden="true"><span>MILE</span><b>5</b></div><div class="mc">
       <h2>Where the numbers come from</h2>
-      <p>Votes come from the official roll-call records on <a href="https://www.senate.gov/legislative/votes_new.htm">senate.gov</a> and <a href="https://clerk.house.gov/Votes">house.gov</a>. Campaign totals come from the <a href="https://www.fec.gov/data/">Federal Election Commission</a>. PAC money comes from the contribution reports PACs file with the FEC, and each PAC’s type comes from its FEC registration. Lobbying comes from the federal <a href="https://lda.gov/">lobbying disclosure database</a>, where lobbyists list the bills they worked on. Area-by-area election results are certified results from each state’s election office. Some come straight from the state, and some come through <a href="https://openelections.net/">OpenElections</a>, a free public project that collects official results from state and local election offices.</p>
-      <p>Every number in Solon Watch shows the public record it came from. Solon Watch doesn’t endorse candidates or parties.</p>
+      <p>Votes come from the official roll-call records on <a href="https://www.senate.gov/legislative/votes_new.htm">senate.gov</a> and <a href="https://clerk.house.gov/Votes">house.gov</a>. Campaign totals come from the <a href="https://www.fec.gov/data/">Federal Election Commission</a>. PAC money comes from the contribution reports PACs file with the FEC, and each PAC’s type comes from its FEC registration. Lobbying comes from the federal <a href="https://lda.gov/">lobbying disclosure database</a>, where lobbyists list the bills they worked on. Area-by-area election results are certified results from each state’s election office. Some come straight from the state, and some come through <a href="https://openelections.net/">OpenElections</a>, a free public project that collects official results from state and local election offices. The share of Americans who contacted an elected official comes from a <a href="https://www.pewresearch.org/short-reads/2026/09/28/how-urban-suburban-and-rural-americans-engage-in-society/">Pew Research Center survey</a> taken in September 2025.</p>
+      <p>We show the public record behind every number, and we don’t endorse candidates or parties.</p>
     </div></section>
 
     <section class="mile" style="padding-bottom:40px" id="join"><div class="mm x" aria-hidden="true"><span>EXIT</span><b>120</b></div><div class="mc">
@@ -274,11 +275,12 @@ ol.steps li::before{content:counter(s);font-family:var(--mono);font-size:15px;co
       <form class="wl" data-signup name="waitlist" method="POST" data-netlify="true" netlify-honeypot="company"><input type="hidden" name="form-name" value="waitlist"><p class="sr"><label>Leave this empty <input name="company" tabindex="-1" autocomplete="off"></label></p><label class="sr" for="email-bottom">Email address</label><input id="email-bottom" name="email" type="email" placeholder="you@example.com" autocomplete="email"><button type="submit">Join the waitlist</button></form>
       <p class="err" hidden>That email address doesn’t look right. Check for a typo and try again.</p>
       <p class="ok" hidden>You’re on the list. We’ll email you when Solon Watch opens.</p>
+      <p class="note"><a href="privacy.html">Privacy policy</a></p>
     </div></section>
   </div>
 </div></main>
 
-<footer class="mf g"><div class="mf-in"><span>Solon Watch. Follow the Bills. Follow the Money.</span><span>Contact: <a href="mailto:hq@solonwatch.com">hq@solonwatch.com</a></span></div></footer>
+<footer class="mf g"><div class="mf-in"><span>Solon Watch. Democracy Should Be Easy</span><span><a href="privacy.html">Privacy policy</a></span><span>Contact: <a href="mailto:hq@solonwatch.com">hq@solonwatch.com</a></span></div></footer>
 
 <script>
 /* PAGE DATA START */
@@ -924,36 +926,41 @@ var SCHEDULE = {
   function SRC(t) { return '<details class="src"><summary>Sources</summary><p class="src">' + esc(t) + '</p></details>'; }
 
   /* Roll-call chart */
-  (function () {
+  var phone = window.matchMedia("(max-width:559px)");
+  function drawRoll() {
     var box = document.getElementById("rollchart");
     if (!ROLLCALLS || !ROLLCALLS.months.length) { box.parentNode.hidden = true; return; }
-    var M = ROLLCALLS.months, meta = ROLLCALLS.meta, w = 1000, ht = 230, top = 16, base = 196, g = "", peak = 0, tick;
+    /* Phones get a narrower drawing so labels stay readable */
+    var ph = phone.matches, M = ROLLCALLS.months, meta = ROLLCALLS.meta, w = ph ? 480 : 1000, ht = ph ? 244 : 230, top = 16, base = ph ? 204 : 196,
+        fs = ph ? 17 : 14, L = ph ? 44 : 40, ts = ph ? 80 : 40, g = "", peak = 0, tick;
     M.forEach(function (m) { peak = Math.max(peak, m[1] + m[2]); });
-    var max = Math.max(40, Math.ceil(peak / 40) * 40);
-    for (tick = 0; tick <= max; tick += 40) { var y = base - tick / max * (base - top);
-      g += '<line x1="34" x2="' + w + '" y1="' + y + '" y2="' + y + '" stroke="var(--line)"/><text x="26" y="' + (y + 5) + '" text-anchor="end" font-size="14" fill="var(--muted)">' + tick + '</text>'; }
-    var step = (w - 40) / M.length, bwid = Math.max(2, step - 8), hi = M[0];
+    var max = Math.max(ts, Math.ceil(peak / ts) * ts);
+    for (tick = 0; tick <= max; tick += ts) { var y = base - tick / max * (base - top);
+      g += '<line x1="' + (L - 6) + '" x2="' + w + '" y1="' + y + '" y2="' + y + '" stroke="var(--line)"/><text x="' + (L - 12) + '" y="' + (y + 5) + '" text-anchor="end" font-size="' + fs + '" fill="var(--muted)">' + tick + '</text>'; }
+    var step = (w - L) / M.length, bwid = Math.max(2, step - (ph ? 3 : 8)), hi = M[0];
     M.forEach(function (m, i) {
-      var x = 40 + i * step, hh = m[1] / max * (base - top), sh = m[2] / max * (base - top), last = i === M.length - 1;
+      var x = L + i * step, hh = m[1] / max * (base - top), sh = m[2] / max * (base - top), last = i === M.length - 1;
       if (m[1] + m[2] > hi[1] + hi[2]) hi = m;
       var tip = '<title>' + m[0] + ': House ' + m[1] + ', Senate ' + m[2] + '</title>';
       g += '<rect x="' + x + '" y="' + (base - hh) + '" width="' + bwid + '" height="' + hh + '" fill="var(--house)">' + tip + '</rect>';
       g += '<rect x="' + x + '" y="' + (base - hh - sh) + '" width="' + bwid + '" height="' + sh + '" fill="var(--senate)">' + tip + '</rect>';
-      if (m[0].slice(0, 3) === "Jan" || last) g += '<text x="' + (last ? x + bwid : x + bwid / 2) + '" y="' + (base + 22) + '" text-anchor="' + (last ? "end" : "middle") + '" font-size="14" fill="var(--muted)">' + m[0] + '</text>';
+      if (m[0].slice(0, 3) === "Jan" || last) g += '<text x="' + (last ? x + bwid : x + bwid / 2) + '" y="' + (base + 22) + '" text-anchor="' + (last ? "end" : "middle") + '" font-size="' + fs + '" fill="var(--muted)">' + m[0] + '</text>';
       if (meta.election && m[0] === meta.election.month) {
         var cx = x + bwid / 2, right = i > M.length / 2;
-        g += '<line x1="' + cx + '" x2="' + cx + '" y1="' + (top + 4) + '" y2="' + (base - 8) + '" stroke="var(--ink)" stroke-dasharray="3 3"/><text x="' + (right ? cx - 6 : cx + 6) + '" y="' + (top + 14) + '" text-anchor="' + (right ? "end" : "start") + '" font-size="14" font-weight="600" fill="var(--ink)">Election Day</text>';
+        g += '<line x1="' + cx + '" x2="' + cx + '" y1="' + (top + 4) + '" y2="' + (base - 8) + '" stroke="var(--ink)" stroke-dasharray="3 3"/><text x="' + (right ? cx - 6 : cx + 6) + '" y="' + (top + 14) + '" text-anchor="' + (right ? "end" : "start") + '" font-size="' + fs + '" font-weight="600" fill="var(--ink)">Election Day</text>';
       }
     });
-    g += '<line x1="34" x2="' + w + '" y1="' + base + '" y2="' + base + '" stroke="var(--ink)"/>';
+    g += '<line x1="' + (L - 6) + '" x2="' + w + '" y1="' + base + '" y2="' + base + '" stroke="var(--ink)"/>';
     function n(x) { return String(x).replace(/\B(?=(\d{3})+(?!\d))/g, ","); }
     box.innerHTML = '<svg viewBox="0 0 ' + w + ' ' + ht + '" role="img" aria-label="Bar chart of House and Senate roll-call votes per month, ' + esc(M[0][0]) + ' to ' + esc(M[M.length - 1][0]) + '. The busiest month was ' + esc(hi[0]) + ', with ' + (hi[1] + hi[2]) + ' votes.">' + g + '</svg>';
     var intro = meta.election
       ? "From " + meta.start + " to Election Day on " + meta.election.date + ", the House and Senate held " + n(meta.election.total) + " recorded votes."
       : "Since " + meta.start + ", the House and Senate have held " + n(meta.total) + " recorded votes.";
-    document.getElementById("rollintro").textContent = intro + " Solon Watch keeps every one of them, with a plain-English summary of the bill, and tells you when your representatives are about to vote again.";
+    document.getElementById("rollintro").textContent = intro + " We let you make your voice heard for the bills that you care about, and show you how your representative has voted in the past.";
     document.getElementById("rollcap").textContent = "Roll-call votes per month, " + meta.start + " through " + meta.through + ". Source: " + ROLLCALLS.source + ".";
-  })();
+  }
+  drawRoll();
+  if (phone.addEventListener) phone.addEventListener("change", drawRoll);
 
   /* Floor schedule */
   (function () {
@@ -1000,7 +1007,6 @@ var SCHEDULE = {
   });
 
   /* Members */
-  var shades = ["var(--bar)", "var(--yellow)", "var(--bar2)", "var(--bar3)"];
   var slide = document.getElementById("slide"), who = document.getElementById("who"), count = document.getElementById("count"),
       prev = document.getElementById("prev"), next = document.getElementById("next"), picker = document.getElementById("members");
   var at = 0;
@@ -1010,7 +1016,7 @@ var SCHEDULE = {
     for (i = 0; i < list.length; i++) {
       var v = list[i][1], w = pct ? v : (max ? Math.round(v / max * 100) : 0);
       h += '<div class="r"><span>' + esc(list[i][0]) + '</span><b>' + (pct ? v + "%" : money(v)) + '</b></div>';
-      h += '<div class="t"><div class="f" style="width:' + w + '%;background:' + (pct ? shades[i % 4] : "var(--bar)") + '"></div></div>';
+      h += '<div class="t"><div class="f" style="width:' + w + '%;background:' + "var(--bar)" + '"></div></div>';
     }
     return h + '</div>';
   }
@@ -1027,7 +1033,7 @@ var SCHEDULE = {
     h += SRC(m.vote.source) + '</div>';
 
     h += '<div class="panel"><h4>Groups that lobbied on this bill</h4>';
-    h += '<p class="lede">What each group spent on lobbying in its latest quarterly report naming this bill, across all issues, and what its PAC gave ' + esc(last) + ', ' + esc(m.lobbying.cycle) + '.</p>';
+    h += '<p class="lede">What each group spent on lobbying in its latest report naming this bill, across all issues, and what its PAC gave ' + esc(last) + ', ' + esc(m.lobbying.cycle) + '.</p>';
     h += '<div class="tblw"><table class="tbl"><thead><tr><th scope="col">Group</th><th scope="col" class="n">Lobbying</th><th scope="col" class="n">PAC gave</th></tr></thead><tbody>';
     m.lobbying.groups.forEach(function (G) {
       h += '<tr><td>' + esc(G[0]) + '</td><td class="n">' + (G[2] != null ? moneyFit(G[2]) : "Not reported") + '</td><td class="n">' + moneyFit(G[1]) + '</td></tr>';

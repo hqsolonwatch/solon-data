@@ -3,8 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Solon Watch: Follow the Bills. Follow the Money.</title>
+<title>Solon Watch: Democracy Should Be Easy</title>
 <meta name="description" content="Solon Watch tracks how members of Congress vote, who funds their campaigns, and who lobbies on the bills they vote on.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='1' y='1' width='30' height='30' rx='5' fill='%230b5a3e' stroke='%23fff' stroke-width='1.5'/%3E%3Ccircle cx='16' cy='16' r='9.5' fill='%23fff'/%3E%3Ccircle cx='18.5' cy='14' r='4' fill='%2316181a'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Overpass:wght@500;600;700;800&family=Public+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Overpass+Mono:wght@400;600&display=swap">
 <style>
@@ -12,7 +13,7 @@
 :root{
   --paper:#fbfbf8; --surface:#ffffff; --ink:#16181a; --body:#2e3236; --muted:#62676c; --line:#dcddd6; --dash:#c6c8c0;
   --sign:#0b5a3e; --sign-deep:#08452f; --tint:#e9f0ec; --yellow:#f2c230;
-  --senate:#2a4f8f; --house:#6e4f33; --nay:#9a3324;
+  --senate:#4f5d6b; --house:#6e4f33; --nay:#9a3324;
   --dem:#2f5f9e; --rep:#b23a2a; --dem-tint:#e8eef6; --rep-tint:#f6e9e6;
   --bar:#3d4246; --bar2:#8a8f93; --bar3:#c6c8c0; --track:#ecece6;
   --display:"Overpass","Helvetica Neue",Arial,sans-serif;
@@ -45,7 +46,7 @@ p{margin:0 0 16px}
 .mh .jump{font-size:16px;font-weight:500;color:var(--ink)}
 .brand{display:flex;align-items:center;gap:14px}
 .motto{font-family:var(--display);font-weight:600;font-size:15px;color:var(--muted);padding-top:3px}
-@media (max-width:640px){.motto{display:none}}
+@media (max-width:640px){.brand{flex-direction:column;align-items:flex-start;gap:6px}.motto{font-size:13px;padding-top:0}}
 .wrap{max-width:1080px;margin:0 auto}
 
 /* Hero */
@@ -195,24 +196,24 @@ ol.steps li::before{content:counter(s);font-family:var(--mono);font-size:15px;co
 
 
 <header class="mh g"><div class="mh-in">
-  <div class="brand"><a class="logo" href="#top" aria-label="Solon Watch">S<span class="eye"><span class="p"></span></span>l<span class="eye"><span class="p"></span></span>n<span class="lw">Watch</span></a><span class="motto">Follow the Bills. Follow the Money.</span></div>
+  <div class="brand"><a class="logo" href="#top" aria-label="Solon Watch">S<span class="eye"><span class="p"></span></span>l<span class="eye"><span class="p"></span></span>n<span class="lw">Watch</span></a><span class="motto">Democracy Should Be Easy</span></div>
   <a class="jump" href="#join">Join the waitlist</a>
 </div></header>
 
 <main class="g" id="top"><div class="wrap">
   <section class="hero">
-    <h1>Elections end. Accountability shouldn’t.</h1>
-    <p class="lead">Most people follow politics closely around Election Day and much less in the two to four years after it. Solon Watch keeps following for you. It records how your senators and House member vote and where their campaign money comes from, and it shows you who lives inside your district’s lines.</p>
+    <h1>You voted them in, now tell them what you want.</h1>
+    <p class="lead">Most people only hear about bills when they see attack ads on TV. Meanwhile the politicians you elected pass hundreds of bills a year. We want you to be able to tell the politicians why you voted for them. Only about 1 in 6 Americans contacted an elected official in the past year. What could America look like if you changed that?</p>
     <form class="wl" data-signup name="waitlist" method="POST" data-netlify="true" netlify-honeypot="company"><input type="hidden" name="form-name" value="waitlist"><p class="sr"><label>Leave this empty <input name="company" tabindex="-1" autocomplete="off"></label></p><label class="sr" for="email-top">Email address</label><input id="email-top" name="email" type="email" placeholder="you@example.com" autocomplete="email"><button type="submit">Get early access</button></form>
     <p class="err" hidden>That email address doesn’t look right. Check for a typo and try again.</p>
     <p class="ok" hidden>You’re on the list. We’ll email you when Solon Watch opens.</p>
-    <p class="note">Launching with the U.S. Senate and House. Bill alerts are free.</p>
+    <p class="note">Launching with the U.S. Senate and House. Bill alerts are free. <a href="privacy.html">Privacy policy</a></p>
   </section>
 
   <div class="road">
     <section class="mile"><div class="mm" aria-hidden="true"><span>MILE</span><b>1</b></div><div class="mc">
       <h2>The years in between</h2>
-      <p id="rollintro">Congress votes most weeks, in election years and in between. Solon Watch keeps every recorded vote, with a plain-English summary of the bill, and tells you when your representatives are about to vote again.</p>
+      <p id="rollintro">Congress votes most weeks, in election years and in between. We let you make your voice heard for the bills that you care about, and show you how your representative has voted in the past.</p>
       <figure class="chart" style="margin-inline:0">
         <div id="rollchart"></div>
         <div class="legend"><span><i style="background:var(--house)"></i>House</span><span><i style="background:var(--senate)"></i>Senate</span></div>
@@ -221,8 +222,18 @@ ol.steps li::before{content:counter(s);font-family:var(--mono);font-size:15px;co
     </div></section>
 
     <section class="mile"><div class="mm" aria-hidden="true"><span>MILE</span><b>2</b></div><div class="mc">
+      <h2>How it works</h2>
+      <ol class="steps">
+        <li><span>Enter your address. We find your two senators, your House member and your district.</span></li>
+        <li><span>Tell us what issues you care most about.</span></li>
+        <li><span>Get an alert when a bill you care about is scheduled for a vote, and see how your representatives voted once it’s over. Send them your opinions before and after any vote you care deeply about.</span></li>
+        <li><span>Make an educated decision when it’s time to choose whether or not you want to send them back to Congress to represent you.</span></li>
+      </ol>
+    </div></section>
+
+    <section class="mile"><div class="mm" aria-hidden="true"><span>MILE</span><b>3</b></div><div class="mc">
       <h2>Votes and money</h2>
-      <p>Here are four members of Congress, two from each party, as they’ll appear in Solon Watch. Each shows the member’s most recent vote to pass a bill, the groups that lobbied on that bill, and what those groups’ PACs gave the member. The two senators raised the most money in their parties this cycle, so their pages also show where all of it came from.</p>
+      <p>We want to demystify money in politics. If your representative is not voting in a way that helps their constituents out, you should be able to see who else has a stake in their votes.</p>
       <div class="members" id="members" role="group" aria-label="Choose a member of Congress"></div>
       <div class="card" id="show">
         <div class="card-head">
@@ -232,35 +243,25 @@ ol.steps li::before{content:counter(s);font-family:var(--mono);font-size:15px;co
         <div id="slide"></div>
       </div>
       <div class="sched" id="sched" hidden>
-        <p class="lede-s">Solon Watch lists bills before they reach the floor. When you want to weigh in, you can message your representatives from the app in a few taps.</p>
+        <p class="lede-s">If you aren’t watching your representative, who is?</p>
         <div id="sched-house"></div>
         <div id="sched-senate"></div>
       </div>
     </div></section>
 
-    <section class="mile"><div class="mm" aria-hidden="true"><span>MILE</span><b>3</b></div><div class="mc">
+    <section class="mile"><div class="mm" aria-hidden="true"><span>MILE</span><b>4</b></div><div class="mc">
       <h2>Districts</h2>
       <p>Some districts are drawn in shapes that stretch across a state to pick up some neighborhoods and leave out others. One common way to measure that is the Polsby-Popper score, which compares a district’s area to the length of its border. A perfect circle scores 1. The lower the score, the more stretched and irregular the shape.</p>
-      <p>District lines also decide who shares your representative. Everyone inside the lines votes in the same House race, so their priorities shape who wins and what that member works on. When a district stretches across very different places, one member answers to all of them. Solon Watch shows you which communities are in your district with you.</p>
-      <p>Below are two of the least compact districts, one held by each party. Tap “See how each area voted” to compare each part of the district with the whole.</p>
+      <p>District lines also decide who shares your representative. Everyone inside the lines votes in the same House race, so their priorities shape who wins and what that member works on. When a district stretches across very different places, one member answers to all of them. We show you which communities are in your district with you.</p>
+      <p>Below are two of the least compact districts, one held by each party. Tap or click “See how each area voted” to compare each part of the district with the whole.</p>
       <div class="toggles" id="dpick" role="group" aria-label="Choose a district"></div>
       <div class="card" id="district"></div>
     </div></section>
 
-    <section class="mile"><div class="mm" aria-hidden="true"><span>MILE</span><b>4</b></div><div class="mc">
-      <h2>How it works</h2>
-      <ol class="steps">
-        <li><span>Enter your address. Solon Watch finds your two senators, your House member and your district.</span></li>
-        <li><span>Follow them. Each vote they cast shows up with a plain-English summary of the bill, next to where their campaign money came from.</span></li>
-        <li><span>Get a free alert when a bill you care about is scheduled for a vote, and see how your representatives voted once it’s over.</span></li>
-        <li><span>Send your senators and House member a message about a bill, before or after the vote.</span></li>
-      </ol>
-    </div></section>
-
     <section class="mile"><div class="mm" aria-hidden="true"><span>MILE</span><b>5</b></div><div class="mc">
       <h2>Where the numbers come from</h2>
-      <p>Votes come from the official roll-call records on <a href="https://www.senate.gov/legislative/votes_new.htm">senate.gov</a> and <a href="https://clerk.house.gov/Votes">house.gov</a>. Campaign totals come from the <a href="https://www.fec.gov/data/">Federal Election Commission</a>. PAC money comes from the contribution reports PACs file with the FEC, and each PAC’s type comes from its FEC registration. Lobbying comes from the federal <a href="https://lda.gov/">lobbying disclosure database</a>, where lobbyists list the bills they worked on. Area-by-area election results are certified results from each state’s election office. Some come straight from the state, and some come through <a href="https://openelections.net/">OpenElections</a>, a free public project that collects official results from state and local election offices.</p>
-      <p>Every number in Solon Watch shows the public record it came from. Solon Watch doesn’t endorse candidates or parties.</p>
+      <p>Votes come from the official roll-call records on <a href="https://www.senate.gov/legislative/votes_new.htm">senate.gov</a> and <a href="https://clerk.house.gov/Votes">house.gov</a>. Campaign totals come from the <a href="https://www.fec.gov/data/">Federal Election Commission</a>. PAC money comes from the contribution reports PACs file with the FEC, and each PAC’s type comes from its FEC registration. Lobbying comes from the federal <a href="https://lda.gov/">lobbying disclosure database</a>, where lobbyists list the bills they worked on. Area-by-area election results are certified results from each state’s election office. Some come straight from the state, and some come through <a href="https://openelections.net/">OpenElections</a>, a free public project that collects official results from state and local election offices. The share of Americans who contacted an elected official comes from a <a href="https://www.pewresearch.org/short-reads/2026/09/28/how-urban-suburban-and-rural-americans-engage-in-society/">Pew Research Center survey</a> taken in September 2025.</p>
+      <p>We show the public record behind every number, and we don’t endorse candidates or parties.</p>
     </div></section>
 
     <section class="mile" style="padding-bottom:40px" id="join"><div class="mm x" aria-hidden="true"><span>EXIT</span><b>120</b></div><div class="mc">
@@ -274,11 +275,12 @@ ol.steps li::before{content:counter(s);font-family:var(--mono);font-size:15px;co
       <form class="wl" data-signup name="waitlist" method="POST" data-netlify="true" netlify-honeypot="company"><input type="hidden" name="form-name" value="waitlist"><p class="sr"><label>Leave this empty <input name="company" tabindex="-1" autocomplete="off"></label></p><label class="sr" for="email-bottom">Email address</label><input id="email-bottom" name="email" type="email" placeholder="you@example.com" autocomplete="email"><button type="submit">Join the waitlist</button></form>
       <p class="err" hidden>That email address doesn’t look right. Check for a typo and try again.</p>
       <p class="ok" hidden>You’re on the list. We’ll email you when Solon Watch opens.</p>
+      <p class="note"><a href="privacy.html">Privacy policy</a></p>
     </div></section>
   </div>
 </div></main>
 
-<footer class="mf g"><div class="mf-in"><span>Solon Watch. Follow the Bills. Follow the Money.</span><span>Contact: <a href="mailto:hq@solonwatch.com">hq@solonwatch.com</a></span></div></footer>
+<footer class="mf g"><div class="mf-in"><span>Solon Watch. Democracy Should Be Easy</span><span><a href="privacy.html">Privacy policy</a></span><span>Contact: <a href="mailto:hq@solonwatch.com">hq@solonwatch.com</a></span></div></footer>
 
 <script>
 /* PAGE DATA START */
@@ -290,34 +292,44 @@ var MEMBERS = [
     "name": "Sen. Jon Ossoff",
     "role": "U.S. Senator, Georgia",
     "vote": {
-      "bill": "H.R. 2347",
-      "title": "Survivor Justice Tax Prevention Act",
-      "summary": "Excludes from gross income certain damages received by an individual due to any sexual act or sexual contact and establishes the applicable burden of proof in court proceedings regarding the characterization of such damages for federal tax purposes.",
-      "cast": "Nay",
-      "result": "Passed 62 to 33",
-      "date": "November 19, 2026",
-      "source": "senate.gov, roll call vote 270, 119th Congress, session 2"
+      "bill": "S. 4668",
+      "title": "Protect College Sports Act of 2026",
+      "summary": "Sets rules for name, image and likeness (NIL) deals for college athletes, caps sports agent fees at 5 percent, and gives schools and conferences a limited antitrust exemption to sell some media rights together.",
+      "cast": "Yea",
+      "result": "Passed 77 to 22",
+      "date": "September 28, 2026",
+      "source": "senate.gov, roll call vote 250, 119th Congress, session 2"
     },
     "lobbying": {
       "cycle": "2026 cycle",
       "groups": [
         [
-          "Duke Energy",
+          "Amazon",
           0,
-          2190000
+          4490000
         ],
         [
-          "Corporate Energy Buyers Association",
-          0,
-          140000
+          "National Association of Broadcasters",
+          5500,
+          2700000
         ],
         [
-          "National Structured Settlements Trade Association",
+          "Charter Communications",
           0,
-          7000
+          2230000
+        ],
+        [
+          "Entertainment Software Association",
+          0,
+          1370000
+        ],
+        [
+          "AFL-CIO",
+          0,
+          920000
         ]
       ],
-      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: Duke Energy (C00083535); Corporate Energy Buyers Association (C00917567); National Structured Settlements Trade Association (C00219444)"
+      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: Amazon (C00360354); National Association of Broadcasters (C00009985); Charter Communications (C00426775); Entertainment Software Association (C00439216); AFL-CIO (C00003806)"
     },
     "money": {
       "cycle": "2026 cycle",
@@ -348,19 +360,19 @@ var MEMBERS = [
         ],
         [
           "Labor union PACs",
-          218500
+          213500
         ],
         [
           "Other PACs",
           164933
         ],
         [
-          "Trade association PACs",
-          115000
-        ],
-        [
           "Membership group PACs",
           107468
+        ],
+        [
+          "Trade association PACs",
+          105000
         ]
       ],
       "sectorsHeading": "PAC money by type",
@@ -374,34 +386,44 @@ var MEMBERS = [
     "name": "Sen. Susan Collins",
     "role": "U.S. Senator, Maine",
     "vote": {
-      "bill": "H.R. 2347",
-      "title": "Survivor Justice Tax Prevention Act",
-      "summary": "Excludes from gross income certain damages received by an individual due to any sexual act or sexual contact and establishes the applicable burden of proof in court proceedings regarding the characterization of such damages for federal tax purposes.",
+      "bill": "S. 4668",
+      "title": "Protect College Sports Act of 2026",
+      "summary": "Sets rules for name, image and likeness (NIL) deals for college athletes, caps sports agent fees at 5 percent, and gives schools and conferences a limited antitrust exemption to sell some media rights together.",
       "cast": "Yea",
-      "result": "Passed 62 to 33",
-      "date": "November 19, 2026",
-      "source": "senate.gov, roll call vote 270, 119th Congress, session 2"
+      "result": "Passed 77 to 22",
+      "date": "September 28, 2026",
+      "source": "senate.gov, roll call vote 250, 119th Congress, session 2"
     },
     "lobbying": {
       "cycle": "2026 cycle",
       "groups": [
         [
-          "Duke Energy",
-          0,
-          2190000
+          "Amazon",
+          7500,
+          4490000
         ],
         [
-          "Corporate Energy Buyers Association",
-          2500,
-          140000
+          "National Association of Broadcasters",
+          12000,
+          2700000
         ],
         [
-          "National Structured Settlements Trade Association",
+          "Charter Communications",
           0,
-          7000
+          2230000
+        ],
+        [
+          "Entertainment Software Association",
+          0,
+          1370000
+        ],
+        [
+          "AFL-CIO",
+          0,
+          920000
         ]
       ],
-      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: Duke Energy (C00083535); Corporate Energy Buyers Association (C00917567); National Structured Settlements Trade Association (C00219444)"
+      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: Amazon (C00360354); National Association of Broadcasters (C00009985); Charter Communications (C00426775); Entertainment Software Association (C00439216); AFL-CIO (C00003806)"
     },
     "money": {
       "cycle": "2026 cycle",
@@ -428,23 +450,23 @@ var MEMBERS = [
       "sectors": [
         [
           "Corporate PACs",
-          1109863
+          1096363
         ],
         [
           "Trade association PACs",
-          574000
+          559000
         ],
         [
           "Leadership PACs (run by other politicians)",
-          411000
+          406000
         ],
         [
           "Other PACs",
-          286400
+          275900
         ],
         [
           "Membership group PACs",
-          190716
+          189216
         ]
       ],
       "sectorsHeading": "PAC money by type",
@@ -458,34 +480,44 @@ var MEMBERS = [
     "name": "Rep. Katherine Clark",
     "role": "U.S. House, Massachusetts District 5",
     "vote": {
-      "bill": "H.R. 4464",
-      "title": "Preventive Health Savings Act",
-      "summary": "Requires the Congressional Budget Office (CBO), upon receiving a request from Congress, to determine if proposed legislation would reduce spending outside of the 10-year budget window through the use of preventive health care.",
+      "bill": "H.R. 9612",
+      "title": "American Enrichment Deployment Act",
+      "summary": "Allows for the construction of a uranium enrichment facility before a license is issued by the Nuclear Regulatory Commission (NRC).",
       "cast": "Yea",
-      "result": "Passed 401 to 0",
-      "date": "November 19, 2026",
-      "source": "clerk.house.gov, roll call 327, 2026"
+      "result": "Passed 394 to 3",
+      "date": "November 9, 2026",
+      "source": "clerk.house.gov, roll call 316, 2026"
     },
     "lobbying": {
       "cycle": "2026 cycle",
       "groups": [
         [
-          "American Medical Association",
-          10000,
-          4540000
-        ],
-        [
-          "American Association of Nurse Practitioners",
-          5000,
-          390000
-        ],
-        [
-          "Premier",
+          "Nuclear Energy Institute",
           0,
-          260000
+          600000
+        ],
+        [
+          "Entergy Services",
+          5000,
+          570000
+        ],
+        [
+          "Pinnacle West Capital",
+          0,
+          340000
+        ],
+        [
+          "Xcel Energy",
+          0,
+          300000
+        ],
+        [
+          "BWX Technologies",
+          2000,
+          230000
         ]
       ],
-      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: American Medical Association (C00000422, C00003194); American Association of Nurse Practitioners (C00358903); Premier (C00346288)"
+      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: Nuclear Energy Institute (C00239848); Entergy Services (C00363879); Pinnacle West Capital (C00015933); Xcel Energy (C00107771); BWX Technologies (C00365502)"
     }
   },
   {
@@ -495,34 +527,44 @@ var MEMBERS = [
     "name": "Rep. Tom Emmer",
     "role": "U.S. House, Minnesota District 6",
     "vote": {
-      "bill": "H.R. 4464",
-      "title": "Preventive Health Savings Act",
-      "summary": "Requires the Congressional Budget Office (CBO), upon receiving a request from Congress, to determine if proposed legislation would reduce spending outside of the 10-year budget window through the use of preventive health care.",
+      "bill": "H.R. 9612",
+      "title": "American Enrichment Deployment Act",
+      "summary": "Allows for the construction of a uranium enrichment facility before a license is issued by the Nuclear Regulatory Commission (NRC).",
       "cast": "Yea",
-      "result": "Passed 401 to 0",
-      "date": "November 19, 2026",
-      "source": "clerk.house.gov, roll call 327, 2026"
+      "result": "Passed 394 to 3",
+      "date": "November 9, 2026",
+      "source": "clerk.house.gov, roll call 316, 2026"
     },
     "lobbying": {
       "cycle": "2026 cycle",
       "groups": [
         [
-          "American Medical Association",
+          "Nuclear Energy Institute",
           10000,
-          4540000
+          600000
         ],
         [
-          "American Association of Nurse Practitioners",
+          "Entergy Services",
           5000,
-          390000
+          570000
         ],
         [
-          "Premier",
+          "Pinnacle West Capital",
+          10000,
+          340000
+        ],
+        [
+          "Xcel Energy",
+          10000,
+          300000
+        ],
+        [
+          "BWX Technologies",
           0,
-          260000
+          230000
         ]
       ],
-      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: American Medical Association (C00000422, C00003194); American Association of Nurse Practitioners (C00358903); Premier (C00346288)"
+      "source": "Lobbying reports naming this bill, filed under the Lobbying Disclosure Act (lda.gov). Shown: up to 5 groups with a federal PAC, ranked by the amount on their latest report naming the bill. Lobbying amounts are that report's total, across all issues. Donations: FEC contributions from committees to candidates, 2025 to 2026, from each group's PAC: Nuclear Energy Institute (C00239848); Entergy Services (C00363879); Pinnacle West Capital (C00015933); Xcel Energy (C00107771); BWX Technologies (C00365502)"
     }
   }
 ];
@@ -532,99 +574,115 @@ var DISTRICTS = [
     "sample": false,
     "party": "Republican",
     "label": "One of the least compact Republican-held districts",
-    "name": "Louisiana District 1",
-    "member": "Rep. Steve Scalise",
-    "score": "0.04",
-    "scoreSource": "Polsby-Popper score of 0.036, calculated by Solon Watch from the U.S. Census Bureau cartographic boundary file for the 119th Congress (1:500,000), using an equal-area projection for each district. It is the least compact of the 429 districts in states with more than one seat, and the least compact held by a Republican",
+    "name": "Texas District 4",
+    "member": "Rep. Pat Fallon",
+    "score": "0.08",
+    "scoreSource": "Polsby-Popper score of 0.079, calculated by Solon Watch from the U.S. Census Bureau cartographic boundary file for the 119th Congress (1:500,000), using an equal-area projection for each district. It is the 19th least compact of the 429 districts in states with more than one seat, and the 8th least compact held by a Republican",
     "race": "2024 U.S. House race",
     "whole": {
-      "d": 24,
-      "r": 74
+      "d": 32,
+      "r": 68
     },
-    "shape": "85,94 119,94 106,80 125,58 161,57 167,42 195,53 193,14 259,23 310,111 280,142 263,138 260,157 296,171 317,132 335,137 322,147 336,167 359,153 340,168 356,168 352,174 333,177 349,191 332,186 323,211 311,197 315,215 289,212 298,224 285,216 285,230 311,248 305,259 365,269 376,295 391,293 372,334 355,317 328,346 348,296 331,310 292,279 259,273 299,266 264,258 260,244 235,249 237,268 217,283 226,297 194,315 182,280 169,289 172,264 108,199 137,202 158,183 197,204 207,176 221,190 233,166 249,170 253,137 222,141 214,163 192,142 177,158 157,141 208,103 178,91 91,119",
+    "shape": "14,61 44,85 59,67 72,71 65,81 99,94 111,112 120,96 139,97 144,82 179,73 205,81 234,62 242,74 284,75 296,58 336,78 354,101 369,97 374,111 398,112 408,126 421,120 417,128 431,139 455,131 466,156 445,172 426,167 432,152 280,116 281,253 222,253 227,300 179,278 83,282 84,249 120,249 120,266 173,263 177,250 190,250 191,166 105,179 105,168 49,167 59,189 39,188 36,203 49,203 48,216 37,216 37,227 49,221 48,226 33,240 48,241 52,228 61,236 30,248 31,216 18,220 31,203 32,167 14,165",
     "areas": [
       {
-        "name": "St. Tammany",
-        "d": 22,
-        "r": 76,
-        "poly": "189,10 192,26 190,30 192,80 200,90 205,105 206,113 209,116 220,120 228,121 250,113 257,114 266,120 271,120 275,117 280,120 285,117 289,120 300,122 307,116 314,115 310,106 303,109 299,104 299,100 295,93 297,89 297,82 292,78 288,70 288,61 280,53 274,49 271,43 273,37 269,38 267,35 270,34 266,31 268,27 263,24 271,20 235,20",
+        "name": "Collin",
+        "d": 46,
+        "r": 54,
+        "poly": "27,251 122,252 123,174 108,176 108,165 29,164",
+        "lx": 44,
+        "ly": 178
+      },
+      {
+        "name": "Grayson",
+        "d": 21,
+        "r": 79,
+        "poly": "11,59 11,167 28,168 28,170 108,171 109,103 101,91 88,92 84,83 75,83 70,80 75,75 76,68 66,68 58,62 52,80 45,81 40,74 31,72 29,76 25,70 23,59 18,55",
+        "lx": 58,
+        "ly": 123
+      },
+      {
+        "name": "Rockwall",
+        "d": 27,
+        "r": 73,
+        "poly": "80,285 122,285 123,246 81,246",
+        "lx": 92,
+        "ly": 257
+      },
+      {
+        "name": "Denton",
+        "d": 39,
+        "r": 61,
+        "poly": "-63,250 33,251 34,162 -60,159",
+        "lx": 30,
+        "ly": 210
+      },
+      {
+        "name": "Lamar",
+        "d": 18,
+        "r": 82,
+        "poly": "188,158 197,159 207,153 211,154 215,154 219,158 227,154 231,154 233,158 238,156 244,162 250,163 251,161 253,164 263,168 264,170 284,176 283,72 277,70 271,74 260,74 259,68 251,71 249,66 244,69 243,63 233,58 227,66 221,65 216,70 205,68 204,76 200,75 194,76 194,79 189,80",
         "lx": 239,
-        "ly": 72
+        "ly": 115
       },
       {
-        "name": "Jefferson (part)",
-        "d": 24,
-        "r": 74,
-        "poly": "186,152 188,166 192,170 192,174 203,181 193,206 206,209 205,217 206,222 202,225 199,231 204,234 210,246 218,250 224,250 227,255 226,265 220,269 233,271 236,278 233,281 227,275 228,286 216,298 217,303 215,305 217,307 229,299 229,298 244,288 245,284 263,271 260,267 244,277 244,274 242,273 242,271 239,271 241,266 236,261 238,260 242,252 240,249 239,229 241,223 239,215 236,214 234,206 226,194 225,190 228,188 226,180 232,176 236,165 223,150 221,158 215,160 220,114 209,108 189,114 186,130",
-        "lx": 211,
-        "ly": 195
-      },
-      {
-        "name": "Orleans (part)",
-        "d": 51,
-        "r": 47,
-        "poly": "211,151 208,164 217,167 226,163 232,169 238,171 239,168 250,176 253,167 248,159 240,158 236,155 238,151 244,154 250,150 252,152 259,152 260,146 265,141 270,141 276,146 283,144 281,137 287,135 289,128 300,117 285,111 280,113 275,110 268,114 260,108 249,107 227,115 214,112",
-        "lx": 252,
-        "ly": 122
-      },
-      {
-        "name": "Tangipahoa (part)",
-        "d": 20,
-        "r": 78,
-        "poly": "139,-42 139,57 142,60 143,68 147,71 148,76 150,77 149,84 154,83 152,98 174,97 182,94 213,109 206,87 198,78 196,31 198,26 196,22 196,9 189,-5 185,-21 181,-24 181,-43",
-        "lx": 174,
-        "ly": 55
-      },
-      {
-        "name": "Lafourche (part)",
-        "d": 9,
-        "r": 90,
-        "poly": "66,203 95,202 95,197 100,197 101,194 105,197 108,205 118,211 127,223 132,224 134,228 139,231 140,236 143,236 145,240 156,250 159,257 169,266 170,276 166,287 165,285 165,292 161,302 165,298 165,309 172,294 170,292 177,284 177,280 179,285 181,284 185,293 176,295 175,298 173,299 175,299 172,310 159,317 160,320 171,316 166,320 184,324 188,316 175,318 190,312 182,310 183,308 178,305 181,301 186,302 186,304 179,306 191,310 192,318 198,320 204,317 222,303 223,299 228,295 220,284 223,281 229,284 237,278 231,274 232,268 231,265 234,251 230,249 228,244 219,244 214,242 208,230 213,228 211,226 213,224 211,216 212,205 202,201 179,200 176,188 166,186 161,182 159,174 155,169 152,169 149,164 137,163 136,165 134,163 127,164 123,161 120,162 119,161 115,161 107,157 105,161 88,161 88,166 85,166 82,177",
-        "lx": 179,
-        "ly": 231
-      },
-      {
-        "name": "Ascension (part)",
-        "d": 13,
-        "r": 86,
-        "poly": "52,138 61,138 61,135 63,137 71,135 79,138 88,128 133,118 135,104 130,100 122,106 121,110 116,100 110,98 110,92 104,90 103,86 97,80 74,79 68,82 58,115 55,116 55,123 52,123",
-        "lx": 99,
-        "ly": 105
-      },
-      {
-        "name": "St. Charles (part)",
-        "d": 22,
-        "r": 76,
-        "poly": "142,156 145,156 146,172 152,175 154,183 158,187 163,191 171,193 175,206 199,207 211,179 198,170 193,160 192,137 196,112 180,116 160,137 157,137 142,143",
-        "lx": 176,
-        "ly": 141
-      },
-      {
-        "name": "Plaquemines",
-        "d": 24,
-        "r": 74,
-        "poly": "218,188 220,196 229,208 231,219 234,220 233,231 234,234 235,250 241,250 243,255 247,253 255,256 257,251 256,255 263,262 267,260 270,263 282,263 272,265 269,267 268,264 261,263 257,271 251,269 245,275 253,279 260,277 291,281 296,288 316,295 330,313 341,310 343,315 343,318 337,319 337,322 333,331 330,333 321,354 339,341 351,325 356,324 357,322 357,330 370,338 376,336 375,332 381,322 377,324 376,322 379,322 381,315 385,322 398,298 392,289 388,291 384,287 383,294 381,294 380,293 380,290 378,289 380,285 367,266 362,265 358,271 355,265 352,264 349,258 341,259 333,257 330,258 319,255 314,257 312,251 326,244 325,241 308,245 306,243 307,237 303,238 310,229 305,229 314,227 301,221 312,218 298,216 304,213 324,221 321,218 322,215 313,209 296,204 287,197 284,190 272,189 266,181 257,182 251,169 242,162 233,161 233,163 231,162 227,172 220,176 219,183 221,186",
-        "lx": 258,
+        "name": "Hopkins",
+        "d": 17,
+        "r": 83,
+        "poly": "187,201 187,253 219,253 220,256 284,256 284,159 278,172 255,171 253,174 248,175 244,172 240,174 236,172 229,175 224,183 220,184 218,182 205,185 200,194",
+        "lx": 243,
         "ly": 214
       },
       {
-        "name": "St. Bernard (part)",
-        "d": 28,
-        "r": 70,
-        "poly": "229,159 245,165 248,179 254,188 263,187 265,189 264,194 280,195 283,201 293,209 310,214 322,226 318,214 324,214 330,212 329,208 339,213 334,201 329,198 329,196 333,190 335,191 341,191 345,195 353,193 351,182 356,183 361,177 354,176 364,164 347,166 351,163 355,164 354,163 360,162 362,151 367,148 365,144 371,140 370,132 362,131 361,127 377,108 376,107 345,127 339,134 329,135 316,128 312,135 313,138 298,147 300,154 297,161 297,166 292,169 283,167 278,162 278,161 285,157 278,151 266,156 262,155 255,131 254,145 252,142 244,147 239,144 233,146",
-        "lx": 314,
-        "ly": 179
+        "name": "Fannin",
+        "d": 15,
+        "r": 85,
+        "poly": "103,92 102,183 194,168 195,85 197,82 193,78 179,69 175,75 174,76 162,70 164,75 159,79 148,76 149,80 141,79 141,84 134,86 138,92 136,95 131,97 126,93 118,93 113,108 112,108",
+        "lx": 153,
+        "ly": 133
       },
       {
-        "name": "Livingston (part)",
-        "d": 10,
+        "name": "Rains",
+        "d": 12,
         "r": 88,
-        "poly": "70,60 73,65 71,70 74,70 75,78 79,77 78,81 86,82 86,85 94,85 98,89 102,100 104,99 109,105 112,105 115,113 121,117 126,115 127,110 130,107 144,114 154,106 159,96 159,86 161,82 156,76 156,74 153,72 153,67 149,65 148,57 145,55 145,23 86,23 79,30 79,31 72,36 71,41 74,43 72,48 75,53 74,57",
-        "lx": 130,
-        "ly": 79
+        "poly": "167,271 173,279 176,279 178,284 191,294 203,293 204,296 215,299 221,305 231,303 225,247 175,247",
+        "lx": 201,
+        "ly": 266
+      },
+      {
+        "name": "Hunt",
+        "d": 15,
+        "r": 85,
+        "poly": "117,175 116,280 193,281 177,273 173,269 179,253 193,253 194,162",
+        "lx": 126,
+        "ly": 273
+      },
+      {
+        "name": "Bowie",
+        "d": 16,
+        "r": 84,
+        "poly": "369,183 374,189 379,188 379,190 385,194 385,197 393,201 397,199 400,203 403,197 409,196 411,194 416,194 418,192 421,194 424,194 432,199 435,198 437,200 445,199 451,203 460,201 458,194 462,192 462,190 468,189 473,192 474,192 477,198 478,193 480,196 480,192 483,191 490,208 489,135 490,134 481,130 474,132 478,126 470,129 463,126 460,129 457,130 455,126 451,130 449,130 447,127 442,135 437,129 435,134 434,127 428,131 426,128 423,127 424,126 422,123 430,116 414,119 416,115 408,118 408,115 411,113 402,113 399,103 395,111 393,108 386,105 386,107 384,107 366,99 369,103",
+        "lx": 386,
+        "ly": 126
+      },
+      {
+        "name": "Delta",
+        "d": 14,
+        "r": 86,
+        "poly": "187,208 205,198 209,191 217,189 219,191 227,188 236,179 241,181 243,179 247,181 257,179 258,177 270,177 274,179 282,177 286,170 269,166 268,164 257,159 254,155 249,153 246,156 239,149 236,151 234,148 225,148 220,150 217,148 203,147 195,153 188,152",
+        "lx": 212,
+        "ly": 169
+      },
+      {
+        "name": "Red River",
+        "d": 13,
+        "r": 87,
+        "poly": "277,71 278,175 292,177 295,175 300,176 316,171 324,175 339,172 347,174 349,172 354,176 358,174 357,179 360,178 359,179 364,182 363,187 374,186 375,108 380,103 374,101 373,96 367,94 363,98 360,86 361,83 359,81 355,81 356,85 350,93 347,90 348,83 339,80 338,73 333,76 332,74 326,74 323,67 329,55 325,53 320,62 313,65 315,61 306,60 295,54 287,61 287,65 283,65 282,72",
+        "lx": 306,
+        "ly": 93
       }
     ],
-    "resultsSource": "Louisiana Secretary of State, official 2024 results by precinct, including early and provisional votes, as compiled by OpenElections (openelections-data-la) and added up by parish. The totals match the official district result. Percentages are of all votes cast; Republican includes all three Republican candidates"
+    "resultsSource": "Official 2024 county results by precinct as compiled by OpenElections (openelections-data-tx) and added up by county. Rains County, which OpenElections does not have, was entered by hand (Fallon 5,644, Cardell 796). With it, the totals match the official district result (Fallon 241,603, Cardell 111,696). Under- and over-votes are not counted"
   },
   {
     "sample": false,
@@ -808,14 +866,14 @@ var ROLLCALLS = {
     ],
     [
       "Nov 2026",
-      13,
-      15
+      5,
+      2
     ]
   ],
   "meta": {
     "start": "January 3, 2025",
-    "through": "November 19, 2026",
-    "total": 1619,
+    "through": "November 10, 2026",
+    "total": 1598,
     "election": {
       "date": "November 3, 2026",
       "month": "Nov 2026",
@@ -826,37 +884,37 @@ var ROLLCALLS = {
 };
 
 var SCHEDULE = {
-  "updated": "2026-11-20",
+  "updated": "2026-11-11",
   "house": {
-    "week": "November 16",
+    "week": "November 9",
     "rows": [
       {
-        "bill": "H.R. 8483",
-        "title": "Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026",
-        "status": "Passed 398 to 0",
-        "roll": 324
+        "bill": "H.R. 3978",
+        "title": "Nuclear REFUEL Act",
+        "status": "Passed 397 to 2",
+        "roll": 315
       },
       {
-        "bill": "H.R. 9600",
-        "title": "Common Sense 250 Act of 2026",
-        "status": "Passed 365 to 36",
-        "roll": 325
+        "bill": "H.R. 9612",
+        "title": "American Enrichment Deployment Act",
+        "status": "Passed 394 to 3",
+        "roll": 316
       },
       {
-        "bill": "H.R. 7254",
-        "title": "To amend the National Trails System Act to direct the Secretary of the Interior to conduct a study on the feasibility of designating the Bay Area Ridge National Scenic Trail, and for other purposes.",
+        "bill": "H.R. 5549",
+        "title": "Efficient Nuclear Licensing Hearings Act",
         "status": "Scheduled",
         "roll": null
       },
       {
-        "bill": "H.R. 7954",
-        "title": "Don Young Doug LaMalfa Indian Buffalo Management Act",
+        "bill": "H.R. 9084",
+        "title": "Department of Energy Nuclear Transparency Act",
         "status": "Scheduled",
         "roll": null
       }
     ],
     "listed": 15,
-    "source": "docs.house.gov floor schedule; results from House Clerk roll calls 324 and 325"
+    "source": "docs.house.gov floor schedule; results from House Clerk roll calls 315 and 316"
   },
   "senate": []
 };
@@ -877,36 +935,41 @@ var SCHEDULE = {
   function SRC(t) { return '<details class="src"><summary>Sources</summary><p class="src">' + esc(t) + '</p></details>'; }
 
   /* Roll-call chart */
-  (function () {
+  var phone = window.matchMedia("(max-width:559px)");
+  function drawRoll() {
     var box = document.getElementById("rollchart");
     if (!ROLLCALLS || !ROLLCALLS.months.length) { box.parentNode.hidden = true; return; }
-    var M = ROLLCALLS.months, meta = ROLLCALLS.meta, w = 1000, ht = 230, top = 16, base = 196, g = "", peak = 0, tick;
+    /* Phones get a narrower drawing so labels stay readable */
+    var ph = phone.matches, M = ROLLCALLS.months, meta = ROLLCALLS.meta, w = ph ? 480 : 1000, ht = ph ? 244 : 230, top = 16, base = ph ? 204 : 196,
+        fs = ph ? 17 : 14, L = ph ? 44 : 40, ts = ph ? 80 : 40, g = "", peak = 0, tick;
     M.forEach(function (m) { peak = Math.max(peak, m[1] + m[2]); });
-    var max = Math.max(40, Math.ceil(peak / 40) * 40);
-    for (tick = 0; tick <= max; tick += 40) { var y = base - tick / max * (base - top);
-      g += '<line x1="34" x2="' + w + '" y1="' + y + '" y2="' + y + '" stroke="var(--line)"/><text x="26" y="' + (y + 5) + '" text-anchor="end" font-size="14" fill="var(--muted)">' + tick + '</text>'; }
-    var step = (w - 40) / M.length, bwid = Math.max(2, step - 8), hi = M[0];
+    var max = Math.max(ts, Math.ceil(peak / ts) * ts);
+    for (tick = 0; tick <= max; tick += ts) { var y = base - tick / max * (base - top);
+      g += '<line x1="' + (L - 6) + '" x2="' + w + '" y1="' + y + '" y2="' + y + '" stroke="var(--line)"/><text x="' + (L - 12) + '" y="' + (y + 5) + '" text-anchor="end" font-size="' + fs + '" fill="var(--muted)">' + tick + '</text>'; }
+    var step = (w - L) / M.length, bwid = Math.max(2, step - (ph ? 3 : 8)), hi = M[0];
     M.forEach(function (m, i) {
-      var x = 40 + i * step, hh = m[1] / max * (base - top), sh = m[2] / max * (base - top), last = i === M.length - 1;
+      var x = L + i * step, hh = m[1] / max * (base - top), sh = m[2] / max * (base - top), last = i === M.length - 1;
       if (m[1] + m[2] > hi[1] + hi[2]) hi = m;
       var tip = '<title>' + m[0] + ': House ' + m[1] + ', Senate ' + m[2] + '</title>';
       g += '<rect x="' + x + '" y="' + (base - hh) + '" width="' + bwid + '" height="' + hh + '" fill="var(--house)">' + tip + '</rect>';
       g += '<rect x="' + x + '" y="' + (base - hh - sh) + '" width="' + bwid + '" height="' + sh + '" fill="var(--senate)">' + tip + '</rect>';
-      if (m[0].slice(0, 3) === "Jan" || last) g += '<text x="' + (last ? x + bwid : x + bwid / 2) + '" y="' + (base + 22) + '" text-anchor="' + (last ? "end" : "middle") + '" font-size="14" fill="var(--muted)">' + m[0] + '</text>';
+      if (m[0].slice(0, 3) === "Jan" || last) g += '<text x="' + (last ? x + bwid : x + bwid / 2) + '" y="' + (base + 22) + '" text-anchor="' + (last ? "end" : "middle") + '" font-size="' + fs + '" fill="var(--muted)">' + m[0] + '</text>';
       if (meta.election && m[0] === meta.election.month) {
         var cx = x + bwid / 2, right = i > M.length / 2;
-        g += '<line x1="' + cx + '" x2="' + cx + '" y1="' + (top + 4) + '" y2="' + (base - 8) + '" stroke="var(--ink)" stroke-dasharray="3 3"/><text x="' + (right ? cx - 6 : cx + 6) + '" y="' + (top + 14) + '" text-anchor="' + (right ? "end" : "start") + '" font-size="14" font-weight="600" fill="var(--ink)">Election Day</text>';
+        g += '<line x1="' + cx + '" x2="' + cx + '" y1="' + (top + 4) + '" y2="' + (base - 8) + '" stroke="var(--ink)" stroke-dasharray="3 3"/><text x="' + (right ? cx - 6 : cx + 6) + '" y="' + (top + 14) + '" text-anchor="' + (right ? "end" : "start") + '" font-size="' + fs + '" font-weight="600" fill="var(--ink)">Election Day</text>';
       }
     });
-    g += '<line x1="34" x2="' + w + '" y1="' + base + '" y2="' + base + '" stroke="var(--ink)"/>';
+    g += '<line x1="' + (L - 6) + '" x2="' + w + '" y1="' + base + '" y2="' + base + '" stroke="var(--ink)"/>';
     function n(x) { return String(x).replace(/\B(?=(\d{3})+(?!\d))/g, ","); }
     box.innerHTML = '<svg viewBox="0 0 ' + w + ' ' + ht + '" role="img" aria-label="Bar chart of House and Senate roll-call votes per month, ' + esc(M[0][0]) + ' to ' + esc(M[M.length - 1][0]) + '. The busiest month was ' + esc(hi[0]) + ', with ' + (hi[1] + hi[2]) + ' votes.">' + g + '</svg>';
     var intro = meta.election
       ? "From " + meta.start + " to Election Day on " + meta.election.date + ", the House and Senate held " + n(meta.election.total) + " recorded votes."
       : "Since " + meta.start + ", the House and Senate have held " + n(meta.total) + " recorded votes.";
-    document.getElementById("rollintro").textContent = intro + " Solon Watch keeps every one of them, with a plain-English summary of the bill, and tells you when your representatives are about to vote again.";
+    document.getElementById("rollintro").textContent = intro + " We let you make your voice heard for the bills that you care about, and show you how your representative has voted in the past.";
     document.getElementById("rollcap").textContent = "Roll-call votes per month, " + meta.start + " through " + meta.through + ". Source: " + ROLLCALLS.source + ".";
-  })();
+  }
+  drawRoll();
+  if (phone.addEventListener) phone.addEventListener("change", drawRoll);
 
   /* Floor schedule */
   (function () {
@@ -953,7 +1016,6 @@ var SCHEDULE = {
   });
 
   /* Members */
-  var shades = ["var(--bar)", "var(--yellow)", "var(--bar2)", "var(--bar3)"];
   var slide = document.getElementById("slide"), who = document.getElementById("who"), count = document.getElementById("count"),
       prev = document.getElementById("prev"), next = document.getElementById("next"), picker = document.getElementById("members");
   var at = 0;
@@ -963,7 +1025,7 @@ var SCHEDULE = {
     for (i = 0; i < list.length; i++) {
       var v = list[i][1], w = pct ? v : (max ? Math.round(v / max * 100) : 0);
       h += '<div class="r"><span>' + esc(list[i][0]) + '</span><b>' + (pct ? v + "%" : money(v)) + '</b></div>';
-      h += '<div class="t"><div class="f" style="width:' + w + '%;background:' + (pct ? shades[i % 4] : "var(--bar)") + '"></div></div>';
+      h += '<div class="t"><div class="f" style="width:' + w + '%;background:' + "var(--bar)" + '"></div></div>';
     }
     return h + '</div>';
   }
@@ -980,7 +1042,7 @@ var SCHEDULE = {
     h += SRC(m.vote.source) + '</div>';
 
     h += '<div class="panel"><h4>Groups that lobbied on this bill</h4>';
-    h += '<p class="lede">What each group spent on lobbying in its latest quarterly report naming this bill, across all issues, and what its PAC gave ' + esc(last) + ', ' + esc(m.lobbying.cycle) + '.</p>';
+    h += '<p class="lede">What each group spent on lobbying in its latest report naming this bill, across all issues, and what its PAC gave ' + esc(last) + ', ' + esc(m.lobbying.cycle) + '.</p>';
     h += '<div class="tblw"><table class="tbl"><thead><tr><th scope="col">Group</th><th scope="col" class="n">Lobbying</th><th scope="col" class="n">PAC gave</th></tr></thead><tbody>';
     m.lobbying.groups.forEach(function (G) {
       h += '<tr><td>' + esc(G[0]) + '</td><td class="n">' + (G[2] != null ? moneyFit(G[2]) : "Not reported") + '</td><td class="n">' + moneyFit(G[1]) + '</td></tr>';
