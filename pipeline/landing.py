@@ -291,10 +291,13 @@ def rollcalls(cfg, today=None):
             "source": "House Clerk and Senate roll-call records"}
 
 
-def _short_title(text):
+def _short_title(text, limit=90):
     t = re.sub(r",?\s+as amended\.?$", "", text.strip(), flags=re.I)
     t = re.sub(r"\s*\([^)]{12,}\)", "", t)  # drop spelled-out acronyms
-    return t.strip()
+    t = re.sub(r",? and for other purposes\.?$", "", t.strip(), flags=re.I).strip()
+    if len(t) > limit:  # long official titles ("To amend ...") are cut at a word
+        t = t[:limit].rsplit(" ", 1)[0].rstrip(",;") + "…"
+    return t
 
 
 def _bill_title(cfg, bid):
@@ -302,8 +305,20 @@ def _bill_title(cfg, bid):
     return b.get("short_title") or b.get("title")
 
 
-def schedule(cfg, shown=4):
-    """This week's House floor schedule with results so far, and bills expected on the Senate floor."""
+VOICE_PASSED = re.compile(r"passed|agreed to by voice vote|motion to reconsider laid on the table", re.I)
+
+
+def _voice_status(cfg, bid, since):
+    """A bill can pass without a roll call (voice vote). Congress.gov's latest action shows it."""
+    act = (read_json(Path(cfg["output_dir"]) / "bills" / f"{bid}.json") or {}).get("latest_action") or {}
+    if act.get("actionDate", "") >= since and VOICE_PASSED.search(act.get("text", "")):
+        return "Passed by voice vote"
+    return None
+
+
+def schedule(cfg, shown=4, today=None):
+    """The House floor schedule, bills still to come first, and bills expected on the Senate floor."""
+    today = today or date.today()
     up = read_json(Path(cfg["output_dir"]) / "upcoming.json") or {}
     index = (read_json(Path(cfg["output_dir"]) / "votes" / "index.json") or {}).get("votes", [])
     out = {"updated": up.get("updated"), "house": None, "senate": []}
@@ -311,29 +326,39 @@ def schedule(cfg, shown=4):
     if house:
         week = max(i.get("week_of", "") for i in house)
         items = [i for i in house if i.get("week_of") == week]
-        since = (date.fromisoformat(week) - timedelta(days=1)).isoformat()
+        start = date.fromisoformat(week)
+        since = (start - timedelta(days=1)).isoformat()
+        # Weekly files start on a Sunday or Monday. The House doesn't vote on weekends, so the week is over by Saturday.
+        over = today > start + timedelta(days=(4 - start.weekday()) % 7)
         rows = []
         for i in items:
             votes = sorted((v for v in index if v["chamber"] == "house" and (v.get("bill") or {}).get("id") == i["bill"]["id"]
                             and v["date"] >= since and v.get("kind") == "passage"), key=lambda v: (v["date"], v["number"]))
-            status, roll = "Scheduled", None
+            status, roll = None, None
             if votes:
                 v = votes[-1]
                 passed = bool(re.search(r"pass|agreed", v.get("result") or "", re.I))
                 status = f'{"Passed" if passed else "Failed"} {v["totals"]["yea"]} to {v["totals"]["nay"]}'
                 roll = v["number"]
+            else:
+                status = _voice_status(cfg, i["bill"]["id"], since)
+            if not status:
+                status = "Not voted on" if over else "Coming up"
             rows.append({"bill": i["bill"]["label"], "title": _short_title(i["description"]), "status": status, "roll": roll})
-        done, waiting = [r for r in rows if r["roll"]], [r for r in rows if not r["roll"]]
-        pick = done[:shown // 2]
-        pick += waiting[:shown - len(pick)]
+        waiting = [r for r in rows if r["status"] == "Coming up"]
+        done = [r for r in rows if r["status"] != "Coming up"]
+        # Bills still to come get the space first; results fill whatever is left.
+        pick = waiting[:shown] + [r for r in done if r["roll"]][:max(0, shown - len(waiting))]
         pick += [r for r in done if r not in pick][:shown - len(pick)]
         rolls = sorted(r["roll"] for r in pick if r["roll"])
         src = "docs.house.gov floor schedule"
         if rolls:
             src += "; results from House Clerk roll call" + ("s " if len(rolls) > 1 else " ") + \
                    ", ".join(str(r) for r in rolls[:-1]) + (" and " if len(rolls) > 1 else "") + str(rolls[-1])
-        d = date.fromisoformat(week)
-        out["house"] = {"week": f"{d.strftime('%B')} {d.day}", "rows": pick, "listed": len(items), "source": src}
+        if any(r["status"] == "Passed by voice vote" for r in pick):
+            src += "; voice votes from Congress.gov bill actions"
+        out["house"] = {"week": f"{start.strftime('%B')} {start.day}", "rows": pick, "listed": len(items), "source": src,
+                        "upcoming": len(waiting), "over": over}
     for i in up.get("senate", [])[:3]:
         title = _bill_title(cfg, i["bill"]["id"])
         out["senate"].append({"bill": i["bill"]["label"], "title": title or "",

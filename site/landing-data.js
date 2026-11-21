@@ -575,20 +575,22 @@ var SCHEDULE = {
         "roll": 325
       },
       {
-        "bill": "H.R. 7254",
-        "title": "To amend the National Trails System Act to direct the Secretary of the Interior to conduct a study on the feasibility of designating the Bay Area Ridge National Scenic Trail, and for other purposes.",
-        "status": "Scheduled",
-        "roll": null
+        "bill": "H.R. 9640",
+        "title": "Earth MRI Reauthorization Act of 2026",
+        "status": "Passed 396 to 14",
+        "roll": 326
       },
       {
-        "bill": "H.R. 7954",
-        "title": "Don Young Doug LaMalfa Indian Buffalo Management Act",
-        "status": "Scheduled",
-        "roll": null
+        "bill": "H.R. 4464",
+        "title": "Preventive Health Savings Act",
+        "status": "Passed 401 to 0",
+        "roll": 327
       }
     ],
     "listed": 15,
-    "source": "docs.house.gov floor schedule; results from House Clerk roll calls 324 and 325"
+    "source": "docs.house.gov floor schedule; results from House Clerk roll calls 324, 325, 326 and 327",
+    "upcoming": 0,
+    "over": true
   },
   "senate": []
 };

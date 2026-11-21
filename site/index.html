@@ -3,23 +3,25 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#2e3033">
 <title>Solon Watch: Democracy Should Be Easy</title>
 <meta name="description" content="Solon Watch tracks how members of Congress vote, who funds their campaigns, and who lobbies on the bills they vote on.">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='1' y='1' width='30' height='30' rx='5' fill='%230b5a3e' stroke='%23fff' stroke-width='1.5'/%3E%3Ccircle cx='16' cy='16' r='9.5' fill='%23fff'/%3E%3Ccircle cx='18.5' cy='14' r='4' fill='%2316181a'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Overpass:wght@500;600;700;800&family=Public+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Overpass+Mono:wght@400;600&display=swap">
 <style>
-/* Layout: the original Solon page order, set along a dashed road line with green mile markers (one per section), ending at an exit sign for the waitlist. Daylight only, by choice. */
+/* Layout: the original Solon page order, set along a dashed road line with green mile markers (one per section), ending at an exit sign for the waitlist. Asphalt only, by choice. */
 :root{
-  --paper:#fbfbf8; --surface:#ffffff; --ink:#16181a; --body:#2e3236; --muted:#62676c; --line:#dcddd6; --dash:#c6c8c0;
-  --sign:#0b5a3e; --sign-deep:#08452f; --tint:#e9f0ec; --yellow:#f2c230;
-  --senate:#4f5d6b; --house:#6e4f33; --nay:#9a3324;
-  --dem:#2f5f9e; --rep:#b23a2a; --dem-tint:#e8eef6; --rep-tint:#f6e9e6;
-  --bar:#3d4246; --bar2:#8a8f93; --bar3:#c6c8c0; --track:#ecece6;
+  /* Asphalt: dark gray road surface, yellow lane dashes, green highway signs */
+  --paper:#2e3033; --surface:#383b3e; --ink:#f3f3ee; --body:#d8d9d3; --muted:#a6aaad; --line:#4c5054; --dash:#d4b13f;
+  --sign:#0b5a3e; --sign-deep:#08452f; --link:#86d3ab; --tint:#23463a; --yellow:#f2c230; --field:#6a6f74;
+  --senate:#9aabbd; --house:#c29a70; --nay:#ec8a78;
+  --dem:#6f9fe6; --rep:#e2705d; --dem-tint:#2a3a52; --rep-tint:#4e302b;
+  --bar:#d8d9d3; --bar2:#8a8f93; --bar3:#5d6266; --track:#4c5054;
   --display:"Overpass","Helvetica Neue",Arial,sans-serif;
   --text:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
   --mono:"Overpass Mono",ui-monospace,Menlo,monospace;
-  color-scheme:light;
+  color-scheme:dark;
 }
 *{box-sizing:border-box}
 html{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
@@ -28,7 +30,7 @@ img{max-width:100%}
 [hidden]{display:none!important}
 body{background:var(--paper);color:var(--body);font-family:var(--text);font-size:18px;line-height:1.6}
 .g{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
-a{color:var(--sign-deep);text-underline-offset:3px}
+a{color:var(--link);text-underline-offset:3px}
 :focus-visible{outline:2px solid var(--sign);outline-offset:3px}
 h1,h2,h3{font-family:var(--display);color:var(--ink);text-wrap:balance;margin:0}
 p{margin:0 0 16px}
@@ -56,13 +58,13 @@ h1{font-size:clamp(38px,8vw,62px);line-height:1.03;letter-spacing:-.025em;font-w
 
 /* Waitlist */
 .wl{display:flex;flex-wrap:wrap;gap:10px;max-width:500px;margin-top:6px}
-.wl input{flex:1 1 220px;min-width:0;font:inherit;font-size:17px;padding:12px 13px;border:1px solid #b9bbb4;border-radius:3px;background:var(--surface);color:var(--ink)}
+.wl input{flex:1 1 220px;min-width:0;font:inherit;font-size:17px;padding:12px 13px;border:1px solid var(--field);border-radius:3px;background:var(--surface);color:var(--ink)}
 .wl input:focus{border-color:var(--sign);outline:2px solid var(--tint)}
 .wl button{font:inherit;font-weight:600;font-size:17px;padding:12px 18px;border-radius:3px;border:0;background:var(--sign);color:#fff;cursor:pointer}
 .wl button:hover{background:var(--sign-deep)}
 .note{font-size:15px;color:var(--muted);margin-top:10px}
 .err{font-size:15px;color:var(--nay);margin:8px 0 0}
-.ok{font-weight:600;color:var(--sign);margin-top:10px}
+.ok{font-weight:600;color:var(--link);margin-top:10px}
 
 /* Road and mile markers */
 .road{position:relative}
@@ -85,12 +87,12 @@ h2{font-size:clamp(26px,4vw,32px);font-weight:700;letter-spacing:-.01em;margin:4
 
 /* Member picker */
 .members{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;max-width:560px;margin:18px 0 6px}
-.mb{font:inherit;text-align:left;display:flex;align-items:center;gap:10px;padding:10px 12px;background:var(--surface);border:1px solid #b9bbb4;border-radius:3px;color:var(--ink);cursor:pointer;min-width:0;line-height:1.25}
+.mb{font:inherit;text-align:left;display:flex;align-items:center;gap:10px;padding:10px 12px;background:var(--surface);border:1px solid var(--field);border-radius:3px;color:var(--ink);cursor:pointer;min-width:0;line-height:1.25}
 .mb:hover{border-color:var(--sign)}
 .mb[aria-pressed="true"]{border-color:var(--sign);background:var(--tint);box-shadow:inset 0 0 0 1px var(--sign)}
 .mb .nm{font-weight:600;font-size:16px;min-width:0}
 .mb .nm small{display:block;font-weight:400;font-size:14px;color:var(--muted)}
-.shd{display:inline-grid;place-items:center;width:28px;height:28px;border-radius:50%;color:#fff;font-family:var(--display);font-weight:700;font-size:14px;line-height:1;padding-top:2px;flex:none}
+.shd{display:inline-grid;place-items:center;width:28px;height:28px;border-radius:50%;color:var(--paper);font-family:var(--display);font-weight:700;font-size:14px;line-height:1;padding-top:2px;flex:none}
 .shd.s{background:var(--senate)}.shd.h{background:var(--house)}
 @media (max-width:420px){.mb{padding:9px 8px;gap:8px}.mb .nm{font-size:15px}}
 
@@ -102,7 +104,7 @@ h2{font-size:clamp(26px,4vw,32px);font-weight:700;letter-spacing:-.01em;margin:4
 .pill.d{background:var(--dem-tint);color:var(--dem)}.pill.r{background:var(--rep-tint);color:var(--rep)}
 .ctrl{display:flex;align-items:center;gap:8px}
 .count{font-family:var(--mono);font-size:14px;color:var(--muted);margin-right:4px}
-.ctrl button{font:inherit;font-size:15px;font-weight:600;min-height:40px;padding:0 14px;border:1px solid #b9bbb4;background:var(--surface);color:var(--ink);border-radius:3px;cursor:pointer}
+.ctrl button{font:inherit;font-size:15px;font-weight:600;min-height:40px;padding:0 14px;border:1px solid var(--field);background:var(--surface);color:var(--ink);border-radius:3px;cursor:pointer}
 .ctrl button:hover:not(:disabled){border-color:var(--sign)}
 .ctrl button:disabled{opacity:.4;cursor:default}
 .panels{display:grid;grid-template-columns:1fr}
@@ -115,7 +117,7 @@ h2{font-size:clamp(26px,4vw,32px);font-weight:700;letter-spacing:-.01em;margin:4
 .billno{font-family:var(--mono);font-size:14px;color:var(--muted)}
 .billname{font-weight:600;color:var(--ink)}
 .cast{font-family:var(--display);font-size:26px;font-weight:800;margin:8px 0 0!important;line-height:1.1}
-.yea{color:var(--sign)}.nay{color:var(--nay)}.nv{color:var(--muted)}
+.yea{color:var(--link)}.nay{color:var(--nay)}.nv{color:var(--muted)}
 .result{font-size:15px!important;color:var(--muted)}
 .total{font-family:var(--display);font-size:26px;font-weight:800;color:var(--ink);margin:0 0 6px!important;line-height:1.1}
 .bars{font-size:15px}
@@ -137,7 +139,7 @@ h2{font-size:clamp(26px,4vw,32px);font-weight:700;letter-spacing:-.01em;margin:4
 @media (max-width:560px){.tbl{font-size:14px}.tbl .lg{display:none}.tbl .sm{display:inline}.tbl td:first-child{hyphens:auto;overflow-wrap:anywhere}.tbl th,.tbl td{padding-right:8px}.tbl tr>:last-child{padding-right:0}}
 .tbl tr>*:last-child{padding-right:0}
 details.src{margin-top:12px}
-details.src summary{cursor:pointer;font-size:14px;color:var(--sign-deep);font-weight:500;list-style:none}
+details.src summary{cursor:pointer;font-size:14px;color:var(--link);font-weight:500;list-style:none}
 details.src summary::-webkit-details-marker{display:none}
 details.src summary::before{content:"+ ";font-family:var(--mono)}
 details.src[open] summary::before{content:"\2212 "}
@@ -149,13 +151,13 @@ details.src p{margin:8px 0 0!important}
 .sched ul{margin-top:8px!important}
 .sched ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line);font-size:16px}
 .sched li{display:grid;grid-template-columns:96px minmax(0,1fr) auto;gap:4px 14px;padding:9px 0;border-bottom:1px solid var(--line);align-items:baseline}
-.sched .st{font-size:14px;color:var(--muted);white-space:nowrap}.sched .st.done{color:var(--sign);font-weight:600}
+.sched .st{font-size:14px;color:var(--muted);white-space:nowrap}.sched .st.done{color:var(--link);font-weight:600}.sched .st.up{color:var(--ink);font-weight:600}
 @media (max-width:520px){.sched li{grid-template-columns:minmax(0,1fr) auto}.sched li .billno{grid-column:1/-1}}
 .chart .legend{margin-top:4px}
 
 /* Districts */
 .toggles{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 0}
-.toggles button{font:inherit;font-size:15px;font-weight:600;min-height:42px;padding:8px 14px;border:1px solid #b9bbb4;background:var(--surface);color:var(--ink);border-radius:3px;cursor:pointer}
+.toggles button{font:inherit;font-size:15px;font-weight:600;min-height:42px;padding:8px 14px;border:1px solid var(--field);background:var(--surface);color:var(--ink);border-radius:3px;cursor:pointer}
 .toggles button:hover{border-color:var(--sign)}
 .toggles button[aria-pressed="true"]{border-color:var(--sign);background:var(--tint);box-shadow:inset 0 0 0 1px var(--sign)}
 .dmap{display:grid;grid-template-columns:1fr;gap:18px 32px;padding:20px}
@@ -204,7 +206,7 @@ ol.steps li::before{content:counter(s);font-family:var(--mono);font-size:15px;co
   <section class="hero">
     <h1>You voted them in, now tell them what you want.</h1>
     <p class="lead">Most people only hear about bills when they see attack ads on TV. Meanwhile the politicians you elected pass hundreds of bills a year. We want you to be able to tell the politicians why you voted for them. Only about 1 in 6 Americans contacted an elected official in the past year. What could America look like if you changed that?</p>
-    <form class="wl" data-signup name="waitlist" method="POST" data-netlify="true" netlify-honeypot="company"><input type="hidden" name="form-name" value="waitlist"><p class="sr"><label>Leave this empty <input name="company" tabindex="-1" autocomplete="off"></label></p><label class="sr" for="email-top">Email address</label><input id="email-top" name="email" type="email" placeholder="you@example.com" autocomplete="email"><button type="submit">Get early access</button></form>
+    <form class="wl" data-signup name="waitlist" method="POST"><p class="sr"><label>Leave this empty <input name="company" tabindex="-1" autocomplete="off"></label></p><label class="sr" for="email-top">Email address</label><input id="email-top" name="email" type="email" placeholder="you@example.com" autocomplete="email"><button type="submit">Get early access</button></form>
     <p class="err" hidden>That email address doesn’t look right. Check for a typo and try again.</p>
     <p class="ok" hidden>You’re on the list. We’ll email you when Solon Watch opens.</p>
     <p class="note">Launching with the U.S. Senate and House. Bill alerts are free. <a href="privacy.html">Privacy policy</a></p>
@@ -251,9 +253,7 @@ ol.steps li::before{content:counter(s);font-family:var(--mono);font-size:15px;co
 
     <section class="mile"><div class="mm" aria-hidden="true"><span>MILE</span><b>4</b></div><div class="mc">
       <h2>Districts</h2>
-      <p>Some districts are drawn in shapes that stretch across a state to pick up some neighborhoods and leave out others. One common way to measure that is the Polsby-Popper score, which compares a district’s area to the length of its border. A perfect circle scores 1. The lower the score, the more stretched and irregular the shape.</p>
-      <p>District lines also decide who shares your representative. Everyone inside the lines votes in the same House race, so their priorities shape who wins and what that member works on. When a district stretches across very different places, one member answers to all of them. We show you which communities are in your district with you.</p>
-      <p>Below are two of the least compact districts, one held by each party. Tap or click “See how each area voted” to compare each part of the district with the whole.</p>
+      <p>We make finding representatives for any address easy, as well as seeing what areas any politician represents and how each county in their district voted. Here, we show two of the least compact districts in the country as an example of why you and your neighbor might have different representatives. The Polsby-Popper score compares a district’s area to the length of its border.</p>
       <div class="toggles" id="dpick" role="group" aria-label="Choose a district"></div>
       <div class="card" id="district"></div>
     </div></section>
@@ -272,7 +272,7 @@ ol.steps li::before{content:counter(s);font-family:var(--mono);font-size:15px;co
         <svg viewBox="0 0 44 44" aria-hidden="true"><path d="M10 34 L32 12 M15 10 H34 V29" stroke="#fff" stroke-width="5.5" fill="none"/></svg></div>
       </div>
       <p>Join the waitlist and we’ll email you when Solon Watch opens.</p>
-      <form class="wl" data-signup name="waitlist" method="POST" data-netlify="true" netlify-honeypot="company"><input type="hidden" name="form-name" value="waitlist"><p class="sr"><label>Leave this empty <input name="company" tabindex="-1" autocomplete="off"></label></p><label class="sr" for="email-bottom">Email address</label><input id="email-bottom" name="email" type="email" placeholder="you@example.com" autocomplete="email"><button type="submit">Join the waitlist</button></form>
+      <form class="wl" data-signup name="waitlist" method="POST"><p class="sr"><label>Leave this empty <input name="company" tabindex="-1" autocomplete="off"></label></p><label class="sr" for="email-bottom">Email address</label><input id="email-bottom" name="email" type="email" placeholder="you@example.com" autocomplete="email"><button type="submit">Join the waitlist</button></form>
       <p class="err" hidden>That email address doesn’t look right. Check for a typo and try again.</p>
       <p class="ok" hidden>You’re on the list. We’ll email you when Solon Watch opens.</p>
       <p class="note"><a href="privacy.html">Privacy policy</a></p>
@@ -861,20 +861,22 @@ var SCHEDULE = {
         "roll": 325
       },
       {
-        "bill": "H.R. 7254",
-        "title": "To amend the National Trails System Act to direct the Secretary of the Interior to conduct a study on the feasibility of designating the Bay Area Ridge National Scenic Trail, and for other purposes.",
-        "status": "Scheduled",
-        "roll": null
+        "bill": "H.R. 9640",
+        "title": "Earth MRI Reauthorization Act of 2026",
+        "status": "Passed 396 to 14",
+        "roll": 326
       },
       {
-        "bill": "H.R. 7954",
-        "title": "Don Young Doug LaMalfa Indian Buffalo Management Act",
-        "status": "Scheduled",
-        "roll": null
+        "bill": "H.R. 4464",
+        "title": "Preventive Health Savings Act",
+        "status": "Passed 401 to 0",
+        "roll": 327
       }
     ],
     "listed": 15,
-    "source": "docs.house.gov floor schedule; results from House Clerk roll calls 324 and 325"
+    "source": "docs.house.gov floor schedule; results from House Clerk roll calls 324, 325, 326 and 327",
+    "upcoming": 0,
+    "over": true
   },
   "senate": []
 };
@@ -938,13 +940,15 @@ var SCHEDULE = {
     function rows(list, note) {
       return '<ul>' + list.map(function (r) {
         return '<li><span class="billno">' + esc(r.bill) + '</span><span>' + esc(r.title || "") + (note && r.note ? '<small class="cap" style="display:block">' + esc(r.note) + '</small>' : '') +
-          '</span><span class="st' + (/^Passed|^Failed/.test(r.status) ? " done" : "") + '">' + esc(r.status) + '</span></li>';
+          '</span><span class="st' + (/^Passed|^Failed/.test(r.status) ? " done" : /^Coming up|^Expected/.test(r.status) ? " up" : "") + '">' + esc(r.status) + '</span></li>';
       }).join("") + '</ul>';
     }
     if (S.house && S.house.rows.length) {
       any = true;
-      document.getElementById("sched-house").innerHTML = '<h3>On the House schedule, week of ' + esc(S.house.week) + '</h3>' + rows(S.house.rows) +
-        '<p class="cap">' + S.house.rows.length + ' of the ' + S.house.listed + ' bills the House majority leader’s office listed for the week. Source: ' + esc(S.house.source) + '.</p>';
+      var head = S.house.upcoming && !S.house.over ? "Coming up on the House floor, week of " : "On the House floor, week of ";
+      document.getElementById("sched-house").innerHTML = '<h3>' + head + esc(S.house.week) + '</h3>' + rows(S.house.rows) +
+        '<p class="cap">' + S.house.rows.length + ' of the ' + S.house.listed + ' bills the House majority leader’s office listed for the week.' +
+        (S.house.over ? ' The House hasn’t posted its next weekly schedule yet.' : '') + ' Source: ' + esc(S.house.source) + '.</p>';
     }
     if (S.senate && S.senate.length) {
       any = true;
@@ -963,11 +967,15 @@ var SCHEDULE = {
       e.preventDefault();
       if (!re.test(input.value.trim())) { err.textContent = badEmail; err.hidden = false; input.focus(); return; }
       btn.disabled = true;
-      /* Saves the email with Netlify Forms (Netlify dashboard: Forms > waitlist) */
-      fetch("/", { method: "POST", headers: { "Content-Type": "application/x-www-form-urlencoded" },
-                   body: new URLSearchParams(new FormData(f)).toString() })
-        .then(function (r) {
-          if (!r.ok) throw new Error(r.status);
+      /* Web3Forms emails each sign-up to hq@solonwatch.com. The access key is meant to be public. */
+      var trap = f.querySelector('input[name="company"]');
+      var send = trap && trap.value ? Promise.resolve({ success: true }) :
+        fetch("https://api.web3forms.com/submit", { method: "POST", headers: { "Content-Type": "application/json", "Accept": "application/json" },
+          body: JSON.stringify({ access_key: "a48707f5-2382-4adc-a514-1a1558a901b2", subject: "New Solon Watch waitlist sign-up", from_name: "Solon Watch waitlist", email: input.value.trim() }) })
+        .then(function (r) { return r.json(); });
+      send
+        .then(function (res) {
+          if (!res || !res.success) throw new Error("not saved");
           forms.forEach(function (g) { g.hidden = true; g.nextElementSibling.hidden = true; g.nextElementSibling.nextElementSibling.hidden = false; });
         })
         .catch(function () { err.textContent = failed; err.hidden = false; btn.disabled = false; });
@@ -1058,7 +1066,7 @@ var SCHEDULE = {
     } else h += '<polygon points="' + D.shape + '" ' + shade(D.whole) + '/>';
     h += '<polygon points="' + D.shape + '" fill="none" stroke="var(--ink)" stroke-width="2.5" stroke-linejoin="round"/>';
     if (byArea) D.areas.forEach(function (a) { h += '<text x="' + a.lx + '" y="' + a.ly + '" text-anchor="middle">' + esc(a.name) + '</text>'; });
-    h += '</svg><div class="legend"><span><i style="background:var(--dem);opacity:.8"></i>Democrat ahead</span><span><i style="background:var(--rep);opacity:.8"></i>Republican ahead</span><span>Darker means a wider margin</span></div></div><div>';
+    h += '</svg><div class="legend"><span><i style="background:var(--dem);opacity:.8"></i>Democrat ahead</span><span><i style="background:var(--rep);opacity:.8"></i>Republican ahead</span><span>Stronger color means a wider margin</span></div></div><div>';
     h += '<span class="pill ' + (D.party === "Democrat" ? "d" : "r") + '">' + esc(D.label) + '</span>';
     h += '<h3>' + esc(D.name) + '</h3><p class="meta">Represented by ' + esc(D.member) + '</p>';
     h += '<div class="scorebox"><span class="score">' + esc(D.score) + '</span><p>Polsby-Popper score.<br>1 is a perfect circle.</p></div>';

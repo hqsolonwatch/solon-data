@@ -376,11 +376,24 @@ def test_senate_and_schedule(cfg):
     r = landing.rollcalls(cfg, today=date(2026, 11, 10))
     assert r["months"][0] == ["Jan 2025", 1, 0] and r["months"][-1] == ["Nov 2026", 1, 3] and len(r["months"]) == 23
     assert r["meta"]["election"] == {"date": "November 3, 2026", "month": "Nov 2026", "total": 2}
-    sch = landing.schedule(cfg)
+    sch = landing.schedule(cfg, today=date(2026, 11, 10))
     assert sch["house"]["week"] == "November 9" and sch["house"]["listed"] == 2
+    # Bills still to come are listed first
     assert sch["house"]["rows"] == [
-        {"bill": "H.R. 9612", "title": "American Enrichment Deployment Act", "status": "Passed 394 to 3", "roll": 316},
-        {"bill": "H.R. 3978", "title": "Nuclear REFUEL Act", "status": "Scheduled", "roll": None}]
+        {"bill": "H.R. 3978", "title": "Nuclear REFUEL Act", "status": "Coming up", "roll": None},
+        {"bill": "H.R. 9612", "title": "American Enrichment Deployment Act", "status": "Passed 394 to 3", "roll": 316}]
+    assert sch["house"]["upcoming"] == 1 and sch["house"]["over"] is False
+    # After the Friday of that week, a bill with no vote is no longer "coming up"
+    late = landing.schedule(cfg, today=date(2026, 11, 14))
+    assert late["house"]["over"] is True and late["house"]["upcoming"] == 0
+    assert {r["bill"]: r["status"] for r in late["house"]["rows"]}["H.R. 3978"] == "Not voted on"
+    # A bill passed by voice vote has no roll call; Congress.gov's latest action shows it
+    core.write_json(Path(cfg["output_dir"]) / "bills" / "hr3978-119.json",
+               {"latest_action": {"actionDate": "2026-11-12", "text": "Motion to reconsider laid on the table Agreed to without objection."}})
+    voice = landing.schedule(cfg, today=date(2026, 11, 14))
+    assert {r["bill"]: r["status"] for r in voice["house"]["rows"]}["H.R. 3978"] == "Passed by voice vote"
+    assert voice["house"]["source"].endswith("voice votes from Congress.gov bill actions")
+    assert landing._short_title("To amend the National Trails System Act to direct the Secretary of the Interior to conduct a study, and for other purposes.").endswith("…")
     assert sch["house"]["source"].endswith("roll call 316")
     assert sch["senate"][0]["bill"] == "H.R. 2347" and sch["senate"][0]["status"] == "Expected"
     assert landing.schedule_bills(cfg) == [(119, "hr", 2347)]
