@@ -4092,8 +4092,8 @@
   },
   {
    "id": "C00125732",
-   "name": "BLACK HILLS CORPORATION POLITICAL ACTION COMMITTEE",
-   "connected_org": null,
+   "name": "BRIGHT HORIZON ENERGY CORPORATION PAC",
+   "connected_org": "BRIGHT HORIZON ENERGY CORPORATION",
    "org_type": "C",
    "type": "Q",
    "designation": "B"
@@ -10852,8 +10852,8 @@
   },
   {
    "id": "C00329425",
-   "name": "BURGER KING FRANCHISEE PAC",
-   "connected_org": "BURGER KING",
+   "name": "NATIONAL FRANCHISEE ASSOCIATION, INC. (BURGER KING FRANCHISEE PAC)",
+   "connected_org": "NATIONAL FRANCHISEE ASSOCIATION, INC.",
    "org_type": "T",
    "type": "Q",
    "designation": "U"
@@ -15413,7 +15413,7 @@
   {
    "id": "C00407635",
    "name": "CONSOLIDATED EDISON INC. EMPLOYEES' POLITICAL ACTION COMMITTEE (CEIPAC)",
-   "connected_org": null,
+   "connected_org": "CONSOLIDATED EDISON INC.",
    "org_type": "C",
    "type": "Q",
    "designation": "B"
@@ -17493,7 +17493,7 @@
   {
    "id": "C00432617",
    "name": "GENERATION BLUE",
-   "connected_org": null,
+   "connected_org": "NONE",
    "org_type": null,
    "type": "Q",
    "designation": "D"
@@ -42891,6 +42891,70 @@
    "designation": "U"
   },
   {
+   "id": "C00800039",
+   "name": "VOTE PEACE",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "O",
+   "designation": "U"
+  },
+  {
+   "id": "C00800040",
+   "name": "OSCAR HEALTH, INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": "OSCAR HEALTH, INC.",
+   "org_type": "C",
+   "type": "N",
+   "designation": "U"
+  },
+  {
+   "id": "C00800041",
+   "name": "PIVOTAL HEALTH TECHNOLOGIES, INC. POLITICAL ACTION COMMITTEE (PIVOTAL HEALTH POLITICAL ACTION COMMITTEE)",
+   "connected_org": "PIVOTAL HEALTH TECHNOLOGIES, INC.",
+   "org_type": "C",
+   "type": "N",
+   "designation": "B"
+  },
+  {
+   "id": "C00800042",
+   "name": "BLUEPRINT PAC",
+   "connected_org": "HOOSIER NEIGHBORS VICTORY FUND",
+   "org_type": null,
+   "type": "N",
+   "designation": "D"
+  },
+  {
+   "id": "C00800043",
+   "name": "CARE FORCE",
+   "connected_org": "KNICKERBOCKER",
+   "org_type": null,
+   "type": "N",
+   "designation": "D"
+  },
+  {
+   "id": "C00800044",
+   "name": "SNOWPAC UTAH",
+   "connected_org": "BUILDING AN ENDURING NATION (BEN) FUND",
+   "org_type": null,
+   "type": "N",
+   "designation": "D"
+  },
+  {
+   "id": "C00800046",
+   "name": "BUILDING AN ENDURING NATION (BEN) FUND",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "N",
+   "designation": "J"
+  },
+  {
+   "id": "C00800050",
+   "name": "ECOMODERN ACTION CAMPAIGN FUND",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "N",
+   "designation": "U"
+  },
+  {
    "id": "C00800060",
    "name": "POLARIS NATIONAL SECURITY PAC, INC.",
    "connected_org": "NONE",
@@ -44837,7 +44901,7 @@
   {
    "id": "C00817395",
    "name": "FIFTH THIRD BANCORP FEDERAL POLITICAL ACTION COMMITTEE",
-   "connected_org": "FIFTH THIRD BANCORP POLITICAL ACTION COMMITTEE",
+   "connected_org": "FIFTH THIRD BANCORP",
    "org_type": "C",
    "type": "Q",
    "designation": "B"
@@ -65053,7 +65117,7 @@
   {
    "id": "C00898510",
    "name": "BE AMERICAN PAC",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "V",
    "designation": "U"
@@ -80613,7 +80677,7 @@
   {
    "id": "C00953471",
    "name": "ASHLEY MOODY VICTORY COMMITTEE",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -82811,14 +82875,6 @@
    "designation": "U"
   },
   {
-   "id": "C00958157",
-   "name": "UNIVERSITY OF ALABAMA",
-   "connected_org": "NONE",
-   "org_type": null,
-   "type": "N",
-   "designation": "B"
-  },
-  {
    "id": "C00958173",
    "name": "THE BEAK",
    "connected_org": "NONE",
@@ -83341,7 +83397,7 @@
   {
    "id": "C00959072",
    "name": "MAINE - IOWA SENATE VICTORY",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"

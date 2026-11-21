@@ -178,7 +178,19 @@
    "week_of": "2026-11-16"
   }
  ],
- "senate": [],
+ "senate": [
+  {
+   "bill": {
+    "type": "hr",
+    "number": 8469,
+    "label": "H.R. 8469",
+    "id": "hr8469-119"
+   },
+   "description": "Making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2027, and for other purposes.. Latest action, November 20: Motion to proceed to consideration of measure made in Senate.",
+   "category": "expected",
+   "basis": "congress.gov action"
+  }
+ ],
  "sources": {
   "house": "House Majority Leader floor schedule, docs.house.gov",
   "senate": "Expected, not scheduled: Senate roll calls (senate.gov), bill actions (Congress.gov) and the senate.gov floor schedule"

@@ -622,7 +622,15 @@ var SCHEDULE = {
     "upcoming": 0,
     "over": true
   },
-  "senate": [],
+  "senate": [
+    {
+      "bill": "H.R. 8469",
+      "title": "Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2027",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/8469",
+      "note": "Making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2027, and for other purposes.. Latest action, November 20: Motion to proceed to consideration of measure made in Senate.",
+      "status": "Expected"
+    }
+  ],
   "senate_recent": [
     {
       "bill": "H.R. 2347",

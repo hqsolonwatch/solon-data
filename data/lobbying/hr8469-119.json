@@ -1,0 +1,1897 @@
+{
+ "bill": "hr8469-119",
+ "filing_years": [
+  2025,
+  2026
+ ],
+ "fetched_ts": 1795262586,
+ "report_count": 117,
+ "clients": [
+  {
+   "client": "GENERAL DYNAMICS CORP",
+   "display_name": "General Dynamics",
+   "reports": 2,
+   "latest_report_amount": 3320000.0,
+   "latest_report": "743eb6f1-41f2-4f81-bf61-c2afb9336ffe",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00078451"
+   ],
+   "pac_names": [
+    "GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GENERAL DYNAMICS EMPLOYEE PAC)"
+   ]
+  },
+  {
+   "client": "DUKE ENERGY CORPORATION",
+   "display_name": "Duke Energy",
+   "reports": 3,
+   "latest_report_amount": 2190000.0,
+   "latest_report": "2e19e49c-48f0-4e0e-82dd-cc037f7eb19c",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00083535"
+   ],
+   "pac_names": [
+    "DUKE ENERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (DUKEPAC)"
+   ]
+  },
+  {
+   "client": "LEIDOS INC",
+   "display_name": "Leidos",
+   "reports": 5,
+   "latest_report_amount": 1150000.0,
+   "latest_report": "41374a32-cadc-4ad5-8b34-b96202d2d500",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00546234"
+   ],
+   "pac_names": [
+    "LEIDOS INC. POLITICAL ACTION COMMITTEE"
+   ]
+  },
+  {
+   "client": "ALKERMES, INC.",
+   "display_name": "Alkermes",
+   "reports": 4,
+   "latest_report_amount": 970000.0,
+   "latest_report": "96eb4088-436c-484a-8694-29a36ffe8876",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00525063"
+   ],
+   "pac_names": [
+    "ALKERMES, INC. POLITICAL ACTION COMMITTEE"
+   ]
+  },
+  {
+   "client": "HONEYWELL INTERNATIONAL",
+   "display_name": "Honeywell International",
+   "reports": 2,
+   "latest_report_amount": 820000.0,
+   "latest_report": "b076de67-54a5-45a5-bd93-5adecb3c721f",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00096156"
+   ],
+   "pac_names": [
+    "HONEYWELL INTERNATIONAL INC. TECHNOLOGIES PUBLIC AFFAIRS COUNCIL (HONPAC)"
+   ]
+  },
+  {
+   "client": "HP INC",
+   "display_name": "HP",
+   "reports": 1,
+   "latest_report_amount": 800000.0,
+   "latest_report": "3574a4e9-a6f0-4786-9b47-af18ff1e1898",
+   "latest_report_period": "2026 second_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "IONQ, INC.",
+   "display_name": "Ionq",
+   "reports": 3,
+   "latest_report_amount": 730000.0,
+   "latest_report": "34fe78e4-932f-4e6a-91c0-bc195a3471a8",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00847913"
+   ],
+   "pac_names": [
+    "IONQ, INC. PAC"
+   ]
+  },
+  {
+   "client": "AMERICAN CIVIL LIBERTIES UNION",
+   "display_name": "American Civil Liberties Union",
+   "reports": 1,
+   "latest_report_amount": 670000.0,
+   "latest_report": "f87b3a79-e43d-4eca-93a5-fcd50d994e18",
+   "latest_report_period": "2026 second_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "PLANNED PARENTHOOD FEDERATION OF AMERICA INC",
+   "display_name": "Planned Parenthood Federation of America",
+   "reports": 1,
+   "latest_report_amount": 652972.0,
+   "latest_report": "662738f9-a840-4880-9f04-a4b2fa66af2b",
+   "latest_report_period": "2026 second_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NATIONAL RIFLE ASSOCIATION OF AMERICA",
+   "display_name": "National Rifle Association of America",
+   "reports": 2,
+   "latest_report_amount": 520000.0,
+   "latest_report": "749b144a-8d4d-4220-9b11-6a68c583e35b",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "ASSOCIATION OF AMERICAN MEDICAL COLLEGES",
+   "display_name": "Association of American Medical Colleges",
+   "reports": 2,
+   "latest_report_amount": 431446.0,
+   "latest_report": "824ab428-edd7-4d53-97fe-75ea11156183",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "CAREQUEST INSTITUTE FOR ORAL HEALTH, INC.",
+   "display_name": "Carequest Institute for Oral Health",
+   "reports": 1,
+   "latest_report_amount": 310000.0,
+   "latest_report": "bbfbeae4-b98e-4667-a79c-e4426796c30b",
+   "latest_report_period": "2026 second_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS",
+   "display_name": "American Society of Anesthesiologists",
+   "reports": 2,
+   "latest_report_amount": 270000.0,
+   "latest_report": "0c298f37-79d8-4711-b711-6f587babdd0e",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00255752"
+   ],
+   "pac_names": [
+    "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)"
+   ]
+  },
+  {
+   "client": "PARKINSON'S FOUNDATION",
+   "display_name": "Parkinson's Foundation",
+   "reports": 2,
+   "latest_report_amount": 240000.0,
+   "latest_report": "4a4614e2-cd6b-4c95-8f3c-5e1156586e87",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "SCHNEIDER ELECTRIC",
+   "display_name": "Schneider Electric",
+   "reports": 2,
+   "latest_report_amount": 220000.0,
+   "latest_report": "9d025b4b-be44-4b41-a48a-bd8fc16b0181",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00912626"
+   ],
+   "pac_names": [
+    "SCHNEIDER ELECTRIC USA, INC. PAC (SCHNEIDER ELECTRIC USA PAC)"
+   ]
+  },
+  {
+   "client": "AMERICAN DENTAL ASSOCIATION",
+   "display_name": "American Dental Association",
+   "reports": 2,
+   "latest_report_amount": 210000.0,
+   "latest_report": "9fe28ebd-639a-428b-bcdd-e9c1d32d7e0f",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00000729",
+    "C00012211"
+   ],
+   "pac_names": [
+    "AMERICAN DENTAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+    "NORTH CAROLINA DENTAL SOCIETY PAC"
+   ]
+  },
+  {
+   "client": "FOOD SOLUTIONS ACTION",
+   "display_name": "Food Solutions Action",
+   "reports": 2,
+   "latest_report_amount": 180000.0,
+   "latest_report": "c4f6d2ec-eae6-49a0-96e4-b08e8564135e",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "THE MICHAEL J. FOX FOUNDATION FOR PARKINSON'S RESEARCH",
+   "display_name": "The Michael J. Fox Foundation for Parkinson's Research",
+   "reports": 2,
+   "latest_report_amount": 150000.0,
+   "latest_report": "d0713f03-58a0-4530-af86-49449d2e71bc",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "PARALYZED VETERANS OF AMERICA",
+   "display_name": "Paralyzed Veterans of America",
+   "reports": 2,
+   "latest_report_amount": 105716.0,
+   "latest_report": "443f761b-3cc2-40f0-8e23-f7e2f97f2b28",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "AMERICAN HEART ASSOCIATION",
+   "display_name": "American Heart Association",
+   "reports": 2,
+   "latest_report_amount": 80000.0,
+   "latest_report": "4de01ba4-8bb7-41ae-b5af-2937289379e6",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "PMI US CORPORATE SERVICES INC.",
+   "display_name": "Pmi Us Corporate Services",
+   "reports": 4,
+   "latest_report_amount": 80000.0,
+   "latest_report": "75873cbf-6f5d-4115-8316-09785274f306",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "HCBS ADVOCACY, LLC",
+   "display_name": "HCBS Advocacy",
+   "reports": 2,
+   "latest_report_amount": 80000.0,
+   "latest_report": "56203df3-8280-45ac-a676-ecca55fcb133",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NATIONAL MULTIPLE SCLEROSIS SOCIETY",
+   "display_name": "National Multiple Sclerosis Society",
+   "reports": 2,
+   "latest_report_amount": 76247.0,
+   "latest_report": "ffd62f10-120e-40bf-8f4c-3c6bf8126053",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "BALFOUR BEATTY INVESTMENTS",
+   "display_name": "Balfour Beatty Investments",
+   "reports": 2,
+   "latest_report_amount": 70000.0,
+   "latest_report": "6226f496-dc64-453d-9ed3-7660a55a441b",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "PERSPECTUM LTD",
+   "display_name": "Perspectum",
+   "reports": 2,
+   "latest_report_amount": 70000.0,
+   "latest_report": "a87fbaaa-5ee1-44ca-b14f-c707a8cb1f37",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NORTH CAROLINA MILITARY AFFAIRS COMMISSION",
+   "display_name": "North Carolina Military Affairs Commission",
+   "reports": 1,
+   "latest_report_amount": 70000.0,
+   "latest_report": "a636aa1a-8b8d-41ff-940c-8d9d79df771d",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "AMERICAN ASSOCIATION OF NURSE ANESTHETISTS",
+   "display_name": "American Association of Nurse Anesthetists",
+   "reports": 3,
+   "latest_report_amount": 60000.0,
+   "latest_report": "f84ffde0-16fc-469d-a5e6-fe5fdcf2a6ce",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00173153"
+   ],
+   "pac_names": [
+    "AMERICAN ASSOCIATION OF NURSE ANESTHETISTS SEPARATE SEGREGATED FUND (CRNA-PAC)"
+   ]
+  },
+  {
+   "client": "OIC, L.P.",
+   "display_name": "Oic",
+   "reports": 2,
+   "latest_report_amount": 60000.0,
+   "latest_report": "da9e0973-2863-40b6-962a-acb1cf348b91",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "PODIMETRICS",
+   "display_name": "Podimetrics",
+   "reports": 1,
+   "latest_report_amount": 60000.0,
+   "latest_report": "f3034f47-e8f0-4ac8-b9d3-51c07816ca94",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "SOUND PHARMACEUTICALS, INC.",
+   "display_name": "Sound Pharmaceuticals",
+   "reports": 2,
+   "latest_report_amount": 60000.0,
+   "latest_report": "d5cbcf60-8df3-4d85-8d98-ad5657239318",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "ADOBE SYSTEMS INC.",
+   "display_name": "Adobe Systems",
+   "reports": 2,
+   "latest_report_amount": 60000.0,
+   "latest_report": "78dafd98-d106-4cc5-82ab-4290e8062da1",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "VOLUNTEERS OF AMERICA",
+   "display_name": "Volunteers of America",
+   "reports": 2,
+   "latest_report_amount": 60000.0,
+   "latest_report": "04301442-8ba3-4577-bd5b-5bcc40c5ec39",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "SAN DIEGO COUNTY",
+   "display_name": "San Diego County",
+   "reports": 1,
+   "latest_report_amount": 60000.0,
+   "latest_report": "03249190-7a69-40cd-bfae-d8e1212805dd",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "LUCID BOTS",
+   "display_name": "Lucid Bots",
+   "reports": 2,
+   "latest_report_amount": 50000.0,
+   "latest_report": "967d20b8-0423-467f-933c-7cbaf89b4971",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "CENTER FOR REPRODUCTIVE RIGHTS",
+   "display_name": "Center for Reproductive Rights",
+   "reports": 2,
+   "latest_report_amount": 50000.0,
+   "latest_report": "8d87e45f-b649-412e-bbce-09236cf987c7",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "DOCUMENT STORAGE SYSTEMS, INC.",
+   "display_name": "Document Storage Systems",
+   "reports": 2,
+   "latest_report_amount": 50000.0,
+   "latest_report": "1d9b6e99-6f18-4f87-a2f8-c56360348ffc",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00683334"
+   ],
+   "pac_names": [
+    "DOCUMENT STORAGE SYSTEMS, INC. (DSS PAC)"
+   ]
+  },
+  {
+   "client": "UNIVERSITY OF PHOENIX",
+   "display_name": "University of Phoenix",
+   "reports": 2,
+   "latest_report_amount": 50000.0,
+   "latest_report": "37cec52b-6fcc-40e8-afd8-ee9e1744f7b6",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "VANDERBILT UNIVERSITY MEDICAL CENTER",
+   "display_name": "Vanderbilt University Medical Center",
+   "reports": 1,
+   "latest_report_amount": 50000.0,
+   "latest_report": "d04b38d8-ba6b-437a-8ca8-55da67dd7b11",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "PICERNE MILITARY HOUSING A/K/A CORVIAS GROUP",
+   "display_name": "Picerne Military Housing A/k/a Corvias Group",
+   "reports": 1,
+   "latest_report_amount": 50000.0,
+   "latest_report": "08bc8b7e-2454-43c1-a159-80193ab7e726",
+   "latest_report_period": "2026 second_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "UNIVERSITY OF NEW HAMPSHIRE",
+   "display_name": "University of New Hampshire",
+   "reports": 3,
+   "latest_report_amount": 40000.0,
+   "latest_report": "bdba2a1e-77c4-4c4a-88cc-9ebf069f3b78",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NATIONAL THOROUGHBRED RACING ASSOCIATION",
+   "display_name": "National Thoroughbred Racing Association",
+   "reports": 2,
+   "latest_report_amount": 40000.0,
+   "latest_report": "6cd09dba-5fef-4f97-9a4f-66319c3a6488",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00360008"
+   ],
+   "pac_names": [
+    "NATIONAL THOROUGHBRED RACING ASSOCIATION POLITICAL ACTION COMMITTEE/HORSE PAC"
+   ]
+  },
+  {
+   "client": "T-MOBILE",
+   "display_name": "T-mobile",
+   "reports": 2,
+   "latest_report_amount": 40000.0,
+   "latest_report": "5cd5faa5-5e72-4862-984b-4dda4833ea80",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "BEAVERFIT NORTH AMERICA, LLC",
+   "display_name": "Beaverfit North America",
+   "reports": 2,
+   "latest_report_amount": 30000.0,
+   "latest_report": "26b51aac-ff8c-4915-9758-774e4e690528",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "PHANTOM NEURO",
+   "display_name": "Phantom Neuro",
+   "reports": 2,
+   "latest_report_amount": 30000.0,
+   "latest_report": "487d206b-e933-49fe-be9a-cc439f709234",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NEW YORK EMBROIDERY STUDIO, INC.",
+   "display_name": "New York Embroidery Studio",
+   "reports": 2,
+   "latest_report_amount": 30000.0,
+   "latest_report": "468df528-d11b-4a18-a83e-08d91c2940b8",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NATIONAL KIDNEY REGISTRY",
+   "display_name": "National Kidney Registry",
+   "reports": 2,
+   "latest_report_amount": 30000.0,
+   "latest_report": "6dfef920-1011-4d05-8491-765292ec13e5",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "GREATER CHEYENNE CHAMBER OF COMMERCE",
+   "display_name": "Greater Cheyenne Chamber of Commerce",
+   "reports": 2,
+   "latest_report_amount": 30000.0,
+   "latest_report": "2b31e82f-4ca5-404a-bb92-03ffacb1b59e",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "SPARTAN SEALIFT, LLC",
+   "display_name": "Spartan Sealift",
+   "reports": 2,
+   "latest_report_amount": 30000.0,
+   "latest_report": "3d2dc969-3c2e-459d-a6f8-ae590c14fc52",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "MONTGOMERY AREA CHAMBER OF COMMERCE",
+   "display_name": "Montgomery Area Chamber of Commerce",
+   "reports": 2,
+   "latest_report_amount": 30000.0,
+   "latest_report": "9893d796-f5c1-4261-9fc4-443d41108412",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "RIVERSIDE COMMUNITY COLLEGE DISTRICT",
+   "display_name": "Riverside Community College District",
+   "reports": 2,
+   "latest_report_amount": 24000.0,
+   "latest_report": "6a9f9bd6-e009-429e-8968-5a472920572b",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NEXALIN TECHNOLOGY INC.",
+   "display_name": "Nexalin Technology",
+   "reports": 2,
+   "latest_report_amount": 20000.0,
+   "latest_report": "2662a9d6-987b-403f-8f9e-5390f19231cc",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NAVAL POSTGRADUATE SCHOOL FOUNDATION (NPSF)",
+   "display_name": "Naval Postgraduate School Foundation (npsf)",
+   "reports": 2,
+   "latest_report_amount": 20000.0,
+   "latest_report": "3ec9c917-fc07-4748-9997-41b871834657",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "NATIONAL VETERAN SMALL BUSINESS COALITION",
+   "display_name": "National Veteran Small Business Coalition",
+   "reports": 2,
+   "latest_report_amount": 20000.0,
+   "latest_report": "cdc310d7-2196-4e05-a07c-4e181cd2ae86",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "INDIAN WELLS VALLEY GROUNDWATER AUTHORITY",
+   "display_name": "Indian Wells Valley Groundwater Authority",
+   "reports": 1,
+   "latest_report_amount": 15244.0,
+   "latest_report": "15da2663-6e94-4579-831b-3f36a10778cf",
+   "latest_report_period": "2026 second_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "ZEEL NETWORKS, INC.",
+   "display_name": "Zeel Networks",
+   "reports": 1,
+   "latest_report_amount": 10000.0,
+   "latest_report": "9caa576e-d7b1-4bd9-9f05-835f918bcb60",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "WHITE COAT WASTE PROJECT INC",
+   "display_name": "White Coat Waste Project",
+   "reports": 2,
+   "latest_report_amount": 10000.0,
+   "latest_report": "94f9588e-11d4-4439-93a8-2e0dc633175b",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "COLLEGE OF WILLIAM & MARY",
+   "display_name": "College of William & Mary",
+   "reports": 1,
+   "latest_report_amount": 10000.0,
+   "latest_report": "3e3c9bfc-8df5-4b91-8466-239074ade4a1",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "LSU HEALTH SCIENCES FOUNDATION)",
+   "display_name": "Lsu Health Sciences Foundation)",
+   "reports": 2,
+   "latest_report_amount": null,
+   "latest_report": "21142f74-1869-46d7-9a74-9496ac670e7b",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  },
+  {
+   "client": "SHEET METAL & AIR CONDITIONING CONTRACTORS NAT'L ASSN",
+   "display_name": "Sheet Metal & Air Conditioning Contractors Nat'l Assn",
+   "reports": 2,
+   "latest_report_amount": null,
+   "latest_report": "6efc54f8-c510-44c0-aaca-6131fde1c64f",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [],
+   "pac_names": []
+  }
+ ],
+ "groups_shown": [
+  {
+   "client": "GENERAL DYNAMICS CORP",
+   "display_name": "General Dynamics",
+   "reports": 2,
+   "latest_report_amount": 3320000.0,
+   "latest_report": "743eb6f1-41f2-4f81-bf61-c2afb9336ffe",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00078451"
+   ],
+   "pac_names": [
+    "GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GENERAL DYNAMICS EMPLOYEE PAC)"
+   ]
+  },
+  {
+   "client": "DUKE ENERGY CORPORATION",
+   "display_name": "Duke Energy",
+   "reports": 3,
+   "latest_report_amount": 2190000.0,
+   "latest_report": "2e19e49c-48f0-4e0e-82dd-cc037f7eb19c",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00083535"
+   ],
+   "pac_names": [
+    "DUKE ENERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (DUKEPAC)"
+   ]
+  },
+  {
+   "client": "LEIDOS INC",
+   "display_name": "Leidos",
+   "reports": 5,
+   "latest_report_amount": 1150000.0,
+   "latest_report": "41374a32-cadc-4ad5-8b34-b96202d2d500",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00546234"
+   ],
+   "pac_names": [
+    "LEIDOS INC. POLITICAL ACTION COMMITTEE"
+   ]
+  },
+  {
+   "client": "ALKERMES, INC.",
+   "display_name": "Alkermes",
+   "reports": 4,
+   "latest_report_amount": 970000.0,
+   "latest_report": "96eb4088-436c-484a-8694-29a36ffe8876",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00525063"
+   ],
+   "pac_names": [
+    "ALKERMES, INC. POLITICAL ACTION COMMITTEE"
+   ]
+  },
+  {
+   "client": "HONEYWELL INTERNATIONAL",
+   "display_name": "Honeywell International",
+   "reports": 2,
+   "latest_report_amount": 820000.0,
+   "latest_report": "b076de67-54a5-45a5-bd93-5adecb3c721f",
+   "latest_report_period": "2026 third_quarter",
+   "pac_ids": [
+    "C00096156"
+   ],
+   "pac_names": [
+    "HONEYWELL INTERNATIONAL INC. TECHNOLOGIES PUBLIC AFFAIRS COUNCIL (HONPAC)"
+   ]
+  }
+ ],
+ "rule": "Groups shown: up to 5 groups that have a federal PAC, ranked by the lobbying amount on their latest report naming the bill.",
+ "filings": [
+  {
+   "filing_uuid": "3ced2d98-1d8e-4e7f-a11f-953c85fe12e9",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-15T16:24:47-04:00",
+   "amount": 40000.0,
+   "registrant": "LEWIS-BURKE ASSOCIATES, LLC",
+   "client": "UNIVERSITY OF NEW HAMPSHIRE",
+   "url": "https://lda.gov/filings/public/filing/3ced2d98-1d8e-4e7f-a11f-953c85fe12e9/print/"
+  },
+  {
+   "filing_uuid": "4bc7672f-cd0c-4d46-bbbe-c7f90a619def",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-15T21:22:24-04:00",
+   "amount": 275000.0,
+   "registrant": "AMERICAN ASSOCIATION OF NURSE ANESTHETISTS",
+   "client": "AMERICAN ASSOCIATION OF NURSE ANESTHETISTS",
+   "url": "https://lda.gov/filings/public/filing/4bc7672f-cd0c-4d46-bbbe-c7f90a619def/print/"
+  },
+  {
+   "filing_uuid": "e956c283-9fb3-4f6d-bbdf-d0846a7a6ba8",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T10:04:33-04:00",
+   "amount": 270000.0,
+   "registrant": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS",
+   "client": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS",
+   "url": "https://lda.gov/filings/public/filing/e956c283-9fb3-4f6d-bbdf-d0846a7a6ba8/print/"
+  },
+  {
+   "filing_uuid": "4150fb21-6764-4629-a6d9-ed58dd4a4200",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T10:20:36-04:00",
+   "amount": 150000.0,
+   "registrant": "THE MICHAEL J. FOX FOUNDATION FOR PARKINSON'S RESEARCH",
+   "client": "THE MICHAEL J. FOX FOUNDATION FOR PARKINSON'S RESEARCH",
+   "url": "https://lda.gov/filings/public/filing/4150fb21-6764-4629-a6d9-ed58dd4a4200/print/"
+  },
+  {
+   "filing_uuid": "3574a4e9-a6f0-4786-9b47-af18ff1e1898",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T13:41:54-04:00",
+   "amount": 800000.0,
+   "registrant": "HP INC.",
+   "client": "HP INC",
+   "url": "https://lda.gov/filings/public/filing/3574a4e9-a6f0-4786-9b47-af18ff1e1898/print/"
+  },
+  {
+   "filing_uuid": "14652c8e-8e64-4529-bb96-1f13b826cc3c",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T15:30:06-04:00",
+   "amount": 50000.0,
+   "registrant": "AXADVOCACY GOVERNMENT RELATIONS",
+   "client": "LUCID BOTS",
+   "url": "https://lda.gov/filings/public/filing/14652c8e-8e64-4529-bb96-1f13b826cc3c/print/"
+  },
+  {
+   "filing_uuid": "490e6b30-13f3-4884-b6e8-031842e22c9e",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T16:32:00-04:00",
+   "amount": 112137.0,
+   "registrant": "PARALYZED VETERANS OF AMERICA",
+   "client": "PARALYZED VETERANS OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/490e6b30-13f3-4884-b6e8-031842e22c9e/print/"
+  },
+  {
+   "filing_uuid": "90cea1ff-20c7-4365-a23f-3da1ad939e1d",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T17:31:29-04:00",
+   "amount": null,
+   "registrant": "TEAM HALLAHAN LLC",
+   "client": "LSU HEALTH SCIENCES FOUNDATION)",
+   "url": "https://lda.gov/filings/public/filing/90cea1ff-20c7-4365-a23f-3da1ad939e1d/print/"
+  },
+  {
+   "filing_uuid": "bbfbeae4-b98e-4667-a79c-e4426796c30b",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T17:48:51-04:00",
+   "amount": 310000.0,
+   "registrant": "CAREQUEST INSTITUTE FOR ORAL HEALTH, INC.",
+   "client": "CAREQUEST INSTITUTE FOR ORAL HEALTH, INC.",
+   "url": "https://lda.gov/filings/public/filing/bbfbeae4-b98e-4667-a79c-e4426796c30b/print/"
+  },
+  {
+   "filing_uuid": "85c8b18c-c601-4cb8-b606-48c21a29dd6a",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T22:02:57-04:00",
+   "amount": 30000.0,
+   "registrant": "NORTH BRIDGE STRATEGIC, LLC (FORMERLY KNOWN AS SCISSORTAIL STRATEGIC CONSULTING",
+   "client": "BEAVERFIT NORTH AMERICA, LLC",
+   "url": "https://lda.gov/filings/public/filing/85c8b18c-c601-4cb8-b606-48c21a29dd6a/print/"
+  },
+  {
+   "filing_uuid": "7a696cd3-07b7-46e4-89c3-d148ca615ad8",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T10:28:07-04:00",
+   "amount": 30000.0,
+   "registrant": "AXADVOCACY GOVERNMENT RELATIONS",
+   "client": "PHANTOM NEURO",
+   "url": "https://lda.gov/filings/public/filing/7a696cd3-07b7-46e4-89c3-d148ca615ad8/print/"
+  },
+  {
+   "filing_uuid": "f87b3a79-e43d-4eca-93a5-fcd50d994e18",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T11:34:30-04:00",
+   "amount": 670000.0,
+   "registrant": "AMERICAN CIVIL LIBERTIES UNION",
+   "client": "AMERICAN CIVIL LIBERTIES UNION",
+   "url": "https://lda.gov/filings/public/filing/f87b3a79-e43d-4eca-93a5-fcd50d994e18/print/"
+  },
+  {
+   "filing_uuid": "dd5f50c8-b8e8-4b87-acf9-a3aab8401443",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T13:36:19-04:00",
+   "amount": 1110000.0,
+   "registrant": "LEIDOS, INC.",
+   "client": "LEIDOS INC",
+   "url": "https://lda.gov/filings/public/filing/dd5f50c8-b8e8-4b87-acf9-a3aab8401443/print/"
+  },
+  {
+   "filing_uuid": "86e10fdd-6fb7-4c61-a7fa-91730f38a0b0",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T14:40:21-04:00",
+   "amount": 90000.0,
+   "registrant": "HILL EAST GROUP, LLC",
+   "client": "OIC, L.P.",
+   "url": "https://lda.gov/filings/public/filing/86e10fdd-6fb7-4c61-a7fa-91730f38a0b0/print/"
+  },
+  {
+   "filing_uuid": "34091728-6711-44b3-a387-9347710db957",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T15:29:58-04:00",
+   "amount": 30000.0,
+   "registrant": "HILL EAST GROUP, LLC",
+   "client": "NEW YORK EMBROIDERY STUDIO, INC.",
+   "url": "https://lda.gov/filings/public/filing/34091728-6711-44b3-a387-9347710db957/print/"
+  },
+  {
+   "filing_uuid": "6c0b72bc-0cad-4d22-92ce-e3a3cc3f6919",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T16:21:06-04:00",
+   "amount": 180000.0,
+   "registrant": "FOOD SOLUTIONS ACTION",
+   "client": "FOOD SOLUTIONS ACTION",
+   "url": "https://lda.gov/filings/public/filing/6c0b72bc-0cad-4d22-92ce-e3a3cc3f6919/print/"
+  },
+  {
+   "filing_uuid": "3f9434dd-8521-4c5b-96fd-424b0ab2fe53",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T16:40:03-04:00",
+   "amount": 220000.0,
+   "registrant": "SCHNEIDER ELECTRIC",
+   "client": "SCHNEIDER ELECTRIC",
+   "url": "https://lda.gov/filings/public/filing/3f9434dd-8521-4c5b-96fd-424b0ab2fe53/print/"
+  },
+  {
+   "filing_uuid": "490380b2-0a03-4dc9-b9cd-1cdf97bd0831",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T17:49:53-04:00",
+   "amount": null,
+   "registrant": "SHEET METAL & AIR CONDITIONING CONTRACTORS NAT'L ASSN",
+   "client": "SHEET METAL & AIR CONDITIONING CONTRACTORS NAT'L ASSN",
+   "url": "https://lda.gov/filings/public/filing/490380b2-0a03-4dc9-b9cd-1cdf97bd0831/print/"
+  },
+  {
+   "filing_uuid": "c84333a5-143b-4431-8820-d17ceea8c4ce",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T18:03:39-04:00",
+   "amount": 70000.0,
+   "registrant": "CENTER FOR REPRODUCTIVE RIGHTS",
+   "client": "CENTER FOR REPRODUCTIVE RIGHTS",
+   "url": "https://lda.gov/filings/public/filing/c84333a5-143b-4431-8820-d17ceea8c4ce/print/"
+  },
+  {
+   "filing_uuid": "662738f9-a840-4880-9f04-a4b2fa66af2b",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T20:42:58-04:00",
+   "amount": 652972.0,
+   "registrant": "PLANNED PARENTHOOD FEDERATION OF AMERICA, INC.",
+   "client": "PLANNED PARENTHOOD FEDERATION OF AMERICA INC",
+   "url": "https://lda.gov/filings/public/filing/662738f9-a840-4880-9f04-a4b2fa66af2b/print/"
+  },
+  {
+   "filing_uuid": "ececcf28-092f-4db1-86d5-1fef6bcaf4f1",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T21:23:07-04:00",
+   "amount": 440000.0,
+   "registrant": "IONQ, INC.",
+   "client": "IONQ, INC.",
+   "url": "https://lda.gov/filings/public/filing/ececcf28-092f-4db1-86d5-1fef6bcaf4f1/print/"
+  },
+  {
+   "filing_uuid": "9e80612c-7d78-4de1-90b1-30b431d3efe1",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T23:17:22-04:00",
+   "amount": 400000.0,
+   "registrant": "AMERICAN HEART ASSOCIATION",
+   "client": "AMERICAN HEART ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/9e80612c-7d78-4de1-90b1-30b431d3efe1/print/"
+  },
+  {
+   "filing_uuid": "d5b34546-730d-4f46-a3b3-e1d2620d7b58",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T23:38:54-04:00",
+   "amount": 80000.0,
+   "registrant": "BALFOUR BEATTY INVESTMENTS",
+   "client": "BALFOUR BEATTY INVESTMENTS",
+   "url": "https://lda.gov/filings/public/filing/d5b34546-730d-4f46-a3b3-e1d2620d7b58/print/"
+  },
+  {
+   "filing_uuid": "0fdd0703-9987-4144-9f40-a60c547de052",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-28T10:21:50-04:00",
+   "amount": 1100000.0,
+   "registrant": "AMERICAN DENTAL ASSOCIATION",
+   "client": "AMERICAN DENTAL ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/0fdd0703-9987-4144-9f40-a60c547de052/print/"
+  },
+  {
+   "filing_uuid": "906a123e-fbff-4da6-b327-479e61d139e3",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-08-27T13:39:17-04:00",
+   "amount": 530000.0,
+   "registrant": "IONQ, INC.",
+   "client": "IONQ, INC.",
+   "url": "https://lda.gov/filings/public/filing/906a123e-fbff-4da6-b327-479e61d139e3/print/"
+  },
+  {
+   "filing_uuid": "0c298f37-79d8-4711-b711-6f587babdd0e",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-13T10:16:08-04:00",
+   "amount": 270000.0,
+   "registrant": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS",
+   "client": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS",
+   "url": "https://lda.gov/filings/public/filing/0c298f37-79d8-4711-b711-6f587babdd0e/print/"
+  },
+  {
+   "filing_uuid": "bdba2a1e-77c4-4c4a-88cc-9ebf069f3b78",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-13T12:56:42-04:00",
+   "amount": 40000.0,
+   "registrant": "LEWIS-BURKE ASSOCIATES, LLC",
+   "client": "UNIVERSITY OF NEW HAMPSHIRE",
+   "url": "https://lda.gov/filings/public/filing/bdba2a1e-77c4-4c4a-88cc-9ebf069f3b78/print/"
+  },
+  {
+   "filing_uuid": "4de01ba4-8bb7-41ae-b5af-2937289379e6",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-18T22:47:13-04:00",
+   "amount": 80000.0,
+   "registrant": "AMERICAN HEART ASSOCIATION",
+   "client": "AMERICAN HEART ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/4de01ba4-8bb7-41ae-b5af-2937289379e6/print/"
+  },
+  {
+   "filing_uuid": "d0713f03-58a0-4530-af86-49449d2e71bc",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T10:17:06-04:00",
+   "amount": 150000.0,
+   "registrant": "THE MICHAEL J. FOX FOUNDATION FOR PARKINSON'S RESEARCH",
+   "client": "THE MICHAEL J. FOX FOUNDATION FOR PARKINSON'S RESEARCH",
+   "url": "https://lda.gov/filings/public/filing/d0713f03-58a0-4530-af86-49449d2e71bc/print/"
+  },
+  {
+   "filing_uuid": "c4f6d2ec-eae6-49a0-96e4-b08e8564135e",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T10:24:33-04:00",
+   "amount": 180000.0,
+   "registrant": "FOOD SOLUTIONS ACTION",
+   "client": "FOOD SOLUTIONS ACTION",
+   "url": "https://lda.gov/filings/public/filing/c4f6d2ec-eae6-49a0-96e4-b08e8564135e/print/"
+  },
+  {
+   "filing_uuid": "443f761b-3cc2-40f0-8e23-f7e2f97f2b28",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T11:42:49-04:00",
+   "amount": 105716.0,
+   "registrant": "PARALYZED VETERANS OF AMERICA",
+   "client": "PARALYZED VETERANS OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/443f761b-3cc2-40f0-8e23-f7e2f97f2b28/print/"
+  },
+  {
+   "filing_uuid": "487d206b-e933-49fe-be9a-cc439f709234",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T13:01:23-04:00",
+   "amount": 30000.0,
+   "registrant": "AXADVOCACY GOVERNMENT RELATIONS",
+   "client": "PHANTOM NEURO",
+   "url": "https://lda.gov/filings/public/filing/487d206b-e933-49fe-be9a-cc439f709234/print/"
+  },
+  {
+   "filing_uuid": "41374a32-cadc-4ad5-8b34-b96202d2d500",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T13:04:10-04:00",
+   "amount": 1150000.0,
+   "registrant": "LEIDOS, INC.",
+   "client": "LEIDOS INC",
+   "url": "https://lda.gov/filings/public/filing/41374a32-cadc-4ad5-8b34-b96202d2d500/print/"
+  },
+  {
+   "filing_uuid": "967d20b8-0423-467f-933c-7cbaf89b4971",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T14:08:38-04:00",
+   "amount": 50000.0,
+   "registrant": "AXADVOCACY GOVERNMENT RELATIONS",
+   "client": "LUCID BOTS",
+   "url": "https://lda.gov/filings/public/filing/967d20b8-0423-467f-933c-7cbaf89b4971/print/"
+  },
+  {
+   "filing_uuid": "9caa576e-d7b1-4bd9-9f05-835f918bcb60",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T22:39:29-04:00",
+   "amount": 10000.0,
+   "registrant": "POTOMAC GR LLC",
+   "client": "ZEEL NETWORKS, INC.",
+   "url": "https://lda.gov/filings/public/filing/9caa576e-d7b1-4bd9-9f05-835f918bcb60/print/"
+  },
+  {
+   "filing_uuid": "21142f74-1869-46d7-9a74-9496ac670e7b",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T07:24:34-04:00",
+   "amount": null,
+   "registrant": "TEAM HALLAHAN LLC",
+   "client": "LSU HEALTH SCIENCES FOUNDATION)",
+   "url": "https://lda.gov/filings/public/filing/21142f74-1869-46d7-9a74-9496ac670e7b/print/"
+  },
+  {
+   "filing_uuid": "26b51aac-ff8c-4915-9758-774e4e690528",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T10:37:43-04:00",
+   "amount": 30000.0,
+   "registrant": "NORTH BRIDGE STRATEGIC, LLC (FORMERLY KNOWN AS SCISSORTAIL STRATEGIC CONSULTING",
+   "client": "BEAVERFIT NORTH AMERICA, LLC",
+   "url": "https://lda.gov/filings/public/filing/26b51aac-ff8c-4915-9758-774e4e690528/print/"
+  },
+  {
+   "filing_uuid": "b076de67-54a5-45a5-bd93-5adecb3c721f",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T10:41:58-04:00",
+   "amount": 820000.0,
+   "registrant": "HONEYWELL INTERNATIONAL",
+   "client": "HONEYWELL INTERNATIONAL",
+   "url": "https://lda.gov/filings/public/filing/b076de67-54a5-45a5-bd93-5adecb3c721f/print/"
+  },
+  {
+   "filing_uuid": "f3034f47-e8f0-4ac8-b9d3-51c07816ca94",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T10:46:03-04:00",
+   "amount": 60000.0,
+   "registrant": "MEHLMAN CONSULTING, INC.",
+   "client": "PODIMETRICS",
+   "url": "https://lda.gov/filings/public/filing/f3034f47-e8f0-4ac8-b9d3-51c07816ca94/print/"
+  },
+  {
+   "filing_uuid": "34fe78e4-932f-4e6a-91c0-bc195a3471a8",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T15:13:13-04:00",
+   "amount": 730000.0,
+   "registrant": "IONQ, INC.",
+   "client": "IONQ, INC.",
+   "url": "https://lda.gov/filings/public/filing/34fe78e4-932f-4e6a-91c0-bc195a3471a8/print/"
+  },
+  {
+   "filing_uuid": "9d025b4b-be44-4b41-a48a-bd8fc16b0181",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T16:07:44-04:00",
+   "amount": 220000.0,
+   "registrant": "SCHNEIDER ELECTRIC",
+   "client": "SCHNEIDER ELECTRIC",
+   "url": "https://lda.gov/filings/public/filing/9d025b4b-be44-4b41-a48a-bd8fc16b0181/print/"
+  },
+  {
+   "filing_uuid": "8d87e45f-b649-412e-bbce-09236cf987c7",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T16:09:04-04:00",
+   "amount": 50000.0,
+   "registrant": "CENTER FOR REPRODUCTIVE RIGHTS",
+   "client": "CENTER FOR REPRODUCTIVE RIGHTS",
+   "url": "https://lda.gov/filings/public/filing/8d87e45f-b649-412e-bbce-09236cf987c7/print/"
+  },
+  {
+   "filing_uuid": "6efc54f8-c510-44c0-aaca-6131fde1c64f",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T16:29:34-04:00",
+   "amount": null,
+   "registrant": "SHEET METAL & AIR CONDITIONING CONTRACTORS NAT'L ASSN",
+   "client": "SHEET METAL & AIR CONDITIONING CONTRACTORS NAT'L ASSN",
+   "url": "https://lda.gov/filings/public/filing/6efc54f8-c510-44c0-aaca-6131fde1c64f/print/"
+  },
+  {
+   "filing_uuid": "9fe28ebd-639a-428b-bcdd-e9c1d32d7e0f",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T16:36:06-04:00",
+   "amount": 210000.0,
+   "registrant": "AMERICAN DENTAL ASSOCIATION",
+   "client": "AMERICAN DENTAL ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/9fe28ebd-639a-428b-bcdd-e9c1d32d7e0f/print/"
+  },
+  {
+   "filing_uuid": "6dfef920-1011-4d05-8491-765292ec13e5",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T18:11:28-04:00",
+   "amount": 30000.0,
+   "registrant": "HILL EAST GROUP, LLC",
+   "client": "NATIONAL KIDNEY REGISTRY",
+   "url": "https://lda.gov/filings/public/filing/6dfef920-1011-4d05-8491-765292ec13e5/print/"
+  },
+  {
+   "filing_uuid": "da9e0973-2863-40b6-962a-acb1cf348b91",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T18:17:45-04:00",
+   "amount": 60000.0,
+   "registrant": "HILL EAST GROUP, LLC",
+   "client": "OIC, L.P.",
+   "url": "https://lda.gov/filings/public/filing/da9e0973-2863-40b6-962a-acb1cf348b91/print/"
+  },
+  {
+   "filing_uuid": "468df528-d11b-4a18-a83e-08d91c2940b8",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T18:21:11-04:00",
+   "amount": 30000.0,
+   "registrant": "HILL EAST GROUP, LLC",
+   "client": "NEW YORK EMBROIDERY STUDIO, INC.",
+   "url": "https://lda.gov/filings/public/filing/468df528-d11b-4a18-a83e-08d91c2940b8/print/"
+  },
+  {
+   "filing_uuid": "2662a9d6-987b-403f-8f9e-5390f19231cc",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T18:29:04-04:00",
+   "amount": 20000.0,
+   "registrant": "RK STRATEGIES, INC.",
+   "client": "NEXALIN TECHNOLOGY INC.",
+   "url": "https://lda.gov/filings/public/filing/2662a9d6-987b-403f-8f9e-5390f19231cc/print/"
+  },
+  {
+   "filing_uuid": "6226f496-dc64-453d-9ed3-7660a55a441b",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T22:47:50-04:00",
+   "amount": 70000.0,
+   "registrant": "BALFOUR BEATTY INVESTMENTS",
+   "client": "BALFOUR BEATTY INVESTMENTS",
+   "url": "https://lda.gov/filings/public/filing/6226f496-dc64-453d-9ed3-7660a55a441b/print/"
+  },
+  {
+   "filing_uuid": "32fd50f3-c364-45c6-a673-7713d22fd279",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-11-13T08:06:42-05:00",
+   "amount": 40000.0,
+   "registrant": "UNIVERSITY OF NEW HAMPSHIRE",
+   "client": "UNIVERSITY OF NEW HAMPSHIRE",
+   "url": "https://lda.gov/filings/public/filing/32fd50f3-c364-45c6-a673-7713d22fd279/print/"
+  },
+  {
+   "filing_uuid": "fd439223-8364-4b35-adc7-1c38463dca7b",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-07T15:22:53-04:00",
+   "amount": 80000.0,
+   "registrant": "PENN AVENUE PARTNERS",
+   "client": "ALKERMES, INC.",
+   "url": "https://lda.gov/filings/public/filing/fd439223-8364-4b35-adc7-1c38463dca7b/print/"
+  },
+  {
+   "filing_uuid": "bfb54b94-3bee-4e2e-9af5-d351691ca573",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-13T23:41:57-04:00",
+   "amount": 20000.0,
+   "registrant": "FORZA DC, LLC",
+   "client": "NAVAL POSTGRADUATE SCHOOL FOUNDATION (NPSF)",
+   "url": "https://lda.gov/filings/public/filing/bfb54b94-3bee-4e2e-9af5-d351691ca573/print/"
+  },
+  {
+   "filing_uuid": "830304fc-fbdc-4988-8bf2-a74bea1448b3",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-14T01:15:08-04:00",
+   "amount": 60000.0,
+   "registrant": "THE INGRAM GROUP LLC",
+   "client": "PMI US CORPORATE SERVICES INC.",
+   "url": "https://lda.gov/filings/public/filing/830304fc-fbdc-4988-8bf2-a74bea1448b3/print/"
+  },
+  {
+   "filing_uuid": "e3ebeda4-b47b-4fe9-98a8-b0d9d8c45b6d",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-15T18:55:45-04:00",
+   "amount": 60000.0,
+   "registrant": "HOLLAND & KNIGHT LLP",
+   "client": "SOUND PHARMACEUTICALS, INC.",
+   "url": "https://lda.gov/filings/public/filing/e3ebeda4-b47b-4fe9-98a8-b0d9d8c45b6d/print/"
+  },
+  {
+   "filing_uuid": "f82543d6-557d-40a1-a041-386536f3db7b",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-16T23:48:13-04:00",
+   "amount": 540000.0,
+   "registrant": "NATIONAL RIFLE ASSOCIATION OF AMERICA",
+   "client": "NATIONAL RIFLE ASSOCIATION OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/f82543d6-557d-40a1-a041-386536f3db7b/print/"
+  },
+  {
+   "filing_uuid": "dcecfd90-94b5-4c6d-be78-eac173ce7d28",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T01:45:04-04:00",
+   "amount": 80000.0,
+   "registrant": "OGR",
+   "client": "PMI US CORPORATE SERVICES INC.",
+   "url": "https://lda.gov/filings/public/filing/dcecfd90-94b5-4c6d-be78-eac173ce7d28/print/"
+  },
+  {
+   "filing_uuid": "11e35ec5-861d-40ea-a923-daa001928bdf",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T10:22:49-04:00",
+   "amount": 50000.0,
+   "registrant": "VAN SCOYOC ASSOCIATES",
+   "client": "DOCUMENT STORAGE SYSTEMS, INC.",
+   "url": "https://lda.gov/filings/public/filing/11e35ec5-861d-40ea-a923-daa001928bdf/print/"
+  },
+  {
+   "filing_uuid": "46a34c97-2ff7-44be-858d-1b719e230ec6",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T10:59:34-04:00",
+   "amount": 80000.0,
+   "registrant": "VAN SCOYOC ASSOCIATES",
+   "client": "PERSPECTUM LTD",
+   "url": "https://lda.gov/filings/public/filing/46a34c97-2ff7-44be-858d-1b719e230ec6/print/"
+  },
+  {
+   "filing_uuid": "8779a09f-83bd-416c-858b-acafd3927488",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T13:03:46-04:00",
+   "amount": 60000.0,
+   "registrant": "MEHLMAN CONSULTING, INC.",
+   "client": "ADOBE SYSTEMS INC.",
+   "url": "https://lda.gov/filings/public/filing/8779a09f-83bd-416c-858b-acafd3927488/print/"
+  },
+  {
+   "filing_uuid": "af1b8596-e3f6-452a-93f5-e50abac877d6",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T13:30:59-04:00",
+   "amount": 50000.0,
+   "registrant": "WHEAT SHROYER GOVERNMENT RELATIONS LLC",
+   "client": "AMERICAN ASSOCIATION OF NURSE ANESTHETISTS",
+   "url": "https://lda.gov/filings/public/filing/af1b8596-e3f6-452a-93f5-e50abac877d6/print/"
+  },
+  {
+   "filing_uuid": "8dbb37df-9ab9-4e58-8b24-404a8d26c53e",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T14:17:30-04:00",
+   "amount": 10000.0,
+   "registrant": "WHITE COAT WASTE PROJECT INC",
+   "client": "WHITE COAT WASTE PROJECT INC",
+   "url": "https://lda.gov/filings/public/filing/8dbb37df-9ab9-4e58-8b24-404a8d26c53e/print/"
+  },
+  {
+   "filing_uuid": "65248002-323b-42aa-a61b-71db4d224c7d",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T16:04:57-04:00",
+   "amount": 821438.0,
+   "registrant": "ASSOCIATION OF AMERICAN MEDICAL COLLEGES",
+   "client": "ASSOCIATION OF AMERICAN MEDICAL COLLEGES",
+   "url": "https://lda.gov/filings/public/filing/65248002-323b-42aa-a61b-71db4d224c7d/print/"
+  },
+  {
+   "filing_uuid": "7cc40005-e5e3-444b-b217-9fe693917f21",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T16:20:48-04:00",
+   "amount": 30000.0,
+   "registrant": "CAPITOL DECISIONS, INC.",
+   "client": "GREATER CHEYENNE CHAMBER OF COMMERCE",
+   "url": "https://lda.gov/filings/public/filing/7cc40005-e5e3-444b-b217-9fe693917f21/print/"
+  },
+  {
+   "filing_uuid": "78f5b363-643d-4c43-af94-502e8023701f",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-18T14:45:25-04:00",
+   "amount": 20000.0,
+   "registrant": "RK STRATEGIES, INC.",
+   "client": "NEXALIN TECHNOLOGY INC.",
+   "url": "https://lda.gov/filings/public/filing/78f5b363-643d-4c43-af94-502e8023701f/print/"
+  },
+  {
+   "filing_uuid": "e8f174b7-a996-470b-be06-69d846249118",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-18T18:05:26-04:00",
+   "amount": 80000.0,
+   "registrant": "VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC)",
+   "client": "HCBS ADVOCACY, LLC",
+   "url": "https://lda.gov/filings/public/filing/e8f174b7-a996-470b-be06-69d846249118/print/"
+  },
+  {
+   "filing_uuid": "53f5efd4-409e-41c3-b45f-345f6e578c25",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-18T22:53:43-04:00",
+   "amount": 40000.0,
+   "registrant": "VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC)",
+   "client": "NATIONAL THOROUGHBRED RACING ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/53f5efd4-409e-41c3-b45f-345f6e578c25/print/"
+  },
+  {
+   "filing_uuid": "6827dfea-8b60-4936-96ac-c0a7b61d6615",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T09:19:20-04:00",
+   "amount": 930000.0,
+   "registrant": "ALKERMES, INC.",
+   "client": "ALKERMES, INC.",
+   "url": "https://lda.gov/filings/public/filing/6827dfea-8b60-4936-96ac-c0a7b61d6615/print/"
+  },
+  {
+   "filing_uuid": "d3cbc8a4-6792-46a8-9e21-d4992f469b53",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T13:06:43-04:00",
+   "amount": 60000.0,
+   "registrant": "VAN SCOYOC ASSOCIATES",
+   "client": "VOLUNTEERS OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/d3cbc8a4-6792-46a8-9e21-d4992f469b53/print/"
+  },
+  {
+   "filing_uuid": "7df13e16-0ce8-401a-ab43-1c7a614c78b3",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T13:24:01-04:00",
+   "amount": 50000.0,
+   "registrant": "CROSSROADS STRATEGIES, LLC",
+   "client": "UNIVERSITY OF PHOENIX",
+   "url": "https://lda.gov/filings/public/filing/7df13e16-0ce8-401a-ab43-1c7a614c78b3/print/"
+  },
+  {
+   "filing_uuid": "b7c46edd-7789-4e49-bc3c-2a535c45fbb5",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T15:12:41-04:00",
+   "amount": 30000.0,
+   "registrant": "HILL EAST GROUP, LLC",
+   "client": "NATIONAL KIDNEY REGISTRY",
+   "url": "https://lda.gov/filings/public/filing/b7c46edd-7789-4e49-bc3c-2a535c45fbb5/print/"
+  },
+  {
+   "filing_uuid": "cf63dacd-8074-4430-8bc4-85e8a9548924",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T15:15:13-04:00",
+   "amount": 30000.0,
+   "registrant": "VAN SCOYOC ASSOCIATES",
+   "client": "NATIONAL VETERAN SMALL BUSINESS COALITION",
+   "url": "https://lda.gov/filings/public/filing/cf63dacd-8074-4430-8bc4-85e8a9548924/print/"
+  },
+  {
+   "filing_uuid": "db39c888-562d-413a-9097-0cee8ebf5ff6",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T15:24:28-04:00",
+   "amount": 30000.0,
+   "registrant": "VAN SCOYOC ASSOCIATES",
+   "client": "SPARTAN SEALIFT, LLC",
+   "url": "https://lda.gov/filings/public/filing/db39c888-562d-413a-9097-0cee8ebf5ff6/print/"
+  },
+  {
+   "filing_uuid": "35600181-c5a3-487e-99af-4a0672783687",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T15:26:42-04:00",
+   "amount": 66189.0,
+   "registrant": "NATIONAL MULTIPLE SCLEROSIS SOCIETY",
+   "client": "NATIONAL MULTIPLE SCLEROSIS SOCIETY",
+   "url": "https://lda.gov/filings/public/filing/35600181-c5a3-487e-99af-4a0672783687/print/"
+  },
+  {
+   "filing_uuid": "d62aa936-48c3-41bf-806c-32fde9f84abf",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T16:42:26-04:00",
+   "amount": 60000.0,
+   "registrant": "PARKINSON'S FOUNDATION",
+   "client": "PARKINSON'S FOUNDATION",
+   "url": "https://lda.gov/filings/public/filing/d62aa936-48c3-41bf-806c-32fde9f84abf/print/"
+  },
+  {
+   "filing_uuid": "4c38978d-7820-44a6-a09b-2cd05d14235e",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T16:44:51-04:00",
+   "amount": 30000.0,
+   "registrant": "BRADLEY ARANT BOULT CUMMINGS LLP",
+   "client": "MONTGOMERY AREA CHAMBER OF COMMERCE",
+   "url": "https://lda.gov/filings/public/filing/4c38978d-7820-44a6-a09b-2cd05d14235e/print/"
+  },
+  {
+   "filing_uuid": "eac1a96e-6408-4600-8219-7afd51904d5b",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T19:03:51-04:00",
+   "amount": 1610000.0,
+   "registrant": "HONEYWELL INTERNATIONAL",
+   "client": "HONEYWELL INTERNATIONAL",
+   "url": "https://lda.gov/filings/public/filing/eac1a96e-6408-4600-8219-7afd51904d5b/print/"
+  },
+  {
+   "filing_uuid": "1882d2bf-0343-4a3a-b519-7a9d56827329",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-20T21:44:37-04:00",
+   "amount": 2280000.0,
+   "registrant": "DUKE ENERGY CORPORATION",
+   "client": "DUKE ENERGY CORPORATION",
+   "url": "https://lda.gov/filings/public/filing/1882d2bf-0343-4a3a-b519-7a9d56827329/print/"
+  },
+  {
+   "filing_uuid": "719578e7-c5ab-4171-86b4-116e13cb907b",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-08-05T09:05:24-04:00",
+   "amount": 2280000.0,
+   "registrant": "DUKE ENERGY CORPORATION",
+   "client": "DUKE ENERGY CORPORATION",
+   "url": "https://lda.gov/filings/public/filing/719578e7-c5ab-4171-86b4-116e13cb907b/print/"
+  },
+  {
+   "filing_uuid": "8e592b06-8f52-447e-8b87-f2ac7776033f",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-06T15:28:35-04:00",
+   "amount": 40000.0,
+   "registrant": "WORKHORSE LOBBYING, LLC",
+   "client": "PMI US CORPORATE SERVICES INC.",
+   "url": "https://lda.gov/filings/public/filing/8e592b06-8f52-447e-8b87-f2ac7776033f/print/"
+  },
+  {
+   "filing_uuid": "3ec9c917-fc07-4748-9997-41b871834657",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-12T23:52:52-04:00",
+   "amount": 20000.0,
+   "registrant": "FORZA DC, LLC",
+   "client": "NAVAL POSTGRADUATE SCHOOL FOUNDATION (NPSF)",
+   "url": "https://lda.gov/filings/public/filing/3ec9c917-fc07-4748-9997-41b871834657/print/"
+  },
+  {
+   "filing_uuid": "a636aa1a-8b8d-41ff-940c-8d9d79df771d",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-15T11:56:23-04:00",
+   "amount": 70000.0,
+   "registrant": "CASSIDY & ASSOCIATES, INC.",
+   "client": "NORTH CAROLINA MILITARY AFFAIRS COMMISSION",
+   "url": "https://lda.gov/filings/public/filing/a636aa1a-8b8d-41ff-940c-8d9d79df771d/print/"
+  },
+  {
+   "filing_uuid": "75873cbf-6f5d-4115-8316-09785274f306",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-17T00:21:10-04:00",
+   "amount": 80000.0,
+   "registrant": "OGR",
+   "client": "PMI US CORPORATE SERVICES INC.",
+   "url": "https://lda.gov/filings/public/filing/75873cbf-6f5d-4115-8316-09785274f306/print/"
+  },
+  {
+   "filing_uuid": "d5cbcf60-8df3-4d85-8d98-ad5657239318",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-17T09:56:33-04:00",
+   "amount": 60000.0,
+   "registrant": "HOLLAND & KNIGHT LLP",
+   "client": "SOUND PHARMACEUTICALS, INC.",
+   "url": "https://lda.gov/filings/public/filing/d5cbcf60-8df3-4d85-8d98-ad5657239318/print/"
+  },
+  {
+   "filing_uuid": "539e66a3-e7de-452d-8e09-e2a833764ac7",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-17T13:54:35-04:00",
+   "amount": 80000.0,
+   "registrant": "PENN AVENUE PARTNERS",
+   "client": "ALKERMES, INC.",
+   "url": "https://lda.gov/filings/public/filing/539e66a3-e7de-452d-8e09-e2a833764ac7/print/"
+  },
+  {
+   "filing_uuid": "56203df3-8280-45ac-a676-ecca55fcb133",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-18T17:10:17-04:00",
+   "amount": 80000.0,
+   "registrant": "VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC)",
+   "client": "HCBS ADVOCACY, LLC",
+   "url": "https://lda.gov/filings/public/filing/56203df3-8280-45ac-a676-ecca55fcb133/print/"
+  },
+  {
+   "filing_uuid": "03249190-7a69-40cd-bfae-d8e1212805dd",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T09:03:58-04:00",
+   "amount": 60000.0,
+   "registrant": "VAN SCOYOC ASSOCIATES",
+   "client": "SAN DIEGO COUNTY",
+   "url": "https://lda.gov/filings/public/filing/03249190-7a69-40cd-bfae-d8e1212805dd/print/"
+  },
+  {
+   "filing_uuid": "749b144a-8d4d-4220-9b11-6a68c583e35b",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T10:44:21-04:00",
+   "amount": 520000.0,
+   "registrant": "NATIONAL RIFLE ASSOCIATION OF AMERICA",
+   "client": "NATIONAL RIFLE ASSOCIATION OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/749b144a-8d4d-4220-9b11-6a68c583e35b/print/"
+  },
+  {
+   "filing_uuid": "824ab428-edd7-4d53-97fe-75ea11156183",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T11:36:33-04:00",
+   "amount": 431446.0,
+   "registrant": "ASSOCIATION OF AMERICAN MEDICAL COLLEGES",
+   "client": "ASSOCIATION OF AMERICAN MEDICAL COLLEGES",
+   "url": "https://lda.gov/filings/public/filing/824ab428-edd7-4d53-97fe-75ea11156183/print/"
+  },
+  {
+   "filing_uuid": "a87fbaaa-5ee1-44ca-b14f-c707a8cb1f37",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T12:19:17-04:00",
+   "amount": 70000.0,
+   "registrant": "VAN SCOYOC ASSOCIATES",
+   "client": "PERSPECTUM LTD",
+   "url": "https://lda.gov/filings/public/filing/a87fbaaa-5ee1-44ca-b14f-c707a8cb1f37/print/"
+  },
+  {
+   "filing_uuid": "6cd09dba-5fef-4f97-9a4f-66319c3a6488",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T15:41:17-04:00",
+   "amount": 40000.0,
+   "registrant": "VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC)",
+   "client": "NATIONAL THOROUGHBRED RACING ASSOCIATION",
+   "url": "https://lda.gov/filings/public/filing/6cd09dba-5fef-4f97-9a4f-66319c3a6488/print/"
+  },
+  {
+   "filing_uuid": "04301442-8ba3-4577-bd5b-5bcc40c5ec39",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T17:32:21-04:00",
+   "amount": 60000.0,
+   "registrant": "VAN SCOYOC ASSOCIATES",
+   "client": "VOLUNTEERS OF AMERICA",
+   "url": "https://lda.gov/filings/public/filing/04301442-8ba3-4577-bd5b-5bcc40c5ec39/print/"
+  },
+  {
+   "filing_uuid": "2b31e82f-4ca5-404a-bb92-03ffacb1b59e",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T17:51:36-04:00",
+   "amount": 30000.0,
+   "registrant": "CAPITOL DECISIONS, INC.",
+   "client": "GREATER CHEYENNE CHAMBER OF COMMERCE",
+   "url": "https://lda.gov/filings/public/filing/2b31e82f-4ca5-404a-bb92-03ffacb1b59e/print/"
+  },
+  {
+   "filing_uuid": "78dafd98-d106-4cc5-82ab-4290e8062da1",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T08:43:03-04:00",
+   "amount": 60000.0,
+   "registrant": "MEHLMAN CONSULTING, INC.",
+   "client": "ADOBE SYSTEMS INC.",
+   "url": "https://lda.gov/filings/public/filing/78dafd98-d106-4cc5-82ab-4290e8062da1/print/"
+  },
+  {
+   "filing_uuid": "96eb4088-436c-484a-8694-29a36ffe8876",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T10:11:06-04:00",
+   "amount": 970000.0,
+   "registrant": "ALKERMES, INC.",
+   "client": "ALKERMES, INC.",
+   "url": "https://lda.gov/filings/public/filing/96eb4088-436c-484a-8694-29a36ffe8876/print/"
+  },
+  {
+   "filing_uuid": "4a4614e2-cd6b-4c95-8f3c-5e1156586e87",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T10:17:12-04:00",
+   "amount": 240000.0,
+   "registrant": "PARKINSON'S FOUNDATION",
+   "client": "PARKINSON'S FOUNDATION",
+   "url": "https://lda.gov/filings/public/filing/4a4614e2-cd6b-4c95-8f3c-5e1156586e87/print/"
+  },
+  {
+   "filing_uuid": "f84ffde0-16fc-469d-a5e6-fe5fdcf2a6ce",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T10:52:23-04:00",
+   "amount": 60000.0,
+   "registrant": "WHEAT SHROYER GOVERNMENT RELATIONS LLC",
+   "client": "AMERICAN ASSOCIATION OF NURSE ANESTHETISTS",
+   "url": "https://lda.gov/filings/public/filing/f84ffde0-16fc-469d-a5e6-fe5fdcf2a6ce/print/"
+  },
+  {
+   "filing_uuid": "1d9b6e99-6f18-4f87-a2f8-c56360348ffc",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T11:00:11-04:00",
+   "amount": 50000.0,
+   "registrant": "VAN SCOYOC ASSOCIATES",
+   "client": "DOCUMENT STORAGE SYSTEMS, INC.",
+   "url": "https://lda.gov/filings/public/filing/1d9b6e99-6f18-4f87-a2f8-c56360348ffc/print/"
+  },
+  {
+   "filing_uuid": "cdc310d7-2196-4e05-a07c-4e181cd2ae86",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T11:32:05-04:00",
+   "amount": 20000.0,
+   "registrant": "VAN SCOYOC ASSOCIATES",
+   "client": "NATIONAL VETERAN SMALL BUSINESS COALITION",
+   "url": "https://lda.gov/filings/public/filing/cdc310d7-2196-4e05-a07c-4e181cd2ae86/print/"
+  },
+  {
+   "filing_uuid": "3d2dc969-3c2e-459d-a6f8-ae590c14fc52",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T11:37:49-04:00",
+   "amount": 30000.0,
+   "registrant": "VAN SCOYOC ASSOCIATES",
+   "client": "SPARTAN SEALIFT, LLC",
+   "url": "https://lda.gov/filings/public/filing/3d2dc969-3c2e-459d-a6f8-ae590c14fc52/print/"
+  },
+  {
+   "filing_uuid": "ffd62f10-120e-40bf-8f4c-3c6bf8126053",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T14:30:44-04:00",
+   "amount": 76247.0,
+   "registrant": "NATIONAL MULTIPLE SCLEROSIS SOCIETY",
+   "client": "NATIONAL MULTIPLE SCLEROSIS SOCIETY",
+   "url": "https://lda.gov/filings/public/filing/ffd62f10-120e-40bf-8f4c-3c6bf8126053/print/"
+  },
+  {
+   "filing_uuid": "37cec52b-6fcc-40e8-afd8-ee9e1744f7b6",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T14:44:26-04:00",
+   "amount": 50000.0,
+   "registrant": "CROSSROADS STRATEGIES, LLC",
+   "client": "UNIVERSITY OF PHOENIX",
+   "url": "https://lda.gov/filings/public/filing/37cec52b-6fcc-40e8-afd8-ee9e1744f7b6/print/"
+  },
+  {
+   "filing_uuid": "94f9588e-11d4-4439-93a8-2e0dc633175b",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T14:44:47-04:00",
+   "amount": 10000.0,
+   "registrant": "WHITE COAT WASTE PROJECT INC",
+   "client": "WHITE COAT WASTE PROJECT INC",
+   "url": "https://lda.gov/filings/public/filing/94f9588e-11d4-4439-93a8-2e0dc633175b/print/"
+  },
+  {
+   "filing_uuid": "d04b38d8-ba6b-437a-8ca8-55da67dd7b11",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T18:00:41-04:00",
+   "amount": 50000.0,
+   "registrant": "VANDERBILT UNIVERSITY MEDICAL CENTER",
+   "client": "VANDERBILT UNIVERSITY MEDICAL CENTER",
+   "url": "https://lda.gov/filings/public/filing/d04b38d8-ba6b-437a-8ca8-55da67dd7b11/print/"
+  },
+  {
+   "filing_uuid": "9893d796-f5c1-4261-9fc4-443d41108412",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T19:22:46-04:00",
+   "amount": 30000.0,
+   "registrant": "BRADLEY ARANT BOULT CUMMINGS LLP",
+   "client": "MONTGOMERY AREA CHAMBER OF COMMERCE",
+   "url": "https://lda.gov/filings/public/filing/9893d796-f5c1-4261-9fc4-443d41108412/print/"
+  },
+  {
+   "filing_uuid": "2e19e49c-48f0-4e0e-82dd-cc037f7eb19c",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T20:55:46-04:00",
+   "amount": 2190000.0,
+   "registrant": "DUKE ENERGY CORPORATION",
+   "client": "DUKE ENERGY CORPORATION",
+   "url": "https://lda.gov/filings/public/filing/2e19e49c-48f0-4e0e-82dd-cc037f7eb19c/print/"
+  },
+  {
+   "filing_uuid": "e6c683cb-9f21-4e00-bce1-f64a06b0770d",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-09T11:13:18-04:00",
+   "amount": 40000.0,
+   "registrant": "OWEN EVANS INGOLS",
+   "client": "T-MOBILE",
+   "url": "https://lda.gov/filings/public/filing/e6c683cb-9f21-4e00-bce1-f64a06b0770d/print/"
+  },
+  {
+   "filing_uuid": "a0d3efdb-d580-4f31-a858-bf661176c05e",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T09:46:07-04:00",
+   "amount": 24000.0,
+   "registrant": "KADESH & ASSOCIATES, LLC",
+   "client": "RIVERSIDE COMMUNITY COLLEGE DISTRICT",
+   "url": "https://lda.gov/filings/public/filing/a0d3efdb-d580-4f31-a858-bf661176c05e/print/"
+  },
+  {
+   "filing_uuid": "dfdab382-5b2a-4f95-b662-78f749f3d96c",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T11:28:16-04:00",
+   "amount": 3420000.0,
+   "registrant": "GENERAL DYNAMICS CORP",
+   "client": "GENERAL DYNAMICS CORP",
+   "url": "https://lda.gov/filings/public/filing/dfdab382-5b2a-4f95-b662-78f749f3d96c/print/"
+  },
+  {
+   "filing_uuid": "08bc8b7e-2454-43c1-a159-80193ab7e726",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T11:47:38-04:00",
+   "amount": 50000.0,
+   "registrant": "CAPITOL CITY GROUP, LTD.",
+   "client": "PICERNE MILITARY HOUSING A/K/A CORVIAS GROUP",
+   "url": "https://lda.gov/filings/public/filing/08bc8b7e-2454-43c1-a159-80193ab7e726/print/"
+  },
+  {
+   "filing_uuid": "2ee54942-3598-463f-be8f-cdb8dd26c003",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-17T17:26:36-04:00",
+   "amount": 20000.0,
+   "registrant": "TEAM HALLAHAN LLC",
+   "client": "LEIDOS, INC.",
+   "url": "https://lda.gov/filings/public/filing/2ee54942-3598-463f-be8f-cdb8dd26c003/print/"
+  },
+  {
+   "filing_uuid": "15da2663-6e94-4579-831b-3f36a10778cf",
+   "year": 2026,
+   "period": "second_quarter",
+   "posted": "2026-07-23T14:36:29-04:00",
+   "amount": 15244.0,
+   "registrant": "CAPITOL CORE GROUP, INC.",
+   "client": "INDIAN WELLS VALLEY GROUNDWATER AUTHORITY",
+   "url": "https://lda.gov/filings/public/filing/15da2663-6e94-4579-831b-3f36a10778cf/print/"
+  },
+  {
+   "filing_uuid": "5cd5faa5-5e72-4862-984b-4dda4833ea80",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-15T13:03:51-04:00",
+   "amount": 40000.0,
+   "registrant": "OWEN EVANS INGOLS",
+   "client": "T-MOBILE",
+   "url": "https://lda.gov/filings/public/filing/5cd5faa5-5e72-4862-984b-4dda4833ea80/print/"
+  },
+  {
+   "filing_uuid": "636987ec-c4b7-43c8-becd-77707c67eaba",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-15T13:35:32-04:00",
+   "amount": 20000.0,
+   "registrant": "AVISE SOLUTIONS",
+   "client": "LEIDOS, INC",
+   "url": "https://lda.gov/filings/public/filing/636987ec-c4b7-43c8-becd-77707c67eaba/print/"
+  },
+  {
+   "filing_uuid": "6a9f9bd6-e009-429e-8968-5a472920572b",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-19T20:55:48-04:00",
+   "amount": 24000.0,
+   "registrant": "KADESH & ASSOCIATES, LLC",
+   "client": "RIVERSIDE COMMUNITY COLLEGE DISTRICT",
+   "url": "https://lda.gov/filings/public/filing/6a9f9bd6-e009-429e-8968-5a472920572b/print/"
+  },
+  {
+   "filing_uuid": "5ed94129-2d5e-4d40-bf6e-4618a545f4eb",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T07:16:27-04:00",
+   "amount": 20000.0,
+   "registrant": "TEAM HALLAHAN LLC",
+   "client": "LEIDOS, INC.",
+   "url": "https://lda.gov/filings/public/filing/5ed94129-2d5e-4d40-bf6e-4618a545f4eb/print/"
+  },
+  {
+   "filing_uuid": "3e3c9bfc-8df5-4b91-8466-239074ade4a1",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T10:24:36-04:00",
+   "amount": 10000.0,
+   "registrant": "COLLEGE OF WILLIAM & MARY",
+   "client": "COLLEGE OF WILLIAM & MARY",
+   "url": "https://lda.gov/filings/public/filing/3e3c9bfc-8df5-4b91-8466-239074ade4a1/print/"
+  },
+  {
+   "filing_uuid": "743eb6f1-41f2-4f81-bf61-c2afb9336ffe",
+   "year": 2026,
+   "period": "third_quarter",
+   "posted": "2026-10-20T13:27:27-04:00",
+   "amount": 3320000.0,
+   "registrant": "GENERAL DYNAMICS CORP",
+   "client": "GENERAL DYNAMICS CORP",
+   "url": "https://lda.gov/filings/public/filing/743eb6f1-41f2-4f81-bf61-c2afb9336ffe/print/"
+  }
+ ],
+ "source": "Lobbying Disclosure Act reports, lda.gov; PACs from the FEC committee file"
+}
