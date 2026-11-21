@@ -1,5 +1,5 @@
 {
- "started": "2026-11-20 23:00:35 UTC",
+ "started": "2026-11-21 00:48:21 UTC",
  "run": "daily",
  "steps": {
   "members": {
@@ -8,11 +8,11 @@
   },
   "votes": {
    "ok": true,
-   "seconds": 10
+   "seconds": 12
   },
   "upcoming": {
    "ok": true,
-   "seconds": 32
+   "seconds": 12
   },
   "money": {
    "ok": true,
@@ -20,11 +20,11 @@
   },
   "bills": {
    "ok": true,
-   "seconds": 0
+   "seconds": 23
   },
   "lobbying": {
    "ok": true,
-   "seconds": 1982
+   "seconds": 975
   },
   "landing": {
    "ok": true,
@@ -38,11 +38,11 @@
  "requests": {
   "unitedstates.github.io": 2,
   "clerk.house.gov": 6,
-  "www.senate.gov": 4,
+  "www.senate.gov": 11,
   "docs.house.gov": 4,
-  "api.congress.gov": 4,
+  "api.congress.gov": 34,
   "api.open.fec.gov": 5,
   "lda.gov": 900
  },
- "finished": "2026-11-20 23:34:23 UTC"
+ "finished": "2026-11-21 01:05:28 UTC"
 }
