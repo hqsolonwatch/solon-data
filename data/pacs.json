@@ -41293,7 +41293,7 @@
   {
    "id": "C00783217",
    "name": "BLUE TO RED PAC INC.",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "O",
    "designation": "U"
@@ -42952,6 +42952,14 @@
    "connected_org": "NONE",
    "org_type": null,
    "type": "N",
+   "designation": "U"
+  },
+  {
+   "id": "C00800053",
+   "name": "ONE VOTE ONE PERSON",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "O",
    "designation": "U"
   },
   {
@@ -79677,7 +79685,7 @@
   {
    "id": "C00950774",
    "name": "THE GUNNY PAC",
-   "connected_org": "MENDOZA",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "D"
