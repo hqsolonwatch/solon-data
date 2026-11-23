@@ -1402,6 +1402,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00730531",
+   "name": "TEXANS FOR RONNY JACKSON",
+   "connected_org": "TEAM RONNY",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00216895",
    "name": "ARNOLD & PORTER KAYE SCHOLER LLP (APKS) PARTNERS POLITICAL ACTION COMMITTEE",
    "connected_org": "NONE",
@@ -2014,12 +2020,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00657833",
-   "name": "GUY FOR CONGRESS",
-   "connected_org": "FOUNDING FATHERS VICTORY FUND",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00738864",
    "name": "NEW LEAF ENERGY, INC. POLITICAL ACTION COMMITTEE (NEW LEAF ENERGY PAC)",
    "connected_org": "NEW LEAF ENERGY, INC.",
@@ -2368,6 +2368,12 @@
    "total": 12.0
   },
   {
+   "committee_id": "C00657833",
+   "name": "GUY FOR CONGRESS",
+   "connected_org": "FOUNDING FATHERS VICTORY FUND",
+   "total": 0.0
+  },
+  {
    "committee_id": "C00872473",
    "name": "BRIAN JACK FOR CONGRESS",
    "connected_org": "TEAM BRIAN JACK",
@@ -2405,7 +2411,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 135977.0
+   "total": 137477.0
   },
   {
    "type": "Membership group PACs",
@@ -2426,7 +2432,7 @@
  ],
  "outside_spending": {
   "support_total": 862270.0,
-  "oppose_total": 2656194.0,
+  "oppose_total": 2657704.0,
   "spenders": [
    {
     "committee_id": "C00495028",
@@ -2499,6 +2505,12 @@
     "name": "ABLE DEMS PAC",
     "support": 0.0,
     "oppose": 1750.0
+   },
+   {
+    "committee_id": "C00930321",
+    "name": "NEIGHBOR VOICES PAC",
+    "support": 0.0,
+    "oppose": 1510.0
    },
    {
     "committee_id": "C00955138",

@@ -916,6 +916,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00872473",
+   "name": "BRIAN JACK FOR CONGRESS",
+   "connected_org": "TEAM BRIAN JACK",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00857359",
    "name": "BRANDON GILL FOR TEXAS",
    "connected_org": "BRANDON GILL VICTORY FUND",
@@ -1359,7 +1365,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 11000.0
+   "total": 13000.0
   },
   {
    "type": "Cooperative PACs",
@@ -1371,13 +1377,13 @@
   }
  ],
  "outside_spending": {
-  "support_total": 52.0,
+  "support_total": 95.0,
   "oppose_total": 0.0,
   "spenders": [
    {
     "committee_id": "C00754218",
     "name": "TEXAS ALLIANCE FOR LIFE FED PAC",
-    "support": 52.0,
+    "support": 95.0,
     "oppose": 0.0
    }
   ],

@@ -868,6 +868,12 @@
    "total": 4000.0
   },
   {
+   "committee_id": "C00495952",
+   "name": "SCHNEIDER FOR CONGRESS",
+   "connected_org": "BUILDING AND REVITALIZING AMERICAN DEMOCRACY FUND",
+   "total": 4000.0
+  },
+  {
    "committee_id": "C00589309",
    "name": "BLUE MOMENTUM PAC",
    "connected_org": "LIEU",
@@ -967,6 +973,12 @@
    "committee_id": "C00555888",
    "name": "FRIENDS OF DON BEYER",
    "connected_org": "NONE",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00655647",
+   "name": "LORI TRAHAN FOR CONGRESS COMMITTEE",
+   "connected_org": "CLARK TRAHAN PRESSLEY VICTORY FUND",
    "total": 3000.0
   },
   {
@@ -1426,12 +1438,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00495952",
-   "name": "SCHNEIDER FOR CONGRESS",
-   "connected_org": "BUILDING AND REVITALIZING AMERICAN DEMOCRACY FUND",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00253369",
    "name": "INVESCO HOLDING COMPANY (US), INC. EMPLOYEE POLITICAL ACTION COMMITTEE",
    "connected_org": "INVESCO HOLDING COMPANY (US), INC.",
@@ -1471,6 +1477,12 @@
    "committee_id": "C00064766",
    "name": "UNITED PARCEL SERVICE, INC. PAC (UPSPAC)",
    "connected_org": "UNITED PARCEL SERVICE, INC.",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00936559",
+   "name": "ALEX VINDMAN FOR FLORIDA",
+   "connected_org": "BLUE SENATE CANDIDATE FUND",
    "total": 2000.0
   },
   {
@@ -1621,12 +1633,6 @@
    "committee_id": "C00857417",
    "name": "LUZ RIVAS FOR CONGRESS",
    "connected_org": "NONE",
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00655647",
-   "name": "LORI TRAHAN FOR CONGRESS COMMITTEE",
-   "connected_org": "CLARK TRAHAN PRESSLEY VICTORY FUND",
    "total": 1000.0
   },
   {
@@ -1954,6 +1960,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00940726",
+   "name": "NEROS, INC POLITICAL ACTION COMMITTEE (NEROS PAC)",
+   "connected_org": "NEROS, INC.",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00380550",
    "name": "FMR LLC POLITICAL ACTION COMMITTEE - FEDERAL (FIDELITY PAC)",
    "connected_org": null,
@@ -1987,6 +1999,12 @@
    "committee_id": "C00259572",
    "name": "AMERICAN CLEAN POWER ASSOCIATION CLEANPOWER PAC",
    "connected_org": "AMERICAN CLEAN POWER ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00793703",
+   "name": "ANDREA SALINAS FOR OREGON",
+   "connected_org": "SEEC VICTORY FUND",
    "total": 1000.0
   },
   {
@@ -2113,7 +2131,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 430500.0
+   "total": 431500.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
@@ -2137,7 +2155,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 54100.0
+   "total": 61100.0
   },
   {
    "type": "Cooperative PACs",
@@ -2149,9 +2167,15 @@
   }
  ],
  "outside_spending": {
-  "support_total": 66359.0,
+  "support_total": 227086.0,
   "oppose_total": 132185.0,
   "spenders": [
+   {
+    "committee_id": "C00724203",
+    "name": "SOMOS PAC",
+    "support": 154200.0,
+    "oppose": 0.0
+   },
    {
     "committee_id": "C00960435",
     "name": "NO GOING BACK PAC INC.",
@@ -2167,7 +2191,7 @@
    {
     "committee_id": "C00612820",
     "name": "COMMUNITY CHANGE VOTERS",
-    "support": 12364.0,
+    "support": 18063.0,
     "oppose": 0.0
    },
    {
@@ -2185,7 +2209,7 @@
    {
     "committee_id": "C00930321",
     "name": "NEIGHBOR VOICES PAC",
-    "support": 1064.0,
+    "support": 1889.0,
     "oppose": 0.0
    },
    {
@@ -2198,6 +2222,12 @@
     "committee_id": "C00527226",
     "name": "WE VOTE - NOSOTROS VOTAMOS - PPAMM COMMITTEE",
     "support": 15.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00812479",
+    "name": "TOGETHER WE ELECT PAC",
+    "support": 3.0,
     "oppose": 0.0
    }
   ],

@@ -343,9 +343,16 @@
   }
  ],
  "outside_spending": {
-  "support_total": 0,
-  "oppose_total": 0,
-  "spenders": [],
+  "support_total": 85.0,
+  "oppose_total": 0.0,
+  "spenders": [
+   {
+    "committee_id": "C00930321",
+    "name": "NEIGHBOR VOICES PAC",
+    "support": 85.0,
+    "oppose": 0.0
+   }
+  ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
  "detail": {

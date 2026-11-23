@@ -418,6 +418,12 @@
    "total": 7000.0
   },
   {
+   "committee_id": "C00940726",
+   "name": "NEROS, INC POLITICAL ACTION COMMITTEE (NEROS PAC)",
+   "connected_org": "NEROS, INC.",
+   "total": 7000.0
+  },
+  {
    "committee_id": "C00905505",
    "name": "ROBOTIC RESEARCH OPCO LLC-FORTERRA POLITICAL ACTION COMMITTEE",
    "connected_org": "ROBOTIC RESEARCH OPCO LLC",
@@ -859,12 +865,6 @@
    "committee_id": "C00763623",
    "name": "ANDURIL INDUSTRIES, INC. POLITICAL ACTION COMMITTEE (ANDURIL PAC)",
    "connected_org": "ANDURIL INDUSTRIES, INC.",
-   "total": 4500.0
-  },
-  {
-   "committee_id": "C00940726",
-   "name": "NEROS, INC POLITICAL ACTION COMMITTEE (NEROS PAC)",
-   "connected_org": "NEROS, INC.",
    "total": 4500.0
   },
   {
@@ -1678,6 +1678,18 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00822767",
+   "name": "RUDY FOR INDIANA",
+   "connected_org": "RUDY VICTORY FUND",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00730531",
+   "name": "TEXANS FOR RONNY JACKSON",
+   "connected_org": "TEAM RONNY",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00563015",
    "name": "AMERICAN SUNTANNING ASSOCIATION PAC",
    "connected_org": "AMERICAN SUNTANNING ASOCIATION",
@@ -2101,7 +2113,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 656750.0
+   "total": 659250.0
   },
   {
    "type": "Leadership PACs (run by other politicians)",
@@ -2113,7 +2125,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 121277.0
+   "total": 125277.0
   },
   {
    "type": "Trade association PACs",

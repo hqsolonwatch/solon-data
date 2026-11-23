@@ -3183,13 +3183,19 @@
   }
  ],
  "outside_spending": {
-  "support_total": 386724.0,
+  "support_total": 596917.0,
   "oppose_total": 0.0,
   "spenders": [
    {
     "committee_id": "C00905612",
     "name": "TAKE ME HOME WV ACTION",
     "support": 386724.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00916692",
+    "name": "AMERICAN MISSION",
+    "support": 210193.0,
     "oppose": 0.0
    }
   ],

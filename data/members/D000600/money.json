@@ -1186,6 +1186,24 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00545749",
+   "name": "EMMER FOR CONGRESS",
+   "connected_org": "EMMER VICTORY COMMITTEE",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00310532",
+   "name": "KAY GRANGER CAMPAIGN FUND",
+   "connected_org": "GRANGER VICTORY COMMITTEE",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00730531",
+   "name": "TEXANS FOR RONNY JACKSON",
+   "connected_org": "TEAM RONNY",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00023028",
    "name": "NATIONAL COTTON COUNCIL OF AMERICA COMMITTEE FOR THE ADVANCEMENT OF COTTON",
    "connected_org": "NATIONAL COTTON COUNCIL OF AMERICA",
@@ -1438,6 +1456,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00940726",
+   "name": "NEROS, INC POLITICAL ACTION COMMITTEE (NEROS PAC)",
+   "connected_org": "NEROS, INC.",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00466094",
    "name": "FGS GLOBAL (US) LLC POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -1519,7 +1543,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 600900.0
+   "total": 601900.0
   },
   {
    "type": "Trade association PACs",
@@ -1543,7 +1567,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 21500.0
+   "total": 27500.0
   },
   {
    "type": "Cooperative PACs",

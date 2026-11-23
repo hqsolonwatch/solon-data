@@ -1156,6 +1156,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00575233",
+   "name": "ERIC LYNN FOR CONGRESS",
+   "connected_org": "ERIC LYNN VICTORY FUND",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00386904",
    "name": "FAEGRE DRINKER POLITICAL ACTION COMMITTEE (FAEGRE DRINKER PAC)",
    "connected_org": null,
@@ -1384,9 +1390,21 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00555888",
+   "name": "FRIENDS OF DON BEYER",
+   "connected_org": "NONE",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00657452",
    "name": "DEMOCRATIC CONSERVATION ALLIANCE PAC",
    "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00495952",
+   "name": "SCHNEIDER FOR CONGRESS",
+   "connected_org": "BUILDING AND REVITALIZING AMERICAN DEMOCRACY FUND",
    "total": 2000.0
   },
   {
@@ -1507,12 +1525,6 @@
    "committee_id": "C00567883",
    "name": "AMERICAN ASSOCIATION OF CHILD & ADOLESCENT PSYCHIATRY PAC (AACAP-PAC)",
    "connected_org": "AMERICAN ASSOCIATION OF CHILD AND ADOLESCENT PSYCHIATRY",
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00575233",
-   "name": "ERIC LYNN FOR CONGRESS",
-   "connected_org": "ERIC LYNN VICTORY FUND",
    "total": 1000.0
   },
   {
@@ -1924,6 +1936,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00793703",
+   "name": "ANDREA SALINAS FOR OREGON",
+   "connected_org": "SEEC VICTORY FUND",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00714501",
    "name": "LEADERS IN LIFE ACTING COOPERATIVELY (LILAC) PAC",
    "connected_org": "MORELLE VICTORY FUND",
@@ -2029,7 +2047,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 42000.0
+   "total": 48000.0
   },
   {
    "type": "Party committees",
@@ -2037,7 +2055,7 @@
   }
  ],
  "outside_spending": {
-  "support_total": 77741.0,
+  "support_total": 77766.0,
   "oppose_total": 8390897.0,
   "spenders": [
    {
@@ -2080,6 +2098,12 @@
     "committee_id": "C00802389",
     "name": "GIVEGREEN UNITED ACTION",
     "support": 157.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00812479",
+    "name": "TOGETHER WE ELECT PAC",
+    "support": 25.0,
     "oppose": 0.0
    },
    {

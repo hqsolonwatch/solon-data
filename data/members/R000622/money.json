@@ -568,6 +568,12 @@
    "total": 4000.0
   },
   {
+   "committee_id": "C00495952",
+   "name": "SCHNEIDER FOR CONGRESS",
+   "connected_org": "BUILDING AND REVITALIZING AMERICAN DEMOCRACY FUND",
+   "total": 4000.0
+  },
+  {
    "committee_id": "C00000935",
    "name": "DCCC",
    "connected_org": "HOUSE SENATE VICTORY FUND",
@@ -916,12 +922,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00495952",
-   "name": "SCHNEIDER FOR CONGRESS",
-   "connected_org": "BUILDING AND REVITALIZING AMERICAN DEMOCRACY FUND",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00834515",
    "name": "PAC A PUNCH",
    "connected_org": null,
@@ -943,6 +943,12 @@
    "committee_id": "C00900886",
    "name": "AG PAC",
    "connected_org": "GRAY",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00936559",
+   "name": "ALEX VINDMAN FOR FLORIDA",
+   "connected_org": "BLUE SENATE CANDIDATE FUND",
    "total": 2000.0
   },
   {
@@ -1469,7 +1475,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 63500.0
+   "total": 67500.0
   },
   {
    "type": "Trade association PACs",
@@ -1489,7 +1495,7 @@
   }
  ],
  "outside_spending": {
-  "support_total": 22419.0,
+  "support_total": 23351.0,
   "oppose_total": 0.0,
   "spenders": [
    {
@@ -1508,6 +1514,12 @@
     "committee_id": "C00350991",
     "name": "NEW YORK STATE COMMITTEE OF THE WORKING FAMILIES PARTY",
     "support": 2250.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00930321",
+    "name": "NEIGHBOR VOICES PAC",
+    "support": 932.0,
     "oppose": 0.0
    },
    {

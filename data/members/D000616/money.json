@@ -412,6 +412,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00730531",
+   "name": "TEXANS FOR RONNY JACKSON",
+   "connected_org": "TEAM RONNY",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00304477",
    "name": "OSHKOSH CORPORATION EMPLOYEES PAC (OCEPAC)",
    "connected_org": "OSHKOSH CORPORATION",
@@ -509,7 +515,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 19500.0
+   "total": 21500.0
   },
   {
    "type": "Other PACs",
@@ -525,13 +531,19 @@
   }
  ],
  "outside_spending": {
-  "support_total": 421.0,
+  "support_total": 659.0,
   "oppose_total": 0.0,
   "spenders": [
    {
     "committee_id": "C00552851",
     "name": "FREEDOM CAUCUS FUND",
     "support": 421.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00541433",
+    "name": "HUNTER ACTION FUND (HAF)",
+    "support": 238.0,
     "oppose": 0.0
    }
   ],

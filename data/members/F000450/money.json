@@ -250,6 +250,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00496836",
+   "name": "OLD DOMINION FREIGHT LINE INC. POLITICAL ACTION COMMITTEE (OLD DOMINION PAC)",
+   "connected_org": "OLD DOMINION FREIGHT LINE, INC",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00214981",
    "name": "TEXAS FARM BUREAU AGFUND",
    "connected_org": "TEXAS FARM BUREAU",
@@ -481,12 +487,6 @@
    "committee_id": "C00131185",
    "name": "AIRCRAFT OWNERS AND PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "AIRCRAFT OWNERS & PILOTS ASSOCIATION",
-   "total": 2500.0
-  },
-  {
-   "committee_id": "C00496836",
-   "name": "OLD DOMINION FREIGHT LINE INC. POLITICAL ACTION COMMITTEE (OLD DOMINION PAC)",
-   "connected_org": "OLD DOMINION FREIGHT LINE, INC",
    "total": 2500.0
   },
   {
@@ -913,7 +913,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 198000.0
+   "total": 200500.0
   },
   {
    "type": "Trade association PACs",

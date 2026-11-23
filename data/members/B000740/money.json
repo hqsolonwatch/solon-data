@@ -730,6 +730,12 @@
    "total": 4000.0
   },
   {
+   "committee_id": "C00394957",
+   "name": "SCALISE FOR CONGRESS",
+   "connected_org": "SCALISE LEADERSHIP FUND",
+   "total": 4000.0
+  },
+  {
    "committee_id": "C00000901",
    "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
    "connected_org": "NATIONAL ASSOCIATION OF HOME BUILDERS",
@@ -1048,6 +1054,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00143867",
+   "name": "EQUIFAX INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00429662",
    "name": "ENBRIDGE (U.S.) INC. POLITICAL ACTION COMMITTEE (ENBRIDGE PAC)",
    "connected_org": "ENBRIDGE (U.S.) INC.",
@@ -1327,12 +1339,6 @@
    "committee_id": "C00040535",
    "name": "AMERICAN EXPRESS COMPANY POLITICAL ACTION COMMITTEE (AXPPAC)",
    "connected_org": "AMERICAN EXPRESS COMPANY",
-   "total": 2000.0
-  },
-  {
-   "committee_id": "C00394957",
-   "name": "SCALISE FOR CONGRESS",
-   "connected_org": "SCALISE LEADERSHIP FUND",
    "total": 2000.0
   },
   {
@@ -1831,7 +1837,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 587250.0
+   "total": 589750.0
   },
   {
    "type": "Trade association PACs",
@@ -1859,7 +1865,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 12000.0
+   "total": 14000.0
   }
  ],
  "outside_spending": {

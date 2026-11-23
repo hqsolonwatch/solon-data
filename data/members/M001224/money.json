@@ -526,6 +526,12 @@
    "total": 4000.0
   },
   {
+   "committee_id": "C00541862",
+   "name": "JASON SMITH FOR CONGRESS",
+   "connected_org": "SMITH VICTORY",
+   "total": 4000.0
+  },
+  {
    "committee_id": "C00822767",
    "name": "RUDY FOR INDIANA",
    "connected_org": "RUDY VICTORY FUND",
@@ -1102,12 +1108,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00541862",
-   "name": "JASON SMITH FOR CONGRESS",
-   "connected_org": "SMITH VICTORY",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00416594",
    "name": "JIM JORDAN FOR CONGRESS",
    "connected_org": "BUCKEYE VICTORY FUND",
@@ -1148,6 +1148,12 @@
    "name": "BRANDON GILL FOR TEXAS",
    "connected_org": "BRANDON GILL VICTORY FUND",
    "total": 2000.0
+  },
+  {
+   "committee_id": "C00730531",
+   "name": "TEXANS FOR RONNY JACKSON",
+   "connected_org": "TEAM RONNY",
+   "total": 1999.0
   },
   {
    "committee_id": "C00507699",
@@ -1684,12 +1690,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00730531",
-   "name": "TEXANS FOR RONNY JACKSON",
-   "connected_org": "TEAM RONNY",
-   "total": 517.0
-  },
-  {
    "committee_id": "C00332841",
    "name": "INDEPENDENT BANKERS ASSOCIATION OF TEXAS FEDERAL PAC (IBAT FEDPAC)",
    "connected_org": null,
@@ -1766,12 +1766,12 @@
    "total": 23055.0
   },
   {
-   "type": "Labor union PACs",
-   "total": 16000.0
+   "type": "Other candidates’ campaigns",
+   "total": 18257.0
   },
   {
-   "type": "Other candidates’ campaigns",
-   "total": 14775.0
+   "type": "Labor union PACs",
+   "total": 16000.0
   },
   {
    "type": "Cooperative PACs",
@@ -1779,13 +1779,13 @@
   }
  ],
  "outside_spending": {
-  "support_total": 52.0,
+  "support_total": 95.0,
   "oppose_total": 0.0,
   "spenders": [
    {
     "committee_id": "C00754218",
     "name": "TEXAS ALLIANCE FOR LIFE FED PAC",
-    "support": 52.0,
+    "support": 95.0,
     "oppose": 0.0
    }
   ],

@@ -1090,6 +1090,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00199257",
+   "name": "GENENTECH INC. POLITICAL ACTION COMMITTEE (GENENPAC)",
+   "connected_org": "GENENTECH INC.",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00216754",
    "name": "NORTH CAROLINA FARM BUREAU FEDERATION INC POL ACT CMTE INC (AKA) NC FARM BUREAU FARMPAC",
    "connected_org": "NORTH CAROLINA FARM BUREAU FEDERATION, INC",
@@ -1807,7 +1813,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 383425.0
+   "total": 385925.0
   },
   {
    "type": "Trade association PACs",

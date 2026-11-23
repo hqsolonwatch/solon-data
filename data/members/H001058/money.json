@@ -598,6 +598,12 @@
    "total": 8000.0
   },
   {
+   "committee_id": "C00410274",
+   "name": "MASTERCARD INTERNATIONAL INC. EMPLOYEE PAC (MASTERCARD PAC) OR (MASTERCARD EMPLOYEE PAC)",
+   "connected_org": "MASTERCARD INTERNATIONAL INC.",
+   "total": 8000.0
+  },
+  {
    "committee_id": "C00245548",
    "name": "NATIONAL MARINE MANUFACTURERS ASSOCIATION AND MARINE RETAILERS ASSOCIATION BOAT PAC",
    "connected_org": "NATIONAL MARINE MANUFACTURERS ASSOCIATION",
@@ -757,12 +763,6 @@
    "committee_id": "C00046474",
    "name": "FORD MOTOR COMPANY CIVIC ACTION FUND",
    "connected_org": "FORD MOTOR COMPANY",
-   "total": 6500.0
-  },
-  {
-   "committee_id": "C00410274",
-   "name": "MASTERCARD INTERNATIONAL INC. EMPLOYEE PAC (MASTERCARD PAC) OR (MASTERCARD EMPLOYEE PAC)",
-   "connected_org": "MASTERCARD INTERNATIONAL INC.",
    "total": 6500.0
   },
   {
@@ -1564,12 +1564,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00845404",
-   "name": "WK KELLOGG CO PAC",
-   "connected_org": "WK KELLOGG CO",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00447284",
    "name": "NATIONAL ASSOCIATION OF PROFESSIONAL EMPLOYER ORGANIZATIONS (NAPEO PAC)",
    "connected_org": "NATIONAL ASSOCIATION OF PROFESSIONAL EMPLOYER ORGANIZATIONS (NAPEO PAC)",
@@ -1675,6 +1669,12 @@
    "committee_id": "C00114025",
    "name": "NATIONAL READY MIXED CONCRETE ASSN. PAC (CONCRETEPAC)",
    "connected_org": null,
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00845404",
+   "name": "WK KELLOGG CO PAC",
+   "connected_org": "WK KELLOGG CO",
    "total": 2500.0
   },
   {
@@ -1810,15 +1810,39 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00740100",
+   "name": "CLYDE FOR CONGRESS, INC.",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00545749",
+   "name": "EMMER FOR CONGRESS",
+   "connected_org": "EMMER VICTORY COMMITTEE",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00689208",
    "name": "RVFPAC",
    "connected_org": null,
    "total": 2000.0
   },
   {
+   "committee_id": "C00864488",
+   "name": "MIKE KENNEDY FOR UTAH",
+   "connected_org": "MIKE KENNEDY VICTORY FUND",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00618116",
    "name": "AMERICAN SECURITIES ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN SECURITIES ASSOCIATION",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00730531",
+   "name": "TEXANS FOR RONNY JACKSON",
+   "connected_org": "TEAM RONNY",
    "total": 2000.0
   },
   {
@@ -2047,7 +2071,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 811200.0
+   "total": 812700.0
   },
   {
    "type": "Trade association PACs",
@@ -2067,7 +2091,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 36000.0
+   "total": 44000.0
   },
   {
    "type": "Labor union PACs",
@@ -2084,7 +2108,7 @@
  ],
  "outside_spending": {
   "support_total": 894698.0,
-  "oppose_total": 5164865.0,
+  "oppose_total": 5164870.0,
   "spenders": [
    {
     "committee_id": "C00495028",
@@ -2168,7 +2192,7 @@
     "committee_id": "C00930321",
     "name": "NEIGHBOR VOICES PAC",
     "support": 0.0,
-    "oppose": 10649.0
+    "oppose": 10654.0
    },
    {
     "committee_id": "C00574178",

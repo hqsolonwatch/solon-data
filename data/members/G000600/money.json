@@ -730,6 +730,12 @@
    "total": 3000.0
   },
   {
+   "committee_id": "C00655647",
+   "name": "LORI TRAHAN FOR CONGRESS COMMITTEE",
+   "connected_org": "CLARK TRAHAN PRESSLEY VICTORY FUND",
+   "total": 3000.0
+  },
+  {
    "committee_id": "C00543116",
    "name": "GOOD FRIENDS PAC",
    "connected_org": "BONAMICI",
@@ -1096,6 +1102,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00936559",
+   "name": "ALEX VINDMAN FOR FLORIDA",
+   "connected_org": "BLUE SENATE CANDIDATE FUND",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00667360",
    "name": "TOGETHER WE RISE",
    "connected_org": null,
@@ -1213,12 +1225,6 @@
    "committee_id": "C00857417",
    "name": "LUZ RIVAS FOR CONGRESS",
    "connected_org": "NONE",
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00655647",
-   "name": "LORI TRAHAN FOR CONGRESS COMMITTEE",
-   "connected_org": "CLARK TRAHAN PRESSLEY VICTORY FUND",
    "total": 1000.0
   },
   {
@@ -1737,7 +1743,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 48100.0
+   "total": 52100.0
   },
   {
    "type": "Cooperative PACs",
@@ -1753,7 +1759,7 @@
   }
  ],
  "outside_spending": {
-  "support_total": 15589.0,
+  "support_total": 16346.0,
   "oppose_total": 6587997.0,
   "spenders": [
    {
@@ -1787,6 +1793,12 @@
     "oppose": 0.0
    },
    {
+    "committee_id": "C00930321",
+    "name": "NEIGHBOR VOICES PAC",
+    "support": 748.0,
+    "oppose": 0.0
+   },
+   {
     "committee_id": "C90019514",
     "name": "FUSE WASHINGTON",
     "support": 452.0,
@@ -1802,6 +1814,12 @@
     "committee_id": "C00483693",
     "name": "SIERRA CLUB INDEPENDENT ACTION",
     "support": 10.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00812479",
+    "name": "TOGETHER WE ELECT PAC",
+    "support": 9.0,
     "oppose": 0.0
    }
   ],

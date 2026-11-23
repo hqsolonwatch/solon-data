@@ -964,12 +964,6 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00541177",
-   "name": "ZOETIS INC. PAC AKA ZOETIS PAC",
-   "connected_org": null,
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00562264",
    "name": "REGENERON PHARMACEUTICALS, INC. PAC",
    "connected_org": "REGENERON PHARMACEUTICALS, INC.",
@@ -1918,6 +1912,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00541177",
+   "name": "ZOETIS INC. PAC AKA ZOETIS PAC",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00943522",
    "name": "BRIDGEBIO PHARMA INC. PAC (BRIDGEBIOPAC)",
    "connected_org": "BRIDGEBIO PHARMA INC.",
@@ -2389,7 +2389,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 782550.0
+   "total": 779550.0
   },
   {
    "type": "Trade association PACs",
@@ -2422,13 +2422,19 @@
  ],
  "outside_spending": {
   "support_total": 493777.0,
-  "oppose_total": 4767373.0,
+  "oppose_total": 5594102.0,
   "spenders": [
    {
     "committee_id": "C00953299",
     "name": "PEOPLE OVER POLITICS ACTION FUND",
     "support": 0.0,
     "oppose": 3446247.0
+   },
+   {
+    "committee_id": "C00962696",
+    "name": "NEW DEAL FOR ALL, INC.",
+    "support": 0.0,
+    "oppose": 826729.0
    },
    {
     "committee_id": "C00961276",

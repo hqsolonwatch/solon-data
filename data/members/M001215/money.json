@@ -1558,6 +1558,12 @@
    "total": 4000.0
   },
   {
+   "committee_id": "C00864488",
+   "name": "MIKE KENNEDY FOR UTAH",
+   "connected_org": "MIKE KENNEDY VICTORY FUND",
+   "total": 4000.0
+  },
+  {
    "committee_id": "C00303305",
    "name": "PETE SESSIONS FOR CONGRESS",
    "connected_org": null,
@@ -2545,12 +2551,6 @@
    "committee_id": "C00377952",
    "name": "CUMMINS INC. POLITICAL ACTION COMMITTEE (CIPAC)",
    "connected_org": "CUMMINS INC.",
-   "total": 2000.0
-  },
-  {
-   "committee_id": "C00864488",
-   "name": "MIKE KENNEDY FOR UTAH",
-   "connected_org": "MIKE KENNEDY VICTORY FUND",
    "total": 2000.0
   },
   {
@@ -3747,7 +3747,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 149977.0
+   "total": 151977.0
   },
   {
    "type": "Labor union PACs",
@@ -3764,7 +3764,7 @@
  ],
  "outside_spending": {
   "support_total": 507740.0,
-  "oppose_total": 3531396.0,
+  "oppose_total": 3531752.0,
   "spenders": [
    {
     "committee_id": "C00935015",
@@ -3878,7 +3878,7 @@
     "committee_id": "C00930321",
     "name": "NEIGHBOR VOICES PAC",
     "support": 40.0,
-    "oppose": 1868.0
+    "oppose": 2224.0
    },
    {
     "committee_id": "C90011156",

@@ -940,12 +940,6 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00845404",
-   "name": "WK KELLOGG CO PAC",
-   "connected_org": "WK KELLOGG CO",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00912592",
    "name": "ACCOUNTABLE CARE PAC",
    "connected_org": "NONE",
@@ -967,6 +961,12 @@
    "committee_id": "C00216895",
    "name": "ARNOLD & PORTER KAYE SCHOLER LLP (APKS) PARTNERS POLITICAL ACTION COMMITTEE",
    "connected_org": "NONE",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00845404",
+   "name": "WK KELLOGG CO PAC",
+   "connected_org": "WK KELLOGG CO",
    "total": 2500.0
   },
   {
@@ -1117,6 +1117,12 @@
    "committee_id": "C00797787",
    "name": "INOVIO PHARMACEUTICALS, INC. DNA MEDICINES POLITICAL ACTION COMMITTEE",
    "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00541862",
+   "name": "JASON SMITH FOR CONGRESS",
+   "connected_org": "SMITH VICTORY",
    "total": 2000.0
   },
   {
@@ -1593,7 +1599,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 14000.0
+   "total": 16000.0
   },
   {
    "type": "Cooperative PACs",

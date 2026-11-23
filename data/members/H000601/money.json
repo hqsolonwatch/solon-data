@@ -2333,7 +2333,7 @@
   }
  ],
  "outside_spending": {
-  "support_total": 804996.0,
+  "support_total": 1017610.0,
   "oppose_total": 0.0,
   "spenders": [
    {
@@ -2355,9 +2355,21 @@
     "oppose": 0.0
    },
    {
+    "committee_id": "C00916692",
+    "name": "AMERICAN MISSION",
+    "support": 212297.0,
+    "oppose": 0.0
+   },
+   {
     "committee_id": "C00524181",
     "name": "SENATE CONSERVATIVES ACTION",
     "support": 74042.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00541433",
+    "name": "HUNTER ACTION FUND (HAF)",
+    "support": 317.0,
     "oppose": 0.0
    }
   ],

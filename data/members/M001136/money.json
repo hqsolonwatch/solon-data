@@ -1708,6 +1708,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00545749",
+   "name": "EMMER FOR CONGRESS",
+   "connected_org": "EMMER VICTORY COMMITTEE",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00137273",
    "name": "M&T BANK AND WILMINGTON TRUST POLITICAL ACTION COMMITTEE",
    "connected_org": "M&T BANK",
@@ -2170,12 +2176,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00845404",
-   "name": "WK KELLOGG CO PAC",
-   "connected_org": "WK KELLOGG CO",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00946111",
    "name": "ANTHROPIC PBC POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -2203,6 +2203,12 @@
    "committee_id": "C00461129",
    "name": "RGA REINSURANCE COMPANY FEDERAL PAC",
    "connected_org": "RGA",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00845404",
+   "name": "WK KELLOGG CO PAC",
+   "connected_org": "WK KELLOGG CO",
    "total": 1000.0
   },
   {
@@ -2279,7 +2285,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 6500.0
+   "total": 8500.0
   }
  ],
  "outside_spending": {

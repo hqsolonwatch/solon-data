@@ -502,6 +502,12 @@
    "total": 4000.0
   },
   {
+   "committee_id": "C00495952",
+   "name": "SCHNEIDER FOR CONGRESS",
+   "connected_org": "BUILDING AND REVITALIZING AMERICAN DEMOCRACY FUND",
+   "total": 4000.0
+  },
+  {
    "committee_id": "C00280909",
    "name": "TRANSPORTATION TRADES DEPARTMENT AFL-CIO POLITICAL ACTION COMMITTEE (TTD/PAC)",
    "connected_org": "TRANSPORTATION TRADES DEPARTMENT AFL-CIO POLITICAL ACTION COMMITTEE (TTD/PAC)",
@@ -940,12 +946,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00495952",
-   "name": "SCHNEIDER FOR CONGRESS",
-   "connected_org": "BUILDING AND REVITALIZING AMERICAN DEMOCRACY FUND",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00894139",
    "name": "UPLIFT PAC",
    "connected_org": null,
@@ -979,6 +979,12 @@
    "committee_id": "C00589309",
    "name": "BLUE MOMENTUM PAC",
    "connected_org": "LIEU",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00936559",
+   "name": "ALEX VINDMAN FOR FLORIDA",
+   "connected_org": "BLUE SENATE CANDIDATE FUND",
    "total": 2000.0
   },
   {
@@ -1450,6 +1456,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00793703",
+   "name": "ANDREA SALINAS FOR OREGON",
+   "connected_org": "SEEC VICTORY FUND",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00603076",
    "name": "MICHAEL BEST POLITICAL ACTION COMMITTEE",
    "connected_org": null,
@@ -1543,7 +1555,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 31600.0
+   "total": 36600.0
   },
   {
    "type": "Party committees",
@@ -1551,13 +1563,13 @@
   }
  ],
  "outside_spending": {
-  "support_total": 16720.0,
+  "support_total": 23462.0,
   "oppose_total": 0.0,
   "spenders": [
    {
     "committee_id": "C00612820",
     "name": "COMMUNITY CHANGE VOTERS",
-    "support": 11284.0,
+    "support": 18026.0,
     "oppose": 0.0
    },
    {

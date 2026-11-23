@@ -1420,6 +1420,18 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00806018",
+   "name": "LALOTA FOR CONGRESS",
+   "connected_org": "LALOTA VICTORY FUND",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00545749",
+   "name": "EMMER FOR CONGRESS",
+   "connected_org": "EMMER VICTORY COMMITTEE",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00066472",
    "name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION POLITICAL ACTION COMMITTEE (INSURING AMERICA PAC)",
    "connected_org": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION",
@@ -1862,17 +1874,17 @@
    "total": 67994.0
   },
   {
-   "type": "Labor union PACs",
-   "total": 28000.0
+   "type": "Other candidates’ campaigns",
+   "total": 31500.0
   },
   {
-   "type": "Other candidates’ campaigns",
-   "total": 27500.0
+   "type": "Labor union PACs",
+   "total": 28000.0
   }
  ],
  "outside_spending": {
   "support_total": 180636.0,
-  "oppose_total": 4312036.0,
+  "oppose_total": 4313546.0,
   "spenders": [
    {
     "committee_id": "C00886614",
@@ -1903,6 +1915,12 @@
     "name": "CIVIC RENEWAL FUND INC.",
     "support": 31446.0,
     "oppose": 0.0
+   },
+   {
+    "committee_id": "C00930321",
+    "name": "NEIGHBOR VOICES PAC",
+    "support": 0.0,
+    "oppose": 1510.0
    },
    {
     "committee_id": "C00955138",

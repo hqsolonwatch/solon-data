@@ -484,6 +484,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00655647",
+   "name": "LORI TRAHAN FOR CONGRESS COMMITTEE",
+   "connected_org": "CLARK TRAHAN PRESSLEY VICTORY FUND",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00629709",
    "name": "NO LABELS PAC",
    "connected_org": null,
@@ -718,6 +724,12 @@
    "total": 4000.0
   },
   {
+   "committee_id": "C00495952",
+   "name": "SCHNEIDER FOR CONGRESS",
+   "connected_org": "BUILDING AND REVITALIZING AMERICAN DEMOCRACY FUND",
+   "total": 4000.0
+  },
+  {
    "committee_id": "C00785816",
    "name": "LIFTOFF PAC",
    "connected_org": "KELLY",
@@ -787,12 +799,6 @@
    "committee_id": "C00656132",
    "name": "SERVING OUR COUNTRY (SOC) PAC",
    "connected_org": "CARBAJAL",
-   "total": 3000.0
-  },
-  {
-   "committee_id": "C00655647",
-   "name": "LORI TRAHAN FOR CONGRESS COMMITTEE",
-   "connected_org": "CLARK TRAHAN PRESSLEY VICTORY FUND",
    "total": 3000.0
   },
   {
@@ -1198,12 +1204,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00495952",
-   "name": "SCHNEIDER FOR CONGRESS",
-   "connected_org": "BUILDING AND REVITALIZING AMERICAN DEMOCRACY FUND",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00164939",
    "name": "MINN-DAK FARMERS COOPERATIVE SUGAR PAC (MDSPAC)",
    "connected_org": "MINN-DAK FARMERS COOPERATIVE",
@@ -1231,6 +1231,12 @@
    "committee_id": "C00652537",
    "name": "AMERICAN CLEANING INSTITUTE PAC",
    "connected_org": "AMERICAN CLEANING INSTITUTE",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00936559",
+   "name": "ALEX VINDMAN FOR FLORIDA",
+   "connected_org": "BLUE SENATE CANDIDATE FUND",
    "total": 2000.0
   },
   {
@@ -1642,12 +1648,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00431197",
-   "name": "VALLEY POLITICAL ACTION COMMITTEE",
-   "connected_org": "BUFFALO RIVER POLITICAL ACTION COMMITTEE",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00299701",
    "name": "MCDERMOTT PAC",
    "connected_org": "NONE",
@@ -1765,6 +1765,12 @@
    "committee_id": "C00152892",
    "name": "NATIONAL SOCIETY OF PROFESSIONAL SURVEYORS INC NSPS PAC",
    "connected_org": "NATIONAL SOCIETY OF PROFESSIONAL SURVEYORS INC",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00431197",
+   "name": "VALLEY POLITICAL ACTION COMMITTEE",
+   "connected_org": "BUFFALO RIVER POLITICAL ACTION COMMITTEE",
    "total": 1000.0
   },
   {
@@ -1893,7 +1899,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 49500.0
+   "total": 55500.0
   },
   {
    "type": "Corporate PACs",
@@ -1909,7 +1915,7 @@
   }
  ],
  "outside_spending": {
-  "support_total": 303955.0,
+  "support_total": 303968.0,
   "oppose_total": 2123126.0,
   "spenders": [
    {
@@ -1976,6 +1982,12 @@
     "committee_id": "C00684969",
     "name": "JDCA PAC",
     "support": 98.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00812479",
+    "name": "TOGETHER WE ELECT PAC",
+    "support": 13.0,
     "oppose": 0.0
    },
    {

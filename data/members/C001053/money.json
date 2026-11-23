@@ -544,6 +544,12 @@
    "total": 7000.0
   },
   {
+   "committee_id": "C00940726",
+   "name": "NEROS, INC POLITICAL ACTION COMMITTEE (NEROS PAC)",
+   "connected_org": "NEROS, INC.",
+   "total": 7000.0
+  },
+  {
    "committee_id": "C00480863",
    "name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. POLITICAL ACTION COMMITTEE (NSSF PAC)",
    "connected_org": "NATIONAL SHOOTING SPORTS FOUNDATION, INC.",
@@ -1321,12 +1327,6 @@
    "committee_id": "C00823351",
    "name": "REPUBLICANS UNITED TO DEFEND YOU PAC",
    "connected_org": "YAKYM",
-   "total": 3500.0
-  },
-  {
-   "committee_id": "C00940726",
-   "name": "NEROS, INC POLITICAL ACTION COMMITTEE (NEROS PAC)",
-   "connected_org": "NEROS, INC.",
    "total": 3500.0
   },
   {
@@ -2401,7 +2401,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 854808.0
+   "total": 858308.0
   },
   {
    "type": "Trade association PACs",

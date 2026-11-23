@@ -2140,12 +2140,6 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00541177",
-   "name": "ZOETIS INC. PAC AKA ZOETIS PAC",
-   "connected_org": null,
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00457234",
    "name": "MARSH & MCLENNAN COMPANIES, INC. POLITICAL ACTION COMMITTEE (MARSH PAC)",
    "connected_org": null,
@@ -3184,6 +3178,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00545749",
+   "name": "EMMER FOR CONGRESS",
+   "connected_org": "EMMER VICTORY COMMITTEE",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00373910",
    "name": "GLOBAL BUSINESS TRAVEL ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "GLOBAL BUSINESS TRAVEL ASSOCIATION",
@@ -3703,7 +3703,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 1833655.0
+   "total": 1828655.0
   },
   {
    "type": "Trade association PACs",
@@ -3727,7 +3727,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 11000.0
+   "total": 13000.0
   },
   {
    "type": "Labor union PACs",

@@ -142,6 +142,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00495952",
+   "name": "SCHNEIDER FOR CONGRESS",
+   "connected_org": "BUILDING AND REVITALIZING AMERICAN DEMOCRACY FUND",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00832139",
    "name": "MI CORN GROWERS ASSOCIATION PAC (MI CORN PAC)",
    "connected_org": "MICHIGAN CORN GROWERS ASSOCIATION",
@@ -232,6 +238,10 @@
   {
    "type": "Leadership PACs (run by other politicians)",
    "total": 3500.0
+  },
+  {
+   "type": "Other candidates’ campaigns",
+   "total": 2000.0
   }
  ],
  "outside_spending": {

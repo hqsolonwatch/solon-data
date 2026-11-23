@@ -568,6 +568,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00140715",
+   "name": "HOYER FOR CONGRESS",
+   "connected_org": "NONE",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00023028",
    "name": "NATIONAL COTTON COUNCIL OF AMERICA COMMITTEE FOR THE ADVANCEMENT OF COTTON",
    "connected_org": "NATIONAL COTTON COUNCIL OF AMERICA",
@@ -836,6 +842,10 @@
   {
    "type": "Leadership PACs (run by other politicians)",
    "total": 8000.0
+  },
+  {
+   "type": "Other candidates’ campaigns",
+   "total": 2000.0
   }
  ],
  "outside_spending": {

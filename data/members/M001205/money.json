@@ -1066,12 +1066,6 @@
    "total": 3000.0
   },
   {
-   "committee_id": "C00338442",
-   "name": "AMERICAN APPAREL & FOOTWEAR ASSOCIATION PAC",
-   "connected_org": "AMERICAN APPAREL & FOOTWEAR ASSOCIATION PAC",
-   "total": 3000.0
-  },
-  {
    "committee_id": "C00705996",
    "name": "DIVERSIFIED GAS & OIL CORPORATION PAC",
    "connected_org": "DIVERSIFIED GAS AND OIL CORPORATION",
@@ -1588,6 +1582,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00338442",
+   "name": "AMERICAN APPAREL & FOOTWEAR ASSOCIATION PAC",
+   "connected_org": "AMERICAN APPAREL & FOOTWEAR ASSOCIATION PAC",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00233304",
    "name": "COMMERCIAL REAL ESTATE DEVELOPMENT PAC (CREDA PAC)",
    "connected_org": "COMMERCIAL REAL ESTATE DEVELOPMENT ASSOCIATION",
@@ -1636,12 +1636,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00455766",
-   "name": "THE MOSAIC COMPANY POLITICAL ACTION COMMITTEE (MOSAICPAC)",
-   "connected_org": "THE MOSAIC CO.",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00431858",
    "name": "STEPTOE LLP POLITICAL ACTION COMMITTEE",
    "connected_org": "NONE",
@@ -1675,6 +1669,12 @@
    "committee_id": "C00364158",
    "name": "AMERICAN COLLEGE OF OB-GYNS PAC (OB-GYN PAC)",
    "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00455766",
+   "name": "THE MOSAIC COMPANY POLITICAL ACTION COMMITTEE (MOSAICPAC)",
+   "connected_org": "THE MOSAIC CO.",
    "total": 2000.0
   },
   {
@@ -2459,7 +2459,7 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 339925.0
+   "total": 338925.0
   },
   {
    "type": "Other PACs",

@@ -1222,6 +1222,12 @@
    "total": 4000.0
   },
   {
+   "committee_id": "C00347492",
+   "name": "FRIENDS OF TIBERI",
+   "connected_org": "NONE",
+   "total": 4000.0
+  },
+  {
    "committee_id": "C00541862",
    "name": "JASON SMITH FOR CONGRESS",
    "connected_org": "SMITH VICTORY",
@@ -2062,12 +2068,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00338442",
-   "name": "AMERICAN APPAREL & FOOTWEAR ASSOCIATION PAC",
-   "connected_org": "AMERICAN APPAREL & FOOTWEAR ASSOCIATION PAC",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00022368",
    "name": "NATIONAL ASSOCIATION OF CHAIN DRUG STORES, INC. POLITICAL ACTION COMMITTEE",
    "connected_org": "NATIONAL ASSOCIATION OF CHAIN DRUG STORES, INC.",
@@ -2200,12 +2200,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00347492",
-   "name": "FRIENDS OF TIBERI",
-   "connected_org": "NONE",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00333427",
    "name": "GW PAC",
    "connected_org": null,
@@ -2278,6 +2272,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00806018",
+   "name": "LALOTA FOR CONGRESS",
+   "connected_org": "LALOTA VICTORY FUND",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00388819",
    "name": "PHARMACEUTICAL CARE MANAGEMENT ASSOCIATION POLITICAL ACTION COMMITTEE (PCMA PAC)",
    "connected_org": "PHARMACEUTICAL CARE MANAGEMENT ASSOCIATION",
@@ -2314,12 +2314,6 @@
    "total": 1500.0
   },
   {
-   "committee_id": "C00739250",
-   "name": "ROOT, INC. POLITICAL ACTION COMMITTEE (ROOT PAC)",
-   "connected_org": null,
-   "total": 1500.0
-  },
-  {
    "committee_id": "C00102764",
    "name": "AMERICAN CHIROPRACTIC ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN CHIROPRACTIC ASSOCIATION",
@@ -2328,6 +2322,12 @@
   {
    "committee_id": "C00521914",
    "name": "PRIMERICA INC POLITICAL ACTION COMMITTEE (PRIMERICA PAC)",
+   "connected_org": null,
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00739250",
+   "name": "ROOT, INC. POLITICAL ACTION COMMITTEE (ROOT PAC)",
    "connected_org": null,
    "total": 1500.0
   },
@@ -2497,6 +2497,12 @@
    "committee_id": "C00143867",
    "name": "EQUIFAX INC. POLITICAL ACTION COMMITTEE",
    "connected_org": null,
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00338442",
+   "name": "AMERICAN APPAREL & FOOTWEAR ASSOCIATION PAC",
+   "connected_org": "AMERICAN APPAREL & FOOTWEAR ASSOCIATION PAC",
    "total": 1000.0
   },
   {
@@ -3149,7 +3155,7 @@
   },
   {
    "type": "Trade association PACs",
-   "total": 494367.0
+   "total": 493367.0
   },
   {
    "type": "Other PACs",
@@ -3169,7 +3175,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 20000.0
+   "total": 24000.0
   },
   {
    "type": "Cooperative PACs",

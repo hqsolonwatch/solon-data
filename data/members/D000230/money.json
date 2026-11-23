@@ -1150,6 +1150,12 @@
    "total": 4000.0
   },
   {
+   "committee_id": "C00495952",
+   "name": "SCHNEIDER FOR CONGRESS",
+   "connected_org": "BUILDING AND REVITALIZING AMERICAN DEMOCRACY FUND",
+   "total": 4000.0
+  },
+  {
    "committee_id": "C00199703",
    "name": "GLAXOSMITHKLINE LLC PAC (GSK PAC)",
    "connected_org": "GLAXOSMITHKLINE LLC",
@@ -1258,6 +1264,12 @@
    "total": 3000.0
   },
   {
+   "committee_id": "C00555888",
+   "name": "FRIENDS OF DON BEYER",
+   "connected_org": "NONE",
+   "total": 3000.0
+  },
+  {
    "committee_id": "C00350744",
    "name": "THE GOLDMAN SACHS GROUP, INC. POLITICAL ACTION COMMITTEE",
    "connected_org": "THE GOLDMAN SACHS GROUP INC",
@@ -1303,12 +1315,6 @@
    "committee_id": "C00436188",
    "name": "ALLIANCE FOR RETIRED AMERICANS POLITICAL ACTION FUND",
    "connected_org": "ALLIANCE FOR RETIRED AMERICANS",
-   "total": 3000.0
-  },
-  {
-   "committee_id": "C00495952",
-   "name": "SCHNEIDER FOR CONGRESS",
-   "connected_org": "BUILDING AND REVITALIZING AMERICAN DEMOCRACY FUND",
    "total": 3000.0
   },
   {
@@ -1660,12 +1666,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00555888",
-   "name": "FRIENDS OF DON BEYER",
-   "connected_org": "NONE",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00039321",
    "name": "PEPSICO, INC. CONCERNED CITIZENS FUND",
    "connected_org": "PEPSICO, INC.",
@@ -1927,6 +1927,12 @@
    "committee_id": "C00394650",
    "name": "JBS USA FOOD COMPANY PAC",
    "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00655647",
+   "name": "LORI TRAHAN FOR CONGRESS COMMITTEE",
+   "connected_org": "CLARK TRAHAN PRESSLEY VICTORY FUND",
    "total": 2000.0
   },
   {
@@ -2536,6 +2542,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00659771",
+   "name": "WIN THE HOUSE NOW PAC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00128231",
    "name": "INTERNATIONAL DAIRY FOODS ASSOCIATION (IDFA) PAC",
    "connected_org": "INTERNATIONAL DAIRY FOODS ASSOCIATION",
@@ -2733,7 +2745,7 @@
   },
   {
    "type": "Leadership PACs (run by other politicians)",
-   "total": 261500.0
+   "total": 262500.0
   },
   {
    "type": "Other PACs",
@@ -2749,7 +2761,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 50500.0
+   "total": 54500.0
   },
   {
    "type": "Cooperative PACs",
@@ -2761,7 +2773,7 @@
   }
  ],
  "outside_spending": {
-  "support_total": 1663250.0,
+  "support_total": 1674434.0,
   "oppose_total": 5747825.0,
   "spenders": [
    {
@@ -2827,7 +2839,7 @@
    {
     "committee_id": "C00612820",
     "name": "COMMUNITY CHANGE VOTERS",
-    "support": 14823.0,
+    "support": 23795.0,
     "oppose": 0.0
    },
    {
@@ -2849,6 +2861,12 @@
     "oppose": 4900.0
    },
    {
+    "committee_id": "C00930321",
+    "name": "NEIGHBOR VOICES PAC",
+    "support": 2195.0,
+    "oppose": 0.0
+   },
+   {
     "committee_id": "C00909994",
     "name": "FIELD TEAM 6, INC.",
     "support": 702.0,
@@ -2864,6 +2882,12 @@
     "committee_id": "C90020058",
     "name": "RED WINE AND BLUE",
     "support": 69.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00812479",
+    "name": "TOGETHER WE ELECT PAC",
+    "support": 17.0,
     "oppose": 0.0
    }
   ],

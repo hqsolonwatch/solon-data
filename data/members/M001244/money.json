@@ -2972,8 +2972,14 @@
  ],
  "outside_spending": {
   "support_total": 1539039.0,
-  "oppose_total": 36179.0,
+  "oppose_total": 3052684.0,
   "spenders": [
+   {
+    "committee_id": "C00962696",
+    "name": "NEW DEAL FOR ALL, INC.",
+    "support": 0.0,
+    "oppose": 3014750.0
+   },
    {
     "committee_id": "C00898924",
     "name": "STRONGER SAFER NATION",
@@ -3009,6 +3015,12 @@
     "name": "OUT OF THE SWAMP PAC",
     "support": 0.0,
     "oppose": 36025.0
+   },
+   {
+    "committee_id": "C00930321",
+    "name": "NEIGHBOR VOICES PAC",
+    "support": 0.0,
+    "oppose": 1755.0
    },
    {
     "committee_id": "C00836866",

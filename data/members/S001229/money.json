@@ -454,6 +454,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00872473",
+   "name": "BRIAN JACK FOR CONGRESS",
+   "connected_org": "TEAM BRIAN JACK",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00893883",
    "name": "AMERICANS FOR RESPONSIBLE INNOVATION LTD. POLITICAL ACTION COMMITTEE (ARI PAC)",
    "connected_org": null,
@@ -778,15 +784,15 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00278895",
-   "name": "NELSON MULLINS RILEY & SCARBOROUGH, LLP FEDERAL POLITICAL COMMITTEE",
-   "connected_org": "NONE",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00006080",
    "name": "AMERICAN HEALTH CARE ASSOCIATION POLITICAL ACTION COMMITTEE",
    "connected_org": "AMERICAN HEALTH CARE ASSOCIATION",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00278895",
+   "name": "NELSON MULLINS RILEY & SCARBOROUGH, LLP FEDERAL POLITICAL COMMITTEE",
+   "connected_org": "NONE",
    "total": 1000.0
   },
   {
@@ -842,12 +848,12 @@
    "total": 28494.0
   },
   {
-   "type": "Other PACs",
-   "total": 14000.0
+   "type": "Other candidates’ campaigns",
+   "total": 15000.0
   },
   {
-   "type": "Other candidates’ campaigns",
-   "total": 13000.0
+   "type": "Other PACs",
+   "total": 14000.0
   },
   {
    "type": "Cooperative PACs",

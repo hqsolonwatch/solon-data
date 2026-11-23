@@ -467,9 +467,16 @@
   }
  ],
  "outside_spending": {
-  "support_total": 0,
-  "oppose_total": 0,
-  "spenders": [],
+  "support_total": 292.0,
+  "oppose_total": 0.0,
+  "spenders": [
+   {
+    "committee_id": "C00541433",
+    "name": "HUNTER ACTION FUND (HAF)",
+    "support": 292.0,
+    "oppose": 0.0
+   }
+  ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."
  },
  "detail": {

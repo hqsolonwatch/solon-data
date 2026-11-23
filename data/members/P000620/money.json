@@ -1732,6 +1732,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00143867",
+   "name": "EQUIFAX INC. POLITICAL ACTION COMMITTEE",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00034405",
    "name": "INTERNATIONAL PAPER POLITICAL ACTION COMMITTEE (IP-PAC)",
    "connected_org": "INTERNATIONAL PAPER",
@@ -1750,6 +1756,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00035006",
+   "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
+   "connected_org": "CHEVRON CORPORATION",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00151019",
    "name": "NATIONAL FARMERS UNION PAC",
    "connected_org": "NATIONAL FARMERS UNION",
@@ -1759,12 +1771,6 @@
    "committee_id": "C00375048",
    "name": "CONSUMER TECHNOLOGY ASSOCIATION PAC",
    "connected_org": "CONSUMER TECHNOLOGY ASSOCIATION",
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00035006",
-   "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
-   "connected_org": "CHEVRON CORPORATION",
    "total": 1000.0
   },
   {
@@ -1861,7 +1867,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 587500.0
+   "total": 588500.0
   },
   {
    "type": "Trade association PACs",

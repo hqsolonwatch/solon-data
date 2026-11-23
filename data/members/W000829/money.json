@@ -802,12 +802,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00431197",
-   "name": "VALLEY POLITICAL ACTION COMMITTEE",
-   "connected_org": "BUFFALO RIVER POLITICAL ACTION COMMITTEE",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00097485",
    "name": "MERCK & CO., INC., EMPLOYEES POLITICAL ACTION COMMITTEE (MERCK PAC)",
    "connected_org": "MERCK & CO., INC.",
@@ -823,6 +817,18 @@
    "committee_id": "C00516039",
    "name": "ALLEGIANT TRAVEL COMPANY POLITICAL ACTION COMMITTEE",
    "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00872473",
+   "name": "BRIAN JACK FOR CONGRESS",
+   "connected_org": "TEAM BRIAN JACK",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00431197",
+   "name": "VALLEY POLITICAL ACTION COMMITTEE",
+   "connected_org": "BUFFALO RIVER POLITICAL ACTION COMMITTEE",
    "total": 2000.0
   },
   {
@@ -1253,7 +1259,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 24000.0
+   "total": 26000.0
   }
  ],
  "outside_spending": {

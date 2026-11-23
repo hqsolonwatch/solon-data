@@ -1863,14 +1863,26 @@
   }
  ],
  "outside_spending": {
-  "support_total": 133948.0,
-  "oppose_total": 1502396.0,
+  "support_total": 628475.0,
+  "oppose_total": 1983896.0,
   "spenders": [
    {
     "committee_id": "C00492140",
     "name": "AB PAC",
     "support": 0.0,
     "oppose": 1422000.0
+   },
+   {
+    "committee_id": "C00916692",
+    "name": "AMERICAN MISSION",
+    "support": 494527.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00962696",
+    "name": "NEW DEAL FOR ALL, INC.",
+    "support": 0.0,
+    "oppose": 481500.0
    },
    {
     "committee_id": "C00850487",

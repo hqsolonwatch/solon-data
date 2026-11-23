@@ -352,6 +352,12 @@
    "total": 7000.0
   },
   {
+   "committee_id": "C00608695",
+   "name": "MIKE JOHNSON FOR LOUISIANA",
+   "connected_org": "JOHNSON LEADERSHIP FUND",
+   "total": 7000.0
+  },
+  {
    "committee_id": "C00877506",
    "name": "SPACE COAST LEADERSHIP PAC",
    "connected_org": "HARIDOPOLOS VICTORY FUND",
@@ -751,6 +757,12 @@
    "committee_id": "C00822767",
    "name": "RUDY FOR INDIANA",
    "connected_org": "RUDY VICTORY FUND",
+   "total": 4000.0
+  },
+  {
+   "committee_id": "C00545749",
+   "name": "EMMER FOR CONGRESS",
+   "connected_org": "EMMER VICTORY COMMITTEE",
    "total": 4000.0
   },
   {
@@ -1162,12 +1174,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00608695",
-   "name": "MIKE JOHNSON FOR LOUISIANA",
-   "connected_org": "JOHNSON LEADERSHIP FUND",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00849307",
    "name": "GEVO, INC. POLITICAL ACTION COMMITTEE (GEVO PAC)",
    "connected_org": null,
@@ -1219,6 +1225,18 @@
    "committee_id": "C00817932",
    "name": "LANGWORTHY FOR CONGRESS",
    "connected_org": "LANGWORTHY CONGRESSIONAL VICTORY COMMITTEE",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00726042",
+   "name": "LISA MCCLAIN FOR CONGRESS",
+   "connected_org": "BMW VICTORY COMMITTEE",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00730531",
+   "name": "TEXANS FOR RONNY JACKSON",
+   "connected_org": "TEAM RONNY",
    "total": 2000.0
   },
   {
@@ -1632,12 +1650,12 @@
    "total": 74500.0
   },
   {
-   "type": "Labor union PACs",
-   "total": 28500.0
+   "type": "Other candidates’ campaigns",
+   "total": 36000.0
   },
   {
-   "type": "Other candidates’ campaigns",
-   "total": 23000.0
+   "type": "Labor union PACs",
+   "total": 28500.0
   },
   {
    "type": "Party committees",
@@ -1646,7 +1664,7 @@
  ],
  "outside_spending": {
   "support_total": 588281.0,
-  "oppose_total": 983471.0,
+  "oppose_total": 983531.0,
   "spenders": [
    {
     "committee_id": "C00886614",
@@ -1694,7 +1712,7 @@
     "committee_id": "C00930321",
     "name": "NEIGHBOR VOICES PAC",
     "support": 0.0,
-    "oppose": 20.0
+    "oppose": 80.0
    }
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."

@@ -574,12 +574,6 @@
    "total": 7500.0
   },
   {
-   "committee_id": "C00541177",
-   "name": "ZOETIS INC. PAC AKA ZOETIS PAC",
-   "connected_org": null,
-   "total": 7500.0
-  },
-  {
    "committee_id": "C00171843",
    "name": "LIBERTY MUTUAL INSURANCE COMPANY - PAC",
    "connected_org": "LIBERTY MUTUAL INSURANCE COMPANY",
@@ -1792,6 +1786,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00541177",
+   "name": "ZOETIS INC. PAC AKA ZOETIS PAC",
+   "connected_org": null,
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00395723",
    "name": "ALSTON & BIRD PAC",
    "connected_org": null,
@@ -2503,7 +2503,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 1197763.0
+   "total": 1192763.0
   },
   {
    "type": "Trade association PACs",

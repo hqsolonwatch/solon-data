@@ -1528,6 +1528,12 @@
    "total": 3500.0
   },
   {
+   "committee_id": "C00793711",
+   "name": "CONSTELLATION ENERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (CEPAC)",
+   "connected_org": "CONSTELLATION ENERGY CORPORATION",
+   "total": 3500.0
+  },
+  {
    "committee_id": "C00614917",
    "name": "VALLEY FIRST LEADERSHIP PAC",
    "connected_org": "REPRESENTATIVE JIM COSTA",
@@ -2860,12 +2866,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00793711",
-   "name": "CONSTELLATION ENERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (CEPAC)",
-   "connected_org": "CONSTELLATION ENERGY CORPORATION",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00888743",
    "name": "TOMORROW PAC",
    "connected_org": null,
@@ -3253,7 +3253,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 795520.0
+   "total": 798020.0
   },
   {
    "type": "Trade association PACs",

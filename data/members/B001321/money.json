@@ -1156,6 +1156,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00730531",
+   "name": "TEXANS FOR RONNY JACKSON",
+   "connected_org": "TEAM RONNY",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00074096",
    "name": "DOW INC. PAC (DOWPAC)",
    "connected_org": "DOW INC.",
@@ -1474,9 +1480,21 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00806018",
+   "name": "LALOTA FOR CONGRESS",
+   "connected_org": "LALOTA VICTORY FUND",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00850404",
    "name": "MARK HARRIS FOR CONGRESS",
    "connected_org": "AMERICA'S AWAKENING PAC",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00740100",
+   "name": "CLYDE FOR CONGRESS, INC.",
+   "connected_org": null,
    "total": 2000.0
   },
   {
@@ -1549,6 +1567,12 @@
    "committee_id": "C00046474",
    "name": "FORD MOTOR COMPANY CIVIC ACTION FUND",
    "connected_org": "FORD MOTOR COMPANY",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00872473",
+   "name": "BRIAN JACK FOR CONGRESS",
+   "connected_org": "TEAM BRIAN JACK",
    "total": 1500.0
   },
   {
@@ -1996,12 +2020,6 @@
    "total": 0.0
   },
   {
-   "committee_id": "C00872473",
-   "name": "BRIAN JACK FOR CONGRESS",
-   "connected_org": "TEAM BRIAN JACK",
-   "total": 0.0
-  },
-  {
    "committee_id": "C00878389",
    "name": "HEAL AMERICA",
    "connected_org": "KENNEDY",
@@ -2027,7 +2045,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 127277.0
+   "total": 135277.0
   },
   {
    "type": "Membership group PACs",
@@ -2048,7 +2066,7 @@
  ],
  "outside_spending": {
   "support_total": 780391.0,
-  "oppose_total": 2189591.0,
+  "oppose_total": 2489591.0,
   "spenders": [
    {
     "committee_id": "C00495028",
@@ -2061,6 +2079,12 @@
     "name": "AMERICA FIRST AGRICULTURE ACTION INC.",
     "support": 358678.0,
     "oppose": 0.0
+   },
+   {
+    "committee_id": "C00740225",
+    "name": "NRDC ACTION VOTES",
+    "support": 0.0,
+    "oppose": 300000.0
    },
    {
     "committee_id": "C00687103",

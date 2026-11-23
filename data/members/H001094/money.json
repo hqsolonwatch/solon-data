@@ -772,6 +772,18 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00503052",
+   "name": "JEFFRIES FOR CONGRESS",
+   "connected_org": "JEFFRIES VICTORY FUND",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00495952",
+   "name": "SCHNEIDER FOR CONGRESS",
+   "connected_org": "BUILDING AND REVITALIZING AMERICAN DEMOCRACY FUND",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00176727",
    "name": "AMERICAN ASSOCIATION OF AIRPORT EXECUTIVES",
    "connected_org": "AMERICAN ASSOCIATION OF AIRPORT EXECUTIVES",
@@ -1060,6 +1072,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00801274",
+   "name": "EMILIA SYKES FOR CONGRESS",
+   "connected_org": "BLUE TO THE FUTURE 2024",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00545202",
    "name": "THE CENTER FOR FREETHOUGHT EQUALITY PAC",
    "connected_org": "THE CENTER FOR FREETHOUGHT EQUALITY",
@@ -1170,23 +1188,23 @@
    "total": 39750.0
   },
   {
-   "type": "Cooperative PACs",
-   "total": 10000.0
+   "type": "Other candidates’ campaigns",
+   "total": 11000.0
   },
   {
-   "type": "Other candidates’ campaigns",
-   "total": 6000.0
+   "type": "Cooperative PACs",
+   "total": 10000.0
   }
  ],
  "outside_spending": {
   "support_total": 292471.0,
-  "oppose_total": 300000.0,
+  "oppose_total": 425000.0,
   "spenders": [
    {
     "committee_id": "C00921262",
     "name": "SAFER STRONGER OREGON PAC",
     "support": 0.0,
-    "oppose": 300000.0
+    "oppose": 425000.0
    },
    {
     "committee_id": "C00923417",

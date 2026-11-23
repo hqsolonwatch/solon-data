@@ -970,6 +970,12 @@
    "total": 4000.0
   },
   {
+   "committee_id": "C00495952",
+   "name": "SCHNEIDER FOR CONGRESS",
+   "connected_org": "BUILDING AND REVITALIZING AMERICAN DEMOCRACY FUND",
+   "total": 4000.0
+  },
+  {
    "committee_id": "C00246306",
    "name": "IPAA WILDCATTERS FUND",
    "connected_org": null,
@@ -1132,6 +1138,12 @@
    "total": 3000.0
   },
   {
+   "committee_id": "C00555888",
+   "name": "FRIENDS OF DON BEYER",
+   "connected_org": "NONE",
+   "total": 3000.0
+  },
+  {
    "committee_id": "C00366559",
    "name": "NRG ENERGY INC POLITICAL ACTION COMMITTEE",
    "connected_org": "NRG ENERGY, INC.",
@@ -1189,12 +1201,6 @@
    "committee_id": "C00107128",
    "name": "NATIONAL TREASURY EMPLOYEES UNION POLITICAL ACTION COMMITTEE",
    "connected_org": null,
-   "total": 3000.0
-  },
-  {
-   "committee_id": "C00495952",
-   "name": "SCHNEIDER FOR CONGRESS",
-   "connected_org": "BUILDING AND REVITALIZING AMERICAN DEMOCRACY FUND",
    "total": 3000.0
   },
   {
@@ -1594,12 +1600,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00555888",
-   "name": "FRIENDS OF DON BEYER",
-   "connected_org": "NONE",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00729277",
    "name": "DEBORAH ROSS FOR CONGRESS",
    "connected_org": null,
@@ -1771,6 +1771,12 @@
    "committee_id": "C00708081",
    "name": "AFFIRM, INC. FOR POSITIVE POLICY",
    "connected_org": "AFFIRM, INC.",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00655647",
+   "name": "LORI TRAHAN FOR CONGRESS COMMITTEE",
+   "connected_org": "CLARK TRAHAN PRESSLEY VICTORY FUND",
    "total": 2000.0
   },
   {
@@ -2290,6 +2296,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00659771",
+   "name": "WIN THE HOUSE NOW PAC",
+   "connected_org": null,
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00383976",
    "name": "FRIENDS OF COMMUNITY ONCOLOGY PAC",
    "connected_org": "NONE",
@@ -2383,6 +2395,12 @@
    "committee_id": "C00493304",
    "name": "PRUDENTIAL FINANCIAL, INC. STATE & FEDERAL POLITICAL ACTION COMMITTEE (AKA PRUDENTIAL STATE & FEDERAL PAC)",
    "connected_org": "PRUDENTIAL FINANCIAL, INC.",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00793703",
+   "name": "ANDREA SALINAS FOR OREGON",
+   "connected_org": "SEEC VICTORY FUND",
    "total": 1000.0
   },
   {
@@ -2511,7 +2529,7 @@
   },
   {
    "type": "Leadership PACs (run by other politicians)",
-   "total": 180000.0
+   "total": 181000.0
   },
   {
    "type": "Other PACs",
@@ -2527,7 +2545,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 50500.0
+   "total": 55500.0
   },
   {
    "type": "Cooperative PACs",
@@ -2539,7 +2557,7 @@
   }
  ],
  "outside_spending": {
-  "support_total": 970564.0,
+  "support_total": 970645.0,
   "oppose_total": 5114460.0,
   "spenders": [
    {
@@ -2624,6 +2642,18 @@
     "committee_id": "C00955138",
     "name": "BUILDING TOGETHER",
     "support": 111.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00930321",
+    "name": "NEIGHBOR VOICES PAC",
+    "support": 80.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00812479",
+    "name": "TOGETHER WE ELECT PAC",
+    "support": 1.0,
     "oppose": 0.0
    }
   ],

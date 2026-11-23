@@ -1132,6 +1132,12 @@
    "total": 2500.0
   },
   {
+   "committee_id": "C00730531",
+   "name": "TEXANS FOR RONNY JACKSON",
+   "connected_org": "TEAM RONNY",
+   "total": 2500.0
+  },
+  {
    "committee_id": "C00720920",
    "name": "EMPLOYEES OF QUANTA SERVICES, INC.",
    "connected_org": "QUANTA SERVICES, INC",
@@ -1468,6 +1474,18 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00806018",
+   "name": "LALOTA FOR CONGRESS",
+   "connected_org": "LALOTA VICTORY FUND",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00740100",
+   "name": "CLYDE FOR CONGRESS, INC.",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00412890",
    "name": "ADRIAN SMITH FOR CONGRESS",
    "connected_org": "ADRIAN SMITH VICTORY FUND",
@@ -1555,6 +1573,12 @@
    "committee_id": "C00886234",
    "name": "SECURE HOMELAND REBUILD ECONOMY VOTE & EDUCATE PAC",
    "connected_org": "TEAM SHREVE",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00872473",
+   "name": "BRIAN JACK FOR CONGRESS",
+   "connected_org": "TEAM BRIAN JACK",
    "total": 1500.0
   },
   {
@@ -2020,12 +2044,6 @@
    "total": 500.0
   },
   {
-   "committee_id": "C00872473",
-   "name": "BRIAN JACK FOR CONGRESS",
-   "connected_org": "TEAM BRIAN JACK",
-   "total": 0.0
-  },
-  {
    "committee_id": "C00878389",
    "name": "HEAL AMERICA",
    "connected_org": "KENNEDY",
@@ -2048,12 +2066,12 @@
    "total": 273000.0
   },
   {
-   "type": "Trade association PACs",
-   "total": 144000.0
+   "type": "Other candidates’ campaigns",
+   "total": 150477.0
   },
   {
-   "type": "Other candidates’ campaigns",
-   "total": 142477.0
+   "type": "Trade association PACs",
+   "total": 144000.0
   },
   {
    "type": "Other PACs",
@@ -2077,7 +2095,7 @@
   }
  ],
  "outside_spending": {
-  "support_total": 2135748.0,
+  "support_total": 2136423.0,
   "oppose_total": 2709476.0,
   "spenders": [
    {
@@ -2162,6 +2180,12 @@
     "committee_id": "C00448696",
     "name": "SENATE CONSERVATIVES FUND",
     "support": 8638.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00541433",
+    "name": "HUNTER ACTION FUND (HAF)",
+    "support": 675.0,
     "oppose": 0.0
    }
   ],

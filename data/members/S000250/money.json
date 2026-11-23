@@ -796,6 +796,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00730531",
+   "name": "TEXANS FOR RONNY JACKSON",
+   "connected_org": "TEAM RONNY",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00822833",
    "name": "DEFENDING THE AMERICAN DREAM PAC",
    "connected_org": null,
@@ -1111,7 +1117,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 13000.0
+   "total": 15000.0
   },
   {
    "type": "Cooperative PACs",
@@ -1119,13 +1125,13 @@
   }
  ],
  "outside_spending": {
-  "support_total": 52.0,
+  "support_total": 95.0,
   "oppose_total": 0.0,
   "spenders": [
    {
     "committee_id": "C00754218",
     "name": "TEXAS ALLIANCE FOR LIFE FED PAC",
-    "support": 52.0,
+    "support": 95.0,
     "oppose": 0.0
    }
   ],

@@ -1408,6 +1408,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00358663",
+   "name": "AMERICAN RESORT DEVELOPMENT ASSOCIATION RESORT OWNERS COALITION PAC (ARDA-ROC PAC)",
+   "connected_org": "AMERICAN RESORT DEVELOPMENT ASSOCIATION",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00012245",
    "name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
    "connected_org": "UBS AMERICAS INC.",
@@ -1435,12 +1441,6 @@
    "committee_id": "C00498691",
    "name": "EMPLOYEES OF PALANTIR TECHNOLOGIES INC. PAC",
    "connected_org": "PALANTIR TECHNOLOGIES INC.",
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00358663",
-   "name": "AMERICAN RESORT DEVELOPMENT ASSOCIATION RESORT OWNERS COALITION PAC (ARDA-ROC PAC)",
-   "connected_org": "AMERICAN RESORT DEVELOPMENT ASSOCIATION",
    "total": 5000.0
   },
   {
@@ -2751,8 +2751,8 @@
   }
  ],
  "outside_spending": {
-  "support_total": 6146304.0,
-  "oppose_total": 15752958.0,
+  "support_total": 6146979.0,
+  "oppose_total": 15752978.0,
   "spenders": [
    {
     "committee_id": "C00957522",
@@ -2863,10 +2863,22 @@
     "oppose": 0.0
    },
    {
+    "committee_id": "C00541433",
+    "name": "HUNTER ACTION FUND (HAF)",
+    "support": 675.0,
+    "oppose": 0.0
+   },
+   {
     "committee_id": "C00955138",
     "name": "BUILDING TOGETHER",
     "support": 0.0,
     "oppose": 131.0
+   },
+   {
+    "committee_id": "C00930321",
+    "name": "NEIGHBOR VOICES PAC",
+    "support": 0.0,
+    "oppose": 20.0
    }
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."

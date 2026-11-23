@@ -424,6 +424,12 @@
    "total": 4000.0
   },
   {
+   "committee_id": "C00495952",
+   "name": "SCHNEIDER FOR CONGRESS",
+   "connected_org": "BUILDING AND REVITALIZING AMERICAN DEMOCRACY FUND",
+   "total": 4000.0
+  },
+  {
    "committee_id": "C00252940",
    "name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
    "connected_org": "LEAGUE OF CONSERVATION VOTERS, INC",
@@ -493,6 +499,12 @@
    "committee_id": "C00655423",
    "name": "BRIDGE THE GAP PAC",
    "connected_org": "SCHNEIDER",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00655647",
+   "name": "LORI TRAHAN FOR CONGRESS COMMITTEE",
+   "connected_org": "CLARK TRAHAN PRESSLEY VICTORY FUND",
    "total": 3000.0
   },
   {
@@ -802,12 +814,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00495952",
-   "name": "SCHNEIDER FOR CONGRESS",
-   "connected_org": "BUILDING AND REVITALIZING AMERICAN DEMOCRACY FUND",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00787317",
    "name": "SPIKE PAC",
    "connected_org": null,
@@ -883,6 +889,12 @@
    "committee_id": "C00048702",
    "name": "NATIONAL GRID USA POLITICAL ACTION COMMITTEE",
    "connected_org": "NATIONAL GRID USA",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00936559",
+   "name": "ALEX VINDMAN FOR FLORIDA",
+   "connected_org": "BLUE SENATE CANDIDATE FUND",
    "total": 2000.0
   },
   {
@@ -973,12 +985,6 @@
    "committee_id": "C00555888",
    "name": "FRIENDS OF DON BEYER",
    "connected_org": "NONE",
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00655647",
-   "name": "LORI TRAHAN FOR CONGRESS COMMITTEE",
-   "connected_org": "CLARK TRAHAN PRESSLEY VICTORY FUND",
    "total": 1000.0
   },
   {
@@ -1442,12 +1448,12 @@
    "total": 56000.0
   },
   {
-   "type": "Membership group PACs",
-   "total": 40999.0
+   "type": "Other candidates’ campaigns",
+   "total": 44600.0
   },
   {
-   "type": "Other candidates’ campaigns",
-   "total": 38600.0
+   "type": "Membership group PACs",
+   "total": 40999.0
   },
   {
    "type": "Cooperative PACs",
@@ -1459,7 +1465,7 @@
   }
  ],
  "outside_spending": {
-  "support_total": 174812.0,
+  "support_total": 175744.0,
   "oppose_total": 128477.0,
   "spenders": [
    {
@@ -1490,6 +1496,12 @@
     "committee_id": "C00909994",
     "name": "FIELD TEAM 6, INC.",
     "support": 1377.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00930321",
+    "name": "NEIGHBOR VOICES PAC",
+    "support": 932.0,
     "oppose": 0.0
    },
    {

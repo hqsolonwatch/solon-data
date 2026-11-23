@@ -1492,6 +1492,12 @@
    "total": 5000.0
   },
   {
+   "committee_id": "C00358663",
+   "name": "AMERICAN RESORT DEVELOPMENT ASSOCIATION RESORT OWNERS COALITION PAC (ARDA-ROC PAC)",
+   "connected_org": "AMERICAN RESORT DEVELOPMENT ASSOCIATION",
+   "total": 5000.0
+  },
+  {
    "committee_id": "C00296822",
    "name": "ROLLS-ROYCE NORTH AMERICA HOLDINGS INC. PAC (ROLLS-ROYCE NORTH AMERICA PAC)",
    "connected_org": "ROLLS-ROYCE NORTH AMERICA HOLDINGS INC.",
@@ -1513,12 +1519,6 @@
    "committee_id": "C00375048",
    "name": "CONSUMER TECHNOLOGY ASSOCIATION PAC",
    "connected_org": "CONSUMER TECHNOLOGY ASSOCIATION",
-   "total": 5000.0
-  },
-  {
-   "committee_id": "C00358663",
-   "name": "AMERICAN RESORT DEVELOPMENT ASSOCIATION RESORT OWNERS COALITION PAC (ARDA-ROC PAC)",
-   "connected_org": "AMERICAN RESORT DEVELOPMENT ASSOCIATION",
    "total": 5000.0
   },
   {
@@ -1924,6 +1924,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00822767",
+   "name": "RUDY FOR INDIANA",
+   "connected_org": "RUDY VICTORY FUND",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00105338",
    "name": "FOLEY & LARDNER POLITICAL FUND, INC.",
    "connected_org": "NONE",
@@ -2012,6 +2018,10 @@
   {
    "type": "Leadership PACs (run by other politicians)",
    "total": 15500.0
+  },
+  {
+   "type": "Other candidates’ campaigns",
+   "total": 2000.0
   }
  ],
  "outside_spending": {

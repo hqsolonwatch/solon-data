@@ -496,6 +496,12 @@
    "total": 4000.0
   },
   {
+   "committee_id": "C00495952",
+   "name": "SCHNEIDER FOR CONGRESS",
+   "connected_org": "BUILDING AND REVITALIZING AMERICAN DEMOCRACY FUND",
+   "total": 4000.0
+  },
+  {
    "committee_id": "C00488262",
    "name": "NETJETS ASSOCIATION OF SHARED AIRCRAFT PILOTS PAC; NJASAP PAC",
    "connected_org": null,
@@ -544,6 +550,12 @@
    "total": 3000.0
   },
   {
+   "committee_id": "C00555888",
+   "name": "FRIENDS OF DON BEYER",
+   "connected_org": "NONE",
+   "total": 3000.0
+  },
+  {
    "committee_id": "C00427195",
    "name": "SOUTHWEST BUSINESS CORPORATION PAC (SWBCPAC)",
    "connected_org": null,
@@ -562,6 +574,12 @@
    "total": 3000.0
   },
   {
+   "committee_id": "C00655647",
+   "name": "LORI TRAHAN FOR CONGRESS COMMITTEE",
+   "connected_org": "CLARK TRAHAN PRESSLEY VICTORY FUND",
+   "total": 3000.0
+  },
+  {
    "committee_id": "C00421230",
    "name": "AIRBUS AMERICAS, INC. POLITICAL ACTION COMMITTEE",
    "connected_org": "AIRBUS AMERICAS, INC.",
@@ -571,12 +589,6 @@
    "committee_id": "C00426809",
    "name": "MADISON PAC; THE",
    "connected_org": null,
-   "total": 3000.0
-  },
-  {
-   "committee_id": "C00495952",
-   "name": "SCHNEIDER FOR CONGRESS",
-   "connected_org": "BUILDING AND REVITALIZING AMERICAN DEMOCRACY FUND",
    "total": 3000.0
   },
   {
@@ -856,12 +868,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00555888",
-   "name": "FRIENDS OF DON BEYER",
-   "connected_org": "NONE",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00657304",
    "name": "STANTON FOR CONGRESS",
    "connected_org": "STANTON ACTION FUND",
@@ -976,6 +982,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00936559",
+   "name": "ALEX VINDMAN FOR FLORIDA",
+   "connected_org": "BLUE SENATE CANDIDATE FUND",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00329425",
    "name": "NATIONAL FRANCHISEE ASSOCIATION, INC. (BURGER KING FRANCHISEE PAC)",
    "connected_org": "NATIONAL FRANCHISEE ASSOCIATION, INC.",
@@ -1018,12 +1030,6 @@
    "total": 1500.0
   },
   {
-   "committee_id": "C00431197",
-   "name": "VALLEY POLITICAL ACTION COMMITTEE",
-   "connected_org": "BUFFALO RIVER POLITICAL ACTION COMMITTEE",
-   "total": 1500.0
-  },
-  {
    "committee_id": "C00763623",
    "name": "ANDURIL INDUSTRIES, INC. POLITICAL ACTION COMMITTEE (ANDURIL PAC)",
    "connected_org": "ANDURIL INDUSTRIES, INC.",
@@ -1033,6 +1039,12 @@
    "committee_id": "C00076182",
    "name": "NATIONAL TURKEY FEDERATION POLITICAL ACTION COMMITEE/TURPAC",
    "connected_org": "NATIONAL TURKEY FEDERATION",
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00431197",
+   "name": "VALLEY POLITICAL ACTION COMMITTEE",
+   "connected_org": "BUFFALO RIVER POLITICAL ACTION COMMITTEE",
    "total": 1500.0
   },
   {
@@ -1147,12 +1159,6 @@
    "committee_id": "C00888743",
    "name": "TOMORROW PAC",
    "connected_org": null,
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00655647",
-   "name": "LORI TRAHAN FOR CONGRESS COMMITTEE",
-   "connected_org": "CLARK TRAHAN PRESSLEY VICTORY FUND",
    "total": 1000.0
   },
   {
@@ -1420,6 +1426,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00793703",
+   "name": "ANDREA SALINAS FOR OREGON",
+   "connected_org": "SEEC VICTORY FUND",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00147173",
    "name": "WINE AND SPIRITS WHOLESALERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE",
    "connected_org": "WINE & SPIRITS WHOLESALERS OF AMERICA",
@@ -1537,7 +1549,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 26000.0
+   "total": 33000.0
   },
   {
    "type": "Cooperative PACs",
@@ -1549,7 +1561,7 @@
   }
  ],
  "outside_spending": {
-  "support_total": 196806.0,
+  "support_total": 196826.0,
   "oppose_total": 3087486.0,
   "spenders": [
    {
@@ -1604,6 +1616,12 @@
     "committee_id": "C00955138",
     "name": "BUILDING TOGETHER",
     "support": 81.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00930321",
+    "name": "NEIGHBOR VOICES PAC",
+    "support": 20.0,
     "oppose": 0.0
    }
   ],

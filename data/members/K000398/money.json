@@ -1624,6 +1624,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00740100",
+   "name": "CLYDE FOR CONGRESS, INC.",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00329185",
    "name": "QUEST DIAGNOSTICS INCORPORATED POLITICAL ACTION COMMITTEE",
    "connected_org": "QUEST DIAGNOSTICS INCORPORATED",
@@ -2251,7 +2257,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 135977.0
+   "total": 137977.0
   },
   {
    "type": "Other PACs",
@@ -2272,7 +2278,7 @@
  ],
  "outside_spending": {
   "support_total": 151886.0,
-  "oppose_total": 590902.0,
+  "oppose_total": 591132.0,
   "spenders": [
    {
     "committee_id": "C00540443",
@@ -2315,6 +2321,12 @@
     "name": "BUILDING TOGETHER",
     "support": 0.0,
     "oppose": 242.0
+   },
+   {
+    "committee_id": "C00930321",
+    "name": "NEIGHBOR VOICES PAC",
+    "support": 0.0,
+    "oppose": 230.0
    },
    {
     "committee_id": "C00913087",

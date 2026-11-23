@@ -964,6 +964,18 @@
    "total": 3000.0
   },
   {
+   "committee_id": "C00555888",
+   "name": "FRIENDS OF DON BEYER",
+   "connected_org": "NONE",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00655647",
+   "name": "LORI TRAHAN FOR CONGRESS COMMITTEE",
+   "connected_org": "CLARK TRAHAN PRESSLEY VICTORY FUND",
+   "total": 3000.0
+  },
+  {
    "committee_id": "C00543116",
    "name": "GOOD FRIENDS PAC",
    "connected_org": "BONAMICI",
@@ -991,6 +1003,12 @@
    "committee_id": "C00491142",
    "name": "COMMON SENSE DEMOCRAT PAC",
    "connected_org": "LYNCH",
+   "total": 3000.0
+  },
+  {
+   "committee_id": "C00659771",
+   "name": "WIN THE HOUSE NOW PAC",
+   "connected_org": null,
    "total": 3000.0
   },
   {
@@ -1270,12 +1288,6 @@
    "total": 2000.0
   },
   {
-   "committee_id": "C00555888",
-   "name": "FRIENDS OF DON BEYER",
-   "connected_org": "NONE",
-   "total": 2000.0
-  },
-  {
    "committee_id": "C00327023",
    "name": "SCHAKOWSKY FOR CONGRESS",
    "connected_org": "NONE",
@@ -1297,12 +1309,6 @@
    "committee_id": "C00841908",
    "name": "A PLEASANT PENINSULA PAC",
    "connected_org": "SCHOLTEN",
-   "total": 2000.0
-  },
-  {
-   "committee_id": "C00659771",
-   "name": "WIN THE HOUSE NOW PAC",
-   "connected_org": null,
    "total": 2000.0
   },
   {
@@ -1429,6 +1435,12 @@
    "committee_id": "C00064766",
    "name": "UNITED PARCEL SERVICE, INC. PAC (UPSPAC)",
    "connected_org": "UNITED PARCEL SERVICE, INC.",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00936559",
+   "name": "ALEX VINDMAN FOR FLORIDA",
+   "connected_org": "BLUE SENATE CANDIDATE FUND",
    "total": 2000.0
   },
   {
@@ -1645,12 +1657,6 @@
    "committee_id": "C00106146",
    "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
    "connected_org": "AMERICAN HOSPITAL ASSOCIATION",
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00655647",
-   "name": "LORI TRAHAN FOR CONGRESS COMMITTEE",
-   "connected_org": "CLARK TRAHAN PRESSLEY VICTORY FUND",
    "total": 1000.0
   },
   {
@@ -2044,6 +2050,12 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00669358",
+   "name": "SCANLON FOR CONGRESS",
+   "connected_org": "NONE",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00912873",
    "name": "READY TO FIGHT PAC",
    "connected_org": "WALKINSHAW",
@@ -2141,7 +2153,7 @@
   },
   {
    "type": "Leadership PACs (run by other politicians)",
-   "total": 280000.0
+   "total": 281000.0
   },
   {
    "type": "Labor union PACs",
@@ -2161,7 +2173,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 62600.0
+   "total": 68600.0
   },
   {
    "type": "Cooperative PACs",
@@ -2173,7 +2185,7 @@
   }
  ],
  "outside_spending": {
-  "support_total": 992833.0,
+  "support_total": 1002186.0,
   "oppose_total": 3853003.0,
   "spenders": [
    {
@@ -2221,7 +2233,7 @@
    {
     "committee_id": "C00612820",
     "name": "COMMUNITY CHANGE VOTERS",
-    "support": 18225.0,
+    "support": 27575.0,
     "oppose": 0.0
    },
    {
@@ -2282,6 +2294,12 @@
     "committee_id": "C00483693",
     "name": "SIERRA CLUB INDEPENDENT ACTION",
     "support": 10.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00812479",
+    "name": "TOGETHER WE ELECT PAC",
+    "support": 3.0,
     "oppose": 0.0
    }
   ],

@@ -592,15 +592,15 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00343137",
-   "name": "POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS--PAC OF AAOS",
-   "connected_org": "AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS",
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00035006",
    "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
    "connected_org": "CHEVRON CORPORATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00343137",
+   "name": "POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS--PAC OF AAOS",
+   "connected_org": "AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS",
    "total": 2500.0
   },
   {
@@ -751,6 +751,24 @@
    "committee_id": "C00849307",
    "name": "GEVO, INC. POLITICAL ACTION COMMITTEE (GEVO PAC)",
    "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00872473",
+   "name": "BRIAN JACK FOR CONGRESS",
+   "connected_org": "TEAM BRIAN JACK",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00545749",
+   "name": "EMMER FOR CONGRESS",
+   "connected_org": "EMMER VICTORY COMMITTEE",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00730531",
+   "name": "TEXANS FOR RONNY JACKSON",
+   "connected_org": "TEAM RONNY",
    "total": 2000.0
   },
   {
@@ -1147,7 +1165,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 8500.0
+   "total": 14500.0
   },
   {
    "type": "Labor union PACs",

@@ -3129,8 +3129,8 @@
   }
  ],
  "outside_spending": {
-  "support_total": 4597335.0,
-  "oppose_total": 12363213.0,
+  "support_total": 4597925.0,
+  "oppose_total": 12363507.0,
   "spenders": [
    {
     "committee_id": "C00865444",
@@ -3249,8 +3249,8 @@
    {
     "committee_id": "C00930321",
     "name": "NEIGHBOR VOICES PAC",
-    "support": 0.0,
-    "oppose": 2093.0
+    "support": 60.0,
+    "oppose": 2387.0
    },
    {
     "committee_id": "C00909994",
@@ -3265,6 +3265,12 @@
     "oppose": 651.0
    },
    {
+    "committee_id": "C00541433",
+    "name": "HUNTER ACTION FUND (HAF)",
+    "support": 530.0,
+    "oppose": 0.0
+   },
+   {
     "committee_id": "C00640300",
     "name": "ACTIVATE AMERICA",
     "support": 0.0,
@@ -3275,12 +3281,6 @@
     "name": "VOTERS DESERVE BETTER",
     "support": 200.0,
     "oppose": 0.0
-   },
-   {
-    "committee_id": "C00909465",
-    "name": "INDIGO PAC",
-    "support": 0.0,
-    "oppose": 47.0
    }
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."

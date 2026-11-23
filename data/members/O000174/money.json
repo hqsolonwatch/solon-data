@@ -1153,8 +1153,8 @@
   }
  ],
  "outside_spending": {
-  "support_total": 552532.0,
-  "oppose_total": 14365091.0,
+  "support_total": 624288.0,
+  "oppose_total": 14466635.0,
   "spenders": [
    {
     "committee_id": "C00571703",
@@ -1181,6 +1181,12 @@
     "oppose": 137565.0
    },
    {
+    "committee_id": "C00530766",
+    "name": "WOMEN SPEAK OUT PAC",
+    "support": 0.0,
+    "oppose": 101544.0
+   },
+   {
     "committee_id": "C00728667",
     "name": "AMERICA ONE",
     "support": 0.0,
@@ -1191,6 +1197,12 @@
     "name": "THE CONSERVATIVE CAUCUS DBA AMERICANS FOR CONSTITUTIONAL LIBERTY",
     "support": 0.0,
     "oppose": 63841.0
+   },
+   {
+    "committee_id": "C00747998",
+    "name": "CARE IN ACTION PAC",
+    "support": 62153.0,
+    "oppose": 0.0
    },
    {
     "committee_id": "C00828608",
@@ -1223,6 +1235,12 @@
     "oppose": 0.0
    },
    {
+    "committee_id": "C00612820",
+    "name": "COMMUNITY CHANGE VOTERS",
+    "support": 19451.0,
+    "oppose": 0.0
+   },
+   {
     "committee_id": "C90011800",
     "name": "CATHOLICVOTE.ORG",
     "support": 0.0,
@@ -1238,12 +1256,6 @@
     "committee_id": "C00739557",
     "name": "ASIAN AMERICAN ADVOCACY FUND PAC",
     "support": 14125.0,
-    "oppose": 0.0
-   },
-   {
-    "committee_id": "C00612820",
-    "name": "COMMUNITY CHANGE VOTERS",
-    "support": 12718.0,
     "oppose": 0.0
    },
    {
@@ -1289,21 +1301,9 @@
     "oppose": 0.0
    },
    {
-    "committee_id": "C00685693",
-    "name": "CASA IN ACTION PAC",
-    "support": 2269.0,
-    "oppose": 0.0
-   },
-   {
-    "committee_id": "C00802389",
-    "name": "GIVEGREEN UNITED ACTION",
-    "support": 1902.0,
-    "oppose": 0.0
-   },
-   {
-    "committee_id": "C00489799",
-    "name": "PLANNED PARENTHOOD VOTES",
-    "support": 1420.0,
+    "committee_id": "C00639708",
+    "name": "ASSOCIATION FOR FIREFIGHTERS PAC DBA ASSOCIATION FOR FIREFIGHTERS",
+    "support": 2870.0,
     "oppose": 0.0
    }
   ],

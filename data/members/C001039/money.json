@@ -892,15 +892,15 @@
    "total": 2500.0
   },
   {
-   "committee_id": "C00451757",
-   "name": "RAYONIER, INC. GOOD GOVERNMENT COMMITTEE",
-   "connected_org": null,
-   "total": 2500.0
-  },
-  {
    "committee_id": "C00035006",
    "name": "CHEVRON EMPLOYEES POLITICAL ACTION COMMITTEE - CHEVRON CORPORATION",
    "connected_org": "CHEVRON CORPORATION",
+   "total": 2500.0
+  },
+  {
+   "committee_id": "C00451757",
+   "name": "RAYONIER, INC. GOOD GOVERNMENT COMMITTEE",
+   "connected_org": null,
    "total": 2500.0
   },
   {
@@ -1075,6 +1075,12 @@
    "committee_id": "C00693002",
    "name": "FOX CORPORATION POLITICAL ACTION COMMITTEE (FOX PAC)",
    "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00545749",
+   "name": "EMMER FOR CONGRESS",
+   "connected_org": "EMMER VICTORY COMMITTEE",
    "total": 2000.0
   },
   {
@@ -1553,7 +1559,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 4000.0
+   "total": 6000.0
   },
   {
    "type": "Labor union PACs",

@@ -670,6 +670,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00730531",
+   "name": "TEXANS FOR RONNY JACKSON",
+   "connected_org": "TEAM RONNY",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00034157",
    "name": "AFLAC POLITICAL ACTION COMMITTEE (AFLAC PAC)",
    "connected_org": null,
@@ -1030,11 +1036,11 @@
    "total": 33500.0
   },
   {
-   "type": "Other PACs",
-   "total": 14000.0
+   "type": "Other candidates’ campaigns",
+   "total": 16000.0
   },
   {
-   "type": "Other candidates’ campaigns",
+   "type": "Other PACs",
    "total": 14000.0
   },
   {
@@ -1043,13 +1049,13 @@
   }
  ],
  "outside_spending": {
-  "support_total": 52.0,
+  "support_total": 95.0,
   "oppose_total": 0.0,
   "spenders": [
    {
     "committee_id": "C00754218",
     "name": "TEXAS ALLIANCE FOR LIFE FED PAC",
-    "support": 52.0,
+    "support": 95.0,
     "oppose": 0.0
    }
   ],

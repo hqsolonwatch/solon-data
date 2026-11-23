@@ -1372,6 +1372,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00793703",
+   "name": "ANDREA SALINAS FOR OREGON",
+   "connected_org": "SEEC VICTORY FUND",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00546234",
    "name": "LEIDOS INC. POLITICAL ACTION COMMITTEE",
    "connected_org": "LEIDOS, INC.",
@@ -1417,6 +1423,18 @@
    "committee_id": "C00890475",
    "name": "DE COLORES PAC",
    "connected_org": null,
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00936559",
+   "name": "ALEX VINDMAN FOR FLORIDA",
+   "connected_org": "BLUE SENATE CANDIDATE FUND",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00813758",
+   "name": "TOKUDA FOR HAWAII",
+   "connected_org": "HIRONO TOKUDA VICTORY",
    "total": 2000.0
   },
   {
@@ -1714,12 +1732,6 @@
    "total": 1000.0
   },
   {
-   "committee_id": "C00793703",
-   "name": "ANDREA SALINAS FOR OREGON",
-   "connected_org": "SEEC VICTORY FUND",
-   "total": 1000.0
-  },
-  {
    "committee_id": "C00888743",
    "name": "TOMORROW PAC",
    "connected_org": null,
@@ -2002,6 +2014,18 @@
    "total": 1000.0
   },
   {
+   "committee_id": "C00726372",
+   "name": "KWEISI MFUME FOR CONGRESS",
+   "connected_org": "NONE",
+   "total": 1000.0
+  },
+  {
+   "committee_id": "C00410233",
+   "name": "COURTNEY FOR CONGRESS",
+   "connected_org": "NONE",
+   "total": 1000.0
+  },
+  {
    "committee_id": "C00757344",
    "name": "MAKING A DIFFERENCE PAC",
    "connected_org": null,
@@ -2080,6 +2104,12 @@
    "total": 500.0
   },
   {
+   "committee_id": "C00661777",
+   "name": "CHUY GARCIA FOR CONGRESS",
+   "connected_org": "NONE",
+   "total": 500.0
+  },
+  {
    "committee_id": "C00731414",
    "name": "AMENTUM HOLDINGS, INC. PAC (AMENTUM PAC)",
    "connected_org": "AMENTUM HOLDINGS, INC.",
@@ -2125,7 +2155,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 51500.0
+   "total": 59000.0
   },
   {
    "type": "Cooperative PACs",
@@ -2137,7 +2167,7 @@
   }
  ],
  "outside_spending": {
-  "support_total": 16308.0,
+  "support_total": 17664.0,
   "oppose_total": 3036019.0,
   "spenders": [
    {
@@ -2180,6 +2210,12 @@
     "committee_id": "C00835041",
     "name": "FORWARD BLUE",
     "support": 2034.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00930321",
+    "name": "NEIGHBOR VOICES PAC",
+    "support": 1356.0,
     "oppose": 0.0
    },
    {

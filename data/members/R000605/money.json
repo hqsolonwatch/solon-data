@@ -2271,13 +2271,25 @@
   }
  ],
  "outside_spending": {
-  "support_total": 566048.0,
-  "oppose_total": 0.0,
+  "support_total": 795795.0,
+  "oppose_total": 265744.0,
   "spenders": [
    {
     "committee_id": "C00836221",
     "name": "DEFEND AMERICAN JOBS",
     "support": 411748.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00962704",
+    "name": "FREEDOM FROM POLITICS, INC.",
+    "support": 0.0,
+    "oppose": 265744.0
+   },
+   {
+    "committee_id": "C00916692",
+    "name": "AMERICAN MISSION",
+    "support": 229747.0,
     "oppose": 0.0
    },
    {

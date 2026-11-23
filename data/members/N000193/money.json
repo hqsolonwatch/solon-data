@@ -1210,14 +1210,14 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00541177",
-   "name": "ZOETIS INC. PAC AKA ZOETIS PAC",
+   "committee_id": "C00685115",
+   "name": "GROWING OUR OWN DYNAMIC ECONOMY NOW",
    "connected_org": null,
    "total": 5000.0
   },
   {
-   "committee_id": "C00685115",
-   "name": "GROWING OUR OWN DYNAMIC ECONOMY NOW",
+   "committee_id": "C00541177",
+   "name": "ZOETIS INC. PAC AKA ZOETIS PAC",
    "connected_org": null,
    "total": 5000.0
   },
@@ -2290,6 +2290,18 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00541862",
+   "name": "JASON SMITH FOR CONGRESS",
+   "connected_org": "SMITH VICTORY",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00740100",
+   "name": "CLYDE FOR CONGRESS, INC.",
+   "connected_org": null,
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00274944",
    "name": "COLLEGE OF AMERICAN PATHOLOGISTS POLITICAL ACTION COMMITTEE",
    "connected_org": "COLLEGE OF AMERICAN PATHOLOGISTS",
@@ -2359,6 +2371,12 @@
    "committee_id": "C00736421",
    "name": "DELEK US HOLDINGS LLC PAC  (AKA DK PAC)",
    "connected_org": null,
+   "total": 1500.0
+  },
+  {
+   "committee_id": "C00872473",
+   "name": "BRIAN JACK FOR CONGRESS",
+   "connected_org": "TEAM BRIAN JACK",
    "total": 1500.0
   },
   {
@@ -2920,12 +2938,6 @@
    "total": 0.0
   },
   {
-   "committee_id": "C00872473",
-   "name": "BRIAN JACK FOR CONGRESS",
-   "connected_org": "TEAM BRIAN JACK",
-   "total": 0.0
-  },
-  {
    "committee_id": "C00105338",
    "name": "FOLEY & LARDNER POLITICAL FUND, INC.",
    "connected_org": "NONE",
@@ -2963,7 +2975,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 148877.0
+   "total": 154377.0
   },
   {
    "type": "Membership group PACs",
@@ -2984,7 +2996,7 @@
  ],
  "outside_spending": {
   "support_total": 56867.0,
-  "oppose_total": 1362835.0,
+  "oppose_total": 1413204.0,
   "spenders": [
    {
     "committee_id": "C00495028",
@@ -2997,6 +3009,12 @@
     "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
     "support": 0.0,
     "oppose": 604500.0
+   },
+   {
+    "committee_id": "C00740225",
+    "name": "NRDC ACTION VOTES",
+    "support": 0.0,
+    "oppose": 50000.0
    },
    {
     "committee_id": "C00540203",
@@ -3026,7 +3044,7 @@
     "committee_id": "C00930321",
     "name": "NEIGHBOR VOICES PAC",
     "support": 0.0,
-    "oppose": 993.0
+    "oppose": 1362.0
    },
    {
     "committee_id": "C90011156",

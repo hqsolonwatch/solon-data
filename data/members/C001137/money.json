@@ -820,9 +820,21 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00872473",
+   "name": "BRIAN JACK FOR CONGRESS",
+   "connected_org": "TEAM BRIAN JACK",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00857359",
    "name": "BRANDON GILL FOR TEXAS",
    "connected_org": "BRANDON GILL VICTORY FUND",
+   "total": 2000.0
+  },
+  {
+   "committee_id": "C00806018",
+   "name": "LALOTA FOR CONGRESS",
+   "connected_org": "LALOTA VICTORY FUND",
    "total": 2000.0
   },
   {
@@ -1095,7 +1107,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 21000.0
+   "total": 25000.0
   },
   {
    "type": "Cooperative PACs",
@@ -1107,7 +1119,7 @@
   }
  ],
  "outside_spending": {
-  "support_total": 359628.0,
+  "support_total": 359916.0,
   "oppose_total": 725830.0,
   "spenders": [
    {
@@ -1157,6 +1169,12 @@
     "name": "BUILDING TOGETHER",
     "support": 0.0,
     "oppose": 375.0
+   },
+   {
+    "committee_id": "C00541433",
+    "name": "HUNTER ACTION FUND (HAF)",
+    "support": 288.0,
+    "oppose": 0.0
    }
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."

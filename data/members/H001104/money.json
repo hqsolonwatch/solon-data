@@ -1498,12 +1498,6 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00739250",
-   "name": "ROOT, INC. POLITICAL ACTION COMMITTEE (ROOT PAC)",
-   "connected_org": null,
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00015933",
    "name": "PINNACLE WEST CAPITAL CORPORATION PAC",
    "connected_org": "PINNACLE WEST CAPITAL CORPORATION",
@@ -1729,6 +1723,12 @@
    "committee_id": "C00009639",
    "name": "TRUIST FINANCIAL CORPORATION FEDERAL, STATE & LOCAL POLITICAL ACTION COMMITTEE",
    "connected_org": "TRUIST FINANCIAL CORPORATION",
+   "total": 5000.0
+  },
+  {
+   "committee_id": "C00739250",
+   "name": "ROOT, INC. POLITICAL ACTION COMMITTEE (ROOT PAC)",
+   "connected_org": null,
    "total": 5000.0
   },
   {
@@ -3211,8 +3211,8 @@
   }
  ],
  "outside_spending": {
-  "support_total": 38021473.0,
-  "oppose_total": 32826416.0,
+  "support_total": 38027968.0,
+  "oppose_total": 35877569.0,
   "spenders": [
    {
     "committee_id": "C00865444",
@@ -3237,6 +3237,12 @@
     "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
     "support": 3632202.0,
     "oppose": 0.0
+   },
+   {
+    "committee_id": "C00740225",
+    "name": "NRDC ACTION VOTES",
+    "support": 0.0,
+    "oppose": 3050000.0
    },
    {
     "committee_id": "C00707844",
@@ -3331,8 +3337,8 @@
    {
     "committee_id": "C00930321",
     "name": "NEIGHBOR VOICES PAC",
-    "support": 0.0,
-    "oppose": 19877.0
+    "support": 6495.0,
+    "oppose": 21030.0
    },
    {
     "committee_id": "C00678839",
@@ -3357,12 +3363,6 @@
     "name": "CLUB FOR GROWTH PAC",
     "support": 5224.0,
     "oppose": 0.0
-   },
-   {
-    "committee_id": "C90011156",
-    "name": "WORKING AMERICA",
-    "support": 0.0,
-    "oppose": 5063.0
    }
   ],
   "note": "Independent expenditures: money outside groups such as super PACs spent on ads and other efforts to support or oppose this candidate, without coordinating with a campaign."

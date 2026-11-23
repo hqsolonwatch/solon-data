@@ -232,6 +232,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00545749",
+   "name": "EMMER FOR CONGRESS",
+   "connected_org": "EMMER VICTORY COMMITTEE",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00000901",
    "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
    "connected_org": "NATIONAL ASSOCIATION OF HOME BUILDERS",
@@ -375,7 +381,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 10000.0
+   "total": 12000.0
   },
   {
    "type": "Labor union PACs",
@@ -384,13 +390,19 @@
  ],
  "outside_spending": {
   "support_total": 154420.0,
-  "oppose_total": 922358.0,
+  "oppose_total": 1222358.0,
   "spenders": [
    {
     "committee_id": "C00540443",
     "name": "GIFFORDS PAC",
     "support": 0.0,
     "oppose": 828557.0
+   },
+   {
+    "committee_id": "C00740225",
+    "name": "NRDC ACTION VOTES",
+    "support": 0.0,
+    "oppose": 300000.0
    },
    {
     "committee_id": "C00888867",

@@ -1036,12 +1036,6 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00665786",
-   "name": "DEBT RELIEF PAC",
-   "connected_org": null,
-   "total": 5000.0
-  },
-  {
    "committee_id": "C00540740",
    "name": "FRAGRANCE CREATORS ASSOCIATION PAC (SCENT PAC)",
    "connected_org": "FRAGRANCE CREATORS ASSOCIATION",
@@ -1072,8 +1066,8 @@
    "total": 5000.0
   },
   {
-   "committee_id": "C00541177",
-   "name": "ZOETIS INC. PAC AKA ZOETIS PAC",
+   "committee_id": "C00665786",
+   "name": "DEBT RELIEF PAC",
    "connected_org": null,
    "total": 5000.0
   },
@@ -2287,7 +2281,7 @@
  "pac_by_type": [
   {
    "type": "Corporate PACs",
-   "total": 903999.0
+   "total": 898999.0
   },
   {
    "type": "Trade association PACs",

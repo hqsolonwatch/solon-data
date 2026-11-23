@@ -1114,6 +1114,12 @@
    "total": 4000.0
   },
   {
+   "committee_id": "C00495952",
+   "name": "SCHNEIDER FOR CONGRESS",
+   "connected_org": "BUILDING AND REVITALIZING AMERICAN DEMOCRACY FUND",
+   "total": 4000.0
+  },
+  {
    "committee_id": "C00576041",
    "name": "SALUD CARBAJAL FOR CONGRESS",
    "connected_org": "BOLD FRONTLINE DEMOCRATS",
@@ -1882,6 +1888,12 @@
    "total": 2000.0
   },
   {
+   "committee_id": "C00936559",
+   "name": "ALEX VINDMAN FOR FLORIDA",
+   "connected_org": "BLUE SENATE CANDIDATE FUND",
+   "total": 2000.0
+  },
+  {
    "committee_id": "C00361410",
    "name": "SOUTHERN CALIFORNIA FUND",
    "connected_org": "SHERMAN",
@@ -2353,12 +2365,6 @@
    "committee_id": "C00881698",
    "name": "REBUILD AMERICA PAC",
    "connected_org": null,
-   "total": 1000.0
-  },
-  {
-   "committee_id": "C00495952",
-   "name": "SCHNEIDER FOR CONGRESS",
-   "connected_org": "BUILDING AND REVITALIZING AMERICAN DEMOCRACY FUND",
    "total": 1000.0
   },
   {
@@ -2845,7 +2851,7 @@
   },
   {
    "type": "Other candidates’ campaigns",
-   "total": 66600.0
+   "total": 71600.0
   },
   {
    "type": "Cooperative PACs",
@@ -2857,7 +2863,7 @@
   }
  ],
  "outside_spending": {
-  "support_total": 174342.0,
+  "support_total": 181087.0,
   "oppose_total": 1734010.0,
   "spenders": [
    {
@@ -2894,6 +2900,18 @@
     "committee_id": "C00800995",
     "name": "DEMOCRATIC MESSAGING PROJECT",
     "support": 10150.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00612820",
+    "name": "COMMUNITY CHANGE VOTERS",
+    "support": 5886.0,
+    "oppose": 0.0
+   },
+   {
+    "committee_id": "C00930321",
+    "name": "NEIGHBOR VOICES PAC",
+    "support": 859.0,
     "oppose": 0.0
    },
    {
