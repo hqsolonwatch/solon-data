@@ -584,7 +584,7 @@ var ROLLCALLS = {
 };
 
 var SCHEDULE = {
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "house": null,
   "senate": [
     {

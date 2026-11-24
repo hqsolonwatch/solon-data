@@ -1461,7 +1461,7 @@
   {
    "id": "C00034728",
    "name": "TRUE COMPANIES RESPONSIBLE GOVERNMENT COMMITTEE",
-   "connected_org": "TRUE COMPANIES",
+   "connected_org": null,
    "org_type": "W",
    "type": "Q",
    "designation": "U"
@@ -6093,7 +6093,7 @@
   {
    "id": "C00174011",
    "name": "RETAIL, WHOLESALE & DEPARTMENT STORE UNION COMMITTEE ON POLITICAL EDUCATION (RWDSU COPE)",
-   "connected_org": "NONE",
+   "connected_org": "RETAIL, WHOLESALE & DEPARTMENT STORE UNION",
    "org_type": "L",
    "type": "Q",
    "designation": "U"
@@ -8549,10 +8549,10 @@
   {
    "id": "C00255216",
    "name": "MILLER & CHEVALIER CHARTERED POLITICAL ACTION COMMITTEE ('MILLER & CHEVALIER PAC')",
-   "connected_org": null,
+   "connected_org": "MILLER & CHEVALIER CHARTERED POLITICAL ACTION COMMITTEE ('MILLER & CHEVALIER PAC')",
    "org_type": "C",
    "type": "Q",
-   "designation": "U"
+   "designation": "B"
   },
   {
    "id": "C00255752",
@@ -24021,7 +24021,7 @@
   {
    "id": "C00542589",
    "name": "AMERICA'S FUTURE",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "O",
    "designation": "U"
@@ -34957,7 +34957,7 @@
   {
    "id": "C00719625",
    "name": "MARQUETTE PAC LLC",
-   "connected_org": null,
+   "connected_org": "ERICKSON LIVING FEDERAL PAC",
    "org_type": null,
    "type": "N",
    "designation": "U"
@@ -41293,7 +41293,7 @@
   {
    "id": "C00783217",
    "name": "BLUE TO RED PAC INC.",
-   "connected_org": null,
+   "connected_org": "NONE",
    "org_type": null,
    "type": "O",
    "designation": "U"
@@ -42971,12 +42971,68 @@
    "designation": "U"
   },
   {
+   "id": "C00800056",
+   "name": "MDCSPAC",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "O",
+   "designation": "U"
+  },
+  {
+   "id": "C00800057",
+   "name": "HELM PAC",
+   "connected_org": "LAUBACHER",
+   "org_type": null,
+   "type": "N",
+   "designation": "D"
+  },
+  {
+   "id": "C00800058",
+   "name": "RED BIRD PAC",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "V",
+   "designation": "U"
+  },
+  {
+   "id": "C00800059",
+   "name": "MISSISSIPPI MATTERS PAC",
+   "connected_org": "COLOM",
+   "org_type": null,
+   "type": "N",
+   "designation": "D"
+  },
+  {
    "id": "C00800060",
    "name": "POLARIS NATIONAL SECURITY PAC, INC.",
    "connected_org": "NONE",
    "org_type": null,
    "type": "W",
    "designation": "U"
+  },
+  {
+   "id": "C00800061",
+   "name": "SOUTHWEST CHI UNITED",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "N",
+   "designation": "U"
+  },
+  {
+   "id": "C00800062",
+   "name": "OHIO FIRST PATRIOTS",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "O",
+   "designation": "U"
+  },
+  {
+   "id": "C00800063",
+   "name": "THE OVER-UNDER FUND",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "N",
+   "designation": "J"
   },
   {
    "id": "C00800227",
@@ -72749,7 +72805,7 @@
   {
    "id": "C00927426",
    "name": "CFF",
-   "connected_org": "KIM VICTORY FUND",
+   "connected_org": null,
    "org_type": null,
    "type": "O",
    "designation": "U"
