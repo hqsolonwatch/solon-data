@@ -284,70 +284,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 14040576.04,
+   "itemized_total": 17397281.12,
    "home_state": "AZ",
-   "home_state_total": 2934764.6,
+   "home_state_total": 3574008.0,
    "home_state_share": 21,
    "top": [
     {
      "state": "AZ",
      "state_full": "Arizona",
-     "total": 2934764.6,
-     "count": 54564
+     "total": 3574008.0,
+     "count": 67944
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 2398986.78,
-     "count": 38700
+     "total": 2949993.31,
+     "count": 48951
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 745155.59,
-     "count": 9912
+     "total": 893554.66,
+     "count": 12690
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 719327.78,
-     "count": 11994
+     "total": 880828.22,
+     "count": 15205
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 606795.64,
-     "count": 8790
+     "total": 748690.86,
+     "count": 11539
     },
     {
      "state": "WA",
      "state_full": "Washington",
-     "total": 553744.56,
-     "count": 9521
+     "total": 697727.22,
+     "count": 12356
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 537536.6,
-     "count": 7270
+     "total": 654965.35,
+     "count": 9261
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 385424.51,
-     "count": 5728
+     "total": 481850.15,
+     "count": 7416
     },
     {
      "state": "CO",
      "state_full": "Colorado",
-     "total": 376460.53,
-     "count": 6195
+     "total": 466179.35,
+     "count": 8019
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 356311.11,
-     "count": 5823
+     "total": 463601.45,
+     "count": 7546
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -355,19 +355,24 @@
   "donor_employers": {
    "top": [
     {
-     "employer": "HERITAGE CAPITAL CORPORATION",
-     "total": 14000.0,
-     "count": 4
+     "employer": "REGLAGENE, INC.",
+     "total": 14500.0,
+     "count": 12
+    },
+    {
+     "employer": "UNIVERSITY OF ARIZONA",
+     "total": 14418.0,
+     "count": 358
     },
     {
      "employer": "MASS GENERAL HOSPITAL",
-     "total": 13750.0,
-     "count": 8
+     "total": 14250.0,
+     "count": 9
     },
     {
-     "employer": "REGLAGENE, INC.",
-     "total": 13500.0,
-     "count": 11
+     "employer": "HERITAGE CAPITAL CORPORATION",
+     "total": 14000.0,
+     "count": 4
     },
     {
      "employer": "THE WONDERFUL COMPANY",
@@ -375,19 +380,19 @@
      "count": 4
     },
     {
-     "employer": "UNIVERSITY OF ARIZONA",
-     "total": 12871.0,
-     "count": 294
+     "employer": "ARIZONA STATE UNIVERSITY",
+     "total": 12590.0,
+     "count": 262
     },
     {
      "employer": "GOOGLE",
-     "total": 11605.0,
-     "count": 68
+     "total": 11945.0,
+     "count": 74
     },
     {
      "employer": "FLAGSHIP PIONEERING",
-     "total": 10750.0,
-     "count": 9
+     "total": 11750.0,
+     "count": 10
     },
     {
      "employer": "FIELD HANDS PRODUCTIONS",
@@ -398,17 +403,12 @@
      "employer": "ICG",
      "total": 10500.0,
      "count": 3
-    },
-    {
-     "employer": "ARIZONA STATE UNIVERSITY",
-     "total": 10487.0,
-     "count": 201
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

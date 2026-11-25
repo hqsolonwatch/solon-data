@@ -370,70 +370,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 6181693.4,
+   "itemized_total": 7578514.19,
    "home_state": "AZ",
-   "home_state_total": 441761.19,
-   "home_state_share": 7,
+   "home_state_total": 599277.57,
+   "home_state_share": 8,
    "top": [
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 827566.83,
-     "count": 23811
+     "total": 1001916.43,
+     "count": 28807
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 736403.84,
-     "count": 19330
+     "total": 888926.26,
+     "count": 24051
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 689929.54,
-     "count": 18864
+     "total": 830579.6,
+     "count": 23291
     },
     {
      "state": "AZ",
      "state_full": "Arizona",
-     "total": 441761.19,
-     "count": 4978
+     "total": 599277.57,
+     "count": 6440
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 240209.67,
-     "count": 5772
+     "total": 260141.89,
+     "count": 6670
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 181508.13,
-     "count": 5053
+     "total": 223335.88,
+     "count": 6349
     },
     {
      "state": "GA",
      "state_full": "Georgia",
-     "total": 173857.27,
-     "count": 6403
+     "total": 211563.36,
+     "count": 8027
     },
     {
      "state": "OH",
      "state_full": "Ohio",
-     "total": 159816.96,
-     "count": 5461
+     "total": 194333.65,
+     "count": 6525
     },
     {
      "state": "PA",
      "state_full": "Pennsylvania",
-     "total": 152341.33,
-     "count": 4441
+     "total": 193968.59,
+     "count": 6072
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 145528.49,
-     "count": 5535
+     "total": 189891.42,
+     "count": 7192
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -446,13 +446,18 @@
      "count": 5
     },
     {
+     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
      "employer": "STARKEY HEARING TECHNOLOGIES",
      "total": 14000.0,
      "count": 4
     },
     {
-     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
-     "total": 14000.0,
+     "employer": "SAULSBURY INDUSTRIES INC.",
+     "total": 12500.0,
      "count": 4
     },
     {
@@ -461,40 +466,35 @@
      "count": 6
     },
     {
+     "employer": "HSL PROPERTIES",
+     "total": 12000.0,
+     "count": 3
+    },
+    {
      "employer": "JACKSON HOLE MOUNTAIN RESORT",
      "total": 10857.14,
      "count": 6
     },
     {
-     "employer": "DUCHOSSOIS CAPITAL MANAGEMENT",
-     "total": 8000.0,
-     "count": 8
-    },
-    {
-     "employer": "SELECT",
-     "total": 7733.25,
-     "count": 61
-    },
-    {
-     "employer": "JP MORGAN",
-     "total": 7427.5,
-     "count": 17
+     "employer": "RE/MAX OF ABILENE",
+     "total": 9460.0,
+     "count": 203
     },
     {
      "employer": "WALMART",
-     "total": 7182.1,
-     "count": 152
+     "total": 8058.26,
+     "count": 180
     },
     {
-     "employer": "VELOCITY BIOGROUP CORP.",
-     "total": 7128.48,
-     "count": 24
+     "employer": "DUCHOSSOIS CAPITAL MANAGEMENT",
+     "total": 8000.0,
+     "count": 8
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

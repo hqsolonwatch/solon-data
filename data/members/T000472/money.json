@@ -832,7 +832,7 @@
      "count": 4
     },
     {
-     "employer": "WELLS FARGO",
+     "employer": "WARNER BROTHERS",
      "total": 7000.0,
      "count": 2
     },
@@ -842,14 +842,14 @@
      "count": 2
     },
     {
-     "employer": "NEW PACIFIC REALTY CORP.",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
      "employer": "COLANTUONO, HIGHSMITH & WHATLEY, PC",
      "total": 7000.0,
      "count": 3
+    },
+    {
+     "employer": "WELLS FARGO",
+     "total": 7000.0,
+     "count": 2
     },
     {
      "employer": "VETERANS UNITED HOME LOANS",
@@ -857,7 +857,7 @@
      "count": 2
     },
     {
-     "employer": "WARNER BROTHERS",
+     "employer": "NEW PACIFIC REALTY CORP.",
      "total": 7000.0,
      "count": 2
     },
@@ -880,7 +880,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

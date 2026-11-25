@@ -534,7 +534,7 @@
   {
    "committee_id": "C00331686",
    "name": "FASPAC FAREWAY STORES INC PAC",
-   "connected_org": "NONE",
+   "connected_org": "FAREWAY STORES, INC.",
    "total": 5000.0
   },
   {
@@ -1560,76 +1560,81 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 7034839.93,
+   "itemized_total": 9809309.88,
    "home_state": "IA",
-   "home_state_total": 2605125.33,
-   "home_state_share": 37,
+   "home_state_total": 3296600.18,
+   "home_state_share": 34,
    "top": [
     {
      "state": "IA",
      "state_full": "Iowa",
-     "total": 2605125.33,
-     "count": 4476
+     "total": 3296600.18,
+     "count": 7102
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 658419.7,
-     "count": 6096
+     "total": 842454.72,
+     "count": 8786
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 575723.72,
-     "count": 8113
-    },
-    {
-     "state": "NY",
-     "state_full": "New York",
-     "total": 469800.02,
-     "count": 2260
-    },
-    {
-     "state": "VA",
-     "state_full": "Virginia",
-     "total": 367348.86,
-     "count": 2906
+     "total": 784232.33,
+     "count": 11002
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 360580.23,
-     "count": 9186
+     "total": 675793.38,
+     "count": 12369
     },
     {
-     "state": "DC",
-     "state_full": "District Of Columbia",
-     "total": 210008.29,
-     "count": 143
+     "state": "NY",
+     "state_full": "New York",
+     "total": 574455.16,
+     "count": 2837
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 433156.65,
+     "count": 4097
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 201575.9,
-     "count": 2147
+     "total": 347147.07,
+     "count": 3309
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 242802.76,
+     "count": 171
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 143736.43,
+     "count": 2016
     },
     {
      "state": "MI",
      "state_full": "Michigan",
-     "total": 100578.48,
-     "count": 1691
-    },
-    {
-     "state": "CO",
-     "state_full": "Colorado",
-     "total": 89501.32,
-     "count": 734
+     "total": 138933.59,
+     "count": 2180
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
   },
   "donor_employers": {
    "top": [
+    {
+     "employer": "ENTREPRENEUR",
+     "total": 33729.5,
+     "count": 66
+    },
     {
      "employer": "MARQUIS MANAGEMENT",
      "total": 33000.0,
@@ -1646,9 +1651,19 @@
      "count": 30
     },
     {
+     "employer": "HERZOG",
+     "total": 28000.0,
+     "count": 8
+    },
+    {
      "employer": "BLACKSTONE",
      "total": 26500.0,
      "count": 11
+    },
+    {
+     "employer": "COINBASE",
+     "total": 24500.0,
+     "count": 10
     },
     {
      "employer": "S-3 GROUP",
@@ -1656,35 +1671,20 @@
      "count": 12
     },
     {
-     "employer": "RDV CORPORATION",
-     "total": 21000.0,
-     "count": 9
-    },
-    {
-     "employer": "COINBASE",
-     "total": 21000.0,
-     "count": 9
-    },
-    {
-     "employer": "TODD STRATEGY GROUP",
-     "total": 20000.0,
-     "count": 12
-    },
-    {
      "employer": "CORNERSTONE GOVERNMENT AFFAIRS",
-     "total": 19677.47,
-     "count": 16
+     "total": 21427.47,
+     "count": 18
     },
     {
-     "employer": "ENTREPRENEUR",
-     "total": 18750.0,
-     "count": 27
+     "employer": "JANE STREET",
+     "total": 21000.0,
+     "count": 6
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

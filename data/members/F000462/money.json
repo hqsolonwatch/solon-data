@@ -1152,46 +1152,46 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1169364.93,
+   "itemized_total": 1289815.43,
    "home_state": "FL",
-   "home_state_total": 707061.83,
-   "home_state_share": 60,
+   "home_state_total": 784219.83,
+   "home_state_share": 61,
    "top": [
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 707061.83,
-     "count": 2520
-    },
-    {
-     "state": "NY",
-     "state_full": "New York",
-     "total": 94870.5,
-     "count": 456
+     "total": 784219.83,
+     "count": 3043
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 85248.5,
-     "count": 534
+     "total": 99683.0,
+     "count": 723
     },
     {
-     "state": "MA",
-     "state_full": "Massachusetts",
-     "total": 59787.0,
-     "count": 131
+     "state": "NY",
+     "state_full": "New York",
+     "total": 97488.5,
+     "count": 511
     },
     {
      "state": "NJ",
      "state_full": "New Jersey",
-     "total": 57180.0,
-     "count": 91
+     "total": 64911.0,
+     "count": 186
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 60792.0,
+     "count": 158
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 45577.6,
-     "count": 269
+     "total": 47359.1,
+     "count": 322
     },
     {
      "state": "AL",
@@ -1202,20 +1202,20 @@
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 17550.0,
-     "count": 20
+     "total": 19550.0,
+     "count": 23
     },
     {
      "state": "GA",
      "state_full": "Georgia",
-     "total": 10720.0,
-     "count": 72
+     "total": 11149.0,
+     "count": 89
     },
     {
-     "state": "PA",
-     "state_full": "Pennsylvania",
-     "total": 9168.5,
-     "count": 186
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 9949.0,
+     "count": 108
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1238,6 +1238,11 @@
      "count": 4
     },
     {
+     "employer": "FLORIDA CRYSTALS",
+     "total": 14000.0,
+     "count": 3
+    },
+    {
      "employer": "TRIPLE C RANCH",
      "total": 10000.0,
      "count": 3
@@ -1248,35 +1253,30 @@
      "count": 4
     },
     {
+     "employer": "RUTGERS LAW SCHOOL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
      "employer": "MACK CONSTRUCTION",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "RST DEVELOPMENT LLC",
+     "employer": "PIVOTAL VENTURES",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "GREYLOCK PARTNERS",
+     "employer": "TATE DEVELOPMENT CORP.",
      "total": 7000.0,
      "count": 2
-    },
-    {
-     "employer": "SOUTHERN GLAZERS WINE & SPIRITS",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "SOUTHOCEAN CAPITAL PARTNERS",
-     "total": 7000.0,
-     "count": 5
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

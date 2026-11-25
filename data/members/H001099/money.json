@@ -1596,16 +1596,16 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1094838.3,
+   "itemized_total": 1149493.28,
    "home_state": "FL",
-   "home_state_total": 790227.76,
-   "home_state_share": 72,
+   "home_state_total": 838254.62,
+   "home_state_share": 73,
    "top": [
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 790227.76,
-     "count": 549
+     "total": 838254.62,
+     "count": 609
     },
     {
      "state": "NY",
@@ -1616,8 +1616,8 @@
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 38255.09,
-     "count": 41
+     "total": 38755.09,
+     "count": 42
     },
     {
      "state": "DC",
@@ -1635,7 +1635,7 @@
      "state": "TX",
      "state_full": "Texas",
      "total": 17400.51,
-     "count": 49
+     "count": 57
     },
     {
      "state": "NJ",
@@ -1656,10 +1656,10 @@
      "count": 7
     },
     {
-     "state": "MD",
-     "state_full": "Maryland",
-     "total": 9530.75,
-     "count": 13
+     "state": "CA",
+     "state_full": "California",
+     "total": 9549.72,
+     "count": 18
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1720,7 +1720,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

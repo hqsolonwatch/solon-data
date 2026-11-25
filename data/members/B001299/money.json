@@ -1197,70 +1197,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1393847.18,
+   "itemized_total": 1589865.3,
    "home_state": "IN",
-   "home_state_total": 326513.15,
-   "home_state_share": 23,
+   "home_state_total": 379255.85,
+   "home_state_share": 24,
    "top": [
     {
      "state": "IN",
      "state_full": "Indiana",
-     "total": 326513.15,
-     "count": 592
+     "total": 379255.85,
+     "count": 803
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 184364.45,
-     "count": 403
+     "total": 187760.12,
+     "count": 538
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 132023.15,
-     "count": 977
+     "total": 149426.07,
+     "count": 1409
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 115171.38,
-     "count": 1027
+     "total": 127373.16,
+     "count": 1446
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 76602.1,
-     "count": 1533
+     "total": 92698.6,
+     "count": 2192
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 74808.86,
-     "count": 319
+     "total": 86786.11,
+     "count": 429
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 57933.32,
-     "count": 45
+     "total": 63118.92,
+     "count": 56
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 35639.3,
-     "count": 338
-    },
-    {
-     "state": "MD",
-     "state_full": "Maryland",
-     "total": 32772.59,
-     "count": 65
+     "total": 42049.31,
+     "count": 445
     },
     {
      "state": "AZ",
      "state_full": "Arizona",
-     "total": 32338.08,
-     "count": 303
+     "total": 37313.78,
+     "count": 445
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 36952.76,
+     "count": 94
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1293,14 +1293,14 @@
      "count": 4
     },
     {
-     "employer": "AMERICAN GLOBAL STRATEGIES",
-     "total": 9000.0,
-     "count": 6
-    },
-    {
      "employer": "PORTER INC.",
      "total": 9000.0,
      "count": 3
+    },
+    {
+     "employer": "AMERICAN GLOBAL STRATEGIES",
+     "total": 9000.0,
+     "count": 6
     },
     {
      "employer": "ROBINHOOD",
@@ -1313,7 +1313,7 @@
      "count": 4
     },
     {
-     "employer": "CGCN GROUP",
+     "employer": "ROBINHOOD MARKETS INC",
      "total": 7000.0,
      "count": 2
     }
@@ -1321,7 +1321,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

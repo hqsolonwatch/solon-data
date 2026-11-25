@@ -1038,34 +1038,40 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 2288994.53,
+   "itemized_total": 2544985.07,
    "home_state": "FL",
-   "home_state_total": 1381004.94,
-   "home_state_share": 60,
+   "home_state_total": 1550338.15,
+   "home_state_share": 61,
    "top": [
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 1381004.94,
-     "count": 1520
+     "total": 1550338.15,
+     "count": 1703
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 287292.95,
-     "count": 176
+     "total": 325117.23,
+     "count": 201
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 73837.08,
-     "count": 238
+     "total": 86990.31,
+     "count": 275
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 53773.03,
-     "count": 181
+     "total": 65569.36,
+     "count": 245
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 46894.72,
+     "count": 80
     },
     {
      "state": "KS",
@@ -1076,32 +1082,26 @@
     {
      "state": "NJ",
      "state_full": "New Jersey",
-     "total": 42702.54,
-     "count": 65
-    },
-    {
-     "state": "VA",
-     "state_full": "Virginia",
-     "total": 42363.48,
-     "count": 75
+     "total": 42956.64,
+     "count": 69
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 37264.85,
-     "count": 54
+     "total": 38330.87,
+     "count": 56
     },
     {
      "state": "PA",
      "state_full": "Pennsylvania",
-     "total": 31396.44,
-     "count": 31
+     "total": 32474.53,
+     "count": 35
     },
     {
      "state": "AZ",
      "state_full": "Arizona",
-     "total": 27602.76,
-     "count": 101
+     "total": 29364.29,
+     "count": 110
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1114,6 +1114,11 @@
      "count": 14
     },
     {
+     "employer": "NEXTGEN MANAGEMENT LLC",
+     "total": 20200.0,
+     "count": 8
+    },
+    {
      "employer": "RONPAK",
      "total": 17500.0,
      "count": 5
@@ -1124,14 +1129,14 @@
      "count": 10
     },
     {
+     "employer": "ACCESS INDUSTRIES",
+     "total": 14000.0,
+     "count": 3
+    },
+    {
      "employer": "CORCORAN PARTNERS",
      "total": 13200.0,
      "count": 7
-    },
-    {
-     "employer": "NEXTGEN MANAGEMENT LLC",
-     "total": 13200.0,
-     "count": 6
     },
     {
      "employer": "ONE STEP UP",
@@ -1152,17 +1157,12 @@
      "employer": "REAGAN WIRELESS",
      "total": 11000.0,
      "count": 5
-    },
-    {
-     "employer": "CORPAC GROUP",
-     "total": 10498.0,
-     "count": 3
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

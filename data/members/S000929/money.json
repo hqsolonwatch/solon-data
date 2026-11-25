@@ -322,70 +322,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 754292.71,
+   "itemized_total": 947221.5,
    "home_state": "IN",
-   "home_state_total": 366821.1,
-   "home_state_share": 49,
+   "home_state_total": 421736.1,
+   "home_state_share": 45,
    "top": [
     {
      "state": "IN",
      "state_full": "Indiana",
-     "total": 366821.1,
-     "count": 516
+     "total": 421736.1,
+     "count": 635
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 84717.0,
-     "count": 90
+     "total": 100077.0,
+     "count": 109
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 64895.0,
-     "count": 171
+     "total": 97837.0,
+     "count": 208
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 30068.0,
-     "count": 181
-    },
-    {
-     "state": "CT",
-     "state_full": "Connecticut",
-     "total": 20480.0,
-     "count": 23
-    },
-    {
-     "state": "PA",
-     "state_full": "Pennsylvania",
-     "total": 20380.0,
-     "count": 101
+     "total": 36543.0,
+     "count": 210
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 15230.0,
-     "count": 56
+     "total": 33846.0,
+     "count": 80
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 22555.0,
+     "count": 123
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 21300.0,
+     "count": 3
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 20730.0,
+     "count": 24
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 14257.0,
-     "count": 101
+     "total": 16152.0,
+     "count": 119
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 12805.0,
-     "count": 46
-    },
-    {
-     "state": "MI",
-     "state_full": "Michigan",
-     "total": 7862.0,
-     "count": 47
+     "total": 13465.0,
+     "count": 51
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -394,8 +394,8 @@
    "top": [
     {
      "employer": "INDIANA SPINE GROUP",
-     "total": 39500.0,
-     "count": 24
+     "total": 47500.0,
+     "count": 26
     },
     {
      "employer": "PRIME STONE GROUP, LLC",
@@ -403,24 +403,24 @@
      "count": 4
     },
     {
+     "employer": "THE MEGA COMPANY",
+     "total": 8500.0,
+     "count": 1
+    },
+    {
      "employer": "SURGE DEVELOPMENT",
      "total": 8000.0,
      "count": 3
     },
     {
-     "employer": "FAST FOOD SYSTEMS, INC.",
-     "total": 7000.0,
-     "count": 2
+     "employer": "MPOWERHEALTH",
+     "total": 7500.0,
+     "count": 1
     },
     {
-     "employer": "OGRE HOLDINGS",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "STRUCTURAL STEEL FABRICATION",
-     "total": 7000.0,
-     "count": 2
+     "employer": "BOOTH DERMATOLOGY",
+     "total": 7500.0,
+     "count": 3
     },
     {
      "employer": "BOWEN ENGINEERING",
@@ -428,17 +428,17 @@
      "count": 6
     },
     {
-     "employer": "CORNERSTONE  INDUSTRIES CORP",
+     "employer": "DAWES FRETZIN DERMATOLOGY",
      "total": 7000.0,
-     "count": 3
+     "count": 1
     },
     {
-     "employer": "NCNV LLC",
+     "employer": "GOODMAN CAMPBELL BRAIN AND SPINE / NOR",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "DILLON GAGE",
+     "employer": "FAST FOOD SYSTEMS, INC.",
      "total": 7000.0,
      "count": 2
     }
@@ -446,7 +446,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

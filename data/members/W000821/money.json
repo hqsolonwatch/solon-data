@@ -1835,28 +1835,34 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1405249.37,
+   "itemized_total": 1577656.37,
    "home_state": "AR",
-   "home_state_total": 392645.0,
-   "home_state_share": 28,
+   "home_state_total": 417995.0,
+   "home_state_share": 26,
    "top": [
     {
      "state": "AR",
      "state_full": "Arkansas",
-     "total": 392645.0,
-     "count": 397
+     "total": 417995.0,
+     "count": 428
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 351635.09,
-     "count": 162
+     "total": 373885.09,
+     "count": 174
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 106124.99,
-     "count": 38
+     "total": 117374.99,
+     "count": 44
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 71303.0,
+     "count": 39
     },
     {
      "state": "OK",
@@ -1865,40 +1871,34 @@
      "count": 34
     },
     {
-     "state": "FL",
-     "state_full": "Florida",
-     "total": 64803.0,
-     "count": 33
-    },
-    {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 54300.0,
-     "count": 53
+     "total": 62300.0,
+     "count": 64
     },
     {
      "state": "OR",
      "state_full": "Oregon",
-     "total": 47050.0,
-     "count": 19
+     "total": 53800.0,
+     "count": 23
+    },
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 52000.0,
+     "count": 26
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 41500.0,
-     "count": 14
+     "total": 48500.0,
+     "count": 16
     },
     {
      "state": "WA",
      "state_full": "Washington",
-     "total": 38900.0,
-     "count": 13
-    },
-    {
-     "state": "VA",
-     "state_full": "Virginia",
-     "total": 34750.0,
-     "count": 40
+     "total": 42400.0,
+     "count": 16
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1959,7 +1959,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -875,76 +875,81 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 386186.8,
+   "itemized_total": 488668.77,
    "home_state": "DE",
-   "home_state_total": 76478.96,
-   "home_state_share": 20,
+   "home_state_total": 87706.93,
+   "home_state_share": 18,
    "top": [
     {
      "state": "DE",
      "state_full": "Delaware",
-     "total": 76478.96,
-     "count": 1095
+     "total": 87706.93,
+     "count": 1400
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 75075.0,
-     "count": 114
+     "total": 86560.0,
+     "count": 147
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 43105.84,
-     "count": 373
+     "total": 78409.84,
+     "count": 512
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 24560.0,
-     "count": 25
+     "total": 33135.0,
+     "count": 36
     },
     {
      "state": "GA",
      "state_full": "Georgia",
-     "total": 21050.0,
-     "count": 12
+     "total": 21300.0,
+     "count": 13
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 16025.0,
-     "count": 57
+     "total": 18301.0,
+     "count": 78
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 15734.5,
+     "count": 100
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 13480.0,
-     "count": 29
-    },
-    {
-     "state": "MI",
-     "state_full": "Michigan",
-     "total": 9985.0,
-     "count": 25
-    },
-    {
-     "state": "TN",
-     "state_full": "Tennessee",
-     "total": 9500.0,
-     "count": 5
+     "total": 14604.0,
+     "count": 37
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 9400.0,
-     "count": 67
+     "total": 13545.0,
+     "count": 77
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 12550.0,
+     "count": 33
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
   },
   "donor_employers": {
    "top": [
+    {
+     "employer": "ANTHROPIC, PBC",
+     "total": 35000.0,
+     "count": 10
+    },
     {
      "employer": "APOLLO GLOBAL MANAGEMENT, INC.",
      "total": 13000.0,
@@ -956,13 +961,18 @@
      "count": 2
     },
     {
+     "employer": "LINKEDIN CORPORATION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
      "employer": "OCEAN ATLANTIC COMPANIES",
      "total": 7000.0,
      "count": 3
     },
     {
-     "employer": "LINKEDIN CORPORATION",
-     "total": 7000.0,
+     "employer": "COREWEAVE",
+     "total": 6600.0,
      "count": 2
     },
     {
@@ -984,22 +994,12 @@
      "employer": "MOONLIGHT PROPERTIES",
      "total": 5000.0,
      "count": 2
-    },
-    {
-     "employer": "ROCKET COMPANIES LLC",
-     "total": 5000.0,
-     "count": 4
-    },
-    {
-     "employer": "FRANKLIN TEMPLETON",
-     "total": 5000.0,
-     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

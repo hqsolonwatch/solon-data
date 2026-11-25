@@ -1680,52 +1680,58 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 510385.75,
+   "itemized_total": 609875.88,
    "home_state": "CA",
-   "home_state_total": 407555.75,
-   "home_state_share": 80,
+   "home_state_total": 463373.88,
+   "home_state_share": 76,
    "top": [
     {
      "state": "CA",
      "state_full": "California",
-     "total": 407555.75,
-     "count": 323
+     "total": 463373.88,
+     "count": 384
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 24500.0,
-     "count": 12
+     "total": 43000.0,
+     "count": 18
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 21820.0,
-     "count": 29
+     "total": 25492.0,
+     "count": 36
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 11000.0,
-     "count": 6
+     "total": 18250.0,
+     "count": 14
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 7750.0,
-     "count": 11
-    },
-    {
-     "state": "VA",
-     "state_full": "Virginia",
-     "total": 6000.0,
-     "count": 10
+     "total": 8000.0,
+     "count": 12
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 4000.0,
-     "count": 4
+     "total": 7500.0,
+     "count": 5
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 6950.0,
+     "count": 13
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 6250.0,
+     "count": 5
     },
     {
      "state": "NJ",
@@ -1738,12 +1744,6 @@
      "state_full": "North Carolina",
      "total": 3650.0,
      "count": 3
-    },
-    {
-     "state": "PR",
-     "state_full": "Puerto Rico",
-     "total": 3500.0,
-     "count": 1
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1761,9 +1761,9 @@
      "count": 3
     },
     {
-     "employer": "THE PENSTARGROUP",
-     "total": 7000.0,
-     "count": 2
+     "employer": "SAN JOAQUIN VALLEY COLLEGE",
+     "total": 8500.0,
+     "count": 5
     },
     {
      "employer": "KALSHI",
@@ -1771,7 +1771,22 @@
      "count": 2
     },
     {
-     "employer": "HACKMAN CAPITAL PARTNERS",
+     "employer": "THE PENSTARGROUP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "KTBS LAW LLP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ROLL GLOBAL, LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "JOSEPH GALLO FARMS",
      "total": 7000.0,
      "count": 2
     },
@@ -1784,27 +1799,12 @@
      "employer": "KASHIAN ENTERPRISES",
      "total": 7000.0,
      "count": 2
-    },
-    {
-     "employer": "JOSEPH GALLO FARMS",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "FORHAN COMPANY",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "ROLL GLOBAL, LLC",
-     "total": 7000.0,
-     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

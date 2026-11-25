@@ -558,7 +558,7 @@
   {
    "committee_id": "C00366070",
    "name": "FAA MANAGERS ASSOCIATION INC. PAC",
-   "connected_org": null,
+   "connected_org": "FAA MANAGERS ASSOCIATION",
    "total": 2000.0
   },
   {
@@ -1324,70 +1324,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 2392188.95,
+   "itemized_total": 2707051.01,
    "home_state": "CA",
-   "home_state_total": 1630609.17,
-   "home_state_share": 68,
+   "home_state_total": 1888996.69,
+   "home_state_share": 70,
    "top": [
     {
      "state": "CA",
      "state_full": "California",
-     "total": 1630609.17,
-     "count": 4631
+     "total": 1888996.69,
+     "count": 5820
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 195760.76,
-     "count": 176
+     "total": 204410.76,
+     "count": 188
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 100513.19,
-     "count": 145
+     "total": 104204.05,
+     "count": 154
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 72730.14,
-     "count": 146
+     "total": 80450.14,
+     "count": 164
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 51142.92,
-     "count": 75
-    },
-    {
-     "state": "FL",
-     "state_full": "Florida",
-     "total": 37498.07,
-     "count": 31
+     "total": 54397.92,
+     "count": 84
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 37141.68,
-     "count": 28
+     "total": 43738.95,
+     "count": 45
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 40498.07,
+     "count": 34
     },
     {
      "state": "WA",
      "state_full": "Washington",
-     "total": 37056.03,
-     "count": 66
+     "total": 39591.03,
+     "count": 80
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 28500.0,
-     "count": 41
+     "total": 33761.56,
+     "count": 76
     },
     {
      "state": "NJ",
      "state_full": "New Jersey",
-     "total": 28386.23,
-     "count": 28
+     "total": 29488.23,
+     "count": 33
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1396,8 +1396,8 @@
    "top": [
     {
      "employer": "UNIVERSITY OF CALIFORNIA IRVINE",
-     "total": 21355.0,
-     "count": 93
+     "total": 27620.0,
+     "count": 122
     },
     {
      "employer": "SINGLETON SCHREIBER LLP",
@@ -1430,25 +1430,25 @@
      "count": 7
     },
     {
+     "employer": "TGS MANAGEMENT COMPANY",
+     "total": 8666.66,
+     "count": 4
+    },
+    {
      "employer": "NIDUS BIOMEDICAL",
      "total": 8000.0,
      "count": 3
     },
     {
-     "employer": "GOOGLE",
-     "total": 7500.0,
-     "count": 3
-    },
-    {
      "employer": "UNIVERSITY OF CALIFORNIA",
-     "total": 7301.0,
-     "count": 16
+     "total": 7816.0,
+     "count": 26
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

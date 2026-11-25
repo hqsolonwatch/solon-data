@@ -1402,70 +1402,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 5771632.47,
+   "itemized_total": 6525979.09,
    "home_state": "CO",
-   "home_state_total": 1820559.12,
-   "home_state_share": 32,
+   "home_state_total": 2157608.13,
+   "home_state_share": 33,
    "top": [
     {
      "state": "CO",
      "state_full": "Colorado",
-     "total": 1820559.12,
-     "count": 10532
-    },
-    {
-     "state": "NY",
-     "state_full": "New York",
-     "total": 679252.99,
-     "count": 868
+     "total": 2157608.13,
+     "count": 13664
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 673514.75,
-     "count": 1587
+     "total": 749402.17,
+     "count": 2197
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 726630.25,
+     "count": 1076
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 329871.4,
-     "count": 682
+     "total": 362528.9,
+     "count": 926
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 269626.43,
-     "count": 337
+     "total": 287333.77,
+     "count": 474
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 257842.52,
-     "count": 401
+     "total": 274557.94,
+     "count": 508
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 207554.5,
-     "count": 485
+     "total": 226833.5,
+     "count": 719
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 154165.44,
-     "count": 183
+     "total": 184417.46,
+     "count": 245
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 146323.0,
-     "count": 217
+     "total": 161686.0,
+     "count": 269
     },
     {
-     "state": "PA",
-     "state_full": "Pennsylvania",
-     "total": 135432.44,
-     "count": 332
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 150453.03,
+     "count": 340
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1476,6 +1476,11 @@
      "employer": "CHARTER COMMUNICATIONS",
      "total": 47850.0,
      "count": 22
+    },
+    {
+     "employer": "ANTHROPIC",
+     "total": 32000.0,
+     "count": 10
     },
     {
      "employer": "NEXTERA ENERGY",
@@ -1516,17 +1521,12 @@
      "employer": "U.S. SENATE",
      "total": 14500.0,
      "count": 5
-    },
-    {
-     "employer": "ARIEL INVESTMENTS",
-     "total": 14000.0,
-     "count": 4
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

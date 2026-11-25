@@ -1829,70 +1829,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 982856.76,
+   "itemized_total": 1151087.53,
    "home_state": "GA",
-   "home_state_total": 242707.03,
-   "home_state_share": 25,
+   "home_state_total": 304881.65,
+   "home_state_share": 26,
    "top": [
     {
      "state": "GA",
      "state_full": "Georgia",
-     "total": 242707.03,
-     "count": 599
+     "total": 304881.65,
+     "count": 764
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 101173.16,
-     "count": 195
+     "total": 110098.59,
+     "count": 286
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 100038.43,
-     "count": 442
+     "total": 103872.46,
+     "count": 465
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 90814.5,
-     "count": 149
-    },
-    {
-     "state": "IL",
-     "state_full": "Illinois",
-     "total": 76365.02,
-     "count": 188
-    },
-    {
-     "state": "FL",
-     "state_full": "Florida",
-     "total": 62786.36,
-     "count": 451
-    },
-    {
-     "state": "DC",
-     "state_full": "District Of Columbia",
-     "total": 42842.28,
-     "count": 59
+     "total": 92321.55,
+     "count": 162
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 40654.06,
-     "count": 582
+     "total": 77909.46,
+     "count": 811
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 76571.47,
+     "count": 206
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 65295.47,
+     "count": 559
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 51342.28,
+     "count": 68
     },
     {
      "state": "NJ",
      "state_full": "New Jersey",
-     "total": 40468.3,
-     "count": 122
+     "total": 40810.97,
+     "count": 130
     },
     {
      "state": "AL",
      "state_full": "Alabama",
-     "total": 23352.02,
-     "count": 146
+     "total": 26947.02,
+     "count": 151
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1910,24 +1910,29 @@
      "count": 12
     },
     {
+     "employer": "SKINCARE ONCOLOGY",
+     "total": 24500.0,
+     "count": 7
+    },
+    {
+     "employer": "SMI",
+     "total": 24500.0,
+     "count": 7
+    },
+    {
      "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
      "total": 24000.0,
      "count": 10
     },
     {
-     "employer": "SKINCARE ONCOLOGY",
-     "total": 21000.0,
-     "count": 6
+     "employer": "STATION CASINOS",
+     "total": 14000.0,
+     "count": 4
     },
     {
      "employer": "STRATEGY",
      "total": 14000.0,
      "count": 4
-    },
-    {
-     "employer": "SMI",
-     "total": 10500.0,
-     "count": 3
     },
     {
      "employer": "VEGA ENERGY HOLDINGS",
@@ -1943,17 +1948,12 @@
      "employer": "MILLER STRATEGIES, LLC",
      "total": 8000.0,
      "count": 7
-    },
-    {
-     "employer": "STATE OF WYOMING",
-     "total": 7000.0,
-     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

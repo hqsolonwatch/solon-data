@@ -2021,46 +2021,46 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1513317.9,
+   "itemized_total": 1749156.16,
    "home_state": "CO",
-   "home_state_total": 845772.32,
-   "home_state_share": 56,
+   "home_state_total": 1023107.77,
+   "home_state_share": 58,
    "top": [
     {
      "state": "CO",
      "state_full": "Colorado",
-     "total": 845772.32,
-     "count": 2992
+     "total": 1023107.77,
+     "count": 4167
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 153750.0,
-     "count": 72
+     "total": 164750.0,
+     "count": 76
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 133362.0,
-     "count": 75
+     "total": 145137.0,
+     "count": 82
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 65303.58,
-     "count": 70
+     "total": 68966.08,
+     "count": 81
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 52700.0,
-     "count": 52
+     "total": 62700.0,
+     "count": 64
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 35510.0,
-     "count": 35
+     "total": 37975.0,
+     "count": 38
     },
     {
      "state": "CT",
@@ -2069,16 +2069,16 @@
      "count": 10
     },
     {
-     "state": "MA",
-     "state_full": "Massachusetts",
-     "total": 26750.0,
-     "count": 12
-    },
-    {
      "state": "TX",
      "state_full": "Texas",
-     "total": 24625.0,
-     "count": 14
+     "total": 27754.31,
+     "count": 20
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 27050.0,
+     "count": 15
     },
     {
      "state": "IL",
@@ -2093,8 +2093,8 @@
    "top": [
     {
      "employer": "HOLLAND & HART LLP",
-     "total": 21450.0,
-     "count": 23
+     "total": 21700.0,
+     "count": 24
     },
     {
      "employer": "BROWNSTEIN HYATT FARBER SCHRECK",
@@ -2112,40 +2112,40 @@
      "count": 5
     },
     {
+     "employer": "DEVIL'S THUMB RANCH",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "UNIVERSITY OF COLORADO",
+     "total": 13435.0,
+     "count": 21
+    },
+    {
      "employer": "FOUNDRY GROUP",
      "total": 12500.0,
      "count": 6
     },
     {
-     "employer": "UNIVERSITY OF COLORADO",
-     "total": 12240.0,
-     "count": 14
+     "employer": "KKR",
+     "total": 10000.0,
+     "count": 3
     },
     {
-     "employer": "GARNETT POWELL MAXIMON BARLOW & FARBES",
-     "total": 8346.16,
-     "count": 11
-    },
-    {
-     "employer": "DAVITA",
-     "total": 8250.0,
+     "employer": "ELEVATIONS CREDIT UNION",
+     "total": 9250.0,
      "count": 5
     },
     {
-     "employer": "UC HEALTH",
-     "total": 7575.0,
-     "count": 6
-    },
-    {
-     "employer": "IRELAND STAPLETON",
-     "total": 7500.0,
-     "count": 5
+     "employer": "INVARIANT",
+     "total": 9035.72,
+     "count": 10
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

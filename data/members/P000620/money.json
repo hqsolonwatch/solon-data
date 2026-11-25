@@ -1933,70 +1933,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 656865.2,
+   "itemized_total": 773012.39,
    "home_state": "CO",
-   "home_state_total": 328818.02,
-   "home_state_share": 50,
+   "home_state_total": 393152.78,
+   "home_state_share": 51,
    "top": [
     {
      "state": "CO",
      "state_full": "Colorado",
-     "total": 328818.02,
-     "count": 2481
+     "total": 393152.78,
+     "count": 3316
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 82750.0,
-     "count": 37
+     "total": 104200.0,
+     "count": 56
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 50205.0,
-     "count": 60
+     "total": 51350.0,
+     "count": 69
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 29535.0,
-     "count": 44
+     "total": 33285.0,
+     "count": 51
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 29100.0,
-     "count": 23
+     "total": 29240.0,
+     "count": 29
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 20725.0,
-     "count": 50
+     "total": 20774.0,
+     "count": 56
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 16500.0,
-     "count": 18
-    },
-    {
-     "state": "VA",
-     "state_full": "Virginia",
-     "total": 8331.35,
-     "count": 16
+     "total": 16675.0,
+     "count": 22
     },
     {
      "state": "WA",
      "state_full": "Washington",
-     "total": 8000.0,
-     "count": 4
+     "total": 13500.0,
+     "count": 7
     },
     {
-     "state": "IL",
-     "state_full": "Illinois",
-     "total": 6425.0,
-     "count": 10
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 10984.35,
+     "count": 23
+    },
+    {
+     "state": "NM",
+     "state_full": "New Mexico",
+     "total": 8200.0,
+     "count": 19
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -2009,7 +2009,12 @@
      "count": 4
     },
     {
-     "employer": "ARNOLD VENTURES",
+     "employer": "BLACKROCK",
+     "total": 8500.0,
+     "count": 3
+    },
+    {
+     "employer": "CAPITAL FUNDING GROUP",
      "total": 7000.0,
      "count": 2
     },
@@ -2019,12 +2024,17 @@
      "count": 2
     },
     {
-     "employer": "CAPITAL FUNDING GROUP",
+     "employer": "SEAN N PARKER FOUNDATION",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "FOUNDRY GROUP",
+     "employer": "SESSA CAPITAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "HONOR NYC",
      "total": 7000.0,
      "count": 2
     },
@@ -2034,7 +2044,7 @@
      "count": 2
     },
     {
-     "employer": "SEAN N PARKER FOUNDATION",
+     "employer": "AQUILINE HOLDINGS",
      "total": 7000.0,
      "count": 2
     },
@@ -2042,22 +2052,12 @@
      "employer": "PIVOTAL VENTURES",
      "total": 7000.0,
      "count": 2
-    },
-    {
-     "employer": "INTRAFI",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "BLACKSTONE",
-     "total": 7000.0,
-     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -852,70 +852,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 2848464.3,
+   "itemized_total": 3182922.21,
    "home_state": "FL",
-   "home_state_total": 1200445.36,
+   "home_state_total": 1322756.33,
    "home_state_share": 42,
    "top": [
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 1200445.36,
-     "count": 2674
+     "total": 1322756.33,
+     "count": 3195
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 330963.0,
-     "count": 959
+     "total": 358289.25,
+     "count": 1193
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 232112.44,
-     "count": 379
+     "total": 253211.92,
+     "count": 454
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 113498.5,
-     "count": 630
+     "total": 132791.15,
+     "count": 806
     },
     {
      "state": "NJ",
      "state_full": "New Jersey",
-     "total": 102359.8,
-     "count": 341
+     "total": 113445.8,
+     "count": 413
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 96030.66,
-     "count": 371
+     "total": 108247.42,
+     "count": 485
     },
     {
      "state": "PA",
      "state_full": "Pennsylvania",
-     "total": 58271.5,
-     "count": 379
+     "total": 66796.5,
+     "count": 481
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 57442.26,
-     "count": 346
-    },
-    {
-     "state": "CT",
-     "state_full": "Connecticut",
-     "total": 54101.23,
-     "count": 73
+     "total": 65894.39,
+     "count": 441
     },
     {
      "state": "MI",
      "state_full": "Michigan",
-     "total": 52191.44,
-     "count": 251
+     "total": 58321.44,
+     "count": 312
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 56416.23,
+     "count": 90
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -943,40 +943,40 @@
      "count": 3
     },
     {
-     "employer": "MACHINE LEARNING RESEARCHER",
+     "employer": "PIEROGI ONE",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "DISASTER MANAGEMENT GROUP",
+     "employer": "KEISER UNIVERSITY",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "DUTY FREE AMERICA",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "SILGAN HOLDINGS",
+     "employer": "BLUEWATER INTERNATIONAL",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "THE SPRINGS RESORT & SPA",
+     "employer": "ANROK",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "ONE ONCOLOGY",
+     "employer": "RIVERBEND INDUSTRIES",
      "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "HASLAM SPORTS GROUP",
-     "total": 7000.0,
-     "count": 2
+     "count": 3
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

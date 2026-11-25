@@ -3004,70 +3004,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 3437498.06,
+   "itemized_total": 4259366.67,
    "home_state": "CO",
-   "home_state_total": 883629.3,
-   "home_state_share": 26,
+   "home_state_total": 1195408.8,
+   "home_state_share": 28,
    "top": [
     {
      "state": "CO",
      "state_full": "Colorado",
-     "total": 883629.3,
-     "count": 1459
+     "total": 1195408.8,
+     "count": 2353
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 697563.35,
-     "count": 778
+     "total": 760812.64,
+     "count": 1387
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 449535.87,
-     "count": 706
+     "total": 497227.65,
+     "count": 1250
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 217885.95,
-     "count": 499
+     "total": 278979.13,
+     "count": 943
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 171849.69,
-     "count": 168
-    },
-    {
-     "state": "LA",
-     "state_full": "Louisiana",
-     "total": 104493.52,
-     "count": 107
+     "total": 200898.86,
+     "count": 247
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 85803.58,
-     "count": 314
+     "total": 112755.65,
+     "count": 578
+    },
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 109154.18,
+     "count": 159
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 70342.66,
-     "count": 214
+     "total": 85983.0,
+     "count": 358
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 70287.93,
+     "count": 162
     },
     {
      "state": "MN",
      "state_full": "Minnesota",
-     "total": 59304.49,
-     "count": 88
-    },
-    {
-     "state": "TN",
-     "state_full": "Tennessee",
-     "total": 56482.24,
-     "count": 152
+     "total": 67204.2,
+     "count": 151
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -3085,11 +3085,6 @@
      "count": 7
     },
     {
-     "employer": "ULINE",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
      "employer": "MONARCH",
      "total": 14000.0,
      "count": 4
@@ -3098,11 +3093,6 @@
      "employer": "TRANSWEST TRUCKS",
      "total": 14000.0,
      "count": 5
-    },
-    {
-     "employer": "CHARLES  POTOMAC CAPITAL, LLC",
-     "total": 14000.0,
-     "count": 6
     },
     {
      "employer": "JANE STREET",
@@ -3115,9 +3105,19 @@
      "count": 4
     },
     {
+     "employer": "ULINE",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
      "employer": "ENTREPRENEUR",
      "total": 14000.0,
      "count": 4
+    },
+    {
+     "employer": "CHARLES  POTOMAC CAPITAL, LLC",
+     "total": 14000.0,
+     "count": 6
     },
     {
      "employer": "HILLWOOD",
@@ -3128,7 +3128,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

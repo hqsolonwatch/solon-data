@@ -2056,70 +2056,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1555665.98,
+   "itemized_total": 1893011.44,
    "home_state": "IL",
-   "home_state_total": 822110.3,
-   "home_state_share": 53,
+   "home_state_total": 1028812.3,
+   "home_state_share": 54,
    "top": [
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 822110.3,
-     "count": 1911
+     "total": 1028812.3,
+     "count": 2570
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 124900.0,
-     "count": 46
-    },
-    {
-     "state": "MA",
-     "state_full": "Massachusetts",
-     "total": 99900.0,
-     "count": 45
+     "total": 147608.0,
+     "count": 58
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 86119.54,
-     "count": 126
+     "total": 101623.79,
+     "count": 149
     },
     {
-     "state": "MO",
-     "state_full": "Missouri",
-     "total": 82900.0,
-     "count": 96
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 100450.0,
+     "count": 47
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 80253.5,
-     "count": 63
+     "total": 97403.5,
+     "count": 76
     },
     {
-     "state": "FL",
-     "state_full": "Florida",
-     "total": 29702.0,
-     "count": 21
+     "state": "MO",
+     "state_full": "Missouri",
+     "total": 94673.0,
+     "count": 130
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 27785.0,
-     "count": 42
+     "total": 41815.0,
+     "count": 55
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 34452.0,
+     "count": 30
     },
     {
      "state": "CT",
      "state_full": "Connecticut",
-     "total": 27100.0,
-     "count": 12
+     "total": 30571.43,
+     "count": 13
     },
     {
-     "state": "VA",
-     "state_full": "Virginia",
-     "total": 23390.0,
-     "count": 46
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 26075.0,
+     "count": 19
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -2137,14 +2137,24 @@
      "count": 15
     },
     {
+     "employer": "STATE OF ILLINOIS",
+     "total": 24550.0,
+     "count": 53
+    },
+    {
+     "employer": "UNIVERSITY OF ILLINOIS",
+     "total": 21475.0,
+     "count": 38
+    },
+    {
      "employer": "CLIFFORD LAW OFFICES",
      "total": 17500.0,
      "count": 5
     },
     {
-     "employer": "UNIVERSITY OF ILLINOIS",
-     "total": 17000.0,
-     "count": 28
+     "employer": "THE GORI LAW FIRM",
+     "total": 17250.0,
+     "count": 20
     },
     {
      "employer": "POWER ROGERS LLP",
@@ -2155,16 +2165,6 @@
      "employer": "KEEFE KEEFE & UNSELL PC",
      "total": 15750.0,
      "count": 6
-    },
-    {
-     "employer": "STATE OF ILLINOIS",
-     "total": 15150.0,
-     "count": 37
-    },
-    {
-     "employer": "THE GORI LAW FIRM",
-     "total": 13500.0,
-     "count": 18
     },
     {
      "employer": "SIMMONS HANLY CONROY",
@@ -2180,7 +2180,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

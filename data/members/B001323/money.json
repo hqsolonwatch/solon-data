@@ -2224,70 +2224,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 3553455.25,
+   "itemized_total": 4133758.57,
    "home_state": "AK",
-   "home_state_total": 590393.38,
-   "home_state_share": 17,
+   "home_state_total": 777898.0,
+   "home_state_share": 19,
    "top": [
     {
      "state": "AK",
      "state_full": "Alaska",
-     "total": 590393.38,
-     "count": 1247
+     "total": 777898.0,
+     "count": 1560
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 572770.22,
-     "count": 4826
+     "total": 630010.84,
+     "count": 5118
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 470399.6,
-     "count": 4051
+     "total": 531560.94,
+     "count": 4701
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 298832.21,
-     "count": 4213
+     "total": 338488.92,
+     "count": 4600
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 209777.12,
-     "count": 736
-    },
-    {
-     "state": "LA",
-     "state_full": "Louisiana",
-     "total": 114667.67,
-     "count": 616
+     "total": 237406.99,
+     "count": 805
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 111799.35,
-     "count": 832
+     "total": 136366.59,
+     "count": 955
+    },
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 119996.44,
+     "count": 750
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 85484.95,
-     "count": 1377
+     "total": 95892.65,
+     "count": 1631
     },
     {
      "state": "TN",
      "state_full": "Tennessee",
-     "total": 81045.24,
-     "count": 1311
+     "total": 82773.51,
+     "count": 1372
     },
     {
      "state": "MN",
      "state_full": "Minnesota",
-     "total": 70233.47,
-     "count": 178
+     "total": 73312.17,
+     "count": 194
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -2310,17 +2310,27 @@
      "count": 6
     },
     {
+     "employer": "TEAMHEALTH EMERGENCY PHYSICIANS",
+     "total": 17450.0,
+     "count": 15
+    },
+    {
      "employer": "GCI",
      "total": 17300.0,
      "count": 8
     },
     {
-     "employer": "TEAMHEALTH EMERGENCY PHYSICIANS",
-     "total": 16950.0,
-     "count": 14
+     "employer": "PETRO 49, INC",
+     "total": 16000.0,
+     "count": 8
     },
     {
-     "employer": "STARKEY HEARING TECHNOLOGIES",
+     "employer": "ULINE",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "FOUNDERS FUND",
      "total": 14000.0,
      "count": 4
     },
@@ -2333,22 +2343,12 @@
      "employer": "PERFORMANCE CONTRACTORS, INC.",
      "total": 14000.0,
      "count": 4
-    },
-    {
-     "employer": "FOUNDERS FUND",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
-     "employer": "ULINE",
-     "total": 14000.0,
-     "count": 4
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

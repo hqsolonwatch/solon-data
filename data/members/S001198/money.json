@@ -2916,76 +2916,81 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 6524767.2,
+   "itemized_total": 7992466.95,
    "home_state": "AK",
-   "home_state_total": 883965.15,
-   "home_state_share": 14,
+   "home_state_total": 1168007.82,
+   "home_state_share": 15,
    "top": [
     {
      "state": "AK",
      "state_full": "Alaska",
-     "total": 883965.15,
-     "count": 1896
+     "total": 1168007.82,
+     "count": 2461
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 744943.84,
-     "count": 1374
-    },
-    {
-     "state": "CA",
-     "state_full": "California",
-     "total": 675173.98,
-     "count": 951
+     "total": 887985.17,
+     "count": 1732
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 668827.56,
-     "count": 1092
+     "total": 886003.32,
+     "count": 1490
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 840164.36,
+     "count": 1360
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 623047.3,
-     "count": 422
+     "total": 722224.76,
+     "count": 511
     },
     {
      "state": "OH",
      "state_full": "Ohio",
-     "total": 354991.48,
-     "count": 284
+     "total": 394365.09,
+     "count": 334
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 342628.15,
-     "count": 686
+     "total": 384686.32,
+     "count": 880
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 321283.72,
-     "count": 427
+     "total": 335477.46,
+     "count": 523
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 212931.83,
-     "count": 212
+     "total": 239100.95,
+     "count": 239
     },
     {
-     "state": "MD",
-     "state_full": "Maryland",
-     "total": 149729.36,
-     "count": 130
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 163702.14,
+     "count": 203
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
   },
   "donor_employers": {
    "top": [
+    {
+     "employer": "ANTHROPIC",
+     "total": 56000.0,
+     "count": 18
+    },
     {
      "employer": "KKR",
      "total": 49840.91,
@@ -3002,11 +3007,6 @@
      "count": 14
     },
     {
-     "employer": "ANTHROPIC",
-     "total": 28000.0,
-     "count": 10
-    },
-    {
      "employer": "APOLLO GLOBAL MANAGEMENT",
      "total": 22700.0,
      "count": 12
@@ -3015,6 +3015,11 @@
      "employer": "RDV CORPORATION",
      "total": 21000.0,
      "count": 6
+    },
+    {
+     "employer": "BLACKROCK",
+     "total": 21000.0,
+     "count": 9
     },
     {
      "employer": "GCI LIBERTY",
@@ -3030,17 +3035,12 @@
      "employer": "ECHOSTAR",
      "total": 19000.0,
      "count": 8
-    },
-    {
-     "employer": "GCI",
-     "total": 18958.98,
-     "count": 18
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

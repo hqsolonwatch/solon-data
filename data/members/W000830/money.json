@@ -1128,7 +1128,7 @@
   {
    "committee_id": "C00366070",
    "name": "FAA MANAGERS ASSOCIATION INC. PAC",
-   "connected_org": null,
+   "connected_org": "FAA MANAGERS ASSOCIATION",
    "total": 1000.0
   },
   {
@@ -1588,70 +1588,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 2853210.19,
+   "itemized_total": 3166747.73,
    "home_state": "CA",
-   "home_state_total": 1441407.06,
-   "home_state_share": 51,
+   "home_state_total": 1595366.86,
+   "home_state_share": 50,
    "top": [
     {
      "state": "CA",
      "state_full": "California",
-     "total": 1441407.06,
-     "count": 3876
+     "total": 1595366.86,
+     "count": 4938
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 356304.17,
-     "count": 269
+     "total": 378824.05,
+     "count": 300
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 199818.99,
-     "count": 243
+     "total": 216712.2,
+     "count": 276
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 131538.11,
-     "count": 148
+     "total": 158473.12,
+     "count": 209
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 86503.13,
-     "count": 72
+     "total": 109803.13,
+     "count": 95
     },
     {
      "state": "CT",
      "state_full": "Connecticut",
-     "total": 84427.18,
-     "count": 70
-    },
-    {
-     "state": "TX",
-     "state_full": "Texas",
-     "total": 71477.81,
-     "count": 50
-    },
-    {
-     "state": "DC",
-     "state_full": "District Of Columbia",
-     "total": 65775.0,
-     "count": 84
+     "total": 92427.18,
+     "count": 73
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 65172.08,
-     "count": 89
+     "total": 81247.08,
+     "count": 102
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 77910.81,
+     "count": 85
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 69275.0,
+     "count": 99
     },
     {
      "state": "WA",
      "state_full": "Washington",
-     "total": 63803.86,
-     "count": 91
+     "total": 69172.9,
+     "count": 114
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1659,9 +1659,14 @@
   "donor_employers": {
    "top": [
     {
+     "employer": "NORTHROP GRUMMAN CORPORATION",
+     "total": 23000.0,
+     "count": 15
+    },
+    {
      "employer": "HARVARD UNIVERSITY",
-     "total": 16200.0,
-     "count": 91
+     "total": 16435.0,
+     "count": 95
     },
     {
      "employer": "JANE STREET CAPITAL",
@@ -1669,7 +1674,7 @@
      "count": 4
     },
     {
-     "employer": "CHARLESBANK CAPITAL PARTNERS",
+     "employer": "ANDURIL INDUSTRIES",
      "total": 14000.0,
      "count": 4
     },
@@ -1679,9 +1684,19 @@
      "count": 4
     },
     {
-     "employer": "MONTAGE INTERNATIONAL",
-     "total": 10500.0,
-     "count": 3
+     "employer": "CHARLESBANK CAPITAL PARTNERS",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "BWX TECHNOLOGIES",
+     "total": 11750.0,
+     "count": 11
+    },
+    {
+     "employer": "STANFORD UNIVERSITY",
+     "total": 10650.0,
+     "count": 17
     },
     {
      "employer": "ARNOLD VENTURES",
@@ -1692,27 +1707,12 @@
      "employer": "THE WONDERFUL COMPANY",
      "total": 10500.0,
      "count": 3
-    },
-    {
-     "employer": "ANDURIL INDUSTRIES",
-     "total": 10500.0,
-     "count": 3
-    },
-    {
-     "employer": "STANFORD UNIVERSITY",
-     "total": 10300.0,
-     "count": 15
-    },
-    {
-     "employer": "QUINN EMANUEL",
-     "total": 9500.0,
-     "count": 3
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

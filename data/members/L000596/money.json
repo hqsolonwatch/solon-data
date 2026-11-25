@@ -476,70 +476,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 2229491.69,
+   "itemized_total": 2713479.71,
    "home_state": "FL",
-   "home_state_total": 984814.03,
-   "home_state_share": 44,
+   "home_state_total": 1267789.51,
+   "home_state_share": 47,
    "top": [
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 984814.03,
-     "count": 2415
+     "total": 1267789.51,
+     "count": 3181
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 263334.06,
-     "count": 609
+     "total": 298187.71,
+     "count": 815
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 190125.56,
-     "count": 782
+     "total": 212701.48,
+     "count": 1026
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 94630.94,
-     "count": 190
+     "total": 105369.02,
+     "count": 279
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 58528.94,
-     "count": 204
+     "total": 64133.48,
+     "count": 313
     },
     {
      "state": "MN",
      "state_full": "Minnesota",
-     "total": 47281.62,
-     "count": 79
-    },
-    {
-     "state": "NV",
-     "state_full": "Nevada",
-     "total": 41765.59,
-     "count": 78
-    },
-    {
-     "state": "TN",
-     "state_full": "Tennessee",
-     "total": 40083.63,
-     "count": 96
-    },
-    {
-     "state": "MI",
-     "state_full": "Michigan",
-     "total": 37725.15,
-     "count": 137
+     "total": 48314.91,
+     "count": 106
     },
     {
      "state": "AZ",
      "state_full": "Arizona",
-     "total": 35276.26,
-     "count": 115
+     "total": 45473.89,
+     "count": 176
+    },
+    {
+     "state": "NV",
+     "state_full": "Nevada",
+     "total": 43418.54,
+     "count": 106
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 41993.58,
+     "count": 233
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 40924.32,
+     "count": 108
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -552,11 +552,6 @@
      "count": 6
     },
     {
-     "employer": "STARKEY HEARING TECHNOLOGIES",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
      "employer": "AEVEX AEROSPACE LLC",
      "total": 14000.0,
      "count": 4
@@ -564,6 +559,16 @@
     {
      "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
      "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "STARKEY HEARING TECHNOLOGIES",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "INKIT",
+     "total": 9500.0,
      "count": 4
     },
     {
@@ -587,12 +592,7 @@
      "count": 3
     },
     {
-     "employer": "KING EQUITY",
-     "total": 7000.0,
-     "count": 3
-    },
-    {
-     "employer": "CROWNQUEST OPERATING, LLC",
+     "employer": "BIGLARI HOLDINGS INC.",
      "total": 7000.0,
      "count": 2
     }
@@ -600,7 +600,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

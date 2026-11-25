@@ -3014,70 +3014,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 10116098.54,
+   "itemized_total": 11162821.28,
    "home_state": "MN",
-   "home_state_total": 923341.14,
+   "home_state_total": 1022164.59,
    "home_state_share": 9,
    "top": [
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 1314256.05,
-     "count": 24313
+     "total": 1420529.37,
+     "count": 25219
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 1076254.36,
-     "count": 19226
+     "total": 1194603.59,
+     "count": 20241
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 1046705.97,
-     "count": 25944
+     "total": 1131074.8,
+     "count": 26814
     },
     {
      "state": "MN",
      "state_full": "Minnesota",
-     "total": 923341.14,
-     "count": 4325
+     "total": 1022164.59,
+     "count": 4504
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 629062.97,
-     "count": 6810
+     "total": 663260.58,
+     "count": 7097
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 478777.35,
-     "count": 8632
+     "total": 525073.4,
+     "count": 9020
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 384340.86,
-     "count": 5560
+     "total": 441190.71,
+     "count": 5965
     },
     {
      "state": "OH",
      "state_full": "Ohio",
-     "total": 283298.61,
-     "count": 5858
+     "total": 309210.85,
+     "count": 6104
     },
     {
      "state": "AZ",
      "state_full": "Arizona",
-     "total": 242500.66,
-     "count": 6902
+     "total": 268767.14,
+     "count": 7091
     },
     {
      "state": "PA",
      "state_full": "Pennsylvania",
-     "total": 223704.62,
-     "count": 5185
+     "total": 257268.38,
+     "count": 5516
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -3111,8 +3111,8 @@
     },
     {
      "employer": "COMCAST",
-     "total": 21156.11,
-     "count": 14
+     "total": 23656.11,
+     "count": 15
     },
     {
      "employer": "ANDREESSEN HOROWITZ",
@@ -3126,19 +3126,19 @@
     },
     {
      "employer": "S-3 GROUP",
-     "total": 18500.0,
-     "count": 9
+     "total": 19500.0,
+     "count": 10
     },
     {
-     "employer": "TODD STRATEGY GROUP",
-     "total": 17000.0,
-     "count": 12
+     "employer": "BGR GROUP",
+     "total": 17800.0,
+     "count": 18
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

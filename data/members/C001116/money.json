@@ -364,22 +364,22 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 501687.0,
+   "itemized_total": 533187.0,
    "home_state": "GA",
-   "home_state_total": 329637.0,
-   "home_state_share": 66,
+   "home_state_total": 355037.0,
+   "home_state_share": 67,
    "top": [
     {
      "state": "GA",
      "state_full": "Georgia",
-     "total": 329637.0,
-     "count": 202
+     "total": 355037.0,
+     "count": 223
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 71575.0,
-     "count": 38
+     "total": 71825.0,
+     "count": 39
     },
     {
      "state": "WY",
@@ -390,8 +390,14 @@
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 21750.0,
-     "count": 18
+     "total": 22450.0,
+     "count": 20
+    },
+    {
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 16000.0,
+     "count": 9
     },
     {
      "state": "IL",
@@ -400,22 +406,16 @@
      "count": 4
     },
     {
-     "state": "TN",
-     "state_full": "Tennessee",
-     "total": 13100.0,
-     "count": 8
-    },
-    {
      "state": "CA",
      "state_full": "California",
-     "total": 5950.0,
-     "count": 21
+     "total": 6400.0,
+     "count": 28
     },
     {
      "state": "NC",
      "state_full": "North Carolina",
-     "total": 4850.0,
-     "count": 5
+     "total": 5050.0,
+     "count": 7
     },
     {
      "state": "KS",
@@ -470,17 +470,17 @@
      "count": 6
     },
     {
+     "employer": "KEMMERER MGMT CORP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ADDISON ENERGY TECHNOLOGIES, LLC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
      "employer": "RAC PROPERTIES",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "THE LAW OFFICES OF BLAKE A. POOLE LLC",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "ULINE",
      "total": 7000.0,
      "count": 2
     }
@@ -488,7 +488,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

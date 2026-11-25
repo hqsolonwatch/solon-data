@@ -2109,10 +2109,10 @@
   {
    "id": "C00068056",
    "name": "NORTHWESTERN ENERGY MONTANA EMPLOYEE PAC",
-   "connected_org": null,
+   "connected_org": "NORTHWESTERN ENERGY",
    "org_type": "C",
    "type": "Q",
-   "designation": "U"
+   "designation": "B"
   },
   {
    "id": "C00068353",
@@ -10973,7 +10973,7 @@
   {
    "id": "C00331686",
    "name": "FASPAC FAREWAY STORES INC PAC",
-   "connected_org": "NONE",
+   "connected_org": "FAREWAY STORES, INC.",
    "org_type": "C",
    "type": "Q",
    "designation": "U"
@@ -11221,7 +11221,7 @@
   {
    "id": "C00336842",
    "name": "FAMILY PAC",
-   "connected_org": null,
+   "connected_org": "NONE",
    "org_type": null,
    "type": "Q",
    "designation": "U"
@@ -12845,7 +12845,7 @@
   {
    "id": "C00366070",
    "name": "FAA MANAGERS ASSOCIATION INC. PAC",
-   "connected_org": null,
+   "connected_org": "FAA MANAGERS ASSOCIATION",
    "org_type": null,
    "type": "Q",
    "designation": "U"
@@ -14269,7 +14269,7 @@
   {
    "id": "C00388652",
    "name": "TERUMO BCT, INC.",
-   "connected_org": null,
+   "connected_org": "NONE",
    "org_type": "C",
    "type": "Q",
    "designation": "U"
@@ -27293,7 +27293,7 @@
   {
    "id": "C00592485",
    "name": "THE JOCKEY CLUB PAC",
-   "connected_org": null,
+   "connected_org": "THE JOCKEY CLUB",
    "org_type": "M",
    "type": "Q",
    "designation": "U"
@@ -36453,9 +36453,9 @@
   {
    "id": "C00742205",
    "name": "SURJ PAC",
-   "connected_org": null,
+   "connected_org": "NONE",
    "org_type": null,
-   "type": "Q",
+   "type": "V",
    "designation": "U"
   },
   {
@@ -37021,7 +37021,7 @@
   {
    "id": "C00747766",
    "name": "TRUTH TO POWER",
-   "connected_org": "KATHERINE PORTER",
+   "connected_org": "KATIE PORTER",
    "org_type": null,
    "type": "Q",
    "designation": "D"
@@ -43035,6 +43035,30 @@
    "designation": "J"
   },
   {
+   "id": "C00800064",
+   "name": "JENSEN 4 AMERICA",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "O",
+   "designation": "U"
+  },
+  {
+   "id": "C00800066",
+   "name": "MDCPAC",
+   "connected_org": "MDCSPAC",
+   "org_type": null,
+   "type": "N",
+   "designation": "U"
+  },
+  {
+   "id": "C00800068",
+   "name": "SCOUTPAC",
+   "connected_org": "WELLMAN",
+   "org_type": null,
+   "type": "N",
+   "designation": "D"
+  },
+  {
    "id": "C00800227",
    "name": "DC STATEHOOD PAC",
    "connected_org": null,
@@ -45037,7 +45061,7 @@
   {
    "id": "C00817668",
    "name": "CONSERVATIVE CANDIDATE CAUCUS",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "V",
    "designation": "U"
@@ -46476,8 +46500,8 @@
   },
   {
    "id": "C00825778",
-   "name": "MODJESKI AND MASTERS, INC. TRANSPORTATION ALLIANCE PAC",
-   "connected_org": null,
+   "name": "MODJESKI & MASTERS, INC. TRANSPORTATION ALLIANCE PAC",
+   "connected_org": "MODJESKI & MASTERS, INC.",
    "org_type": "C",
    "type": "N",
    "designation": "U"
@@ -49781,7 +49805,7 @@
   {
    "id": "C00842781",
    "name": "MINORITY MAJORITY MAKERS",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "O",
    "designation": "U"
@@ -52477,7 +52501,7 @@
   {
    "id": "C00857185",
    "name": "WE COMPETE PAC",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "V",
    "designation": "U"
@@ -56597,7 +56621,7 @@
   {
    "id": "C00877720",
    "name": "MEUSER PA VICTORY FUND",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -68477,7 +68501,7 @@
   {
    "id": "C00910141",
    "name": "FEARLESS FOR NEW HAMPSHIRE PAC",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "O",
    "designation": "U"
@@ -70301,7 +70325,7 @@
   {
    "id": "C00917484",
    "name": "DAY VICTORY FUND",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -72477,7 +72501,7 @@
   {
    "id": "C00926048",
    "name": "HAWAII VOTER COALITION",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "O",
    "designation": "U"
@@ -75661,7 +75685,7 @@
   {
    "id": "C00938449",
    "name": "WAGNER HILL VICTORY FUND",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -76973,7 +76997,7 @@
   {
    "id": "C00943068",
    "name": "PATRIOTIC LEADERSHIP PAC",
-   "connected_org": "BRANDON HERRERA VICTORY COMMITTEE",
+   "connected_org": null,
    "org_type": null,
    "type": "V",
    "designation": "U"
@@ -78141,7 +78165,7 @@
   {
    "id": "C00946608",
    "name": "KEEP IT ALASKA PAC",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "O",
    "designation": "U"
@@ -78893,7 +78917,7 @@
   {
    "id": "C00948448",
    "name": "DEMOCRATIC DOCTORS PAC (DEM DOC PAC)",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "U"
@@ -81173,7 +81197,7 @@
   {
    "id": "C00954339",
    "name": "KNOTT BUCKHOUT MAJORITY FUND",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -82421,7 +82445,7 @@
   {
    "id": "C00957175",
    "name": "COMMITTEE FOR AMERICAN LEADERSHIP",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "O",
    "designation": "U"
@@ -82629,7 +82653,7 @@
   {
    "id": "C00957530",
    "name": "GOP GOTV PAC",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "O",
    "designation": "U"
@@ -83485,7 +83509,7 @@
   {
    "id": "C00959098",
    "name": "ELECT DEMOCRATIC DOCTORS",
-   "connected_org": "DEMOCRATIC DOCTORS PAC (DEM DOC PAC)",
+   "connected_org": "DEMOCRATIC DOCTORS PAC",
    "org_type": null,
    "type": "N",
    "designation": "U"
@@ -85189,7 +85213,7 @@
   {
    "id": "C00962159",
    "name": "RICKETTS HINSON VICTORY",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -85989,7 +86013,7 @@
   {
    "id": "C00963611",
    "name": "NORTH DAKOTA LONG TERM CARE PAC",
-   "connected_org": null,
+   "connected_org": "NORTH DAKOTA LONG TERM CARE ASSOCIATION",
    "org_type": "T",
    "type": "N",
    "designation": "U"
@@ -86373,7 +86397,7 @@
   {
    "id": "C00964338",
    "name": "NEVADANS FOR SOCIALISM",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "O",
    "designation": "U"

@@ -1141,40 +1141,40 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 2161086.23,
+   "itemized_total": 2167065.85,
    "home_state": "GA",
-   "home_state_total": 1200659.31,
+   "home_state_total": 1204023.21,
    "home_state_share": 56,
    "top": [
     {
      "state": "GA",
      "state_full": "Georgia",
-     "total": 1200659.31,
-     "count": 2511
+     "total": 1204023.21,
+     "count": 2538
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 172334.0,
-     "count": 802
+     "total": 172705.41,
+     "count": 832
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 110851.45,
-     "count": 747
+     "total": 111033.45,
+     "count": 762
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 88555.15,
-     "count": 354
+     "total": 88720.15,
+     "count": 360
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 69437.22,
-     "count": 406
+     "total": 69632.25,
+     "count": 412
     },
     {
      "state": "PR",
@@ -1191,20 +1191,20 @@
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 36138.04,
-     "count": 220
+     "total": 36198.04,
+     "count": 224
     },
     {
      "state": "OK",
      "state_full": "Oklahoma",
-     "total": 31508.94,
-     "count": 51
+     "total": 31555.94,
+     "count": 52
     },
     {
      "state": "SC",
      "state_full": "South Carolina",
-     "total": 28130.67,
-     "count": 166
+     "total": 28232.72,
+     "count": 168
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1212,12 +1212,12 @@
   "donor_employers": {
    "top": [
     {
-     "employer": "ALTA REFRIGERATION",
+     "employer": "DANIEL DEFENSE LLC",
      "total": 21000.0,
      "count": 6
     },
     {
-     "employer": "DANIEL DEFENSE LLC",
+     "employer": "ALTA REFRIGERATION",
      "total": 21000.0,
      "count": 6
     },
@@ -1232,14 +1232,14 @@
      "count": 7
     },
     {
-     "employer": "SADOWSKI  CO",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
      "employer": "ASSURANCEAMERICA",
      "total": 14000.0,
      "count": 12
+    },
+    {
+     "employer": "SADOWSKI  CO",
+     "total": 14000.0,
+     "count": 4
     },
     {
      "employer": "LEGACY MEDICAL",
@@ -1265,7 +1265,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

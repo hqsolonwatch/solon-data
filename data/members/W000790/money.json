@@ -396,70 +396,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1462463.31,
+   "itemized_total": 1802302.74,
    "home_state": "GA",
-   "home_state_total": 237603.79,
+   "home_state_total": 292945.07,
    "home_state_share": 16,
    "top": [
     {
      "state": "CA",
      "state_full": "California",
-     "total": 331460.3,
-     "count": 8891
+     "total": 381240.89,
+     "count": 10544
     },
     {
      "state": "GA",
      "state_full": "Georgia",
-     "total": 237603.79,
-     "count": 8278
+     "total": 292945.07,
+     "count": 10097
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 169230.47,
-     "count": 3874
-    },
-    {
-     "state": "IL",
-     "state_full": "Illinois",
-     "total": 62028.85,
-     "count": 1312
+     "total": 199433.99,
+     "count": 4635
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 52992.25,
-     "count": 2041
+     "total": 72610.21,
+     "count": 2439
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 68437.84,
+     "count": 1595
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 47700.42,
-     "count": 1398
-    },
-    {
-     "state": "WA",
-     "state_full": "Washington",
-     "total": 42849.41,
-     "count": 1831
-    },
-    {
-     "state": "CT",
-     "state_full": "Connecticut",
-     "total": 41081.06,
-     "count": 641
-    },
-    {
-     "state": "VA",
-     "state_full": "Virginia",
-     "total": 38577.31,
-     "count": 1147
+     "total": 65778.41,
+     "count": 1717
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 38138.77,
-     "count": 1561
+     "total": 51530.43,
+     "count": 1909
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 50200.94,
+     "count": 2155
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 49284.87,
+     "count": 1377
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 47753.64,
+     "count": 785
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -468,11 +468,21 @@
    "top": [
     {
      "employer": "BLACKROCK",
-     "total": 35000.0,
-     "count": 15
+     "total": 38500.0,
+     "count": 16
     },
     {
-     "employer": "THE VISTRIA GROUP",
+     "employer": "NEWSWEB CORPORATION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "THE BAUPOST GROUP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "HPS INVESTMENT PARTNERS",
      "total": 7000.0,
      "count": 2
     },
@@ -482,32 +492,22 @@
      "count": 2
     },
     {
+     "employer": "GREYLOCK",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "THE VISTRIA GROUP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
      "employer": "TIRECO, INC.",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "SAN FRANCISCO CITY ATTORNEY'S OFFICE",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "ARIEL INVESTMENTS",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "BLUE SHIELD OF CALIFORNIA",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
      "employer": "THE CARSON FAMILY CHARITABLE TRUST",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "LONE PINE CAPITAL",
      "total": 7000.0,
      "count": 2
     },
@@ -520,7 +520,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

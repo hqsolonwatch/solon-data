@@ -300,7 +300,7 @@
   {
    "committee_id": "C00331686",
    "name": "FASPAC FAREWAY STORES INC PAC",
-   "connected_org": "NONE",
+   "connected_org": "FAREWAY STORES, INC.",
    "total": 10000.0
   },
   {
@@ -3934,70 +3934,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 3901434.07,
+   "itemized_total": 4812427.51,
    "home_state": "IA",
-   "home_state_total": 792036.73,
-   "home_state_share": 20,
+   "home_state_total": 1096676.75,
+   "home_state_share": 23,
    "top": [
     {
      "state": "IA",
      "state_full": "Iowa",
-     "total": 792036.73,
-     "count": 1347
+     "total": 1096676.75,
+     "count": 2212
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 583593.73,
-     "count": 1191
+     "total": 647793.71,
+     "count": 1646
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 540838.01,
-     "count": 1337
-    },
-    {
-     "state": "NY",
-     "state_full": "New York",
-     "total": 290458.15,
-     "count": 288
+     "total": 597125.09,
+     "count": 1692
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 290004.75,
-     "count": 1070
+     "total": 354686.91,
+     "count": 1405
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 332238.92,
+     "count": 366
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 162958.01,
-     "count": 637
-    },
-    {
-     "state": "VA",
-     "state_full": "Virginia",
-     "total": 107169.1,
-     "count": 369
+     "total": 200253.31,
+     "count": 811
     },
     {
      "state": "MI",
      "state_full": "Michigan",
-     "total": 97972.04,
-     "count": 253
+     "total": 127093.91,
+     "count": 306
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 124681.45,
+     "count": 502
     },
     {
      "state": "LA",
      "state_full": "Louisiana",
-     "total": 90187.49,
-     "count": 167
+     "total": 98156.73,
+     "count": 221
     },
     {
-     "state": "MA",
-     "state_full": "Massachusetts",
-     "total": 65720.62,
-     "count": 131
+     "state": "MO",
+     "state_full": "Missouri",
+     "total": 90300.11,
+     "count": 168
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -4016,8 +4016,8 @@
     },
     {
      "employer": "ATTORNEY",
-     "total": 17500.0,
-     "count": 6
+     "total": 21000.0,
+     "count": 7
     },
     {
      "employer": "VALMORE GP",
@@ -4025,17 +4025,17 @@
      "count": 8
     },
     {
+     "employer": "ULINE",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
      "employer": "STARKEY HEARING TECHNOLOGIES",
      "total": 14000.0,
      "count": 4
     },
     {
-     "employer": "AMBER MOUNTAIN",
-     "total": 14000.0,
-     "count": 7
-    },
-    {
-     "employer": "ULINE",
+     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
      "total": 14000.0,
      "count": 4
     },
@@ -4045,20 +4045,20 @@
      "count": 6
     },
     {
-     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
+     "employer": "AMBER MOUNTAIN",
      "total": 14000.0,
-     "count": 4
+     "count": 7
     },
     {
-     "employer": "J.W. CHILDS ASSOCIATES",
-     "total": 12704.05,
-     "count": 5
+     "employer": "VETERANS UNITED HOME LOANS",
+     "total": 14000.0,
+     "count": 4
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

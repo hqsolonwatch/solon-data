@@ -1776,70 +1776,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 4972237.88,
+   "itemized_total": 5442388.74,
    "home_state": "AR",
-   "home_state_total": 852713.88,
-   "home_state_share": 17,
+   "home_state_total": 959407.74,
+   "home_state_share": 18,
    "top": [
     {
      "state": "AR",
      "state_full": "Arkansas",
-     "total": 852713.88,
-     "count": 2569
+     "total": 959407.74,
+     "count": 3060
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 627497.93,
-     "count": 2271
+     "total": 677547.5,
+     "count": 2772
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 595675.52,
-     "count": 1906
+     "total": 631984.66,
+     "count": 2252
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 508361.76,
-     "count": 787
+     "total": 545703.33,
+     "count": 887
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 385739.26,
-     "count": 1838
+     "total": 404162.86,
+     "count": 2139
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 372669.71,
-     "count": 1056
+     "total": 403715.88,
+     "count": 1242
     },
     {
      "state": "NJ",
      "state_full": "New Jersey",
-     "total": 160829.24,
-     "count": 523
+     "total": 180962.55,
+     "count": 635
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 119836.77,
-     "count": 415
+     "total": 153700.6,
+     "count": 537
     },
     {
      "state": "CT",
      "state_full": "Connecticut",
-     "total": 112309.11,
-     "count": 113
+     "total": 118094.11,
+     "count": 122
     },
     {
-     "state": "PA",
-     "state_full": "Pennsylvania",
-     "total": 102682.01,
-     "count": 469
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 111772.37,
+     "count": 88
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1852,24 +1852,24 @@
      "count": 34
     },
     {
+     "employer": "STEPHENS INC.",
+     "total": 42308.0,
+     "count": 25
+    },
+    {
+     "employer": "ANTHROPIC",
+     "total": 42000.0,
+     "count": 12
+    },
+    {
      "employer": "BLACKSTONE",
      "total": 41200.0,
      "count": 23
     },
     {
-     "employer": "STEPHENS INC.",
-     "total": 40308.0,
-     "count": 24
-    },
-    {
      "employer": "ENTREPRENEUR",
-     "total": 33350.4,
-     "count": 32
-    },
-    {
-     "employer": "ANTHROPIC",
-     "total": 28000.0,
-     "count": 8
+     "total": 33755.4,
+     "count": 38
     },
     {
      "employer": "PARADIGM",
@@ -1887,20 +1887,20 @@
      "count": 10
     },
     {
-     "employer": "KKR",
-     "total": 14000.0,
-     "count": 4
+     "employer": "STATE OF ARKANSAS",
+     "total": 14750.0,
+     "count": 6
     },
     {
-     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
+     "employer": "RED ROCK RESORTS INC",
      "total": 14000.0,
-     "count": 4
+     "count": 6
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

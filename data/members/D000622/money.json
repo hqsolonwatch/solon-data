@@ -597,70 +597,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 2048559.1,
+   "itemized_total": 2416715.59,
    "home_state": "IL",
-   "home_state_total": 775349.76,
+   "home_state_total": 910042.14,
    "home_state_share": 38,
    "top": [
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 775349.76,
-     "count": 12347
+     "total": 910042.14,
+     "count": 14854
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 216167.05,
-     "count": 4026
+     "total": 257524.45,
+     "count": 4815
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 130910.87,
-     "count": 1680
+     "total": 146439.01,
+     "count": 1964
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 68406.78,
-     "count": 771
-    },
-    {
-     "state": "FL",
-     "state_full": "Florida",
-     "total": 66111.67,
-     "count": 1105
+     "total": 77807.26,
+     "count": 935
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 62600.12,
-     "count": 746
+     "total": 77208.37,
+     "count": 900
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 76496.5,
+     "count": 1354
     },
     {
      "state": "MO",
      "state_full": "Missouri",
-     "total": 59533.23,
-     "count": 446
+     "total": 66218.23,
+     "count": 602
     },
     {
      "state": "WA",
      "state_full": "Washington",
-     "total": 47886.0,
-     "count": 1179
+     "total": 57554.74,
+     "count": 1429
     },
     {
      "state": "PA",
      "state_full": "Pennsylvania",
-     "total": 42516.97,
-     "count": 627
+     "total": 52003.11,
+     "count": 776
     },
     {
-     "state": "MD",
-     "state_full": "Maryland",
-     "total": 41434.98,
-     "count": 437
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 51436.62,
+     "count": 1289
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -674,8 +674,8 @@
     },
     {
      "employer": "SMITH GARSON",
-     "total": 8000.0,
-     "count": 6
+     "total": 9500.0,
+     "count": 8
     },
     {
      "employer": "HOLLAND LAW FIRM",
@@ -683,17 +683,7 @@
      "count": 4
     },
     {
-     "employer": "HOLLAND GROVES & SCHNELLER",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "GROSVENOR CAPITAL MANAGEMENT",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "CHICAGO CARES",
+     "employer": "CHITOWN HOME HEALTH CARE",
      "total": 7000.0,
      "count": 2
     },
@@ -703,12 +693,7 @@
      "count": 2
     },
     {
-     "employer": "CHITOWN HOME HEALTH CARE",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "COONEY & CONWAY LLP",
+     "employer": "QUINN EMANUEL",
      "total": 7000.0,
      "count": 2
     },
@@ -716,12 +701,27 @@
      "employer": "DAVIS BETHUNE AND JONES",
      "total": 7000.0,
      "count": 2
+    },
+    {
+     "employer": "THE SCOTT FOUNDATION",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "HOLLAND GROVES & SCHNELLER",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "COONEY & CONWAY LLP",
+     "total": 7000.0,
+     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

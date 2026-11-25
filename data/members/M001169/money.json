@@ -145,70 +145,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 4557854.73,
+   "itemized_total": 5105020.52,
    "home_state": "CT",
-   "home_state_total": 1442989.45,
+   "home_state_total": 1658069.82,
    "home_state_share": 32,
    "top": [
     {
      "state": "CT",
      "state_full": "Connecticut",
-     "total": 1442989.45,
-     "count": 26169
+     "total": 1658069.82,
+     "count": 32835
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 584371.9,
-     "count": 10190
+     "total": 649002.39,
+     "count": 12181
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 448184.29,
-     "count": 6123
+     "total": 484881.16,
+     "count": 7375
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 249258.53,
-     "count": 3641
+     "total": 272899.72,
+     "count": 4425
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 169017.8,
-     "count": 2340
+     "total": 187223.59,
+     "count": 2828
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 123177.81,
-     "count": 1725
-    },
-    {
-     "state": "MD",
-     "state_full": "Maryland",
-     "total": 107960.14,
-     "count": 1816
-    },
-    {
-     "state": "VA",
-     "state_full": "Virginia",
-     "total": 107711.15,
-     "count": 1828
-    },
-    {
-     "state": "PA",
-     "state_full": "Pennsylvania",
-     "total": 107530.97,
-     "count": 1983
+     "total": 136585.49,
+     "count": 2103
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 106974.0,
-     "count": 1836
+     "total": 122153.62,
+     "count": 2252
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 120594.79,
+     "count": 2442
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 119315.41,
+     "count": 2211
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 117398.8,
+     "count": 2211
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -217,13 +217,13 @@
    "top": [
     {
      "employer": "YALE UNIVERSITY",
-     "total": 16446.66,
-     "count": 188
+     "total": 19489.99,
+     "count": 236
     },
     {
      "employer": "GOOGLE",
-     "total": 12000.0,
-     "count": 4
+     "total": 12030.0,
+     "count": 7
     },
     {
      "employer": "MASS GENERAL HOSPITAL",
@@ -236,14 +236,19 @@
      "count": 4
     },
     {
+     "employer": "ACCENTURE",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
      "employer": "GIBSON DUNN & CRUTCHER",
      "total": 7000.0,
      "count": 3
     },
     {
-     "employer": "ACCENTURE",
-     "total": 7000.0,
-     "count": 3
+     "employer": "YALE",
+     "total": 6200.0,
+     "count": 98
     },
     {
      "employer": "CASPER & DE TOLEDO LLC",
@@ -252,24 +257,19 @@
     },
     {
      "employer": "WELLS FARGO",
-     "total": 5670.0,
-     "count": 10
+     "total": 5760.0,
+     "count": 16
     },
     {
-     "employer": "YALE",
-     "total": 5270.0,
-     "count": 74
-    },
-    {
-     "employer": "AMERICAN HALAL CO",
-     "total": 5000.0,
-     "count": 3
+     "employer": "STATE OF CT",
+     "total": 5725.0,
+     "count": 106
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

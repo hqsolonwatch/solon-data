@@ -1250,70 +1250,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 2096501.78,
+   "itemized_total": 2383992.84,
    "home_state": "AZ",
-   "home_state_total": 600788.52,
+   "home_state_total": 701878.0,
    "home_state_share": 29,
    "top": [
     {
      "state": "AZ",
      "state_full": "Arizona",
-     "total": 600788.52,
-     "count": 10660
+     "total": 701878.0,
+     "count": 13180
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 377412.79,
-     "count": 3980
+     "total": 419307.03,
+     "count": 4837
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 241326.83,
-     "count": 1030
-    },
-    {
-     "state": "DC",
-     "state_full": "District Of Columbia",
-     "total": 82621.0,
-     "count": 172
-    },
-    {
-     "state": "IL",
-     "state_full": "Illinois",
-     "total": 77450.5,
-     "count": 419
-    },
-    {
-     "state": "VA",
-     "state_full": "Virginia",
-     "total": 75632.18,
-     "count": 435
+     "total": 254426.78,
+     "count": 1238
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 70397.5,
-     "count": 514
+     "total": 98678.75,
+     "count": 643
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 92631.0,
+     "count": 198
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 92537.5,
+     "count": 509
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 80030.86,
+     "count": 547
     },
     {
      "state": "CT",
      "state_full": "Connecticut",
-     "total": 58772.5,
-     "count": 201
+     "total": 62567.5,
+     "count": 246
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 52682.17,
-     "count": 925
+     "total": 60400.18,
+     "count": 1127
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 45724.9,
-     "count": 797
+     "total": 49729.35,
+     "count": 964
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1351,30 +1351,30 @@
      "count": 6
     },
     {
-     "employer": "AZ DC CONSULTING",
-     "total": 9000.0,
-     "count": 4
-    },
-    {
      "employer": "PALANTIR TECHNOLOGIES",
      "total": 9000.0,
      "count": 3
     },
     {
-     "employer": "HUDSON REALTY CAPITAL",
-     "total": 8500.0,
-     "count": 3
+     "employer": "WESTERN ALLIANCE BANK",
+     "total": 9000.0,
+     "count": 4
     },
     {
-     "employer": "APOLLO MANAGEMENT",
-     "total": 8000.0,
+     "employer": "AZ DC CONSULTING",
+     "total": 9000.0,
+     "count": 4
+    },
+    {
+     "employer": "HUDSON REALTY CAPITAL",
+     "total": 8500.0,
      "count": 3
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

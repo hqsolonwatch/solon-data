@@ -2180,70 +2180,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 2636061.19,
+   "itemized_total": 3129682.19,
    "home_state": "DE",
-   "home_state_total": 290014.56,
-   "home_state_share": 11,
+   "home_state_total": 388233.56,
+   "home_state_share": 12,
    "top": [
     {
      "state": "CA",
      "state_full": "California",
-     "total": 618545.0,
-     "count": 350
+     "total": 653880.0,
+     "count": 372
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 518123.36,
-     "count": 229
+     "total": 557798.36,
+     "count": 258
     },
     {
      "state": "DE",
      "state_full": "Delaware",
-     "total": 290014.56,
-     "count": 1646
+     "total": 388233.56,
+     "count": 1851
     },
     {
      "state": "PA",
      "state_full": "Pennsylvania",
-     "total": 172932.5,
-     "count": 232
+     "total": 221732.5,
+     "count": 282
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 157590.0,
-     "count": 167
+     "total": 197390.0,
+     "count": 199
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 145255.93,
-     "count": 174
+     "total": 191253.93,
+     "count": 211
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 128850.0,
-     "count": 132
+     "total": 155850.0,
+     "count": 156
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 114902.0,
-     "count": 86
+     "total": 122902.0,
+     "count": 94
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 93835.0,
-     "count": 70
+     "total": 120335.0,
+     "count": 86
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 80375.0,
-     "count": 41
+     "total": 92275.0,
+     "count": 52
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -2252,8 +2252,8 @@
    "top": [
     {
      "employer": "YOUNG CONAWAY STARGATT & TAYLOR LLP",
-     "total": 129125.0,
-     "count": 65
+     "total": 131125.0,
+     "count": 67
     },
     {
      "employer": "APOLLO GLOBAL MANAGEMENT",
@@ -2266,9 +2266,19 @@
      "count": 31
     },
     {
+     "employer": "AMAZON",
+     "total": 24000.0,
+     "count": 21
+    },
+    {
      "employer": "CAPITAL GROUP",
      "total": 23750.0,
      "count": 9
+    },
+    {
+     "employer": "THEGROUP",
+     "total": 23500.0,
+     "count": 10
     },
     {
      "employer": "QUINN EMANUEL URQUHART & SULLIVAN",
@@ -2281,30 +2291,20 @@
      "count": 35
     },
     {
+     "employer": "KING & SPALDING LLP",
+     "total": 20500.0,
+     "count": 23
+    },
+    {
      "employer": "BLACKSTONE",
      "total": 20000.0,
      "count": 7
-    },
-    {
-     "employer": "AMAZON",
-     "total": 18000.0,
-     "count": 11
-    },
-    {
-     "employer": "CAPITAL GROUP COMPANIES",
-     "total": 17500.0,
-     "count": 7
-    },
-    {
-     "employer": "K&L GATES LLP",
-     "total": 17000.0,
-     "count": 13
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

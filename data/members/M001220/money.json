@@ -1284,16 +1284,16 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 894479.0,
+   "itemized_total": 1040213.0,
    "home_state": "KY",
-   "home_state_total": 725759.0,
-   "home_state_share": 81,
+   "home_state_total": 812148.0,
+   "home_state_share": 78,
    "top": [
     {
      "state": "KY",
      "state_full": "Kentucky",
-     "total": 725759.0,
-     "count": 1915
+     "total": 812148.0,
+     "count": 2300
     },
     {
      "state": "FL",
@@ -1302,10 +1302,22 @@
      "count": 24
     },
     {
+     "state": "CA",
+     "state_full": "California",
+     "total": 37900.0,
+     "count": 29
+    },
+    {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 28650.0,
-     "count": 38
+     "total": 34650.0,
+     "count": 48
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 23250.0,
+     "count": 12
     },
     {
      "state": "VA",
@@ -1320,40 +1332,33 @@
      "count": 10
     },
     {
-     "state": "NY",
-     "state_full": "New York",
-     "total": 12250.0,
-     "count": 8
-    },
-    {
-     "state": "CA",
-     "state_full": "California",
-     "total": 11650.0,
-     "count": 19
-    },
-    {
      "state": "MO",
      "state_full": "Missouri",
      "total": 7250.0,
      "count": 3
     },
     {
-     "state": "IL",
-     "state_full": "Illinois",
-     "total": 4750.0,
-     "count": 18
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 7250.0,
+     "count": 3
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 4750.0,
-     "count": 5
+     "total": 5750.0,
+     "count": 7
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
   },
   "donor_employers": {
    "top": [
+    {
+     "employer": "PDS OPTICAL",
+     "total": 14000.0,
+     "count": 4
+    },
     {
      "employer": "SOLAR ENERGY SOLUTIONS",
      "total": 14000.0,
@@ -1365,9 +1370,14 @@
      "count": 3
     },
     {
+     "employer": "DWP",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
      "employer": "UNIVERSITY OF LOUISVILLE",
-     "total": 8025.0,
-     "count": 27
+     "total": 8325.0,
+     "count": 30
     },
     {
      "employer": "MORGAN POTTINGER MCGARVEY",
@@ -1375,7 +1385,7 @@
      "count": 4
     },
     {
-     "employer": "MCCARTHY STRATEGIC SOLUTIONS",
+     "employer": "MOORE LAW GROUP",
      "total": 7000.0,
      "count": 2
     },
@@ -1383,16 +1393,6 @@
      "employer": "EVAPAR",
      "total": 7000.0,
      "count": 2
-    },
-    {
-     "employer": "IMC",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "GENWORTH FINANCIAL",
-     "total": 7000.0,
-     "count": 3
     },
     {
      "employer": "BBR PARTNERS",
@@ -1408,7 +1408,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

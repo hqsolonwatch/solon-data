@@ -2568,7 +2568,7 @@
   {
    "committee_id": "C00366070",
    "name": "FAA MANAGERS ASSOCIATION INC. PAC",
-   "connected_org": null,
+   "connected_org": "FAA MANAGERS ASSOCIATION",
    "total": 1000.0
   },
   {
@@ -2878,70 +2878,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 4317949.82,
+   "itemized_total": 5289740.44,
    "home_state": "AZ",
-   "home_state_total": 1496501.44,
+   "home_state_total": 1853890.15,
    "home_state_share": 35,
    "top": [
     {
      "state": "AZ",
      "state_full": "Arizona",
-     "total": 1496501.44,
-     "count": 2379
+     "total": 1853890.15,
+     "count": 3121
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 530751.95,
-     "count": 1373
+     "total": 599082.12,
+     "count": 1853
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 475313.3,
-     "count": 1293
+     "total": 552985.96,
+     "count": 1767
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 427450.16,
-     "count": 1219
+     "total": 522866.06,
+     "count": 1637
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 247705.49,
-     "count": 328
-    },
-    {
-     "state": "LA",
-     "state_full": "Louisiana",
-     "total": 97132.08,
-     "count": 142
+     "total": 351418.87,
+     "count": 426
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 91652.31,
-     "count": 544
+     "total": 112778.69,
+     "count": 695
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 86394.8,
-     "count": 603
+     "total": 108825.47,
+     "count": 819
     },
     {
-     "state": "GA",
-     "state_full": "Georgia",
-     "total": 78791.92,
-     "count": 745
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 102567.9,
+     "count": 163
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 84131.17,
+     "count": 161
     },
     {
      "state": "CO",
      "state_full": "Colorado",
-     "total": 77318.86,
-     "count": 161
+     "total": 83730.22,
+     "count": 227
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -2974,14 +2974,14 @@
      "count": 7
     },
     {
-     "employer": "JIM CLICK AUTOMOTIVE",
+     "employer": "STARKEY HEARING TECHNOLOGIES",
      "total": 14000.0,
      "count": 4
     },
     {
-     "employer": "COTTONWOOD PROPERTIES",
+     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
      "total": 14000.0,
-     "count": 5
+     "count": 4
     },
     {
      "employer": "WINDMILL WINERY",
@@ -2989,12 +2989,12 @@
      "count": 5
     },
     {
-     "employer": "STARKEY HEARING TECHNOLOGIES",
+     "employer": "VETERANS UNITED HOME LOANS",
      "total": 14000.0,
      "count": 4
     },
     {
-     "employer": "TYR TACTICAL",
+     "employer": "COTTONWOOD PROPERTIES",
      "total": 14000.0,
      "count": 5
     }
@@ -3002,7 +3002,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

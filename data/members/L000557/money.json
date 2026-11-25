@@ -2082,70 +2082,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1345097.13,
+   "itemized_total": 1473844.73,
    "home_state": "CT",
-   "home_state_total": 771957.5,
-   "home_state_share": 57,
+   "home_state_total": 826429.1,
+   "home_state_share": 56,
    "top": [
     {
      "state": "CT",
      "state_full": "Connecticut",
-     "total": 771957.5,
-     "count": 916
+     "total": 826429.1,
+     "count": 1020
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 128833.32,
-     "count": 56
+     "total": 134733.32,
+     "count": 62
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 88950.0,
-     "count": 39
-    },
-    {
-     "state": "MA",
-     "state_full": "Massachusetts",
-     "total": 72550.0,
-     "count": 48
+     "total": 112750.0,
+     "count": 54
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 70250.0,
-     "count": 73
+     "total": 74250.0,
+     "count": 77
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 73400.0,
+     "count": 51
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 47968.33,
-     "count": 32
+     "total": 55595.33,
+     "count": 40
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 33500.0,
-     "count": 28
+     "total": 39310.0,
+     "count": 33
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 26643.0,
-     "count": 38
-    },
-    {
-     "state": "NJ",
-     "state_full": "New Jersey",
-     "total": 18299.99,
-     "count": 10
+     "total": 29143.0,
+     "count": 40
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 13250.0,
-     "count": 10
+     "total": 21500.0,
+     "count": 14
+    },
+    {
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 20049.99,
+     "count": 12
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -2163,18 +2163,13 @@
      "count": 5
     },
     {
-     "employer": "NYMAN TURKISH PC",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
      "employer": "APOLLO GLOBAL MANAGEMENT INC.",
      "total": 14000.0,
      "count": 5
     },
     {
-     "employer": "GOODWIN COLLEGE",
-     "total": 13000.0,
+     "employer": "NYMAN TURKISH PC",
+     "total": 14000.0,
      "count": 4
     },
     {
@@ -2183,12 +2178,12 @@
      "count": 4
     },
     {
-     "employer": "LANDMARK PARTNERS, LP",
-     "total": 10500.0,
-     "count": 3
+     "employer": "GOODWIN COLLEGE",
+     "total": 13000.0,
+     "count": 4
     },
     {
-     "employer": "SIGN PRO, INC.",
+     "employer": "MANAFORT BROTHERS INC",
      "total": 10500.0,
      "count": 3
     },
@@ -2198,7 +2193,12 @@
      "count": 5
     },
     {
-     "employer": "MANAFORT BROTHERS INC",
+     "employer": "FAIRWAY INDEPNDENT MORTGAGE",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "A LOT MEDIA",
      "total": 10500.0,
      "count": 3
     }
@@ -2206,7 +2206,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

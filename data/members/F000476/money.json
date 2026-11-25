@@ -668,70 +668,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1375507.91,
+   "itemized_total": 1532736.35,
    "home_state": "FL",
-   "home_state_total": 570261.63,
+   "home_state_total": 634183.12,
    "home_state_share": 41,
    "top": [
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 570261.63,
-     "count": 6046
+     "total": 634183.12,
+     "count": 7062
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 231312.16,
-     "count": 2976
+     "total": 276612.7,
+     "count": 3410
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 90692.4,
-     "count": 1168
-    },
-    {
-     "state": "MA",
-     "state_full": "Massachusetts",
-     "total": 57337.5,
-     "count": 424
+     "total": 96209.07,
+     "count": 1344
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 53647.98,
-     "count": 417
+     "total": 62600.98,
+     "count": 481
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 60955.5,
+     "count": 497
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 52397.0,
-     "count": 182
+     "total": 53812.0,
+     "count": 207
     },
     {
      "state": "WA",
      "state_full": "Washington",
-     "total": 28170.25,
-     "count": 636
+     "total": 29928.75,
+     "count": 734
     },
     {
      "state": "CT",
      "state_full": "Connecticut",
-     "total": 26410.35,
-     "count": 266
+     "total": 27333.35,
+     "count": 299
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 22855.2,
-     "count": 534
+     "total": 25500.51,
+     "count": 630
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 19016.0,
-     "count": 321
+     "total": 20235.5,
+     "count": 386
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -739,27 +739,22 @@
   "donor_employers": {
    "top": [
     {
+     "employer": "ANTHROPIC",
+     "total": 17500.0,
+     "count": 5
+    },
+    {
      "employer": "MORGAN & MORGAN",
      "total": 8000.0,
      "count": 3
     },
     {
      "employer": "LOSEY PLLC",
-     "total": 7378.0,
-     "count": 16
-    },
-    {
-     "employer": "BADIA SPICES",
-     "total": 7000.0,
-     "count": 2
+     "total": 7432.0,
+     "count": 18
     },
     {
      "employer": "TRUSTLY, INC.",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "MCARTHURGLEN GROUP",
      "total": 7000.0,
      "count": 2
     },
@@ -769,9 +764,14 @@
      "count": 2
     },
     {
-     "employer": "BUCHANAN INGERSOLL & ROONEY",
+     "employer": "BADIA SPICES",
      "total": 7000.0,
-     "count": 3
+     "count": 2
+    },
+    {
+     "employer": "MCARTHURGLEN GROUP",
+     "total": 7000.0,
+     "count": 2
     },
     {
      "employer": "LINKEDIN",
@@ -779,12 +779,12 @@
      "count": 2
     },
     {
-     "employer": "SPOTLIGHT POWER LLC",
+     "employer": "BUCHANAN INGERSOLL & ROONEY",
      "total": 7000.0,
-     "count": 2
+     "count": 3
     },
     {
-     "employer": "BODEEN MUSIC AND SOUND DESIGN LLC",
+     "employer": "EVERGREEN WEALTH",
      "total": 7000.0,
      "count": 2
     }
@@ -792,7 +792,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

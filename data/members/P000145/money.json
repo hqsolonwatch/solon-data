@@ -553,46 +553,46 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 827954.75,
+   "itemized_total": 862299.31,
    "home_state": "CA",
-   "home_state_total": 629644.25,
+   "home_state_total": 658530.56,
    "home_state_share": 76,
    "top": [
     {
      "state": "CA",
      "state_full": "California",
-     "total": 629644.25,
-     "count": 3371
+     "total": 658530.56,
+     "count": 4023
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 48495.0,
-     "count": 45
+     "total": 48580.0,
+     "count": 48
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 32500.0,
-     "count": 13
+     "total": 34500.0,
+     "count": 14
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 29015.0,
-     "count": 61
+     "total": 29120.0,
+     "count": 70
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 10697.0,
-     "count": 31
+     "total": 12819.0,
+     "count": 35
     },
     {
      "state": "PA",
      "state_full": "Pennsylvania",
-     "total": 10675.0,
-     "count": 41
+     "total": 11050.0,
+     "count": 47
     },
     {
      "state": "DC",
@@ -609,14 +609,14 @@
     {
      "state": "NJ",
      "state_full": "New Jersey",
-     "total": 6325.0,
-     "count": 17
+     "total": 6343.75,
+     "count": 20
     },
     {
      "state": "GA",
      "state_full": "Georgia",
-     "total": 5430.0,
-     "count": 17
+     "total": 5490.0,
+     "count": 20
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -625,8 +625,8 @@
    "top": [
     {
      "employer": "NOT-EMPLOYED",
-     "total": 163967.25,
-     "count": 2071
+     "total": 173316.9,
+     "count": 2503
     },
     {
      "employer": "ELECTRIC CAPITAL",
@@ -639,11 +639,6 @@
      "count": 3
     },
     {
-     "employer": "SIERRA CARE AT THE LAKE LLC",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
      "employer": "CLEARLAKE CAPITAL GROUP",
      "total": 7000.0,
      "count": 2
@@ -654,22 +649,27 @@
      "count": 2
     },
     {
-     "employer": "JULES AND ASSOCIATES INC.",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "MILLENNIUM PARTNERS",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "CLOOBECK COMPANIES LLCNV",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
      "employer": "COINBASE",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "LIEFF CABRASER HEIMANN & BERNSTEIN",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "WASSERMAN",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "KUMON",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "CALBPS",
      "total": 7000.0,
      "count": 2
     }
@@ -677,7 +677,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795004225.8669708,
+ "detail_fetched_ts": 1795609450.232078,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
