@@ -2164,70 +2164,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1664847.76,
+   "itemized_total": 2056719.16,
    "home_state": "OH",
-   "home_state_total": 584132.55,
-   "home_state_share": 35,
+   "home_state_total": 746040.24,
+   "home_state_share": 36,
    "top": [
     {
      "state": "OH",
      "state_full": "Ohio",
-     "total": 584132.55,
-     "count": 2223
+     "total": 746040.24,
+     "count": 3287
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 345631.83,
-     "count": 391
+     "total": 449577.39,
+     "count": 553
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 160890.01,
-     "count": 136
+     "total": 207162.28,
+     "count": 177
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 135721.62,
-     "count": 134
+     "total": 162811.06,
+     "count": 155
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 85382.0,
-     "count": 109
+     "total": 88127.72,
+     "count": 122
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 56043.2,
-     "count": 71
-    },
-    {
-     "state": "DC",
-     "state_full": "District Of Columbia",
-     "total": 35717.99,
-     "count": 96
+     "total": 59639.3,
+     "count": 86
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 35576.66,
-     "count": 23
+     "total": 46076.66,
+     "count": 28
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 44872.14,
+     "count": 127
     },
     {
      "state": "CO",
      "state_full": "Colorado",
-     "total": 32846.15,
-     "count": 20
+     "total": 32875.0,
+     "count": 21
     },
     {
      "state": "WA",
      "state_full": "Washington",
-     "total": 28051.58,
-     "count": 66
+     "total": 30426.7,
+     "count": 85
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -2237,6 +2237,21 @@
     {
      "employer": "JANE STREET",
      "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "INDIVIDUAL",
+     "total": 9282.33,
+     "count": 17
+    },
+    {
+     "employer": "ABELSONTAYLOR",
+     "total": 8785.72,
+     "count": 3
+    },
+    {
+     "employer": "MAIN STREET GOURMET",
+     "total": 8500.0,
      "count": 3
     },
     {
@@ -2255,32 +2270,17 @@
      "count": 3
     },
     {
+     "employer": "TURTLE PLASTICS",
+     "total": 7500.0,
+     "count": 5
+    },
+    {
      "employer": "CHARLESBANK CAPITAL PARTNERS",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "PIVOTAL VENTURES",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "HIGH TIDE FOUNDATION",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "Q PRIME INC",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "GIVE FORWARD FOUNDATION",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "THE BAUPOST GROUP",
+     "employer": "PALO ALTO UNIFIED SCHOOL DISTRICT",
      "total": 7000.0,
      "count": 2
     }
@@ -2288,7 +2288,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

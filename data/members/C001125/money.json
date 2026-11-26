@@ -2135,40 +2135,52 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 436362.55,
+   "itemized_total": 689882.55,
    "home_state": "LA",
-   "home_state_total": 190600.0,
-   "home_state_share": 44,
+   "home_state_total": 308970.0,
+   "home_state_share": 45,
    "top": [
     {
      "state": "LA",
      "state_full": "Louisiana",
-     "total": 190600.0,
-     "count": 132
+     "total": 308970.0,
+     "count": 237
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 56955.0,
-     "count": 65
-    },
-    {
-     "state": "VA",
-     "state_full": "Virginia",
-     "total": 36650.0,
-     "count": 36
+     "total": 73455.0,
+     "count": 82
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 27000.0,
-     "count": 23
+     "total": 46750.0,
+     "count": 30
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 46650.0,
+     "count": 43
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 21750.0,
-     "count": 12
+     "total": 35000.0,
+     "count": 18
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 26107.55,
+     "count": 25
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 25900.0,
+     "count": 14
     },
     {
      "state": "TX",
@@ -2177,28 +2189,16 @@
      "count": 11
     },
     {
-     "state": "NY",
-     "state_full": "New York",
-     "total": 11000.0,
-     "count": 8
-    },
-    {
      "state": "GA",
      "state_full": "Georgia",
-     "total": 10250.0,
-     "count": 13
-    },
-    {
-     "state": "MD",
-     "state_full": "Maryland",
-     "total": 9607.55,
+     "total": 14750.0,
      "count": 15
     },
     {
-     "state": "TN",
-     "state_full": "Tennessee",
-     "total": 9500.0,
-     "count": 5
+     "state": "MS",
+     "state_full": "Mississippi",
+     "total": 12000.0,
+     "count": 6
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -2207,8 +2207,13 @@
    "top": [
     {
      "employer": "OCHSNER HEALTH",
-     "total": 13200.0,
-     "count": 4
+     "total": 19300.0,
+     "count": 9
+    },
+    {
+     "employer": "ANTHROPIC",
+     "total": 15500.0,
+     "count": 5
     },
     {
      "employer": "ENTERGY",
@@ -2216,9 +2221,24 @@
      "count": 8
     },
     {
+     "employer": "LILETTE ADVISORS",
+     "total": 10000.0,
+     "count": 7
+    },
+    {
      "employer": "CHARTER BROKERAGE LLC",
      "total": 9500.0,
      "count": 4
+    },
+    {
+     "employer": "BGR GROUP",
+     "total": 9500.0,
+     "count": 10
+    },
+    {
+     "employer": "THE PICARD GROUP",
+     "total": 8300.0,
+     "count": 8
     },
     {
      "employer": "ENTERGY CORPORATION",
@@ -2226,40 +2246,20 @@
      "count": 4
     },
     {
-     "employer": "LILETTE ADVISORS",
+     "employer": "IRPINO LAW FIRM",
      "total": 7000.0,
-     "count": 5
+     "count": 3
     },
     {
-     "employer": "CRANE STRATEGIES LLC",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "RAINWATER CONSULTING LLC",
+     "employer": "BLINK HEALTH",
      "total": 7000.0,
      "count": 2
-    },
-    {
-     "employer": "THE PICARD GROUP",
-     "total": 6800.0,
-     "count": 5
-    },
-    {
-     "employer": "KING AND SPALDING",
-     "total": 6500.0,
-     "count": 2
-    },
-    {
-     "employer": "JONES WALKER",
-     "total": 6500.0,
-     "count": 6
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

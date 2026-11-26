@@ -816,7 +816,7 @@
   {
    "committee_id": "C00245910",
    "name": "PACIFIC COAST PRODUCERS POLITICAL ACTION COMMITTEE FEDERAL",
-   "connected_org": null,
+   "connected_org": "PACIFIC COAST PRODUCERS",
    "total": 2000.0
   },
   {
@@ -1509,11 +1509,11 @@
   },
   {
    "type": "Other PACs",
-   "total": 65165.0
+   "total": 67165.0
   },
   {
    "type": "Cooperative PACs",
-   "total": 12000.0
+   "total": 10000.0
   },
   {
    "type": "Other candidates’ campaigns",
@@ -1572,70 +1572,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 736864.6,
+   "itemized_total": 895627.6,
    "home_state": "OR",
-   "home_state_total": 377982.06,
-   "home_state_share": 51,
+   "home_state_total": 477370.06,
+   "home_state_share": 53,
    "top": [
     {
      "state": "OR",
      "state_full": "Oregon",
-     "total": 377982.06,
-     "count": 1791
+     "total": 477370.06,
+     "count": 2479
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 69345.83,
-     "count": 167
+     "total": 86615.33,
+     "count": 202
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 62535.0,
-     "count": 94
+     "total": 81035.0,
+     "count": 109
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 61075.0,
-     "count": 41
+     "total": 61175.0,
+     "count": 43
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 35450.0,
-     "count": 73
+     "total": 38900.0,
+     "count": 80
     },
     {
      "state": "WA",
      "state_full": "Washington",
-     "total": 24239.0,
-     "count": 75
+     "total": 32157.0,
+     "count": 118
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 17862.5,
-     "count": 29
-    },
-    {
-     "state": "IL",
-     "state_full": "Illinois",
-     "total": 14010.0,
-     "count": 11
+     "total": 19407.5,
+     "count": 35
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 10425.0,
-     "count": 12
+     "total": 15425.0,
+     "count": 15
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 14760.0,
+     "count": 19
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 8600.0,
-     "count": 13
+     "total": 9700.0,
+     "count": 15
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1643,7 +1643,17 @@
   "donor_employers": {
    "top": [
     {
+     "employer": "ANTHROPIC",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
      "employer": "METRO WEST AMBULANCE",
+     "total": 8000.0,
+     "count": 4
+    },
+    {
+     "employer": "HKM EMPLOYMENT ATTORNEYS LLP",
      "total": 8000.0,
      "count": 4
     },
@@ -1673,30 +1683,20 @@
      "count": 2
     },
     {
-     "employer": "SIGNAL GROUP",
-     "total": 5500.0,
-     "count": 3
-    },
-    {
-     "employer": "HKM EMPLOYMENT ATTORNEYS LLP",
-     "total": 4500.0,
-     "count": 3
-    },
-    {
-     "employer": "DIGITAL VISION INC",
-     "total": 4000.0,
+     "employer": "ACCELERATE STRATEGIES",
+     "total": 6500.0,
      "count": 4
     },
     {
-     "employer": "CAPITOL COUNSEL LLC",
-     "total": 4000.0,
+     "employer": "SIGNAL GROUP",
+     "total": 5500.0,
      "count": 3
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -1714,70 +1714,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1495183.38,
+   "itemized_total": 1760379.65,
    "home_state": "NY",
-   "home_state_total": 1073520.87,
-   "home_state_share": 72,
+   "home_state_total": 1304511.27,
+   "home_state_share": 74,
    "top": [
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 1073520.87,
-     "count": 3872
+     "total": 1304511.27,
+     "count": 5120
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 88839.5,
-     "count": 128
+     "total": 98634.5,
+     "count": 161
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 81437.68,
-     "count": 74
+     "total": 86123.55,
+     "count": 83
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 46478.08,
-     "count": 66
+     "total": 49393.08,
+     "count": 79
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 33453.25,
-     "count": 60
+     "total": 36203.25,
+     "count": 65
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 27916.66,
-     "count": 13
+     "total": 31541.66,
+     "count": 16
     },
     {
      "state": "NJ",
      "state_full": "New Jersey",
-     "total": 25284.0,
-     "count": 26
+     "total": 26317.0,
+     "count": 28
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 16850.0,
-     "count": 28
+     "total": 18100.0,
+     "count": 32
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 15772.0,
-     "count": 33
+     "total": 17544.0,
+     "count": 40
     },
     {
      "state": "CT",
      "state_full": "Connecticut",
-     "total": 15750.0,
-     "count": 12
+     "total": 16500.0,
+     "count": 14
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1786,23 +1786,28 @@
    "top": [
     {
      "employer": "SYRACUSE UNIVERSITY",
-     "total": 18601.0,
-     "count": 54
+     "total": 20026.0,
+     "count": 70
     },
     {
      "employer": "HAMILTON COLLEGE",
-     "total": 10750.0,
-     "count": 53
+     "total": 13055.0,
+     "count": 66
+    },
+    {
+     "employer": "SUNY UPSTATE MEDICAL UNIVERSITY",
+     "total": 11020.0,
+     "count": 38
+    },
+    {
+     "employer": "ALLIANCE ENERGY GROUP",
+     "total": 10500.0,
+     "count": 6
     },
     {
      "employer": "LE MOYNE COLLEGE",
-     "total": 8650.0,
-     "count": 8
-    },
-    {
-     "employer": "SAAB",
-     "total": 7500.0,
-     "count": 6
+     "total": 8750.0,
+     "count": 9
     },
     {
      "employer": "GOLDEN ARTIST COLORS",
@@ -1810,35 +1815,30 @@
      "count": 7
     },
     {
-     "employer": "PAR",
-     "total": 7000.0,
-     "count": 4
+     "employer": "SAAB",
+     "total": 7500.0,
+     "count": 6
     },
     {
-     "employer": "LIBERTY RESOURCES POST LLC",
-     "total": 7000.0,
-     "count": 2
+     "employer": "THE MIRBEAU COMPANIES",
+     "total": 7500.0,
+     "count": 6
     },
     {
-     "employer": "MASS GENERAL HOSPITAL",
-     "total": 7000.0,
+     "employer": "WOODBINE GROUP",
+     "total": 7250.0,
      "count": 3
     },
     {
-     "employer": "GIVE FORWARD FOUNDATION",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "Q PRIME INC.",
-     "total": 7000.0,
-     "count": 3
+     "employer": "CORNELL UNIVERSITY",
+     "total": 7097.0,
+     "count": 18
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

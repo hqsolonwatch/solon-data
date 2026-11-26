@@ -2260,7 +2260,7 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 2340791.37,
+   "itemized_total": 2333791.37,
    "home_state": "MI",
    "home_state_total": 1015097.17,
    "home_state_share": 43,
@@ -2292,8 +2292,8 @@
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 75757.81,
-     "count": 68
+     "total": 68757.81,
+     "count": 66
     },
     {
      "state": "VA",
@@ -2351,7 +2351,7 @@
      "count": 6
     },
     {
-     "employer": "AMWAY",
+     "employer": "AZO SERVICES PIA, LLC",
      "total": 14000.0,
      "count": 4
     },
@@ -2361,7 +2361,7 @@
      "count": 8
     },
     {
-     "employer": "AZO SERVICES PIA, LLC",
+     "employer": "AMWAY",
      "total": 14000.0,
      "count": 4
     },
@@ -2384,7 +2384,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

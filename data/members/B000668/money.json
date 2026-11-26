@@ -1459,14 +1459,14 @@
   "donor_states": {
    "itemized_total": 403280.64,
    "home_state": "OR",
-   "home_state_total": 273389.64,
+   "home_state_total": 274389.64,
    "home_state_share": 68,
    "top": [
     {
      "state": "OR",
      "state_full": "Oregon",
-     "total": 273389.64,
-     "count": 243
+     "total": 274389.64,
+     "count": 244
     },
     {
      "state": "CA",
@@ -1495,8 +1495,8 @@
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 11000.0,
-     "count": 17
+     "total": 10000.0,
+     "count": 16
     },
     {
      "state": "NV",
@@ -1528,6 +1528,11 @@
   "donor_employers": {
    "top": [
     {
+     "employer": "SOUTH FORK RANCH",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
      "employer": "ENDEAVOUR CAPITAL",
      "total": 7000.0,
      "count": 2
@@ -1538,22 +1543,12 @@
      "count": 2
     },
     {
-     "employer": "SOUTH FORK RANCH",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
      "employer": "EDW C. LEVY CO.",
      "total": 6600.0,
      "count": 2
     },
     {
-     "employer": "PACIFIC MARINE LEASING",
-     "total": 6000.0,
-     "count": 4
-    },
-    {
-     "employer": "METRO WEST AMBULANCE",
+     "employer": "KREBS SHEEP COMPANY",
      "total": 6000.0,
      "count": 2
     },
@@ -1563,7 +1558,12 @@
      "count": 4
     },
     {
-     "employer": "KREBS SHEEP COMPANY",
+     "employer": "PACIFIC MARINE LEASING",
+     "total": 6000.0,
+     "count": 4
+    },
+    {
+     "employer": "METRO WEST AMBULANCE",
      "total": 6000.0,
      "count": 2
     },
@@ -1581,7 +1581,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

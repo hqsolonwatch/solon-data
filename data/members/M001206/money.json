@@ -1580,8 +1580,8 @@
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 63400.0,
-     "count": 83
+     "total": 64400.0,
+     "count": 84
     },
     {
      "state": "VA",
@@ -1598,8 +1598,8 @@
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 23000.0,
-     "count": 29
+     "total": 22000.0,
+     "count": 28
     },
     {
      "state": "FL",
@@ -1652,7 +1652,7 @@
      "count": 4
     },
     {
-     "employer": "CONSTELLATION BRANDS",
+     "employer": "EOPTIC",
      "total": 10500.0,
      "count": 3
     },
@@ -1662,12 +1662,12 @@
      "count": 4
     },
     {
-     "employer": "EOPTIC",
+     "employer": "BLACKSTONE",
      "total": 10500.0,
      "count": 3
     },
     {
-     "employer": "BLACKSTONE",
+     "employer": "CONSTELLATION BRANDS",
      "total": 10500.0,
      "count": 3
     },
@@ -1682,7 +1682,7 @@
      "count": 3
     },
     {
-     "employer": "THE ASHLEY COMPANIES",
+     "employer": "BLOOMBERG",
      "total": 7000.0,
      "count": 2
     }
@@ -1690,7 +1690,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -1475,52 +1475,58 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 2762943.47,
+   "itemized_total": 3117550.86,
    "home_state": "NY",
-   "home_state_total": 1037735.97,
+   "home_state_total": 1187313.15,
    "home_state_share": 38,
    "top": [
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 1037735.97,
-     "count": 1045
+     "total": 1187313.15,
+     "count": 1269
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 458280.86,
-     "count": 349
+     "total": 499344.9,
+     "count": 397
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 256971.83,
-     "count": 220
+     "total": 303830.35,
+     "count": 261
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 161992.56,
-     "count": 98
+     "total": 171449.76,
+     "count": 111
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 79578.25,
-     "count": 75
+     "total": 85913.25,
+     "count": 83
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 63771.18,
-     "count": 32
+     "total": 74666.53,
+     "count": 39
     },
     {
      "state": "LA",
      "state_full": "Louisiana",
-     "total": 62338.78,
-     "count": 29
+     "total": 73641.41,
+     "count": 33
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 63230.0,
+     "count": 54
     },
     {
      "state": "MA",
@@ -1529,16 +1535,10 @@
      "count": 23
     },
     {
-     "state": "DC",
-     "state_full": "District Of Columbia",
-     "total": 52980.0,
-     "count": 44
-    },
-    {
      "state": "MN",
      "state_full": "Minnesota",
-     "total": 51639.69,
-     "count": 43
+     "total": 53794.87,
+     "count": 47
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1561,6 +1561,11 @@
      "count": 7
     },
     {
+     "employer": "JANE STREET",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
      "employer": "STARKEY HEARING TECHNOLOGIES",
      "total": 14000.0,
      "count": 4
@@ -1571,19 +1576,14 @@
      "count": 4
     },
     {
-     "employer": "JANE STREET",
-     "total": 14000.0,
-     "count": 6
-    },
-    {
      "employer": "BLUFF POINT ASSOCIATES",
      "total": 13456.67,
      "count": 4
     },
     {
      "employer": "NYCBS",
-     "total": 12852.55,
-     "count": 23
+     "total": 13352.55,
+     "count": 24
     },
     {
      "employer": "PRESIDENT",
@@ -1591,7 +1591,7 @@
      "count": 5
     },
     {
-     "employer": "STIDD SYSTEMS, INC.",
+     "employer": "BRODIE GENERATIONAL CAPITAL PARTNERS",
      "total": 10500.0,
      "count": 3
     }
@@ -1599,7 +1599,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -1807,70 +1807,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 3315567.25,
+   "itemized_total": 3649025.25,
    "home_state": "NJ",
-   "home_state_total": 623820.0,
-   "home_state_share": 19,
+   "home_state_total": 713658.0,
+   "home_state_share": 20,
    "top": [
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 870971.83,
-     "count": 417
+     "total": 976966.83,
+     "count": 487
     },
     {
      "state": "NJ",
      "state_full": "New Jersey",
-     "total": 623820.0,
-     "count": 519
+     "total": 713658.0,
+     "count": 645
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 492998.42,
-     "count": 253
+     "total": 523873.42,
+     "count": 268
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 271810.0,
-     "count": 173
+     "total": 282560.0,
+     "count": 177
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 128150.0,
-     "count": 69
-    },
-    {
-     "state": "MA",
-     "state_full": "Massachusetts",
-     "total": 127500.0,
-     "count": 63
-    },
-    {
-     "state": "CT",
-     "state_full": "Connecticut",
-     "total": 125650.0,
-     "count": 52
+     "total": 142750.0,
+     "count": 76
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 124550.0,
-     "count": 49
+     "total": 128550.0,
+     "count": 51
     },
     {
-     "state": "PA",
-     "state_full": "Pennsylvania",
-     "total": 68385.0,
-     "count": 44
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 127900.0,
+     "count": 65
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 126050.0,
+     "count": 54
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 66550.0,
-     "count": 73
+     "total": 84066.0,
+     "count": 87
+    },
+    {
+     "state": "PA",
+     "state_full": "Pennsylvania",
+     "total": 81065.0,
+     "count": 49
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1888,14 +1888,14 @@
      "count": 17
     },
     {
+     "employer": "BLACKROCK",
+     "total": 32500.0,
+     "count": 11
+    },
+    {
      "employer": "APOLLO GLOBAL MANAGEMENT",
      "total": 29000.0,
      "count": 9
-    },
-    {
-     "employer": "BLACKROCK",
-     "total": 24500.0,
-     "count": 8
     },
     {
      "employer": "SNOW PARTNERS",
@@ -1913,25 +1913,25 @@
      "count": 5
     },
     {
+     "employer": "META",
+     "total": 17000.0,
+     "count": 6
+    },
+    {
      "employer": "ANTHROPIC",
      "total": 14000.0,
      "count": 4
     },
     {
-     "employer": "MONTGOMERY CAPITAL, INC.",
+     "employer": "W&W STEEL",
      "total": 14000.0,
-     "count": 4
-    },
-    {
-     "employer": "STANDARD INDUSTRIES",
-     "total": 14000.0,
-     "count": 4
+     "count": 3
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

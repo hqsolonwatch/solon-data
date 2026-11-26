@@ -584,7 +584,7 @@ var ROLLCALLS = {
 };
 
 var SCHEDULE = {
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "house": {
     "week": "November 30",
     "rows": [
@@ -617,9 +617,9 @@ var SCHEDULE = {
         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/162"
       }
     ],
-    "listed": 19,
+    "listed": 23,
     "source": "docs.house.gov floor schedule",
-    "upcoming": 19,
+    "upcoming": 23,
     "over": false
   },
   "senate": [

@@ -595,16 +595,16 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 3237888.01,
+   "itemized_total": 3237783.33,
    "home_state": "NY",
-   "home_state_total": 1177969.75,
+   "home_state_total": 1177970.25,
    "home_state_share": 36,
    "top": [
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 1177969.75,
-     "count": 6548
+     "total": 1177970.25,
+     "count": 6549
     },
     {
      "state": "FL",
@@ -615,8 +615,8 @@
     {
      "state": "CA",
      "state_full": "California",
-     "total": 223838.18,
-     "count": 4991
+     "total": 223733.0,
+     "count": 4999
     },
     {
      "state": "TX",
@@ -696,30 +696,30 @@
      "count": 6
     },
     {
-     "employer": "OWNER",
-     "total": 7250.0,
-     "count": 3
-    },
-    {
      "employer": "ENTREPRENEUR",
      "total": 7250.0,
      "count": 3
     },
     {
-     "employer": "KASSELMAN ELECTRIC",
+     "employer": "OWNER",
+     "total": 7250.0,
+     "count": 3
+    },
+    {
+     "employer": "SABIN METAL CORPORATION",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "HOFFMAN CAR WASH",
+     "employer": "GENERAL ATLANTIC",
      "total": 7000.0,
-     "count": 2
+     "count": 3
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

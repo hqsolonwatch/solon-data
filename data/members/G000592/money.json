@@ -432,7 +432,7 @@
   {
    "committee_id": "C00782268",
    "name": "NATIONAL ENERGY AND FUELS INSTITUTE INC. HOME COMFORT PAC / NEFI HOME COMFORT PAC",
-   "connected_org": null,
+   "connected_org": "NATIONAL ENERGY AND FUELS INSTITUTE INC.",
    "total": 1500.0
   },
   {
@@ -828,7 +828,32 @@
      "count": 3
     },
     {
-     "employer": "THE JAMES AND JUDITH K. DIMON FOUNDATI",
+     "employer": "ARNOLD VENTURES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "AUSTIN VENTURES",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "FORTRESS INVESTMENT GROUP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "LONE PINE CAPITAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "NIERENBERG INVESTMENT MANAGEMENT",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "LOEWS HOTELS",
      "total": 7000.0,
      "count": 2
     },
@@ -838,32 +863,7 @@
      "count": 2
     },
     {
-     "employer": "JUST CREATIVE PARTNERS",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "MASS GENERAL HOSPITAL",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "GIVE FORWARD FOUNDATION",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "THE BAUPOST GROUP",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "THE RIVERSIDE COMPANY",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "AGINS INTERIOR",
+     "employer": "PLATZ ASSOCIATES",
      "total": 7000.0,
      "count": 2
     }
@@ -871,7 +871,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

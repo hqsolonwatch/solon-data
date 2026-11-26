@@ -1631,34 +1631,40 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 821871.77,
+   "itemized_total": 871956.17,
    "home_state": "MA",
-   "home_state_total": 652713.8,
-   "home_state_share": 79,
+   "home_state_total": 666427.8,
+   "home_state_share": 76,
    "top": [
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 652713.8,
-     "count": 1680
+     "total": 666427.8,
+     "count": 1799
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 60916.6,
-     "count": 114
+     "total": 69577.0,
+     "count": 127
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 43648.54,
-     "count": 51
+     "total": 49148.54,
+     "count": 54
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 21425.0,
+     "count": 16
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 12991.2,
-     "count": 18
+     "total": 17491.2,
+     "count": 22
     },
     {
      "state": "NH",
@@ -1667,16 +1673,16 @@
      "count": 20
     },
     {
-     "state": "NY",
-     "state_full": "New York",
-     "total": 10525.0,
-     "count": 11
-    },
-    {
      "state": "CA",
      "state_full": "California",
      "total": 6800.0,
      "count": 2
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 4773.0,
+     "count": 7
     },
     {
      "state": "OH",
@@ -1685,16 +1691,10 @@
      "count": 2
     },
     {
-     "state": "MO",
-     "state_full": "Missouri",
-     "total": 3500.0,
-     "count": 1
-    },
-    {
-     "state": "PR",
-     "state_full": "Puerto Rico",
-     "total": 3500.0,
-     "count": 1
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 3763.63,
+     "count": 3
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1707,9 +1707,9 @@
      "count": 5
     },
     {
-     "employer": "KEYSER PUBLIC STRATEGIES",
-     "total": 8000.0,
-     "count": 6
+     "employer": "COREWEAVE",
+     "total": 9900.0,
+     "count": 4
     },
     {
      "employer": "RED+BLUE STRATEGIES",
@@ -1717,9 +1717,29 @@
      "count": 4
     },
     {
+     "employer": "KEYSER PUBLIC STRATEGIES",
+     "total": 8000.0,
+     "count": 6
+    },
+    {
      "employer": "BENCHMARK SENIOR LIVING",
      "total": 8000.0,
      "count": 18
+    },
+    {
+     "employer": "BIOGEN",
+     "total": 7500.0,
+     "count": 5
+    },
+    {
+     "employer": "CRE MANAGEMENT",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BAIN CAPITAL",
+     "total": 7000.0,
+     "count": 2
     },
     {
      "employer": "LIFE YIELD",
@@ -1727,27 +1747,7 @@
      "count": 2
     },
     {
-     "employer": "BARR FOUNDATION",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
      "employer": "KOUNTOUPES DENHAM CARR AND REID",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "SUNSHINE PAVING CORP",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "GRANITE TELECOM",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "CRE MANAGEMENT",
      "total": 7000.0,
      "count": 2
     }
@@ -1755,7 +1755,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

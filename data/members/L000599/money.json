@@ -3304,70 +3304,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 5974792.25,
+   "itemized_total": 7308508.06,
    "home_state": "NY",
-   "home_state_total": 2349798.57,
-   "home_state_share": 39,
+   "home_state_total": 3063165.19,
+   "home_state_share": 42,
    "top": [
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 2349798.57,
-     "count": 2714
+     "total": 3063165.19,
+     "count": 3693
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 828421.88,
-     "count": 1004
+     "total": 929737.02,
+     "count": 1220
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 554588.04,
-     "count": 744
+     "total": 615318.29,
+     "count": 886
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 418249.34,
-     "count": 597
+     "total": 515337.53,
+     "count": 771
     },
     {
      "state": "NJ",
      "state_full": "New Jersey",
-     "total": 246888.73,
-     "count": 224
+     "total": 319615.33,
+     "count": 304
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 165216.12,
-     "count": 311
+     "total": 192823.15,
+     "count": 358
     },
     {
      "state": "CT",
      "state_full": "Connecticut",
-     "total": 131006.88,
-     "count": 148
+     "total": 154830.04,
+     "count": 170
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 117784.43,
-     "count": 276
+     "total": 140898.97,
+     "count": 339
     },
     {
      "state": "CO",
      "state_full": "Colorado",
-     "total": 95819.59,
-     "count": 138
+     "total": 124627.48,
+     "count": 158
     },
     {
-     "state": "LA",
-     "state_full": "Louisiana",
-     "total": 92490.1,
-     "count": 88
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 96990.44,
+     "count": 105
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -3381,8 +3381,8 @@
     },
     {
      "employer": "BLACKSTONE",
-     "total": 34500.0,
-     "count": 18
+     "total": 38000.0,
+     "count": 19
     },
     {
      "employer": "APOLLO",
@@ -3391,8 +3391,8 @@
     },
     {
      "employer": "BGR GROUP",
-     "total": 24730.0,
-     "count": 24
+     "total": 29230.0,
+     "count": 26
     },
     {
      "employer": "COINBASE",
@@ -3405,30 +3405,30 @@
      "count": 6
     },
     {
+     "employer": "CAPITAL REALTY GROUP",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
      "employer": "ARNOLD VENTURES",
      "total": 17500.0,
      "count": 5
     },
     {
-     "employer": "CAPITAL REALTY GROUP",
-     "total": 17500.0,
+     "employer": "APOLLO GLOBAL MANAGEMENT",
+     "total": 16500.0,
      "count": 5
     },
     {
-     "employer": "NEW MOUNTAIN CAPITAL",
-     "total": 15500.0,
+     "employer": "KKR",
+     "total": 16000.0,
      "count": 5
-    },
-    {
-     "employer": "MORGAN STANLEY",
-     "total": 15425.0,
-     "count": 10
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

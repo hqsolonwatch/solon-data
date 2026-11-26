@@ -2914,70 +2914,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 3644939.15,
+   "itemized_total": 4716415.03,
    "home_state": "NY",
-   "home_state_total": 2067030.93,
-   "home_state_share": 57,
+   "home_state_total": 2739185.83,
+   "home_state_share": 58,
    "top": [
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 2067030.93,
-     "count": 1972
+     "total": 2739185.83,
+     "count": 2853
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 398787.56,
-     "count": 345
+     "total": 446682.93,
+     "count": 408
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 234843.75,
-     "count": 162
+     "total": 276547.75,
+     "count": 199
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 185900.2,
-     "count": 104
+     "total": 210057.53,
+     "count": 133
     },
     {
      "state": "CT",
      "state_full": "Connecticut",
-     "total": 108940.41,
-     "count": 92
-    },
-    {
-     "state": "IL",
-     "state_full": "Illinois",
-     "total": 85792.5,
-     "count": 55
+     "total": 123741.91,
+     "count": 112
     },
     {
      "state": "NJ",
      "state_full": "New Jersey",
-     "total": 79583.33,
-     "count": 61
+     "total": 108291.33,
+     "count": 98
     },
     {
-     "state": "TX",
-     "state_full": "Texas",
-     "total": 63416.66,
-     "count": 32
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 95103.22,
+     "count": 64
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 61070.6,
-     "count": 61
+     "total": 88774.44,
+     "count": 109
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 81798.44,
+     "count": 49
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 38368.1,
-     "count": 45
+     "total": 60549.68,
+     "count": 67
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -2996,8 +2996,8 @@
     },
     {
      "employer": "GLOBAL INDUSTRIAL",
-     "total": 27600.0,
-     "count": 8
+     "total": 28100.0,
+     "count": 9
     },
     {
      "employer": "APOLLO GLOBAL MANAGEMENT",
@@ -3005,9 +3005,19 @@
      "count": 10
     },
     {
-     "employer": "BAIN CAPITAL",
+     "employer": "AXCELUS FINANCIAL",
+     "total": 20750.0,
+     "count": 13
+    },
+    {
+     "employer": "BROADRIDGE FINANCIAL SERVICES",
+     "total": 15000.0,
+     "count": 6
+    },
+    {
+     "employer": "BROADRIDGE",
      "total": 14000.0,
-     "count": 4
+     "count": 5
     },
     {
      "employer": "JANE STREET CAPITAL",
@@ -3020,25 +3030,15 @@
      "count": 4
     },
     {
-     "employer": "RIPCO",
-     "total": 12200.0,
-     "count": 5
-    },
-    {
-     "employer": "UROLOGY OF INDIANA",
-     "total": 12000.0,
-     "count": 20
-    },
-    {
-     "employer": "RBC CAPITAL MARKETS",
-     "total": 10750.0,
-     "count": 9
+     "employer": "BAIN CAPITAL",
+     "total": 14000.0,
+     "count": 4
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

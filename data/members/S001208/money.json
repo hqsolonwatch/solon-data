@@ -242,70 +242,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1955157.39,
+   "itemized_total": 2344318.83,
    "home_state": "MI",
-   "home_state_total": 790985.27,
-   "home_state_share": 40,
+   "home_state_total": 993792.18,
+   "home_state_share": 42,
    "top": [
     {
      "state": "MI",
      "state_full": "Michigan",
-     "total": 790985.27,
-     "count": 13333
+     "total": 993792.18,
+     "count": 17748
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 270993.42,
-     "count": 2485
+     "total": 302142.29,
+     "count": 3282
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 193124.91,
-     "count": 1276
+     "total": 212391.41,
+     "count": 1623
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 68416.5,
-     "count": 716
+     "total": 78048.0,
+     "count": 926
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 64067.25,
-     "count": 622
+     "total": 76681.72,
+     "count": 801
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 59898.5,
-     "count": 551
+     "total": 69448.5,
+     "count": 719
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 51816.5,
-     "count": 479
+     "total": 61486.0,
+     "count": 594
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 51111.0,
-     "count": 414
+     "total": 59010.0,
+     "count": 561
     },
     {
      "state": "PA",
      "state_full": "Pennsylvania",
-     "total": 35898.79,
-     "count": 279
+     "total": 44454.79,
+     "count": 390
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 35678.0,
-     "count": 400
+     "total": 40923.69,
+     "count": 545
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -313,14 +313,14 @@
   "donor_employers": {
    "top": [
     {
+     "employer": "MICHIGAN STATE UNIVERSITY",
+     "total": 16595.36,
+     "count": 324
+    },
+    {
      "employer": "THE WONDERFUL COMPANY",
      "total": 14000.0,
      "count": 4
-    },
-    {
-     "employer": "MICHIGAN STATE UNIVERSITY",
-     "total": 13787.64,
-     "count": 250
     },
     {
      "employer": "APOLLO GLOBAL MANAGEMENT",
@@ -328,14 +328,14 @@
      "count": 4
     },
     {
+     "employer": "UNIVERSITY OF MICHIGAN",
+     "total": 9239.0,
+     "count": 225
+    },
+    {
      "employer": "APOLLO",
      "total": 8500.0,
      "count": 3
-    },
-    {
-     "employer": "UNIVERSITY OF MICHIGAN",
-     "total": 7842.0,
-     "count": 187
     },
     {
      "employer": "JANE STREET CAPITAL",
@@ -348,12 +348,12 @@
      "count": 5
     },
     {
-     "employer": "STRELITZIA VENTURES",
+     "employer": "WOODLAND FOODS",
      "total": 5000.0,
      "count": 2
     },
     {
-     "employer": "WOODLAND FOODS",
+     "employer": "STRELITZIA VENTURES",
      "total": 5000.0,
      "count": 2
     },
@@ -366,7 +366,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

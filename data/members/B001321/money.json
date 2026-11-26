@@ -2218,70 +2218,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 3362454.42,
+   "itemized_total": 4468709.53,
    "home_state": "MI",
-   "home_state_total": 751368.85,
-   "home_state_share": 22,
+   "home_state_total": 1029489.46,
+   "home_state_share": 23,
    "top": [
     {
      "state": "MI",
      "state_full": "Michigan",
-     "total": 751368.85,
-     "count": 795
+     "total": 1029489.46,
+     "count": 1190
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 438713.7,
-     "count": 927
+     "total": 509365.51,
+     "count": 1209
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 403048.19,
-     "count": 836
+     "total": 508620.38,
+     "count": 1144
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 246664.48,
-     "count": 1033
+     "total": 357368.9,
+     "count": 1453
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 159473.95,
-     "count": 371
-    },
-    {
-     "state": "OH",
-     "state_full": "Ohio",
-     "total": 90935.21,
-     "count": 363
+     "total": 252307.94,
+     "count": 519
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 88663.01,
-     "count": 578
+     "total": 141943.04,
+     "count": 737
     },
     {
      "state": "PA",
      "state_full": "Pennsylvania",
-     "total": 80052.69,
-     "count": 401
+     "total": 109898.04,
+     "count": 609
     },
     {
-     "state": "LA",
-     "state_full": "Louisiana",
-     "total": 76924.55,
-     "count": 197
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 106553.78,
+     "count": 499
     },
     {
-     "state": "MN",
-     "state_full": "Minnesota",
-     "total": 74378.65,
-     "count": 160
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 91593.82,
+     "count": 376
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 91150.18,
+     "count": 238
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -2290,21 +2290,16 @@
    "top": [
     {
      "employer": "OWNER",
-     "total": 30047.62,
-     "count": 18
+     "total": 38884.66,
+     "count": 23
     },
     {
-     "employer": "FLEXIBL PLAN INVESTMENTS, LTD",
+     "employer": "STARKEY HEARING",
      "total": 14000.0,
      "count": 4
     },
     {
-     "employer": "OWOSSO SPEEDWAY",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
-     "employer": "PUROLITE",
+     "employer": "VETERANS UNITED HOME LOANS",
      "total": 14000.0,
      "count": 4
     },
@@ -2314,7 +2309,12 @@
      "count": 4
     },
     {
-     "employer": "WINKLEVOSS CAPITAL",
+     "employer": "OWOSSO SPEEDWAY",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "FLEXIBL PLAN INVESTMENTS, LTD",
      "total": 14000.0,
      "count": 4
     },
@@ -2324,25 +2324,25 @@
      "count": 4
     },
     {
-     "employer": "STARKEY HEARING",
+     "employer": "HAWORTH, INC.",
      "total": 14000.0,
      "count": 4
     },
     {
-     "employer": "VETERANS UNITED HOME LOANS",
-     "total": 10500.0,
-     "count": 3
+     "employer": "WINKLEVOSS CAPITAL",
+     "total": 14000.0,
+     "count": 4
     },
     {
-     "employer": "ADAPTIVE CONSTRUCTION SOLUTION",
-     "total": 8917.59,
-     "count": 5
+     "employer": "PUROLITE",
+     "total": 14000.0,
+     "count": 4
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

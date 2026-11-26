@@ -742,76 +742,81 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 3459066.42,
+   "itemized_total": 4026860.84,
    "home_state": "OH",
-   "home_state_total": 1203403.25,
-   "home_state_share": 35,
+   "home_state_total": 1347537.06,
+   "home_state_share": 33,
    "top": [
     {
      "state": "OH",
      "state_full": "Ohio",
-     "total": 1203403.25,
-     "count": 2959
+     "total": 1347537.06,
+     "count": 3620
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 475960.3,
-     "count": 816
-    },
-    {
-     "state": "TX",
-     "state_full": "Texas",
-     "total": 239523.85,
-     "count": 952
+     "total": 539333.99,
+     "count": 1135
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 187014.57,
-     "count": 495
+     "total": 294191.43,
+     "count": 748
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 276029.45,
+     "count": 1470
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 177167.13,
-     "count": 343
+     "total": 181419.71,
+     "count": 439
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 121921.56,
-     "count": 97
+     "total": 128051.56,
+     "count": 110
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 87585.84,
-     "count": 268
+     "total": 115961.15,
+     "count": 426
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 72218.56,
-     "count": 64
+     "total": 81318.56,
+     "count": 71
     },
     {
-     "state": "CT",
-     "state_full": "Connecticut",
-     "total": 59919.25,
-     "count": 74
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 76656.16,
+     "count": 274
     },
     {
      "state": "PA",
      "state_full": "Pennsylvania",
-     "total": 59232.12,
-     "count": 141
+     "total": 70000.03,
+     "count": 199
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
   },
   "donor_employers": {
    "top": [
+    {
+     "employer": "KIMBLE COMPANY",
+     "total": 29665.0,
+     "count": 10
+    },
     {
      "employer": "RIPPLE",
      "total": 26400.0,
@@ -838,19 +843,14 @@
      "count": 10
     },
     {
+     "employer": "AUTOMOTIVE DEALERSHIP",
+     "total": 13200.0,
+     "count": 5
+    },
+    {
      "employer": "TOYOTA OF SAJN BERNARDINO",
      "total": 13200.0,
      "count": 4
-    },
-    {
-     "employer": "EREBOR BANK",
-     "total": 13200.0,
-     "count": 4
-    },
-    {
-     "employer": "ADVANTAGE TRUCK GROUP LLC",
-     "total": 13200.0,
-     "count": 5
     },
     {
      "employer": "ANDHEALTH",
@@ -858,15 +858,15 @@
      "count": 4
     },
     {
-     "employer": "MASTEC INC",
+     "employer": "AHCV",
      "total": 13200.0,
-     "count": 4
+     "count": 5
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

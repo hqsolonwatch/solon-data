@@ -1907,70 +1907,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 966999.49,
+   "itemized_total": 1133121.6,
    "home_state": "OK",
-   "home_state_total": 610836.88,
-   "home_state_share": 63,
+   "home_state_total": 690239.32,
+   "home_state_share": 61,
    "top": [
     {
      "state": "OK",
      "state_full": "Oklahoma",
-     "total": 610836.88,
-     "count": 494
-    },
-    {
-     "state": "VA",
-     "state_full": "Virginia",
-     "total": 81645.83,
-     "count": 125
+     "total": 690239.32,
+     "count": 581
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 79633.07,
-     "count": 64
+     "total": 104440.27,
+     "count": 104
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 93305.43,
+     "count": 160
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 37833.66,
-     "count": 27
-    },
-    {
-     "state": "NY",
-     "state_full": "New York",
-     "total": 28100.72,
-     "count": 18
+     "total": 43775.51,
+     "count": 46
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 26311.53,
-     "count": 33
+     "total": 36357.53,
+     "count": 40
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 29204.82,
+     "count": 21
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 19234.23,
-     "count": 24
+     "total": 24734.23,
+     "count": 27
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 18736.98,
+     "count": 60
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 17583.32,
-     "count": 11
+     "total": 18130.49,
+     "count": 38
     },
     {
      "state": "CT",
      "state_full": "Connecticut",
      "total": 14000.0,
      "count": 4
-    },
-    {
-     "state": "WA",
-     "state_full": "Washington",
-     "total": 8550.0,
-     "count": 6
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1978,14 +1978,29 @@
   "donor_employers": {
    "top": [
     {
+     "employer": "VALERO ENERGY",
+     "total": 21000.0,
+     "count": 13
+    },
+    {
+     "employer": "CORNERSTONE GOVERNMENT AFFAIRS",
+     "total": 14500.0,
+     "count": 14
+    },
+    {
      "employer": "LOVES",
      "total": 13500.0,
      "count": 5
     },
     {
-     "employer": "CORNERSTONE GOVERNMENT AFFAIRS",
-     "total": 12000.0,
-     "count": 12
+     "employer": "S-3 GROUP",
+     "total": 10500.0,
+     "count": 4
+    },
+    {
+     "employer": "UNITED DYNAMICS",
+     "total": 10000.0,
+     "count": 4
     },
     {
      "employer": "BANCFIRST",
@@ -2011,27 +2026,12 @@
      "employer": "SKYDWELLER AERO",
      "total": 7000.0,
      "count": 2
-    },
-    {
-     "employer": "GARDNER TANENBAUM",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "TURNAROUND PROFESSIONALS",
-     "total": 7000.0,
-     "count": 4
-    },
-    {
-     "employer": "DUCHOSSOIS CAPITAL MANAGEMENT",
-     "total": 7000.0,
-     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

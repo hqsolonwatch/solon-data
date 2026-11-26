@@ -750,70 +750,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1045271.0,
+   "itemized_total": 1259217.45,
    "home_state": "NV",
-   "home_state_total": 156521.71,
-   "home_state_share": 15,
+   "home_state_total": 200212.49,
+   "home_state_share": 16,
    "top": [
     {
      "state": "CA",
      "state_full": "California",
-     "total": 171357.41,
-     "count": 3168
+     "total": 211011.84,
+     "count": 3700
     },
     {
      "state": "NV",
      "state_full": "Nevada",
-     "total": 156521.71,
-     "count": 1520
+     "total": 200212.49,
+     "count": 1871
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 146194.77,
-     "count": 1186
-    },
-    {
-     "state": "MD",
-     "state_full": "Maryland",
-     "total": 58503.76,
-     "count": 554
-    },
-    {
-     "state": "TX",
-     "state_full": "Texas",
-     "total": 55642.13,
-     "count": 673
+     "total": 182532.39,
+     "count": 1353
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 54372.5,
-     "count": 759
+     "total": 68855.93,
+     "count": 897
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 63030.76,
+     "count": 633
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 61059.84,
+     "count": 805
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 48140.0,
-     "count": 108
+     "total": 52610.0,
+     "count": 123
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 37601.76,
-     "count": 471
-    },
-    {
-     "state": "IL",
-     "state_full": "Illinois",
-     "total": 35704.38,
-     "count": 317
+     "total": 40920.51,
+     "count": 563
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 33525.02,
-     "count": 659
+     "total": 40329.41,
+     "count": 794
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 37908.59,
+     "count": 374
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -827,8 +827,13 @@
     },
     {
      "employer": "WINGED KEEL GROUP",
+     "total": 15000.0,
+     "count": 14
+    },
+    {
+     "employer": "BLACKSTONE",
      "total": 14000.0,
-     "count": 13
+     "count": 4
     },
     {
      "employer": "APOLLO GLOBAL MANAGEMENT",
@@ -841,27 +846,17 @@
      "count": 4
     },
     {
-     "employer": "GENERAL ATOMICS",
+     "employer": "BLACKROCK INC.",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "JANE STREET CAPITAL",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "HOPE CHICAGO",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "SV ANGEL, LLC",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "APOLLO MANAGEMENT",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "WANXIANG AMERICA CORPORATION",
+     "employer": "LS POWER DEVELOPMENT",
      "total": 7000.0,
      "count": 2
     },
@@ -869,12 +864,17 @@
      "employer": "JUSTWORKS",
      "total": 7000.0,
      "count": 2
+    },
+    {
+     "employer": "MEDLINE INDUSTRIES, LP",
+     "total": 7000.0,
+     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

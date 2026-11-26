@@ -1772,22 +1772,22 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 602336.0,
+   "itemized_total": 693301.0,
    "home_state": "OH",
-   "home_state_total": 387125.0,
-   "home_state_share": 64,
+   "home_state_total": 461705.0,
+   "home_state_share": 67,
    "top": [
     {
      "state": "OH",
      "state_full": "Ohio",
-     "total": 387125.0,
-     "count": 422
+     "total": 461705.0,
+     "count": 507
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 48750.0,
-     "count": 51
+     "total": 56000.0,
+     "count": 55
     },
     {
      "state": "TX",
@@ -1796,16 +1796,16 @@
      "count": 16
     },
     {
-     "state": "CA",
-     "state_full": "California",
-     "total": 26605.0,
-     "count": 21
-    },
-    {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 24750.0,
-     "count": 26
+     "total": 30250.0,
+     "count": 31
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 26650.0,
+     "count": 24
     },
     {
      "state": "NY",
@@ -1826,16 +1826,16 @@
      "count": 4
     },
     {
-     "state": "NC",
-     "state_full": "North Carolina",
-     "total": 7105.0,
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 7500.0,
      "count": 9
     },
     {
-     "state": "NV",
-     "state_full": "Nevada",
-     "total": 7000.0,
-     "count": 2
+     "state": "NC",
+     "state_full": "North Carolina",
+     "total": 7150.0,
+     "count": 12
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1844,8 +1844,8 @@
    "top": [
     {
      "employer": "MISSION STRATEGIES",
-     "total": 20250.0,
-     "count": 17
+     "total": 21000.0,
+     "count": 18
     },
     {
      "employer": "RW BECKETT",
@@ -1853,24 +1853,19 @@
      "count": 6
     },
     {
+     "employer": "BLOCK COMMUNICATIONS, INC.",
+     "total": 8000.0,
+     "count": 3
+    },
+    {
      "employer": "ANDREESSEN HOROWITZ",
      "total": 8000.0,
      "count": 3
     },
     {
-     "employer": "COOPER FARMS HATCHERY",
+     "employer": "CROWN EQUIPMENT",
      "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "BARD MFG. CO.",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "COOPER FARMS",
-     "total": 7000.0,
-     "count": 2
+     "count": 3
     },
     {
      "employer": "MCCAULLEYCOMPANY",
@@ -1878,12 +1873,17 @@
      "count": 5
     },
     {
-     "employer": "ARNOLD VENTURES",
+     "employer": "BARD MFG. CO.",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "PROFICIO",
+     "employer": "COOPER FARMS HATCHERY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "COOPER FARMS",
      "total": 7000.0,
      "count": 2
     },
@@ -1896,7 +1896,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

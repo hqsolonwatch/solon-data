@@ -1412,28 +1412,34 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 900491.4,
+   "itemized_total": 1182904.93,
    "home_state": "MI",
-   "home_state_total": 406826.82,
+   "home_state_total": 536695.23,
    "home_state_share": 45,
    "top": [
     {
      "state": "MI",
      "state_full": "Michigan",
-     "total": 406826.82,
-     "count": 481
+     "total": 536695.23,
+     "count": 697
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 94681.06,
+     "count": 61
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 82798.12,
-     "count": 58
+     "total": 87448.12,
+     "count": 64
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 72352.55,
-     "count": 56
+     "total": 83852.55,
+     "count": 65
     },
     {
      "state": "AZ",
@@ -1442,40 +1448,34 @@
      "count": 41
     },
     {
-     "state": "NY",
-     "state_full": "New York",
-     "total": 42250.0,
-     "count": 32
-    },
-    {
      "state": "CA",
      "state_full": "California",
-     "total": 41373.05,
-     "count": 24
+     "total": 44923.05,
+     "count": 26
     },
     {
      "state": "NJ",
      "state_full": "New Jersey",
-     "total": 34650.0,
-     "count": 26
+     "total": 38650.0,
+     "count": 28
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 33143.57,
-     "count": 32
+     "total": 34143.57,
+     "count": 34
     },
     {
      "state": "MN",
      "state_full": "Minnesota",
-     "total": 17789.02,
-     "count": 12
+     "total": 24789.02,
+     "count": 14
     },
     {
-     "state": "IN",
-     "state_full": "Indiana",
-     "total": 14000.0,
-     "count": 6
+     "state": "NV",
+     "state_full": "Nevada",
+     "total": 17824.24,
+     "count": 17
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1489,8 +1489,8 @@
     },
     {
      "employer": "PRINCETON ENTERPRISES LLC",
-     "total": 21000.0,
-     "count": 9
+     "total": 28000.0,
+     "count": 10
     },
     {
      "employer": "GRAND CANYON EDUCATION",
@@ -1498,9 +1498,24 @@
      "count": 12
     },
     {
+     "employer": "N/A RETIRED",
+     "total": 14388.56,
+     "count": 39
+    },
+    {
+     "employer": "APOLLO",
+     "total": 14143.56,
+     "count": 7
+    },
+    {
      "employer": "MCKINLEY ASSOCIATES INC",
      "total": 14000.0,
      "count": 3
+    },
+    {
+     "employer": "PRINCETON MANAGEMENT",
+     "total": 14000.0,
+     "count": 4
     },
     {
      "employer": "FIELDVIEW CAPITAL MANAGEMENT",
@@ -1516,27 +1531,12 @@
      "employer": "UNIVERSITY OF PHOENIX",
      "total": 9500.0,
      "count": 4
-    },
-    {
-     "employer": "LANCASTER SCHOOL OF COSMETOLOGY",
-     "total": 8602.54,
-     "count": 9
-    },
-    {
-     "employer": "ADRIAN COLLEGE",
-     "total": 8500.0,
-     "count": 6
-    },
-    {
-     "employer": "MIAMI REGIONAL UNIVERSITY",
-     "total": 7500.0,
-     "count": 4
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

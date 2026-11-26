@@ -1207,14 +1207,14 @@
   "committee_name": "MARK ALFORD FOR CONGRESS, INC.",
   "coverage_start": "2025-01-01T00:00:00",
   "coverage_end": "2026-10-14T00:00:00",
-  "receipts": 1599365.96,
+  "receipts": 1592030.96,
   "amounts": {
-   "individuals_200_or_less": 17859.5,
-   "individuals_over_200": 829555.7,
+   "individuals_200_or_less": 17809.5,
+   "individuals_over_200": 821270.7,
    "pacs_and_parties": 699810.91,
    "candidate_own": 0.0,
    "transfers_from_authorized": 50139.85,
-   "other_receipts": 2000.0
+   "other_receipts": 3000.0
   },
   "types": [
    [
@@ -1223,11 +1223,11 @@
    ],
    [
     "Individuals giving more than $200",
-    54
+    53
    ],
    [
     "PACs and party committees",
-    45
+    46
    ],
    [
     "Candidate’s own money",
@@ -1359,7 +1359,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

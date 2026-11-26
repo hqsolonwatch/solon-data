@@ -292,14 +292,9 @@
      "count": 2
     },
     {
-     "employer": "THOMPSON COBURN LLP",
+     "employer": "NELSON TREMAIN",
      "total": 50.0,
      "count": 2
-    },
-    {
-     "employer": "ISD-11",
-     "total": 50.0,
-     "count": 1
     },
     {
      "employer": "HCMC",
@@ -307,15 +302,20 @@
      "count": 2
     },
     {
-     "employer": "AUGSBURG UNIVERSITY",
+     "employer": "WHEN I WORK",
      "total": 50.0,
      "count": 2
+    },
+    {
+     "employer": "ISD-11",
+     "total": 50.0,
+     "count": 1
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

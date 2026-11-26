@@ -1200,70 +1200,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 3806337.7,
+   "itemized_total": 4631020.94,
    "home_state": "MD",
-   "home_state_total": 1257913.71,
+   "home_state_total": 1519404.61,
    "home_state_share": 33,
    "top": [
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 1257913.71,
-     "count": 11930
+     "total": 1519404.61,
+     "count": 15169
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 493599.86,
-     "count": 4870
+     "total": 611313.98,
+     "count": 6322
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 393283.84,
-     "count": 2167
+     "total": 447811.18,
+     "count": 2835
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 247235.91,
-     "count": 1073
+     "total": 277429.36,
+     "count": 1335
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 215689.42,
-     "count": 1325
+     "total": 272014.54,
+     "count": 1731
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 156822.93,
-     "count": 1116
+     "total": 183732.88,
+     "count": 1450
     },
     {
      "state": "PA",
      "state_full": "Pennsylvania",
-     "total": 102578.31,
-     "count": 986
-    },
-    {
-     "state": "VA",
-     "state_full": "Virginia",
-     "total": 95159.36,
-     "count": 766
+     "total": 124586.31,
+     "count": 1294
     },
     {
      "state": "WA",
      "state_full": "Washington",
-     "total": 84243.2,
-     "count": 727
+     "total": 112318.24,
+     "count": 1006
     },
     {
-     "state": "NJ",
-     "state_full": "New Jersey",
-     "total": 63903.69,
-     "count": 656
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 111327.45,
+     "count": 1034
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 83805.11,
+     "count": 579
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1272,8 +1272,8 @@
    "top": [
     {
      "employer": "AMERICAN UNIVERSITY",
-     "total": 17775.0,
-     "count": 56
+     "total": 18105.0,
+     "count": 71
     },
     {
      "employer": "ROM-RYMER AND ASSOCIATES",
@@ -1282,16 +1282,21 @@
     },
     {
      "employer": "GEORGETOWN UNIVERSITY",
-     "total": 8248.7,
-     "count": 41
+     "total": 9948.7,
+     "count": 51
     },
     {
-     "employer": "LONE PINE CAPITAL",
-     "total": 7000.0,
-     "count": 2
+     "employer": "SULLIVAN & CROMWELL",
+     "total": 8250.0,
+     "count": 4
     },
     {
-     "employer": "ALSOP LOUIE PARTNERS",
+     "employer": "JOHNS HOPKINS UNIVERSITY",
+     "total": 7135.0,
+     "count": 43
+    },
+    {
+     "employer": "THE BAUPOST GROUP",
      "total": 7000.0,
      "count": 2
     },
@@ -1301,22 +1306,17 @@
      "count": 2
     },
     {
+     "employer": "WILLIAMS & CONNOLLY LLP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BETTER BANKING LAW",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
      "employer": "DOUGLAS & LONDON P.C.",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "WEINMAN COMPANY",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "INTRAFI",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "ANALYSIS GROUP",
      "total": 7000.0,
      "count": 2
     }
@@ -1324,7 +1324,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

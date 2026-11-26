@@ -2218,70 +2218,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 2944555.07,
+   "itemized_total": 3421671.03,
    "home_state": "PA",
-   "home_state_total": 705177.53,
-   "home_state_share": 24,
+   "home_state_total": 896949.97,
+   "home_state_share": 26,
    "top": [
     {
      "state": "PA",
      "state_full": "Pennsylvania",
-     "total": 705177.53,
-     "count": 1185
+     "total": 896949.97,
+     "count": 1661
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 498858.16,
-     "count": 1923
+     "total": 538397.18,
+     "count": 2459
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 392044.34,
-     "count": 2187
+     "total": 410620.57,
+     "count": 2474
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 219095.46,
-     "count": 420
+     "total": 284655.59,
+     "count": 474
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 189336.51,
-     "count": 1371
+     "total": 222362.66,
+     "count": 1611
     },
     {
      "state": "LA",
      "state_full": "Louisiana",
-     "total": 96564.66,
-     "count": 230
+     "total": 98679.5,
+     "count": 258
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 82720.37,
-     "count": 404
+     "total": 97058.22,
+     "count": 491
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 80077.28,
-     "count": 432
-    },
-    {
-     "state": "TN",
-     "state_full": "Tennessee",
-     "total": 54019.6,
-     "count": 252
+     "total": 89890.12,
+     "count": 513
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 53894.65,
-     "count": 65
+     "total": 64312.26,
+     "count": 87
+    },
+    {
+     "state": "MN",
+     "state_full": "Minnesota",
+     "total": 55419.65,
+     "count": 184
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -2292,6 +2292,11 @@
      "employer": "MILLER STRATEGIES",
      "total": 21000.0,
      "count": 6
+    },
+    {
+     "employer": "LINCOLN INTERNATIONAL",
+     "total": 21000.0,
+     "count": 4
     },
     {
      "employer": "VALMORE GP",
@@ -2319,9 +2324,9 @@
      "count": 8
     },
     {
-     "employer": "BRODIE GENERATIONAL CAPITAL PARTNERS",
+     "employer": "DUCHOSSOIS CAPITAL MANAGEMENT",
      "total": 10500.0,
-     "count": 3
+     "count": 8
     },
     {
      "employer": "MILLER STRATEGIES, LLC",
@@ -2329,20 +2334,15 @@
      "count": 3
     },
     {
-     "employer": "DUCHOSSOIS CAPITAL MANAGEMENT",
+     "employer": "JANE STREET",
      "total": 10500.0,
-     "count": 8
-    },
-    {
-     "employer": "CONTINENTAL INVESTORS",
-     "total": 8809.52,
-     "count": 4
+     "count": 3
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

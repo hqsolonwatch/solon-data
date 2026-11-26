@@ -1659,70 +1659,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1138517.55,
+   "itemized_total": 1431334.87,
    "home_state": "NH",
-   "home_state_total": 190542.97,
+   "home_state_total": 236963.71,
    "home_state_share": 17,
    "top": [
     {
      "state": "NH",
      "state_full": "New Hampshire",
-     "total": 190542.97,
-     "count": 2694
+     "total": 236963.71,
+     "count": 3437
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 127455.84,
-     "count": 694
+     "total": 180697.34,
+     "count": 964
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 120513.86,
-     "count": 1077
-    },
-    {
-     "state": "DC",
-     "state_full": "District Of Columbia",
-     "total": 114200.0,
-     "count": 152
+     "total": 162250.85,
+     "count": 1523
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 100933.92,
-     "count": 738
+     "total": 131923.66,
+     "count": 1009
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 125325.0,
+     "count": 175
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 72632.4,
-     "count": 272
+     "total": 83959.9,
+     "count": 334
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 70565.5,
-     "count": 293
+     "total": 77946.75,
+     "count": 402
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 37836.0,
-     "count": 328
+     "total": 52460.0,
+     "count": 478
     },
     {
      "state": "WA",
      "state_full": "Washington",
-     "total": 29651.5,
-     "count": 331
+     "total": 32761.0,
+     "count": 409
     },
     {
-     "state": "PA",
-     "state_full": "Pennsylvania",
-     "total": 24215.0,
-     "count": 231
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 30668.87,
+     "count": 595
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1730,14 +1730,29 @@
   "donor_employers": {
    "top": [
     {
+     "employer": "ANTHROPIC, PBC",
+     "total": 31500.0,
+     "count": 9
+    },
+    {
      "employer": "ANTHROPIC PBC",
      "total": 28000.0,
      "count": 8
     },
     {
      "employer": "LIBERTY MUTUAL INSURANCE COMPANY",
-     "total": 17926.47,
-     "count": 22
+     "total": 18926.47,
+     "count": 24
+    },
+    {
+     "employer": "VETERANS UNITED HOME LOANS",
+     "total": 14000.0,
+     "count": 6
+    },
+    {
+     "employer": "CORNERSTONE GOVERNMENT AFFAIRS INC.",
+     "total": 11000.0,
+     "count": 14
     },
     {
      "employer": "WINGED KEEL GROUP, INC.",
@@ -1750,9 +1765,9 @@
      "count": 3
     },
     {
-     "employer": "CORNERSTONE GOVERNMENT AFFAIRS INC.",
-     "total": 10000.0,
-     "count": 12
+     "employer": "AKIN GUMP STRAUSS HAUER & FELD LLP",
+     "total": 8000.0,
+     "count": 9
     },
     {
      "employer": "CHISHOLM CHISHOLM & KILPATRICK LTD.",
@@ -1763,27 +1778,12 @@
      "employer": "CONSTELLATION BIO",
      "total": 7000.0,
      "count": 2
-    },
-    {
-     "employer": "MASS GENERAL HOSPITAL",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "140 SUMMER PARTNERS LP",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "VETERANS UNITED HOME LOANS",
-     "total": 7000.0,
-     "count": 3
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

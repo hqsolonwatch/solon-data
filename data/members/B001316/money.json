@@ -714,70 +714,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 571162.97,
+   "itemized_total": 622334.07,
    "home_state": "MO",
-   "home_state_total": 249873.76,
+   "home_state_total": 272201.72,
    "home_state_share": 44,
    "top": [
     {
      "state": "MO",
      "state_full": "Missouri",
-     "total": 249873.76,
-     "count": 362
+     "total": 272201.72,
+     "count": 401
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 56924.17,
-     "count": 1427
+     "total": 61085.27,
+     "count": 1537
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 33142.91,
-     "count": 288
+     "total": 34167.7,
+     "count": 318
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 25716.28,
-     "count": 746
+     "total": 27401.98,
+     "count": 771
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 16932.11,
-     "count": 696
+     "total": 25667.02,
+     "count": 840
     },
     {
      "state": "CO",
      "state_full": "Colorado",
-     "total": 16501.53,
-     "count": 74
+     "total": 17111.58,
+     "count": 79
     },
     {
      "state": "WY",
      "state_full": "Wyoming",
-     "total": 16286.33,
-     "count": 45
-    },
-    {
-     "state": "OH",
-     "state_full": "Ohio",
-     "total": 11848.15,
-     "count": 110
-    },
-    {
-     "state": "MI",
-     "state_full": "Michigan",
-     "total": 11677.26,
-     "count": 290
+     "total": 16333.83,
+     "count": 46
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 10750.0,
-     "count": 11
+     "total": 15750.0,
+     "count": 14
+    },
+    {
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 11984.82,
+     "count": 305
+    },
+    {
+     "state": "OH",
+     "state_full": "Ohio",
+     "total": 11878.48,
+     "count": 113
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -795,22 +795,12 @@
      "count": 8
     },
     {
-     "employer": "FITBRAZIL",
-     "total": 7000.0,
-     "count": 3
-    },
-    {
-     "employer": "MA TRADERS",
-     "total": 7000.0,
-     "count": 7
-    },
-    {
      "employer": "MINISTRY PRESBYTERIAN CHURCH",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "HUTCHENS CONSTRUCTION CO.",
+     "employer": "HUNTER ENGINEERING",
      "total": 7000.0,
      "count": 2
     },
@@ -820,9 +810,19 @@
      "count": 2
     },
     {
-     "employer": "HUNTER ENGINEERING",
+     "employer": "HUTCHENS CONSTRUCTION CO.",
      "total": 7000.0,
      "count": 2
+    },
+    {
+     "employer": "MA TRADERS",
+     "total": 7000.0,
+     "count": 7
+    },
+    {
+     "employer": "FITBRAZIL",
+     "total": 7000.0,
+     "count": 3
     },
     {
      "employer": "SPACEX",
@@ -838,7 +838,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

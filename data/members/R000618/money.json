@@ -924,7 +924,7 @@
   {
    "committee_id": "C00826362",
    "name": "WINNING FOR AMERICA PAC",
-   "connected_org": "WINNING FOR AMERICA FUND",
+   "connected_org": "SCHMITT",
    "total": 5000.0
   },
   {
@@ -1888,70 +1888,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 3967574.79,
+   "itemized_total": 4866708.75,
    "home_state": "NE",
-   "home_state_total": 1472608.68,
+   "home_state_total": 1786762.98,
    "home_state_share": 37,
    "top": [
     {
      "state": "NE",
      "state_full": "Nebraska",
-     "total": 1472608.68,
-     "count": 835
-    },
-    {
-     "state": "NY",
-     "state_full": "New York",
-     "total": 257902.44,
-     "count": 108
+     "total": 1786762.98,
+     "count": 1028
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 248262.2,
-     "count": 170
+     "total": 304724.66,
+     "count": 223
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 303792.44,
+     "count": 142
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 227212.59,
-     "count": 221
+     "total": 288645.3,
+     "count": 449
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 205486.01,
-     "count": 278
+     "total": 258068.05,
+     "count": 524
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 182607.95,
-     "count": 218
-    },
-    {
-     "state": "AZ",
-     "state_full": "Arizona",
-     "total": 125473.22,
-     "count": 94
+     "total": 224339.78,
+     "count": 573
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 116280.17,
-     "count": 98
+     "total": 140019.84,
+     "count": 162
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 133253.22,
+     "count": 107
     },
     {
      "state": "MI",
      "state_full": "Michigan",
-     "total": 106250.0,
-     "count": 51
+     "total": 124250.0,
+     "count": 59
     },
     {
-     "state": "CT",
-     "state_full": "Connecticut",
-     "total": 105632.25,
-     "count": 53
+     "state": "MO",
+     "state_full": "Missouri",
+     "total": 123066.12,
+     "count": 58
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1960,13 +1960,13 @@
    "top": [
     {
      "employer": "PEARSON & ASSOCIATES",
-     "total": 236360.47,
-     "count": 228
+     "total": 238560.47,
+     "count": 232
     },
     {
      "employer": "HOLTZMAN VOGEL, PLLC",
-     "total": 80400.0,
-     "count": 27
+     "total": 83900.0,
+     "count": 28
     },
     {
      "employer": "BP",
@@ -1974,19 +1974,19 @@
      "count": 27
     },
     {
-     "employer": "GREENAMERICAN BIOFUELS",
-     "total": 39000.0,
-     "count": 13
+     "employer": "ANTHROPIC",
+     "total": 49000.0,
+     "count": 14
     },
     {
-     "employer": "ANTHROPIC",
-     "total": 35000.0,
-     "count": 10
+     "employer": "GREENAMERICAN BIOFUELS",
+     "total": 42500.0,
+     "count": 14
     },
     {
      "employer": "S-3 GROUP",
-     "total": 34885.0,
-     "count": 35
+     "total": 35375.0,
+     "count": 39
     },
     {
      "employer": "U.S. TRAVEL ASSOCIATION",
@@ -2012,7 +2012,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

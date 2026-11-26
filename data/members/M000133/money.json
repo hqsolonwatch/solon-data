@@ -834,70 +834,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 3895661.56,
+   "itemized_total": 4171459.29,
    "home_state": "MA",
-   "home_state_total": 1737080.18,
+   "home_state_total": 1867828.79,
    "home_state_share": 45,
    "top": [
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 1737080.18,
-     "count": 9446
+     "total": 1867828.79,
+     "count": 10527
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 604608.77,
-     "count": 776
+     "total": 628613.27,
+     "count": 840
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 290566.0,
-     "count": 344
+     "total": 304058.0,
+     "count": 373
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 273609.59,
-     "count": 292
+     "total": 297540.29,
+     "count": 317
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 168754.48,
-     "count": 227
+     "total": 185359.48,
+     "count": 257
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 133273.87,
-     "count": 131
+     "total": 140020.87,
+     "count": 141
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 106335.0,
-     "count": 157
+     "total": 119026.9,
+     "count": 186
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 90928.0,
-     "count": 110
+     "total": 102288.0,
+     "count": 122
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 90737.0,
-     "count": 143
+     "total": 98082.0,
+     "count": 164
     },
     {
      "state": "WA",
      "state_full": "Washington",
-     "total": 64893.0,
-     "count": 129
+     "total": 70632.52,
+     "count": 146
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -905,9 +905,19 @@
   "donor_employers": {
    "top": [
     {
+     "employer": "DRAFTKINGS",
+     "total": 32000.0,
+     "count": 10
+    },
+    {
      "employer": "KECHES LAW GROUP",
      "total": 16350.0,
      "count": 19
+    },
+    {
+     "employer": "STEPTOE LLP",
+     "total": 16250.0,
+     "count": 16
     },
     {
      "employer": "CENTERVIEW PARTNERS",
@@ -920,9 +930,9 @@
      "count": 5
     },
     {
-     "employer": "BAIN CAPITAL",
+     "employer": "EDM MANAGEMENT",
      "total": 14000.0,
-     "count": 4
+     "count": 6
     },
     {
      "employer": "ANTHROPIC",
@@ -930,22 +940,7 @@
      "count": 4
     },
     {
-     "employer": "STEPTOE LLP",
-     "total": 14000.0,
-     "count": 12
-    },
-    {
-     "employer": "NEW ENGLAND DEVELOPMENT",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
-     "employer": "EDM MANAGEMENT",
-     "total": 14000.0,
-     "count": 6
-    },
-    {
-     "employer": "DRAFTKINGS",
+     "employer": "BAIN CAPITAL",
      "total": 14000.0,
      "count": 4
     },
@@ -953,12 +948,17 @@
      "employer": "Q PRIME INC.",
      "total": 14000.0,
      "count": 4
+    },
+    {
+     "employer": "NEW ENGLAND DEVELOPMENT",
+     "total": 14000.0,
+     "count": 4
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

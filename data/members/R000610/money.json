@@ -1850,70 +1850,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1971994.5,
+   "itemized_total": 2301798.45,
    "home_state": "PA",
-   "home_state_total": 619972.82,
-   "home_state_share": 31,
+   "home_state_total": 730408.62,
+   "home_state_share": 32,
    "top": [
     {
      "state": "PA",
      "state_full": "Pennsylvania",
-     "total": 619972.82,
-     "count": 1314
+     "total": 730408.62,
+     "count": 1888
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 207985.32,
-     "count": 2489
+     "total": 233124.74,
+     "count": 3213
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 149632.3,
-     "count": 892
-    },
-    {
-     "state": "TX",
-     "state_full": "Texas",
-     "total": 123582.33,
-     "count": 2759
-    },
-    {
-     "state": "VA",
-     "state_full": "Virginia",
-     "total": 107770.75,
-     "count": 744
+     "total": 157916.09,
+     "count": 1242
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 104887.41,
-     "count": 2180
+     "total": 154905.36,
+     "count": 3284
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 140231.02,
+     "count": 3779
+    },
+    {
+     "state": "VA",
+     "state_full": "Virginia",
+     "total": 124234.74,
+     "count": 1161
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 72996.56,
-     "count": 209
-    },
-    {
-     "state": "NV",
-     "state_full": "Nevada",
-     "total": 62121.91,
-     "count": 248
+     "total": 79144.06,
+     "count": 233
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 58770.24,
-     "count": 75
+     "total": 67270.24,
+     "count": 82
+    },
+    {
+     "state": "NV",
+     "state_full": "Nevada",
+     "total": 62849.74,
+     "count": 288
     },
     {
      "state": "TN",
      "state_full": "Tennessee",
-     "total": 44233.77,
-     "count": 606
+     "total": 50782.27,
+     "count": 756
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1951,30 +1951,30 @@
      "count": 3
     },
     {
-     "employer": "TARGETED VICTORY",
-     "total": 7500.0,
+     "employer": "INNOVATIVE FEDERAL STRATEGIES",
+     "total": 8500.0,
+     "count": 5
+    },
+    {
+     "employer": "COLE CONTRACTING INC",
+     "total": 7080.0,
+     "count": 3
+    },
+    {
+     "employer": "GUY CHEMICAL COMPANY INC",
+     "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "AKIN GUMP STRAUSS HAUER AND FELD",
-     "total": 7000.0,
-     "count": 1
-    },
-    {
-     "employer": "FUNDING METRICS",
+     "employer": "ATLANTIC GULF  PACIFIC MANAGEMENT, LLC",
      "total": 7000.0,
      "count": 2
-    },
-    {
-     "employer": "SYNERGOS HOLDINGS LLC",
-     "total": 7000.0,
-     "count": 4
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

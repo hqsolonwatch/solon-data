@@ -1500,70 +1500,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 3381939.05,
+   "itemized_total": 4223337.98,
    "home_state": "PA",
-   "home_state_total": 641824.76,
-   "home_state_share": 19,
+   "home_state_total": 930966.66,
+   "home_state_share": 22,
    "top": [
     {
      "state": "PA",
      "state_full": "Pennsylvania",
-     "total": 641824.76,
-     "count": 2286
+     "total": 930966.66,
+     "count": 3537
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 486817.38,
-     "count": 932
+     "total": 540884.94,
+     "count": 1377
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 428155.07,
-     "count": 1035
+     "total": 490029.47,
+     "count": 1362
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 282735.99,
-     "count": 1018
+     "total": 349746.72,
+     "count": 1448
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 145104.68,
-     "count": 352
+     "total": 171750.3,
+     "count": 505
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 126452.62,
-     "count": 271
+     "total": 145880.12,
+     "count": 391
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 104060.72,
-     "count": 542
+     "total": 132254.69,
+     "count": 726
     },
     {
      "state": "TN",
      "state_full": "Tennessee",
-     "total": 84072.18,
-     "count": 213
+     "total": 90472.18,
+     "count": 281
     },
     {
      "state": "LA",
      "state_full": "Louisiana",
-     "total": 81474.45,
-     "count": 167
+     "total": 90062.61,
+     "count": 229
     },
     {
-     "state": "MN",
-     "state_full": "Minnesota",
-     "total": 68322.75,
-     "count": 199
+     "state": "MI",
+     "state_full": "Michigan",
+     "total": 80658.25,
+     "count": 383
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1572,16 +1572,16 @@
    "top": [
     {
      "employer": "SAULSBURY INDUSTRIES",
-     "total": 16500.0,
-     "count": 7
+     "total": 23500.0,
+     "count": 9
     },
     {
-     "employer": "STARKEY HEARING TECHNOLOGIES",
+     "employer": "MILLER STRATEGIES LLC",
      "total": 14000.0,
      "count": 4
     },
     {
-     "employer": "MILLER STRATEGIES LLC",
+     "employer": "STARKEY HEARING TECHNOLOGIES",
      "total": 14000.0,
      "count": 4
     },
@@ -1601,7 +1601,12 @@
      "count": 4
     },
     {
-     "employer": "BRODIE GENERATIONAL CAPITAL PARTNERS",
+     "employer": "STARVIEW DEVELOPMENT INC.",
+     "total": 10500.0,
+     "count": 5
+    },
+    {
+     "employer": "WESTERN MUTUAL INSURANCE",
      "total": 10500.0,
      "count": 3
     },
@@ -1611,20 +1616,15 @@
      "count": 3
     },
     {
-     "employer": "ADHESIVES RESEARCH",
-     "total": 8700.0,
-     "count": 7
-    },
-    {
-     "employer": "ENERGY TRANSFER PARTNERS",
-     "total": 8456.67,
+     "employer": "BRODIE GENERATIONAL CAPITAL PARTNERS",
+     "total": 10500.0,
      "count": 3
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

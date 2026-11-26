@@ -1840,11 +1840,6 @@
      "count": 4
     },
     {
-     "employer": "MCCAULLEY & CO.",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
      "employer": "TRIMBLE",
      "total": 7000.0,
      "count": 3
@@ -1855,9 +1850,14 @@
      "count": 2
     },
     {
-     "employer": "CROSS POTOMAC CONSULTING",
+     "employer": "INNOVATIVE FEDERAL STRATEGIES, LLC",
      "total": 7000.0,
-     "count": 4
+     "count": 2
+    },
+    {
+     "employer": "ANDURIL INDUSTRIES, INC.",
+     "total": 7000.0,
+     "count": 2
     },
     {
      "employer": "BLACKSTONE",
@@ -1865,12 +1865,12 @@
      "count": 2
     },
     {
-     "employer": "INNOVATIVE FEDERAL STRATEGIES, LLC",
+     "employer": "APOLLO MANAGEMENT",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "APOLLO MANAGEMENT",
+     "employer": "MCCAULLEY & CO.",
      "total": 7000.0,
      "count": 2
     }
@@ -1878,7 +1878,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

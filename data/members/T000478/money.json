@@ -330,7 +330,7 @@
   {
    "committee_id": "C00782268",
    "name": "NATIONAL ENERGY AND FUELS INSTITUTE INC. HOME COMFORT PAC / NEFI HOME COMFORT PAC",
-   "connected_org": null,
+   "connected_org": "NATIONAL ENERGY AND FUELS INSTITUTE INC.",
    "total": 5970.0
   },
   {
@@ -2292,70 +2292,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1257921.3,
+   "itemized_total": 1340148.45,
    "home_state": "NY",
-   "home_state_total": 484063.76,
+   "home_state_total": 515454.63,
    "home_state_share": 38,
    "top": [
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 484063.76,
-     "count": 1484
+     "total": 515454.63,
+     "count": 1785
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 187034.01,
-     "count": 839
-    },
-    {
-     "state": "TX",
-     "state_full": "Texas",
-     "total": 69964.0,
-     "count": 950
+     "total": 197654.03,
+     "count": 909
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 67775.05,
-     "count": 724
+     "total": 76353.1,
+     "count": 826
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 75630.19,
+     "count": 1030
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 59233.66,
-     "count": 357
+     "total": 64417.96,
+     "count": 416
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 43011.27,
-     "count": 269
+     "total": 44372.99,
+     "count": 328
     },
     {
      "state": "CT",
      "state_full": "Connecticut",
-     "total": 42237.01,
-     "count": 122
-    },
-    {
-     "state": "DC",
-     "state_full": "District Of Columbia",
-     "total": 30500.0,
-     "count": 41
+     "total": 42735.09,
+     "count": 143
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 29715.7,
-     "count": 114
+     "total": 33923.79,
+     "count": 123
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 33000.0,
+     "count": 45
     },
     {
      "state": "NC",
      "state_full": "North Carolina",
-     "total": 24438.23,
-     "count": 100
+     "total": 25129.13,
+     "count": 124
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -2363,17 +2363,7 @@
   "donor_employers": {
    "top": [
     {
-     "employer": "BLUE OWL CAPITAL",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
      "employer": "DUCHOSSOIS CAPITAL MANAGEMENT",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
-     "employer": "LEFRAK",
      "total": 14000.0,
      "count": 4
     },
@@ -2383,9 +2373,24 @@
      "count": 4
     },
     {
+     "employer": "LEFRAK",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "BLUE OWL CAPITAL",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
      "employer": "ADVANTAGE CAPITAL",
      "total": 13300.0,
      "count": 9
+    },
+    {
+     "employer": "MINDSET",
+     "total": 11000.0,
+     "count": 4
     },
     {
      "employer": "BLOOM ENERGY",
@@ -2395,7 +2400,7 @@
     {
      "employer": "BILL CRAMER GM",
      "total": 10300.0,
-     "count": 5
+     "count": 8
     },
     {
      "employer": "WEXFORD CAPITAL",
@@ -2406,17 +2411,12 @@
      "employer": "NOVOGRADAC  COMPANY LLP",
      "total": 9000.0,
      "count": 5
-    },
-    {
-     "employer": "ENTREPRENEUR",
-     "total": 9000.0,
-     "count": 4
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

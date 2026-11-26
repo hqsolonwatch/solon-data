@@ -1106,7 +1106,7 @@
      "state": "OH",
      "state_full": "Ohio",
      "total": 510193.55,
-     "count": 761
+     "count": 762
     },
     {
      "state": "CA",
@@ -1189,8 +1189,8 @@
     },
     {
      "employer": "TWINS BUICK GMC",
-     "total": 8000.0,
-     "count": 6
+     "total": 10500.0,
+     "count": 7
     },
     {
      "employer": "GOVERNMENT STRATEGIES GROUP",
@@ -1221,7 +1221,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

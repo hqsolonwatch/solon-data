@@ -1530,70 +1530,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1421224.14,
+   "itemized_total": 1839034.49,
    "home_state": "MI",
-   "home_state_total": 845834.12,
-   "home_state_share": 60,
+   "home_state_total": 1074474.29,
+   "home_state_share": 58,
    "top": [
     {
      "state": "MI",
      "state_full": "Michigan",
-     "total": 845834.12,
-     "count": 4074
+     "total": 1074474.29,
+     "count": 5148
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 90764.24,
-     "count": 94
-    },
-    {
-     "state": "MA",
-     "state_full": "Massachusetts",
-     "total": 79645.17,
-     "count": 67
-    },
-    {
-     "state": "IL",
-     "state_full": "Illinois",
-     "total": 76810.0,
-     "count": 150
+     "total": 141995.57,
+     "count": 130
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 69010.39,
-     "count": 74
+     "total": 106235.39,
+     "count": 102
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 89160.0,
+     "count": 180
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 81105.17,
+     "count": 75
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 52406.64,
-     "count": 61
+     "total": 55906.64,
+     "count": 70
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 41110.0,
-     "count": 102
+     "total": 43020.0,
+     "count": 113
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 37342.67,
-     "count": 54
+     "total": 41286.67,
+     "count": 67
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 23215.0,
-     "count": 36
+     "total": 28465.0,
+     "count": 43
     },
     {
      "state": "CO",
      "state_full": "Colorado",
-     "total": 15721.15,
-     "count": 15
+     "total": 23375.0,
+     "count": 21
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1602,18 +1602,23 @@
    "top": [
     {
      "employer": "COREWELL HEALTH",
-     "total": 28625.0,
-     "count": 36
+     "total": 29625.0,
+     "count": 37
     },
     {
      "employer": "MILLER JOHNSON",
-     "total": 18600.0,
-     "count": 23
+     "total": 20130.0,
+     "count": 28
     },
     {
      "employer": "VARNUM LLP",
-     "total": 11600.0,
-     "count": 14
+     "total": 14100.0,
+     "count": 18
+    },
+    {
+     "employer": "BLACKSTONE",
+     "total": 10500.0,
+     "count": 3
     },
     {
      "employer": "NYMAN TURKISH PC",
@@ -1626,7 +1631,12 @@
      "count": 7
     },
     {
-     "employer": "RING FOUNDATION",
+     "employer": "Q PRIME INC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "BRIDGEWRIGHT WEALTH PARTNERS",
      "total": 7000.0,
      "count": 2
     },
@@ -1636,17 +1646,7 @@
      "count": 2
     },
     {
-     "employer": "JOHNS HOPKINS APPLIED PHYSICS LAB",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "DETROIT PISTONS",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "INTRAFI",
+     "employer": "RIVERSTONE COMMUNITIES",
      "total": 7000.0,
      "count": 2
     }
@@ -1654,7 +1654,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

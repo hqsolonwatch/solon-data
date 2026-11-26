@@ -1552,70 +1552,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 3708484.92,
+   "itemized_total": 4340629.69,
    "home_state": "NY",
-   "home_state_total": 1897284.06,
+   "home_state_total": 2201115.82,
    "home_state_share": 51,
    "top": [
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 1897284.06,
-     "count": 1796
+     "total": 2201115.82,
+     "count": 2325
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 472951.54,
-     "count": 450
+     "total": 521150.34,
+     "count": 514
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 224836.82,
-     "count": 275
+     "total": 243467.73,
+     "count": 312
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 179354.17,
-     "count": 169
+     "total": 227624.9,
+     "count": 244
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 122900.49,
-     "count": 165
-    },
-    {
-     "state": "CT",
-     "state_full": "Connecticut",
-     "total": 116591.97,
-     "count": 92
+     "total": 146487.59,
+     "count": 192
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 115013.21,
-     "count": 107
+     "total": 129585.9,
+     "count": 120
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 128241.97,
+     "count": 102
     },
     {
      "state": "NJ",
      "state_full": "New Jersey",
-     "total": 96906.92,
-     "count": 120
-    },
-    {
-     "state": "DC",
-     "state_full": "District Of Columbia",
-     "total": 68873.77,
-     "count": 125
+     "total": 116366.92,
+     "count": 142
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 64591.66,
-     "count": 40
+     "total": 93591.66,
+     "count": 55
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 83924.46,
+     "count": 153
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1628,7 +1628,7 @@
      "count": 9
     },
     {
-     "employer": "BESSEMER VENTURE PARTNERS",
+     "employer": "LAUDER PARTNERS LLC",
      "total": 14000.0,
      "count": 4
     },
@@ -1638,14 +1638,14 @@
      "count": 5
     },
     {
+     "employer": "BESSEMER VENTURE PARTNERS",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
      "employer": "CENTERVIEW PARTNERS",
      "total": 14000.0,
      "count": 6
-    },
-    {
-     "employer": "LAUDER PARTNERS LLC",
-     "total": 14000.0,
-     "count": 4
     },
     {
      "employer": "GOOGLE",
@@ -1658,25 +1658,25 @@
      "count": 4
     },
     {
-     "employer": "JANE STREET",
+     "employer": "LAW OFFICE OF JULIE JOHNSON",
      "total": 10500.0,
      "count": 3
     },
     {
-     "employer": "STERLING RISK",
-     "total": 10300.0,
-     "count": 4
+     "employer": "CORDISH COMPANIES",
+     "total": 10500.0,
+     "count": 3
     },
     {
-     "employer": "WILLIAMS & CONNOLLY LLP",
-     "total": 10000.0,
-     "count": 9
+     "employer": "JANE STREET",
+     "total": 10500.0,
+     "count": 3
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

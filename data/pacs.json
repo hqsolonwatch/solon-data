@@ -6341,7 +6341,7 @@
   {
    "id": "C00187799",
    "name": "NORTHWESTERN ENERGY EMPLOYEES PAC",
-   "connected_org": "NORTHWESTERN ENEREGY",
+   "connected_org": "NORTHWESTERN ENERGY",
    "org_type": "C",
    "type": "Q",
    "designation": "U"
@@ -8109,8 +8109,8 @@
   {
    "id": "C00245910",
    "name": "PACIFIC COAST PRODUCERS POLITICAL ACTION COMMITTEE FEDERAL",
-   "connected_org": null,
-   "org_type": "V",
+   "connected_org": "PACIFIC COAST PRODUCERS",
+   "org_type": null,
    "type": "Q",
    "designation": "U"
   },
@@ -22717,7 +22717,7 @@
   {
    "id": "C00519900",
    "name": "BERA VICTORY FUND",
-   "connected_org": null,
+   "connected_org": "NONE",
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -30541,7 +30541,7 @@
   {
    "id": "C00659219",
    "name": "AMERICAN JOBS AND GROWTH PAC",
-   "connected_org": null,
+   "connected_org": "NONE",
    "org_type": null,
    "type": "O",
    "designation": "U"
@@ -32061,7 +32061,7 @@
   {
    "id": "C00683250",
    "name": "GENERATION GO LEADERSHIP PAC",
-   "connected_org": null,
+   "connected_org": "GOMEZ",
    "org_type": null,
    "type": "N",
    "designation": "D"
@@ -41157,10 +41157,10 @@
   {
    "id": "C00782268",
    "name": "NATIONAL ENERGY AND FUELS INSTITUTE INC. HOME COMFORT PAC / NEFI HOME COMFORT PAC",
-   "connected_org": null,
+   "connected_org": "NATIONAL ENERGY AND FUELS INSTITUTE INC.",
    "org_type": "T",
    "type": "Q",
-   "designation": "U"
+   "designation": "B"
   },
   {
    "id": "C00782292",
@@ -41445,7 +41445,7 @@
   {
    "id": "C00785121",
    "name": "AFFORDABLE ENERGY FUND PAC",
-   "connected_org": null,
+   "connected_org": "NONE",
    "org_type": null,
    "type": "O",
    "designation": "U"
@@ -43057,6 +43057,22 @@
    "org_type": null,
    "type": "N",
    "designation": "D"
+  },
+  {
+   "id": "C00800070",
+   "name": "SOVEREIGNTY PAC",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "O",
+   "designation": "U"
+  },
+  {
+   "id": "C00800071",
+   "name": "NEW AMERICAN INDUSTRIAL ALLIANCE POLITICAL ACTION COMMITTEE (NAIA PAC)",
+   "connected_org": "NEW AMERICAN INDUSTRIAL ALLIANCE",
+   "org_type": "T",
+   "type": "N",
+   "designation": "B"
   },
   {
    "id": "C00800227",
@@ -46637,7 +46653,7 @@
   {
    "id": "C00826362",
    "name": "WINNING FOR AMERICA PAC",
-   "connected_org": "WINNING FOR AMERICA FUND",
+   "connected_org": "SCHMITT",
    "org_type": null,
    "type": "Q",
    "designation": "D"
@@ -47405,7 +47421,7 @@
   {
    "id": "C00829705",
    "name": "WINNING FOR AMERICA FUND",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"
@@ -82877,7 +82893,7 @@
   {
    "id": "C00958009",
    "name": "PARENTAL, DOMESTIC RELATIONS, AND FAMILY TRANSFORMATION LPAC",
-   "connected_org": "MURRAY",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "D"
@@ -82917,7 +82933,7 @@
   {
    "id": "C00958074",
    "name": "INNOVATION OHIO PAC",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "O",
    "designation": "U"
@@ -83421,7 +83437,7 @@
   {
    "id": "C00958975",
    "name": "NELLIE POU VICTORY FUND",
-   "connected_org": "NONE",
+   "connected_org": null,
    "org_type": null,
    "type": "N",
    "designation": "J"

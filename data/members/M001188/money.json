@@ -1178,16 +1178,22 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1444692.33,
+   "itemized_total": 1470287.33,
    "home_state": "NY",
-   "home_state_total": 1004188.16,
+   "home_state_total": 1022388.16,
    "home_state_share": 70,
    "top": [
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 1004188.16,
-     "count": 855
+     "total": 1022388.16,
+     "count": 876
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 70975.0,
+     "count": 46
     },
     {
      "state": "CT",
@@ -1202,12 +1208,6 @@
      "count": 39
     },
     {
-     "state": "CA",
-     "state_full": "California",
-     "total": 67600.0,
-     "count": 41
-    },
-    {
      "state": "MD",
      "state_full": "Maryland",
      "total": 46015.6,
@@ -1216,8 +1216,8 @@
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 31210.0,
-     "count": 21
+     "total": 32210.0,
+     "count": 22
     },
     {
      "state": "DC",
@@ -1264,12 +1264,12 @@
      "count": 4
     },
     {
-     "employer": "REESE LLP",
+     "employer": "PRINCETON UNIVERSITY",
      "total": 10500.0,
      "count": 3
     },
     {
-     "employer": "PRINCETON UNIVERSITY",
+     "employer": "REESE LLP",
      "total": 10500.0,
      "count": 3
     },
@@ -1289,12 +1289,12 @@
      "count": 4
     },
     {
-     "employer": "CRYSTAL WINDOW",
+     "employer": "GOOGLE",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "SHINE ELECTRONICS",
+     "employer": "AIGEN INVESTMENT MANAGEMENT",
      "total": 7000.0,
      "count": 2
     }
@@ -1302,7 +1302,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

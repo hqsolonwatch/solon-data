@@ -99,8 +99,8 @@
   "coverage_end": "2026-09-30T00:00:00",
   "receipts": 4965731.1,
   "amounts": {
-   "individuals_200_or_less": 3091486.58,
-   "individuals_over_200": 1679286.15,
+   "individuals_200_or_less": 3091336.58,
+   "individuals_over_200": 1679436.15,
    "pacs_and_parties": 25000.0,
    "candidate_own": 0.0,
    "transfers_from_authorized": 107000.0,
@@ -249,7 +249,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

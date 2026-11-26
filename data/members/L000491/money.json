@@ -1418,12 +1418,12 @@
      "count": 10
     },
     {
-     "employer": "BLACKSTONE",
+     "employer": "EVANS & ASSOCIATES",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "EVANS & ASSOCIATES",
+     "employer": "BLACKSTONE",
      "total": 7000.0,
      "count": 2
     },
@@ -1438,22 +1438,22 @@
      "count": 2
     },
     {
-     "employer": "HOUSEWIFE",
-     "total": 3500.0,
-     "count": 1
-    },
-    {
-     "employer": "NOT A CORPORATION",
-     "total": 3500.0,
-     "count": 1
-    },
-    {
      "employer": "WILMES CHEVROLET",
      "total": 3500.0,
      "count": 1
     },
     {
-     "employer": "CLEARPATH",
+     "employer": "GROENDYKE TRANSPORT",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "HILLIARY COMMUNICATIONS",
+     "total": 3500.0,
+     "count": 1
+    },
+    {
+     "employer": "BERGEY WINDPOWER",
      "total": 3500.0,
      "count": 1
     }
@@ -1461,7 +1461,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -487,22 +487,22 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 362867.0,
+   "itemized_total": 365022.0,
    "home_state": "LA",
-   "home_state_total": 306414.0,
+   "home_state_total": 306934.0,
    "home_state_share": 84,
    "top": [
     {
      "state": "LA",
      "state_full": "Louisiana",
-     "total": 306414.0,
-     "count": 190
+     "total": 306934.0,
+     "count": 200
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 9799.0,
-     "count": 36
+     "total": 10909.0,
+     "count": 44
     },
     {
      "state": "TX",
@@ -535,16 +535,16 @@
      "count": 2
     },
     {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 3675.0,
+     "count": 9
+    },
+    {
      "state": "TN",
      "state_full": "Tennessee",
      "total": 3600.0,
      "count": 2
-    },
-    {
-     "state": "MA",
-     "state_full": "Massachusetts",
-     "total": 3275.0,
-     "count": 8
     },
     {
      "state": "VA",
@@ -578,22 +578,17 @@
      "count": 3
     },
     {
-     "employer": "LAW OFFICES OF PAULA L. HARTLEY CLAYTO",
-     "total": 7000.0,
-     "count": 3
-    },
-    {
      "employer": "WEST CARROLL HEALTH SYSTEMS",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "LOUISIANA WASTE SYSTEM",
-     "total": 6600.0,
-     "count": 2
+     "employer": "LAW OFFICES OF PAULA L. HARTLEY CLAYTO",
+     "total": 7000.0,
+     "count": 3
     },
     {
-     "employer": "SOUTHERN STRATEGY GROUP",
+     "employer": "MORGAN & MORGAN LAND PREPARATION LLC",
      "total": 6600.0,
      "count": 2
     },
@@ -603,7 +598,12 @@
      "count": 2
     },
     {
-     "employer": "MORGAN & MORGAN LAND PREPARATION LLC",
+     "employer": "INDUSTRIAL FABRICS, INC",
+     "total": 6600.0,
+     "count": 2
+    },
+    {
+     "employer": "LOUISIANA WASTE SYSTEM",
      "total": 6600.0,
      "count": 2
     }
@@ -611,7 +611,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

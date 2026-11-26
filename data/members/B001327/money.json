@@ -2638,70 +2638,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 3406522.72,
+   "itemized_total": 4043480.85,
    "home_state": "PA",
-   "home_state_total": 1087130.81,
-   "home_state_share": 32,
+   "home_state_total": 1409755.53,
+   "home_state_share": 35,
    "top": [
     {
      "state": "PA",
      "state_full": "Pennsylvania",
-     "total": 1087130.81,
-     "count": 1614
+     "total": 1409755.53,
+     "count": 2391
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 488209.86,
-     "count": 737
+     "total": 535033.91,
+     "count": 970
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 385232.12,
-     "count": 593
-    },
-    {
-     "state": "CA",
-     "state_full": "California",
-     "total": 212130.02,
-     "count": 432
+     "total": 428036.6,
+     "count": 822
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 206626.99,
-     "count": 200
+     "total": 241677.02,
+     "count": 244
     },
     {
-     "state": "LA",
-     "state_full": "Louisiana",
-     "total": 91629.8,
-     "count": 71
+     "state": "CA",
+     "state_full": "California",
+     "total": 240487.33,
+     "count": 628
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 91038.26,
-     "count": 125
+     "total": 97464.79,
+     "count": 187
+    },
+    {
+     "state": "LA",
+     "state_full": "Louisiana",
+     "total": 94494.8,
+     "count": 81
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 74365.09,
-     "count": 162
+     "total": 88276.3,
+     "count": 269
     },
     {
      "state": "CO",
      "state_full": "Colorado",
-     "total": 61463.46,
-     "count": 158
+     "total": 67665.25,
+     "count": 196
     },
     {
-     "state": "TN",
-     "state_full": "Tennessee",
-     "total": 52834.08,
-     "count": 85
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 59608.91,
+     "count": 92
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -2714,24 +2714,24 @@
      "count": 6
     },
     {
+     "employer": "GENTEX CORPORATION",
+     "total": 17300.0,
+     "count": 5
+    },
+    {
+     "employer": "CEO",
+     "total": 16159.12,
+     "count": 10
+    },
+    {
+     "employer": "ATTORNEY",
+     "total": 15423.01,
+     "count": 13
+    },
+    {
      "employer": "COINBASE",
      "total": 14875.0,
      "count": 6
-    },
-    {
-     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
-     "employer": "STARKEY HEARING TECHNOLOGIES",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
-     "employer": "GENTEX CORPORATION",
-     "total": 14000.0,
-     "count": 4
     },
     {
      "employer": "VALMORE GP",
@@ -2739,30 +2739,30 @@
      "count": 6
     },
     {
+     "employer": "STARKEY HEARING TECHNOLOGIES",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "WINKLEVOSS CAPITAL MANAGEMENT",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
      "employer": "RHL COMPANIES",
      "total": 12500.0,
      "count": 7
     },
     {
-     "employer": "ATTORNEY",
-     "total": 12398.41,
-     "count": 11
-    },
-    {
      "employer": "DISTRIBUTED CAPITAL PARTNERS",
      "total": 12200.0,
      "count": 4
-    },
-    {
-     "employer": "CEO",
-     "total": 10969.05,
-     "count": 6
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

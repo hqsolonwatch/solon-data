@@ -533,70 +533,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 2254210.0,
+   "itemized_total": 2744789.66,
    "home_state": "NY",
-   "home_state_total": 1306260.65,
+   "home_state_total": 1605046.35,
    "home_state_share": 58,
    "top": [
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 1306260.65,
-     "count": 3174
+     "total": 1605046.35,
+     "count": 4308
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 226735.33,
-     "count": 620
+     "total": 270087.59,
+     "count": 926
     },
     {
      "state": "NJ",
      "state_full": "New Jersey",
-     "total": 117102.5,
-     "count": 127
+     "total": 151297.67,
+     "count": 200
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 106635.0,
-     "count": 244
+     "total": 138760.7,
+     "count": 440
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 90430.0,
-     "count": 101
-    },
-    {
-     "state": "TX",
-     "state_full": "Texas",
-     "total": 61229.67,
-     "count": 300
+     "total": 109710.0,
+     "count": 119
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 58759.5,
-     "count": 80
+     "total": 67157.0,
+     "count": 183
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 66172.67,
+     "count": 561
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 54476.5,
-     "count": 71
+     "total": 57343.0,
+     "count": 105
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 45325.67,
-     "count": 82
+     "total": 48507.67,
+     "count": 148
     },
     {
      "state": "CT",
      "state_full": "Connecticut",
-     "total": 36126.68,
-     "count": 35
+     "total": 41871.51,
+     "count": 80
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -617,6 +617,11 @@
      "employer": "PARADIGM",
      "total": 23000.0,
      "count": 7
+    },
+    {
+     "employer": "ANTHROPIC",
+     "total": 21000.0,
+     "count": 6
     },
     {
      "employer": "WILLKIE FARR & GALLAGHER LLP",
@@ -644,20 +649,15 @@
      "count": 6
     },
     {
-     "employer": "M&A",
+     "employer": "KREINDLER & KREINDLER",
      "total": 14000.0,
-     "count": 4
-    },
-    {
-     "employer": "ELECTRIC CAPITAL",
-     "total": 14000.0,
-     "count": 4
+     "count": 6
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

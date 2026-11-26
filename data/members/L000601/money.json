@@ -2032,70 +2032,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 3405233.98,
+   "itemized_total": 4033105.12,
    "home_state": "OH",
-   "home_state_total": 821344.17,
-   "home_state_share": 24,
+   "home_state_total": 1031174.72,
+   "home_state_share": 26,
    "top": [
     {
      "state": "OH",
      "state_full": "Ohio",
-     "total": 821344.17,
-     "count": 1782
+     "total": 1031174.72,
+     "count": 2553
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 778137.28,
-     "count": 360
+     "total": 891027.0,
+     "count": 426
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 443052.82,
-     "count": 311
+     "total": 550902.82,
+     "count": 399
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 185090.71,
-     "count": 204
-    },
-    {
-     "state": "IL",
-     "state_full": "Illinois",
-     "total": 151133.57,
-     "count": 122
+     "total": 201161.42,
+     "count": 234
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 148816.32,
-     "count": 170
+     "total": 176647.28,
+     "count": 190
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 169444.29,
+     "count": 146
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 131394.22,
-     "count": 111
+     "total": 146827.56,
+     "count": 131
     },
     {
      "state": "CT",
      "state_full": "Connecticut",
-     "total": 118766.94,
-     "count": 54
+     "total": 119266.94,
+     "count": 55
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 97734.06,
-     "count": 143
+     "total": 106636.61,
+     "count": 169
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 75323.33,
-     "count": 45
+     "total": 88123.33,
+     "count": 53
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -2109,18 +2109,23 @@
     },
     {
      "employer": "BLACKSTONE",
-     "total": 15000.0,
-     "count": 6
-    },
-    {
-     "employer": "BGR GROUP",
-     "total": 14750.0,
-     "count": 17
+     "total": 17000.0,
+     "count": 7
     },
     {
      "employer": "UNIVERSITY OF CINCINNATI",
-     "total": 14193.0,
-     "count": 29
+     "total": 15743.0,
+     "count": 35
+    },
+    {
+     "employer": "BGR GROUP",
+     "total": 15250.0,
+     "count": 18
+    },
+    {
+     "employer": "ANTHROPIC",
+     "total": 14111.11,
+     "count": 5
     },
     {
      "employer": "REMINGTON ROAD GROUP",
@@ -2128,22 +2133,17 @@
      "count": 5
     },
     {
-     "employer": "CENTERVIEW PARTNERS",
+     "employer": "EVERCORE PARTNERS LLC",
      "total": 14000.0,
-     "count": 6
+     "count": 4
+    },
+    {
+     "employer": "CHAVEZ PROPERTIES",
+     "total": 14000.0,
+     "count": 4
     },
     {
      "employer": "LAUDER PARTNERS LLC",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
-     "employer": "DE SHAW & CO",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
-     "employer": "EVERCORE PARTNERS LLC",
      "total": 14000.0,
      "count": 4
     },
@@ -2156,7 +2156,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

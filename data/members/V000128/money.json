@@ -421,14 +421,14 @@
      "count": 6
     },
     {
-     "employer": "EXELON",
-     "total": 14000.0,
-     "count": 16
-    },
-    {
      "employer": "ANTHROPIC PBC",
      "total": 14000.0,
      "count": 4
+    },
+    {
+     "employer": "EXELON",
+     "total": 14000.0,
+     "count": 16
     },
     {
      "employer": "LIFEBRIDGE HEALTH",
@@ -446,9 +446,9 @@
      "count": 7
     },
     {
-     "employer": "COLDWELL BANKER",
+     "employer": "MEI",
      "total": 9000.0,
-     "count": 4
+     "count": 3
     },
     {
      "employer": "ACTUM LLC",
@@ -459,7 +459,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

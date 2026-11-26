@@ -1342,70 +1342,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 6936975.05,
+   "itemized_total": 8375637.51,
    "home_state": "KY",
-   "home_state_total": 2702859.78,
-   "home_state_share": 39,
+   "home_state_total": 3322325.68,
+   "home_state_share": 40,
    "top": [
     {
      "state": "KY",
      "state_full": "Kentucky",
-     "total": 2702859.78,
-     "count": 2980
+     "total": 3322325.68,
+     "count": 3697
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 656597.22,
-     "count": 5015
+     "total": 728881.45,
+     "count": 5763
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 441075.1,
-     "count": 1787
+     "total": 587993.42,
+     "count": 2028
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 415667.61,
-     "count": 2387
+     "total": 497742.14,
+     "count": 2915
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 358860.1,
-     "count": 5170
-    },
-    {
-     "state": "IL",
-     "state_full": "Illinois",
-     "total": 206422.36,
-     "count": 865
+     "total": 424340.22,
+     "count": 6070
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 199927.91,
-     "count": 1101
+     "total": 253535.77,
+     "count": 1520
     },
     {
-     "state": "DC",
-     "state_full": "District Of Columbia",
-     "total": 178006.12,
-     "count": 163
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 251865.87,
+     "count": 1176
     },
     {
      "state": "TN",
      "state_full": "Tennessee",
-     "total": 171004.34,
-     "count": 1021
+     "total": 228826.57,
+     "count": 1208
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 207638.35,
+     "count": 192
     },
     {
      "state": "PA",
      "state_full": "Pennsylvania",
-     "total": 154065.71,
-     "count": 689
+     "total": 166569.12,
+     "count": 813
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1413,14 +1413,14 @@
   "donor_employers": {
    "top": [
     {
+     "employer": "BLACKSTONE",
+     "total": 77537.89,
+     "count": 25
+    },
+    {
      "employer": "PNC",
      "total": 50000.0,
      "count": 16
-    },
-    {
-     "employer": "BLACKSTONE",
-     "total": 47435.35,
-     "count": 15
     },
     {
      "employer": "MORGAN STANLEY",
@@ -1433,14 +1433,14 @@
      "count": 15
     },
     {
-     "employer": "KKR",
-     "total": 28500.0,
-     "count": 14
-    },
-    {
      "employer": "BNY",
      "total": 25181.82,
      "count": 9
+    },
+    {
+     "employer": "KKR",
+     "total": 25000.0,
+     "count": 15
     },
     {
      "employer": "AEG FUELS",
@@ -1448,12 +1448,12 @@
      "count": 7
     },
     {
-     "employer": "MT BRILLIANT FARM",
+     "employer": "TOWER HILL INSURANCE",
      "total": 21000.0,
-     "count": 6
+     "count": 8
     },
     {
-     "employer": "COINBASE",
+     "employer": "MT BRILLIANT FARM",
      "total": 21000.0,
      "count": 6
     },
@@ -1466,7 +1466,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

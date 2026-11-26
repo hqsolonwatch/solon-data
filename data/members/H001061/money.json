@@ -633,16 +633,16 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 191883.33,
+   "itemized_total": 258155.33,
    "home_state": "ND",
-   "home_state_total": 51350.0,
-   "home_state_share": 27,
+   "home_state_total": 103775.0,
+   "home_state_share": 40,
    "top": [
     {
      "state": "ND",
      "state_full": "North Dakota",
-     "total": 51350.0,
-     "count": 88
+     "total": 103775.0,
+     "count": 173
     },
     {
      "state": "CA",
@@ -653,8 +653,8 @@
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 29850.0,
-     "count": 27
+     "total": 31850.0,
+     "count": 29
     },
     {
      "state": "TX",
@@ -665,20 +665,20 @@
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 10500.0,
-     "count": 9
+     "total": 13500.0,
+     "count": 10
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 7083.33,
-     "count": 10
+     "total": 8083.33,
+     "count": 11
     },
     {
      "state": "MN",
      "state_full": "Minnesota",
-     "total": 5400.0,
-     "count": 8
+     "total": 6750.0,
+     "count": 11
     },
     {
      "state": "IL",
@@ -714,6 +714,11 @@
      "count": 3
     },
     {
+     "employer": "CORN REFINERS ASSOCIATION",
+     "total": 6750.0,
+     "count": 5
+    },
+    {
      "employer": "ICEBREAKER STRATEGIES",
      "total": 6500.0,
      "count": 2
@@ -722,6 +727,11 @@
      "employer": "AMERICAN BEVERAGE ASSOCIATION",
      "total": 5300.0,
      "count": 3
+    },
+    {
+     "employer": "EMERGING PRAIRIE",
+     "total": 5200.0,
+     "count": 5
     },
     {
      "employer": "VALLEY CROP INSURANCE",
@@ -734,30 +744,20 @@
      "count": 5
     },
     {
-     "employer": "CORN REFINERS ASSOCIATION",
-     "total": 3750.0,
-     "count": 4
-    },
-    {
-     "employer": "O'BRIEN AUTOMOTIVE TEAM",
-     "total": 3500.0,
+     "employer": "ARTHUR VENTURES",
+     "total": 5000.0,
      "count": 1
     },
     {
-     "employer": "JIM NORTON TOYOTA",
-     "total": 3500.0,
-     "count": 1
-    },
-    {
-     "employer": "ADVANCE STRATEGIES",
-     "total": 3300.0,
-     "count": 1
+     "employer": "PACKET DIGITAL LLC",
+     "total": 5000.0,
+     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795090755.707916,
+ "detail_fetched_ts": 1795695697.5668972,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
