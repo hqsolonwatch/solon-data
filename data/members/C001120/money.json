@@ -1334,80 +1334,131 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1793164.59,
+   "itemized_total": 1873613.97,
    "home_state": "TX",
-   "home_state_total": 867644.73,
-   "home_state_share": 48,
+   "home_state_total": 879487.48,
+   "home_state_share": 47,
    "top": [
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 867644.73,
-     "count": 2724
+     "total": 879487.48,
+     "count": 3352
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 119295.83,
-     "count": 1662
+     "total": 131852.36,
+     "count": 2224
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 112053.98,
-     "count": 1117
+     "total": 121075.11,
+     "count": 1621
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 108880.06,
-     "count": 419
+     "total": 111116.81,
+     "count": 569
     },
     {
      "state": "GA",
      "state_full": "Georgia",
-     "total": 71787.33,
-     "count": 411
+     "total": 72773.27,
+     "count": 523
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 59436.67,
-     "count": 243
+     "total": 62164.18,
+     "count": 365
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 51299.49,
-     "count": 111
+     "total": 51590.19,
+     "count": 135
     },
     {
      "state": "CT",
      "state_full": "Connecticut",
-     "total": 32490.1,
-     "count": 73
+     "total": 33434.1,
+     "count": 94
     },
     {
      "state": "TN",
      "state_full": "Tennessee",
-     "total": 29551.02,
-     "count": 349
+     "total": 32317.82,
+     "count": 496
     },
     {
-     "state": "PA",
-     "state_full": "Pennsylvania",
-     "total": 27542.37,
-     "count": 176
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 29095.08,
+     "count": 886
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
   },
   "donor_employers": {
-   "top": [],
+   "top": [
+    {
+     "employer": "COMPASS OPERATING",
+     "total": 21000.0,
+     "count": 6
+    },
+    {
+     "employer": "LANIER LAW FIRM",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ARSENAL CAPITAL PARTNERS",
+     "total": 14000.0,
+     "count": 8
+    },
+    {
+     "employer": "FREEMAN MATHIS & GARY, LLP",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "KINDER FOUNDATION",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ARENA ENERGY",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ARNOLD VENTURES",
+     "total": 7250.0,
+     "count": 3
+    },
+    {
+     "employer": "GENWORTH FINANCIAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SOROBAN CAPITAL PARTNERS LP",
+     "total": 7000.0,
+     "count": 3
+    },
+    {
+     "employer": "STEDMAN WEST INTERESTS, INC.",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795176937.9121048,
+ "detail_fetched_ts": 1795781980.5237372,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

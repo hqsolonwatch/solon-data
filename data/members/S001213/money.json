@@ -2448,70 +2448,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 3768064.21,
+   "itemized_total": 4174814.57,
    "home_state": "WI",
-   "home_state_total": 1296330.14,
-   "home_state_share": 34,
+   "home_state_total": 1499348.92,
+   "home_state_share": 36,
    "top": [
     {
      "state": "WI",
      "state_full": "Wisconsin",
-     "total": 1296330.14,
-     "count": 1952
+     "total": 1499348.92,
+     "count": 2447
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 494020.37,
-     "count": 572
+     "total": 558378.94,
+     "count": 672
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 348542.8,
-     "count": 436
+     "total": 380045.43,
+     "count": 533
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 311715.66,
-     "count": 382
+     "total": 321438.51,
+     "count": 411
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 252258.01,
-     "count": 136
+     "total": 271046.96,
+     "count": 153
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 198531.75,
-     "count": 139
+     "total": 216380.97,
+     "count": 189
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 78364.65,
-     "count": 119
+     "total": 89666.28,
+     "count": 168
     },
     {
      "state": "MN",
      "state_full": "Minnesota",
-     "total": 76864.64,
-     "count": 64
+     "total": 80361.16,
+     "count": 69
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 68035.88,
-     "count": 56
+     "total": 70995.64,
+     "count": 58
     },
     {
      "state": "LA",
      "state_full": "Louisiana",
-     "total": 57954.75,
-     "count": 38
+     "total": 58857.38,
+     "count": 41
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -2539,9 +2539,24 @@
      "count": 7
     },
     {
+     "employer": "CHAIRMAN",
+     "total": 20366.03,
+     "count": 7
+    },
+    {
      "employer": "NASDAQ",
      "total": 20287.11,
      "count": 9
+    },
+    {
+     "employer": "JANE STREET CAPITAL",
+     "total": 17500.0,
+     "count": 5
+    },
+    {
+     "employer": "BANK CMG",
+     "total": 17500.0,
+     "count": 5
     },
     {
      "employer": "ANDREESSEN HOROWITZ",
@@ -2552,27 +2567,12 @@
      "employer": "BLACKROCK",
      "total": 15893.56,
      "count": 8
-    },
-    {
-     "employer": "PARADIGM",
-     "total": 14666.66,
-     "count": 6
-    },
-    {
-     "employer": "FOUNDERS FUND",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
-     "employer": "ULINE",
-     "total": 14000.0,
-     "count": 4
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795176937.9121048,
+ "detail_fetched_ts": 1795781980.5237372,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

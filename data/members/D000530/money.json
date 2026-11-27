@@ -842,70 +842,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1497194.98,
+   "itemized_total": 1963568.11,
    "home_state": "PA",
-   "home_state_total": 826402.67,
-   "home_state_share": 55,
+   "home_state_total": 1131268.8,
+   "home_state_share": 58,
    "top": [
     {
      "state": "PA",
      "state_full": "Pennsylvania",
-     "total": 826402.67,
-     "count": 3165
+     "total": 1131268.8,
+     "count": 4720
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 192942.2,
-     "count": 265
+     "total": 214878.2,
+     "count": 338
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 161560.84,
-     "count": 318
+     "total": 195448.84,
+     "count": 458
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 45887.5,
-     "count": 88
+     "total": 55807.5,
+     "count": 118
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 41225.0,
-     "count": 63
+     "total": 52360.0,
+     "count": 83
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 38324.5,
-     "count": 216
+     "total": 49301.5,
+     "count": 301
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 27527.0,
-     "count": 111
+     "total": 33824.0,
+     "count": 168
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 15433.0,
-     "count": 95
+     "total": 28288.0,
+     "count": 158
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 20466.77,
+     "count": 115
     },
     {
      "state": "NJ",
      "state_full": "New Jersey",
-     "total": 15316.0,
-     "count": 65
-    },
-    {
-     "state": "ME",
-     "state_full": "Maine",
-     "total": 15000.0,
-     "count": 5
+     "total": 19160.0,
+     "count": 100
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -914,13 +914,43 @@
    "top": [
     {
      "employer": "UNIVERSITY OF PITTSBURGH",
-     "total": 12750.0,
-     "count": 20
+     "total": 22411.0,
+     "count": 67
     },
     {
      "employer": "CARNEGIE MELLON UNIVERSITY",
-     "total": 9006.0,
-     "count": 44
+     "total": 16306.0,
+     "count": 61
+    },
+    {
+     "employer": "ANDURIL INDUSTRIES",
+     "total": 10000.0,
+     "count": 4
+    },
+    {
+     "employer": "AMERIPRISE FINANCIAL",
+     "total": 10000.0,
+     "count": 5
+    },
+    {
+     "employer": "HOWARD HANNA",
+     "total": 9193.75,
+     "count": 4
+    },
+    {
+     "employer": "REED SMITH",
+     "total": 9000.0,
+     "count": 5
+    },
+    {
+     "employer": "ALLEGHENY FINANCIAL GROUP",
+     "total": 8000.0,
+     "count": 23
+    },
+    {
+     "employer": "MORGAN LEWIS",
+     "total": 8000.0,
+     "count": 3
     },
     {
      "employer": "WALNUT CAPITAL",
@@ -928,45 +958,15 @@
      "count": 4
     },
     {
-     "employer": "ALLEGHENY FINANCIAL GROUP",
-     "total": 7850.0,
-     "count": 20
-    },
-    {
-     "employer": "Q PRIME",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "ALSOP LOUIE PARTNERS",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "PALANTIR TECHNOLOGIES",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "NORTHWESTERN MUTUAL",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "MONEY WITH A MISSION",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "GLENVILLE GROUP",
-     "total": 7000.0,
-     "count": 2
+     "employer": "PENNSYLVANIA PRISON SOCIETY",
+     "total": 7200.0,
+     "count": 4
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795176937.9121048,
+ "detail_fetched_ts": 1795781980.5237372,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

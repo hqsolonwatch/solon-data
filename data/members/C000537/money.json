@@ -1375,76 +1375,86 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 306750.47,
+   "itemized_total": 491231.99,
    "home_state": "SC",
-   "home_state_total": 101299.0,
-   "home_state_share": 33,
+   "home_state_total": 116005.0,
+   "home_state_share": 24,
    "top": [
     {
      "state": "SC",
      "state_full": "South Carolina",
-     "total": 101299.0,
-     "count": 359
-    },
-    {
-     "state": "DC",
-     "state_full": "District Of Columbia",
-     "total": 61685.0,
-     "count": 91
+     "total": 116005.0,
+     "count": 451
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 30235.0,
-     "count": 101
+     "total": 103355.0,
+     "count": 181
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 91202.0,
+     "count": 133
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 16008.0,
-     "count": 33
+     "total": 29863.88,
+     "count": 55
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 24130.0,
+     "count": 88
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 13641.35,
-     "count": 43
+     "total": 18272.35,
+     "count": 70
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 12687.66,
-     "count": 126
-    },
-    {
-     "state": "IL",
-     "state_full": "Illinois",
-     "total": 8073.0,
-     "count": 8
-    },
-    {
-     "state": "TX",
-     "state_full": "Texas",
-     "total": 7306.5,
-     "count": 47
-    },
-    {
-     "state": "NC",
-     "state_full": "North Carolina",
-     "total": 4815.0,
-     "count": 46
+     "total": 15471.66,
+     "count": 175
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 4791.33,
-     "count": 62
+     "total": 13119.66,
+     "count": 85
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 8640.81,
+     "count": 67
+    },
+    {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 8098.0,
+     "count": 9
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
   },
   "donor_employers": {
    "top": [
+    {
+     "employer": "THEGROUP",
+     "total": 14250.0,
+     "count": 5
+    },
+    {
+     "employer": "AMSCOT FINANCIAL",
+     "total": 10500.0,
+     "count": 3
+    },
     {
      "employer": "MICROSOFT",
      "total": 9035.0,
@@ -1461,37 +1471,27 @@
      "count": 1
     },
     {
+     "employer": "THE MOORE COMPANIES",
+     "total": 4500.0,
+     "count": 3
+    },
+    {
+     "employer": "THE CAMPBELL CONSULTING GROUP",
+     "total": 4500.0,
+     "count": 2
+    },
+    {
      "employer": "HOLLIDAY ASSOCIATES, LLC",
-     "total": 4225.0,
-     "count": 11
+     "total": 4275.0,
+     "count": 12
+    },
+    {
+     "employer": "JMA SOLUTIONS",
+     "total": 4250.0,
+     "count": 4
     },
     {
      "employer": "K&R FARM",
-     "total": 3500.0,
-     "count": 1
-    },
-    {
-     "employer": "BB&T",
-     "total": 3500.0,
-     "count": 1
-    },
-    {
-     "employer": "SSP SOLUTIONS LLC",
-     "total": 3500.0,
-     "count": 1
-    },
-    {
-     "employer": "MOTA DESIGN",
-     "total": 3500.0,
-     "count": 1
-    },
-    {
-     "employer": "HPI",
-     "total": 3500.0,
-     "count": 1
-    },
-    {
-     "employer": "NORTHLANE CAPITAL PARTNERS LLC",
      "total": 3500.0,
      "count": 1
     }
@@ -1499,7 +1499,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795176937.9121048,
+ "detail_fetched_ts": 1795781980.5237372,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

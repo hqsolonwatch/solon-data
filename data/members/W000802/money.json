@@ -273,70 +273,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 434493.09,
+   "itemized_total": 626779.19,
    "home_state": "RI",
-   "home_state_total": 172087.5,
-   "home_state_share": 40,
+   "home_state_total": 274736.17,
+   "home_state_share": 44,
    "top": [
     {
      "state": "RI",
      "state_full": "Rhode Island",
-     "total": 172087.5,
-     "count": 2581
-    },
-    {
-     "state": "CA",
-     "state_full": "California",
-     "total": 53927.15,
-     "count": 1747
+     "total": 274736.17,
+     "count": 3119
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 47934.0,
-     "count": 987
+     "total": 68092.75,
+     "count": 1108
+    },
+    {
+     "state": "CA",
+     "state_full": "California",
+     "total": 65956.92,
+     "count": 1960
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 23146.5,
-     "count": 713
+     "total": 32093.0,
+     "count": 801
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 19326.0,
-     "count": 37
+     "total": 27958.27,
+     "count": 56
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 9851.11,
-     "count": 367
-    },
-    {
-     "state": "CT",
-     "state_full": "Connecticut",
-     "total": 9210.96,
-     "count": 369
+     "total": 18775.88,
+     "count": 433
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 9008.53,
-     "count": 259
+     "total": 14134.18,
+     "count": 298
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 7773.5,
-     "count": 203
+     "total": 12430.42,
+     "count": 226
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 6877.59,
-     "count": 234
+     "total": 11022.59,
+     "count": 257
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 9981.96,
+     "count": 397
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -344,7 +344,12 @@
   "donor_employers": {
    "top": [
     {
-     "employer": "COTCHETT, PITRE & MCCARTHY, LLP",
+     "employer": "CHARLES FRADIN, INC.",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "GIGASCALE",
      "total": 7000.0,
      "count": 2
     },
@@ -354,9 +359,29 @@
      "count": 2
     },
     {
+     "employer": "COTCHETT, PITRE & MCCARTHY, LLP",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "EVERGREEN MONEY",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "MASS GENERAL HOSPITAL",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
      "employer": "ANBAU ENTERPRISES",
      "total": 6600.0,
      "count": 2
+    },
+    {
+     "employer": "CODAC INC",
+     "total": 6550.0,
+     "count": 6
     },
     {
      "employer": "LORING WOLCOTT",
@@ -364,40 +389,15 @@
      "count": 2
     },
     {
-     "employer": "KAZAN MCCLAIN ET AL.",
-     "total": 3500.0,
-     "count": 1
-    },
-    {
-     "employer": "SHAWMUT CAPITAL PARTNERS",
-     "total": 3500.0,
-     "count": 1
-    },
-    {
-     "employer": "ARNOLD VENTURES",
-     "total": 3500.0,
-     "count": 1
-    },
-    {
-     "employer": "GOOGLE LLC",
-     "total": 3500.0,
-     "count": 1
-    },
-    {
      "employer": "BROWN UNIVERSITY",
-     "total": 3465.0,
-     "count": 79
-    },
-    {
-     "employer": "CODAC INC",
-     "total": 3350.0,
-     "count": 3
+     "total": 3880.0,
+     "count": 91
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795176937.9121048,
+ "detail_fetched_ts": 1795781980.5237372,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

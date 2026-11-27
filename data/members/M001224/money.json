@@ -1824,80 +1824,131 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 772124.72,
+   "itemized_total": 900195.36,
    "home_state": "TX",
-   "home_state_total": 491855.67,
-   "home_state_share": 64,
+   "home_state_total": 522524.92,
+   "home_state_share": 58,
    "top": [
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 491855.67,
-     "count": 637
+     "total": 522524.92,
+     "count": 931
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 51957.47,
-     "count": 340
+     "total": 74854.13,
+     "count": 547
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 45880.69,
-     "count": 189
+     "total": 52476.14,
+     "count": 277
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 38055.28,
-     "count": 119
+     "total": 39555.28,
+     "count": 121
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 24659.46,
-     "count": 420
-    },
-    {
-     "state": "NY",
-     "state_full": "New York",
-     "total": 15114.08,
-     "count": 86
-    },
-    {
-     "state": "MD",
-     "state_full": "Maryland",
-     "total": 14430.6,
-     "count": 53
+     "total": 33099.34,
+     "count": 661
     },
     {
      "state": "NJ",
      "state_full": "New Jersey",
-     "total": 10312.15,
-     "count": 78
+     "total": 21200.7,
+     "count": 126
+    },
+    {
+     "state": "NY",
+     "state_full": "New York",
+     "total": 15953.88,
+     "count": 110
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 15100.6,
+     "count": 58
     },
     {
      "state": "NC",
      "state_full": "North Carolina",
-     "total": 6460.6,
-     "count": 75
+     "total": 12289.75,
+     "count": 125
     },
     {
-     "state": "GA",
-     "state_full": "Georgia",
-     "total": 5718.18,
-     "count": 178
+     "state": "SC",
+     "state_full": "South Carolina",
+     "total": 11798.41,
+     "count": 134
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
   },
   "donor_employers": {
-   "top": [],
+   "top": [
+    {
+     "employer": "ANTHROPIC",
+     "total": 28000.0,
+     "count": 8
+    },
+    {
+     "employer": "CHARTER BROKERAGE LLC",
+     "total": 20500.0,
+     "count": 11
+    },
+    {
+     "employer": "LANIER LAW FIRM",
+     "total": 16000.0,
+     "count": 6
+    },
+    {
+     "employer": "ARNOLD VENTURES",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
+     "employer": "OGR",
+     "total": 9500.0,
+     "count": 14
+    },
+    {
+     "employer": "CHARTER BROKERAGE",
+     "total": 9375.0,
+     "count": 7
+    },
+    {
+     "employer": "MEHLMAN CONSULTING",
+     "total": 9000.0,
+     "count": 8
+    },
+    {
+     "employer": "OFFENHAUSER & CO",
+     "total": 7100.0,
+     "count": 3
+    },
+    {
+     "employer": "THE JOHNSON FIRM",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "NULLFRAME, INC",
+     "total": 7000.0,
+     "count": 3
+    }
+   ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795176937.9121048,
+ "detail_fetched_ts": 1795781980.5237372,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -720,76 +720,86 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 465946.93,
+   "itemized_total": 586405.46,
    "home_state": "VT",
-   "home_state_total": 283861.2,
-   "home_state_share": 61,
+   "home_state_total": 337061.21,
+   "home_state_share": 57,
    "top": [
     {
      "state": "VT",
      "state_full": "Vermont",
-     "total": 283861.2,
-     "count": 3149
-    },
-    {
-     "state": "MA",
-     "state_full": "Massachusetts",
-     "total": 30228.79,
-     "count": 177
+     "total": 337061.21,
+     "count": 3760
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 27750.0,
-     "count": 36
+     "total": 45750.0,
+     "count": 53
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 20477.0,
-     "count": 68
+     "total": 34344.0,
+     "count": 93
+    },
+    {
+     "state": "MA",
+     "state_full": "Massachusetts",
+     "total": 32079.79,
+     "count": 207
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 17522.0,
-     "count": 108
+     "total": 26573.0,
+     "count": 136
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 15407.15,
-     "count": 19
+     "total": 22407.15,
+     "count": 24
+    },
+    {
+     "state": "WA",
+     "state_full": "Washington",
+     "total": 11340.81,
+     "count": 46
     },
     {
      "state": "NJ",
      "state_full": "New Jersey",
-     "total": 9005.0,
-     "count": 63
+     "total": 9077.0,
+     "count": 68
     },
     {
-     "state": "KY",
-     "state_full": "Kentucky",
-     "total": 7000.0,
+     "state": "GA",
+     "state_full": "Georgia",
+     "total": 8000.0,
      "count": 3
-    },
-    {
-     "state": "IL",
-     "state_full": "Illinois",
-     "total": 6035.0,
-     "count": 4
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 5775.0,
-     "count": 28
+     "total": 7325.0,
+     "count": 32
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
   },
   "donor_employers": {
    "top": [
+    {
+     "employer": "ANTHROPIC",
+     "total": 10500.0,
+     "count": 4
+    },
+    {
+     "employer": "UNIVERSITY OF VERMONT",
+     "total": 5285.0,
+     "count": 33
+    },
     {
      "employer": "MBB CAPITAL",
      "total": 5035.0,
@@ -801,12 +811,17 @@
      "count": 3
     },
     {
-     "employer": "BRATTLEBORO RETREAT",
-     "total": 3679.0,
-     "count": 21
+     "employer": "WILMERHALE, LLP",
+     "total": 5000.0,
+     "count": 2
     },
     {
-     "employer": "FACEBOOK",
+     "employer": "BRATTLEBORO RETREAT",
+     "total": 3717.0,
+     "count": 26
+    },
+    {
+     "employer": "ORANGE TEAM",
      "total": 3500.0,
      "count": 1
     },
@@ -816,35 +831,20 @@
      "count": 1
     },
     {
-     "employer": "MONUMENT ADVOCACY",
-     "total": 3300.0,
+     "employer": "FACEBOOK",
+     "total": 3500.0,
      "count": 1
     },
     {
-     "employer": "TREMONT STRATEGIES GROUP, LLC",
-     "total": 3300.0,
+     "employer": "WISE PATIENT INTERNAL MEDICINE",
+     "total": 3500.0,
      "count": 1
-    },
-    {
-     "employer": "ALSOP LOUIE PARTNERS",
-     "total": 3300.0,
-     "count": 1
-    },
-    {
-     "employer": "NVG, LLC",
-     "total": 3071.43,
-     "count": 6
-    },
-    {
-     "employer": "ONLOGIC",
-     "total": 3000.0,
-     "count": 2
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795176937.9121048,
+ "detail_fetched_ts": 1795781980.5237372,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

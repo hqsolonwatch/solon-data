@@ -2340,64 +2340,64 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1504028.69,
+   "itemized_total": 1751848.56,
    "home_state": "SD",
-   "home_state_total": 152766.56,
+   "home_state_total": 176299.36,
    "home_state_share": 10,
    "top": [
     {
      "state": "CA",
      "state_full": "California",
-     "total": 363075.33,
-     "count": 238
-    },
-    {
-     "state": "SD",
-     "state_full": "South Dakota",
-     "total": 152766.56,
-     "count": 139
-    },
-    {
-     "state": "TX",
-     "state_full": "Texas",
-     "total": 147572.92,
-     "count": 94
+     "total": 417604.73,
+     "count": 290
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 118700.0,
-     "count": 55
+     "total": 181100.0,
+     "count": 102
+    },
+    {
+     "state": "SD",
+     "state_full": "South Dakota",
+     "total": 176299.36,
+     "count": 162
+    },
+    {
+     "state": "TX",
+     "state_full": "Texas",
+     "total": 151372.92,
+     "count": 99
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 115464.59,
-     "count": 115
-    },
-    {
-     "state": "FL",
-     "state_full": "Florida",
-     "total": 82549.02,
-     "count": 174
+     "total": 148714.59,
+     "count": 148
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 76277.91,
-     "count": 63
+     "total": 94572.03,
+     "count": 82
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 85840.53,
+     "count": 215
     },
     {
      "state": "MD",
      "state_full": "Maryland",
-     "total": 58070.13,
-     "count": 45
+     "total": 65070.13,
+     "count": 52
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 49060.0,
-     "count": 26
+     "total": 50622.5,
+     "count": 28
     },
     {
      "state": "NV",
@@ -2412,8 +2412,8 @@
    "top": [
     {
      "employer": "ANTHROPIC",
-     "total": 47600.0,
-     "count": 15
+     "total": 64100.0,
+     "count": 20
     },
     {
      "employer": "GOOGLE",
@@ -2426,6 +2426,11 @@
      "count": 12
     },
     {
+     "employer": "CAPITAL GROUP",
+     "total": 25500.0,
+     "count": 11
+    },
+    {
      "employer": "ARES MANAGEMENT",
      "total": 21000.0,
      "count": 6
@@ -2436,35 +2441,30 @@
      "count": 6
     },
     {
+     "employer": "SANFORD HEALTH",
+     "total": 21000.0,
+     "count": 9
+    },
+    {
      "employer": "LEIDOS",
      "total": 20715.34,
      "count": 35
     },
     {
-     "employer": "SANFORD HEALTH",
-     "total": 19000.0,
-     "count": 8
+     "employer": "ANTHROPIC PBC",
+     "total": 17500.0,
+     "count": 5
     },
     {
      "employer": "BLACKSTONE",
      "total": 14400.0,
      "count": 8
-    },
-    {
-     "employer": "BUSINESS OWNER",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
-     "employer": "PARADIGM",
-     "total": 14000.0,
-     "count": 4
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795176937.9121048,
+ "detail_fetched_ts": 1795781980.5237372,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

@@ -762,34 +762,40 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 644831.92,
+   "itemized_total": 747944.68,
    "home_state": "WA",
-   "home_state_total": 518349.8,
-   "home_state_share": 80,
+   "home_state_total": 604795.56,
+   "home_state_share": 81,
    "top": [
     {
      "state": "WA",
      "state_full": "Washington",
-     "total": 518349.8,
-     "count": 3262
+     "total": 604795.56,
+     "count": 4302
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 30057.67,
-     "count": 51
+     "total": 33062.67,
+     "count": 63
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 22100.0,
-     "count": 21
+     "total": 26350.0,
+     "count": 27
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 20925.0,
-     "count": 16
+     "total": 20950.0,
+     "count": 17
+    },
+    {
+     "state": "MD",
+     "state_full": "Maryland",
+     "total": 12250.0,
+     "count": 11
     },
     {
      "state": "OK",
@@ -798,28 +804,22 @@
      "count": 6
     },
     {
-     "state": "MD",
-     "state_full": "Maryland",
-     "total": 6250.0,
-     "count": 8
-    },
-    {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 5775.0,
-     "count": 25
+     "total": 6575.0,
+     "count": 32
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 5500.0,
+     "count": 3
     },
     {
      "state": "AL",
      "state_full": "Alabama",
      "total": 5500.0,
      "count": 3
-    },
-    {
-     "state": "AZ",
-     "state_full": "Arizona",
-     "total": 4500.0,
-     "count": 2
     },
     {
      "state": "ND",
@@ -849,13 +849,13 @@
     },
     {
      "employer": "CHARLIES PRODUCE",
-     "total": 5800.0,
-     "count": 5
+     "total": 6300.0,
+     "count": 6
     },
     {
      "employer": "PROVIDENCE",
-     "total": 5750.0,
-     "count": 17
+     "total": 6050.0,
+     "count": 19
     },
     {
      "employer": "AEGIS LAND TITLE GROUP",
@@ -868,12 +868,12 @@
      "count": 5
     },
     {
-     "employer": "THE ROBINSON FOUNDATION",
+     "employer": "ZUMIEZ",
      "total": 3500.0,
      "count": 1
     },
     {
-     "employer": "ZUMIEZ",
+     "employer": "SONOSKY, CHAMBERS, SACHSE, ET AL",
      "total": 3500.0,
      "count": 1
     },
@@ -886,7 +886,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795176937.9121048,
+ "detail_fetched_ts": 1795781980.5237372,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

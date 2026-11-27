@@ -572,70 +572,70 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 975496.45,
+   "itemized_total": 1259964.71,
    "home_state": "VA",
-   "home_state_total": 434601.32,
-   "home_state_share": 45,
+   "home_state_total": 623385.59,
+   "home_state_share": 49,
    "top": [
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 434601.32,
-     "count": 939
+     "total": 623385.59,
+     "count": 1455
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 148689.45,
-     "count": 412
+     "total": 178001.88,
+     "count": 596
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 89869.54,
-     "count": 251
+     "total": 101473.91,
+     "count": 355
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 88546.31,
-     "count": 496
+     "total": 98210.77,
+     "count": 716
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 49272.0,
-     "count": 76
+     "total": 50510.86,
+     "count": 95
     },
     {
      "state": "MI",
      "state_full": "Michigan",
-     "total": 21451.95,
+     "total": 21600.0,
+     "count": 42
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 17862.54,
+     "count": 72
+    },
+    {
+     "state": "CT",
+     "state_full": "Connecticut",
+     "total": 16145.75,
      "count": 19
     },
     {
      "state": "GA",
      "state_full": "Georgia",
-     "total": 14312.93,
-     "count": 87
+     "total": 14890.97,
+     "count": 123
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 13386.88,
-     "count": 34
-    },
-    {
-     "state": "AZ",
-     "state_full": "Arizona",
-     "total": 11981.19,
-     "count": 49
-    },
-    {
-     "state": "SC",
-     "state_full": "South Carolina",
-     "total": 10978.0,
-     "count": 29
+     "total": 14517.33,
+     "count": 67
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -653,13 +653,13 @@
      "count": 9
     },
     {
-     "employer": "CHI AVIATION",
+     "employer": "CUMBERLAND DEVELOPMENT",
      "total": 14000.0,
-     "count": 4
+     "count": 5
     },
     {
-     "employer": "CUMBERLAND DEVELOPMENT",
-     "total": 10500.0,
+     "employer": "CHI AVIATION",
+     "total": 14000.0,
      "count": 4
     },
     {
@@ -688,15 +688,15 @@
      "count": 4
     },
     {
-     "employer": "O MANAGEMENT, INC",
-     "total": 7000.0,
-     "count": 3
+     "employer": "HARBINGER STRATEGIES",
+     "total": 7500.0,
+     "count": 6
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795176937.9121048,
+ "detail_fetched_ts": 1795781980.5237372,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

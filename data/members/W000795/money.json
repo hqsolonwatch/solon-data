@@ -725,16 +725,16 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 381303.59,
+   "itemized_total": 403853.59,
    "home_state": "SC",
-   "home_state_total": 180079.78,
-   "home_state_share": 47,
+   "home_state_total": 184629.78,
+   "home_state_share": 46,
    "top": [
     {
      "state": "SC",
      "state_full": "South Carolina",
-     "total": 180079.78,
-     "count": 133
+     "total": 184629.78,
+     "count": 137
     },
     {
      "state": "MD",
@@ -743,34 +743,34 @@
      "count": 38
     },
     {
+     "state": "CA",
+     "state_full": "California",
+     "total": 38250.0,
+     "count": 21
+    },
+    {
      "state": "MI",
      "state_full": "Michigan",
      "total": 33250.0,
      "count": 17
     },
     {
-     "state": "CA",
-     "state_full": "California",
-     "total": 31250.0,
-     "count": 19
-    },
-    {
      "state": "FL",
      "state_full": "Florida",
-     "total": 28250.0,
-     "count": 26
+     "total": 31750.0,
+     "count": 30
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 13270.0,
-     "count": 20
+     "total": 15520.0,
+     "count": 24
     },
     {
      "state": "PA",
      "state_full": "Pennsylvania",
-     "total": 9893.56,
-     "count": 8
+     "total": 10893.56,
+     "count": 9
     },
     {
      "state": "NY",
@@ -785,10 +785,10 @@
      "count": 2
     },
     {
-     "state": "IN",
-     "state_full": "Indiana",
-     "total": 4000.0,
-     "count": 3
+     "state": "NJ",
+     "state_full": "New Jersey",
+     "total": 4250.0,
+     "count": 4
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -849,7 +849,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795176937.9121048,
+ "detail_fetched_ts": 1795781980.5237372,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

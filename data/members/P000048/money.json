@@ -1904,16 +1904,16 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 2135916.03,
+   "itemized_total": 2136602.28,
    "home_state": "TX",
-   "home_state_total": 1596175.16,
+   "home_state_total": 1596675.16,
    "home_state_share": 75,
    "top": [
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 1596175.16,
-     "count": 1621
+     "total": 1596675.16,
+     "count": 1622
     },
     {
      "state": "VA",
@@ -1942,8 +1942,8 @@
     {
      "state": "CA",
      "state_full": "California",
-     "total": 45607.14,
-     "count": 843
+     "total": 45793.39,
+     "count": 850
     },
     {
      "state": "FL",
@@ -1976,8 +1976,8 @@
    "top": [
     {
      "employer": "SHANNON CLINIC",
-     "total": 15750.0,
-     "count": 7
+     "total": 19050.0,
+     "count": 8
     },
     {
      "employer": "TILL",
@@ -1985,17 +1985,12 @@
      "count": 4
     },
     {
-     "employer": "INVESTMENTS",
+     "employer": "BC OPERATING, INC.",
      "total": 14000.0,
      "count": 4
     },
     {
      "employer": "SHELBURNE FINANCIAL SERVICES",
-     "total": 14000.0,
-     "count": 4
-    },
-    {
-     "employer": "BC OPERATING, INC.",
      "total": 14000.0,
      "count": 4
     },
@@ -2015,6 +2010,11 @@
      "count": 4
     },
     {
+     "employer": "BLUE ARROW OPERATING",
+     "total": 10500.0,
+     "count": 3
+    },
+    {
      "employer": "FORGET ME NOT",
      "total": 10500.0,
      "count": 3
@@ -2028,7 +2028,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795176937.9121048,
+ "detail_fetched_ts": 1795781980.5237372,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

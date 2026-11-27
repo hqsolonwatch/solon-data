@@ -598,24 +598,29 @@
      "count": 8
     },
     {
-     "employer": "ACQUEST",
+     "employer": "TW LEWIS CO",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "PAYROLL & INSURANCE GROUP",
+     "employer": "BARTLETT AND CO",
      "total": 7000.0,
      "count": 2
     },
     {
-     "employer": "CUMBERLAND DEVELOPMENT CO",
+     "employer": "MILLER STRATEGIES LLC",
      "total": 7000.0,
-     "count": 3
+     "count": 2
     },
     {
-     "employer": "SORING DVD",
+     "employer": "DUCHOSSOIS CAPITAL MANAGEMENT",
      "total": 7000.0,
-     "count": 4
+     "count": 2
+    },
+    {
+     "employer": "21ST CENTURE ONCOLOGY",
+     "total": 7000.0,
+     "count": 2
     },
     {
      "employer": "CHARLES SCHWAB CORPORATION",
@@ -623,12 +628,7 @@
      "count": 2
     },
     {
-     "employer": "STRATA PRODUCTION CO",
-     "total": 7000.0,
-     "count": 2
-    },
-    {
-     "employer": "TW LEWIS CO",
+     "employer": "GCP CAPITAL PARTNERS LLC",
      "total": 7000.0,
      "count": 2
     }
@@ -636,7 +636,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795176937.9121048,
+ "detail_fetched_ts": 1795781980.5237372,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

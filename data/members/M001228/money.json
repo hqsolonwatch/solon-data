@@ -1338,40 +1338,46 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 754512.7,
+   "itemized_total": 816600.73,
    "home_state": "UT",
-   "home_state_total": 314430.0,
-   "home_state_share": 42,
+   "home_state_total": 323930.0,
+   "home_state_share": 40,
    "top": [
     {
      "state": "UT",
      "state_full": "Utah",
-     "total": 314430.0,
-     "count": 224
+     "total": 323930.0,
+     "count": 231
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 118425.0,
-     "count": 49
+     "total": 123175.0,
+     "count": 51
     },
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 58657.7,
-     "count": 62
+     "total": 62371.99,
+     "count": 69
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 55500.0,
-     "count": 38
+     "total": 57214.29,
+     "count": 42
     },
     {
      "state": "NY",
      "state_full": "New York",
      "total": 29750.0,
      "count": 10
+    },
+    {
+     "state": "FL",
+     "state_full": "Florida",
+     "total": 21845.16,
+     "count": 12
     },
     {
      "state": "WA",
@@ -1386,22 +1392,16 @@
      "count": 7
     },
     {
+     "state": "IL",
+     "state_full": "Illinois",
+     "total": 17300.0,
+     "count": 5
+    },
+    {
      "state": "TX",
      "state_full": "Texas",
      "total": 13750.0,
      "count": 7
-    },
-    {
-     "state": "MI",
-     "state_full": "Michigan",
-     "total": 13500.0,
-     "count": 7
-    },
-    {
-     "state": "WY",
-     "state_full": "Wyoming",
-     "total": 12500.0,
-     "count": 5
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1434,9 +1434,9 @@
      "count": 6
     },
     {
-     "employer": "THE BERNHARDT GROUP",
+     "employer": "DUTKO GOVERNMENT AFFAIRS",
      "total": 8000.0,
-     "count": 4
+     "count": 7
     },
     {
      "employer": "CTC GLOBAL",
@@ -1444,9 +1444,9 @@
      "count": 4
     },
     {
-     "employer": "DUTKO GOVERNMENT AFFAIRS",
+     "employer": "THE BERNHARDT GROUP",
      "total": 8000.0,
-     "count": 7
+     "count": 4
     },
     {
      "employer": "MICHIGAN RESEARCH INSTITUTE",
@@ -1454,7 +1454,7 @@
      "count": 5
     },
     {
-     "employer": "UTAH FIRST CREDIT UNION",
+     "employer": "ALLEGIANCE STRATEGIES, LLC",
      "total": 7000.0,
      "count": 2
     }
@@ -1462,7 +1462,7 @@
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795176937.9121048,
+ "detail_fetched_ts": 1795781980.5237372,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

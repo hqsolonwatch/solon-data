@@ -1772,34 +1772,34 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 2134957.36,
+   "itemized_total": 2259598.86,
    "home_state": "RI",
-   "home_state_total": 575605.8,
-   "home_state_share": 27,
+   "home_state_total": 627997.3,
+   "home_state_share": 28,
    "top": [
     {
      "state": "RI",
      "state_full": "Rhode Island",
-     "total": 575605.8,
-     "count": 920
+     "total": 627997.3,
+     "count": 1022
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 275200.0,
-     "count": 141
+     "total": 284200.0,
+     "count": 149
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 203705.0,
-     "count": 155
+     "total": 210955.0,
+     "count": 166
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 203600.0,
-     "count": 101
+     "total": 206600.0,
+     "count": 107
     },
     {
      "state": "IL",
@@ -1810,32 +1810,32 @@
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 108401.0,
-     "count": 95
+     "total": 111651.0,
+     "count": 98
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 95900.0,
-     "count": 76
+     "total": 98900.0,
+     "count": 82
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 93540.81,
-     "count": 103
+     "total": 97040.81,
+     "count": 108
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 76850.0,
-     "count": 31
+     "total": 80350.0,
+     "count": 37
     },
     {
      "state": "NJ",
      "state_full": "New Jersey",
-     "total": 65014.75,
-     "count": 36
+     "total": 66514.75,
+     "count": 39
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
@@ -1853,14 +1853,14 @@
      "count": 8
     },
     {
+     "employer": "BLACKSTONE",
+     "total": 24000.0,
+     "count": 8
+    },
+    {
      "employer": "OCEAN STATE INNOVATIONS",
      "total": 23500.0,
      "count": 12
-    },
-    {
-     "employer": "BLACKSTONE",
-     "total": 20500.0,
-     "count": 7
     },
     {
      "employer": "ANTHROPIC PBC",
@@ -1883,20 +1883,20 @@
      "count": 10
     },
     {
-     "employer": "CVS HEALTH",
-     "total": 10500.0,
-     "count": 8
-    },
-    {
      "employer": "COONEY AND CONWAY",
      "total": 10500.0,
      "count": 3
+    },
+    {
+     "employer": "CVS HEALTH",
+     "total": 10500.0,
+     "count": 8
     }
    ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795176937.9121048,
+ "detail_fetched_ts": 1795781980.5237372,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

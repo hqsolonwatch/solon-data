@@ -514,80 +514,131 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 1210833.62,
+   "itemized_total": 1371129.79,
    "home_state": "WA",
-   "home_state_total": 823055.98,
-   "home_state_share": 68,
+   "home_state_total": 911949.84,
+   "home_state_share": 67,
    "top": [
     {
      "state": "WA",
      "state_full": "Washington",
-     "total": 823055.98,
-     "count": 5944
+     "total": 911949.84,
+     "count": 7391
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 158327.25,
-     "count": 1308
+     "total": 204602.7,
+     "count": 1655
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 37265.0,
-     "count": 219
+     "total": 40185.0,
+     "count": 299
     },
     {
      "state": "MA",
      "state_full": "Massachusetts",
-     "total": 34826.0,
-     "count": 225
-    },
-    {
-     "state": "DC",
-     "state_full": "District Of Columbia",
-     "total": 18518.0,
-     "count": 47
+     "total": 35841.0,
+     "count": 266
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 17903.5,
-     "count": 81
+     "total": 19223.5,
+     "count": 105
+    },
+    {
+     "state": "DC",
+     "state_full": "District Of Columbia",
+     "total": 18614.0,
+     "count": 51
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 14823.0,
-     "count": 68
-    },
-    {
-     "state": "MN",
-     "state_full": "Minnesota",
-     "total": 9363.0,
-     "count": 51
-    },
-    {
-     "state": "CO",
-     "state_full": "Colorado",
-     "total": 8570.0,
-     "count": 87
+     "total": 15300.5,
+     "count": 99
     },
     {
      "state": "PA",
      "state_full": "Pennsylvania",
-     "total": 7623.2,
-     "count": 208
+     "total": 12385.2,
+     "count": 270
+    },
+    {
+     "state": "OR",
+     "state_full": "Oregon",
+     "total": 9940.0,
+     "count": 189
+    },
+    {
+     "state": "CO",
+     "state_full": "Colorado",
+     "total": 9814.0,
+     "count": 114
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
   },
   "donor_employers": {
-   "top": [],
+   "top": [
+    {
+     "employer": "ANTHROPIC",
+     "total": 14500.0,
+     "count": 5
+    },
+    {
+     "employer": "THE COMMERCE COMPANY",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "MICROSOFT",
+     "total": 7758.5,
+     "count": 31
+    },
+    {
+     "employer": "IEH LABORATORIES",
+     "total": 7100.0,
+     "count": 3
+    },
+    {
+     "employer": "AMAZON.COM INC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SOROS FUND MANAGEMENT",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "SECOND AVENUE PARTNERS",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "ANTHROPIC PBC",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "JREI",
+     "total": 7000.0,
+     "count": 2
+    },
+    {
+     "employer": "LAW OFFICES OF JAMES DEGEL",
+     "total": 7000.0,
+     "count": 2
+    }
+   ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795176937.9121048,
+ "detail_fetched_ts": 1795781980.5237372,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",

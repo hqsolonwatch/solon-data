@@ -2560,80 +2560,131 @@
    ]
   ],
   "donor_states": {
-   "itemized_total": 4243282.33,
+   "itemized_total": 5207089.5,
    "home_state": "VA",
-   "home_state_total": 1522655.37,
-   "home_state_share": 36,
+   "home_state_total": 2065808.51,
+   "home_state_share": 40,
    "top": [
     {
      "state": "VA",
      "state_full": "Virginia",
-     "total": 1522655.37,
-     "count": 5084
+     "total": 2065808.51,
+     "count": 7207
     },
     {
      "state": "FL",
      "state_full": "Florida",
-     "total": 522903.02,
-     "count": 3022
+     "total": 580917.04,
+     "count": 3936
     },
     {
      "state": "TX",
      "state_full": "Texas",
-     "total": 493191.32,
-     "count": 3671
+     "total": 550061.26,
+     "count": 4655
     },
     {
      "state": "CA",
      "state_full": "California",
-     "total": 240802.18,
-     "count": 2836
+     "total": 282718.45,
+     "count": 3626
     },
     {
      "state": "NY",
      "state_full": "New York",
-     "total": 240581.72,
-     "count": 615
+     "total": 278144.39,
+     "count": 748
     },
     {
      "state": "LA",
      "state_full": "Louisiana",
-     "total": 114959.45,
-     "count": 286
+     "total": 118787.68,
+     "count": 374
     },
     {
      "state": "IL",
      "state_full": "Illinois",
-     "total": 91849.26,
-     "count": 1001
-    },
-    {
-     "state": "TN",
-     "state_full": "Tennessee",
-     "total": 70305.19,
-     "count": 928
+     "total": 114189.66,
+     "count": 1354
     },
     {
      "state": "DC",
      "state_full": "District Of Columbia",
-     "total": 68799.08,
-     "count": 166
+     "total": 76778.13,
+     "count": 189
     },
     {
-     "state": "MA",
-     "state_full": "Massachusetts",
-     "total": 56246.97,
-     "count": 526
+     "state": "TN",
+     "state_full": "Tennessee",
+     "total": 73459.37,
+     "count": 1033
+    },
+    {
+     "state": "AZ",
+     "state_full": "Arizona",
+     "total": 68152.1,
+     "count": 1085
     }
    ],
    "note": "Itemized donations from individuals (over $200), by the donor's state."
   },
   "donor_employers": {
-   "top": [],
+   "top": [
+    {
+     "employer": "CHESAPEAKE MANAGEMENT GROUP",
+     "total": 17000.0,
+     "count": 6
+    },
+    {
+     "employer": "COLONNA'S SHIPYARD INC.",
+     "total": 16500.0,
+     "count": 7
+    },
+    {
+     "employer": "ENTREPRENEUR",
+     "total": 16262.94,
+     "count": 18
+    },
+    {
+     "employer": "EAST WEST CONSTRUCTION",
+     "total": 15500.0,
+     "count": 7
+    },
+    {
+     "employer": "FOUNDERS FUND",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ATLANTIC BAY MORTGAGE",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "GENWORTH FINANCIAL INC",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "STEEL AMERICA",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "ROBINSON DEVELOPMENT GROUP",
+     "total": 14000.0,
+     "count": 4
+    },
+    {
+     "employer": "STARKEY HEARING TECHNOLOGIES",
+     "total": 14000.0,
+     "count": 4
+    }
+   ],
    "note": "Itemized donations from individuals (over $200), grouped by the employer donors listed, as spelled in FEC records. Retired, self-employed and not-employed entries are left out."
   }
  },
- "detail_fetched_ts": 1795176937.9121048,
+ "detail_fetched_ts": 1795781980.5237372,
  "sources": {
   "summary": "FEC candidate summary file (weball)",
   "pac_contributions": "FEC contributions from committees to candidates (pas2), direct and in-kind contributions; outside spending from independent expenditures in the same file",
