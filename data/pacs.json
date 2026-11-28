@@ -29309,7 +29309,7 @@
   {
    "id": "C00634261",
    "name": "DEFEND US PAC",
-   "connected_org": null,
+   "connected_org": "NONE",
    "org_type": null,
    "type": "O",
    "designation": "U"
@@ -43080,6 +43080,14 @@
    "connected_org": "NONE",
    "org_type": null,
    "type": "O",
+   "designation": "U"
+  },
+  {
+   "id": "C00800076",
+   "name": "DEFEAT FETTERMAN PAC",
+   "connected_org": "NONE",
+   "org_type": null,
+   "type": "V",
    "designation": "U"
   },
   {

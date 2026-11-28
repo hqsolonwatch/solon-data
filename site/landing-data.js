@@ -584,7 +584,7 @@ var ROLLCALLS = {
 };
 
 var SCHEDULE = {
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "house": {
     "week": "November 30",
     "rows": [
